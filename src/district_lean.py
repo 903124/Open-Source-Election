@@ -54,6 +54,38 @@ The PVI-style summary (``district_pvi_summary.csv``) averages the lean over
 the presidential elections held under each vintage
 (2000s: 2004+2008+2012 · 2010s: 2016+2020 · 2020s: 2024).
 
+Midterm district lean (``--midterm``)
+------------------------------------
+The same Cook-PVI construction measured on the *midterm* ballot instead of
+the presidential one. Midterm years have no presidential race, and Senate /
+statewide votes are reported statewide only (no county or congressional-
+district detail), so the pipeline blends every statewide-level race the
+state actually ran in that midterm — U.S. Senate regular + special races
+and the statewide executive offices (governor, attorney general, secretary
+of state, state treasurer; state-legislature chamber totals optional via
+``--components state-leg``) — into one two-party tally per state, and
+compares it with the same blend summed across all states:
+
+    lean = (state Democratic two-party share - national Democratic
+            two-party share) * 100          →  "D+x.x" / "R+x.x" / "EVEN"
+
+The measure is attached to every congressional district in force under the
+midterm year's map vintage (2006/2010 -> 2000s, 2014/2018 -> 2010s,
+2022 -> 2020s). It is exact for at-large districts (the single seat IS the
+statewide tally) and a statewide baseline for the others, flagged
+``statewide_baseline``. Fusion party lines are summed as reported
+(Working Families / Conservative / Independence votes land in "other",
+excluded from the two-party baseline); ``Total`` rows are excluded;
+write-ins count as "other"; and races where one major party is absent from
+the ballot entirely (top-two / top-four matchups such as CA-2016 or
+AK-2022 senate) are dropped as uninformative.
+
+Midterm outputs (under *output_dir*, default ``data/district_lean/``):
+    district_lean_midterm_{year}.csv   one row per district in force that midterm
+    district_lean_midterm_all.csv      combined across the requested range
+    district_midterm_lean_summary.csv  per-district midterm lean per vintage
+    district_lean_midterm_metadata_{ts}.json  method notes + coverage
+
 Inputs are read-only: this module does NOT fetch anything unless
 ``fetch_missing=True``, in which case missing
 ``presidential_results_{year}.csv`` files are produced on the fly by
@@ -77,6 +109,8 @@ Usage:
     python cli.py lean --start-year 2016 --end-year 2024
     python cli.py lean --fetch-missing                  # fetch missing presidential CSVs first
     python cli.py lean --mapping resources/district_counties.json --presidential-dir data/presidential
+    python cli.py lean --midterm                        # midterm lean from senate+statewide votes
+    python cli.py lean --midterm --components senate,statewide,state-leg
     python cli.py crosswalk                             # regenerate the mapping JSON from geometry
 """
 
@@ -599,6 +633,372 @@ def summarize_pvi(all_frame: pd.DataFrame) -> pd.DataFrame:
 
 
 # ────────────────────────────────────────────────────────────────────────────
+# MIDTERM DISTRICT LEAN (senate + state election votes)
+# ────────────────────────────────────────────────────────────────────────────
+
+#: map vintage in force at each midterm election. The 113th Congress was the
+#: first elected under the 2010s lines (Nov 2012 still voted under the 2000s
+#: map), and the 118th was the first elected under the 2020s lines (2022).
+MIDTERM_VINTAGE_FOR_YEAR: Dict[int, str] = {
+    2006: "2000s", 2010: "2000s",
+    2014: "2010s", 2018: "2010s",
+    2022: "2020s",
+}
+MIDTERM_YEARS: Tuple[int, ...] = tuple(sorted(MIDTERM_VINTAGE_FOR_YEAR))
+
+#: statewide-level vote sources that can enter the midterm blend
+MIDTERM_COMPONENTS: Tuple[str, ...] = ("senate", "statewide", "state-leg")
+
+#: canonical order used to render the ``offices_used`` column
+_OFFICE_ORDER: Tuple[str, ...] = (
+    "senate", "governor", "attorney general", "secretary of state",
+    "state treasurer", "state senate", "state house",
+)
+
+#: full jurisdiction name -> USPS code (the senate CSVs carry names only);
+#: the inverse of the ABBR_FALLBACK_NAMES safety net above
+NAME_TO_ABBR: Dict[str, str] = {v: k for k, v in ABBR_FALLBACK_NAMES.items()}
+
+
+def _state_code_from_name(name) -> Optional[str]:
+    """Map a state/jurisdiction name to its USPS code, tolerating the
+    article-derived suffixes the senate pipeline records verbatim
+    (``"New York (special)"`` -> ``NY``)."""
+    n = re.sub(r"\s*\([^)]*\)\s*$", "", str(name or "").strip())
+    return NAME_TO_ABBR.get(n)
+
+
+def classify_party(label: str) -> str:
+    """Classify a long-form Wikipedia party label as ``D`` / ``R`` / ``O``.
+
+    Unlike :func:`_party_class` (which normalised presidential-CSV labels),
+    the senate / statewide / state-leg families carry verbatim article
+    labels such as ``"Democratic Party (United States)"``,
+    ``"Minnesota Democratic–Farmer–Labor Party"`` or
+    ``"North Dakota Democratic-NPL Party"``. Classification is
+    parenthetical-stripped substring matching, so state branches and DFL /
+    NPL variants classify correctly; labels naming both major parties
+    (ambiguous fusion lines such as ``"Democratic/Republican"``) resolve to
+    ``O`` — excluded from the two-party baseline like any third party.
+    """
+    p = str(label or "").strip().lower()
+    p = unicodedata.normalize("NFKD", p)
+    p = "".join(ch for ch in p if not unicodedata.combining(ch))
+    p = re.sub(r"[–—−]", "-", p)
+    p = re.sub(r"\([^)]*\)", " ", p)          # "(United States)", "(New York)"
+    p = re.sub(r"\b(party|politician|us)\b", " ", p)
+    p = re.sub(r"[^a-z \-]", " ", p)
+    p = re.sub(r"\s+", " ", p).strip()
+    if not p or "write-in" in p or "write in" in p:
+        return "O"
+    has_d = "democrat" in p
+    has_r = "republican" in p
+    if has_d and has_r:
+        return "O"
+    if has_r:
+        return "R"
+    if has_d:
+        return "D"
+    return "O"
+
+
+def _votes_numeric(series: pd.Series) -> pd.Series:
+    """Vote strings ("1,676,335", floats with stray spaces) -> numeric."""
+    return pd.to_numeric(
+        series.astype(str).str.replace(",", "", regex=False).str.strip(),
+        errors="coerce")
+
+
+def load_senate_midterm_races(senate_dir: str, year: int, keep_codes, info: dict):
+    """U.S. Senate general races for *year* -> per-race vote records.
+
+    One record per race article (regular and special elections both kept):
+    ``{"state", "office", "component", "D", "R", "O"}``. ``Total`` turnout
+    rows are excluded; fusion party lines are summed as reported (they land
+    in "O" unless the line itself is a major-party line).
+    """
+    path = os.path.join(senate_dir, f"senate_general_results_{year}.csv")
+    if not os.path.exists(path):
+        info["missing_files"].append(path)
+        return []
+    df = pd.read_csv(path)
+    df = df[df["Row_Type"].fillna("").str.strip().str.lower() != "total"]
+    df = df.assign(state_code=df["State"].map(_state_code_from_name))
+    unknown = sorted(set(df.loc[df["state_code"].isna(), "State"].dropna()))
+    if unknown:
+        info["unknown_states"][f"senate_{year}"] = unknown
+    df = df[df["state_code"].isin(keep_codes)]
+    df = df.assign(_v=_votes_numeric(df["votes"]))
+    df = df[df["_v"] > 0]
+
+    races: List[dict] = []
+    for (code, _election), sub in df.groupby(["state_code", "Election"],
+                                             observed=True):
+        pc = sub["party"].map(classify_party)
+        rec = {"state": code, "office": "senate", "component": "senate"}
+        for cls in ("D", "R", "O"):
+            rec[cls] = float(sub.loc[pc == cls, "_v"].sum())
+        races.append(rec)
+    return races
+
+
+def load_statewide_midterm_races(statewide_dir: str, year: int, keep_codes,
+                                 info: dict):
+    """Statewide executive races for *year* -> per-race vote records.
+
+    One record per office race (governor / attorney general / secretary of
+    state / state treasurer — whichever appear in that cycle's tables).
+    The winner's ``Total`` row (which aggregates a candidate's votes across
+    fusion party lines) is excluded so fusion votes are neither lost nor
+    doubled.
+    """
+    path = os.path.join(statewide_dir, f"statewide_general_results_{year}.csv")
+    if not os.path.exists(path):
+        info["missing_files"].append(path)
+        return []
+    df = pd.read_csv(path)
+    df = df[df["row_type"].fillna("").str.strip().str.lower() != "total"]
+    df = df[df["state_code"].fillna("").isin(keep_codes)]
+    df = df.assign(_v=_votes_numeric(df["votes"]))
+    df = df[df["_v"] > 0]
+
+    races: List[dict] = []
+    for (code, office, _election), sub in df.groupby(
+            ["state_code", "office", "election"], observed=True):
+        pc = sub["party"].map(classify_party)
+        rec = {"state": code, "office": str(office).strip().lower(),
+               "component": "statewide"}
+        for cls in ("D", "R", "O"):
+            rec[cls] = float(sub.loc[pc == cls, "_v"].sum())
+        races.append(rec)
+    return races
+
+
+def load_state_leg_midterm_races(state_leg_dir: str, year: int, keep_codes,
+                                 info: dict):
+    """State-legislature results for *year* -> per-chamber vote records.
+
+    The state-leg CSVs carry votes per state-legislative district. Those
+    districts cannot be mapped to congressional districts (no crosswalk
+    geometry), so they enter the midterm blend aggregated to statewide
+    chamber totals — one record per state per chamber (state senate, state
+    house), summed over every contested district of that chamber.
+    """
+    races: List[dict] = []
+    senate_path = os.path.join(state_leg_dir, f"state_senate_results_{year}.csv")
+    # the shipped layout keeps the two chambers in sibling directories
+    house_dir = os.path.join(
+        os.path.dirname(os.path.abspath(state_leg_dir).rstrip(os.sep)),
+        "state_house")
+    house_path = os.path.join(house_dir, f"state_house_results_{year}.csv")
+    for chamber, path in (("state senate", senate_path),
+                          ("state house", house_path)):
+        if not os.path.exists(path):
+            info["missing_files"].append(path)
+            continue
+        df = pd.read_csv(path)
+        df = df[df["state_code"].fillna("").isin(keep_codes)]
+        df = df.assign(_v=_votes_numeric(df["votes"]))
+        df = df[df["_v"] > 0]
+        pc = df["party"].map(classify_party)
+        # a single statewide aggregate per state x chamber
+        for code, sub in df.groupby("state_code", observed=True):
+            sub_pc = pc.loc[sub.index]
+            rec = {"state": code, "office": chamber, "component": "state-leg"}
+            for cls in ("D", "R", "O"):
+                rec[cls] = float(sub.loc[sub_pc == cls, "_v"].sum())
+            races.append(rec)
+    return races
+
+
+def compute_midterm_state_votes(
+    races: List[dict], info: dict,
+) -> Tuple[Dict[str, Dict[str, float]], Dict[str, dict], Dict[str, float]]:
+    """Blend informative races into per-state two-party tallies.
+
+    A race is *informative* when both major parties polled votes on the
+    ballot; top-two / top-four matchups without one of them (CA-2016-senate
+    D-vs-D, AK-2022-senate R-vs-R, a wholly uncontested write-in race) carry
+    no two-party signal and are dropped. Returns
+    ``(state_votes, state_meta, national)`` where ``state_meta`` carries the
+    per-state race counts and the ``offices_used`` descriptor.
+    """
+    kept: List[dict] = []
+    for r in races:
+        if r["D"] <= 0 or r["R"] <= 0:
+            info["excluded_races"].append({
+                "state": r["state"], "office": r["office"],
+                "d_votes": round(r["D"]), "r_votes": round(r["R"]),
+            })
+            continue
+        kept.append(r)
+
+    state_votes: Dict[str, Dict[str, float]] = {}
+    state_races: Dict[str, Dict[str, int]] = {}
+    state_offices: Dict[str, set] = {}
+    for r in kept:
+        sv = state_votes.setdefault(r["state"], {"D": 0.0, "R": 0.0, "O": 0.0})
+        for cls in ("D", "R", "O"):
+            sv[cls] += r[cls]
+        state_races.setdefault(
+            r["state"], {"senate": 0, "statewide": 0, "state-leg": 0})
+        state_races[r["state"]][r["component"]] += 1
+        state_offices.setdefault(r["state"], set()).add(r["office"])
+
+    state_meta: Dict[str, dict] = {}
+    for code, sv in state_votes.items():
+        state_meta[code] = {
+            "races_used": sum(state_races[code].values()),
+            "senate_races": state_races[code]["senate"],
+            "statewide_races": state_races[code]["statewide"],
+            "stateleg_races": state_races[code]["state-leg"],
+            "offices_used": "; ".join(
+                o for o in _OFFICE_ORDER if o in state_offices[code]),
+        }
+
+    national = {"D": 0.0, "R": 0.0, "O": 0.0}
+    for sv in state_votes.values():
+        for cls in ("D", "R", "O"):
+            national[cls] += sv[cls]
+    return state_votes, state_meta, national
+
+
+_MIDTERM_ROW_FIELDS = [
+    "year", "map_vintage", "state", "state_code", "district", "district_note",
+    "at_large", "statewide_baseline", "races_used", "offices_used",
+    "senate_races", "statewide_races", "stateleg_races", "d_votes", "r_votes",
+    "other_votes", "total_votes", "d_share_two_party_pct",
+    "r_share_two_party_pct", "national_d_share_two_party_pct", "lean_pct",
+    "lean_label",
+]
+
+
+def compute_midterm_year_lean(
+    districts: List[dict],
+    state_votes: Dict[str, Dict[str, float]],
+    state_meta: Dict[str, dict],
+    national: Dict[str, float],
+    year: int,
+) -> Tuple[pd.DataFrame, dict]:
+    """Attach the statewide midterm lean to every district in force that year.
+
+    The state's blended midterm two-party share is compared with the same
+    blend summed across all states (the national midterm baseline) and the
+    resulting lean written on every congressional district of that state
+    under the midterm year's map vintage. For at-large seats this is the
+    district's own exact vote; for the rest it is the honest statewide
+    baseline these sources support (``statewide_baseline=True``).
+    """
+    vintage = MIDTERM_VINTAGE_FOR_YEAR[year]
+    nat_d = national.get("D", 0.0)
+    nat_r = national.get("R", 0.0)
+    nat_tp = nat_d + nat_r
+    nat_d_share = (nat_d / nat_tp * 100.0) if nat_tp else float("nan")
+
+    by_state: Dict[str, List[dict]] = {}
+    for d in districts:
+        if d["vintages"][vintage]["exists"]:
+            by_state.setdefault(d["state_code"], []).append(d)
+
+    rows: List[dict] = []
+    states_without_data: List[str] = []
+    for state_code, dists in sorted(by_state.items()):
+        sv = state_votes.get(state_code)
+        sm = state_meta.get(state_code, {})
+        has = bool(sv) and (sv["D"] + sv["R"]) > 0
+        if has:
+            tp = sv["D"] + sv["R"]
+            d_share = sv["D"] / tp * 100.0
+            r_share = sv["R"] / tp * 100.0
+            lean = d_share - nat_d_share
+            common = {
+                "races_used": sm.get("races_used", 0),
+                "offices_used": sm.get("offices_used", ""),
+                "senate_races": sm.get("senate_races", 0),
+                "statewide_races": sm.get("statewide_races", 0),
+                "stateleg_races": sm.get("stateleg_races", 0),
+                "d_votes": round(sv["D"]),
+                "r_votes": round(sv["R"]),
+                "other_votes": round(sv.get("O", 0.0)),
+                "total_votes": round(sv["D"] + sv["R"] + sv.get("O", 0.0)),
+                "d_share_two_party_pct": round(d_share, 2),
+                "r_share_two_party_pct": round(r_share, 2),
+                "lean_pct": round(lean, 2),
+                "lean_label": lean_label(lean),
+            }
+        else:
+            states_without_data.append(state_code)
+            common = {
+                "races_used": 0, "offices_used": "", "senate_races": 0,
+                "statewide_races": 0, "stateleg_races": 0,
+                "d_votes": 0, "r_votes": 0, "other_votes": 0, "total_votes": 0,
+                "d_share_two_party_pct": None, "r_share_two_party_pct": None,
+                "lean_pct": None, "lean_label": "",
+            }
+        for d in dists:
+            vinfo = d["vintages"][vintage]
+            rows.append({
+                "year": year,
+                "map_vintage": vintage,
+                "state": d["state"],
+                "state_code": state_code,
+                "district": d["district"],
+                "district_note": d["district_note"],
+                "at_large": vinfo["at_large"],
+                "statewide_baseline": True,
+                **common,
+                "national_d_share_two_party_pct": round(nat_d_share, 2),
+            })
+
+    frame = pd.DataFrame(rows, columns=_MIDTERM_ROW_FIELDS)
+    info = {
+        "rows": int(len(frame)),
+        "national": {
+            "d_votes": round(nat_d), "r_votes": round(nat_r),
+            "d_share_two_party_pct": round(nat_d_share, 2) if nat_tp else None,
+        },
+        "states_present": len(state_votes),
+        "states_without_data": states_without_data or None,
+    }
+    return frame, info
+
+
+def summarize_midterm_lean(all_frame: pd.DataFrame) -> pd.DataFrame:
+    """Average the midterm lean over the midterms held under each map
+    vintage (PVI-style: mean state two-party margin minus mean national
+    margin — identical to averaging the yearly leans)."""
+    usable = all_frame.dropna(subset=["lean_pct"])
+    if not len(usable):
+        return pd.DataFrame()
+    grp = usable.groupby(
+        ["state", "state_code", "district", "district_note", "at_large",
+         "map_vintage"], as_index=False).agg(
+        years_used=("year", lambda s: "+".join(str(y) for y in sorted(s))),
+        n_years=("year", "nunique"),
+        midterm_lean_pct=("lean_pct", "mean"),
+        d_share_mean=("d_share_two_party_pct", "mean"),
+        national_d_share_mean=("national_d_share_two_party_pct", "mean"),
+        total_votes_mean=("total_votes", "mean"),
+        races_used_mean=("races_used", "mean"),
+    )
+    grp["midterm_lean_pct"] = grp["midterm_lean_pct"].round(2)
+    grp["d_share_mean"] = grp["d_share_mean"].round(2)
+    grp["national_d_share_mean"] = grp["national_d_share_mean"].round(2)
+    grp["total_votes_mean"] = grp["total_votes_mean"].round(0).astype("Int64")
+    grp["races_used_mean"] = grp["races_used_mean"].round(1)
+    grp["midterm_lean_label"] = grp["midterm_lean_pct"].map(lean_label)
+    grp["statewide_baseline"] = True
+    grp["is_current_map"] = grp["map_vintage"] == "2020s"
+    grp = grp.sort_values(["state_code", "district", "map_vintage"])
+    cols = ["state", "state_code", "district", "district_note", "at_large",
+            "map_vintage", "is_current_map", "years_used", "n_years",
+            "d_share_mean", "national_d_share_mean", "midterm_lean_pct",
+            "midterm_lean_label", "total_votes_mean", "races_used_mean",
+            "statewide_baseline"]
+    return grp[cols].reset_index(drop=True)
+
+
+# ────────────────────────────────────────────────────────────────────────────
 # DRIVER
 # ────────────────────────────────────────────────────────────────────────────
 
@@ -619,6 +1019,196 @@ def _resolve_mapping_path(mapping_path: Optional[str]) -> str:
         f"`cli.py crosswalk` to build it from boundary geometry")
 
 
+def _run_midterm(
+    start_year: int,
+    end_year: int,
+    output_dir: str,
+    mapping_path: Optional[str],
+    components: Tuple[str, ...],
+    senate_dir: Optional[str] = None,
+    statewide_dir: Optional[str] = None,
+    state_leg_dir: Optional[str] = None,
+) -> pd.DataFrame:
+    """Compute the midterm district lean for the midterm years in
+    [start_year, end_year] (see the module docstring for the method).
+
+    Reads ``senate_general_results_{year}.csv``,
+    ``statewide_general_results_{year}.csv`` and (opt-in) the two state-leg
+    chamber CSVs; never fetches. Writes ``district_lean_midterm_{year}.csv``,
+    ``district_lean_midterm_all.csv``, ``district_midterm_lean_summary.csv``
+    and a metadata JSON under ``<output_dir>/district_lean/``.
+    """
+    components = tuple(
+        c.strip().lower() for c in components if str(c).strip())
+    bad = [c for c in components if c not in MIDTERM_COMPONENTS]
+    if bad:
+        raise ValueError(
+            f"Unknown midterm component(s) {bad} — choose from "
+            f"{list(MIDTERM_COMPONENTS)}")
+    if not components:
+        raise ValueError(
+            "No midterm components requested — pass at least one of "
+            f"{list(MIDTERM_COMPONENTS)}")
+
+    years = [y for y in MIDTERM_YEARS if start_year <= y <= end_year]
+    if not years:
+        logger.warning(
+            "No midterm year with a known map vintage in [%d, %d] — "
+            "supported years: %s", start_year, end_year, list(MIDTERM_YEARS))
+        return pd.DataFrame()
+
+    mapping_file = _resolve_mapping_path(mapping_path)
+    lean_dir = os.path.join(output_dir, "district_lean")
+    os.makedirs(lean_dir, exist_ok=True)
+    senate_dir = senate_dir or os.path.join(output_dir, "senate")
+    statewide_dir = statewide_dir or os.path.join(output_dir, "statewide")
+    state_leg_dir = state_leg_dir or os.path.join(output_dir, "state_senate")
+
+    # the mapping supplies the district universe per map vintage (no county
+    # allocation happens in the midterm path — votes are statewide)
+    logger.info("District universe from mapping: %s", mapping_file)
+    districts, _map_meta = load_district_map(mapping_file)
+    keep_codes = sorted({d["state_code"] for d in districts})
+    logger.info(
+        "Midterm lean %d-%d from %s (districts across vintages %s)",
+        years[0], years[-1], " + ".join(components), ", ".join(MAP_VINTAGES))
+
+    meta: dict = {
+        "method": {
+            "lean": "state midterm Democratic two-party share minus national "
+                    "midterm Democratic two-party share (Cook-PVI "
+                    "construction on the midterm ballot), attached to every "
+                    "district of the state — exact for at-large districts, "
+                    "statewide baseline for the rest (statewide_baseline)",
+            "components": {
+                "senate": "U.S. Senate general races (regular + special) "
+                          "from data/senate/senate_general_results_{year}.csv",
+                "statewide": "governor / attorney general / secretary of "
+                             "state / state treasurer races from "
+                             "data/statewide/statewide_general_results_{year}.csv",
+                "state-leg": "state senate + state house votes aggregated to "
+                             "statewide chamber totals from data/state_senate/ "
+                             "and data/state_house/ (state-leg districts "
+                             "cannot be mapped to congressional districts, so "
+                             "they enter only as chamber sums)",
+            },
+            "components_used": list(components),
+            "two_party": "party lines summed as reported: fusion lines "
+                         "(Working Families, Conservative, Independence, ...) "
+                         "count on their own line party and land in "
+                         "other_votes, excluded from the two-party baseline; "
+                         "Total rows excluded; write-ins = other",
+            "race_exclusion": "races where a major party polled zero votes "
+                              "(top-two / top-four matchups such as CA 2016 "
+                              "or AK 2022 senate) are dropped as "
+                              "uninformative before blending",
+            "national_baseline": "the same component blend summed over all "
+                                 "district-map states with data; territories "
+                                 "(PR, GU, MP, ...) excluded",
+            "map_vintage_for_year": {str(k): v for k, v
+                                     in MIDTERM_VINTAGE_FOR_YEAR.items()},
+            "caveats": [
+                "senate/statewide votes carry no county or congressional-"
+                "district detail, so the midterm lean is uniform within each "
+                "state; it is an exact district measure only for at-large "
+                "seats",
+                "the blend follows each state's actual ballot (not every "
+                "state has a senate race up; AG appears from 2018, SoS/"
+                "treasurer from 2022), so national baselines are not directly "
+                "comparable across years",
+                "the 2020s crosswalk snapshot includes the 2024 AL/GA/LA/NY/"
+                "NC court redraws, while the 2022 midterms voted on the "
+                "pre-redraw lines",
+                "DC has no senate race and no statewide-executive rows in "
+                "the source tables, so DC-AL carries no midterm lean",
+            ],
+        },
+        "years": {},
+    }
+
+    all_frames: List[pd.DataFrame] = []
+    for year in years:
+        info: dict = {"missing_files": [], "unknown_states": {},
+                      "excluded_races": []}
+        races: List[dict] = []
+        if "senate" in components:
+            races += load_senate_midterm_races(senate_dir, year, keep_codes,
+                                               info)
+        if "statewide" in components:
+            races += load_statewide_midterm_races(statewide_dir, year,
+                                                  keep_codes, info)
+        if "state-leg" in components:
+            races += load_state_leg_midterm_races(state_leg_dir, year,
+                                                  keep_codes, info)
+        if not races:
+            logger.warning(
+                "%d — no midterm vote rows found (components %s); skipping "
+                "(run `cli.py senate` / `statewide` / `state-leg` first)",
+                year, list(components))
+            meta["years"][year] = {
+                "skipped": "no input rows",
+                "missing_files": info["missing_files"] or None,
+            }
+            continue
+
+        state_votes, state_meta, national = compute_midterm_state_votes(
+            races, info)
+        if not state_votes:
+            logger.warning(
+                "%d — every race was excluded as uninformative; skipped", year)
+            meta["years"][year] = {
+                "skipped": "all races excluded",
+                "excluded_races": info["excluded_races"] or None,
+            }
+            continue
+
+        frame, year_info = compute_midterm_year_lean(
+            districts, state_votes, state_meta, national, year)
+        path = os.path.join(lean_dir, f"district_lean_midterm_{year}.csv")
+        frame.to_csv(path, index=False)
+        logger.info(
+            "  %d [%s map] %d districts from %d states, national D two-party "
+            "%s%% -> %s",
+            year, MIDTERM_VINTAGE_FOR_YEAR[year], len(frame),
+            year_info["states_present"],
+            year_info["national"]["d_share_two_party_pct"], path)
+        meta["years"][year] = {
+            "vintage": MIDTERM_VINTAGE_FOR_YEAR[year],
+            **year_info,
+            "excluded_races": info["excluded_races"] or None,
+            "unknown_states": info["unknown_states"] or None,
+            "missing_files": info["missing_files"] or None,
+            "state_race_counts": {
+                code: state_meta[code]["races_used"] for code in state_meta},
+            "state_offices": {
+                code: state_meta[code]["offices_used"] for code in state_meta},
+        }
+        all_frames.append(frame)
+
+    if not all_frames:
+        logger.warning("No midterm lean rows computed — nothing written.")
+        return pd.DataFrame()
+
+    combined = pd.concat(all_frames, ignore_index=True)
+    path = os.path.join(lean_dir, "district_lean_midterm_all.csv")
+    combined.to_csv(path, index=False)
+    logger.info("Combined -> %s (%s rows)", path, f"{len(combined):,}")
+
+    summary = summarize_midterm_lean(combined)
+    if len(summary):
+        path = os.path.join(lean_dir, "district_midterm_lean_summary.csv")
+        summary.to_csv(path, index=False)
+        logger.info("Midterm summary -> %s (%s rows)", path,
+                    f"{len(summary):,}")
+
+    ts = time.strftime("%Y%m%d_%H%M%S")
+    with open(os.path.join(lean_dir,
+                           f"district_lean_midterm_metadata_{ts}.json"), "w",
+              encoding="utf-8") as fh:
+        json.dump(meta, fh, indent=2, default=str)
+    return combined
+
+
 def run(
     start_year: int = 2004,
     end_year: int = 2024,
@@ -627,15 +1217,34 @@ def run(
     presidential_dir: Optional[str] = None,
     client=None,
     fetch_missing: bool = False,
+    midterm: bool = False,
+    midterm_components: Tuple[str, ...] = ("senate", "statewide"),
+    senate_dir: Optional[str] = None,
+    statewide_dir: Optional[str] = None,
+    state_leg_dir: Optional[str] = None,
 ) -> pd.DataFrame:
-    """Compute predicted district partisan leans for the presidential years
-    in [start_year, end_year], writing CSVs under
+    """Compute predicted district partisan leans, writing CSVs under
     ``<output_dir>/district_lean/``.
 
-    Years without a local ``presidential_results_{year}.csv`` are skipped
-    (with a warning) unless *fetch_missing* is True, in which case
-    ``presidential_elections.run`` produces them first via the API.
+    Default (``midterm=False``): the presidential-year lean for every
+    presidential year in [start_year, end_year]. Years without a local
+    ``presidential_results_{year}.csv`` are skipped (with a warning) unless
+    *fetch_missing* is True, in which case ``presidential_elections.run``
+    produces them first via the API.
+
+    ``midterm=True``: the midterm district lean for every midterm year in
+    [start_year, end_year], blending senate + state-election votes
+    (components selectable via *midterm_components*; see the module
+    docstring). Never fetches — run the senate/statewide/state-leg
+    pipelines first.
     """
+    if midterm:
+        return _run_midterm(
+            start_year=start_year, end_year=end_year, output_dir=output_dir,
+            mapping_path=mapping_path, components=midterm_components,
+            senate_dir=senate_dir, statewide_dir=statewide_dir,
+            state_leg_dir=state_leg_dir)
+
     years = [y for y in LEAN_YEARS if start_year <= y <= end_year]
     if not years:
         logger.warning(

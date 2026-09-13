@@ -21,7 +21,12 @@ Subcommands:
     presidential  Parse county-level presidential results per state.
     lean       Predicted partisan lean per congressional district from the
                district->county mapping (resources/district_counties.json)
-               + county presidential votes (supports 2004-2024).
+               + county presidential votes (supports 2004-2024). With
+               --midterm, computes the midterm district lean instead:
+               a Cook-PVI-style lean built from senate + state-election
+               votes (senate general races + governor/AG/SoS/treasurer,
+               optionally state-leg chamber totals via --components) for
+               the midterm years 2006-2022.
     crosswalk  Rebuild resources/district_counties.json from boundary
                geometry (UCLA cdmaps x 2010 Census counties; ~185 MB of
                cached, resumable downloads; needs shapely + pyproj).
@@ -55,6 +60,9 @@ Examples:
     python cli.py presidential --start-year 2020 --end-year 2024
     python cli.py lean                     # 2004-2024 from local presidential CSVs
     python cli.py lean --fetch-missing     # fetch missing presidential years first
+    python cli.py lean --midterm           # midterm lean from senate + statewide votes
+    python cli.py lean --midterm --components senate,statewide,state-leg
+    python cli.py lean --midterm --start-year 2014 --end-year 2018
     python cli.py crosswalk                # regenerate the district->county mapping
     python cli.py polling-check            # QC polling CSVs (size + data sanity)
     python cli.py fetch "2018 United States Senate election in Arizona"
@@ -201,6 +209,36 @@ def build_parser() -> argparse.ArgumentParser:
     lean.add_argument(
         "--fetch-missing", action="store_true",
         help="Fetch missing presidential years via the API before computing",
+    )
+    lean.add_argument(
+        "--midterm", action="store_true",
+        help="Compute the midterm district lean (2006-2022) from senate + "
+             "state-election votes instead of the presidential county-based "
+             "lean: each state's blended two-party share in its midterm "
+             "races vs the same blend nationally, attached to every "
+             "district in force that year",
+    )
+    lean.add_argument(
+        "--components", default="senate,statewide",
+        help="Comma-separated midterm vote sources, out of: senate, "
+             "statewide, state-leg (default: senate,statewide; state-leg "
+             "enters as statewide chamber totals)",
+    )
+    lean.add_argument(
+        "--senate-dir", default=None,
+        help="Directory holding senate_general_results_{year}.csv "
+             "(default: <output>/senate)",
+    )
+    lean.add_argument(
+        "--statewide-dir", default=None,
+        help="Directory holding statewide_general_results_{year}.csv "
+             "(default: <output>/statewide)",
+    )
+    lean.add_argument(
+        "--state-leg-dir", default=None,
+        help="Directory holding state_senate_results_{year}.csv; the state "
+             "house file is looked up in the sibling state_house/ directory "
+             "(default: <output>/state_senate)",
     )
 
     crosswalk = sub.add_parser(
@@ -385,20 +423,40 @@ def main(argv: Optional[List[str]] = None) -> int:
         )
 
     if args.command in ("lean", "all"):
-        # the crosswalk only covers the 2000s/2010s/2020s maps, so lean is
-        # always computed across the full 2004-2024 range regardless of the
-        # year inputs (which stay authoritative for the other pipelines)
-        lean_start = args.start_year if args.command == "lean" else min(args.start_year, 2004)
-        lean_end = args.end_year if args.command == "lean" else min(args.end_year, 2024)
-        district_lean.run(
-            start_year=lean_start,
-            end_year=lean_end,
-            output_dir=args.output,
-            client=client,
-            mapping_path=getattr(args, "mapping", None),
-            presidential_dir=getattr(args, "presidential_dir", None),
-            fetch_missing=getattr(args, "fetch_missing", False),
-        )
+        if getattr(args, "midterm", False) or args.command == "all":
+            # the midterm lean always spans every supported midterm year
+            # (2006-2022) in `all` mode, mirroring the presidential lean
+            mid_start = args.start_year if args.command == "lean" else min(args.start_year, 2006)
+            mid_end = args.end_year if args.command == "lean" else min(args.end_year, 2022)
+            components = tuple(
+                c for c in getattr(args, "components", "senate,statewide")
+                .replace(" ", "").split(",") if c)
+            district_lean.run(
+                start_year=mid_start,
+                end_year=mid_end,
+                output_dir=args.output,
+                mapping_path=getattr(args, "mapping", None),
+                midterm=True,
+                midterm_components=components,
+                senate_dir=getattr(args, "senate_dir", None),
+                statewide_dir=getattr(args, "statewide_dir", None),
+                state_leg_dir=getattr(args, "state_leg_dir", None),
+            )
+        if not getattr(args, "midterm", False):
+            # the crosswalk only covers the 2000s/2010s/2020s maps, so lean is
+            # always computed across the full 2004-2024 range regardless of the
+            # year inputs (which stay authoritative for the other pipelines)
+            lean_start = args.start_year if args.command == "lean" else min(args.start_year, 2004)
+            lean_end = args.end_year if args.command == "lean" else min(args.end_year, 2024)
+            district_lean.run(
+                start_year=lean_start,
+                end_year=lean_end,
+                output_dir=args.output,
+                client=client,
+                mapping_path=getattr(args, "mapping", None),
+                presidential_dir=getattr(args, "presidential_dir", None),
+                fetch_missing=getattr(args, "fetch_missing", False),
+            )
 
     logger.info(
         "All requested pipelines finished. Output: %s/{senate,house,state_senate,"
