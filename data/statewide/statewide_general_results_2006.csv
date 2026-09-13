@@ -36,6 +36,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2006,California,CA,governor,"California gubernatorial election, 2006",Candidate,Vibert Greene (write-in),Independent,18,0.0,False,False
 2006,California,CA,governor,"California gubernatorial election, 2006",Candidate,Dealphria Tarver (write-in),Independent,6,0.0,False,False
 2006,California,CA,governor,"California gubernatorial election, 2006",Total,,,8679416,100.0,False,False
+2006,Colorado,CO,governor,2006 Colorado gubernatorial election,Winning,Bill Ritter,Democratic,887986,56.99,True,False
+2006,Colorado,CO,governor,2006 Colorado gubernatorial election,Candidate,Bob Beauprez,Republican,625886,40.17,False,False
+2006,Colorado,CO,governor,2006 Colorado gubernatorial election,Candidate,Dawn Winkler-Kinateder,Libertarian,23323,1.5,False,False
+2006,Colorado,CO,governor,2006 Colorado gubernatorial election,Candidate,Paul Noel Fiorino,Independent,10996,0.71,False,False
+2006,Colorado,CO,governor,2006 Colorado gubernatorial election,Candidate,Clyde J. Harkins,Constitution,9716,0.62,False,False
+2006,Colorado,CO,governor,2006 Colorado gubernatorial election,Write-in,Write-ins,Write-ins,370,0.02,False,False
 2006,Connecticut,CT,governor,2006 Connecticut gubernatorial election,Winning,Jodi Rell,Republican,710048,63.22,True,True
 2006,Connecticut,CT,governor,2006 Connecticut gubernatorial election,Candidate,John DeStefano Jr.,Democratic,398220,35.45,False,False
 2006,Connecticut,CT,governor,2006 Connecticut gubernatorial election,Candidate,Cliff Thornton,Green,9584,0.85,False,False

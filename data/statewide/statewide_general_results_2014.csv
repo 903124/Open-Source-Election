@@ -20,11 +20,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Curtis Woolsey (write-in),None,15,,False,False
 2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Diane-Elizabeth R.R. Kennedy (write-in),Independent,7,,False,False
 2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Total,,,1506416,100.0,False,False
-2014,Arkansas,AR,governor,"Arkansas gubernatorial election, 2014",Winning,Asa Hutchinson,Republican,470429,55.44,True,False
-2014,Arkansas,AR,governor,"Arkansas gubernatorial election, 2014",Candidate,Mike Ross,Democratic,352115,41.49,False,False
-2014,Arkansas,AR,governor,"Arkansas gubernatorial election, 2014",Candidate,Frank Gilbert,Libertarian,16319,1.92,False,False
-2014,Arkansas,AR,governor,"Arkansas gubernatorial election, 2014",Candidate,Josh Drake,Green,9729,1.15,False,False
-2014,Arkansas,AR,governor,"Arkansas gubernatorial election, 2014",Total,,,848592,100.0,False,False
+2014,Arkansas,AR,governor,2014 Arkansas gubernatorial election,Winning,Asa Hutchinson,Republican,470429,55.44,True,False
+2014,Arkansas,AR,governor,2014 Arkansas gubernatorial election,Candidate,Mike Ross,Democratic,352115,41.49,False,False
+2014,Arkansas,AR,governor,2014 Arkansas gubernatorial election,Candidate,Frank Gilbert,Libertarian,16319,1.92,False,False
+2014,Arkansas,AR,governor,2014 Arkansas gubernatorial election,Candidate,Josh Drake,Green,9729,1.15,False,False
+2014,Arkansas,AR,governor,2014 Arkansas gubernatorial election,Total,,,848592,100.0,False,False
 2014,California,CA,governor,2014 California gubernatorial election,Winning,Jerry Brown,Democratic,4388368,59.97,True,True
 2014,California,CA,governor,2014 California gubernatorial election,Candidate,Neel Kashkari,Republican,2929213,40.03,False,False
 2014,California,CA,governor,2014 California gubernatorial election,Total,,,7317581,100.0,False,False
