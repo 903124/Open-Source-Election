@@ -250,6 +250,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Michigan,MI,secretary of state,Garlin Gilchrist,Democratic,,False,False
 2026,Minnesota,MN,secretary of state,Tad Jude,Republican,,False,False
 2026,Minnesota,MN,secretary of state,Steve Simon,Democratic,,False,True
+2026,Nebraska,NE,secretary of state,Bob Krist,Other,,False,False
 2026,Nebraska,NE,secretary of state,Scott Petersen,Republican,,False,False
 2026,Nebraska,NE,secretary of state,Sarah Slattery,Democratic,,False,False
 2026,Nevada,NV,secretary of state,Jim Marchant,Republican,,False,False
@@ -266,7 +267,6 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Rhode Island,RI,secretary of state,Gregg Amore,Democratic,,False,True
 2026,South Carolina,SC,secretary of state,Jason Belton,Democratic,,False,False
 2026,South Carolina,SC,secretary of state,Mark Hammond,Republican,,False,True
-2026,South Carolina,SC,secretary of state,Edwina Winter,Democratic,,False,False
 2026,South Dakota,SD,secretary of state,Heather Baxter,Republican,,False,False
 2026,South Dakota,SD,secretary of state,Terrence Davis,Democratic,,False,False
 2026,Vermont,VT,secretary of state,Sarah Copeland Hanzas,Democratic,,False,True

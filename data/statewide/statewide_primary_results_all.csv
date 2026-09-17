@@ -6906,19 +6906,19 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2025,New Jersey,NJ,governor,Republican primary results,Candidate,Mario Kranjac,Republican,12782.0,2.74,False,False
 2025,New Jersey,NJ,governor,Republican primary results,Candidate,Justin Barbera,Republican,6743.0,1.45,False,False
 2025,New Jersey,NJ,governor,Republican primary results,Total,,,466346.0,100.0,False,False
-2026,Alabama,AL,attorney general,Republican primary,Winning,Katherine Robertson,Republican,189183,40.53,True,False
-2026,Alabama,AL,attorney general,Republican primary,Winning,Jay Mitchell,Republican,160616,34.41,True,False
-2026,Alabama,AL,attorney general,Republican primary,Total,,,466730,100.0,False,False
-2026,Alabama,AL,attorney general,Republican primary runoff,Winning,Katherine Robertson,Republican,168424,55.07,True,False
-2026,Alabama,AL,attorney general,Republican primary runoff,Candidate,Jay Mitchell,Republican,137412,44.93,False,False
+2026,Alabama,AL,attorney general,Republican primary results,Winning,Katherine Robertson,Republican,189183,40.5,True,False
+2026,Alabama,AL,attorney general,Republican primary results,Winning,Jay Mitchell,Republican,160616,34.4,True,False
+2026,Alabama,AL,attorney general,Republican primary results,Total,,,466730,100.0,False,False
+2026,Alabama,AL,attorney general,Republican primary runoff,Winning,Katherine Robertson,Republican,168424,55.1,True,False
+2026,Alabama,AL,attorney general,Republican primary runoff,Candidate,Jay Mitchell,Republican,137412,44.9,False,False
 2026,Alabama,AL,attorney general,Republican primary runoff,Total,,,305836,100.0,False,False
-2026,Alabama,AL,secretary of state,Republican primary,Winning,Caroleene Dobson,Republican,286914,65.48,True,False
-2026,Alabama,AL,secretary of state,Republican primary,Candidate,Christopher Christian Horn,Republican,99108,22.62,False,False
-2026,Alabama,AL,secretary of state,Republican primary,Candidate,Glenda S. Jackson,Republican,52173,11.91,False,False
+2026,Alabama,AL,secretary of state,Republican primary,Winning,Caroleene Dobson,Republican,286914,65.5,True,False
+2026,Alabama,AL,secretary of state,Republican primary,Candidate,Christopher Christian Horn,Republican,99108,22.6,False,False
+2026,Alabama,AL,secretary of state,Republican primary,Candidate,Glenda S. Jackson,Republican,52173,11.9,False,False
 2026,Alabama,AL,secretary of state,Republican primary,Total,,,438195,100.0,False,False
-2026,Alabama,AL,state treasurer,Republican primary,Winning,Young Boozer,Republican,306295,68.04,True,True
-2026,Alabama,AL,state treasurer,Republican primary,Candidate,Steve Lolley,Republican,143864,31.96,False,False
-2026,Alabama,AL,state treasurer,Republican primary,Total,,,450159,100.0,False,False
+2026,Alabama,AL,state treasurer,Republican primary results,Winning,Young Boozer,Republican,306295,68.0,True,True
+2026,Alabama,AL,state treasurer,Republican primary results,Candidate,Steve Lolley,Republican,143864,32.0,False,False
+2026,Alabama,AL,state treasurer,Republican primary results,Total,,,450159,100.0,False,False
 2026,Alabama,AL,governor,Republican primary,Winning,Tommy Tuberville,Republican,421754,85.4,True,False
 2026,Alabama,AL,governor,Republican primary,Candidate,Ken McFeeters,Republican,47166,9.6,False,False
 2026,Alabama,AL,governor,Republican primary,Candidate,"""Alabama"" Will Santivasci",Republican,24456,5.0,False,False
@@ -6980,13 +6980,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Arizona,AZ,governor,Green primary results,Candidate,Athena Eastwood (write-in),Green,4,0.6,False,False
 2026,Arizona,AZ,governor,Green primary results,Candidate,William Pounds (write-in),Green,4,0.6,False,False
 2026,Arizona,AZ,governor,Green primary results,Total,,,640,100.0,False,False
-2026,Arkansas,AR,secretary of state,Republican primary,Winning,Bryan Norris,Republican,91933,34.3,True,False
-2026,Arkansas,AR,secretary of state,Republican primary,Winning,Kim Hammer,Republican,90003,33.6,True,False
-2026,Arkansas,AR,secretary of state,Republican primary,Candidate,Cathy Hardin Harrison,Republican,85854,32.1,False,False
-2026,Arkansas,AR,secretary of state,Republican primary,Total,,,267790,100.0,False,False
-2026,Arkansas,AR,secretary of state,Republican primary runoff,Winning,Kim Hammer,Republican,40945,50.6,True,False
-2026,Arkansas,AR,secretary of state,Republican primary runoff,Candidate,Bryan Norris,Republican,40032,49.4,False,False
-2026,Arkansas,AR,secretary of state,Republican primary runoff,Total,,,80977,100.0,False,False
+2026,Arkansas,AR,secretary of state,Republican primary results,Winning,Bryan Norris,Republican,91933,34.3,True,False
+2026,Arkansas,AR,secretary of state,Republican primary results,Winning,Kim Hammer,Republican,90003,33.6,True,False
+2026,Arkansas,AR,secretary of state,Republican primary results,Candidate,Cathy Hardin Harrison,Republican,85854,32.1,False,False
+2026,Arkansas,AR,secretary of state,Republican primary results,Total,,,267790,100.0,False,False
+2026,Arkansas,AR,secretary of state,Republican primary runoff results,Winning,Kim Hammer,Republican,40945,50.6,True,False
+2026,Arkansas,AR,secretary of state,Republican primary runoff results,Candidate,Bryan Norris,Republican,40032,49.4,False,False
+2026,Arkansas,AR,secretary of state,Republican primary runoff results,Total,,,80977,100.0,False,False
 2026,Arkansas,AR,governor,Democratic primary results,Winning,Fredrick Love,Democratic,104725,81.0,True,False
 2026,Arkansas,AR,governor,Democratic primary results,Candidate,Supha Xayprasith-Mays,Democratic,24520,19.0,False,False
 2026,Arkansas,AR,governor,Democratic primary results,Total,,,129245,100.0,False,False
@@ -7393,11 +7393,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Nebraska,NE,attorney general,Republican primary,Total,,,161220,100.0,False,False
 2026,Nebraska,NE,attorney general,Democratic primary,Winning,Jocelyn Brasher,Democratic,111939,100.0,True,False
 2026,Nebraska,NE,attorney general,Democratic primary,Total,,,111939,100.0,False,False
-2026,Nebraska,NE,secretary of state,Republican primary,Winning,Scott Petersen,Republican,97430,54.64,True,False
-2026,Nebraska,NE,secretary of state,Republican primary,Candidate,Bob Evnen,Republican,80850,45.36,False,True
-2026,Nebraska,NE,secretary of state,Republican primary,Total,,,178280,100.0,False,False
-2026,Nebraska,NE,secretary of state,Democratic primary,Winning,Sarah Slattery,Democratic,109344,91.16,True,False
-2026,Nebraska,NE,secretary of state,Democratic primary,Candidate,Lee Cimfel,Democratic,10608,8.84,False,False
+2026,Nebraska,NE,secretary of state,Republican primary results,Winning,Scott Petersen,Republican,97430,54.6,True,False
+2026,Nebraska,NE,secretary of state,Republican primary results,Candidate,Bob Evnen,Republican,80850,45.4,False,True
+2026,Nebraska,NE,secretary of state,Republican primary results,Total,,,178280,100.0,False,False
+2026,Nebraska,NE,secretary of state,Democratic primary,Winning,Sarah Slattery,Democratic,109344,91.2,True,False
+2026,Nebraska,NE,secretary of state,Democratic primary,Candidate,Lee Cimfel,Democratic,10608,8.8,False,False
 2026,Nebraska,NE,secretary of state,Democratic primary,Total,,,119952,100.0,False,False
 2026,Nebraska,NE,state treasurer,Republican primary,Winning,Joey Spellerberg,Republican,156208,100.0,True,True
 2026,Nebraska,NE,state treasurer,Republican primary,Total,,,156208,100.0,False,False
@@ -7494,31 +7494,31 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,North Dakota,ND,secretary of state,Democratic–NPL primary results,Winning,Ryan Braunberger,North Dakota Democratic–nonpartisan League,34180,99.8,True,False
 2026,North Dakota,ND,secretary of state,Democratic–NPL primary results,Write-in,,,62,0.2,False,False
 2026,North Dakota,ND,secretary of state,Democratic–NPL primary results,Total,,,34242,100.0,False,False
-2026,Ohio,OH,attorney general,Republican primary,Winning,Keith Faber,Republican,698856,100.0,True,False
-2026,Ohio,OH,attorney general,Republican primary,Total,,,698856,100.0,False,False
-2026,Ohio,OH,attorney general,Democratic primary,Winning,John Kulewicz,Democratic,445336,63.1,True,False
-2026,Ohio,OH,attorney general,Democratic primary,Candidate,Elliot Forhan,Democratic,260407,36.9,False,False
-2026,Ohio,OH,attorney general,Democratic primary,Total,,,705743,100.0,False,False
-2026,Ohio,OH,secretary of state,Republican primary,Winning,Robert Sprague,Republican,543551,70.21,True,False
-2026,Ohio,OH,secretary of state,Republican primary,Candidate,Marcell Strbich,Republican,230584,29.79,False,False
+2026,Ohio,OH,attorney general,Republican primary results,Winning,Keith Faber,Republican,698856,100.0,True,False
+2026,Ohio,OH,attorney general,Republican primary results,Total,,,698856,100.0,False,False
+2026,Ohio,OH,attorney general,Democratic primary results,Winning,John Kulewicz,Democratic,445336,63.1,True,False
+2026,Ohio,OH,attorney general,Democratic primary results,Candidate,Elliot Forhan,Democratic,260407,36.9,False,False
+2026,Ohio,OH,attorney general,Democratic primary results,Total,,,705743,100.0,False,False
+2026,Ohio,OH,secretary of state,Republican primary,Winning,Robert Sprague,Republican,543551,70.2,True,False
+2026,Ohio,OH,secretary of state,Republican primary,Candidate,Marcell Strbich,Republican,230584,29.8,False,False
 2026,Ohio,OH,secretary of state,Republican primary,Total,,,774135,100.0,False,False
-2026,Ohio,OH,secretary of state,Democratic primary,Winning,Allison Russo,Democratic,487313,67.4,True,False
-2026,Ohio,OH,secretary of state,Democratic primary,Candidate,Bryan Hambley,Democratic,235668,32.6,False,False
-2026,Ohio,OH,secretary of state,Democratic primary,Total,,,722981,100.0,False,False
-2026,Ohio,OH,secretary of state,Libertarian primary,Winning,Tom Pruss,Libertarian,8633,100.0,True,False
-2026,Ohio,OH,secretary of state,Libertarian primary,Total,,,8633,100.0,False,False
-2026,Ohio,OH,state treasurer,Republican primary,Winning,Jay Edwards,Republican,412114,53.06,True,False
-2026,Ohio,OH,state treasurer,Republican primary,Candidate,Kristina Roegner,Republican,364556,46.94,False,False
-2026,Ohio,OH,state treasurer,Republican primary,Total,,,776670,100.0,False,False
-2026,Ohio,OH,state treasurer,Democratic primary,Winning,Seth Walsh,Democratic,677424,100.0,True,False
-2026,Ohio,OH,state treasurer,Democratic primary,Total,,,677424,100.0,False,False
-2026,Ohio,OH,governor,Republican primary,Winning,Vivek Ramaswamy,Republican,676562,82.43,True,False
-2026,Ohio,OH,governor,Republican primary,Candidate,Casey Putsch,Republican,144184,17.57,False,False
+2026,Ohio,OH,secretary of state,Democratic primary results,Winning,Allison Russo,Democratic,487313,67.4,True,False
+2026,Ohio,OH,secretary of state,Democratic primary results,Candidate,Bryan Hambley,Democratic,235668,32.6,False,False
+2026,Ohio,OH,secretary of state,Democratic primary results,Total,,,722981,100.0,False,False
+2026,Ohio,OH,secretary of state,Libertarian primary results,Winning,Tom Pruss,Libertarian,8633,100.0,True,False
+2026,Ohio,OH,secretary of state,Libertarian primary results,Total,,,8633,100.0,False,False
+2026,Ohio,OH,state treasurer,Republican primary results,Winning,Jay Edwards,Republican,412114,53.1,True,False
+2026,Ohio,OH,state treasurer,Republican primary results,Candidate,Kristina Roegner,Republican,364556,46.9,False,False
+2026,Ohio,OH,state treasurer,Republican primary results,Total,,,776670,100.0,False,False
+2026,Ohio,OH,state treasurer,Democratic primary results,Winning,Seth Walsh,Democratic,677424,100.0,True,False
+2026,Ohio,OH,state treasurer,Democratic primary results,Total,,,677424,100.0,False,False
+2026,Ohio,OH,governor,Republican primary,Winning,Vivek Ramaswamy,Republican,676562,82.4,True,False
+2026,Ohio,OH,governor,Republican primary,Candidate,Casey Putsch,Republican,144184,17.6,False,False
 2026,Ohio,OH,governor,Republican primary,Total,,,820746,100.0,False,False
 2026,Ohio,OH,governor,Democratic primary,Winning,Amy Acton,Democratic,767360,100.0,True,False
 2026,Ohio,OH,governor,Democratic primary,Total,,,767360,100.0,False,False
-2026,Ohio,OH,governor,Libertarian primary,Winning,Don Kissick,Libertarian,8705,97.97,True,False
-2026,Ohio,OH,governor,Libertarian primary,Candidate,Travis Jon Vought,Libertarian,180,2.03,False,False
+2026,Ohio,OH,governor,Libertarian primary,Winning,Don Kissick,Libertarian,8705,97.8,True,False
+2026,Ohio,OH,governor,Libertarian primary,Candidate,Travis Jon Vought,Libertarian,180,2.2,False,False
 2026,Ohio,OH,governor,Libertarian primary,Total,,,8885,100.0,False,False
 2026,Oklahoma,OK,attorney general,Republican primary results,Winning,Jon Echols,Republican,207832,55.0,True,False
 2026,Oklahoma,OK,attorney general,Republican primary results,Candidate,Jeff Starling,Republican,170061,45.0,False,False
