@@ -16,7 +16,7 @@ and etiquette policy.
 | `house` | U.S. House general-election results by district | `data/house/` | 1910–2024 |
 | `state-leg` | State senates and state houses/assemblies | `data/state_senate/`, `data/state_house/` | 2000–2024 |
 | `statewide` | Governor, Attorney General, Secretary of State, State Treasurer | `data/statewide/` | 1980–2024 |
-| `presidential` | Presidential results by county, parish, or ward for all 50 states + D.C. | `data/presidential/` | presidential years (2004–2024 verified) |
+| `presidential` | Presidential results by county, parish, or ward for all 50 states + D.C. | `data/presidential/` | 1920-2024 |
 | `lean` | Predicted partisan lean per congressional district | `data/district_lean/` | 2004–2024 |
 | `crosswalk` | Regenerate the district→county mapping from public boundary geometry | `resources/district_counties.json` | 2004–2024 |
 
