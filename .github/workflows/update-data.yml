@@ -41,7 +41,7 @@ on:
       start_year:
         description: "First election year to process (inclusive)"
         required: false
-        default: "2018"
+        default: "2026"
       end_year:
         description: "Last election year when 'run through current year' is off (inclusive)"
         required: false
