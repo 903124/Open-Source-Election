@@ -26,12 +26,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2020,Missouri,MO,state treasurer,2020 Missouri State Treasurer election,Candidate,Nick Kasoff,Libertarian,64615,2.19,False,False
 2020,Missouri,MO,state treasurer,2020 Missouri State Treasurer election,Candidate,Joseph Civettini,Green,19107,0.65,False,False
 2020,Missouri,MO,state treasurer,2020 Missouri State Treasurer election,Total,,,2949212,100.0,False,False
-2020,Missouri,MO,governor,"Missouri gubernatorial election, 2020",Winning,Mike Parson,Republican,1720202,57.11,True,True
-2020,Missouri,MO,governor,"Missouri gubernatorial election, 2020",Candidate,Nicole Galloway,Democratic,1225771,40.69,False,False
-2020,Missouri,MO,governor,"Missouri gubernatorial election, 2020",Candidate,Rik Combs,Libertarian,49067,1.63,False,False
-2020,Missouri,MO,governor,"Missouri gubernatorial election, 2020",Candidate,Jerome Bauer,Green,17234,0.57,False,False
-2020,Missouri,MO,governor,"Missouri gubernatorial election, 2020",Write-in,,,13,0.0,False,False
-2020,Missouri,MO,governor,"Missouri gubernatorial election, 2020",Total,,,3012287,100.0,False,False
+2020,Missouri,MO,governor,2020 Missouri gubernatorial election,Winning,Mike Parson,Republican,1720202,57.11,True,True
+2020,Missouri,MO,governor,2020 Missouri gubernatorial election,Candidate,Nicole Galloway,Democratic,1225771,40.69,False,False
+2020,Missouri,MO,governor,2020 Missouri gubernatorial election,Candidate,Rik Combs,Libertarian,49067,1.63,False,False
+2020,Missouri,MO,governor,2020 Missouri gubernatorial election,Candidate,Jerome Bauer,Green,17234,0.57,False,False
+2020,Missouri,MO,governor,2020 Missouri gubernatorial election,Write-in,,,13,0.0,False,False
+2020,Missouri,MO,governor,2020 Missouri gubernatorial election,Total,,,3012287,100.0,False,False
 2020,Montana,MT,attorney general,2020 Montana Attorney General election,Winning,Austin Knudsen,Republican,348322,58.51,True,False
 2020,Montana,MT,attorney general,2020 Montana Attorney General election,Candidate,Raph Graybill,Democratic,247025,41.49,False,False
 2020,Montana,MT,attorney general,2020 Montana Attorney General election,Total,,,595347,100.0,False,False

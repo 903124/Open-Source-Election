@@ -4361,81 +4361,81 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2020,Missouri,MO,Adair,County,Donald Trump,Republican,6413,62.05,10336,Republican
 2020,Missouri,MO,Adair,County,Joe Biden,Democratic,3710,35.89,10336,Republican
 2020,Missouri,MO,Adair,County,Other,Other,213,2.06,10336,Republican
-2020,Missouri,MO,Andrew,County,Donald Trump,Republican,7255,74.23,9774,Republican
-2020,Missouri,MO,Andrew,County,Joe Biden,Democratic,2351,24.05,9774,Republican
-2020,Missouri,MO,Andrew,County,Other,Other,168,1.72,9774,Republican
+2020,Missouri,MO,Andrew,County,Donald Trump,Republican,7255,74.39,9752,Republican
+2020,Missouri,MO,Andrew,County,Joe Biden,Democratic,2351,24.11,9752,Republican
+2020,Missouri,MO,Andrew,County,Other,Other,146,1.5,9752,Republican
 2020,Missouri,MO,Atchison,County,Donald Trump,Republican,2199,78.14,2814,Republican
 2020,Missouri,MO,Atchison,County,Joe Biden,Democratic,564,20.04,2814,Republican
-2020,Missouri,MO,Atchison,County,Other,Other,51,1.82,2814,Republican
-2020,Missouri,MO,Audrain,County,Donald Trump,Republican,7732,72.49,10666,Republican
-2020,Missouri,MO,Audrain,County,Joe Biden,Democratic,2704,25.35,10666,Republican
-2020,Missouri,MO,Audrain,County,Other,Other,230,2.16,10666,Republican
+2020,Missouri,MO,Atchison,County,Other,Other,51,1.81,2814,Republican
+2020,Missouri,MO,Audrain,County,Donald Trump,Republican,7732,72.56,10656,Republican
+2020,Missouri,MO,Audrain,County,Joe Biden,Democratic,2704,25.38,10656,Republican
+2020,Missouri,MO,Audrain,County,Other,Other,220,2.06,10656,Republican
 2020,Missouri,MO,Barry,County,Donald Trump,Republican,12425,79.66,15598,Republican
 2020,Missouri,MO,Barry,County,Joe Biden,Democratic,2948,18.9,15598,Republican
 2020,Missouri,MO,Barry,County,Other,Other,225,1.44,15598,Republican
 2020,Missouri,MO,Barton,County,Donald Trump,Republican,5168,85.04,6077,Republican
 2020,Missouri,MO,Barton,County,Joe Biden,Democratic,844,13.89,6077,Republican
 2020,Missouri,MO,Barton,County,Other,Other,65,1.07,6077,Republican
-2020,Missouri,MO,Bates,County,Donald Trump,Republican,6597,78.18,8438,Republican
-2020,Missouri,MO,Bates,County,Joe Biden,Democratic,1672,19.82,8438,Republican
-2020,Missouri,MO,Bates,County,Other,Other,169,2.0,8438,Republican
-2020,Missouri,MO,Benton,County,Donald Trump,Republican,8109,77.35,10484,Republican
-2020,Missouri,MO,Benton,County,Joe Biden,Democratic,2180,20.79,10484,Republican
-2020,Missouri,MO,Benton,County,Other,Other,195,1.86,10484,Republican
+2020,Missouri,MO,Bates,County,Donald Trump,Republican,6597,78.39,8416,Republican
+2020,Missouri,MO,Bates,County,Joe Biden,Democratic,1672,19.87,8416,Republican
+2020,Missouri,MO,Bates,County,Other,Other,147,1.75,8416,Republican
+2020,Missouri,MO,Benton,County,Donald Trump,Republican,8109,77.41,10476,Republican
+2020,Missouri,MO,Benton,County,Joe Biden,Democratic,2180,20.81,10476,Republican
+2020,Missouri,MO,Benton,County,Other,Other,187,1.79,10476,Republican
 2020,Missouri,MO,Bollinger,County,Donald Trump,Republican,5167,86.36,5983,Republican
 2020,Missouri,MO,Bollinger,County,Joe Biden,Democratic,750,12.54,5983,Republican
 2020,Missouri,MO,Bollinger,County,Other,Other,66,1.1,5983,Republican
-2020,Missouri,MO,Boone,County,Donald Trump,Republican,38646,42.32,91326,Democratic
-2020,Missouri,MO,Boone,County,Joe Biden,Democratic,50064,54.82,91326,Democratic
-2020,Missouri,MO,Boone,County,Other,Other,2616,2.86,91326,Democratic
-2020,Missouri,MO,Buchanan,County,Donald Trump,Republican,22450,61.15,36713,Republican
-2020,Missouri,MO,Buchanan,County,Joe Biden,Democratic,13445,36.62,36713,Republican
-2020,Missouri,MO,Buchanan,County,Other,Other,818,2.23,36713,Republican
-2020,Missouri,MO,Butler,County,Donald Trump,Republican,14602,80.37,18169,Republican
-2020,Missouri,MO,Butler,County,Joe Biden,Democratic,3301,18.17,18169,Republican
-2020,Missouri,MO,Butler,County,Other,Other,266,1.46,18169,Republican
-2020,Missouri,MO,Caldwell,County,Donald Trump,Republican,3725,79.32,4696,Republican
-2020,Missouri,MO,Caldwell,County,Joe Biden,Democratic,897,19.1,4696,Republican
-2020,Missouri,MO,Caldwell,County,Other,Other,74,1.58,4696,Republican
-2020,Missouri,MO,Callaway,County,Donald Trump,Republican,14815,69.94,21183,Republican
-2020,Missouri,MO,Callaway,County,Joe Biden,Democratic,5870,27.71,21183,Republican
-2020,Missouri,MO,Callaway,County,Other,Other,498,2.35,21183,Republican
+2020,Missouri,MO,Boone,County,Donald Trump,Republican,38646,42.39,91168,Democratic
+2020,Missouri,MO,Boone,County,Joe Biden,Democratic,50064,54.91,91168,Democratic
+2020,Missouri,MO,Boone,County,Other,Other,2458,2.7,91168,Democratic
+2020,Missouri,MO,Buchanan,County,Donald Trump,Republican,22450,61.34,36598,Republican
+2020,Missouri,MO,Buchanan,County,Joe Biden,Democratic,13445,36.74,36598,Republican
+2020,Missouri,MO,Buchanan,County,Other,Other,703,1.92,36598,Republican
+2020,Missouri,MO,Butler,County,Donald Trump,Republican,14602,80.49,18141,Republican
+2020,Missouri,MO,Butler,County,Joe Biden,Democratic,3301,18.2,18141,Republican
+2020,Missouri,MO,Butler,County,Other,Other,238,1.31,18141,Republican
+2020,Missouri,MO,Caldwell,County,Donald Trump,Republican,3725,79.56,4682,Republican
+2020,Missouri,MO,Caldwell,County,Joe Biden,Democratic,897,19.16,4682,Republican
+2020,Missouri,MO,Caldwell,County,Other,Other,60,1.28,4682,Republican
+2020,Missouri,MO,Callaway,County,Donald Trump,Republican,14815,70.07,21144,Republican
+2020,Missouri,MO,Callaway,County,Joe Biden,Democratic,5870,27.76,21144,Republican
+2020,Missouri,MO,Callaway,County,Other,Other,459,2.17,21144,Republican
 2020,Missouri,MO,Camden,County,Donald Trump,Republican,18850,75.97,24812,Republican
 2020,Missouri,MO,Camden,County,Joe Biden,Democratic,5652,22.78,24812,Republican
 2020,Missouri,MO,Camden,County,Other,Other,310,1.25,24812,Republican
-2020,Missouri,MO,Cape Girardeau,County,Donald Trump,Republican,28907,71.51,40426,Republican
-2020,Missouri,MO,Cape Girardeau,County,Joe Biden,Democratic,10760,26.62,40426,Republican
-2020,Missouri,MO,Cape Girardeau,County,Other,Other,759,1.87,40426,Republican
+2020,Missouri,MO,Cape Girardeau,County,Donald Trump,Republican,28907,71.68,40328,Republican
+2020,Missouri,MO,Cape Girardeau,County,Joe Biden,Democratic,10760,26.68,40328,Republican
+2020,Missouri,MO,Cape Girardeau,County,Other,Other,661,1.64,40328,Republican
 2020,Missouri,MO,Carroll,County,Donald Trump,Republican,3706,81.77,4532,Republican
 2020,Missouri,MO,Carroll,County,Joe Biden,Democratic,786,17.34,4532,Republican
-2020,Missouri,MO,Carroll,County,Other,Other,40,0.89,4532,Republican
+2020,Missouri,MO,Carroll,County,Other,Other,40,0.88,4532,Republican
 2020,Missouri,MO,Carter,County,Donald Trump,Republican,2451,84.6,2897,Republican
 2020,Missouri,MO,Carter,County,Joe Biden,Democratic,418,14.43,2897,Republican
 2020,Missouri,MO,Carter,County,Other,Other,28,0.97,2897,Republican
-2020,Missouri,MO,Cass,County,Donald Trump,Republican,37197,64.61,57568,Republican
-2020,Missouri,MO,Cass,County,Joe Biden,Democratic,19052,33.09,57568,Republican
-2020,Missouri,MO,Cass,County,Other,Other,1319,2.3,57568,Republican
+2020,Missouri,MO,Cass,County,Donald Trump,Republican,37197,64.79,57408,Republican
+2020,Missouri,MO,Cass,County,Joe Biden,Democratic,19052,33.19,57408,Republican
+2020,Missouri,MO,Cass,County,Other,Other,1159,2.02,57408,Republican
 2020,Missouri,MO,Cedar,County,Donald Trump,Republican,5788,82.17,7044,Republican
 2020,Missouri,MO,Cedar,County,Joe Biden,Democratic,1145,16.25,7044,Republican
 2020,Missouri,MO,Cedar,County,Other,Other,111,1.58,7044,Republican
 2020,Missouri,MO,Chariton,County,Donald Trump,Republican,3111,76.31,4077,Republican
 2020,Missouri,MO,Chariton,County,Joe Biden,Democratic,916,22.47,4077,Republican
-2020,Missouri,MO,Chariton,County,Other,Other,50,3.3,4077,Republican
-2020,Missouri,MO,Christian,County,Donald Trump,Republican,34920,74.42,46925,Republican
-2020,Missouri,MO,Christian,County,Joe Biden,Democratic,11131,23.72,46925,Republican
-2020,Missouri,MO,Christian,County,Other,Other,874,1.86,46925,Republican
+2020,Missouri,MO,Chariton,County,Other,Other,50,1.23,4077,Republican
+2020,Missouri,MO,Christian,County,Donald Trump,Republican,34920,74.55,46839,Republican
+2020,Missouri,MO,Christian,County,Joe Biden,Democratic,11131,23.76,46839,Republican
+2020,Missouri,MO,Christian,County,Other,Other,788,1.68,46839,Republican
 2020,Missouri,MO,Clark,County,Donald Trump,Republican,2672,78.73,3394,Republican
 2020,Missouri,MO,Clark,County,Joe Biden,Democratic,678,19.98,3394,Republican
-2020,Missouri,MO,Clark,County,Other,Other,44,1.29,3394,Republican
+2020,Missouri,MO,Clark,County,Other,Other,44,1.3,3394,Republican
 2020,Missouri,MO,Clay,County,Donald Trump,Republican,64605,51.04,126569,Republican
 2020,Missouri,MO,Clay,County,Joe Biden,Democratic,59400,46.93,126569,Republican
 2020,Missouri,MO,Clay,County,Other,Other,2564,2.03,126569,Republican
-2020,Missouri,MO,Clinton,County,Donald Trump,Republican,7799,71.51,10906,Republican
-2020,Missouri,MO,Clinton,County,Joe Biden,Democratic,2896,26.55,10906,Republican
-2020,Missouri,MO,Clinton,County,Other,Other,211,1.94,10906,Republican
-2020,Missouri,MO,Cole,County,Donald Trump,Republican,26086,65.8,39645,Republican
-2020,Missouri,MO,Cole,County,Joe Biden,Democratic,12694,32.02,39645,Republican
-2020,Missouri,MO,Cole,County,Other,Other,865,2.18,39645,Republican
+2020,Missouri,MO,Clinton,County,Donald Trump,Republican,7799,71.63,10888,Republican
+2020,Missouri,MO,Clinton,County,Joe Biden,Democratic,2896,26.6,10888,Republican
+2020,Missouri,MO,Clinton,County,Other,Other,193,1.77,10888,Republican
+2020,Missouri,MO,Cole,County,Donald Trump,Republican,26086,65.99,39529,Republican
+2020,Missouri,MO,Cole,County,Joe Biden,Democratic,12694,32.11,39529,Republican
+2020,Missouri,MO,Cole,County,Other,Other,749,1.89,39529,Republican
 2020,Missouri,MO,Cooper,County,Donald Trump,Republican,6272,72.15,8693,Republican
 2020,Missouri,MO,Cooper,County,Joe Biden,Democratic,2249,25.87,8693,Republican
 2020,Missouri,MO,Cooper,County,Other,Other,172,1.98,8693,Republican
@@ -4447,91 +4447,91 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2020,Missouri,MO,Dade,County,Other,Other,49,1.19,4119,Republican
 2020,Missouri,MO,Dallas,County,Donald Trump,Republican,6619,81.68,8104,Republican
 2020,Missouri,MO,Dallas,County,Joe Biden,Democratic,1380,17.03,8104,Republican
-2020,Missouri,MO,Dallas,County,Other,Other,105,1.29,8104,Republican
+2020,Missouri,MO,Dallas,County,Other,Other,105,1.3,8104,Republican
 2020,Missouri,MO,Daviess,County,Donald Trump,Republican,3102,79.31,3911,Republican
 2020,Missouri,MO,Daviess,County,Joe Biden,Democratic,746,19.07,3911,Republican
-2020,Missouri,MO,Daviess,County,Other,Other,63,1.62,3911,Republican
-2020,Missouri,MO,DeKalb,County,Donald Trump,Republican,3828,78.9,4852,Republican
-2020,Missouri,MO,DeKalb,County,Joe Biden,Democratic,930,19.17,4852,Republican
-2020,Missouri,MO,DeKalb,County,Other,Other,94,1.93,4852,Republican
+2020,Missouri,MO,Daviess,County,Other,Other,63,1.61,3911,Republican
+2020,Missouri,MO,DeKalb,County,Donald Trump,Republican,3828,79.04,4843,Republican
+2020,Missouri,MO,DeKalb,County,Joe Biden,Democratic,930,19.2,4843,Republican
+2020,Missouri,MO,DeKalb,County,Other,Other,85,1.76,4843,Republican
 2020,Missouri,MO,Dent,County,Donald Trump,Republican,5987,83.83,7142,Republican
 2020,Missouri,MO,Dent,County,Joe Biden,Democratic,1056,14.79,7142,Republican
-2020,Missouri,MO,Dent,County,Other,Other,99,1.38,7142,Republican
+2020,Missouri,MO,Dent,County,Other,Other,99,1.39,7142,Republican
 2020,Missouri,MO,Douglas,County,Donald Trump,Republican,5898,84.26,7000,Republican
 2020,Missouri,MO,Douglas,County,Joe Biden,Democratic,1016,14.51,7000,Republican
 2020,Missouri,MO,Douglas,County,Other,Other,86,1.23,7000,Republican
 2020,Missouri,MO,Dunklin,County,Donald Trump,Republican,8135,78.08,10419,Republican
 2020,Missouri,MO,Dunklin,County,Joe Biden,Democratic,2200,21.12,10419,Republican
-2020,Missouri,MO,Dunklin,County,Other,Other,84,0.8,10419,Republican
-2020,Missouri,MO,Franklin,County,Donald Trump,Republican,38058,70.76,53783,Republican
-2020,Missouri,MO,Franklin,County,Joe Biden,Democratic,14569,27.09,53783,Republican
-2020,Missouri,MO,Franklin,County,Other,Other,1156,2.15,53783,Republican
+2020,Missouri,MO,Dunklin,County,Other,Other,84,0.81,10419,Republican
+2020,Missouri,MO,Franklin,County,Donald Trump,Republican,38058,70.89,53685,Republican
+2020,Missouri,MO,Franklin,County,Joe Biden,Democratic,14569,27.14,53685,Republican
+2020,Missouri,MO,Franklin,County,Other,Other,1058,1.97,53685,Republican
 2020,Missouri,MO,Gasconade,County,Donald Trump,Republican,6222,78.53,7923,Republican
 2020,Missouri,MO,Gasconade,County,Joe Biden,Democratic,1601,20.21,7923,Republican
 2020,Missouri,MO,Gasconade,County,Other,Other,100,1.26,7923,Republican
 2020,Missouri,MO,Gentry,County,Donald Trump,Republican,2581,79.73,3237,Republican
 2020,Missouri,MO,Gentry,County,Joe Biden,Democratic,613,18.94,3237,Republican
 2020,Missouri,MO,Gentry,County,Other,Other,43,1.33,3237,Republican
-2020,Missouri,MO,Greene,County,Donald Trump,Republican,83630,58.78,142272,Republican
-2020,Missouri,MO,Greene,County,Joe Biden,Democratic,55068,38.71,142272,Republican
-2020,Missouri,MO,Greene,County,Other,Other,3574,2.51,142272,Republican
+2020,Missouri,MO,Greene,County,Donald Trump,Republican,83630,58.98,141800,Republican
+2020,Missouri,MO,Greene,County,Joe Biden,Democratic,55068,38.83,141800,Republican
+2020,Missouri,MO,Greene,County,Other,Other,3102,2.19,141800,Republican
 2020,Missouri,MO,Grundy,County,Donald Trump,Republican,3585,80.8,4437,Republican
 2020,Missouri,MO,Grundy,County,Joe Biden,Democratic,799,18.01,4437,Republican
 2020,Missouri,MO,Grundy,County,Other,Other,53,1.19,4437,Republican
 2020,Missouri,MO,Harrison,County,Donald Trump,Republican,3198,83.59,3826,Republican
 2020,Missouri,MO,Harrison,County,Joe Biden,Democratic,597,15.6,3826,Republican
 2020,Missouri,MO,Harrison,County,Other,Other,31,0.81,3826,Republican
-2020,Missouri,MO,Henry,County,Donald Trump,Republican,8027,74.29,10805,Republican
-2020,Missouri,MO,Henry,County,Joe Biden,Democratic,2619,24.24,10805,Republican
-2020,Missouri,MO,Henry,County,Other,Other,159,1.47,10805,Republican
+2020,Missouri,MO,Henry,County,Donald Trump,Republican,8027,74.41,10788,Republican
+2020,Missouri,MO,Henry,County,Joe Biden,Democratic,2619,24.28,10788,Republican
+2020,Missouri,MO,Henry,County,Other,Other,142,1.32,10788,Republican
 2020,Missouri,MO,Hickory,County,Donald Trump,Republican,3966,78.07,5080,Republican
 2020,Missouri,MO,Hickory,County,Joe Biden,Democratic,1056,20.79,5080,Republican
 2020,Missouri,MO,Hickory,County,Other,Other,58,1.14,5080,Republican
 2020,Missouri,MO,Holt,County,Donald Trump,Republican,1976,84.34,2343,Republican
 2020,Missouri,MO,Holt,County,Joe Biden,Democratic,338,14.43,2343,Republican
-2020,Missouri,MO,Holt,County,Other,Other,29,1.23,2343,Republican
+2020,Missouri,MO,Holt,County,Other,Other,29,1.24,2343,Republican
 2020,Missouri,MO,Howard,County,Donald Trump,Republican,3553,69.78,5092,Republican
 2020,Missouri,MO,Howard,County,Joe Biden,Democratic,1413,27.75,5092,Republican
 2020,Missouri,MO,Howard,County,Other,Other,126,2.47,5092,Republican
-2020,Missouri,MO,Howell,County,Donald Trump,Republican,15181,81.29,18676,Republican
-2020,Missouri,MO,Howell,County,Joe Biden,Democratic,3218,17.23,18676,Republican
-2020,Missouri,MO,Howell,County,Other,Other,277,1.48,18676,Republican
+2020,Missouri,MO,Howell,County,Donald Trump,Republican,15181,81.4,18650,Republican
+2020,Missouri,MO,Howell,County,Joe Biden,Democratic,3218,17.25,18650,Republican
+2020,Missouri,MO,Howell,County,Other,Other,251,1.35,18650,Republican
 2020,Missouri,MO,Iron,County,Donald Trump,Republican,3596,78.31,4592,Republican
 2020,Missouri,MO,Iron,County,Joe Biden,Democratic,945,20.58,4592,Republican
 2020,Missouri,MO,Iron,County,Other,Other,51,1.11,4592,Republican
-2020,Missouri,MO,Jackson,County,Donald Trump,Republican,126535,37.88,334055,Democratic
-2020,Missouri,MO,Jackson,County,Joe Biden,Democratic,199842,59.82,334055,Democratic
-2020,Missouri,MO,Jackson,County,Other,Other,7678,2.3,334055,Democratic
-2020,Missouri,MO,Jasper,County,Donald Trump,Republican,37728,71.81,52539,Republican
-2020,Missouri,MO,Jasper,County,Joe Biden,Democratic,13549,25.79,52539,Republican
-2020,Missouri,MO,Jasper,County,Other,Other,1262,2.4,52539,Republican
-2020,Missouri,MO,Jefferson,County,Donald Trump,Republican,77046,65.88,116953,Republican
-2020,Missouri,MO,Jefferson,County,Joe Biden,Democratic,37523,32.08,116953,Republican
-2020,Missouri,MO,Jefferson,County,Other,Other,2384,2.04,116953,Republican
-2020,Missouri,MO,Johnson,County,Donald Trump,Republican,15489,66.84,23172,Republican
-2020,Missouri,MO,Johnson,County,Joe Biden,Democratic,6974,30.1,23172,Republican
-2020,Missouri,MO,Johnson,County,Other,Other,709,3.06,23172,Republican
-2020,Missouri,MO,Knox,County,Donald Trump,Republican,1486,80.06,1856,Republican
-2020,Missouri,MO,Knox,County,Joe Biden,Democratic,340,18.32,1856,Republican
-2020,Missouri,MO,Knox,County,Other,Other,30,1.62,1856,Republican
-2020,Missouri,MO,Laclede,County,Donald Trump,Republican,13762,81.78,16828,Republican
-2020,Missouri,MO,Laclede,County,Joe Biden,Democratic,2780,16.52,16828,Republican
-2020,Missouri,MO,Laclede,County,Other,Other,286,1.7,16828,Republican
-2020,Missouri,MO,Lafayette,County,Donald Trump,Republican,12273,71.79,17096,Republican
-2020,Missouri,MO,Lafayette,County,Joe Biden,Democratic,4472,26.16,17096,Republican
-2020,Missouri,MO,Lafayette,County,Other,Other,351,2.05,17096,Republican
-2020,Missouri,MO,Lawrence,County,Donald Trump,Republican,14426,80.43,17935,Republican
-2020,Missouri,MO,Lawrence,County,Joe Biden,Democratic,3214,17.92,17935,Republican
-2020,Missouri,MO,Lawrence,County,Other,Other,295,1.65,17935,Republican
-2020,Missouri,MO,Lewis,County,Donald Trump,Republican,3553,76.92,4619,Republican
-2020,Missouri,MO,Lewis,County,Joe Biden,Democratic,984,21.3,4619,Republican
-2020,Missouri,MO,Lewis,County,Other,Other,82,1.78,4619,Republican
-2020,Missouri,MO,Lincoln,County,Donald Trump,Republican,21848,75.17,29065,Republican
-2020,Missouri,MO,Lincoln,County,Joe Biden,Democratic,6607,22.73,29065,Republican
-2020,Missouri,MO,Lincoln,County,Other,Other,610,2.1,29065,Republican
+2020,Missouri,MO,Jackson,County,Donald Trump,Republican,126535,37.99,333063,Democratic
+2020,Missouri,MO,Jackson,County,Joe Biden,Democratic,199842,60.0,333063,Democratic
+2020,Missouri,MO,Jackson,County,Other,Other,6686,2.01,333063,Democratic
+2020,Missouri,MO,Jasper,County,Donald Trump,Republican,37728,72.07,52352,Republican
+2020,Missouri,MO,Jasper,County,Joe Biden,Democratic,13549,25.88,52352,Republican
+2020,Missouri,MO,Jasper,County,Other,Other,1075,2.05,52352,Republican
+2020,Missouri,MO,Jefferson,County,Donald Trump,Republican,77046,66.03,116688,Republican
+2020,Missouri,MO,Jefferson,County,Joe Biden,Democratic,37523,32.16,116688,Republican
+2020,Missouri,MO,Jefferson,County,Other,Other,2119,1.82,116688,Republican
+2020,Missouri,MO,Johnson,County,Donald Trump,Republican,15489,66.99,23123,Republican
+2020,Missouri,MO,Johnson,County,Joe Biden,Democratic,6974,30.16,23123,Republican
+2020,Missouri,MO,Johnson,County,Other,Other,660,2.85,23123,Republican
+2020,Missouri,MO,Knox,County,Donald Trump,Republican,1486,80.15,1854,Republican
+2020,Missouri,MO,Knox,County,Joe Biden,Democratic,340,18.34,1854,Republican
+2020,Missouri,MO,Knox,County,Other,Other,28,1.51,1854,Republican
+2020,Missouri,MO,Laclede,County,Donald Trump,Republican,13762,81.95,16793,Republican
+2020,Missouri,MO,Laclede,County,Joe Biden,Democratic,2780,16.55,16793,Republican
+2020,Missouri,MO,Laclede,County,Other,Other,251,1.49,16793,Republican
+2020,Missouri,MO,Lafayette,County,Donald Trump,Republican,12273,71.96,17055,Republican
+2020,Missouri,MO,Lafayette,County,Joe Biden,Democratic,4472,26.22,17055,Republican
+2020,Missouri,MO,Lafayette,County,Other,Other,310,1.82,17055,Republican
+2020,Missouri,MO,Lawrence,County,Donald Trump,Republican,14426,80.57,17905,Republican
+2020,Missouri,MO,Lawrence,County,Joe Biden,Democratic,3214,17.95,17905,Republican
+2020,Missouri,MO,Lawrence,County,Other,Other,265,1.48,17905,Republican
+2020,Missouri,MO,Lewis,County,Donald Trump,Republican,3553,77.09,4609,Republican
+2020,Missouri,MO,Lewis,County,Joe Biden,Democratic,984,21.35,4609,Republican
+2020,Missouri,MO,Lewis,County,Other,Other,72,1.56,4609,Republican
+2020,Missouri,MO,Lincoln,County,Donald Trump,Republican,21848,75.29,29018,Republican
+2020,Missouri,MO,Lincoln,County,Joe Biden,Democratic,6607,22.77,29018,Republican
+2020,Missouri,MO,Lincoln,County,Other,Other,563,1.94,29018,Republican
 2020,Missouri,MO,Linn,County,Donald Trump,Republican,4363,76.2,5726,Republican
 2020,Missouri,MO,Linn,County,Joe Biden,Democratic,1275,22.27,5726,Republican
-2020,Missouri,MO,Linn,County,Other,Other,88,1.53,5726,Republican
+2020,Missouri,MO,Linn,County,Other,Other,88,1.54,5726,Republican
 2020,Missouri,MO,Livingston,County,Donald Trump,Republican,5267,77.94,6758,Republican
 2020,Missouri,MO,Livingston,County,Joe Biden,Democratic,1410,20.86,6758,Republican
 2020,Missouri,MO,Livingston,County,Other,Other,81,1.2,6758,Republican
@@ -4544,165 +4544,165 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2020,Missouri,MO,Maries,County,Donald Trump,Republican,3892,81.58,4771,Republican
 2020,Missouri,MO,Maries,County,Joe Biden,Democratic,814,17.06,4771,Republican
 2020,Missouri,MO,Maries,County,Other,Other,65,1.36,4771,Republican
-2020,Missouri,MO,Marion,County,Donald Trump,Republican,9915,74.13,13376,Republican
-2020,Missouri,MO,Marion,County,Joe Biden,Democratic,3202,23.94,13376,Republican
-2020,Missouri,MO,Marion,County,Other,Other,259,1.93,13376,Republican
-2020,Missouri,MO,McDonald,County,Donald Trump,Republican,7465,82.37,9063,Republican
-2020,Missouri,MO,McDonald,County,Joe Biden,Democratic,1439,15.88,9063,Republican
-2020,Missouri,MO,McDonald,County,Other,Other,159,1.75,9063,Republican
-2020,Missouri,MO,Mercer,County,Donald Trump,Republican,1541,86.48,1782,Republican
-2020,Missouri,MO,Mercer,County,Joe Biden,Democratic,222,12.46,1782,Republican
-2020,Missouri,MO,Mercer,County,Other,Other,19,1.06,1782,Republican
-2020,Missouri,MO,Miller,County,Donald Trump,Republican,10176,82.08,12397,Republican
-2020,Missouri,MO,Miller,County,Joe Biden,Democratic,2038,16.44,12397,Republican
-2020,Missouri,MO,Miller,County,Other,Other,183,1.48,12397,Republican
+2020,Missouri,MO,Marion,County,Donald Trump,Republican,9915,74.28,13348,Republican
+2020,Missouri,MO,Marion,County,Joe Biden,Democratic,3202,23.99,13348,Republican
+2020,Missouri,MO,Marion,County,Other,Other,231,1.73,13348,Republican
+2020,Missouri,MO,McDonald,County,Donald Trump,Republican,7465,82.46,9053,Republican
+2020,Missouri,MO,McDonald,County,Joe Biden,Democratic,1439,15.9,9053,Republican
+2020,Missouri,MO,McDonald,County,Other,Other,149,1.65,9053,Republican
+2020,Missouri,MO,Mercer,County,Donald Trump,Republican,1541,86.62,1779,Republican
+2020,Missouri,MO,Mercer,County,Joe Biden,Democratic,222,12.48,1779,Republican
+2020,Missouri,MO,Mercer,County,Other,Other,16,0.9,1779,Republican
+2020,Missouri,MO,Miller,County,Donald Trump,Republican,10176,82.18,12382,Republican
+2020,Missouri,MO,Miller,County,Joe Biden,Democratic,2038,16.46,12382,Republican
+2020,Missouri,MO,Miller,County,Other,Other,168,1.36,12382,Republican
 2020,Missouri,MO,Mississippi,County,Donald Trump,Republican,3537,74.37,4756,Republican
 2020,Missouri,MO,Mississippi,County,Joe Biden,Democratic,1178,24.77,4756,Republican
 2020,Missouri,MO,Mississippi,County,Other,Other,41,0.86,4756,Republican
 2020,Missouri,MO,Moniteau,County,Donald Trump,Republican,5744,80.26,7157,Republican
 2020,Missouri,MO,Moniteau,County,Joe Biden,Democratic,1308,18.28,7157,Republican
-2020,Missouri,MO,Moniteau,County,Other,Other,105,1.46,7157,Republican
+2020,Missouri,MO,Moniteau,County,Other,Other,105,1.47,7157,Republican
 2020,Missouri,MO,Monroe,County,Donald Trump,Republican,3477,77.56,4483,Republican
 2020,Missouri,MO,Monroe,County,Joe Biden,Democratic,936,20.88,4483,Republican
 2020,Missouri,MO,Monroe,County,Other,Other,70,1.56,4483,Republican
 2020,Missouri,MO,Montgomery,County,Donald Trump,Republican,4465,77.36,5772,Republican
 2020,Missouri,MO,Montgomery,County,Joe Biden,Democratic,1208,20.93,5772,Republican
-2020,Missouri,MO,Montgomery,County,Other,Other,99,1.71,5772,Republican
+2020,Missouri,MO,Montgomery,County,Other,Other,99,1.72,5772,Republican
 2020,Missouri,MO,Morgan,County,Donald Trump,Republican,7442,78.44,9487,Republican
 2020,Missouri,MO,Morgan,County,Joe Biden,Democratic,1924,20.28,9487,Republican
 2020,Missouri,MO,Morgan,County,Other,Other,121,1.28,9487,Republican
 2020,Missouri,MO,New Madrid,County,Donald Trump,Republican,5447,75.13,7250,Republican
 2020,Missouri,MO,New Madrid,County,Joe Biden,Democratic,1748,24.11,7250,Republican
 2020,Missouri,MO,New Madrid,County,Other,Other,55,0.76,7250,Republican
-2020,Missouri,MO,Newton,County,Donald Trump,Republican,22120,77.74,28454,Republican
-2020,Missouri,MO,Newton,County,Joe Biden,Democratic,5818,20.45,28454,Republican
-2020,Missouri,MO,Newton,County,Other,Other,516,1.81,28454,Republican
-2020,Missouri,MO,Nodaway,County,Donald Trump,Republican,6865,69.27,9910,Republican
-2020,Missouri,MO,Nodaway,County,Joe Biden,Democratic,2853,28.79,9910,Republican
-2020,Missouri,MO,Nodaway,County,Other,Other,192,1.94,9910,Republican
+2020,Missouri,MO,Newton,County,Donald Trump,Republican,22120,77.87,28405,Republican
+2020,Missouri,MO,Newton,County,Joe Biden,Democratic,5818,20.48,28405,Republican
+2020,Missouri,MO,Newton,County,Other,Other,467,1.64,28405,Republican
+2020,Missouri,MO,Nodaway,County,Donald Trump,Republican,6865,69.39,9893,Republican
+2020,Missouri,MO,Nodaway,County,Joe Biden,Democratic,2853,28.84,9893,Republican
+2020,Missouri,MO,Nodaway,County,Other,Other,175,1.77,9893,Republican
 2020,Missouri,MO,Oregon,County,Donald Trump,Republican,3847,81.18,4739,Republican
 2020,Missouri,MO,Oregon,County,Joe Biden,Democratic,823,17.37,4739,Republican
-2020,Missouri,MO,Oregon,County,Other,Other,69,1.45,4739,Republican
-2020,Missouri,MO,Osage,County,Donald Trump,Republican,6425,85.14,7546,Republican
-2020,Missouri,MO,Osage,County,Joe Biden,Democratic,1037,13.74,7546,Republican
-2020,Missouri,MO,Osage,County,Other,Other,84,1.12,7546,Republican
+2020,Missouri,MO,Oregon,County,Other,Other,69,1.46,4739,Republican
+2020,Missouri,MO,Osage,County,Donald Trump,Republican,6425,85.22,7539,Republican
+2020,Missouri,MO,Osage,County,Joe Biden,Democratic,1037,13.76,7539,Republican
+2020,Missouri,MO,Osage,County,Other,Other,77,1.02,7539,Republican
 2020,Missouri,MO,Ozark,County,Donald Trump,Republican,4064,83.55,4864,Republican
 2020,Missouri,MO,Ozark,County,Joe Biden,Democratic,752,15.46,4864,Republican
 2020,Missouri,MO,Ozark,County,Other,Other,48,0.99,4864,Republican
 2020,Missouri,MO,Pemiscot,County,Donald Trump,Republican,4120,71.84,5735,Republican
 2020,Missouri,MO,Pemiscot,County,Joe Biden,Democratic,1560,27.2,5735,Republican
 2020,Missouri,MO,Pemiscot,County,Other,Other,55,0.96,5735,Republican
-2020,Missouri,MO,Perry,County,Donald Trump,Republican,7657,80.98,9456,Republican
-2020,Missouri,MO,Perry,County,Joe Biden,Democratic,1664,17.6,9456,Republican
-2020,Missouri,MO,Perry,County,Other,Other,135,1.42,9456,Republican
+2020,Missouri,MO,Perry,County,Donald Trump,Republican,7657,81.05,9447,Republican
+2020,Missouri,MO,Perry,County,Joe Biden,Democratic,1664,17.61,9447,Republican
+2020,Missouri,MO,Perry,County,Other,Other,126,1.33,9447,Republican
 2020,Missouri,MO,Pettis,County,Donald Trump,Republican,13854,72.55,19097,Republican
 2020,Missouri,MO,Pettis,County,Joe Biden,Democratic,4783,25.05,19097,Republican
-2020,Missouri,MO,Pettis,County,Other,Other,460,2.4,19097,Republican
-2020,Missouri,MO,Phelps,County,Donald Trump,Republican,13480,68.77,19601,Republican
-2020,Missouri,MO,Phelps,County,Joe Biden,Democratic,5637,28.76,19601,Republican
-2020,Missouri,MO,Phelps,County,Other,Other,484,2.47,19601,Republican
-2020,Missouri,MO,Pike,County,Donald Trump,Republican,5863,76.08,7706,Republican
-2020,Missouri,MO,Pike,County,Joe Biden,Democratic,1717,22.28,7706,Republican
-2020,Missouri,MO,Pike,County,Other,Other,126,1.64,7706,Republican
+2020,Missouri,MO,Pettis,County,Other,Other,460,2.41,19097,Republican
+2020,Missouri,MO,Phelps,County,Donald Trump,Republican,13480,68.89,19568,Republican
+2020,Missouri,MO,Phelps,County,Joe Biden,Democratic,5637,28.81,19568,Republican
+2020,Missouri,MO,Phelps,County,Other,Other,451,2.3,19568,Republican
+2020,Missouri,MO,Pike,County,Donald Trump,Republican,5863,76.19,7695,Republican
+2020,Missouri,MO,Pike,County,Joe Biden,Democratic,1717,22.31,7695,Republican
+2020,Missouri,MO,Pike,County,Other,Other,115,1.49,7695,Republican
 2020,Missouri,MO,Platte,County,Donald Trump,Republican,28917,50.49,57270,Republican
 2020,Missouri,MO,Platte,County,Joe Biden,Democratic,27179,47.46,57270,Republican
 2020,Missouri,MO,Platte,County,Other,Other,1174,2.05,57270,Republican
-2020,Missouri,MO,Polk,County,Donald Trump,Republican,11850,78.49,15098,Republican
-2020,Missouri,MO,Polk,County,Joe Biden,Democratic,2885,19.11,15098,Republican
-2020,Missouri,MO,Polk,County,Other,Other,363,2.4,15098,Republican
-2020,Missouri,MO,Pulaski,County,Donald Trump,Republican,10329,71.53,14441,Republican
-2020,Missouri,MO,Pulaski,County,Joe Biden,Democratic,3740,25.9,14441,Republican
-2020,Missouri,MO,Pulaski,County,Other,Other,372,2.57,14441,Republican
+2020,Missouri,MO,Polk,County,Donald Trump,Republican,11850,78.66,15064,Republican
+2020,Missouri,MO,Polk,County,Joe Biden,Democratic,2885,19.15,15064,Republican
+2020,Missouri,MO,Polk,County,Other,Other,329,2.18,15064,Republican
+2020,Missouri,MO,Pulaski,County,Donald Trump,Republican,10329,71.66,14414,Republican
+2020,Missouri,MO,Pulaski,County,Joe Biden,Democratic,3740,25.95,14414,Republican
+2020,Missouri,MO,Pulaski,County,Other,Other,345,2.39,14414,Republican
 2020,Missouri,MO,Putnam,County,Donald Trump,Republican,1984,84.03,2361,Republican
 2020,Missouri,MO,Putnam,County,Joe Biden,Democratic,361,15.29,2361,Republican
 2020,Missouri,MO,Putnam,County,Other,Other,16,0.68,2361,Republican
 2020,Missouri,MO,Ralls,County,Donald Trump,Republican,4396,77.64,5662,Republican
 2020,Missouri,MO,Ralls,County,Joe Biden,Democratic,1205,21.28,5662,Republican
 2020,Missouri,MO,Ralls,County,Other,Other,61,1.08,5662,Republican
-2020,Missouri,MO,Randolph,County,Donald Trump,Republican,8018,74.54,10757,Republican
-2020,Missouri,MO,Randolph,County,Joe Biden,Democratic,2485,23.1,10757,Republican
-2020,Missouri,MO,Randolph,County,Other,Other,254,2.36,10757,Republican
-2020,Missouri,MO,Ray,County,Donald Trump,Republican,8345,71.48,11675,Republican
-2020,Missouri,MO,Ray,County,Joe Biden,Democratic,3109,26.63,11675,Republican
-2020,Missouri,MO,Ray,County,Other,Other,221,1.89,11675,Republican
+2020,Missouri,MO,Randolph,County,Donald Trump,Republican,8018,74.63,10744,Republican
+2020,Missouri,MO,Randolph,County,Joe Biden,Democratic,2485,23.13,10744,Republican
+2020,Missouri,MO,Randolph,County,Other,Other,241,2.24,10744,Republican
+2020,Missouri,MO,Ray,County,Donald Trump,Republican,8345,71.64,11649,Republican
+2020,Missouri,MO,Ray,County,Joe Biden,Democratic,3109,26.69,11649,Republican
+2020,Missouri,MO,Ray,County,Other,Other,195,1.67,11649,Republican
 2020,Missouri,MO,Reynolds,County,Donald Trump,Republican,2733,82.87,3298,Republican
 2020,Missouri,MO,Reynolds,County,Joe Biden,Democratic,529,16.04,3298,Republican
 2020,Missouri,MO,Reynolds,County,Other,Other,36,1.09,3298,Republican
 2020,Missouri,MO,Ripley,County,Donald Trump,Republican,4839,84.64,5717,Republican
 2020,Missouri,MO,Ripley,County,Joe Biden,Democratic,833,14.57,5717,Republican
 2020,Missouri,MO,Ripley,County,Other,Other,45,0.79,5717,Republican
-2020,Missouri,MO,Saline,County,Donald Trump,Republican,6451,67.67,9533,Republican
-2020,Missouri,MO,Saline,County,Joe Biden,Democratic,2904,30.46,9533,Republican
-2020,Missouri,MO,Saline,County,Other,Other,178,1.87,9533,Republican
+2020,Missouri,MO,Saline,County,Donald Trump,Republican,6451,67.77,9519,Republican
+2020,Missouri,MO,Saline,County,Joe Biden,Democratic,2904,30.51,9519,Republican
+2020,Missouri,MO,Saline,County,Other,Other,164,1.72,9519,Republican
 2020,Missouri,MO,Schuyler,County,Donald Trump,Republican,1606,80.18,2003,Republican
 2020,Missouri,MO,Schuyler,County,Joe Biden,Democratic,373,18.62,2003,Republican
 2020,Missouri,MO,Schuyler,County,Other,Other,24,1.2,2003,Republican
-2020,Missouri,MO,Scotland,County,Donald Trump,Republican,1560,78.55,1986,Republican
-2020,Missouri,MO,Scotland,County,Joe Biden,Democratic,388,19.54,1986,Republican
-2020,Missouri,MO,Scotland,County,Other,Other,38,1.91,1986,Republican
-2020,Missouri,MO,Scott,County,Donald Trump,Republican,13769,77.58,17748,Republican
-2020,Missouri,MO,Scott,County,Joe Biden,Democratic,3753,21.15,17748,Republican
-2020,Missouri,MO,Scott,County,Other,Other,226,1.27,17748,Republican
+2020,Missouri,MO,Scotland,County,Donald Trump,Republican,1560,78.63,1984,Republican
+2020,Missouri,MO,Scotland,County,Joe Biden,Democratic,388,19.56,1984,Republican
+2020,Missouri,MO,Scotland,County,Other,Other,36,1.81,1984,Republican
+2020,Missouri,MO,Scott,County,Donald Trump,Republican,13769,77.71,17719,Republican
+2020,Missouri,MO,Scott,County,Joe Biden,Democratic,3753,21.18,17719,Republican
+2020,Missouri,MO,Scott,County,Other,Other,197,1.11,17719,Republican
 2020,Missouri,MO,Shannon,County,Donald Trump,Republican,3165,81.03,3906,Republican
 2020,Missouri,MO,Shannon,County,Joe Biden,Democratic,706,18.07,3906,Republican
 2020,Missouri,MO,Shannon,County,Other,Other,35,0.9,3906,Republican
 2020,Missouri,MO,Shelby,County,Donald Trump,Republican,2700,80.6,3350,Republican
 2020,Missouri,MO,Shelby,County,Joe Biden,Democratic,592,17.67,3350,Republican
 2020,Missouri,MO,Shelby,County,Other,Other,58,1.73,3350,Republican
-2020,Missouri,MO,St. Charles,County,Donald Trump,Republican,128389,57.69,222566,Republican
-2020,Missouri,MO,St. Charles,County,Joe Biden,Democratic,89530,40.23,222566,Republican
-2020,Missouri,MO,St. Charles,County,Other,Other,4647,2.08,222566,Republican
+2020,Missouri,MO,St. Charles,County,Donald Trump,Republican,128389,57.83,222017,Republican
+2020,Missouri,MO,St. Charles,County,Joe Biden,Democratic,89530,40.33,222017,Republican
+2020,Missouri,MO,St. Charles,County,Other,Other,4098,1.85,222017,Republican
 2020,Missouri,MO,St. Clair,County,Donald Trump,Republican,3932,79.05,4974,Republican
 2020,Missouri,MO,St. Clair,County,Joe Biden,Democratic,988,19.86,4974,Republican
 2020,Missouri,MO,St. Clair,County,Other,Other,54,1.09,4974,Republican
-2020,Missouri,MO,St. Francois,County,Donald Trump,Republican,20511,73.08,28065,Republican
-2020,Missouri,MO,St. Francois,County,Joe Biden,Democratic,7044,25.1,28065,Republican
-2020,Missouri,MO,St. Francois,County,Other,Other,510,1.82,28065,Republican
-2020,Missouri,MO,St. Louis,County,Donald Trump,Republican,199493,37.19,536446,Democratic
-2020,Missouri,MO,St. Louis,County,Joe Biden,Democratic,328151,61.17,536446,Democratic
-2020,Missouri,MO,St. Louis,County,Other,Other,8802,1.64,536446,Democratic
-2020,Missouri,MO,St. Louis City,County,Donald Trump,Republican,21474,15.98,134372,Democratic
-2020,Missouri,MO,St. Louis City,County,Joe Biden,Democratic,110089,81.93,134372,Democratic
-2020,Missouri,MO,St. Louis City,County,Other,Other,2809,2.09,134372,Democratic
-2020,Missouri,MO,Ste. Genevieve,County,Donald Trump,Republican,6630,69.8,9498,Republican
-2020,Missouri,MO,Ste. Genevieve,County,Joe Biden,Democratic,2713,28.56,9498,Republican
-2020,Missouri,MO,Ste. Genevieve,County,Other,Other,155,1.64,9498,Republican
+2020,Missouri,MO,St. Francois,County,Donald Trump,Republican,20511,73.25,28001,Republican
+2020,Missouri,MO,St. Francois,County,Joe Biden,Democratic,7044,25.16,28001,Republican
+2020,Missouri,MO,St. Francois,County,Other,Other,446,1.59,28001,Republican
+2020,Missouri,MO,St. Louis City,County,Donald Trump,Republican,21474,16.04,133867,Democratic
+2020,Missouri,MO,St. Louis City,County,Joe Biden,Democratic,110089,82.24,133867,Democratic
+2020,Missouri,MO,St. Louis City,County,Other,Other,2304,1.72,133867,Democratic
+2020,Missouri,MO,St. Louis County,County,Donald Trump,Republican,199493,37.19,536446,Democratic
+2020,Missouri,MO,St. Louis County,County,Joe Biden,Democratic,328151,61.17,536446,Democratic
+2020,Missouri,MO,St. Louis County,County,Other,Other,8802,1.64,536446,Democratic
+2020,Missouri,MO,Ste. Genevieve,County,Donald Trump,Republican,6630,69.91,9484,Republican
+2020,Missouri,MO,Ste. Genevieve,County,Joe Biden,Democratic,2713,28.61,9484,Republican
+2020,Missouri,MO,Ste. Genevieve,County,Other,Other,141,1.49,9484,Republican
 2020,Missouri,MO,Stoddard,County,Donald Trump,Republican,11484,85.54,13426,Republican
 2020,Missouri,MO,Stoddard,County,Joe Biden,Democratic,1819,13.55,13426,Republican
-2020,Missouri,MO,Stoddard,County,Other,Other,123,0.91,13426,Republican
-2020,Missouri,MO,Stone,County,Donald Trump,Republican,14800,79.91,18520,Republican
-2020,Missouri,MO,Stone,County,Joe Biden,Democratic,3506,18.93,18520,Republican
-2020,Missouri,MO,Stone,County,Other,Other,214,1.16,18520,Republican
+2020,Missouri,MO,Stoddard,County,Other,Other,123,0.92,13426,Republican
+2020,Missouri,MO,Stone,County,Donald Trump,Republican,14800,80.07,18483,Republican
+2020,Missouri,MO,Stone,County,Joe Biden,Democratic,3506,18.97,18483,Republican
+2020,Missouri,MO,Stone,County,Other,Other,177,0.96,18483,Republican
 2020,Missouri,MO,Sullivan,County,Donald Trump,Republican,1974,79.89,2471,Republican
 2020,Missouri,MO,Sullivan,County,Joe Biden,Democratic,478,19.34,2471,Republican
 2020,Missouri,MO,Sullivan,County,Other,Other,19,0.77,2471,Republican
-2020,Missouri,MO,Taney,County,Donald Trump,Republican,20508,77.86,26338,Republican
-2020,Missouri,MO,Taney,County,Joe Biden,Democratic,5339,20.27,26338,Republican
-2020,Missouri,MO,Taney,County,Other,Other,491,1.87,26338,Republican
+2020,Missouri,MO,Taney,County,Donald Trump,Republican,20508,78.01,26288,Republican
+2020,Missouri,MO,Taney,County,Joe Biden,Democratic,5339,20.31,26288,Republican
+2020,Missouri,MO,Taney,County,Other,Other,441,1.68,26288,Republican
 2020,Missouri,MO,Texas,County,Donald Trump,Republican,9478,83.76,11315,Republican
 2020,Missouri,MO,Texas,County,Joe Biden,Democratic,1716,15.17,11315,Republican
 2020,Missouri,MO,Texas,County,Other,Other,121,1.07,11315,Republican
 2020,Missouri,MO,Vernon,County,Donald Trump,Republican,7155,77.9,9185,Republican
 2020,Missouri,MO,Vernon,County,Joe Biden,Democratic,1903,20.72,9185,Republican
 2020,Missouri,MO,Vernon,County,Other,Other,127,1.38,9185,Republican
-2020,Missouri,MO,Warren,County,Donald Trump,Republican,13222,71.8,18416,Republican
-2020,Missouri,MO,Warren,County,Joe Biden,Democratic,4769,25.9,18416,Republican
-2020,Missouri,MO,Warren,County,Other,Other,425,2.3,18416,Republican
-2020,Missouri,MO,Washington,County,Donald Trump,Republican,8047,80.56,9989,Republican
-2020,Missouri,MO,Washington,County,Joe Biden,Democratic,1804,18.06,9989,Republican
-2020,Missouri,MO,Washington,County,Other,Other,138,1.38,9989,Republican
+2020,Missouri,MO,Warren,County,Donald Trump,Republican,13222,71.96,18375,Republican
+2020,Missouri,MO,Warren,County,Joe Biden,Democratic,4769,25.95,18375,Republican
+2020,Missouri,MO,Warren,County,Other,Other,384,2.09,18375,Republican
+2020,Missouri,MO,Washington,County,Donald Trump,Republican,8047,80.66,9976,Republican
+2020,Missouri,MO,Washington,County,Joe Biden,Democratic,1804,18.08,9976,Republican
+2020,Missouri,MO,Washington,County,Other,Other,125,1.25,9976,Republican
 2020,Missouri,MO,Wayne,County,Donald Trump,Republican,4987,84.84,5878,Republican
 2020,Missouri,MO,Wayne,County,Joe Biden,Democratic,845,14.38,5878,Republican
 2020,Missouri,MO,Wayne,County,Other,Other,46,0.78,5878,Republican
 2020,Missouri,MO,Webster,County,Donald Trump,Republican,14880,79.24,18779,Republican
 2020,Missouri,MO,Webster,County,Joe Biden,Democratic,3573,19.03,18779,Republican
-2020,Missouri,MO,Webster,County,Other,Other,326,1.73,18779,Republican
+2020,Missouri,MO,Webster,County,Other,Other,326,1.74,18779,Republican
 2020,Missouri,MO,Worth,County,Donald Trump,Republican,877,79.22,1107,Republican
 2020,Missouri,MO,Worth,County,Joe Biden,Democratic,215,19.42,1107,Republican
 2020,Missouri,MO,Worth,County,Other,Other,15,1.36,1107,Republican
-2020,Missouri,MO,Wright,County,Donald Trump,Republican,7453,85.17,8751,Republican
-2020,Missouri,MO,Wright,County,Joe Biden,Democratic,1168,13.35,8751,Republican
-2020,Missouri,MO,Wright,County,Other,Other,130,1.48,8751,Republican
+2020,Missouri,MO,Wright,County,Donald Trump,Republican,7453,85.28,8739,Republican
+2020,Missouri,MO,Wright,County,Joe Biden,Democratic,1168,13.37,8739,Republican
+2020,Missouri,MO,Wright,County,Other,Other,118,1.35,8739,Republican
 2020,Montana,MT,Beaverhead,County,Donald Trump,Republican,3923,69.3,5661,Republican
 2020,Montana,MT,Beaverhead,County,Joe Biden,Democratic,1608,28.4,5661,Republican
 2020,Montana,MT,Beaverhead,County,Other,Other,130,2.3,5661,Republican

@@ -367,12 +367,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2022,Oregon,OR,governor,2022 Oregon gubernatorial election,Candidate,R. Leon Noble,Libertarian,6867,0.35,False,False
 2022,Oregon,OR,governor,2022 Oregon gubernatorial election,Write-in,,,2113,0.11,False,False
 2022,Oregon,OR,governor,2022 Oregon gubernatorial election,Total,,,1952883,100.0,False,False
-2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Winning,Josh Shapiro,Democratic,3031137,56.49,True,False
-2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Candidate,Doug Mastriano,Republican,2238477,41.71,False,False
+2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Winning,Josh Shapiro,Democratic,3031137,56.44,True,False
+2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Candidate,Doug Mastriano,Republican,2238477,41.68,False,False
 2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Candidate,Matt Hackenburg,Libertarian,51611,0.96,False,False
-2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Candidate,Christina DiGiulio,Green,24436,0.46,False,False
+2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Candidate,Christina DiGiulio,Green,24436,0.45,False,False
 2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Candidate,Joe Soloski,Keystone,20518,0.38,False,False
-2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Total,,,5366179,100.0,False,False
+2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Write-in,,,4584,0.09,False,False
+2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Total,,,5370763,100.0,False,False
 2022,Rhode Island,RI,attorney general,2022 Rhode Island Attorney General election,Winning,Peter Neronha,Democratic,217066,61.49,True,True
 2022,Rhode Island,RI,attorney general,2022 Rhode Island Attorney General election,Candidate,Charles Calenda,Republican,135471,38.38,False,False
 2022,Rhode Island,RI,attorney general,2022 Rhode Island Attorney General election,Write-in,,,460,0.13,False,False
