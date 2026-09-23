@@ -1,4 +1,56 @@
 year,state,state_code,chamber,district,race,candidate,party,votes,percentage,winner,incumbent
+2026,Alabama,AL,State Senate,1,general,Tim Melson,Republican,,,True,True
+2026,Alabama,AL,State Senate,2,general,John Roberts,Republican,,,True,False
+2026,Alabama,AL,State Senate,2,general,Rudolph Valentino Drake,Democratic,,,False,False
+2026,Alabama,AL,State Senate,3,general,Arthur Orr,Republican,,,True,True
+2026,Alabama,AL,State Senate,3,general,John Dickey,Democratic,,,False,False
+2026,Alabama,AL,State Senate,4,general,Garlan Gudger,Republican,,,True,True
+2026,Alabama,AL,State Senate,5,general,Matt Woods,Republican,,,True,False
+2026,Alabama,AL,State Senate,6,general,Larry Stutts,Republican,,,True,True
+2026,Alabama,AL,State Senate,6,general,Bobby Martin,Democratic,,,False,False
+2026,Alabama,AL,State Senate,7,general,Sam Givhan,Republican,,,True,True
+2026,Alabama,AL,State Senate,7,general,Jared Sluss,Democratic,,,False,False
+2026,Alabama,AL,State Senate,8,general,Steve Livingston,Republican,,,True,True
+2026,Alabama,AL,State Senate,8,general,Katie Kramer,Democratic,,,False,False
+2026,Alabama,AL,State Senate,9,general,Wes Kitchens,Republican,,,True,False
+2026,Alabama,AL,State Senate,10,general,Andrew Jones,Republican,,,True,True
+2026,Alabama,AL,State Senate,10,general,Jesse Battles,Independent,,,False,False
+2026,Alabama,AL,State Senate,11,general,Lance Bell,Republican,,,True,True
+2026,Alabama,AL,State Senate,11,general,Donald Mottern,Democratic,,,False,False
+2026,Alabama,AL,State Senate,12,general,Keith Kelley,Republican,,,True,True
+2026,Alabama,AL,State Senate,13,general,Randy Price,Republican,,,True,True
+2026,Alabama,AL,State Senate,13,general,Jamie Forsyth,Democratic,,,False,False
+2026,Alabama,AL,State Senate,14,general,April Weaver,Republican,,,True,True
+2026,Alabama,AL,State Senate,14,general,Mandie Ledkins,Democratic,,,False,False
+2026,Alabama,AL,State Senate,15,general,Scott Ortis,Republican,,,True,False
+2026,Alabama,AL,State Senate,16,general,J. T. Waggoner,Republican,,,True,False
+2026,Alabama,AL,State Senate,16,general,Spencer Stone,Democratic,,,False,False
+2026,Alabama,AL,State Senate,17,general,Shay Shelnutt,Republican,,,True,False
+2026,Alabama,AL,State Senate,18,general,Rodger Smitherman,Democratic,,,True,True
+2026,Alabama,AL,State Senate,19,general,Merika Coleman,Democratic,,,True,True
+2026,Alabama,AL,State Senate,20,general,Linda Coleman-Madison,Democratic,,,True,True
+2026,Alabama,AL,State Senate,21,general,Gerald Allen,Republican,,,True,True
+2026,Alabama,AL,State Senate,21,general,Jolie Woodrow Minor Jr.,Independent,,,False,False
+2026,Alabama,AL,State Senate,22,general,Terry Waters,Republican,,,True,False
+2026,Alabama,AL,State Senate,22,general,Ashley Sharpe,Democratic,,,False,False
+2026,Alabama,AL,State Senate,23,general,Robert Stewart,Democratic,,,True,True
+2026,Alabama,AL,State Senate,23,general,Thayer Spencer,Republican,,,False,False
+2026,Alabama,AL,State Senate,24,general,Bobby Singleton,Democratic,,,True,True
+2026,Alabama,AL,State Senate,25,general,Will Barfoot,Republican,,,True,True
+2026,Alabama,AL,State Senate,25,general,Phadra Carson Foster,Democratic,,,False,False
+2026,Alabama,AL,State Senate,26,general,Kirk Hatcher,Democratic,,,True,True
+2026,Alabama,AL,State Senate,27,general,Jay Hovey,Republican,,,True,True
+2026,Alabama,AL,State Senate,28,general,Billy Beasley,Democratic,,,True,True
+2026,Alabama,AL,State Senate,28,general,Brent Comer,Republican,,,False,False
+2026,Alabama,AL,State Senate,29,general,Donnie Chesteen,Republican,,,True,True
+2026,Alabama,AL,State Senate,29,general,Jimmy McCray,Democratic,,,False,False
+2026,Alabama,AL,State Senate,30,general,Clyde Chambliss,Republican,,,True,True
+2026,Alabama,AL,State Senate,31,general,Josh Carnley,Republican,,,True,True
+2026,Alabama,AL,State Senate,32,general,Chris Elliott,Republican,,,True,True
+2026,Alabama,AL,State Senate,32,general,Janet Appleby,Democratic,,,False,False
+2026,Alabama,AL,State Senate,33,general,Vivian Davis Figures,Democratic,,,True,True
+2026,Alabama,AL,State Senate,34,general,Rusty Glover,Republican,,,True,False
+2026,Alabama,AL,State Senate,35,general,David Sessions,Republican,,,True,True
 2026,Arkansas,AR,State Senate,2,general,Matt Stone,Republican,,,True,True
 2026,Arkansas,AR,State Senate,7,general,Alan Clark,Republican,,,True,True
 2026,Arkansas,AR,State Senate,9,general,Jessie McGruder,Democratic,,,True,False
@@ -56,7 +108,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Connecticut,CT,State Senate,19,general,Catherine Osten,Democratic,,,True,True
 2026,Connecticut,CT,State Senate,19,general,Jason Guidone,Republican,,,False,False
 2026,Connecticut,CT,State Senate,20,general,Martha Marx,Democratic,,,True,True
-2026,Connecticut,CT,State Senate,20,general,Ronald LaBonte,Republican,,,False,False
+2026,Connecticut,CT,State Senate,20,general,Lee Elci,Republican,,,False,False
 2026,Connecticut,CT,State Senate,21,general,Jason Perillo,Republican,,,True,True
 2026,Connecticut,CT,State Senate,21,general,Carolann Reid,Democratic,,,False,False
 2026,Connecticut,CT,State Senate,22,general,Sujata Gadkar-Wilcox,Democratic,,,True,True
@@ -226,6 +278,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Indiana,IN,State Senate,45,general,Larry Mahaney,Libertarian,,,False,False
 2026,Indiana,IN,State Senate,47,general,Gary Byrne,Republican,,,True,True
 2026,Indiana,IN,State Senate,47,general,Ethan Sweetland-May,Democratic,,,False,False
+2026,Indiana,IN,State Senate,48,general,Daryl Schmitt,Republican,,,True,True
+2026,Indiana,IN,State Senate,48,general,Brad Hochgesang,Democratic,,,False,False
 2026,Indiana,IN,State Senate,49,general,Jim Tomes,Republican,,,True,True
 2026,Indiana,IN,State Senate,49,general,Cindi Clayton,Democratic,,,False,False
 2026,Iowa,IA,State Senate,1,general,Catelin Drey,Democratic,,,True,True
@@ -708,8 +762,9 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Vermont,VT,State Senate,BENNINGTON SENATE,general,Josh Williams,Republican,,,False,False
 2026,Vermont,VT,State Senate,CALEDONIA SENATE,general,Scott Beck,Republican,,,True,True
 2026,Vermont,VT,State Senate,CALEDONIA SENATE,general,David Roth,Democratic,,,False,False
-2026,Vermont,VT,State Senate,CHITTENDEN CENTRAL SENATE,general,Nikhil Goyal,Democratic,,,True,False
+2026,Vermont,VT,State Senate,CHITTENDEN CENTRAL SENATE,general,Nikhil Goyal,Democratic/progressive,,,True,False
 2026,Vermont,VT,State Senate,CHITTENDEN CENTRAL SENATE,general,Martine Gulick,Democratic,,,False,True
+2026,Vermont,VT,State Senate,CHITTENDEN CENTRAL SENATE,general,Louie Manno,Republican,,,False,False
 2026,Vermont,VT,State Senate,CHITTENDEN CENTRAL SENATE,general,Tanya Vyhovsky,Progressive/democratic,,,False,True
 2026,Vermont,VT,State Senate,CHITTENDEN NORTH SENATE,general,Ashley Bartley,Republican,,,True,False
 2026,Vermont,VT,State Senate,CHITTENDEN NORTH SENATE,general,Irene Wrenner,Democratic,,,False,False
@@ -736,6 +791,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Vermont,VT,State Senate,WINDHAM SENATE,general,Rusty Sage,Republican,,,False,False
 2026,Vermont,VT,State Senate,WINDSOR SENATE,general,Elizabeth Burrows,Democratic,,,True,False
 2026,Vermont,VT,State Senate,WINDSOR SENATE,general,Jonathan Gleason,Republican,,,False,False
+2026,Vermont,VT,State Senate,WINDSOR SENATE,general,Joe Izzo,Independent,,,False,False
 2026,Vermont,VT,State Senate,WINDSOR SENATE,general,Joe Major,Democratic,,,False,True
 2026,Vermont,VT,State Senate,WINDSOR SENATE,general,Andrea Murray,Republican,,,False,False
 2026,Vermont,VT,State Senate,WINDSOR SENATE,general,Rebecca White,Democratic,,,False,True

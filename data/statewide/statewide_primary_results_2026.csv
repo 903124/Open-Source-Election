@@ -196,14 +196,14 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Connecticut,CT,governor,Democratic primary results,Winning,Ned Lamont,Democratic,126497,67.9,True,True
 2026,Connecticut,CT,governor,Democratic primary results,Candidate,Josh Elliott,Democratic,59849,32.1,False,False
 2026,Connecticut,CT,governor,Democratic primary results,Total,,,186346,100.0,False,False
-2026,Delaware,DE,attorney general,Democratic primary results,Candidate,Kathy Jennings,Democratic,,,False,True
-2026,Delaware,DE,attorney general,Democratic primary results,Candidate,Dwayne Bensing,Democratic,,,False,False
-2026,Delaware,DE,attorney general,Democratic primary results,Candidate,Patty Rickman,Democratic,,,False,False
-2026,Delaware,DE,attorney general,Democratic primary results,Total,,,,100.0,False,False
-2026,Delaware,DE,state treasurer,Democratic primary results,Candidate,Ted Lauzen,Democratic,,,False,False
-2026,Delaware,DE,state treasurer,Democratic primary results,Candidate,Mike Miller,Democratic,,,False,False
-2026,Delaware,DE,state treasurer,Democratic primary results,Candidate,Michael Smith,Democratic,,,False,False
-2026,Delaware,DE,state treasurer,Democratic primary results,Total,,,,100.0,False,False
+2026,Delaware,DE,attorney general,Democratic primary results,Winning,Kathy Jennings,Democratic,61191,71.2,True,True
+2026,Delaware,DE,attorney general,Democratic primary results,Candidate,Dwayne Bensing,Democratic,20359,23.7,False,False
+2026,Delaware,DE,attorney general,Democratic primary results,Candidate,Patty Rickman,Democratic,4417,5.1,False,False
+2026,Delaware,DE,attorney general,Democratic primary results,Total,,,85967,100.0,False,False
+2026,Delaware,DE,state treasurer,Democratic primary results,Winning,Ted Lauzen,Democratic,38566,45.3,True,False
+2026,Delaware,DE,state treasurer,Democratic primary results,Candidate,Mike Miller,Democratic,27561,32.4,False,False
+2026,Delaware,DE,state treasurer,Democratic primary results,Candidate,Michael Smith,Democratic,19042,22.3,False,False
+2026,Delaware,DE,state treasurer,Democratic primary results,Total,,,85169,100.0,False,False
 2026,District of Columbia,DC,attorney general,Democratic primary,Winning,Brian Schwalb,District,115909,90.63,True,True
 2026,District of Columbia,DC,attorney general,Democratic primary,Candidate,J.P. Szymkowicz,District,11381,8.9,False,False
 2026,District of Columbia,DC,attorney general,Democratic primary,Write-in,,,605,0.47,False,False
@@ -265,23 +265,23 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Guam,GU,governor,Republican primary results,Candidate,Frank F. Blas Jr.,Republican,3367,39.34,False,False
 2026,Guam,GU,governor,Republican primary results,Write-in,,,13,0.15,False,False
 2026,Guam,GU,governor,Republican primary results,Total,,,8559,100.0,False,False
-2026,Hawaii,HI,governor,Democratic primary results,Winning,Josh Green,Democratic,184289,81.7,True,True
-2026,Hawaii,HI,governor,Democratic primary results,Candidate,Lauren Kapoliahi’iaka Shim,Democratic,11199,5.0,False,False
-2026,Hawaii,HI,governor,Democratic primary results,Candidate,George Lucas-Tadeo,Democratic,8134,3.6,False,False
-2026,Hawaii,HI,governor,Democratic primary results,Candidate,Duke Bourgoin,Democratic,4595,2.0,False,False
+2026,Hawaii,HI,governor,Democratic primary results,Winning,Josh Green,Democratic,184289,88.5,True,True
+2026,Hawaii,HI,governor,Democratic primary results,Candidate,Lauren Kapoliahi’iaka Shim,Democratic,11199,5.4,False,False
+2026,Hawaii,HI,governor,Democratic primary results,Candidate,George Lucas-Tadeo,Democratic,8134,3.9,False,False
+2026,Hawaii,HI,governor,Democratic primary results,Candidate,Duke Bourgoin,Democratic,4595,2.2,False,False
 2026,Hawaii,HI,governor,Democratic primary results,Total,,,208217,100.0,False,False
-2026,Hawaii,HI,governor,Democratic primary results,Winning,Derek Kawakami,Democratic,140247,62.2,True,False
-2026,Hawaii,HI,governor,Democratic primary results,Candidate,Della Au Belatti,Democratic,55245,24.5,False,False
-2026,Hawaii,HI,governor,Democratic primary results,Candidate,John Choi,Democratic,13009,5.8,False,False
+2026,Hawaii,HI,governor,Democratic primary results,Winning,Derek Kawakami,Democratic,140247,66.1,True,False
+2026,Hawaii,HI,governor,Democratic primary results,Candidate,Della Au Belatti,Democratic,55245,26.1,False,False
+2026,Hawaii,HI,governor,Democratic primary results,Candidate,John Choi,Democratic,13009,6.1,False,False
 2026,Hawaii,HI,governor,Democratic primary results,Candidate,Sam Puletasi,Democratic,2152,1.0,False,False
-2026,Hawaii,HI,governor,Democratic primary results,Candidate,Ku L. Cuadra,Democratic,1417,0.6,False,False
-2026,Hawaii,HI,governor,Republican primary results,Winning,Gary Cordery,Republican,36428,66.6,True,False
-2026,Hawaii,HI,governor,Republican primary results,Candidate,Ken Fujiyama,Republican,11599,21.2,False,False
+2026,Hawaii,HI,governor,Democratic primary results,Candidate,Ku L. Cuadra,Democratic,1417,0.7,False,False
+2026,Hawaii,HI,governor,Republican primary results,Winning,Gary Cordery,Republican,36428,75.8,True,False
+2026,Hawaii,HI,governor,Republican primary results,Candidate,Ken Fujiyama,Republican,11599,24.2,False,False
 2026,Hawaii,HI,governor,Republican primary results,Total,,,48027,100.0,False,False
-2026,Hawaii,HI,governor,Republican primary results,Winning,Daniel Anthony,Republican,16982,31.1,True,False
-2026,Hawaii,HI,governor,Republican primary results,Candidate,Margaret Rose Mejia,Republican,10833,19.8,False,False
-2026,Hawaii,HI,governor,Republican primary results,Candidate,Robert E. Peters,Republican,8899,16.3,False,False
-2026,Hawaii,HI,governor,Republican primary results,Candidate,Hopelin Cresencia,Republican,8070,14.8,False,False
+2026,Hawaii,HI,governor,Republican primary results,Winning,Daniel Anthony,Republican,16982,37.9,True,False
+2026,Hawaii,HI,governor,Republican primary results,Candidate,Margaret Rose Mejia,Republican,10833,24.2,False,False
+2026,Hawaii,HI,governor,Republican primary results,Candidate,Robert E. Peters,Republican,8899,19.9,False,False
+2026,Hawaii,HI,governor,Republican primary results,Candidate,Hopelin Cresencia,Republican,8070,18.0,False,False
 2026,Idaho,ID,attorney general,Republican primary results,Winning,Raúl Labrador,Republican,186106,100.0,True,True
 2026,Idaho,ID,attorney general,Republican primary results,Total,,,186106,100.0,False,False
 2026,Idaho,ID,attorney general,Democratic primary results,Winning,Lori Hickman,Democratic,43348,100.0,True,False
@@ -671,18 +671,18 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Pennsylvania,PA,governor,Republican primary results,Total,,,641534,100.0,False,False
 2026,Pennsylvania,PA,governor,Republican primary results,Winning,Jason Richey,Republican,428740,65.6,True,False
 2026,Pennsylvania,PA,governor,Republican primary results,Candidate,John Ventre,Republican,225238,34.4,False,False
-2026,Rhode Island,RI,state treasurer,Democratic primary results,Winning,James Diossa,Democratic,106205,100.0,True,True
-2026,Rhode Island,RI,state treasurer,Democratic primary results,Total,,,106205,100.0,False,False
-2026,Rhode Island,RI,state treasurer,Republican primary results,Winning,Micholas Credle,Republican,20340,100.0,True,False
-2026,Rhode Island,RI,state treasurer,Republican primary results,Total,,,20340,100.0,False,False
-2026,Rhode Island,RI,secretary of state,Democratic primary results,Winning,Gregg Amore,Democratic,109052,100.0,True,True
-2026,Rhode Island,RI,secretary of state,Democratic primary results,Total,,,109052,100.0,False,False
-2026,Rhode Island,RI,governor,Democratic primary results,Winning,Helena Buonanno Foulkes,Democratic,81189,62.5,True,False
-2026,Rhode Island,RI,governor,Democratic primary results,Candidate,Dan McKee,Democratic,48812,37.5,False,True
-2026,Rhode Island,RI,governor,Democratic primary results,Total,,,130001,100.0,False,False
-2026,Rhode Island,RI,governor,Republican primary results,Candidate,Aaron Guckian,Republican,11690,50.6,False,False
-2026,Rhode Island,RI,governor,Republican primary results,Candidate,Elaine Pelino,Republican,11431,49.4,False,False
-2026,Rhode Island,RI,governor,Republican primary results,Total,,,23121,100.0,False,False
+2026,Rhode Island,RI,state treasurer,Democratic primary results,Winning,James Diossa,Democratic,106354,100.0,True,True
+2026,Rhode Island,RI,state treasurer,Democratic primary results,Total,,,106354,100.0,False,False
+2026,Rhode Island,RI,state treasurer,Republican primary results,Winning,Micholas Credle,Republican,20342,100.0,True,False
+2026,Rhode Island,RI,state treasurer,Republican primary results,Total,,,20342,100.0,False,False
+2026,Rhode Island,RI,secretary of state,Democratic primary results,Winning,Gregg Amore,Democratic,109203,100.0,True,True
+2026,Rhode Island,RI,secretary of state,Democratic primary results,Total,,,109203,100.0,False,False
+2026,Rhode Island,RI,governor,Democratic primary results,Winning,Helena Buonanno Foulkes,Democratic,81314,62.5,True,False
+2026,Rhode Island,RI,governor,Democratic primary results,Candidate,Dan McKee,Democratic,48872,37.5,False,True
+2026,Rhode Island,RI,governor,Democratic primary results,Total,,,130186,100.0,False,False
+2026,Rhode Island,RI,governor,Republican primary results,Winning,Aaron Guckian,Republican,11691,50.6,True,False
+2026,Rhode Island,RI,governor,Republican primary results,Candidate,Elaine Pelino,Republican,11432,49.4,False,False
+2026,Rhode Island,RI,governor,Republican primary results,Total,,,23123,100.0,False,False
 2026,South Carolina,SC,attorney general,Republican primary results,Winning,Stephen Goldfinch,Republican,175921,40.0,True,False
 2026,South Carolina,SC,attorney general,Republican primary results,Winning,David Stumbo,Republican,156876,35.7,True,False
 2026,South Carolina,SC,attorney general,Republican primary results,Candidate,David Pascoe,Republican,107086,24.3,False,False
@@ -719,17 +719,17 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,South Dakota,SD,governor,Republican primary runoff results,Winning,Larry Rhoden,Republican,83582,70.8,True,True
 2026,South Dakota,SD,governor,Republican primary runoff results,Candidate,Toby Doeden,Republican,34430,29.2,False,False
 2026,South Dakota,SD,governor,Republican primary runoff results,Total,,,118012,100.0,False,False
-2026,Tennessee,TN,governor,Republican primary results,Winning,Marsha Blackburn,Republican,311329,43.4,True,False
-2026,Tennessee,TN,governor,Republican primary results,Candidate,John Rose,Republican,235512,32.9,False,False
-2026,Tennessee,TN,governor,Republican primary results,Candidate,Monty Fritts,Republican,167971,23.4,False,False
-2026,Tennessee,TN,governor,Republican primary results,Write-in,,,1862,0.3,False,False
-2026,Tennessee,TN,governor,Republican primary results,Total,,,716674,100.0,False,False
-2026,Tennessee,TN,governor,Democratic primary results,Winning,Jerri Green,Democratic,244194,69.0,True,False
-2026,Tennessee,TN,governor,Democratic primary results,Candidate,Carnita Atwater,Democratic,63254,17.9,False,False
-2026,Tennessee,TN,governor,Democratic primary results,Candidate,Kevin Lee McCants,Democratic,18961,5.4,False,False
-2026,Tennessee,TN,governor,Democratic primary results,Candidate,Tim Cyr,Democratic,14796,4.2,False,False
-2026,Tennessee,TN,governor,Democratic primary results,Candidate,Adam Kurtz,Democratic,12456,3.5,False,False
-2026,Tennessee,TN,governor,Democratic primary results,Total,,,353661,100.0,False,False
+2026,Tennessee,TN,governor,Republican primary results,Winning,Marsha Blackburn,Republican,311392,43.6,True,False
+2026,Tennessee,TN,governor,Republican primary results,Candidate,John Rose,Republican,235561,32.9,False,False
+2026,Tennessee,TN,governor,Republican primary results,Candidate,Monty Fritts,Republican,168004,23.5,False,False
+2026,Tennessee,TN,governor,Republican primary results,Write-in,,,1,0.0,False,False
+2026,Tennessee,TN,governor,Republican primary results,Total,,,714958,100.0,False,False
+2026,Tennessee,TN,governor,Democratic primary results,Winning,Jerri Green,Democratic,244277,69.0,True,False
+2026,Tennessee,TN,governor,Democratic primary results,Candidate,Carnita Atwater,Democratic,63289,17.9,False,False
+2026,Tennessee,TN,governor,Democratic primary results,Candidate,Kevin Lee McCants,Democratic,18972,5.4,False,False
+2026,Tennessee,TN,governor,Democratic primary results,Candidate,Tim Cyr,Democratic,14799,4.2,False,False
+2026,Tennessee,TN,governor,Democratic primary results,Candidate,Adam Kurtz,Democratic,12465,3.5,False,False
+2026,Tennessee,TN,governor,Democratic primary results,Total,,,353802,100.0,False,False
 2026,Texas,TX,attorney general,Republican primary,Winning,Mayes Middleton,Republican,811171,39.1,True,False
 2026,Texas,TX,attorney general,Republican primary,Winning,Chip Roy,Republican,655064,31.6,True,False
 2026,Texas,TX,attorney general,Republican primary,Candidate,Joan Huffman,Republican,312998,15.1,False,False

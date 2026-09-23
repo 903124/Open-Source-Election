@@ -325,16 +325,299 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Indiana,IN,State House,4,general,Edmond Soliday,Republican,,,True,True
 2026,Indiana,IN,State House,4,general,Ryan Kominakis,Democratic,,,False,False
 2026,Indiana,IN,State House,4,general,Travis Gearhart,Libertarian,,,False,False
+2026,Indiana,IN,State House,5,general,Dale DeVon,Republican,,,True,True
+2026,Indiana,IN,State House,5,general,Alex Wait,Democratic,,,False,False
+2026,Indiana,IN,State House,7,general,Jake Teshka,Republican,,,True,True
+2026,Indiana,IN,State House,7,general,Oliver Davis,Democratic,,,False,False
+2026,Indiana,IN,State House,9,general,Randy Novak,Democratic,,,True,True
+2026,Indiana,IN,State House,9,general,Chris Cleveland,Republican,,,False,False
+2026,Indiana,IN,State House,10,general,Charles Moseley,Democratic,,,True,True
+2026,Indiana,IN,State House,10,general,Ted Uzelac,Republican,,,False,False
+2026,Indiana,IN,State House,11,general,Michael Aylesworth,Republican,,,True,True
+2026,Indiana,IN,State House,11,general,Tyler Bridges,Democratic,,,False,False
 2026,Indiana,IN,State House,13,general,Matt Commons,Republican,,,True,True
 2026,Indiana,IN,State House,13,general,Brenna Geswein,Democratic,,,False,False
 2026,Indiana,IN,State House,13,general,Ben Davis,Socialist,,,False,False
+2026,Indiana,IN,State House,15,general,Hal Slager,Republican,,,True,True
+2026,Indiana,IN,State House,15,general,Anthony Oberman,Democratic,,,False,False
+2026,Indiana,IN,State House,16,general,Kendell Culp,Republican,,,True,True
+2026,Indiana,IN,State House,16,general,Ashley Hammac,Democratic,,,False,False
+2026,Indiana,IN,State House,17,general,Jack Jordan,Republican,,,True,True
+2026,Indiana,IN,State House,17,general,Mary Gibson,Democratic,,,False,False
+2026,Indiana,IN,State House,19,general,Julie Olthoff,Republican,,,True,True
+2026,Indiana,IN,State House,19,general,Nick Neal,Democratic,,,False,False
+2026,Indiana,IN,State House,20,general,Jim Pressel,Republican,,,True,True
+2026,Indiana,IN,State House,20,general,Laura Liskey,Democratic,,,False,False
+2026,Indiana,IN,State House,21,general,Timothy Wesco,Republican,,,True,True
+2026,Indiana,IN,State House,21,general,Charles Burkley,Democratic,,,False,False
+2026,Indiana,IN,State House,23,general,Ethan Manning,Republican,,,True,True
+2026,Indiana,IN,State House,23,general,Austin Meives,Democratic,,,False,False
+2026,Indiana,IN,State House,24,general,Hunter Smith,Republican,,,True,True
+2026,Indiana,IN,State House,24,general,Racheal Bleicher,Democratic,,,False,False
+2026,Indiana,IN,State House,25,general,Becky Cash,Republican,,,True,True
+2026,Indiana,IN,State House,25,general,Tiffany Stoner,Democratic,,,False,False
+2026,Indiana,IN,State House,26,general,Chris Campbell,Democratic,,,True,True
+2026,Indiana,IN,State House,26,general,Magdalaine Davis,Republican,,,False,False
+2026,Indiana,IN,State House,27,general,Sheila Klinker,Democratic,,,True,True
+2026,Indiana,IN,State House,27,general,Tracy Brown,Republican,,,False,False
+2026,Indiana,IN,State House,28,general,Jeff Thompson,Republican,,,True,True
+2026,Indiana,IN,State House,28,general,Karen Whitney,Democratic,,,False,False
+2026,Indiana,IN,State House,29,general,Alaina Shonkwiler,Republican,,,True,True
+2026,Indiana,IN,State House,29,general,Devon Wellington,Democratic,,,False,False
+2026,Indiana,IN,State House,30,general,Paula Davis,Republican,,,True,False
+2026,Indiana,IN,State House,30,general,Jack Chance,Democratic,,,False,False
+2026,Indiana,IN,State House,31,general,Lori Goss-Reaves,Republican,,,True,True
+2026,Indiana,IN,State House,31,general,Katie Robins,Democratic,,,False,False
+2026,Indiana,IN,State House,32,general,Victoria Wilburn,Democratic,,,True,True
+2026,Indiana,IN,State House,32,general,Paul Nix,Republican,,,False,False
+2026,Indiana,IN,State House,33,general,J.D. Prescott,Republican,,,True,True
+2026,Indiana,IN,State House,33,general,John Bartlett,Democratic,,,False,False
+2026,Indiana,IN,State House,34,general,Sara Gullion,Democratic,,,True,False
+2026,Indiana,IN,State House,34,general,Richard Ivy,Republican,,,False,False
+2026,Indiana,IN,State House,35,general,Elizabeth Rowray,Republican,,,True,True
+2026,Indiana,IN,State House,35,general,Phil Gift,Democratic,,,False,False
+2026,Indiana,IN,State House,36,general,Kyle Pierce,Republican,,,True,True
+2026,Indiana,IN,State House,36,general,Kim Townsend,Democratic,,,False,False
+2026,Indiana,IN,State House,37,general,Todd Huston,Republican,,,True,True
+2026,Indiana,IN,State House,37,general,Lauren Cole,Democratic,,,False,False
+2026,Indiana,IN,State House,38,general,Heath VanNatter,Republican,,,True,True
+2026,Indiana,IN,State House,38,general,Nate Stout,Democratic,,,False,False
+2026,Indiana,IN,State House,39,general,Danny Lopez,Republican,,,True,True
+2026,Indiana,IN,State House,39,general,Lindsay Gramlich,Democratic,,,False,False
+2026,Indiana,IN,State House,40,general,Greg Steuerwald,Republican,,,True,True
+2026,Indiana,IN,State House,40,general,William Colteryahn,Democratic,,,False,False
+2026,Indiana,IN,State House,41,general,Mark Genda,Republican,,,True,True
+2026,Indiana,IN,State House,41,general,Jackson Hayes,Democratic,,,False,False
+2026,Indiana,IN,State House,43,general,Tonya Pfaff,Democratic,,,True,True
+2026,Indiana,IN,State House,43,general,Amy Lore,Republican,,,False,False
+2026,Indiana,IN,State House,44,general,Beau Baird,Republican,,,True,True
+2026,Indiana,IN,State House,44,general,Kelsey Kauffman,Democratic,,,False,False
+2026,Indiana,IN,State House,45,general,Kellie Streeter,Republican,,,True,False
+2026,Indiana,IN,State House,45,general,"Rebecca ""Becky"" Mayfield",Democratic,,,False,False
+2026,Indiana,IN,State House,46,general,Bob Heaton,Republican,,,True,True
+2026,Indiana,IN,State House,46,general,James Pittsford III,Democratic,,,False,False
+2026,Indiana,IN,State House,47,general,Robb Greene,Republican,,,True,True
+2026,Indiana,IN,State House,47,general,Michael Potter,Democratic,,,False,False
 2026,Indiana,IN,State House,48,general,Doug Miller,Republican,,,True,True
 2026,Indiana,IN,State House,48,general,Emily Yaw,Democratic,,,False,False
 2026,Indiana,IN,State House,48,general,Marshall Travis,Green,,,False,False
+2026,Indiana,IN,State House,49,general,Joanna King,Republican,,,True,True
+2026,Indiana,IN,State House,49,general,Michelle Milne,Democratic,,,False,False
+2026,Indiana,IN,State House,50,general,Lorissa Sweet,Republican,,,True,True
+2026,Indiana,IN,State House,50,general,Pepper Snyder,Democratic,,,False,False
+2026,Indiana,IN,State House,51,general,Tony Isa,Republican,,,True,True
+2026,Indiana,IN,State House,51,general,Judy Rowe,Democratic,,,False,False
+2026,Indiana,IN,State House,53,general,Ethan Lawson,Republican,,,True,True
+2026,Indiana,IN,State House,53,general,Reece Axel-Adams,Democratic,,,False,False
+2026,Indiana,IN,State House,55,general,Lindsay Patterson,Republican,,,True,True
+2026,Indiana,IN,State House,55,general,Victoria Martz,Democratic,,,False,False
+2026,Indiana,IN,State House,56,general,Randy Retter,Republican,,,True,False
+2026,Indiana,IN,State House,56,general,Thomas Rockwell,Democratic,,,False,False
+2026,Indiana,IN,State House,57,general,Wes Bennett,Republican,,,True,False
+2026,Indiana,IN,State House,57,general,Suzanne Fortenberry,Democratic,,,False,False
+2026,Indiana,IN,State House,58,general,John Reed,Republican,,,True,False
+2026,Indiana,IN,State House,58,general,Michelle Hennessee Sears,Democratic,,,False,False
+2026,Indiana,IN,State House,60,general,Peggy Mayfield,Republican,,,True,True
+2026,Indiana,IN,State House,60,general,Carrie Syczylo,Democratic,,,False,False
+2026,Indiana,IN,State House,62,general,Dave Hall,Republican,,,True,True
+2026,Indiana,IN,State House,62,general,Amy Huffman Oliver,Democratic,,,False,False
+2026,Indiana,IN,State House,63,general,Amy Kippenbrock,Republican,,,True,False
+2026,Indiana,IN,State House,63,general,Tiffanie Arthur,Democratic,,,False,False
+2026,Indiana,IN,State House,64,general,Matt Hostettler,Republican,,,True,True
+2026,Indiana,IN,State House,64,general,Candace Greer,Democratic,,,False,False
+2026,Indiana,IN,State House,66,general,Zach Payne,Republican,,,True,True
+2026,Indiana,IN,State House,66,general,Ryan Price,Democratic,,,False,False
+2026,Indiana,IN,State House,67,general,Alex Zimmerman,Republican,,,True,True
+2026,Indiana,IN,State House,67,general,Justin Chadwick,Democratic,,,False,False
+2026,Indiana,IN,State House,68,general,Garrett Bascom,Republican,,,True,True
+2026,Indiana,IN,State House,68,general,Hunter Collins,Democratic,,,False,False
+2026,Indiana,IN,State House,69,general,Jim Lucas,Republican,,,True,True
+2026,Indiana,IN,State House,69,general,Chris Bowen,Democratic,,,False,False
+2026,Indiana,IN,State House,70,general,Scott Fluhr,Republican,,,True,False
+2026,Indiana,IN,State House,70,general,Sarah Blessing,Democratic,,,False,False
+2026,Indiana,IN,State House,71,general,Wendy Dant Chesser,Democratic,,,True,True
+2026,Indiana,IN,State House,71,general,James McClure Jr.,Republican,,,False,False
+2026,Indiana,IN,State House,72,general,Darrell Neeley,Republican,,,True,False
+2026,Indiana,IN,State House,72,general,Michele Henry,Democratic,,,False,False
+2026,Indiana,IN,State House,73,general,Jennifer Meltzer,Republican,,,True,True
+2026,Indiana,IN,State House,73,general,Allen J. (A.J.) Miller,Democratic,,,False,False
+2026,Indiana,IN,State House,76,general,Wendy McNamara,Republican,,,True,True
+2026,Indiana,IN,State House,76,general,Logan Patberg,Democratic,,,False,False
+2026,Indiana,IN,State House,78,general,Tim O'Brien,Republican,,,True,True
+2026,Indiana,IN,State House,78,general,Sally Busby,Democratic,,,False,False
+2026,Indiana,IN,State House,79,general,Matt Lehman,Republican,,,True,True
+2026,Indiana,IN,State House,79,general,Ian Richardson,Democratic,,,False,False
+2026,Indiana,IN,State House,81,general,Martin Carbaugh,Republican,,,True,True
+2026,Indiana,IN,State House,81,general,Sharon Wight,Democratic,,,False,False
+2026,Indiana,IN,State House,83,general,Christopher Judy,Republican,,,True,True
+2026,Indiana,IN,State House,83,general,Wesley Haffenden,Democratic,,,False,False
+2026,Indiana,IN,State House,84,general,Bob Morris,Republican,,,True,True
+2026,Indiana,IN,State House,84,general,Misti Meehan,Democratic,,,False,False
+2026,Indiana,IN,State House,85,general,Dave Heine,Republican,,,True,True
+2026,Indiana,IN,State House,85,general,Mark Wehrle,Democratic,,,False,False
+2026,Indiana,IN,State House,86,general,Ed DeLaney,Democratic,,,True,True
+2026,Indiana,IN,State House,86,general,Glenn Bill,Republican,,,False,False
+2026,Indiana,IN,State House,88,general,Chris Jeter,Republican,,,True,True
+2026,Indiana,IN,State House,88,general,Stephanie Jo Yocum,Democratic,,,False,False
 2026,Indiana,IN,State House,89,general,Mitch Gore,Democratic,,,True,True
 2026,Indiana,IN,State House,89,general,Drew Weingarten,Libertarian,,,False,False
+2026,Indiana,IN,State House,91,general,Robert Behning,Republican,,,True,True
+2026,Indiana,IN,State House,91,general,Jarren Hurt,Democratic,,,False,False
+2026,Indiana,IN,State House,93,general,Julie McGuire,Republican,,,True,True
+2026,Indiana,IN,State House,93,general,Eva Rosberg,Democratic,,,False,False
 2026,Indiana,IN,State House,97,general,Justin Moed,Democratic,,,True,True
 2026,Indiana,IN,State House,97,general,Mark Renholzberger,Libertarian,,,False,False
+2026,Kentucky,KY,State House,1,general,Steven Rudy,Republican,,,True,True
+2026,Kentucky,KY,State House,2,general,Kim Holloway,Republican,,,True,True
+2026,Kentucky,KY,State House,3,general,Randy Bridges,Republican,,,True,True
+2026,Kentucky,KY,State House,3,general,Michael McVicker,Democratic,,,False,False
+2026,Kentucky,KY,State House,4,general,Wade Williams,Republican,,,True,True
+2026,Kentucky,KY,State House,5,general,Mary Beth Imes,Republican,,,True,True
+2026,Kentucky,KY,State House,6,general,Chris Freeland,Republican,,,True,True
+2026,Kentucky,KY,State House,7,general,Suzanne Miles,Republican,,,True,True
+2026,Kentucky,KY,State House,7,general,Laurie Campbell,Democratic,,,False,False
+2026,Kentucky,KY,State House,8,general,Walker Thomas,Republican,,,True,True
+2026,Kentucky,KY,State House,9,general,Myron Dossett,Republican,,,True,True
+2026,Kentucky,KY,State House,10,general,Josh Calloway,Republican,,,True,True
+2026,Kentucky,KY,State House,10,general,John Whipple,Democratic,,,False,False
+2026,Kentucky,KY,State House,11,general,J. T. Payne,Republican,,,True,True
+2026,Kentucky,KY,State House,11,general,Janelle Rowena Glass,Democratic,,,False,False
+2026,Kentucky,KY,State House,12,general,Jim Gooch Jr.,Republican,,,True,True
+2026,Kentucky,KY,State House,13,general,DJ Johnson,Republican,,,True,True
+2026,Kentucky,KY,State House,13,general,Rhondalyn Randolph,Democratic,,,False,False
+2026,Kentucky,KY,State House,14,general,Wes Pate,Republican,,,True,False
+2026,Kentucky,KY,State House,14,general,Donna Haynes,Democratic,,,False,False
+2026,Kentucky,KY,State House,15,general,Rebecca Raymer,Republican,,,True,True
+2026,Kentucky,KY,State House,15,general,Chris Waddell,Democratic,,,False,False
+2026,Kentucky,KY,State House,16,general,Jason Petrie,Republican,,,True,True
+2026,Kentucky,KY,State House,17,general,Robert Duvall,Republican,,,True,True
+2026,Kentucky,KY,State House,18,general,Samara Heavrin,Republican,,,True,True
+2026,Kentucky,KY,State House,19,general,Michael Meredith,Republican,,,True,True
+2026,Kentucky,KY,State House,20,general,Kevin Jackson,Republican,,,True,True
+2026,Kentucky,KY,State House,21,general,Amy Neighbors,Republican,,,True,True
+2026,Kentucky,KY,State House,22,general,Shawn McPherson,Republican,,,True,True
+2026,Kentucky,KY,State House,23,general,Steve Riley,Republican,,,True,True
+2026,Kentucky,KY,State House,24,general,Ryan Bivens,Republican,,,True,True
+2026,Kentucky,KY,State House,24,general,Johnny Pennington,Democratic,,,False,False
+2026,Kentucky,KY,State House,25,general,Steve Bratcher,Republican,,,True,True
+2026,Kentucky,KY,State House,25,general,Cherlyn Evette Smith,Democratic,,,False,False
+2026,Kentucky,KY,State House,26,general,Peyton Griffee,Republican,,,True,True
+2026,Kentucky,KY,State House,27,general,Joseph Redmon,Republican,,,True,False
+2026,Kentucky,KY,State House,27,general,Susan Doman,Democratic,,,False,False
+2026,Kentucky,KY,State House,28,general,Jared Bauman,Republican,,,True,True
+2026,Kentucky,KY,State House,28,general,Almaria Baker,Democratic,,,False,False
+2026,Kentucky,KY,State House,29,general,Chris Lewis,Republican,,,True,True
+2026,Kentucky,KY,State House,29,general,Cassie Blausey,Democratic,,,False,False
+2026,Kentucky,KY,State House,30,general,Mitra Subedi,Democratic,,,True,False
+2026,Kentucky,KY,State House,31,general,Susan Witten,Republican,,,True,True
+2026,Kentucky,KY,State House,31,general,Tim Hall,Democratic,,,False,False
+2026,Kentucky,KY,State House,32,general,Tina Bojanowski,Democratic,,,True,True
+2026,Kentucky,KY,State House,33,general,Jason Nemes,Republican,,,True,True
+2026,Kentucky,KY,State House,33,general,Jennifer Hardin,Democratic,,,False,False
+2026,Kentucky,KY,State House,34,general,Sarah Stalker,Democratic,,,True,True
+2026,Kentucky,KY,State House,34,general,Victoria Ligon,Republican,,,False,False
+2026,Kentucky,KY,State House,35,general,Lisa Willner,Democratic,,,True,True
+2026,Kentucky,KY,State House,35,general,Bret Shultz,Republican,,,False,False
+2026,Kentucky,KY,State House,36,general,John Hodgson,Republican,,,True,True
+2026,Kentucky,KY,State House,36,general,"William ""Woody"" Zorn",Democratic,,,False,False
+2026,Kentucky,KY,State House,37,general,Emily Callaway,Republican,,,True,True
+2026,Kentucky,KY,State House,38,general,Rachel Roarx,Democratic,,,True,True
+2026,Kentucky,KY,State House,38,general,Carrie Sanders McKeehan,Republican,,,False,False
+2026,Kentucky,KY,State House,39,general,Matt Lockett,Republican,,,True,True
+2026,Kentucky,KY,State House,39,general,Ryan Stanford,Democratic,,,False,False
+2026,Kentucky,KY,State House,40,general,Nima Kulkarni,Democratic,,,True,True
+2026,Kentucky,KY,State House,41,general,Mary Lou Marzian,Democratic,,,True,True
+2026,Kentucky,KY,State House,42,general,Joshua Watkins,Democratic,,,True,True
+2026,Kentucky,KY,State House,43,general,Robert LeVertis Bell,Democratic,,,True,False
+2026,Kentucky,KY,State House,43,general,Lisa Harris,Write-in,,,False,False
+2026,Kentucky,KY,State House,44,general,Kenya Wade,Democratic,,,True,False
+2026,Kentucky,KY,State House,45,general,Adam Moore,Democratic,,,True,True
+2026,Kentucky,KY,State House,45,general,Killian Timoney,Republican,,,False,False
+2026,Kentucky,KY,State House,46,general,Al Gentry,Democratic,,,True,True
+2026,Kentucky,KY,State House,46,general,Brad Woolridge,Republican,,,False,False
+2026,Kentucky,KY,State House,47,general,Felicia Rabourn,Republican,,,True,True
+2026,Kentucky,KY,State House,48,general,Ken Fleming,Republican,,,True,True
+2026,Kentucky,KY,State House,48,general,Suhas Kulkarni,Democratic,,,False,False
+2026,Kentucky,KY,State House,49,general,Thomas Huff,Republican,,,True,True
+2026,Kentucky,KY,State House,50,general,Candy Massaroni,Republican,,,True,True
+2026,Kentucky,KY,State House,50,general,J. D. Netherton,Democratic,,,False,False
+2026,Kentucky,KY,State House,51,general,Michael Pollock,Republican,,,True,True
+2026,Kentucky,KY,State House,52,general,Kevin Jones,Republican,,,True,False
+2026,Kentucky,KY,State House,53,general,James Tipton,Republican,,,True,True
+2026,Kentucky,KY,State House,54,general,Daniel Elliott,Republican,,,True,True
+2026,Kentucky,KY,State House,55,general,Kim King,Republican,,,True,True
+2026,Kentucky,KY,State House,55,general,Katrina Sexton,Democratic,,,False,False
+2026,Kentucky,KY,State House,56,general,Daniel Fister,Republican,,,True,True
+2026,Kentucky,KY,State House,56,general,David Graves,Democratic,,,False,False
+2026,Kentucky,KY,State House,57,general,Erika Hancock,Democratic,,,True,True
+2026,Kentucky,KY,State House,58,general,Jennifer Decker,Republican,,,True,True
+2026,Kentucky,KY,State House,58,general,Andrew Thomas Monarch,Democratic,,,False,False
+2026,Kentucky,KY,State House,59,general,David W. Osborne,Republican,,,True,True
+2026,Kentucky,KY,State House,59,general,Stephanie White,Democratic,,,False,False
+2026,Kentucky,KY,State House,60,general,Marianne Proctor,Republican,,,True,True
+2026,Kentucky,KY,State House,60,general,Tracey Reid,Democratic,,,False,False
+2026,Kentucky,KY,State House,61,general,Savannah Maddox,Republican,,,True,True
+2026,Kentucky,KY,State House,62,general,Tony Hampton,Republican,,,True,True
+2026,Kentucky,KY,State House,62,general,Randy Jackson Simpkins,Democratic,,,False,False
+2026,Kentucky,KY,State House,63,general,Cole Cuzick,Republican,,,True,False
+2026,Kentucky,KY,State House,64,general,Kimberly Poore Moser,Republican,,,True,True
+2026,Kentucky,KY,State House,64,general,William Nick Whalen,Democratic,,,False,False
+2026,Kentucky,KY,State House,65,general,Stephanie Dietz,Republican,,,True,True
+2026,Kentucky,KY,State House,65,general,Aaron John Currin,Democratic,,,False,False
+2026,Kentucky,KY,State House,66,general,T. J. Roberts,Republican,,,True,True
+2026,Kentucky,KY,State House,66,general,Jason Ellis,Democratic,,,False,False
+2026,Kentucky,KY,State House,67,general,Matthew Lehman,Democratic,,,True,True
+2026,Kentucky,KY,State House,67,general,Terry Hatton,Republican,,,False,False
+2026,Kentucky,KY,State House,68,general,Mike Clines,Republican,,,True,True
+2026,Kentucky,KY,State House,68,general,Amy Amin,Democratic,,,False,False
+2026,Kentucky,KY,State House,69,general,Steven Doan,Republican,,,True,True
+2026,Kentucky,KY,State House,69,general,Wilanne Stangel,Democratic,,,False,False
+2026,Kentucky,KY,State House,70,general,Mike Fisher,Republican,,,True,False
+2026,Kentucky,KY,State House,70,general,Charlotte Harris,Democratic,,,False,False
+2026,Kentucky,KY,State House,71,general,Josh Bray,Republican,,,True,True
+2026,Kentucky,KY,State House,72,general,Matthew Koch,Republican,,,True,True
+2026,Kentucky,KY,State House,73,general,Daniel Konstantopoulos,Republican,,,True,False
+2026,Kentucky,KY,State House,73,general,Chelsea Kirk,Democratic,,,False,False
+2026,Kentucky,KY,State House,74,general,David Charles,Republican,,,True,False
+2026,Kentucky,KY,State House,75,general,Lindsey Burke,Democratic,,,True,True
+2026,Kentucky,KY,State House,75,general,Jeff Forsyth,Republican,,,False,False
+2026,Kentucky,KY,State House,75,general,Geoff Young,Kentucky,,,False,False
+2026,Kentucky,KY,State House,76,general,Anne Gay Donworth,Democratic,,,True,True
+2026,Kentucky,KY,State House,76,general,Avram Phoenix Hicks,Republican,,,False,False
+2026,Kentucky,KY,State House,77,general,George Brown Jr.,Democratic,,,True,True
+2026,Kentucky,KY,State House,77,general,Jason Griffith,Republican,,,False,False
+2026,Kentucky,KY,State House,78,general,Mark Hart,Republican,,,True,True
+2026,Kentucky,KY,State House,79,general,Chad Aull,Democratic,,,True,False
+2026,Kentucky,KY,State House,80,general,David Meade,Republican,,,True,True
+2026,Kentucky,KY,State House,80,general,Mary Russell,Democratic,,,False,False
+2026,Kentucky,KY,State House,81,general,Deanna Gordon,Republican,,,True,True
+2026,Kentucky,KY,State House,81,general,Anthony Looney,Democratic,,,False,False
+2026,Kentucky,KY,State House,82,general,Nick Wilson,Republican,,,True,True
+2026,Kentucky,KY,State House,83,general,Josh Branscum,Republican,,,True,True
+2026,Kentucky,KY,State House,84,general,Chris Fugate,Republican,,,True,True
+2026,Kentucky,KY,State House,85,general,Shane Baker,Republican,,,True,True
+2026,Kentucky,KY,State House,86,general,Tom Smith,Republican,,,True,True
+2026,Kentucky,KY,State House,87,general,Adam Bowling,Republican,,,True,True
+2026,Kentucky,KY,State House,88,general,Vanessa Grossl,Republican,,,True,False
+2026,Kentucky,KY,State House,88,general,L. Scott Miller,Independent,,,False,False
+2026,Kentucky,KY,State House,89,general,Timmy Truett,Republican,,,True,True
+2026,Kentucky,KY,State House,90,general,Derek Lewis,Republican,,,True,True
+2026,Kentucky,KY,State House,91,general,Darrell Billings,Republican,,,True,False
+2026,Kentucky,KY,State House,91,general,David Johnson,Democratic,,,False,False
+2026,Kentucky,KY,State House,92,general,John Blanton,Republican,,,True,True
+2026,Kentucky,KY,State House,93,general,Adrielle Camuel,Democratic,,,True,True
+2026,Kentucky,KY,State House,93,general,Hannah Beth Rivera,Republican,,,False,False
+2026,Kentucky,KY,State House,94,general,Mitch Whitaker,Republican,,,True,True
+2026,Kentucky,KY,State House,95,general,Johnny Ray Turner,Democratic,,,True,False
+2026,Kentucky,KY,State House,95,general,Tanner Hesterberg,Republican,,,False,False
+2026,Kentucky,KY,State House,96,general,Patrick Flannery,Republican,,,True,True
+2026,Kentucky,KY,State House,96,general,Pamela Lewis,Democratic,,,False,False
+2026,Kentucky,KY,State House,97,general,Bobby McCool,Republican,,,True,True
+2026,Kentucky,KY,State House,97,general,Rabekah Skaggs,Democratic,,,False,False
+2026,Kentucky,KY,State House,98,general,Aaron Thompson,Republican,,,True,True
+2026,Kentucky,KY,State House,99,general,Richard White,Republican,,,True,True
+2026,Kentucky,KY,State House,99,general,Iva Markicevic Daley,Democratic,,,False,False
+2026,Kentucky,KY,State House,100,general,Scott Sharp,Republican,,,True,True
 2026,Maryland,MD,State House,1A,general,Dan Duggan,Republican,,,True,False
 2026,Maryland,MD,State House,1A,general,Jason Jobe,Democratic,,,False,False
 2026,Maryland,MD,State House,1B,general,Jason C. Buckel,Republican,,,True,True
@@ -627,7 +910,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Michigan,MI,State House,32,general,Ryan Sample,Green,,,False,False
 2026,Michigan,MI,State House,33,general,Morgan Foreman,Democratic,,,True,True
 2026,Michigan,MI,State House,33,general,Catherine Rogers,Republican,,,False,False
-2026,Michigan,MI,State House,34,general,Nancy Jenkins,Republican,,,True,True
+2026,Michigan,MI,State House,34,general,Nancy Jenkins-Arno,Republican,,,True,True
+2026,Michigan,MI,State House,34,general,John E. Dahlgren,Democratic,,,False,False
 2026,Michigan,MI,State House,35,general,Jennifer Wortz,Republican,,,True,True
 2026,Michigan,MI,State House,35,general,Jeff Cooley,Democratic,,,False,False
 2026,Michigan,MI,State House,36,general,Steve Carra,Republican,,,True,True
@@ -1422,13 +1706,13 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Texas,TX,State House,15,general,Moniqua S. Scott,Democratic,,,False,False
 2026,Texas,TX,State House,15,general,Jessi Cowart,Libertarian,,,False,False
 2026,Texas,TX,State House,16,general,Will Metcalf,Republican,,,True,True
-2026,Texas,TX,State House,16,general,Bobby Clayton,Democratic,,,False,False
+2026,Texas,TX,State House,16,general,Bobbie Clayton,Democratic,,,False,False
 2026,Texas,TX,State House,17,general,Stan Gerdes,Republican,,,True,True
 2026,Texas,TX,State House,17,general,Mary Elizabeth Klenz,Democratic,,,False,False
 2026,Texas,TX,State House,18,general,Janis Holt,Republican,,,True,True
 2026,Texas,TX,State House,18,general,Valorie Barton,Democratic,,,False,False
 2026,Texas,TX,State House,19,general,Ellen Troxclair,Republican,,,True,True
-2026,Texas,TX,State House,19,general,Kelly Hall (withdrawn),Democratic,,,False,False
+2026,Texas,TX,State House,19,general,Tom Luck,Democratic,,,False,False
 2026,Texas,TX,State House,20,general,Terry Wilson,Republican,,,True,True
 2026,Texas,TX,State House,20,general,Matthias-Jonah Early,Democratic,,,False,False
 2026,Texas,TX,State House,21,general,Ray Callas,Republican,,,True,False
@@ -1441,7 +1725,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Texas,TX,State House,25,general,Cody Vasut,Republican,,,True,True
 2026,Texas,TX,State House,25,general,Mike Meadors,Democratic,,,False,False
 2026,Texas,TX,State House,26,general,Matt Morgan,Republican,,,True,True
-2026,Texas,TX,State House,26,general,"Elizabeth ""Liz"" Markowitz",Democratic,,,False,False
+2026,Texas,TX,State House,26,general,"Elizabeth ""Eliz"" Markowitz",Democratic,,,False,False
 2026,Texas,TX,State House,27,general,Ron Reynolds,Democratic,,,True,True
 2026,Texas,TX,State House,27,general,Max Alalibo,Republican,,,False,False
 2026,Texas,TX,State House,28,general,Gary Gates,Republican,,,True,True
@@ -1526,7 +1810,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Texas,TX,State House,70,general,Mihaela Plesa,Democratic,,,True,True
 2026,Texas,TX,State House,70,general,George Flint,Republican,,,False,False
 2026,Texas,TX,State House,71,general,Jay Hardaway,Republican,,,True,False
-2026,Texas,TX,State House,71,general,Chance Ferguson,Democratic,,,False,False
+2026,Texas,TX,State House,71,general,Diana Luna,Democratic,,,False,False
 2026,Texas,TX,State House,72,general,Drew Darby,Republican,,,True,True
 2026,Texas,TX,State House,72,general,Shiloh Salazar,Democratic,,,False,False
 2026,Texas,TX,State House,73,general,Carrie Isaac,Republican,,,True,True

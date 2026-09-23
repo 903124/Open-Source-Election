@@ -4118,6 +4118,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2025,Virginia,VA,governor,2025 Virginia gubernatorial election,Candidate,Winsome Earle-Sears,Republican,1449586,42.22,False,False
 2025,Virginia,VA,governor,2025 Virginia gubernatorial election,Write-in,,,6897,0.2,False,False
 2025,Virginia,VA,governor,2025 Virginia gubernatorial election,Total,,,3433340,100.0,False,False
+2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Candidate,Caroleene Dobson,Republican,,,False,False
+2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Candidate,Wayne Rogers,Democratic,,,False,False
+2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Total,,,,100.0,False,False
+2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Candidate,Tommy Tuberville,Republican,,,False,False
+2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Candidate,Doug Jones,Democratic,,,False,False
+2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Total,,,,100.0,False,False
 2026,Alaska,AK,governor,2026 Alaska's at-large congressional district election,Candidate,Dan S. Sullivan,Republican,,,False,True
 2026,Alaska,AK,governor,2026 Alaska's at-large congressional district election,Candidate,Mary Peltola,Democratic,,,False,False
 2026,Alaska,AK,governor,2026 Alaska's at-large congressional district election,Candidate,TBD,Republican,,,False,False
@@ -4137,6 +4143,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Risa Lombardo,Green,,,False,False
 2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Teri Ann Hourihan,Labels,,,False,False
 2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Total,,,,100.0,False,False
+2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Candidate,Cole Jester,Republican,,,False,False
+2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Candidate,Kelly Grappe,Democratic,,,False,False
+2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Candidate,Michael Pakko,Libertarian,,,False,False
+2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Total,,,,,False,False
 2026,California,CA,attorney general,2026 California Attorney General election,Candidate,Rob Bonta,Democratic,,,False,True
 2026,California,CA,attorney general,2026 California Attorney General election,Candidate,Michael Gates,Republican,,,False,False
 2026,California,CA,attorney general,2026 California Attorney General election,Total,,,,,False,False
@@ -4146,6 +4156,31 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,California,CA,governor,2026 California gubernatorial election,Candidate,Xavier Becerra,Democratic,,,False,False
 2026,California,CA,governor,2026 California gubernatorial election,Candidate,Steve Hilton,Republican,,,False,False
 2026,California,CA,governor,2026 California gubernatorial election,Total,,,,,False,False
+2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Candidate,Jena Griswold,Democratic,,,False,False
+2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Candidate,Michael J. Allen,Republican,,,False,False
+2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Total,,,,100.0,False,False
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Amanda Gonzalez,Democratic,,,False,False
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,James Wiley,Republican,,,False,False
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Amanda Campbell,American Constitution Party (colorado),,,False,False
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Celeste Landry,Forward,,,False,False
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Sean Vadney,Libertarian,,,False,False
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Total,,,,100.0,False,False
+2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Jeff Bridges,Democratic,,,False,False
+2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Kevin Grantham,Republican,,,False,False
+2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Jodie Barr,Libertarian,,,False,False
+2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Marilee Langner Sturgis,Voting,,,False,False
+2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Total,,,,100.0,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Phil Weiser,Democratic,,,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Victor Marx,Republican,,,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Stephen T. Hamilton,American Constitution Party (colorado),,,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Greg Lopez,Independent,,,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Erik Mulder,Libertarian,,,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Jeff Peckman,Unity,,,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Erik Underwood,Voting,,,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Total,,,,100.0,False,False
+2026,District of Columbia,DC,attorney general,2026 District of Columbia Attorney General election,Candidate,Brian Schwalb,District,,,False,True
+2026,District of Columbia,DC,attorney general,2026 District of Columbia Attorney General election,Candidate,Manuel Rivera,District,,,False,False
+2026,District of Columbia,DC,attorney general,2026 District of Columbia Attorney General election,Total,,,,100.0,False,False
 2026,Florida,FL,attorney general,2026 Florida Attorney General election,Candidate,James Uthmeier,Republican,,,False,True
 2026,Florida,FL,attorney general,2026 Florida Attorney General election,Candidate,Jose Javier Rodriguez,Democratic,,,False,False
 2026,Florida,FL,attorney general,2026 Florida Attorney General election,Total,,,,100.0,False,False
@@ -4161,10 +4196,45 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Candidate,Therese Terlaje,Democratic,,,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Candidate,Vicente Ada,Republican,,,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Total,,,,,False,False
+2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Candidate,Kwame Raoul,Democratic,,,False,True
+2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Candidate,Bob Fioretti,Republican,,,False,False
+2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Total,,,,100.0,False,False
+2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Candidate,Alexi Giannoulias,Democratic,,,False,True
+2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Candidate,Diane M. Harris,Republican,,,False,False
+2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Total,,,,100.0,False,False
+2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Candidate,Mike Frerichs,Democratic,,,False,True
+2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Candidate,Max Solomon,Republican,,,False,False
+2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Total,,,,100.0,False,False
+2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,JB Pritzker,Democratic,,,False,True
+2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Darren Bailey,Republican,,,False,False
+2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Collin Corbett,Independent,,,False,False
+2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Total,,,,100.0,False,False
+2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Candidate,Brenna Bird,Republican,,,False,True
+2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Candidate,Nathan Willems,Democratic,,,False,False
+2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Total,,,,100.0,False,False
+2026,Iowa,IA,secretary of state,2026 Iowa Secretary of State election,Candidate,Paul Pate,Republican,,,False,True
+2026,Iowa,IA,secretary of state,2026 Iowa Secretary of State election,Candidate,Ryan Peterman,Democratic,,,False,False
+2026,Iowa,IA,secretary of state,2026 Iowa Secretary of State election,Total,,,,100.0,False,False
+2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election,Candidate,Roby Smith,Republican,,,False,True
+2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election,Candidate,John Norwood,Democratic,,,False,False
+2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election,Total,,,,100.0,False,False
 2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Candidate,Zach Lahn,Republican,,,False,False
 2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Candidate,Rob Sand,Democratic,,,False,False
-2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Candidate,Sondra Wilson,Independent,,,False,False
-2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Total,,,,,False,False
+2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Total,,,,100.0,False,False
+2026,Kansas,KS,attorney general,2026 Kansas Attorney General election,Candidate,Kris Kobach,Republican,,,False,True
+2026,Kansas,KS,attorney general,2026 Kansas Attorney General election,Candidate,Chris Mann,Democratic,,,False,False
+2026,Kansas,KS,attorney general,2026 Kansas Attorney General election,Total,,,,100.0,False,False
+2026,Kansas,KS,secretary of state,2026 Kansas Secretary of State election,Candidate,Pat Proctor,Republican,,,False,False
+2026,Kansas,KS,secretary of state,2026 Kansas Secretary of State election,Candidate,Jennifer Day,Democratic,,,False,False
+2026,Kansas,KS,secretary of state,2026 Kansas Secretary of State election,Candidate,Scott E. Morgan,United Kansas,,,False,False
+2026,Kansas,KS,secretary of state,2026 Kansas Secretary of State election,Total,,,,100.0,False,False
+2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election,Candidate,Steven Johnson,Republican,,,False,True
+2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election,Candidate,Juan Luengo,Democratic,,,False,False
+2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election,Candidate,Eric Lund,Libertarian,,,False,False
+2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election,Total,,,,100.0,False,False
+2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Cindy Holscher,Democratic,,,False,False
+2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Ty Masterson,Republican,,,False,False
+2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Total,,,,100.0,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,Anthony Brown,Democratic,,,False,True
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,James B. Rutledge III,Republican,,,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Total,,,,,False,False
@@ -4173,11 +4243,92 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,,,False,False
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,,,False,False
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,,,False,False
+2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Eli Savit,Democratic,,,False,False
+2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Doug Lloyd,Republican,,,False,False
+2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Jason Dye,Libertarian,,,False,False
+2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,John Ludtke Jr.,Constitution,,,False,False
+2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Jeff Polonowski,Green,,,False,False
+2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Doug Dern,Law,,,False,False
+2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Total,,,,100.0,False,False
+2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Garlin Gilchrist,Democratic,,,False,False
+2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Anthony Forlini,Republican,,,False,False
+2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Christine Sloan,Libertarian,,,False,False
+2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Scott Aughney,Constitution,,,False,False
+2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Eric Borregard,Green,,,False,False
+2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Total,,,,100.0,False,False
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Jocelyn Benson,Democratic,,,False,False
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,John James,Republican,,,False,False
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Anthony Hudson,Libertarian,,,False,False
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Donna Brandenburg,Constitution,,,False,False
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Douglas Campbell,Green,,,False,False
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Total,,,,100.0,False,False
+2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Candidate,Keith Ellison,Minnesota Democratic–farmer–labor,,,False,True
+2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Candidate,Ronald J. Schutz,Republican,,,False,False
+2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Total,,,,100.0,False,False
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Steve Simon,Minnesota Democratic–farmer–labor,,,False,True
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Tad Jude,Republican,,,False,False
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Seth Kuhl-Stennes,Green,,,False,False
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,"George ""Chip"" Tangen",Libertarian,,,False,False
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Total,,,,100.0,False,False
+2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Candidate,Amy Klobuchar,Minnesota Democratic–farmer–labor,,,False,False
+2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Candidate,Lisa Demuth,Republican,,,False,False
+2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Candidate,Steven Young,Green,,,False,False
+2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Total,,,,100.0,False,False
 2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Scott Petersen,Republican,,,False,False
 2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Sarah Slattery,Democratic,,,False,False
-2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Bob Krist,America First,,,False,False
-2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Paul Rumbaugh,Working People,,,False,False
+2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Bob Krist,America First Party (nebraska),,,False,False
+2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Paul Rumbaugh,People,,,False,False
 2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Total,,,,,False,False
+2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Jim Pillen (incumbent) Joe Kelly,Republican,,,False,True
+2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Lynne Walz Ben Steffen,Democratic,,,False,False
+2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Rick Beard Keenya Barnes,Now,,,False,False
+2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Brett Lindstrom Mike Picard,America First Party (nebraska),,,False,False
+2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Total,,,,,False,False
+2026,Nevada,NV,attorney general,2026 Nevada Attorney General election,Candidate,Nicole Cannizzaro,Democratic,,,False,False
+2026,Nevada,NV,attorney general,2026 Nevada Attorney General election,Candidate,Adriana Guzmán Fralick,Republican,,,False,False
+2026,Nevada,NV,attorney general,2026 Nevada Attorney General election,Total,,,,100.0,False,False
+2026,Nevada,NV,secretary of state,2026 Nevada Secretary of State election,Candidate,Cisco Aguilar,Democratic,,,False,True
+2026,Nevada,NV,secretary of state,2026 Nevada Secretary of State election,Candidate,Jim Marchant,Republican,,,False,False
+2026,Nevada,NV,secretary of state,2026 Nevada Secretary of State election,Candidate,Brad Lee Barnhill,American,,,False,False
+2026,Nevada,NV,secretary of state,2026 Nevada Secretary of State election,Candidate,John T. Kennedy,Libertarian,,,False,False
+2026,Nevada,NV,secretary of state,2026 Nevada Secretary of State election,Total,,,,100.0,False,False
+2026,Nevada,NV,state treasurer,2026 Nevada State Treasurer election,Candidate,Tya Mathis-Coleman,Democratic,,,False,False
+2026,Nevada,NV,state treasurer,2026 Nevada State Treasurer election,Candidate,Drew Johnson,Republican,,,False,False
+2026,Nevada,NV,state treasurer,2026 Nevada State Treasurer election,Total,,,,100.0,False,False
+2026,Nevada,NV,governor,2026 Nevada gubernatorial election,Candidate,Joe Lombardo,Republican,,,False,True
+2026,Nevada,NV,governor,2026 Nevada gubernatorial election,Candidate,Aaron Ford,Democratic,,,False,False
+2026,Nevada,NV,governor,2026 Nevada gubernatorial election,Candidate,Danielle Ford,Independent,,,False,False
+2026,Nevada,NV,governor,2026 Nevada gubernatorial election,Total,,,,100.0,False,False
+2026,New Mexico,NM,attorney general,2026 New Mexico Attorney General election,Candidate,Raúl Torrez,Democratic,,,False,True
+2026,New Mexico,NM,attorney general,2026 New Mexico Attorney General election,Candidate,"Samuel Kane, Sr.",Republican,,,False,False
+2026,New Mexico,NM,attorney general,2026 New Mexico Attorney General election,Total,,,,100.0,False,False
+2026,New Mexico,NM,secretary of state,2026 New Mexico Secretary of State election,Candidate,Amanda López Askin,Democratic,,,False,False
+2026,New Mexico,NM,secretary of state,2026 New Mexico Secretary of State election,Candidate,Ramona L. Goolsby,Republican,,,False,False
+2026,New Mexico,NM,secretary of state,2026 New Mexico Secretary of State election,Total,,,,100.0,False,False
+2026,New Mexico,NM,state treasurer,2026 New Mexico State Treasurer election,Candidate,Laura Montoya,Democratic,,,False,True
+2026,New Mexico,NM,state treasurer,2026 New Mexico State Treasurer election,Candidate,James F. Ellison,Republican,,,False,False
+2026,New Mexico,NM,state treasurer,2026 New Mexico State Treasurer election,Total,,,,100.0,False,False
+2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Candidate,Deb Haaland,Democratic,,,False,False
+2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Candidate,Gregg Hull,Republican,,,False,False
+2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Total,,,,100.0,False,False
+2026,Ohio,OH,attorney general,2026 Ohio Attorney General election,Candidate,Keith Faber,Republican,,,False,False
+2026,Ohio,OH,attorney general,2026 Ohio Attorney General election,Candidate,John Kulewicz,Democratic,,,False,False
+2026,Ohio,OH,attorney general,2026 Ohio Attorney General election,Total,,,,100.0,False,False
+2026,Ohio,OH,secretary of state,2026 Ohio Secretary of State election,Candidate,Robert Sprague,Republican,,,False,False
+2026,Ohio,OH,secretary of state,2026 Ohio Secretary of State election,Candidate,Allison Russo,Democratic,,,False,False
+2026,Ohio,OH,secretary of state,2026 Ohio Secretary of State election,Candidate,Tom Pruss,Libertarian,,,False,False
+2026,Ohio,OH,secretary of state,2026 Ohio Secretary of State election,Total,,,,100.0,False,False
+2026,Ohio,OH,state treasurer,2026 Ohio State Treasurer election,Candidate,Jay Edwards,Republican,,,False,False
+2026,Ohio,OH,state treasurer,2026 Ohio State Treasurer election,Candidate,Seth Walsh,Democratic,,,False,False
+2026,Ohio,OH,state treasurer,2026 Ohio State Treasurer election,Total,,,,100.0,False,False
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Candidate,Vivek Ramaswamy,Republican,,,False,False
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Candidate,Amy Acton,Democratic,,,False,False
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Candidate,Don Kissick,Libertarian,,,False,False
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Total,,,,100.0,False,False
+2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Josh Shapiro,Democratic,,,False,True
+2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Stacy Garrity,Republican,,,False,False
+2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Ken Krawchuk,Libertarian,,,False,False
+2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Total,,,,100.0,False,False
 2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Mayes Middleton,Republican,,,False,False
 2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Nathan Johnson,Democratic,,,False,False
 2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Tom Oxford,Libertarian,,,False,False

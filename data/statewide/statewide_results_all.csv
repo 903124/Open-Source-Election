@@ -3126,8 +3126,10 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Arkansas,AR,governor,Colt Shelby,Libertarian,,False,False
 2026,California,CA,governor,Xavier Becerra,Democratic,,False,False
 2026,California,CA,governor,Steve Hilton,Republican,,False,False
+2026,Colorado,CO,governor,Stephen Hamilton,American Constitution Party (colorado),,False,False
 2026,Colorado,CO,governor,Greg Lopez,Independent,,False,False
 2026,Colorado,CO,governor,Victor Marx,Republican,,False,False
+2026,Colorado,CO,governor,Frederick Osborne,No Labels,,False,False
 2026,Colorado,CO,governor,Jeff Peckman,Unity,,False,False
 2026,Colorado,CO,governor,Phil Weiser,Democratic,,False,False
 2026,Connecticut,CT,governor,Ryan Fazio,Republican,,False,False
@@ -3139,7 +3141,6 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Florida,FL,governor,Byron Donalds,Republican,,False,False
 2026,Florida,FL,governor,Scott Jewett,Libertarian,,False,False
 2026,Florida,FL,governor,David Jolly,Democratic,,False,False
-2026,Florida,FL,governor,Desmond Meade,Independent,,False,False
 2026,Florida,FL,governor,Frank Russo,Independent,,False,False
 2026,Georgia,GA,governor,Keisha Lance Bottoms,Democratic,,False,False
 2026,Georgia,GA,governor,Rick Jackson,Republican,,False,False
@@ -3214,7 +3215,6 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Rhode Island,RI,governor,Ken Block,Independent,,False,False
 2026,Rhode Island,RI,governor,Helena Foulkes,Democratic,,False,False
 2026,Rhode Island,RI,governor,Aaron Guckian,Republican,,False,False
-2026,Rhode Island,RI,governor,Elaine Pelino,Republican,,False,False
 2026,South Carolina,SC,governor,Michael Addison,Citizens,,False,False
 2026,South Carolina,SC,governor,Walid Hakim,Green,,False,False
 2026,South Carolina,SC,governor,Jermaine Johnson,Democratic,,False,False
@@ -3271,10 +3271,8 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Colorado,CO,attorney general,Jena Griswold,Democratic,,False,False
 2026,Connecticut,CT,attorney general,John Bolton,Republican,,False,False
 2026,Connecticut,CT,attorney general,William Tong,Democratic,,False,True
-2026,Delaware,DE,attorney general,Dwayne Bensing,Democratic,,False,False
 2026,Delaware,DE,attorney general,Dave Graham,Republican,,False,False
 2026,Delaware,DE,attorney general,Kathy Jennings,Democratic,,False,True
-2026,Delaware,DE,attorney general,Patty Rickman,Democratic,,False,False
 2026,Florida,FL,attorney general,José Javier Rodríguez,Democratic,,False,False
 2026,Florida,FL,attorney general,James Uthmeier,Republican,,False,True
 2026,Georgia,GA,attorney general,Tanya F. Miller,Democratic,,False,False
@@ -3291,7 +3289,11 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Maryland,MD,attorney general,James Rutledge III,Republican,,False,False
 2026,Massachusetts,MA,attorney general,Andrea Campbell,Democratic,,False,True
 2026,Massachusetts,MA,attorney general,Michael Walsh,Republican,,False,False
+2026,Michigan,MI,attorney general,Doug Dern,Law,,False,False
+2026,Michigan,MI,attorney general,Jason Dye,Libertarian,,False,False
 2026,Michigan,MI,attorney general,Doug Lloyd,Republican,,False,False
+2026,Michigan,MI,attorney general,John Ludtke Jr.,Constitution,,False,False
+2026,Michigan,MI,attorney general,Jeff Polonowski,Green,,False,False
 2026,Michigan,MI,attorney general,Eli Savit,Democratic,,False,False
 2026,Minnesota,MN,attorney general,Keith Ellison,Minnesota Democratic–farmer–labor,,False,True
 2026,Minnesota,MN,attorney general,Ron Schutz,Republican,,False,False
@@ -3325,6 +3327,9 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,District of Columbia,DC,attorney general,Brian Schwalb,Democratic,,False,True
 2026,Guam,GU,attorney general,Tom Fisher,Nonpartisan,,False,False
 2026,Guam,GU,attorney general,Douglas Moylan,Nonpartisan,,False,True
+2026,Guam,GU,attorney general,Jordan Pauluhn,Nonpartisan,,False,False
+2026,Guam,GU,attorney general,Peter Santos,Nonpartisan,,False,False
+2026,Guam,GU,attorney general,Phillip Tydingco,Nonpartisan,,False,False
 2026,Northern Mariana Islands,MP,attorney general,Michael Evangelista,Nonpartisan,,False,False
 2026,Northern Mariana Islands,MP,attorney general,Jonathan Glass,Nonpartisan,,False,False
 2026,Northern Mariana Islands,MP,attorney general,Joaquin Torres,Nonpartisan,,False,False
@@ -3357,8 +3362,11 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Kansas,KS,secretary of state,Pat Proctor,Republican,,False,False
 2026,Massachusetts,MA,secretary of state,William F. Galvin,Democratic,,False,True
 2026,Massachusetts,MA,secretary of state,Anne Brensley,Republican,,False,False
+2026,Michigan,MI,secretary of state,Scott E. Aughney,Constitution,,False,False
+2026,Michigan,MI,secretary of state,Eric Borregard,Green,,False,False
 2026,Michigan,MI,secretary of state,Anthony Forlini,Republican,,False,False
 2026,Michigan,MI,secretary of state,Garlin Gilchrist,Democratic,,False,False
+2026,Michigan,MI,secretary of state,Christine Sloan,Libertarian,,False,False
 2026,Minnesota,MN,secretary of state,Tad Jude,Republican,,False,False
 2026,Minnesota,MN,secretary of state,Steve Simon,Democratic,,False,True
 2026,Nebraska,NE,secretary of state,Bob Krist,Other,,False,False
@@ -3380,6 +3388,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,South Carolina,SC,secretary of state,Mark Hammond,Republican,,False,True
 2026,South Dakota,SD,secretary of state,Heather Baxter,Republican,,False,False
 2026,South Dakota,SD,secretary of state,Terrence Davis,Democratic,,False,False
+2026,South Dakota,SD,secretary of state,Tamara Lesnar,Libertarian,,False,False
 2026,Vermont,VT,secretary of state,Sarah Copeland Hanzas,Democratic,,False,True
 2026,Vermont,VT,secretary of state,Brooke Paige,Republican,,False,False
 2026,Wisconsin,WI,secretary of state,Pete Karas,Green,,False,False
@@ -3387,6 +3396,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Wisconsin,WI,secretary of state,JoCasta Zamarripa,Democratic,,False,False
 2026,Wyoming,WY,secretary of state,Bryan McCarty,Democratic,,False,False
 2026,Wyoming,WY,secretary of state,Robert Short,Republican,,False,False
+2026,Wyoming,WY,secretary of state,Tamara Trujillo,Constitution,,False,False
 2026,Alabama,AL,state treasurer,Young Boozer,Republican,,False,True
 2026,Alabama,AL,state treasurer,Rosilyn Houston,Democratic,,False,False
 2026,Arizona,AZ,state treasurer,Nick Mansour,Democratic,,False,False
@@ -3398,9 +3408,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Connecticut,CT,state treasurer,Erick Russell,Democratic,,False,True
 2026,Connecticut,CT,state treasurer,Fred Wilms,Republican,,False,False
 2026,Delaware,DE,state treasurer,Ted Lauzen,Democratic,,False,False
-2026,Delaware,DE,state treasurer,Mike Miller,Democratic,,False,False
 2026,Delaware,DE,state treasurer,Mike Ramone,Republican,,False,False
-2026,Delaware,DE,state treasurer,Michael Smith,Democratic,,False,False
 2026,Florida,FL,state treasurer,Blaise Ingoglia,Republican,,False,True
 2026,Florida,FL,state treasurer,Annette Taddeo,Democratic,,False,False
 2026,Idaho,ID,state treasurer,Kevin Jones,Democratic,,False,False
@@ -3433,7 +3441,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,South Dakota,SD,state treasurer,Melissa Hull,Republican,,False,False
 2026,South Dakota,SD,state treasurer,Margaret Kuipers,Democratic,,False,False
 2026,Texas,TX,state treasurer,Sarah Eckhardt,Democratic,,False,False
-2026,Texas,TX,state treasurer,Don Huffines,Republican,,False,False
+2026,Texas,TX,state treasurer,Don Huffines,Republican,,False,True
 2026,Vermont,VT,state treasurer,Lynn LaFleur,Republican,,False,False
 2026,Vermont,VT,state treasurer,Mike Pieciak,Democratic,,False,True
 2026,Wisconsin,WI,state treasurer,John Leiber,Republican,,False,True
