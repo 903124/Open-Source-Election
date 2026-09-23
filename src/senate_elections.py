@@ -243,7 +243,14 @@ def _parse_moe_value(raw) -> Optional[float]:
 
 
 #: leading cell attributes like style="..." / colspan="2" (possibly several)
-_ATTR_RE = re.compile(r"^\s*(?:[a-zA-Z-]+\s*=\s*\"[^\"]*\"\s*)+")
+#: The value part excludes "|", "<" and ">": a raw pipe can never occur
+#: inside a MediaWiki table-cell attribute (a '|' terminates the attribute
+#: section), so refusing to cross one — and refusing to cross into a tag —
+#: keeps an *unbalanced* quote in malformed markup, e.g.
+#:     |style="text-align:left;|co/efficient (R)<ref name="co917"/>
+#: from making [^"]* swallow the cell content up to the next '"', which
+#: used to leave 'co917"/>' as the parsed pollster name.
+_ATTR_RE = re.compile(r"^\s*(?:[a-zA-Z-]+\s*=\s*\"[^\"<>|]*\"\s*)+")
 
 
 def _strip_cell_markup(cell: str) -> str:
@@ -305,7 +312,12 @@ def _split_row_cells(segment: str) -> List[str]:
 def _clean_cell(cell: str) -> str:
     """Plain text out of a table cell (templates, refs, party shading, bold)."""
     cell = html.unescape(cell)
-    cell = re.sub(r"<ref[^>]*>.*?</ref>", "", cell, flags=re.DOTALL)
+    # Self-closing refs must be removed BEFORE paired refs: the paired-ref
+    # pattern treats '<ref name="x"/>' as an opening tag and would otherwise
+    # swallow everything up to the next unrelated '</ref>' (deleting table
+    # content such as dates or percentages between the two).
+    cell = re.sub(r"<ref\b[^>]*/>", "", cell)
+    cell = re.sub(r"<ref\b[^>]*>.*?</ref>", "", cell, flags=re.DOTALL)
     cell = unwrap_format_templates(cell)       # {{nowrap|date}} → date
     cell = re.sub(r"\{\{[^}]+\}\}", "", cell)
     # malformed source markup: an unclosed whitelisted wrapper — keep the
@@ -520,6 +532,12 @@ def _plausible_source(text: Optional[str]) -> bool:
         return False
     if re.match(r"^[\d.,]+%?$", text.strip()):
         return False
+    # Markup remnants — e.g. 'co917"/>' leaked out of malformed
+    # '<ref name="..."/>' attribute markup — are never legitimate pollster
+    # names.  A '/' alone is fine ('co/efficient'), quotes and angle
+    # brackets are not.
+    if any(ch in text for ch in '<>"'):
+        return False
     return True
 
 
@@ -645,6 +663,10 @@ def _parse_one_polling_table(table_content: str, state_name: str) -> pd.DataFram
                     first = _first_pipe_cell_text(row)
                     if _plausible_source(first):
                         current_poll_source = first
+                        # propagate into the aligned row, otherwise this row
+                        # would still be dropped below despite having just
+                        # discovered its own pollster
+                        aligned["Poll_Source"] = first
                 if not aligned.get("Poll_Source"):
                     continue
                 rows.append(aligned)
@@ -691,8 +713,17 @@ def _parse_one_polling_table(table_content: str, state_name: str) -> pd.DataFram
         source, parsed = _parse_modern_row(row, headers)
         if source:
             current_poll_source = source
-        if parsed is not None and not current_poll_source:
-            # plain-text pollster cell (no wikilink) — e.g. 1998-era tables
+        elif parsed is not None:
+            # Plain-text pollster cell (no wikilink) — e.g. 1998-era tables.
+            # This fallback must run for EVERY parsed row that carries its own
+            # first cell, not only when current_poll_source is unset: a row
+            # whose pollster cell is present but unlinked would otherwise
+            # silently INHERIT the previous poll's source (2026 Alaska:
+            # several Alaska Survey Research / AARP-commissioned polls were
+            # published as 'Rasmussen Reports' / 'New York Times').
+            # Rowspan continuation rows have an empty or value-like first
+            # cell, so _plausible_source() keeps the inherited source for
+            # them.
             first = _first_pipe_cell_text(row)
             if _plausible_source(first):
                 current_poll_source = first

@@ -615,7 +615,11 @@ def _parse_election_box_rows(box_text: str) -> List[Dict]:
 def _fallback_cell(cell: str) -> str:
     """Wikitable cell → plain text (attrs, links, templates stripped)."""
     t = _clean_cell(cell)
-    t = re.sub(r'^\s*(?:[a-zA-Z-]+\s*=\s*"[^"]*"\s*)+', "", t)  # cell attributes
+    # Cell attributes: the quoted value must not contain '|', '<' or '>'
+    # (impossible in valid MediaWiki cell markup).  Excluding them stops an
+    # unbalanced quote from swallowing the cell content up to the next '"'
+    # (e.g. 'style="text-align:left;|Name (R)<ref name="x"/>' → 'x"/>').
+    t = re.sub(r'^\s*(?:[a-zA-Z-]+\s*=\s*"[^"<>|]*"\s*)+', "", t)  # cell attributes
     return t.replace("|", " ").strip()
 
 

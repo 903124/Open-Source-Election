@@ -21,12 +21,12 @@ Subcommands:
     presidential  Parse county-level presidential results per state.
     lean       Predicted partisan lean per congressional district from the
                district->county mapping (resources/district_counties.json)
-               + county presidential votes (supports 2004-2024). With
-               --midterm, computes the midterm district lean instead:
-               a Cook-PVI-style lean built from senate + state-election
-               votes (senate general races + governor/AG/SoS/treasurer,
-               optionally state-leg chamber totals via --components) for
-               the midterm years 2006-2022.
+               + county presidential votes (supports 2004-2024): a blend of
+               presidential (0.40), House (0.20), senate (0.20) and
+               statewide/state-leg (0.20) leans, weights renormalised over
+               the sources present. With --midterm, computes the midterm
+               district lean instead (same scheme minus the presidential
+               component) for the midterm years 2006-2022.
     crosswalk  Rebuild resources/district_counties.json from boundary
                geometry (UCLA cdmaps x 2010 Census counties; ~185 MB of
                cached, resumable downloads; needs shapely + pyproj).
@@ -60,8 +60,8 @@ Examples:
     python cli.py presidential --start-year 2020 --end-year 2024
     python cli.py lean                     # 2004-2024 from local presidential CSVs
     python cli.py lean --fetch-missing     # fetch missing presidential years first
-    python cli.py lean --midterm           # midterm lean from senate + statewide votes
-    python cli.py lean --midterm --components senate,statewide,state-leg
+    python cli.py lean --midterm           # midterm lean: house + senate + statewide + state-leg
+    python cli.py lean --midterm --components senate,statewide  # drop state-leg
     python cli.py lean --midterm --start-year 2014 --end-year 2018
     python cli.py crosswalk                # regenerate the district->county mapping
     python cli.py polling-check            # QC polling CSVs (size + data sanity)
@@ -207,22 +207,30 @@ def build_parser() -> argparse.ArgumentParser:
              "(default: <output>/presidential)",
     )
     lean.add_argument(
+        "--house-dir", default=None,
+        help="Directory holding house_results_{year}.csv — the 0.20-weight "
+             "component of the blend (default: <output>/house)",
+    )
+    lean.add_argument(
         "--fetch-missing", action="store_true",
         help="Fetch missing presidential years via the API before computing",
     )
     lean.add_argument(
         "--midterm", action="store_true",
-        help="Compute the midterm district lean (2006-2022) from senate + "
-             "state-election votes instead of the presidential county-based "
-             "lean: each state's blended two-party share in its midterm "
-             "races vs the same blend nationally, attached to every "
-             "district in force that year",
+        help="Compute the midterm district lean (2006-2022) instead of the "
+             "presidential county-based lean: the unified blend minus the "
+             "presidential component — the district's own House result, "
+             "its state's U.S. Senate races and its statewide ballot "
+             "(governor/AG/SoS/treasurer + state-leg chamber totals; "
+             "sources selectable via --components), weights renormalised "
+             "over what is present",
     )
     lean.add_argument(
-        "--components", default="senate,statewide",
+        "--components", default="senate,statewide,state-leg",
         help="Comma-separated midterm vote sources, out of: senate, "
-             "statewide, state-leg (default: senate,statewide; state-leg "
-             "enters as statewide chamber totals)",
+             "statewide, state-leg (default: senate,statewide,state-leg; "
+             "state-leg enters as statewide chamber totals over contested "
+             "districts only)",
     )
     lean.add_argument(
         "--senate-dir", default=None,
@@ -429,7 +437,7 @@ def main(argv: Optional[List[str]] = None) -> int:
             mid_start = args.start_year if args.command == "lean" else min(args.start_year, 2006)
             mid_end = args.end_year if args.command == "lean" else min(args.end_year, 2022)
             components = tuple(
-                c for c in getattr(args, "components", "senate,statewide")
+                c for c in getattr(args, "components", "senate,statewide,state-leg")
                 .replace(" ", "").split(",") if c)
             district_lean.run(
                 start_year=mid_start,
@@ -441,6 +449,7 @@ def main(argv: Optional[List[str]] = None) -> int:
                 senate_dir=getattr(args, "senate_dir", None),
                 statewide_dir=getattr(args, "statewide_dir", None),
                 state_leg_dir=getattr(args, "state_leg_dir", None),
+                house_dir=getattr(args, "house_dir", None),
             )
         if not getattr(args, "midterm", False):
             # the crosswalk only covers the 2000s/2010s/2020s maps, so lean is
@@ -455,6 +464,10 @@ def main(argv: Optional[List[str]] = None) -> int:
                 client=client,
                 mapping_path=getattr(args, "mapping", None),
                 presidential_dir=getattr(args, "presidential_dir", None),
+                house_dir=getattr(args, "house_dir", None),
+                senate_dir=getattr(args, "senate_dir", None),
+                statewide_dir=getattr(args, "statewide_dir", None),
+                state_leg_dir=getattr(args, "state_leg_dir", None),
                 fetch_missing=getattr(args, "fetch_missing", False),
             )
 

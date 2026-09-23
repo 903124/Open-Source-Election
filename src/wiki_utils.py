@@ -372,7 +372,11 @@ def clean_wikitext(text: str) -> str:
     if not text:
         return ""
     text = html.unescape(text)                               # &nbsp; &amp; ...
-    text = re.sub(r"<ref[^>]*>.*?</ref>", "", text, flags=re.DOTALL)
+    # Self-closing refs must go BEFORE paired refs: '<ref name="x"/>' would
+    # otherwise be treated as an opening tag and everything up to the next
+    # unrelated '</ref>' would be swallowed together with the cell content.
+    text = re.sub(r"<ref\b[^>]*/>", " ", text)
+    text = re.sub(r"<ref\b[^>]*>.*?</ref>", " ", text, flags=re.DOTALL)
     text = unwrap_format_templates(text)                     # {{Small|x}} → x
     text = re.sub(r"\{\{[^}]+\}\}", "", text)                # remove other templates
     text = re.sub(r"<br\s*/?>", " ", text)                   # <br> → space
