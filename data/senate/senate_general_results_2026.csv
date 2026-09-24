@@ -62,15 +62,20 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2026,Mississippi,2026 United States Senate election in Mississippi,General,Total,False,,,,
 2026,Montana,2026 United States Senate election in Montana,General,Candidate,False,Republican Party (United States),Kurt Alme,,
 2026,Montana,2026 United States Senate election in Montana,General,Candidate,False,Democratic Party (United States),Alani Bankhead,,
-2026,Montana,2026 United States Senate election in Montana,General,Candidate,False,Libertarian Party (United States),Kyle Austin,,
+2026,Montana,2026 United States Senate election in Montana,General,Candidate,False,Montana Libertarian Party,Kyle Austin,,
 2026,Montana,2026 United States Senate election in Montana,General,Candidate,False,Independent politician,Seth Bodnar,,
-2026,Montana,2026 United States Senate election in Montana,General,Total,False,,,,
+2026,Montana,2026 United States Senate election in Montana,General,Total,False,,,,100.0
 2026,Nebraska,2026 United States Senate election in Nebraska,General,Candidate,True,Republican Party (United States),Pete Ricketts,,
 2026,Nebraska,2026 United States Senate election in Nebraska,General,Candidate,False,Independent,Dan Osborn,,
 2026,Nebraska,2026 United States Senate election in Nebraska,General,Candidate,False,Nebraska Legal Marijuana NOW Party,Mike Marvin (withdrawn),,
 2026,Nebraska,2026 United States Senate election in Nebraska,General,Candidate,False,America First Party (Nebraska),Chuck Conboy,,
 2026,Nebraska,2026 United States Senate election in Nebraska,General,Candidate,False,Nebraska Working People Party,Robin Richards,,
 2026,Nebraska,2026 United States Senate election in Nebraska,General,Total,False,,,,
+2026,New Hampshire,2026 United States Senate election in New Hampshire,General,Candidate,False,Democratic Party (United States),Chris Pappas,,
+2026,New Hampshire,2026 United States Senate election in New Hampshire,General,Candidate,False,Republican Party (United States),John E. Sununu,,
+2026,New Hampshire,2026 United States Senate election in New Hampshire,General,Candidate,False,Constitution Party (United States),Edmond J. LaPlante Jr.,,
+2026,New Hampshire,2026 United States Senate election in New Hampshire,General,Write-in,False,,,,
+2026,New Hampshire,2026 United States Senate election in New Hampshire,General,Total,False,,,,100.0
 2026,New Jersey,Hunterdon County Democratic Convention,General,Winning,True,Democratic Party (United States),Cory Booker,146,79.3%
 2026,New Jersey,Hunterdon County Democratic Convention,General,Candidate,False,Democratic Party (United States),Chris Fields,30,16.3%
 2026,New Jersey,Hunterdon County Democratic Convention,General,Candidate,False,Democratic Party (United States),Lisa McCormick,8,4.3%
@@ -119,6 +124,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2026,New Jersey,Middlesex County Republican Convention,General,Candidate,False,Republican Party (United States),Justin Murphy,6,6.7%
 2026,New Jersey,Middlesex County Republican Convention,General,Candidate,False,Republican Party (United States),Alex Zdan,3,33.3%
 2026,New Jersey,Middlesex County Republican Convention,General,Total,False,,,90,100.0%
+2026,New Jersey,2026 United States Senate election in New Jersey,General,Candidate,True,Democratic Party (United States),Cory Booker,,
+2026,New Jersey,2026 United States Senate election in New Jersey,General,Candidate,False,Republican Party (United States),Justin Murphy,,
+2026,New Jersey,2026 United States Senate election in New Jersey,General,Candidate,False,Socialist Workers Party (US),Joanne Kuniansky,,
+2026,New Jersey,2026 United States Senate election in New Jersey,General,Total,False,,,,100.0
 2026,New Mexico,2026 United States Senate election in New Mexico,General,Candidate,True,Democratic Party (United States),Ben Ray Luján,,
 2026,New Mexico,2026 United States Senate election in New Mexico,General,Candidate,False,Republican Party (United States),Larry Marker,,
 2026,New Mexico,2026 United States Senate election in New Mexico,General,Total,False,,,,100.0

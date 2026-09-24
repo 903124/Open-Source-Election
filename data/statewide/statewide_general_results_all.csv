@@ -4195,6 +4195,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Dean Ocean Abrams Joe Van Victor,Independent,,,False,False
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Jeffrey Peter Datto Juan Santana,Independent,,,False,False
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Total,,,,100.0,False,False
+2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Candidate,Rick Jackson,Republican,,,False,False
+2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Candidate,Keisha Lance Bottoms,Democratic,,,False,False
+2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Total,,,,100.0,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Candidate,Therese Terlaje,Democratic,,,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Candidate,Vicente Ada,Republican,,,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Total,,,,,False,False
@@ -4276,16 +4279,22 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Candidate,Lisa Demuth,Republican,,,False,False
 2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Candidate,Steven Young,Green,,,False,False
 2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Total,,,,100.0,False,False
+2026,Nebraska,NE,attorney general,2026 Nebraska Attorney General election,Candidate,Mike Hilgers,Republican,,,False,True
+2026,Nebraska,NE,attorney general,2026 Nebraska Attorney General election,Candidate,Jocelyn Brasher,Democratic,,,False,False
+2026,Nebraska,NE,attorney general,2026 Nebraska Attorney General election,Total,,,,100.0,False,False
 2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Scott Petersen,Republican,,,False,False
 2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Sarah Slattery,Democratic,,,False,False
 2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Bob Krist,America First Party (nebraska),,,False,False
 2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Paul Rumbaugh,People,,,False,False
-2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Total,,,,,False,False
+2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Total,,,,100.0,False,False
+2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Candidate,Joey Spellerberg,Republican,,,False,True
+2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Candidate,Daniel Ebers,Democratic,,,False,False
+2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Total,,,,100.0,False,False
 2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Jim Pillen (incumbent) Joe Kelly,Republican,,,False,True
 2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Lynne Walz Ben Steffen,Democratic,,,False,False
 2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Rick Beard Keenya Barnes,Now,,,False,False
 2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Brett Lindstrom Mike Picard,America First Party (nebraska),,,False,False
-2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Total,,,,,False,False
+2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Total,,,,100.0,False,False
 2026,Nevada,NV,attorney general,2026 Nevada Attorney General election,Candidate,Nicole Cannizzaro,Democratic,,,False,False
 2026,Nevada,NV,attorney general,2026 Nevada Attorney General election,Candidate,Adriana Guzmán Fralick,Republican,,,False,False
 2026,Nevada,NV,attorney general,2026 Nevada Attorney General election,Total,,,,100.0,False,False
@@ -4301,6 +4310,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Nevada,NV,governor,2026 Nevada gubernatorial election,Candidate,Aaron Ford,Democratic,,,False,False
 2026,Nevada,NV,governor,2026 Nevada gubernatorial election,Candidate,Danielle Ford,Independent,,,False,False
 2026,Nevada,NV,governor,2026 Nevada gubernatorial election,Total,,,,100.0,False,False
+2026,New Hampshire,NH,governor,2026 New Hampshire gubernatorial election,Candidate,Kelly Ayotte,Republican,,,False,True
+2026,New Hampshire,NH,governor,2026 New Hampshire gubernatorial election,Candidate,Cinde Warmington,Democratic,,,False,False
+2026,New Hampshire,NH,governor,2026 New Hampshire gubernatorial election,Candidate,Stephen Villee,Libertarian,,,False,False
+2026,New Hampshire,NH,governor,2026 New Hampshire gubernatorial election,Total,,,,100.0,False,False
 2026,New Mexico,NM,attorney general,2026 New Mexico Attorney General election,Candidate,Raúl Torrez,Democratic,,,False,True
 2026,New Mexico,NM,attorney general,2026 New Mexico Attorney General election,Candidate,"Samuel Kane, Sr.",Republican,,,False,False
 2026,New Mexico,NM,attorney general,2026 New Mexico Attorney General election,Total,,,,100.0,False,False
@@ -4313,6 +4326,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Candidate,Deb Haaland,Democratic,,,False,False
 2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Candidate,Gregg Hull,Republican,,,False,False
 2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Total,,,,100.0,False,False
+2026,New York,NY,attorney general,2026 New York Attorney General election,Candidate,Letitia James,New York State Democratic Committee,,,False,False
+2026,New York,NY,attorney general,2026 New York Attorney General election,Candidate,Saritha Komatireddy,New York Republican State Committee,,,False,False
+2026,New York,NY,attorney general,2026 New York Attorney General election,Total,,,,100.0,False,False
+2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Kathy Hochul,New York State Democratic Committee,,,False,False
+2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Bruce Blakeman,New York Republican State Committee,,,False,False
+2026,New York,NY,governor,2026 New York gubernatorial election,Total,,,,100.0,False,False
 2026,Ohio,OH,attorney general,2026 Ohio Attorney General election,Candidate,Keith Faber,Republican,,,False,False
 2026,Ohio,OH,attorney general,2026 Ohio Attorney General election,Candidate,John Kulewicz,Democratic,,,False,False
 2026,Ohio,OH,attorney general,2026 Ohio Attorney General election,Total,,,,100.0,False,False
