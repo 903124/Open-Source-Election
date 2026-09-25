@@ -1,7 +1,31 @@
 year,state,state_code,chamber,district,race,candidate,party,votes,percentage,winner,incumbent
-2026,Alabama,AL,State House,,general,Number,,,,True,False
-2026,Alabama,AL,State House,10,special general,Marilyn Lands,Democratic,3715,62.3,True,False
-2026,Alabama,AL,State House,10,special general,Teddy Powell,Republican,2236,37.5,False,False
+2026,Alabama,AL,State House,10,special general,Marilyn Lands,Democratic,3715.0,62.3,True,False
+2026,Alabama,AL,State House,10,special general,Teddy Powell,Republican,2236.0,37.5,False,False
+2026,Alabama,AL,State House,1,general,Phillip Pettus,Republican,,,True,True
+2026,Alabama,AL,State House,2,general,Ben Harrison (incumbent,Republican,,,True,False
+2026,Alabama,AL,State House,2,general,Rick Pressnell,Democratic,,,False,False
+2026,Alabama,AL,State House,3,general,Kerry Underwood,Republican,,,True,True
+2026,Alabama,AL,State House,4,general,Parker Moore,Republican,,,True,True
+2026,Alabama,AL,State House,4,general,Hanu Karlapalem,Democratic,,,False,False
+2026,Alabama,AL,State House,5,general,Danny Crawford,Republican,,,True,True
+2026,Alabama,AL,State House,5,general,Jessie Barcala,Democratic,,,False,False
+2026,Alabama,AL,State House,6,general,Andy Whitt,Republican,,,True,True
+2026,Alabama,AL,State House,7,general,Ernie Yarbrough,Republican,,,True,True
+2026,Alabama,AL,State House,7,general,Trent Ford,Independent,,,False,False
+2026,Alabama,AL,State House,7,general,Doc Mancuso,Independent,,,False,False
+2026,Alabama,AL,State House,8,general,Patrick Johnson,Republican,,,True,False
+2026,Alabama,AL,State House,8,general,Bruce Sparkman,Democratic,,,False,False
+2026,Alabama,AL,State House,9,general,Scott Stadthagen,Republican,,,True,True
+2026,Alabama,AL,State House,10,general,Marilyn Lands,Democratic,,,True,True
+2026,Alabama,AL,State House,10,general,Aaron Thomas,Republican,,,False,False
+2026,Alabama,AL,State House,11,general,Heath Allbright,Republican,,,True,True
+2026,Alabama,AL,State House,12,general,Cindy Myrex,Republican,,,True,True
+2026,Alabama,AL,State House,13,general,Mike Elliott,Republican,,,True,False
+2026,Alabama,AL,State House,14,general,Tim Wadsworth,Republican,,,True,False
+2026,Alabama,AL,State House,15,general,Leigh Hulsey,Republican,,,True,True
+2026,Alabama,AL,State House,15,general,Nell Brown,Democratic,,,False,False
+2026,Alabama,AL,State House,16,general,Bryan Brinyark,Republican,,,True,False
+2026,Alabama,AL,State House,16,general,Christian Martin,Democratic,,,False,False
 2026,Arkansas,AR,State House,35,general,Audrey P. Willis,Democratic,344,60.88,True,False
 2026,Arkansas,AR,State House,35,general,Joyce Ann Gray,Democratic,221,39.12,False,False
 2026,Arkansas,AR,State House,46,general,Tonya Fletcher,Republican,1497,31.49,True,False
