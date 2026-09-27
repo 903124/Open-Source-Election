@@ -229,6 +229,20 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Stacy Garrity,Republican,,,False,False
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Ken Krawchuk,Libertarian,,,False,False
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Total,,,,100.0,False,False
+2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Candidate,David Stumbo,Republican,,,False,False
+2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Candidate,Richard Hricik,Democratic,,,False,False
+2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Total,,,,100.0,False,False
+2026,South Carolina,SC,secretary of state,2026 South Carolina Secretary of State election,Candidate,Mark Hammond,Republican,,,False,True
+2026,South Carolina,SC,secretary of state,2026 South Carolina Secretary of State election,Candidate,Jason Belton,Democratic,,,False,False
+2026,South Carolina,SC,secretary of state,2026 South Carolina Secretary of State election,Total,,,,100.0,False,False
+2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Candidate,Curtis Loftis,Republican,,,False,True
+2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Candidate,Vincent Coe,Democratic,,,False,False
+2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Total,,,,100.0,False,False
+2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Candidate,Alan Wilson,Republican,,,False,False
+2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Candidate,Jermaine Johnson,Democratic,,,False,False
+2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Candidate,Walid Hakim,Green,,,False,False
+2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Candidate,Michael Addison,Citizens,,,False,False
+2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Total,,,,100.0,False,False
 2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Mayes Middleton,Republican,,,False,False
 2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Nathan Johnson,Democratic,,,False,False
 2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Tom Oxford,Libertarian,,,False,False

@@ -2932,9 +2932,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2018,California,CA,governor,2018 California gubernatorial election,Winning,Gavin Newsom,Democratic,7721410,61.95,True,False
 2018,California,CA,governor,2018 California gubernatorial election,Candidate,John H. Cox,Republican,4742825,38.05,False,False
 2018,California,CA,governor,2018 California gubernatorial election,Total,,,12464235,100.0,False,False
-2018,Colorado,CO,attorney general,"Colorado Attorney General election, 2018",Winning,Phil Weiser,Democratic,1285464,51.6,True,False
-2018,Colorado,CO,attorney general,"Colorado Attorney General election, 2018",Candidate,George Brauchler,Republican,1124757,45.1,False,False
-2018,Colorado,CO,attorney general,"Colorado Attorney General election, 2018",Candidate,"William F. Robinson, III",Libertarian,81733,3.3,False,False
+2018,Colorado,CO,attorney general,"Colorado Attorney General election, 2018",Winning,Phil Weiser,Democratic,1285464,51.58,True,False
+2018,Colorado,CO,attorney general,"Colorado Attorney General election, 2018",Candidate,George Brauchler,Republican,1124757,45.14,False,False
+2018,Colorado,CO,attorney general,"Colorado Attorney General election, 2018",Candidate,"William F. Robinson, III",Libertarian,81733,3.28,False,False
 2018,Colorado,CO,attorney general,"Colorado Attorney General election, 2018",Total,,,2491954,100.0,False,False
 2018,Colorado,CO,governor,2018 Colorado gubernatorial election,Winning,Jared Polis,Democratic,1348888,53.42,True,False
 2018,Colorado,CO,governor,2018 Colorado gubernatorial election,Candidate,Walker Stapleton,Republican,1080801,42.8,False,False
@@ -3883,9 +3883,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2022,Texas,TX,governor,2022 Texas gubernatorial election,Candidate,Delilah Barrios,Green,28584,0.35,False,False
 2022,Texas,TX,governor,2022 Texas gubernatorial election,Candidate,Jacqueline Abernathy,Solidarity,1243,0.02,False,False
 2022,Texas,TX,governor,2022 Texas gubernatorial election,Total,,,8101994,100.0,False,False
-2022,Vermont,VT,attorney general,Republican primary results,Winning,Charity Clark,Democratic,179098,65.1,True,False
-2022,Vermont,VT,attorney general,Republican primary results,Candidate,Mike Tagliavia,Republican,95661,34.8,False,False
-2022,Vermont,VT,attorney general,Republican primary results,Write-in,,,467,0.2,False,False
+2022,Vermont,VT,attorney general,Republican primary results,Winning,Charity Clark,Democratic,179098,65.07,True,False
+2022,Vermont,VT,attorney general,Republican primary results,Candidate,Mike Tagliavia,Republican,95661,34.76,False,False
+2022,Vermont,VT,attorney general,Republican primary results,Write-in,,,467,0.17,False,False
 2022,Vermont,VT,attorney general,Republican primary results,Total,,,275226,100.0,False,False
 2022,Vermont,VT,secretary of state,2022 Vermont Secretary of State election,Winning,Sarah Copeland Hanzas,Democratic,179087,65.03,True,False
 2022,Vermont,VT,secretary of state,2022 Vermont Secretary of State election,Candidate,H. Brooke Paige,Republican,95666,34.74,False,False
@@ -4350,6 +4350,20 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Stacy Garrity,Republican,,,False,False
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Ken Krawchuk,Libertarian,,,False,False
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Total,,,,100.0,False,False
+2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Candidate,David Stumbo,Republican,,,False,False
+2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Candidate,Richard Hricik,Democratic,,,False,False
+2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Total,,,,100.0,False,False
+2026,South Carolina,SC,secretary of state,2026 South Carolina Secretary of State election,Candidate,Mark Hammond,Republican,,,False,True
+2026,South Carolina,SC,secretary of state,2026 South Carolina Secretary of State election,Candidate,Jason Belton,Democratic,,,False,False
+2026,South Carolina,SC,secretary of state,2026 South Carolina Secretary of State election,Total,,,,100.0,False,False
+2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Candidate,Curtis Loftis,Republican,,,False,True
+2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Candidate,Vincent Coe,Democratic,,,False,False
+2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Total,,,,100.0,False,False
+2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Candidate,Alan Wilson,Republican,,,False,False
+2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Candidate,Jermaine Johnson,Democratic,,,False,False
+2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Candidate,Walid Hakim,Green,,,False,False
+2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Candidate,Michael Addison,Citizens,,,False,False
+2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Total,,,,100.0,False,False
 2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Mayes Middleton,Republican,,,False,False
 2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Nathan Johnson,Democratic,,,False,False
 2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Tom Oxford,Libertarian,,,False,False

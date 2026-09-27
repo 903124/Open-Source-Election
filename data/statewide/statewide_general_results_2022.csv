@@ -446,9 +446,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2022,Texas,TX,governor,2022 Texas gubernatorial election,Candidate,Delilah Barrios,Green,28584,0.35,False,False
 2022,Texas,TX,governor,2022 Texas gubernatorial election,Candidate,Jacqueline Abernathy,Solidarity,1243,0.02,False,False
 2022,Texas,TX,governor,2022 Texas gubernatorial election,Total,,,8101994,100.0,False,False
-2022,Vermont,VT,attorney general,Republican primary results,Winning,Charity Clark,Democratic,179098,65.1,True,False
-2022,Vermont,VT,attorney general,Republican primary results,Candidate,Mike Tagliavia,Republican,95661,34.8,False,False
-2022,Vermont,VT,attorney general,Republican primary results,Write-in,,,467,0.2,False,False
+2022,Vermont,VT,attorney general,Republican primary results,Winning,Charity Clark,Democratic,179098,65.07,True,False
+2022,Vermont,VT,attorney general,Republican primary results,Candidate,Mike Tagliavia,Republican,95661,34.76,False,False
+2022,Vermont,VT,attorney general,Republican primary results,Write-in,,,467,0.17,False,False
 2022,Vermont,VT,attorney general,Republican primary results,Total,,,275226,100.0,False,False
 2022,Vermont,VT,secretary of state,2022 Vermont Secretary of State election,Winning,Sarah Copeland Hanzas,Democratic,179087,65.03,True,False
 2022,Vermont,VT,secretary of state,2022 Vermont Secretary of State election,Candidate,H. Brooke Paige,Republican,95666,34.74,False,False
