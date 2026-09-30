@@ -7536,9 +7536,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Oklahoma,OK,governor,Republican primary results,Candidate,Kenneth Sturgell,Republican,2935,0.7,False,False
 2026,Oklahoma,OK,governor,Republican primary results,Candidate,Calup Anthony Taylor,Republican,1485,0.4,False,False
 2026,Oklahoma,OK,governor,Republican primary results,Total,,,403099,100.0,False,False
-2026,Oklahoma,OK,governor,Republican primary runoff results,Winning,Mike Mazzei,Republican,186678,50.3,True,False
-2026,Oklahoma,OK,governor,Republican primary runoff results,Candidate,Gentner Drummond,Republican,184631,49.7,False,False
-2026,Oklahoma,OK,governor,Republican primary runoff results,Total,,,371309,100.0,False,False
+2026,Oklahoma,OK,governor,Republican primary runoff results,Winning,Mike Mazzei,Republican,186734,50.3,True,False
+2026,Oklahoma,OK,governor,Republican primary runoff results,Candidate,Gentner Drummond,Republican,184681,49.7,False,False
+2026,Oklahoma,OK,governor,Republican primary runoff results,Total,,,371415,100.0,False,False
 2026,Oklahoma,OK,governor,Democratic primary results,Winning,Cyndi Munson,Democratic,129225,74.9,True,False
 2026,Oklahoma,OK,governor,Democratic primary results,Candidate,Constance Johnson,Democratic,38414,22.3,False,False
 2026,Oklahoma,OK,governor,Democratic primary results,Candidate,Arya Azma,Democratic,4824,2.8,False,False
