@@ -565,16 +565,16 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Kentucky,KY,State House,49,general,Thomas Huff,Republican,,,True,True
 2026,Kentucky,KY,State House,50,general,Candy Massaroni,Republican,,,True,True
 2026,Kentucky,KY,State House,50,general,J. D. Netherton,Democratic,,,False,False
-2026,Kentucky,KY,State House,51,general,Michael Pollock,Republican,,,True,True
+2026,Kentucky,KY,State House,51,general,"Michael ""Sarge"" Pollock",Republican,,,True,True
 2026,Kentucky,KY,State House,52,general,Kevin G. Jones,Republican,,,True,False
-2026,Kentucky,KY,State House,53,general,James Tipton,Republican,,,True,True
-2026,Kentucky,KY,State House,54,general,Daniel Elliott,Republican,,,True,True
+2026,Kentucky,KY,State House,53,general,James Allen Tipton,Republican,,,True,True
+2026,Kentucky,KY,State House,54,general,Daniel B. Elliott,Republican,,,True,True
 2026,Kentucky,KY,State House,55,general,Kim King,Republican,,,True,True
-2026,Kentucky,KY,State House,55,general,Katrina Sexton,Democratic,,,False,False
-2026,Kentucky,KY,State House,56,general,Daniel Fister,Republican,,,True,True
+2026,Kentucky,KY,State House,55,general,Katrina A. Sexton,Democratic,,,False,False
+2026,Kentucky,KY,State House,56,general,Daniel A. Fister,Republican,,,True,True
 2026,Kentucky,KY,State House,56,general,David Graves,Democratic,,,False,False
 2026,Kentucky,KY,State House,57,general,Erika Hancock,Democratic,,,True,True
-2026,Kentucky,KY,State House,58,general,Jennifer Decker,Republican,,,True,True
+2026,Kentucky,KY,State House,58,general,Jennifer Henson Decker,Republican,,,True,True
 2026,Kentucky,KY,State House,58,general,Andrew Thomas Monarch,Democratic,,,False,False
 2026,Kentucky,KY,State House,59,general,David W. Osborne,Republican,,,True,True
 2026,Kentucky,KY,State House,59,general,Stephanie White,Democratic,,,False,False
@@ -586,7 +586,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Kentucky,KY,State House,63,general,Cole Cuzick,Republican,,,True,False
 2026,Kentucky,KY,State House,64,general,Kimberly Poore Moser,Republican,,,True,True
 2026,Kentucky,KY,State House,64,general,William Nick Whalen,Democratic,,,False,False
-2026,Kentucky,KY,State House,65,general,Stephanie Dietz,Republican,,,True,True
+2026,Kentucky,KY,State House,65,general,Stephanie A. Dietz,Republican,,,True,True
 2026,Kentucky,KY,State House,65,general,Aaron John Currin,Democratic,,,False,False
 2026,Kentucky,KY,State House,66,general,T. J. Roberts,Republican,,,True,True
 2026,Kentucky,KY,State House,66,general,Jason Ellis,Democratic,,,False,False
@@ -599,30 +599,30 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Kentucky,KY,State House,70,general,Mike Fisher,Republican,,,True,False
 2026,Kentucky,KY,State House,70,general,Charlotte Harris,Democratic,,,False,False
 2026,Kentucky,KY,State House,71,general,Josh Bray,Republican,,,True,True
-2026,Kentucky,KY,State House,72,general,Matthew Koch,Republican,,,True,True
+2026,Kentucky,KY,State House,72,general,Matthew R. Koch,Republican,,,True,True
 2026,Kentucky,KY,State House,73,general,Daniel Konstantopoulos,Republican,,,True,False
 2026,Kentucky,KY,State House,73,general,Chelsea Kirk,Democratic,,,False,False
 2026,Kentucky,KY,State House,74,general,David F. Charles,Republican,,,True,False
 2026,Kentucky,KY,State House,75,general,Lindsey Burke,Democratic,,,True,True
 2026,Kentucky,KY,State House,75,general,Jeff Forsyth,Republican,,,False,False
-2026,Kentucky,KY,State House,75,general,Geoff Young,Kentucky,,,False,False
+2026,Kentucky,KY,State House,75,general,"Geoffrey M. ""Geoff"" Young",Kentucky,,,False,False
 2026,Kentucky,KY,State House,76,general,Anne Gay Donworth,Democratic,,,True,True
 2026,Kentucky,KY,State House,76,general,Avram Phoenix Hicks,Republican,,,False,False
-2026,Kentucky,KY,State House,77,general,George Brown Jr.,Democratic,,,True,True
+2026,Kentucky,KY,State House,77,general,George A. Brown Jr.,Democratic,,,True,True
 2026,Kentucky,KY,State House,77,general,Jason Griffith,Republican,,,False,False
 2026,Kentucky,KY,State House,78,general,Mark Hart,Republican,,,True,True
-2026,Kentucky,KY,State House,79,general,Chad Aull,Democratic,,,True,False
+2026,Kentucky,KY,State House,79,general,Chad R. Aull,Democratic,,,True,True
 2026,Kentucky,KY,State House,80,general,David Meade,Republican,,,True,True
 2026,Kentucky,KY,State House,80,general,Mary Russell,Democratic,,,False,False
-2026,Kentucky,KY,State House,81,general,Deanna Gordon,Republican,,,True,True
+2026,Kentucky,KY,State House,81,general,Deanna Frazier Gordon,Republican,,,True,True
 2026,Kentucky,KY,State House,81,general,Anthony Looney,Democratic,,,False,False
 2026,Kentucky,KY,State House,82,general,Nick Wilson,Republican,,,True,True
-2026,Kentucky,KY,State House,83,general,Josh Branscum,Republican,,,True,True
+2026,Kentucky,KY,State House,83,general,Joshua Branscum,Republican,,,True,True
 2026,Kentucky,KY,State House,84,general,Chris Fugate,Republican,,,True,True
-2026,Kentucky,KY,State House,85,general,Shane Baker,Republican,,,True,True
-2026,Kentucky,KY,State House,86,general,Tom Smith,Republican,,,True,True
+2026,Kentucky,KY,State House,85,general,R. Shane Baker,Republican,,,True,True
+2026,Kentucky,KY,State House,86,general,Tom O'Dell Smith,Republican,,,True,True
 2026,Kentucky,KY,State House,87,general,Adam Bowling,Republican,,,True,True
-2026,Kentucky,KY,State House,88,general,Vanessa Grossl,Republican,,,True,False
+2026,Kentucky,KY,State House,88,general,Vanessa Grossl,Republican,,,True,True
 2026,Kentucky,KY,State House,88,general,L. Scott Miller,Independent,,,False,False
 2026,Kentucky,KY,State House,89,general,Timmy Truett,Republican,,,True,True
 2026,Kentucky,KY,State House,90,general,Derek Lewis,Republican,,,True,True
@@ -631,15 +631,15 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Kentucky,KY,State House,92,general,John Blanton,Republican,,,True,True
 2026,Kentucky,KY,State House,93,general,Adrielle Camuel,Democratic,,,True,True
 2026,Kentucky,KY,State House,93,general,Hannah Beth Rivera,Republican,,,False,False
-2026,Kentucky,KY,State House,94,general,Mitch Whitaker,Republican,,,True,True
+2026,Kentucky,KY,State House,94,general,Mitchum Addison Whitaker,Republican,,,True,True
 2026,Kentucky,KY,State House,95,general,Johnny Ray Turner,Democratic,,,True,False
 2026,Kentucky,KY,State House,95,general,Tanner Hesterberg,Republican,,,False,False
 2026,Kentucky,KY,State House,96,general,Patrick Flannery,Republican,,,True,True
 2026,Kentucky,KY,State House,96,general,Pamela Lewis,Democratic,,,False,False
-2026,Kentucky,KY,State House,97,general,Bobby McCool,Republican,,,True,True
-2026,Kentucky,KY,State House,97,general,Rabekah Skaggs,Democratic,,,False,False
+2026,Kentucky,KY,State House,97,general,Bobby W. McCool,Republican,,,True,True
+2026,Kentucky,KY,State House,97,general,Rebekah D. Skaggs,Democratic,,,False,False
 2026,Kentucky,KY,State House,98,general,Aaron Thompson,Republican,,,True,True
-2026,Kentucky,KY,State House,99,general,Richard White,Republican,,,True,True
+2026,Kentucky,KY,State House,99,general,Richard Lee White,Republican,,,True,True
 2026,Kentucky,KY,State House,99,general,Iva Markicevic Daley,Democratic,,,False,False
 2026,Kentucky,KY,State House,100,general,Scott Sharp,Republican,,,True,True
 2026,Maryland,MD,State House,1A,general,Dan Duggan,Republican,,,True,False

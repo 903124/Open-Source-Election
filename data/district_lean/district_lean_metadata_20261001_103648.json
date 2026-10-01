@@ -1,0 +1,4620 @@
+{
+  "method": {
+    "lean": "fixed-weight blend of four two-party leans \u2014 pres 0.40 (county-allocated presidential vote), house 0.20 (the district's own U.S. House general result), senate 0.20 (state's pooled Senate general races), statewide 0.20 (state's pooled governor / attorney general / secretary of state / state treasurer vote plus its state-legislature chamber totals over contested state-leg districts) \u2014 each measured as the Democratic two-party share of that race minus the same race's national share; weights renormalised over the sources present for each district-year; consensus optimum of an out-of-sample weight search (see README)",
+    "components": {
+      "house": "the district's own U.S. House general result from data/house/house_results_{year}.csv; winner votes missing in the article are reconstructed from percentage x district turnout, districts with no turnout fall back to a percentage-only share; one-sided races (top-two D-vs-D / R-vs-R, walkovers) dropped as uninformative",
+      "pres": "county-allocated presidential vote (allocation described below)",
+      "senate": "the state's U.S. Senate general races (regular + special, pooled) from data/senate/; statewide, so uniform within a state",
+      "statewide": "governor / attorney general / secretary of state / state treasurer races from data/statewide/ plus state senate + state house chamber totals from data/state_senate/ and data/state_house/ (contested state-leg districts only; no state-leg -> congressional-district crosswalk exists, so they enter as statewide sums); presidential-year coverage is partial \u2014 10-12 gov states, exec offices parsed from 2016, state-leg 11-24 states before 2016 and 39-41 from 2020"
+    },
+    "allocation": "whole counties: full weight; partial counties: allocated by geometric county-area shares (county_share_pct) normalised across claimant districts; at-large: entire jurisdiction",
+    "map_vintage_for_year": {
+      "2004": "2000s",
+      "2008": "2000s",
+      "2012": "2000s",
+      "2016": "2010s",
+      "2020": "2010s",
+      "2024": "2020s"
+    },
+    "note_2012": "Nov 2012 voted under the 2000s map (108th-112th Congress lines, as finally used incl. TX 2003 / GA 2006)",
+    "caveat": "partial counties are area-weighted, not population-weighted; presidential leans for districts containing large shared counties are dampened toward the state mean \u2014 see votes_from_partial_pct; the 2010s crosswalk snapshot shows the map as first enacted (FL 2015 / NC 2016 & 2019 / PA 2018 court redraws are not reflected); Alaska has no borough-level presidential table before 2024, so AK-AL blends house + senate + statewide for 2004-2020; house leans carry candidate/incumbency effects the presidential ticket does not; statewide-office coverage is partial in presidential years (most states elect them in midterms), so the statewide component earns its 0.20 weight only where a race was actually on the ballot"
+  },
+  "mapping": {
+    "generated": "2026-09-05 13:47:37",
+    "source": {
+      "district_boundaries": "UCLA cdmaps \u2014 github.com/JeffreyBLewis/congressional-district-boundaries era GeoJSON files",
+      "county_boundaries": "2010 Census cartographic county boundaries (1:5m), eric.clst.org mirror of gz_2010_us_050_00_5m.json",
+      "projection": "EPSG:5070 (NAD83 / Conus Albers Equal Area); both layers treated identically so area ratios are projection-consistent"
+    },
+    "snapshot_congress": {
+      "2000s": 112,
+      "2010s": 113,
+      "2020s": 119
+    },
+    "snapshot_note": "Cycle snapshots are taken at the END congress of each cycle so mid-decade court redraws are reflected; the 2020s snapshot includes the final post-2024 court-ordered redraws for AL / GA / LA / NC / NY.",
+    "classification_note": "Full = county_frac >= 98% of the county's district-covered area; Partial = >= 2% of the county, or >= 4% of the district's own area (fragment rule for urban districts inside one large county).",
+    "thresholds": {
+      "full_county_frac": 0.98,
+      "partial_county_frac": 0.02,
+      "partial_district_frac": 0.04
+    },
+    "jurisdictions": {
+      "AK": {
+        "name": "Alaska",
+        "fips": "02"
+      },
+      "AL": {
+        "name": "Alabama",
+        "fips": "01"
+      },
+      "AR": {
+        "name": "Arkansas",
+        "fips": "05"
+      },
+      "AZ": {
+        "name": "Arizona",
+        "fips": "04"
+      },
+      "CA": {
+        "name": "California",
+        "fips": "06"
+      },
+      "CO": {
+        "name": "Colorado",
+        "fips": "08"
+      },
+      "CT": {
+        "name": "Connecticut",
+        "fips": "09"
+      },
+      "DC": {
+        "name": "District of Columbia",
+        "fips": "11"
+      },
+      "DE": {
+        "name": "Delaware",
+        "fips": "10"
+      },
+      "FL": {
+        "name": "Florida",
+        "fips": "12"
+      },
+      "GA": {
+        "name": "Georgia",
+        "fips": "13"
+      },
+      "HI": {
+        "name": "Hawaii",
+        "fips": "15"
+      },
+      "IA": {
+        "name": "Iowa",
+        "fips": "19"
+      },
+      "ID": {
+        "name": "Idaho",
+        "fips": "16"
+      },
+      "IL": {
+        "name": "Illinois",
+        "fips": "17"
+      },
+      "IN": {
+        "name": "Indiana",
+        "fips": "18"
+      },
+      "KS": {
+        "name": "Kansas",
+        "fips": "20"
+      },
+      "KY": {
+        "name": "Kentucky",
+        "fips": "21"
+      },
+      "LA": {
+        "name": "Louisiana",
+        "fips": "22"
+      },
+      "MA": {
+        "name": "Massachusetts",
+        "fips": "25"
+      },
+      "MD": {
+        "name": "Maryland",
+        "fips": "24"
+      },
+      "ME": {
+        "name": "Maine",
+        "fips": "23"
+      },
+      "MI": {
+        "name": "Michigan",
+        "fips": "26"
+      },
+      "MN": {
+        "name": "Minnesota",
+        "fips": "27"
+      },
+      "MO": {
+        "name": "Missouri",
+        "fips": "29"
+      },
+      "MS": {
+        "name": "Mississippi",
+        "fips": "28"
+      },
+      "MT": {
+        "name": "Montana",
+        "fips": "30"
+      },
+      "NC": {
+        "name": "North Carolina",
+        "fips": "37"
+      },
+      "ND": {
+        "name": "North Dakota",
+        "fips": "38"
+      },
+      "NE": {
+        "name": "Nebraska",
+        "fips": "31"
+      },
+      "NH": {
+        "name": "New Hampshire",
+        "fips": "33"
+      },
+      "NJ": {
+        "name": "New Jersey",
+        "fips": "34"
+      },
+      "NM": {
+        "name": "New Mexico",
+        "fips": "35"
+      },
+      "NV": {
+        "name": "Nevada",
+        "fips": "32"
+      },
+      "NY": {
+        "name": "New York",
+        "fips": "36"
+      },
+      "OH": {
+        "name": "Ohio",
+        "fips": "39"
+      },
+      "OK": {
+        "name": "Oklahoma",
+        "fips": "40"
+      },
+      "OR": {
+        "name": "Oregon",
+        "fips": "41"
+      },
+      "PA": {
+        "name": "Pennsylvania",
+        "fips": "42"
+      },
+      "RI": {
+        "name": "Rhode Island",
+        "fips": "44"
+      },
+      "SC": {
+        "name": "South Carolina",
+        "fips": "45"
+      },
+      "SD": {
+        "name": "South Dakota",
+        "fips": "46"
+      },
+      "TN": {
+        "name": "Tennessee",
+        "fips": "47"
+      },
+      "TX": {
+        "name": "Texas",
+        "fips": "48"
+      },
+      "UT": {
+        "name": "Utah",
+        "fips": "49"
+      },
+      "VA": {
+        "name": "Virginia",
+        "fips": "51"
+      },
+      "VT": {
+        "name": "Vermont",
+        "fips": "50"
+      },
+      "WA": {
+        "name": "Washington",
+        "fips": "53"
+      },
+      "WI": {
+        "name": "Wisconsin",
+        "fips": "55"
+      },
+      "WV": {
+        "name": "West Virginia",
+        "fips": "54"
+      },
+      "WY": {
+        "name": "Wyoming",
+        "fips": "56"
+      }
+    },
+    "seats": {
+      "AK": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 1
+      },
+      "AL": {
+        "2000s": 7,
+        "2010s": 7,
+        "2020s": 7
+      },
+      "AR": {
+        "2000s": 4,
+        "2010s": 4,
+        "2020s": 4
+      },
+      "AZ": {
+        "2000s": 8,
+        "2010s": 9,
+        "2020s": 9
+      },
+      "CA": {
+        "2000s": 53,
+        "2010s": 53,
+        "2020s": 52
+      },
+      "CO": {
+        "2000s": 7,
+        "2010s": 7,
+        "2020s": 8
+      },
+      "CT": {
+        "2000s": 5,
+        "2010s": 5,
+        "2020s": 5
+      },
+      "DC": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 1
+      },
+      "DE": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 1
+      },
+      "FL": {
+        "2000s": 25,
+        "2010s": 27,
+        "2020s": 28
+      },
+      "GA": {
+        "2000s": 13,
+        "2010s": 14,
+        "2020s": 14
+      },
+      "HI": {
+        "2000s": 2,
+        "2010s": 2,
+        "2020s": 2
+      },
+      "IA": {
+        "2000s": 5,
+        "2010s": 4,
+        "2020s": 4
+      },
+      "ID": {
+        "2000s": 2,
+        "2010s": 2,
+        "2020s": 2
+      },
+      "IL": {
+        "2000s": 19,
+        "2010s": 18,
+        "2020s": 17
+      },
+      "IN": {
+        "2000s": 9,
+        "2010s": 9,
+        "2020s": 9
+      },
+      "KS": {
+        "2000s": 4,
+        "2010s": 4,
+        "2020s": 4
+      },
+      "KY": {
+        "2000s": 6,
+        "2010s": 6,
+        "2020s": 6
+      },
+      "LA": {
+        "2000s": 7,
+        "2010s": 6,
+        "2020s": 6
+      },
+      "MA": {
+        "2000s": 10,
+        "2010s": 9,
+        "2020s": 9
+      },
+      "MD": {
+        "2000s": 8,
+        "2010s": 8,
+        "2020s": 8
+      },
+      "ME": {
+        "2000s": 2,
+        "2010s": 2,
+        "2020s": 2
+      },
+      "MI": {
+        "2000s": 15,
+        "2010s": 14,
+        "2020s": 13
+      },
+      "MN": {
+        "2000s": 8,
+        "2010s": 8,
+        "2020s": 8
+      },
+      "MO": {
+        "2000s": 9,
+        "2010s": 8,
+        "2020s": 8
+      },
+      "MS": {
+        "2000s": 4,
+        "2010s": 4,
+        "2020s": 4
+      },
+      "MT": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 2
+      },
+      "NC": {
+        "2000s": 13,
+        "2010s": 13,
+        "2020s": 14
+      },
+      "ND": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 1
+      },
+      "NE": {
+        "2000s": 3,
+        "2010s": 3,
+        "2020s": 3
+      },
+      "NH": {
+        "2000s": 2,
+        "2010s": 2,
+        "2020s": 2
+      },
+      "NJ": {
+        "2000s": 13,
+        "2010s": 12,
+        "2020s": 12
+      },
+      "NM": {
+        "2000s": 3,
+        "2010s": 3,
+        "2020s": 3
+      },
+      "NV": {
+        "2000s": 3,
+        "2010s": 4,
+        "2020s": 4
+      },
+      "NY": {
+        "2000s": 29,
+        "2010s": 27,
+        "2020s": 26
+      },
+      "OH": {
+        "2000s": 18,
+        "2010s": 16,
+        "2020s": 15
+      },
+      "OK": {
+        "2000s": 5,
+        "2010s": 5,
+        "2020s": 5
+      },
+      "OR": {
+        "2000s": 5,
+        "2010s": 5,
+        "2020s": 6
+      },
+      "PA": {
+        "2000s": 19,
+        "2010s": 18,
+        "2020s": 17
+      },
+      "RI": {
+        "2000s": 2,
+        "2010s": 2,
+        "2020s": 2
+      },
+      "SC": {
+        "2000s": 6,
+        "2010s": 7,
+        "2020s": 7
+      },
+      "SD": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 1
+      },
+      "TN": {
+        "2000s": 9,
+        "2010s": 9,
+        "2020s": 9
+      },
+      "TX": {
+        "2000s": 32,
+        "2010s": 36,
+        "2020s": 38
+      },
+      "UT": {
+        "2000s": 3,
+        "2010s": 4,
+        "2020s": 4
+      },
+      "VA": {
+        "2000s": 11,
+        "2010s": 11,
+        "2020s": 11
+      },
+      "VT": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 1
+      },
+      "WA": {
+        "2000s": 9,
+        "2010s": 10,
+        "2020s": 10
+      },
+      "WI": {
+        "2000s": 8,
+        "2010s": 8,
+        "2020s": 8
+      },
+      "WV": {
+        "2000s": 3,
+        "2010s": 3,
+        "2020s": 2
+      },
+      "WY": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 1
+      }
+    },
+    "event_notes": {
+      "TX:2000s": "Map reflects the 2003 Tom DeLay mid-decade redraw, in force for the 109th-112th Congresses (2006 court-drawn interim lines finalised by 2007 are included).",
+      "TX:2020s": "2021 legislature-enacted map; reversed the 2000s move that had shifted Texarkana out of TX-01.",
+      "AL:2020s": "2023 map invalidated by Allen v. Milligan; court-drawn additional majority-Black district (AL-02) used from the 2024 election.",
+      "GA:2020s": "2023 legislature map; court-ordered Black-majority districts added from the 2024 election.",
+      "LA:2020s": "Callais-era litigation; a second majority-Black district (LA-06) drawn for the 2024 election.",
+      "NC:2020s": "October 2023 legislature map enacted for the 2024 election (NC-01/NC-03 boundaries changed).",
+      "NY:2020s": "2023 map enacted by the Independent Redistricting Commission path for the 2024 election.",
+      "PA:2010s": "Snapshot is the 113th-Congress map; the 2018 Pennsylvania Supreme Court redraw used for 115th-117th is NOT shown.",
+      "NC:2010s": "Snapshot is the 113th-Congress map; 2016 and 2019 court redraws used later in the decade are NOT shown.",
+      "VA:2010s": "Snapshot is the 113th-Congress map; the 2020 redistricting commission map is NOT shown.",
+      "FL:2010s": "Snapshot is the 113th-Congress map; 2015-16 court-ordered redraws (Fair Districts) are NOT shown."
+    },
+    "validation": {
+      "errors": [],
+      "warnings": [],
+      "checks": {
+        "seat_total_2000s": 435,
+        "seat_total_2010s": 435,
+        "seat_total_2020s": 435,
+        "TX seats 32/36/38": "PASS",
+        "OR seats 5/5/6 (6th seat added after 2020 Census)": "PASS",
+        "MT at-large until 2023, then MT-01/MT-02": "PASS",
+        "ID 2 seats in every cycle": "PASS",
+        "FL seats 25/27/28": "PASS",
+        "NY seats 29/27/26": "PASS",
+        "PA seats 19/18/17": "PASS",
+        "DC exactly one (non-voting) seat in every cycle": "PASS",
+        "Bowie Co TX: full in TX-04 (2000s), partial in TX-01 (2020s)": "PASS",
+        "known_facts_passed": "8/8",
+        "county_coverage_2000s": "3143/3143",
+        "county_coverage_2010s": "3143/3143",
+        "county_coverage_2020s": "3143/3143"
+      }
+    },
+    "states_total": 51,
+    "duplicate_labels": [],
+    "unrecognised_labels": [],
+    "districts_total": 456
+  },
+  "years": {
+    "2004": {
+      "vintage": "2000s",
+      "presidential_rows": 10492,
+      "presidential_csv": "ok",
+      "states_present": 50,
+      "rows": 436,
+      "national": {
+        "d_votes": 58914678,
+        "r_votes": 61848493,
+        "d_share_two_party_pct": 48.79
+      },
+      "house": {
+        "districts": 362,
+        "votes_fixed": 5,
+        "national_d_share": 49.54,
+        "excluded_races": [
+          {
+            "state": "AL",
+            "district": "AL-06",
+            "d_votes": 0,
+            "r_votes": 268043
+          },
+          {
+            "state": "AR",
+            "district": "AR-04",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "AZ",
+            "district": "AZ-03",
+            "d_votes": 0,
+            "r_votes": 181012
+          },
+          {
+            "state": "AZ",
+            "district": "AZ-06",
+            "d_votes": 0,
+            "r_votes": 202882
+          },
+          {
+            "state": "CA",
+            "district": "CA-22",
+            "d_votes": 0,
+            "r_votes": 209384
+          },
+          {
+            "state": "CA",
+            "district": "CA-32",
+            "d_votes": 119144,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-33",
+            "d_votes": 166801,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-38",
+            "d_votes": 116851,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-41",
+            "d_votes": 0,
+            "r_votes": 181605
+          },
+          {
+            "state": "FL",
+            "district": "FL-11",
+            "d_votes": 191747,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-17",
+            "d_votes": 179424,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-19",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-21",
+            "d_votes": 0,
+            "r_votes": 146505
+          },
+          {
+            "state": "FL",
+            "district": "FL-23",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-24",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-25",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-03",
+            "d_votes": 172833,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-04",
+            "d_votes": 0,
+            "r_votes": 257327
+          },
+          {
+            "state": "FL",
+            "district": "FL-07",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-09",
+            "d_votes": 0,
+            "r_votes": 284035
+          },
+          {
+            "state": "GA",
+            "district": "GA-01",
+            "d_votes": 0,
+            "r_votes": 188347
+          },
+          {
+            "state": "GA",
+            "district": "GA-10",
+            "d_votes": 0,
+            "r_votes": 219136
+          },
+          {
+            "state": "GA",
+            "district": "GA-13",
+            "d_votes": 170657,
+            "r_votes": 0
+          },
+          {
+            "state": "GA",
+            "district": "GA-05",
+            "d_votes": 201773,
+            "r_votes": 0
+          },
+          {
+            "state": "GA",
+            "district": "GA-06",
+            "d_votes": 0,
+            "r_votes": 267542
+          },
+          {
+            "state": "GA",
+            "district": "GA-07",
+            "d_votes": 0,
+            "r_votes": 258982
+          },
+          {
+            "state": "IL",
+            "district": "IL-02",
+            "d_votes": 207535,
+            "r_votes": 0
+          },
+          {
+            "state": "KS",
+            "district": "KS-01",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "KY",
+            "district": "KY-05",
+            "d_votes": 0,
+            "r_votes": 177579
+          },
+          {
+            "state": "LA",
+            "district": "LA-04",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-01",
+            "d_votes": 229430,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-02",
+            "d_votes": 217618,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-04",
+            "d_votes": 219708,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-08",
+            "d_votes": 165896,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-09",
+            "d_votes": 218109,
+            "r_votes": 0
+          },
+          {
+            "state": "MN",
+            "district": "MN-01",
+            "d_votes": 0,
+            "r_votes": 193132
+          },
+          {
+            "state": "MN",
+            "district": "MN-02",
+            "d_votes": 0,
+            "r_votes": 206313
+          },
+          {
+            "state": "MN",
+            "district": "MN-04",
+            "d_votes": 0,
+            "r_votes": 105467
+          },
+          {
+            "state": "MN",
+            "district": "MN-05",
+            "d_votes": 0,
+            "r_votes": 76600
+          },
+          {
+            "state": "MN",
+            "district": "MN-06",
+            "d_votes": 0,
+            "r_votes": 203669
+          },
+          {
+            "state": "MN",
+            "district": "MN-07",
+            "d_votes": 0,
+            "r_votes": 106349
+          },
+          {
+            "state": "MN",
+            "district": "MN-08",
+            "d_votes": 0,
+            "r_votes": 112693
+          },
+          {
+            "state": "MS",
+            "district": "MS-01",
+            "d_votes": 0,
+            "r_votes": 219328
+          },
+          {
+            "state": "MS",
+            "district": "MS-03",
+            "d_votes": 0,
+            "r_votes": 234874
+          },
+          {
+            "state": "NJ",
+            "district": "NJ-10",
+            "d_votes": 155731,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "district": "NJ-08",
+            "d_votes": 152080,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-11",
+            "d_votes": 144999,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-25",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-06",
+            "d_votes": 129688,
+            "r_votes": 0
+          },
+          {
+            "state": "OH",
+            "district": "OH-11",
+            "d_votes": 222371,
+            "r_votes": 0
+          },
+          {
+            "state": "OH",
+            "district": "OH-06",
+            "d_votes": 223844,
+            "r_votes": 0
+          },
+          {
+            "state": "OK",
+            "district": "OK-03",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "OK",
+            "district": "OK-04",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-10",
+            "d_votes": 0,
+            "r_votes": 191967
+          },
+          {
+            "state": "PA",
+            "district": "PA-11",
+            "d_votes": 171147,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-12",
+            "d_votes": 204504,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-14",
+            "d_votes": 220139,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-19",
+            "d_votes": 0,
+            "r_votes": 224274
+          },
+          {
+            "state": "PA",
+            "district": "PA-05",
+            "d_votes": 0,
+            "r_votes": 192800
+          },
+          {
+            "state": "SC",
+            "district": "SC-01",
+            "d_votes": 0,
+            "r_votes": 186619
+          },
+          {
+            "state": "SC",
+            "district": "SC-03",
+            "d_votes": 0,
+            "r_votes": 191999
+          },
+          {
+            "state": "TN",
+            "district": "TN-07",
+            "d_votes": 0,
+            "r_votes": 232404
+          },
+          {
+            "state": "TX",
+            "district": "TX-10",
+            "d_votes": 0,
+            "r_votes": 182113
+          },
+          {
+            "state": "TX",
+            "district": "TX-13",
+            "d_votes": 0,
+            "r_votes": 189448
+          },
+          {
+            "state": "TX",
+            "district": "TX-14",
+            "d_votes": 0,
+            "r_votes": 173668
+          },
+          {
+            "state": "TX",
+            "district": "TX-18",
+            "d_votes": 136018,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-29",
+            "d_votes": 78256,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-03",
+            "d_votes": 0,
+            "r_votes": 180099
+          },
+          {
+            "state": "TX",
+            "district": "TX-30",
+            "d_votes": 144513,
+            "r_votes": 0
+          },
+          {
+            "state": "VA",
+            "district": "VA-01",
+            "d_votes": 0,
+            "r_votes": 225071
+          },
+          {
+            "state": "VA",
+            "district": "VA-06",
+            "d_votes": 0,
+            "r_votes": 213648
+          },
+          {
+            "state": "VA",
+            "district": "VA-07",
+            "d_votes": 0,
+            "r_votes": 230765
+          },
+          {
+            "state": "WI",
+            "district": "WI-07",
+            "d_votes": 241306,
+            "r_votes": 0
+          }
+        ],
+        "missing_files": null
+      },
+      "senate": {
+        "states": 34,
+        "national_d_share": 52.18,
+        "excluded_races": null,
+        "unknown_states": null
+      },
+      "statewide": {
+        "states": 19,
+        "national_d_share": 51.12,
+        "excluded_races": null,
+        "stateleg_walkover_districts": 253,
+        "missing_files": null
+      },
+      "allocation_coverage": {
+        "AL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "AR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "AZ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "CA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 53
+        },
+        "CO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "CT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "DC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "DE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "FL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 25
+        },
+        "GA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "HI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "ID": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 19
+        },
+        "IN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "KS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "KY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "LA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "MA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 10
+        },
+        "MD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "ME": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "MI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 15
+        },
+        "MN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "MS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "MT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "ND": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "NJ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "NM": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 29
+        },
+        "OH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 18
+        },
+        "OK": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "OR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "PA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 19
+        },
+        "RI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "SC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "SD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "TN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "TX": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 32
+        },
+        "UT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "VA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 11
+        },
+        "VT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "WA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "WI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "WV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "WY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        }
+      },
+      "unmatched_counties": null,
+      "unclaimed_counties": null,
+      "multi_whole_counties": null
+    },
+    "2008": {
+      "vintage": "2000s",
+      "presidential_rows": 10175,
+      "presidential_csv": "ok",
+      "states_present": 50,
+      "rows": 436,
+      "national": {
+        "d_votes": 69373778,
+        "r_votes": 59756261,
+        "d_share_two_party_pct": 53.72
+      },
+      "house": {
+        "districts": 370,
+        "votes_fixed": 14,
+        "national_d_share": 53.15,
+        "excluded_races": [
+          {
+            "state": "AL",
+            "district": "AL-01",
+            "d_votes": 0,
+            "r_votes": 210723
+          },
+          {
+            "state": "AL",
+            "district": "AL-06",
+            "d_votes": 0,
+            "r_votes": 280918
+          },
+          {
+            "state": "AL",
+            "district": "AL-07",
+            "d_votes": 228457,
+            "r_votes": 0
+          },
+          {
+            "state": "AR",
+            "district": "AR-01",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "AR",
+            "district": "AR-02",
+            "d_votes": 212303,
+            "r_votes": 0
+          },
+          {
+            "state": "AR",
+            "district": "AR-03",
+            "d_votes": 0,
+            "r_votes": 215196
+          },
+          {
+            "state": "AR",
+            "district": "AR-04",
+            "d_votes": 203178,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-18",
+            "d_votes": 130192,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-19",
+            "d_votes": 0,
+            "r_votes": 179245
+          },
+          {
+            "state": "CA",
+            "district": "CA-22",
+            "d_votes": 0,
+            "r_votes": 224549
+          },
+          {
+            "state": "CA",
+            "district": "CA-28",
+            "d_votes": 137471,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-30",
+            "d_votes": 242792,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-31",
+            "d_votes": 110955,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-32",
+            "d_votes": 130142,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-37",
+            "d_votes": 131342,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-38",
+            "d_votes": 130211,
+            "r_votes": 0
+          },
+          {
+            "state": "DC",
+            "district": "DC-AL",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-17",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-03",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "GA",
+            "district": "GA-04",
+            "d_votes": 224494,
+            "r_votes": 0
+          },
+          {
+            "state": "GA",
+            "district": "GA-05",
+            "d_votes": 231368,
+            "r_votes": 0
+          },
+          {
+            "state": "IL",
+            "district": "IL-17",
+            "d_votes": 220961,
+            "r_votes": 0
+          },
+          {
+            "state": "KY",
+            "district": "KY-05",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "LA",
+            "district": "LA-03",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "LA",
+            "district": "LA-05",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-10",
+            "d_votes": 276673,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-02",
+            "d_votes": 238000,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-03",
+            "d_votes": 231107,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-05",
+            "d_votes": 228907,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-08",
+            "d_votes": 188252,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-09",
+            "d_votes": 245294,
+            "r_votes": 0
+          },
+          {
+            "state": "MI",
+            "district": "MI-14",
+            "d_votes": 227847,
+            "r_votes": 0
+          },
+          {
+            "state": "MN",
+            "district": "MN-01",
+            "d_votes": 0,
+            "r_votes": 109453
+          },
+          {
+            "state": "MN",
+            "district": "MN-02",
+            "d_votes": 0,
+            "r_votes": 220924
+          },
+          {
+            "state": "MN",
+            "district": "MN-03",
+            "d_votes": 0,
+            "r_votes": 178932
+          },
+          {
+            "state": "MN",
+            "district": "MN-04",
+            "d_votes": 0,
+            "r_votes": 98936
+          },
+          {
+            "state": "MN",
+            "district": "MN-05",
+            "d_votes": 0,
+            "r_votes": 71020
+          },
+          {
+            "state": "MN",
+            "district": "MN-06",
+            "d_votes": 0,
+            "r_votes": 187817
+          },
+          {
+            "state": "MN",
+            "district": "MN-07",
+            "d_votes": 0,
+            "r_votes": 87062
+          },
+          {
+            "state": "MN",
+            "district": "MN-08",
+            "d_votes": 0,
+            "r_votes": 114871
+          },
+          {
+            "state": "MO",
+            "district": "MO-01",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "NC",
+            "district": "NC-04",
+            "d_votes": 265751,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "district": "NJ-10",
+            "d_votes": 169945,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-06",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-09",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "OR",
+            "district": "OR-01",
+            "d_votes": 237567,
+            "r_votes": 0
+          },
+          {
+            "state": "OR",
+            "district": "OR-04",
+            "d_votes": 275143,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-13",
+            "d_votes": 196868,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-14",
+            "d_votes": 242326,
+            "r_votes": 0
+          },
+          {
+            "state": "TN",
+            "district": "TN-06",
+            "d_votes": 194205,
+            "r_votes": 0
+          },
+          {
+            "state": "TN",
+            "district": "TN-08",
+            "d_votes": 180519,
+            "r_votes": 0
+          },
+          {
+            "state": "TN",
+            "district": "TN-09",
+            "d_votes": 198902,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-01",
+            "d_votes": 0,
+            "r_votes": 189012
+          },
+          {
+            "state": "TX",
+            "district": "TX-11",
+            "d_votes": 0,
+            "r_votes": 189625
+          },
+          {
+            "state": "TX",
+            "district": "TX-14",
+            "d_votes": 0,
+            "r_votes": 191293
+          },
+          {
+            "state": "TX",
+            "district": "TX-16",
+            "d_votes": 130375,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-02",
+            "d_votes": 0,
+            "r_votes": 175101
+          },
+          {
+            "state": "TX",
+            "district": "TX-21",
+            "d_votes": 0,
+            "r_votes": 243471
+          },
+          {
+            "state": "TX",
+            "district": "TX-05",
+            "d_votes": 0,
+            "r_votes": 162894
+          },
+          {
+            "state": "TX",
+            "district": "TX-09",
+            "d_votes": 143868,
+            "r_votes": 0
+          },
+          {
+            "state": "VA",
+            "district": "VA-03",
+            "d_votes": 239911,
+            "r_votes": 0
+          },
+          {
+            "state": "VA",
+            "district": "VA-09",
+            "d_votes": 207306,
+            "r_votes": 0
+          },
+          {
+            "state": "VT",
+            "district": "VT-AL",
+            "d_votes": 248203,
+            "r_votes": 0
+          },
+          {
+            "state": "WI",
+            "district": "WI-04",
+            "d_votes": 222661,
+            "r_votes": 0
+          },
+          {
+            "state": "WI",
+            "district": "WI-05",
+            "d_votes": 0,
+            "r_votes": 275336
+          },
+          {
+            "state": "WV",
+            "district": "WV-01",
+            "d_votes": 187734,
+            "r_votes": 0
+          }
+        ],
+        "missing_files": null
+      },
+      "senate": {
+        "states": 32,
+        "national_d_share": 52.67,
+        "excluded_races": [
+          {
+            "state": "AR",
+            "office": "senate",
+            "d_votes": 804678,
+            "r_votes": 0
+          },
+          {
+            "state": "MS",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 0
+          }
+        ],
+        "unknown_states": null
+      },
+      "statewide": {
+        "states": 19,
+        "national_d_share": 54.25,
+        "excluded_races": null,
+        "stateleg_walkover_districts": 247,
+        "missing_files": null
+      },
+      "allocation_coverage": {
+        "AL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "AR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "AZ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "CA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 53
+        },
+        "CO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "CT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "DC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "DE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "FL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 25
+        },
+        "GA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "HI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "ID": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 19
+        },
+        "IN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "KS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "KY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "LA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "MA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 10
+        },
+        "MD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "ME": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "MI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 15
+        },
+        "MN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "MS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "MT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "ND": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "NJ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "NM": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 29
+        },
+        "OH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 18
+        },
+        "OK": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "OR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "PA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 19
+        },
+        "RI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "SC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "SD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "TN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "TX": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 32
+        },
+        "UT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "VA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 11
+        },
+        "VT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "WA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "WI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "WV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "WY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        }
+      },
+      "unmatched_counties": null,
+      "unclaimed_counties": null,
+      "multi_whole_counties": null
+    },
+    "2012": {
+      "vintage": "2000s",
+      "presidential_rows": 9832,
+      "presidential_csv": "ok",
+      "states_present": 50,
+      "rows": 436,
+      "national": {
+        "d_votes": 65791946,
+        "r_votes": 60767217,
+        "d_share_two_party_pct": 51.99
+      },
+      "house": {
+        "districts": 369,
+        "votes_fixed": 13,
+        "national_d_share": 51.01,
+        "excluded_races": [
+          {
+            "state": "AL",
+            "district": "AL-01",
+            "d_votes": 0,
+            "r_votes": 196374
+          },
+          {
+            "state": "AR",
+            "district": "AR-03",
+            "d_votes": 0,
+            "r_votes": 186467
+          },
+          {
+            "state": "AZ",
+            "district": "AZ-07",
+            "d_votes": 104489,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-13",
+            "d_votes": 250436,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-15",
+            "d_votes": 231034,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-23",
+            "d_votes": 0,
+            "r_votes": 158161
+          },
+          {
+            "state": "CA",
+            "district": "CA-29",
+            "d_votes": 111509,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-30",
+            "d_votes": 247851,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-31",
+            "d_votes": 0,
+            "r_votes": 161219
+          },
+          {
+            "state": "CA",
+            "district": "CA-33",
+            "d_votes": 171860,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-35",
+            "d_votes": 142680,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-40",
+            "d_votes": 125553,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-43",
+            "d_votes": 200894,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-44",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-08",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "CO",
+            "district": "CO-05",
+            "d_votes": 0,
+            "r_votes": 199639
+          },
+          {
+            "state": "FL",
+            "district": "FL-15",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-20",
+            "d_votes": 214727,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-21",
+            "d_votes": 221263,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-24",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-25",
+            "d_votes": 0,
+            "r_votes": 151573
+          },
+          {
+            "state": "FL",
+            "district": "FL-04",
+            "d_votes": 0,
+            "r_votes": 239988
+          },
+          {
+            "state": "GA",
+            "district": "GA-10",
+            "d_votes": 0,
+            "r_votes": 211065
+          },
+          {
+            "state": "GA",
+            "district": "GA-03",
+            "d_votes": 0,
+            "r_votes": 232380
+          },
+          {
+            "state": "GA",
+            "district": "GA-08",
+            "d_votes": 0,
+            "r_votes": 197789
+          },
+          {
+            "state": "KS",
+            "district": "KS-01",
+            "d_votes": 0,
+            "r_votes": 211337
+          },
+          {
+            "state": "KS",
+            "district": "KS-03",
+            "d_votes": 0,
+            "r_votes": 201087
+          },
+          {
+            "state": "LA",
+            "district": "LA-03",
+            "d_votes": 0,
+            "r_votes": 96588
+          },
+          {
+            "state": "LA",
+            "district": "LA-04",
+            "d_votes": 0,
+            "r_votes": 187894
+          },
+          {
+            "state": "LA",
+            "district": "LA-05",
+            "d_votes": 0,
+            "r_votes": 202536
+          },
+          {
+            "state": "LA",
+            "district": "LA-06",
+            "d_votes": 0,
+            "r_votes": 243553
+          },
+          {
+            "state": "MA",
+            "district": "MA-01",
+            "d_votes": 261936,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-02",
+            "d_votes": 259257,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-07",
+            "d_votes": 210794,
+            "r_votes": 0
+          },
+          {
+            "state": "MN",
+            "district": "MN-01",
+            "d_votes": 0,
+            "r_votes": 142164
+          },
+          {
+            "state": "MN",
+            "district": "MN-02",
+            "d_votes": 0,
+            "r_votes": 193587
+          },
+          {
+            "state": "MN",
+            "district": "MN-03",
+            "d_votes": 0,
+            "r_votes": 222335
+          },
+          {
+            "state": "MN",
+            "district": "MN-04",
+            "d_votes": 0,
+            "r_votes": 109659
+          },
+          {
+            "state": "MN",
+            "district": "MN-05",
+            "d_votes": 0,
+            "r_votes": 88753
+          },
+          {
+            "state": "MN",
+            "district": "MN-06",
+            "d_votes": 0,
+            "r_votes": 179240
+          },
+          {
+            "state": "MN",
+            "district": "MN-07",
+            "d_votes": 0,
+            "r_votes": 114151
+          },
+          {
+            "state": "MN",
+            "district": "MN-08",
+            "d_votes": 0,
+            "r_votes": 160520
+          },
+          {
+            "state": "MS",
+            "district": "MS-03",
+            "d_votes": 0,
+            "r_votes": 234717
+          },
+          {
+            "state": "NY",
+            "district": "NY-07",
+            "d_votes": 143930,
+            "r_votes": 0
+          },
+          {
+            "state": "OH",
+            "district": "OH-11",
+            "d_votes": 258359,
+            "r_votes": 0
+          },
+          {
+            "state": "OH",
+            "district": "OH-08",
+            "d_votes": 0,
+            "r_votes": 246378
+          },
+          {
+            "state": "SC",
+            "district": "SC-02",
+            "d_votes": 0,
+            "r_votes": 196116
+          },
+          {
+            "state": "SC",
+            "district": "SC-06",
+            "d_votes": 218717,
+            "r_votes": 0
+          },
+          {
+            "state": "TN",
+            "district": "TN-06",
+            "d_votes": 0,
+            "r_votes": 184383
+          },
+          {
+            "state": "TX",
+            "district": "TX-13",
+            "d_votes": 0,
+            "r_votes": 187775
+          },
+          {
+            "state": "TX",
+            "district": "TX-17",
+            "d_votes": 0,
+            "r_votes": 143284
+          },
+          {
+            "state": "TX",
+            "district": "TX-19",
+            "d_votes": 0,
+            "r_votes": 163239
+          },
+          {
+            "state": "TX",
+            "district": "TX-29",
+            "d_votes": 86053,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-03",
+            "d_votes": 0,
+            "r_votes": 187180
+          }
+        ],
+        "missing_files": null
+      },
+      "senate": {
+        "states": 32,
+        "national_d_share": 56.14,
+        "excluded_races": [
+          {
+            "state": "MA",
+            "office": "senate",
+            "d_votes": 3500,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "office": "senate",
+            "d_votes": 236305,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 1111938
+          },
+          {
+            "state": "UT",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 3918
+          },
+          {
+            "state": "UT",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 3908
+          },
+          {
+            "state": "VT",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 72898
+          }
+        ],
+        "unknown_states": null
+      },
+      "statewide": {
+        "states": 24,
+        "national_d_share": 51.05,
+        "excluded_races": null,
+        "stateleg_walkover_districts": 476,
+        "missing_files": null
+      },
+      "allocation_coverage": {
+        "AL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "AR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "AZ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "CA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 53
+        },
+        "CO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "CT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "DC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "DE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "FL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 25
+        },
+        "GA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "HI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "ID": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 19
+        },
+        "IN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "KS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "KY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "LA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "MA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 10
+        },
+        "MD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "ME": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "MI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 15
+        },
+        "MN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "MS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "MT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "ND": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "NJ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "NM": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 29
+        },
+        "OH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 18
+        },
+        "OK": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "OR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "PA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 19
+        },
+        "RI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "SC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "SD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "TN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "TX": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 32
+        },
+        "UT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "VA": {
+          "allocated_vs_available_pct": 99.69,
+          "districts": 11
+        },
+        "VT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "WA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "WI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "WV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "WY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        }
+      },
+      "unmatched_counties": null,
+      "unclaimed_counties": null,
+      "multi_whole_counties": null
+    },
+    "2016": {
+      "vintage": "2010s",
+      "presidential_rows": 10034,
+      "presidential_csv": "ok",
+      "states_present": 50,
+      "rows": 436,
+      "national": {
+        "d_votes": 65733571,
+        "r_votes": 62820962,
+        "d_share_two_party_pct": 51.13
+      },
+      "house": {
+        "districts": 318,
+        "votes_fixed": 28,
+        "national_d_share": 47.35,
+        "excluded_races": [
+          {
+            "state": "AL",
+            "district": "AL-01",
+            "d_votes": 0,
+            "r_votes": 208083
+          },
+          {
+            "state": "AL",
+            "district": "AL-04",
+            "d_votes": 0,
+            "r_votes": 235925
+          },
+          {
+            "state": "AL",
+            "district": "AL-07",
+            "d_votes": 229330,
+            "r_votes": 0
+          },
+          {
+            "state": "AR",
+            "district": "AR-01",
+            "d_votes": 0,
+            "r_votes": 183866
+          },
+          {
+            "state": "AR",
+            "district": "AR-03",
+            "d_votes": 0,
+            "r_votes": 217192
+          },
+          {
+            "state": "AR",
+            "district": "AR-04",
+            "d_votes": 0,
+            "r_votes": 182885
+          },
+          {
+            "state": "AZ",
+            "district": "AZ-03",
+            "d_votes": 148973,
+            "r_votes": 0
+          },
+          {
+            "state": "AZ",
+            "district": "AZ-08",
+            "d_votes": 0,
+            "r_votes": 204942
+          },
+          {
+            "state": "CA",
+            "district": "CA-01",
+            "d_votes": 0,
+            "r_votes": 185448
+          },
+          {
+            "state": "CA",
+            "district": "CA-10",
+            "d_votes": 0,
+            "r_votes": 124671
+          },
+          {
+            "state": "CA",
+            "district": "CA-11",
+            "d_votes": 214868,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-12",
+            "d_votes": 274035,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-13",
+            "d_votes": 293117,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-14",
+            "d_votes": 231630,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-15",
+            "d_votes": 198578,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-16",
+            "d_votes": 97473,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-17",
+            "d_votes": 142268,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-18",
+            "d_votes": 230460,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-19",
+            "d_votes": 181802,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-02",
+            "d_votes": 254194,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-20",
+            "d_votes": 180980,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-21",
+            "d_votes": 0,
+            "r_votes": 75126
+          },
+          {
+            "state": "CA",
+            "district": "CA-22",
+            "d_votes": 0,
+            "r_votes": 158755
+          },
+          {
+            "state": "CA",
+            "district": "CA-23",
+            "d_votes": 0,
+            "r_votes": 167116
+          },
+          {
+            "state": "CA",
+            "district": "CA-24",
+            "d_votes": 166034,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-25",
+            "d_votes": 0,
+            "r_votes": 138755
+          },
+          {
+            "state": "CA",
+            "district": "CA-26",
+            "d_votes": 169248,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-27",
+            "d_votes": 168977,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-28",
+            "d_votes": 210883,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-29",
+            "d_votes": 128353,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-03",
+            "d_votes": 152513,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-30",
+            "d_votes": 205279,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-31",
+            "d_votes": 121070,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-32",
+            "d_votes": 114926,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-33",
+            "d_votes": 219397,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-34",
+            "d_votes": 122842,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-35",
+            "d_votes": 124044,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-36",
+            "d_votes": 144348,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-37",
+            "d_votes": 192490,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-38",
+            "d_votes": 163590,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-39",
+            "d_votes": 0,
+            "r_votes": 150777
+          },
+          {
+            "state": "CA",
+            "district": "CA-04",
+            "d_votes": 0,
+            "r_votes": 220133
+          },
+          {
+            "state": "CA",
+            "district": "CA-40",
+            "d_votes": 106554,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-41",
+            "d_votes": 128164,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-42",
+            "d_votes": 0,
+            "r_votes": 149547
+          },
+          {
+            "state": "CA",
+            "district": "CA-43",
+            "d_votes": 167017,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-44",
+            "d_votes": 93124,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-45",
+            "d_votes": 0,
+            "r_votes": 182618
+          },
+          {
+            "state": "CA",
+            "district": "CA-46",
+            "d_votes": 115248,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-47",
+            "d_votes": 154759,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-48",
+            "d_votes": 0,
+            "r_votes": 178701
+          },
+          {
+            "state": "CA",
+            "district": "CA-49",
+            "d_votes": 0,
+            "r_votes": 155888
+          },
+          {
+            "state": "CA",
+            "district": "CA-05",
+            "d_votes": 224526,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-50",
+            "d_votes": 0,
+            "r_votes": 179937
+          },
+          {
+            "state": "CA",
+            "district": "CA-51",
+            "d_votes": 145162,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-52",
+            "d_votes": 181253,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-53",
+            "d_votes": 198988,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-06",
+            "d_votes": 177565,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-07",
+            "d_votes": 152133,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-08",
+            "d_votes": 0,
+            "r_votes": 136972
+          },
+          {
+            "state": "CA",
+            "district": "CA-09",
+            "d_votes": 133163,
+            "r_votes": 0
+          },
+          {
+            "state": "DC",
+            "district": "DC-AL",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-24",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "GA",
+            "district": "GA-01",
+            "d_votes": 0,
+            "r_votes": 210243
+          },
+          {
+            "state": "GA",
+            "district": "GA-10",
+            "d_votes": 0,
+            "r_votes": 243725
+          },
+          {
+            "state": "GA",
+            "district": "GA-13",
+            "d_votes": 252833,
+            "r_votes": 0
+          },
+          {
+            "state": "GA",
+            "district": "GA-14",
+            "d_votes": 0,
+            "r_votes": 216743
+          },
+          {
+            "state": "GA",
+            "district": "GA-09",
+            "d_votes": 0,
+            "r_votes": 256535
+          },
+          {
+            "state": "IL",
+            "district": "IL-15",
+            "d_votes": 0,
+            "r_votes": 274554
+          },
+          {
+            "state": "IL",
+            "district": "IL-16",
+            "d_votes": 0,
+            "r_votes": 259722
+          },
+          {
+            "state": "IL",
+            "district": "IL-03",
+            "d_votes": 225320,
+            "r_votes": 0
+          },
+          {
+            "state": "IL",
+            "district": "IL-04",
+            "d_votes": 171297,
+            "r_votes": 0
+          },
+          {
+            "state": "IN",
+            "district": "IN-01",
+            "d_votes": 207515,
+            "r_votes": 0
+          },
+          {
+            "state": "KS",
+            "district": "KS-01",
+            "d_votes": 0,
+            "r_votes": 169992
+          },
+          {
+            "state": "KY",
+            "district": "KY-02",
+            "d_votes": 0,
+            "r_votes": 251825
+          },
+          {
+            "state": "KY",
+            "district": "KY-05",
+            "d_votes": 0,
+            "r_votes": 221242
+          },
+          {
+            "state": "LA",
+            "district": "LA-02",
+            "d_votes": 284269,
+            "r_votes": 0
+          },
+          {
+            "state": "LA",
+            "district": "LA-05",
+            "d_votes": 0,
+            "r_votes": 255662
+          },
+          {
+            "state": "MA",
+            "district": "MA-01",
+            "d_votes": 235803,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-02",
+            "d_votes": 275487,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-05",
+            "d_votes": 285606,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-06",
+            "d_votes": 308923,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-07",
+            "d_votes": 253354,
+            "r_votes": 0
+          },
+          {
+            "state": "MN",
+            "district": "MN-01",
+            "d_votes": 0,
+            "r_votes": 166526
+          },
+          {
+            "state": "MN",
+            "district": "MN-02",
+            "d_votes": 0,
+            "r_votes": 173970
+          },
+          {
+            "state": "MN",
+            "district": "MN-03",
+            "d_votes": 0,
+            "r_votes": 223077
+          },
+          {
+            "state": "MN",
+            "district": "MN-04",
+            "d_votes": 0,
+            "r_votes": 121032
+          },
+          {
+            "state": "MN",
+            "district": "MN-05",
+            "d_votes": 0,
+            "r_votes": 80660
+          },
+          {
+            "state": "MN",
+            "district": "MN-06",
+            "d_votes": 0,
+            "r_votes": 235380
+          },
+          {
+            "state": "MN",
+            "district": "MN-07",
+            "d_votes": 0,
+            "r_votes": 156952
+          },
+          {
+            "state": "MN",
+            "district": "MN-08",
+            "d_votes": 0,
+            "r_votes": 177062
+          },
+          {
+            "state": "NE",
+            "district": "NE-03",
+            "d_votes": 0,
+            "r_votes": 226720
+          },
+          {
+            "state": "NY",
+            "district": "NY-16",
+            "d_votes": 209268,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-17",
+            "d_votes": 212599,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-08",
+            "d_votes": 214356,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-09",
+            "d_votes": 213919,
+            "r_votes": 0
+          },
+          {
+            "state": "OK",
+            "district": "OK-01",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "OR",
+            "district": "OR-03",
+            "d_votes": 274687,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-13",
+            "d_votes": 239316,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-18",
+            "d_votes": 0,
+            "r_votes": 293684
+          },
+          {
+            "state": "PA",
+            "district": "PA-03",
+            "d_votes": 0,
+            "r_votes": 244893
+          },
+          {
+            "state": "SD",
+            "district": "SD-AL",
+            "d_votes": 0,
+            "r_votes": 237163
+          },
+          {
+            "state": "TX",
+            "district": "TX-11",
+            "d_votes": 0,
+            "r_votes": 201871
+          },
+          {
+            "state": "TX",
+            "district": "TX-13",
+            "d_votes": 0,
+            "r_votes": 199050
+          },
+          {
+            "state": "TX",
+            "district": "TX-16",
+            "d_votes": 150228,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-19",
+            "d_votes": 0,
+            "r_votes": 176314
+          },
+          {
+            "state": "TX",
+            "district": "TX-20",
+            "d_votes": 149640,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-32",
+            "d_votes": 0,
+            "r_votes": 162868
+          },
+          {
+            "state": "TX",
+            "district": "TX-36",
+            "d_votes": 0,
+            "r_votes": 193675
+          },
+          {
+            "state": "TX",
+            "district": "TX-04",
+            "d_votes": 0,
+            "r_votes": 216643
+          },
+          {
+            "state": "TX",
+            "district": "TX-05",
+            "d_votes": 0,
+            "r_votes": 155469
+          },
+          {
+            "state": "TX",
+            "district": "TX-08",
+            "d_votes": 0,
+            "r_votes": 236379
+          },
+          {
+            "state": "VA",
+            "district": "VA-11",
+            "d_votes": 247818,
+            "r_votes": 0
+          },
+          {
+            "state": "VT",
+            "district": "VT-AL",
+            "d_votes": 243651,
+            "r_votes": 0
+          },
+          {
+            "state": "WA",
+            "district": "WA-04",
+            "d_votes": 0,
+            "r_votes": 229919
+          },
+          {
+            "state": "WA",
+            "district": "WA-07",
+            "d_votes": 378754,
+            "r_votes": 0
+          },
+          {
+            "state": "WI",
+            "district": "WI-03",
+            "d_votes": 257401,
+            "r_votes": 0
+          },
+          {
+            "state": "WI",
+            "district": "WI-04",
+            "d_votes": 220181,
+            "r_votes": 0
+          }
+        ],
+        "missing_files": null
+      },
+      "senate": {
+        "states": 33,
+        "national_d_share": 48.85,
+        "excluded_races": [
+          {
+            "state": "CA",
+            "office": "senate",
+            "d_votes": 12244170,
+            "r_votes": 0
+          }
+        ],
+        "unknown_states": null
+      },
+      "statewide": {
+        "states": 31,
+        "national_d_share": 47.04,
+        "excluded_races": [
+          {
+            "state": "WA",
+            "office": "attorney general",
+            "d_votes": 2000804,
+            "r_votes": 0
+          }
+        ],
+        "stateleg_walkover_districts": 548,
+        "missing_files": null
+      },
+      "allocation_coverage": {
+        "AL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "AR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "AZ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "CA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 53
+        },
+        "CO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "CT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "DC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "DE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "FL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 27
+        },
+        "GA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 14
+        },
+        "HI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "ID": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 18
+        },
+        "IN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "KS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "KY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "LA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "MA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "MD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "ME": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "MI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 14
+        },
+        "MN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "MT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "ND": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "NJ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 12
+        },
+        "NM": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "NY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 27
+        },
+        "OH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 16
+        },
+        "OK": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "OR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "PA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 18
+        },
+        "RI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "SC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "SD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "TN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "TX": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 36
+        },
+        "UT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "VA": {
+          "allocated_vs_available_pct": 99.66,
+          "districts": 11
+        },
+        "VT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "WA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 10
+        },
+        "WI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "WV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "WY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        }
+      },
+      "unmatched_counties": null,
+      "unclaimed_counties": null,
+      "multi_whole_counties": null
+    },
+    "2020": {
+      "vintage": "2010s",
+      "presidential_rows": 9603,
+      "presidential_csv": "ok",
+      "states_present": 50,
+      "rows": 436,
+      "national": {
+        "d_votes": 81126333,
+        "r_votes": 74034849,
+        "d_share_two_party_pct": 52.29
+      },
+      "house": {
+        "districts": 398,
+        "votes_fixed": 2,
+        "national_d_share": 50.62,
+        "excluded_races": [
+          {
+            "state": "AK",
+            "district": "AK-AL",
+            "d_votes": 0,
+            "r_votes": 192126
+          },
+          {
+            "state": "AL",
+            "district": "AL-05",
+            "d_votes": 0,
+            "r_votes": 253094
+          },
+          {
+            "state": "AL",
+            "district": "AL-06",
+            "d_votes": 0,
+            "r_votes": 274160
+          },
+          {
+            "state": "AL",
+            "district": "AL-07",
+            "d_votes": 225742,
+            "r_votes": 0
+          },
+          {
+            "state": "AR",
+            "district": "AR-01",
+            "d_votes": 0,
+            "r_votes": 237596
+          },
+          {
+            "state": "CA",
+            "district": "CA-12",
+            "d_votes": 362950,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-18",
+            "d_votes": 344139,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-29",
+            "d_votes": 210944,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-34",
+            "d_votes": 205346,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-38",
+            "d_votes": 256206,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-44",
+            "d_votes": 206036,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-53",
+            "d_votes": 334858,
+            "r_votes": 0
+          },
+          {
+            "state": "DC",
+            "district": "DC-AL",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-02",
+            "d_votes": 0,
+            "r_votes": 305337
+          },
+          {
+            "state": "FL",
+            "district": "FL-25",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "IL",
+            "district": "IL-08",
+            "d_votes": 186251,
+            "r_votes": 0
+          },
+          {
+            "state": "LA",
+            "district": "LA-05",
+            "d_votes": 0,
+            "r_votes": 79307
+          },
+          {
+            "state": "MA",
+            "district": "MA-01",
+            "d_votes": 275376,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-03",
+            "d_votes": 286896,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-07",
+            "d_votes": 267362,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-08",
+            "d_votes": 311019,
+            "r_votes": 0
+          },
+          {
+            "state": "MN",
+            "district": "MN-01",
+            "d_votes": 0,
+            "r_votes": 179234
+          },
+          {
+            "state": "MN",
+            "district": "MN-02",
+            "d_votes": 0,
+            "r_votes": 194954
+          },
+          {
+            "state": "MN",
+            "district": "MN-03",
+            "d_votes": 0,
+            "r_votes": 196625
+          },
+          {
+            "state": "MN",
+            "district": "MN-04",
+            "d_votes": 0,
+            "r_votes": 112730
+          },
+          {
+            "state": "MN",
+            "district": "MN-05",
+            "d_votes": 0,
+            "r_votes": 102878
+          },
+          {
+            "state": "MN",
+            "district": "MN-06",
+            "d_votes": 0,
+            "r_votes": 270901
+          },
+          {
+            "state": "MN",
+            "district": "MN-07",
+            "d_votes": 0,
+            "r_votes": 194066
+          },
+          {
+            "state": "MN",
+            "district": "MN-08",
+            "d_votes": 0,
+            "r_votes": 223432
+          },
+          {
+            "state": "MS",
+            "district": "MS-04",
+            "d_votes": 0,
+            "r_votes": 255971
+          },
+          {
+            "state": "NC",
+            "district": "NC-12",
+            "d_votes": 341457,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-16",
+            "d_votes": 218514,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-05",
+            "d_votes": 229125,
+            "r_votes": 0
+          },
+          {
+            "state": "RI",
+            "district": "RI-01",
+            "d_votes": 158550,
+            "r_votes": 0
+          },
+          {
+            "state": "SD",
+            "district": "SD-AL",
+            "d_votes": 0,
+            "r_votes": 321984
+          },
+          {
+            "state": "TN",
+            "district": "TN-05",
+            "d_votes": 252155,
+            "r_votes": 0
+          },
+          {
+            "state": "VA",
+            "district": "VA-09",
+            "d_votes": 0,
+            "r_votes": 271851
+          },
+          {
+            "state": "WA",
+            "district": "WA-10",
+            "d_votes": 288977,
+            "r_votes": 0
+          }
+        ],
+        "missing_files": null
+      },
+      "senate": {
+        "states": 30,
+        "national_d_share": 49.71,
+        "excluded_races": [
+          {
+            "state": "AK",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 191112
+          },
+          {
+            "state": "AR",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 793871
+          }
+        ],
+        "unknown_states": null
+      },
+      "statewide": {
+        "states": 41,
+        "national_d_share": 46.84,
+        "excluded_races": [
+          {
+            "state": "VT",
+            "office": "governor",
+            "d_votes": 0,
+            "r_votes": 248412
+          }
+        ],
+        "stateleg_walkover_districts": 1215,
+        "missing_files": null
+      },
+      "allocation_coverage": {
+        "AL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "AR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "AZ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "CA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 53
+        },
+        "CO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "CT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "DC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "DE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "FL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 27
+        },
+        "GA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 14
+        },
+        "HI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "ID": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 18
+        },
+        "IN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "KS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "KY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "LA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "MA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "MD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "ME": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "MI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 14
+        },
+        "MN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "MT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "ND": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "NJ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 12
+        },
+        "NM": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "NY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 27
+        },
+        "OH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 16
+        },
+        "OK": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "OR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "PA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 18
+        },
+        "RI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "SC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "SD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "TN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "TX": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 36
+        },
+        "UT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "VA": {
+          "allocated_vs_available_pct": 99.65,
+          "districts": 11
+        },
+        "VT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "WA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 10
+        },
+        "WI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "WV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "WY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        }
+      },
+      "unmatched_counties": null,
+      "unclaimed_counties": null,
+      "multi_whole_counties": null
+    },
+    "2024": {
+      "vintage": "2020s",
+      "presidential_rows": 9450,
+      "presidential_csv": "ok",
+      "states_present": 51,
+      "rows": 436,
+      "national": {
+        "d_votes": 75011733,
+        "r_votes": 77302049,
+        "d_share_two_party_pct": 49.25
+      },
+      "house": {
+        "districts": 391,
+        "votes_fixed": 6,
+        "national_d_share": 48.85,
+        "excluded_races": [
+          {
+            "state": "AL",
+            "district": "AL-03",
+            "d_votes": 0,
+            "r_votes": 249008
+          },
+          {
+            "state": "AL",
+            "district": "AL-04",
+            "d_votes": 0,
+            "r_votes": 274498
+          },
+          {
+            "state": "AL",
+            "district": "AL-05",
+            "d_votes": 0,
+            "r_votes": 262410
+          },
+          {
+            "state": "CA",
+            "district": "CA-12",
+            "d_votes": 283025,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-16",
+            "d_votes": 308476,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-20",
+            "d_votes": 0,
+            "r_votes": 288649
+          },
+          {
+            "state": "CA",
+            "district": "CA-34",
+            "d_votes": 189414,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-37",
+            "d_votes": 160364,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-20",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "IL",
+            "district": "IL-15",
+            "d_votes": 0,
+            "r_votes": 308825
+          },
+          {
+            "state": "IL",
+            "district": "IL-16",
+            "d_votes": 0,
+            "r_votes": 310925
+          },
+          {
+            "state": "KY",
+            "district": "KY-04",
+            "d_votes": 0,
+            "r_votes": 278386
+          },
+          {
+            "state": "KY",
+            "district": "KY-05",
+            "d_votes": 0,
+            "r_votes": 261407
+          },
+          {
+            "state": "LA",
+            "district": "LA-04",
+            "d_votes": 0,
+            "r_votes": 306248
+          },
+          {
+            "state": "MA",
+            "district": "MA-01",
+            "d_votes": 223325,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-02",
+            "d_votes": 251441,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-03",
+            "d_votes": 271559,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-04",
+            "d_votes": 297725,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-05",
+            "d_votes": 286689,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-06",
+            "d_votes": 328377,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-07",
+            "d_votes": 239001,
+            "r_votes": 0
+          },
+          {
+            "state": "MN",
+            "district": "MN-01",
+            "d_votes": 0,
+            "r_votes": 220929
+          },
+          {
+            "state": "MN",
+            "district": "MN-02",
+            "d_votes": 0,
+            "r_votes": 175621
+          },
+          {
+            "state": "MN",
+            "district": "MN-03",
+            "d_votes": 0,
+            "r_votes": 170427
+          },
+          {
+            "state": "MN",
+            "district": "MN-04",
+            "d_votes": 0,
+            "r_votes": 117618
+          },
+          {
+            "state": "MN",
+            "district": "MN-05",
+            "d_votes": 0,
+            "r_votes": 86213
+          },
+          {
+            "state": "MN",
+            "district": "MN-06",
+            "d_votes": 0,
+            "r_votes": 260095
+          },
+          {
+            "state": "MN",
+            "district": "MN-07",
+            "d_votes": 0,
+            "r_votes": 275098
+          },
+          {
+            "state": "MN",
+            "district": "MN-08",
+            "d_votes": 0,
+            "r_votes": 244498
+          },
+          {
+            "state": "MS",
+            "district": "MS-03",
+            "d_votes": 0,
+            "r_votes": 265159
+          },
+          {
+            "state": "NC",
+            "district": "NC-03",
+            "d_votes": 0,
+            "r_votes": 248276
+          },
+          {
+            "state": "NC",
+            "district": "NC-06",
+            "d_votes": 0,
+            "r_votes": 233303
+          },
+          {
+            "state": "NV",
+            "district": "NV-02",
+            "d_votes": 0,
+            "r_votes": 219919
+          },
+          {
+            "state": "OK",
+            "district": "OK-03",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-03",
+            "d_votes": 340223,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-01",
+            "d_votes": 0,
+            "r_votes": 258523
+          },
+          {
+            "state": "TX",
+            "district": "TX-11",
+            "d_votes": 0,
+            "r_votes": 211975
+          },
+          {
+            "state": "TX",
+            "district": "TX-13",
+            "d_votes": 0,
+            "r_votes": 240622
+          },
+          {
+            "state": "TX",
+            "district": "TX-19",
+            "d_votes": 0,
+            "r_votes": 214600
+          },
+          {
+            "state": "TX",
+            "district": "TX-20",
+            "d_votes": 157890,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-25",
+            "d_votes": 0,
+            "r_votes": 263042
+          },
+          {
+            "state": "TX",
+            "district": "TX-30",
+            "d_votes": 197650,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-09",
+            "d_votes": 184141,
+            "r_votes": 0
+          },
+          {
+            "state": "WA",
+            "district": "WA-04",
+            "d_votes": 0,
+            "r_votes": 289652
+          },
+          {
+            "state": "WA",
+            "district": "WA-09",
+            "d_votes": 273381,
+            "r_votes": 0
+          }
+        ],
+        "missing_files": null
+      },
+      "senate": {
+        "states": 31,
+        "national_d_share": 49.51,
+        "excluded_races": [
+          {
+            "state": "NE",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 499124
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 210,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 1218
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 1157,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 636
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 271,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 121
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 193,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 153
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 374,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 103
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 143
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 466,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 244
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 193
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 540,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 379
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 231,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 224
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 21,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 328,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 214
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 194
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 178,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 22,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 230
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 41,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 71
+          },
+          {
+            "state": "VT",
+            "office": "senate",
+            "d_votes": 0,
+            "r_votes": 116512
+          }
+        ],
+        "unknown_states": null
+      },
+      "statewide": {
+        "states": 40,
+        "national_d_share": 45.87,
+        "excluded_races": [
+          {
+            "state": "ND",
+            "office": "state treasurer",
+            "d_votes": 0,
+            "r_votes": 303730
+          },
+          {
+            "state": "WV",
+            "office": "state treasurer",
+            "d_votes": 0,
+            "r_votes": 602718
+          }
+        ],
+        "stateleg_walkover_districts": 1163,
+        "missing_files": null
+      },
+      "allocation_coverage": {
+        "AK": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "AL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "AR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "AZ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "CA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 52
+        },
+        "CO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "CT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "DC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "DE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "FL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 28
+        },
+        "GA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 14
+        },
+        "HI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "ID": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 17
+        },
+        "IN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "KS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "KY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "LA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "MA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "MD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "ME": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "MI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "MN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "MT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "NC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 14
+        },
+        "ND": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "NJ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 12
+        },
+        "NM": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "NY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 26
+        },
+        "OH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 15
+        },
+        "OK": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "OR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "PA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 17
+        },
+        "RI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "SC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "SD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "TN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "TX": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 38
+        },
+        "UT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "VA": {
+          "allocated_vs_available_pct": 99.51,
+          "districts": 11
+        },
+        "VT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "WA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 10
+        },
+        "WI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "WV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "WY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        }
+      },
+      "unmatched_counties": null,
+      "unclaimed_counties": null,
+      "multi_whole_counties": null
+    }
+  }
+}

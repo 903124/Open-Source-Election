@@ -646,7 +646,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Oregon,OR,governor,Democratic primary results,Candidate,Steve Laible,Democratic,3692,0.8,False,False
 2026,Oregon,OR,governor,Democratic primary results,Candidate,Cal Kishawi,Democratic,2422,0.5,False,False
 2026,Oregon,OR,governor,Democratic primary results,Candidate,Donnie Beckwith,Democratic,1799,0.4,False,False
-2026,Oregon,OR,governor,Democratic primary results,Candidate,Write-in,Democratic,14228,3.1,False,False
+2026,Oregon,OR,governor,Democratic primary results,Write-in,,,14228,3.1,False,False
 2026,Oregon,OR,governor,Democratic primary results,Total,,,461695,100.0,False,False
 2026,Oregon,OR,governor,Republican primary results,Winning,Christine Drazan,Republican,172474,40.5,True,False
 2026,Oregon,OR,governor,Republican primary results,Candidate,Ed Diehl,Republican,140458,33.0,False,False
@@ -662,7 +662,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Oregon,OR,governor,Republican primary results,Candidate,DeAngelo Turner,Republican,377,0.1,False,False
 2026,Oregon,OR,governor,Republican primary results,Candidate,Wen Waddell,Republican,321,0.1,False,False
 2026,Oregon,OR,governor,Republican primary results,Candidate,Tim Youker,Republican,248,0.1,False,False
-2026,Oregon,OR,governor,Republican primary results,Candidate,Write-in,Republican,1622,0.4,False,False
+2026,Oregon,OR,governor,Republican primary results,Write-in,,,1622,0.4,False,False
 2026,Oregon,OR,governor,Republican primary results,Total,,,425557,100.0,False,False
 2026,Pennsylvania,PA,governor,Democratic primary results,Winning,Josh Shapiro,Democratic,1116960,100.0,True,True
 2026,Pennsylvania,PA,governor,Democratic primary results,Total,,,1116960,100.0,False,False
