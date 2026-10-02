@@ -147,13 +147,13 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2006,Pennsylvania,2006 Democratic U.S. Senate primary,Primary,Candidate,False,Alan Sandals,Democratic Party (United States),"48,113",6.46%
 2006,Pennsylvania,2006 Democratic U.S. Senate primary,Primary,Write-in,False,,,"1,114",0.15%
 2006,Pennsylvania,2006 Democratic U.S. Senate primary,Primary,Total,False,,,"744,862",100.00%
+2006,Rhode Island,Republican primary results,Primary,Winning,True,Lincoln Chafee,Republican Party (United States),"34,936",54.18
+2006,Rhode Island,Republican primary results,Primary,Candidate,False,Steve Laffey,Republican Party (United States),"29,547",45.82
+2006,Rhode Island,Republican primary results,Primary,Total,False,,,"64,483",100.00
 2006,Rhode Island,Democratic primary results,Primary,Winning,False,Sheldon Whitehouse,Democratic Party (United States),"69,290",81.53
 2006,Rhode Island,Democratic primary results,Primary,Candidate,False,Christopher F. Young,Democratic Party (United States),"8,939",10.52
 2006,Rhode Island,Democratic primary results,Primary,Candidate,False,Carl Sheeler,Democratic Party (United States),"6,755",7.95
 2006,Rhode Island,Democratic primary results,Primary,Total,False,,,"84,984",100.00
-2006,Rhode Island,Republican primary results,Primary,Winning,True,Lincoln Chafee,Republican Party (United States),"34,936",54.18
-2006,Rhode Island,Republican primary results,Primary,Candidate,False,Steve Laffey,Republican Party (United States),"29,547",45.82
-2006,Rhode Island,Republican primary results,Primary,Total,False,,,"64,483",100.00
 2006,Tennessee,Republican primary results,Primary,Winning,False,Bob Corker,Republican Party (United States),"231,541",48.13%
 2006,Tennessee,Republican primary results,Primary,Candidate,False,Ed Bryant,Republican Party (United States),"161,189",33.50%
 2006,Tennessee,Republican primary results,Primary,Candidate,False,Van Hilleary,Republican Party (United States),"83,078",17.27%

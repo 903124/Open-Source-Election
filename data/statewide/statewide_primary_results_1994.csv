@@ -198,21 +198,28 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1994,New Mexico,NM,governor,"June 7, 1994 Republican primary results",Candidate,David F. Cargo,Republican,12105.0,13.01,False,False
 1994,New Mexico,NM,governor,"June 7, 1994 Republican primary results",Candidate,Keith Russell Judd (write-in),Republican,57.0,0.06,False,False
 1994,New Mexico,NM,governor,"June 7, 1994 Republican primary results",Total,,,93071.0,100.0,False,False
-1994,New York,NY,governor,Democratic Gubernatorial Primary Results,Winning,Mario Cuomo,Democratic,548762.0,79.45,True,True
-1994,New York,NY,governor,Democratic Gubernatorial Primary Results,Candidate,Lenora Fulani,Democratic,141918.0,20.55,False,False
-1994,New York,NY,governor,Democratic Gubernatorial Primary Results,Total,,,690680.0,100.0,False,False
-1994,New York,NY,governor,Republican State Convention Vote,Winning,George Pataki,Republican,,72.4,True,False
-1994,New York,NY,governor,Republican State Convention Vote,Candidate,Herbert London,Republican,,22.1,False,False
-1994,New York,NY,governor,Republican State Convention Vote,Candidate,Evan Galbraith,Republican,,2.8,False,False
-1994,New York,NY,governor,Republican State Convention Vote,Candidate,Bill Green,Republican,,2.6,False,False
-1994,New York,NY,governor,Republican State Convention Vote,Candidate,Scattering,Republican,,0.1,False,False
-1994,New York,NY,governor,Republican State Convention Vote,Total,,,,100.0,False,False
-1994,New York,NY,governor,Republican Gubernatorial Primary Results,Winning,George Pataki,Republican,273620.0,75.6,True,False
-1994,New York,NY,governor,Republican Gubernatorial Primary Results,Candidate,Richard M. Rosenbaum,Republican,88302.0,24.4,False,False
-1994,New York,NY,governor,Republican Gubernatorial Primary Results,Total,,,361922.0,100.0,False,False
-1994,New York,NY,governor,Conservative Gubernatorial Primary Results,Winning,George Pataki,Conservative,17649.0,78.4,True,False
-1994,New York,NY,governor,Conservative Gubernatorial Primary Results,Candidate,"Robert G. Relph, Sr.",Conservative,4862.0,21.6,False,False
-1994,New York,NY,governor,Conservative Gubernatorial Primary Results,Total,,,22511.0,100.0,False,False
+1994,New York,NY,governor,1994 Democratic gubernatorial primary,Winning,Mario Cuomo,Democratic,548762.0,79.45,True,True
+1994,New York,NY,governor,1994 Democratic gubernatorial primary,Candidate,Lenora Fulani,Democratic,141918.0,20.55,False,False
+1994,New York,NY,governor,1994 Democratic gubernatorial primary,Total,,,690680.0,100.0,False,False
+1994,New York,NY,governor,1994 Republican state convention ballot,Winning,George Pataki,Republican,,72.4,True,False
+1994,New York,NY,governor,1994 Republican state convention ballot,Candidate,Herbert London,Republican,,22.1,False,False
+1994,New York,NY,governor,1994 Republican state convention ballot,Candidate,Evan Galbraith,Republican,,2.8,False,False
+1994,New York,NY,governor,1994 Republican state convention ballot,Candidate,Bill Green,Republican,,2.6,False,False
+1994,New York,NY,governor,1994 Republican state convention ballot,Candidate,Scattering,Republican,,0.1,False,False
+1994,New York,NY,governor,1994 Republican state convention ballot,Total,,,,100.0,False,False
+1994,New York,NY,governor,1994 Republican gubernatorial primary,Winning,George Pataki,Republican,273620.0,75.6,True,False
+1994,New York,NY,governor,1994 Republican gubernatorial primary,Candidate,Richard M. Rosenbaum,Republican,88302.0,24.4,False,False
+1994,New York,NY,governor,1994 Republican gubernatorial primary,Total,,,361922.0,100.0,False,False
+1994,New York,NY,governor,1994 Conservative gubernatorial primary,Winning,George Pataki,Conservative,17649.0,78.4,True,False
+1994,New York,NY,governor,1994 Conservative gubernatorial primary,Candidate,Robert G. Relph Sr.,Conservative,4862.0,21.6,False,False
+1994,New York,NY,governor,1994 Conservative gubernatorial primary,Total,,,22511.0,100.0,False,False
+1994,New York,NY,governor,1994 Libertarian state convention ballot,Winning,Howard Stern,Libertarian,287.0,75.33,True,False
+1994,New York,NY,governor,1994 Libertarian state convention ballot,Candidate,James Ostrowski,Libertarian,34.0,8.92,False,False
+1994,New York,NY,governor,1994 Libertarian state convention ballot,Candidate,Norma Segal,Libertarian,24.0,6.3,False,False
+1994,New York,NY,governor,1994 Libertarian state convention ballot,Candidate,Dottie Lou Brokaw,Libertarian,22.0,5.77,False,False
+1994,New York,NY,governor,1994 Libertarian state convention ballot,Candidate,Joseph Brennan,Libertarian,10.0,2.63,False,False
+1994,New York,NY,governor,1994 Libertarian state convention ballot,Candidate,Scattering,Independent (politics),4.0,1.05,False,False
+1994,New York,NY,governor,1994 Libertarian state convention ballot,Total,,,381.0,100.0,False,False
 1994,Ohio,OH,governor,Democratic primary results,Winning,Rob Burch,Democratic,408161.0,58.78,True,False
 1994,Ohio,OH,governor,Democratic primary results,Candidate,Peter Michael Schuller,Democratic,286276.0,41.22,False,False
 1994,Ohio,OH,governor,Democratic primary results,Total,,,694437.0,100.0,False,False

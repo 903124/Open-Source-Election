@@ -539,8 +539,8 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2018,Tennessee,TN,governor,Republican primary results,Candidate,Basil Marceaux,Republican,1264,0.16,False,False
 2018,Tennessee,TN,governor,Republican primary results,Total,,,792888,100.0,False,False
 2018,Tennessee,TN,governor,Democratic primary results,Winning,Karl Dean,Democratic,280553,75.14,True,False
-2018,Tennessee,TN,governor,Democratic primary results,Candidate,Craig Fitzhugh,Democratic,72553,23.42,False,False
-2018,Tennessee,TN,governor,Democratic primary results,Candidate,Mezianne Vale Payne,Democratic,20284,5.44,False,False
+2018,Tennessee,TN,governor,Democratic primary results,Candidate,Craig Fitzhugh,Democratic,72553,19.43,False,False
+2018,Tennessee,TN,governor,Democratic primary results,Candidate,Mezianne Vale Payne,Democratic,20284,5.43,False,False
 2018,Tennessee,TN,governor,Democratic primary results,Total,,,373390,100.0,False,False
 2018,Texas,TX,attorney general,Republican primary results,Winning,Ken Paxton,Republican,1312172,100.0,True,True
 2018,Texas,TX,attorney general,Republican primary results,Total,,,1312172,100.0,False,False

@@ -43,10 +43,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2006,Maine,General election results,General,Winning,True,Olympia Snowe,Republican Party (United States),"402,598",74.01%
 2006,Maine,General election results,General,Candidate,False,Jean Hay Bright,Democratic Party (United States),"111,984",20.59%
 2006,Maine,General election results,General,Candidate,False,Bill Slavick,Independent politician,"29,220",5.37%
-2006,Maryland,"Maryland United States Senate election results, 2006",General,Winning,False,Ben Cardin,Democratic Party (United States),"965,477",54.21
-2006,Maryland,"Maryland United States Senate election results, 2006",General,Candidate,False,Michael Steele,Republican Party (United States),"787,182",44.19
-2006,Maryland,"Maryland United States Senate election results, 2006",General,Candidate,False,Kevin Zeese,Green Party (United States),"27,564",1.55
-2006,Maryland,"Maryland United States Senate election results, 2006",General,Write-in,False,,,916,0.05
+2006,Maryland,"Maryland United States Senate election results, 2006",General,Winning,False,Ben Cardin,Democratic Party (United States),"965,477",54.21%
+2006,Maryland,"Maryland United States Senate election results, 2006",General,Candidate,False,Michael Steele,Republican Party (United States),"787,182",44.19%
+2006,Maryland,"Maryland United States Senate election results, 2006",General,Candidate,False,Kevin Zeese,Green Party (United States),"27,564",1.55%
+2006,Maryland,"Maryland United States Senate election results, 2006",General,Write-in,False,,,916,0.05%
 2006,Massachusetts,General election,General,Winning,True,Ted Kennedy,Democratic Party (United States),"1,500,738",69.30
 2006,Massachusetts,General election,General,Candidate,False,Kenneth Chase,Republican Party (United States),"661,532",30.55
 2006,Michigan,2006 United States Senate election in Michigan,General,Winning,True,Debbie Stabenow,Democratic Party (United States),"2,151,278",56.91%

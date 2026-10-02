@@ -124,10 +124,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,Oregon,OR,governor,1974 Oregon gubernatorial election,Total,,,770574,100.0,False,False
 1974,Rhode Island,RI,governor,1974 Rhode Island gubernatorial election,Winning,Philip Noel,Democratic,252436,78.48,True,True
 1974,Rhode Island,RI,governor,1974 Rhode Island gubernatorial election,Candidate,James W. Nugent,Republican,69224,21.52,False,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Winning,James B. Edwards,Republican,266338,50.3,True,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,W.J. Bryan Dorn,Democratic,248861,47.0,False,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,Peggy Jennings,Independent,8313,1.6,False,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,Write-Ins,No,5528,1.1,False,False
+1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Winning,James B. Edwards,Republican,266338,50.34,True,False
+1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,W.J. Bryan Dorn,Democratic,248861,47.04,False,False
+1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,Peggy Jennings,Independent,8313,1.57,False,False
+1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,Write-Ins,No,5528,1.05,False,False
 1974,South Dakota,SD,governor,"South Dakota gubernatorial election, 1974",Winning,Richard F. Kneip (inc.),Democratic,149151,53.61,True,False
 1974,South Dakota,SD,governor,"South Dakota gubernatorial election, 1974",Candidate,John E. Olson,Republican,129077,46.39,False,False
 1974,South Dakota,SD,governor,"South Dakota gubernatorial election, 1974",Total,,,278228,100.0,False,False

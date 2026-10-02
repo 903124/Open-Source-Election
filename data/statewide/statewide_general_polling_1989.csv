@@ -1,0 +1,7 @@
+Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+1989,New Jersey,NJ,governor,General,Star-Ledger,1989-06-12 to 1989-06-20,1989-06-12,1989-06-20,647 RV,4.0,Jim Florio,D,49%,False,"June 12–20, 1989"
+1989,New Jersey,NJ,governor,General,Star-Ledger,1989-09-20 to 1989-09-28,1989-09-20,1989-09-28,707 LV,3.8,Jim Florio,D,53%,False,"September 20–28, 1989"
+1989,New Jersey,NJ,governor,General,Star-Ledger,1989-10-12 to 1989-10-19,1989-10-12,1989-10-19,727 LV,3.8,Jim Florio,D,49%,False,"October 12–19, 1989"
+1989,New Jersey,NJ,governor,General,Star-Ledger,1989-06-12 to 1989-06-20,1989-06-12,1989-06-20,647 RV,4.0,Jim Courter,R,32%,False,"June 12–20, 1989"
+1989,New Jersey,NJ,governor,General,Star-Ledger,1989-09-20 to 1989-09-28,1989-09-20,1989-09-28,707 LV,3.8,Jim Courter,R,30%,False,"September 20–28, 1989"
+1989,New Jersey,NJ,governor,General,Star-Ledger,1989-10-12 to 1989-10-19,1989-10-12,1989-10-19,727 LV,3.8,Jim Courter,R,32%,False,"October 12–19, 1989"

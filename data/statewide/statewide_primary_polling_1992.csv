@@ -1,0 +1,19 @@
+Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+1992,Missouri,MO,governor,Democratic Primary,Mason-Dixon Polling & Strategy,1992-02,1992-02-01,1992-02-29,380,,Mel Carnahan,D,41%,False,February 1992
+1992,Missouri,MO,governor,Democratic Primary,St. Louis Post-Dispatch,1992-06-14 to 1992-06-22,1992-06-14,1992-06-22,282,,Mel Carnahan,D,32%,False,"June 14–22, 1992"
+1992,Missouri,MO,governor,Democratic Primary,St. Louis Post-Dispatch,1992-07-27 to 1992-08-01,1992-07-27,1992-08-01,478,,Mel Carnahan,D,40%,False,"July 27–August 1, 1992"
+1992,Missouri,MO,governor,Democratic Primary,Mason-Dixon Polling & Strategy,1992-02,1992-02-01,1992-02-29,380,,Vincent Schoemehl,D,23%,False,February 1992
+1992,Missouri,MO,governor,Democratic Primary,St. Louis Post-Dispatch,1992-06-14 to 1992-06-22,1992-06-14,1992-06-22,282,,Vincent Schoemehl,D,33%,False,"June 14–22, 1992"
+1992,Missouri,MO,governor,Democratic Primary,St. Louis Post-Dispatch,1992-07-27 to 1992-08-01,1992-07-27,1992-08-01,478,,Vincent Schoemehl,D,28%,False,"July 27–August 1, 1992"
+1992,Missouri,MO,governor,Republican Primary,Webster internal,1991-12,1991-12-01,1991-12-31,,,Wendell Bailey,R,10%,False,December 1991
+1992,Missouri,MO,governor,Republican Primary,Mason-Dixon Polling & Strategy,1992-02,1992-02-01,1992-02-29,217,,Wendell Bailey,R,13%,False,February 1992
+1992,Missouri,MO,governor,Republican Primary,St. Louis Post-Dispatch,1992-06-14 to 1992-06-22,1992-06-14,1992-06-22,237,,Wendell Bailey,R,8%,False,"June 14–22, 1992"
+1992,Missouri,MO,governor,Republican Primary,St. Louis Post-Dispatch,1992-07-28 to 1992-07-31,1992-07-28,1992-07-31,318,,Wendell Bailey,R,13%,False,"July 28–31, 1992"
+1992,Missouri,MO,governor,Republican Primary,Webster internal,1991-12,1991-12-01,1991-12-31,,,Roy Blunt,R,27%,False,December 1991
+1992,Missouri,MO,governor,Republican Primary,Mason-Dixon Polling & Strategy,1992-02,1992-02-01,1992-02-29,217,,Roy Blunt,R,25%,False,February 1992
+1992,Missouri,MO,governor,Republican Primary,St. Louis Post-Dispatch,1992-06-14 to 1992-06-22,1992-06-14,1992-06-22,237,,Roy Blunt,R,18%,False,"June 14–22, 1992"
+1992,Missouri,MO,governor,Republican Primary,St. Louis Post-Dispatch,1992-07-28 to 1992-07-31,1992-07-28,1992-07-31,318,,Roy Blunt,R,30%,False,"July 28–31, 1992"
+1992,Missouri,MO,governor,Republican Primary,Webster internal,1991-12,1991-12-01,1991-12-31,,,William Webster,R,39%,False,December 1991
+1992,Missouri,MO,governor,Republican Primary,Mason-Dixon Polling & Strategy,1992-02,1992-02-01,1992-02-29,217,,William Webster,R,41%,False,February 1992
+1992,Missouri,MO,governor,Republican Primary,St. Louis Post-Dispatch,1992-06-14 to 1992-06-22,1992-06-14,1992-06-22,237,,William Webster,R,45%,False,"June 14–22, 1992"
+1992,Missouri,MO,governor,Republican Primary,St. Louis Post-Dispatch,1992-07-28 to 1992-07-31,1992-07-28,1992-07-31,318,,William Webster,R,31%,False,"July 28–31, 1992"

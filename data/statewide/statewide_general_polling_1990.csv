@@ -1,0 +1,3 @@
+Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+1990,Wyoming,WY,governor,General,Casper Star-Tribune,1990-09-14 to 1990-09-16,1990-09-14,1990-09-16,500,4.5,Michael Sullivan,Unknown,53%,False,"September 14–16, 1990"
+1990,Wyoming,WY,governor,General,Casper Star-Tribune,1990-09-14 to 1990-09-16,1990-09-14,1990-09-16,500,4.5,Mary Mead,Unknown,37%,False,"September 14–16, 1990"

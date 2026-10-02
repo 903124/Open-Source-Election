@@ -84,10 +84,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1990,New Mexico,NM,governor,1990 New Mexico gubernatorial election,Candidate,Joseph E. Knight (write-in),Libertarian,788,0.19,False,False
 1990,New Mexico,NM,governor,1990 New Mexico gubernatorial election,Candidate,Thomas S. Macaione (write-in),Democratic,192,0.05,False,False
 1990,New Mexico,NM,governor,1990 New Mexico gubernatorial election,Total,,,411236,100.0,False,False
-1990,New York,NY,governor,"New York gubernatorial election, 1990",Winning,Mario Cuomo/Stan Lundine(incumbents),Total,2157087,53.17,True,False
-1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Mario Cuomo,Democratic,2086070,51.42,False,False
-1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Pierre A. Rinfret/George Yancey,Republican,865948,21.35,False,False
-1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Herbert London/Anthony DiPerna,Conservative,827614,20.4,False,False
+1990,New York,NY,governor,"New York gubernatorial election, 1990",Winning,Mario Cuomo,Total,2157087,53.17,True,True
+1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Mario Cuomo,Democratic,2086070,51.42,False,True
+1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Pierre Andrew Rinfret,Republican,865948,21.35,False,False
+1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Herbert London,Conservative,827614,20.4,False,False
 1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Louis P. Wein,Life,137804,3.4,False,False
 1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Lenora Fulani,Alliance,31089,0.77,False,False
 1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,W. Gary Johnson,Libertarian,24611,0.61,False,False

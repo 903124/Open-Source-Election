@@ -1,0 +1,13 @@
+Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+2013,New Jersey,NJ,governor,Democratic Primary,Public Policy Polling,2012-11-26 to 2012-11-28,2012-11-26,2012-11-28,300,5.66,Cory Booker,D,46%,False,"November 26–28, 2012"
+2013,New Jersey,NJ,governor,Democratic Primary,Quinnipiac,2012-11-19 to 2012-11-25,2012-11-19,2012-11-25,,,Cory Booker,D,41%,False,"November 19–25, 2012"
+2013,New Jersey,NJ,governor,Democratic Primary,Quinnipiac,2013-01-15 to 2013-01-21,2013-01-15,2013-01-21,616,4.0,Barbara Buono,D,10%,False,"January 15–21, 2013"
+2013,New Jersey,NJ,governor,Democratic Primary,Public Policy Polling,2012-11-26 to 2012-11-28,2012-11-26,2012-11-28,300,5.66,Barbara Buono,D,7%,False,"November 26–28, 2012"
+2013,New Jersey,NJ,governor,Democratic Primary,Quinnipiac,2012-11-19 to 2012-11-25,2012-11-19,2012-11-25,,,Barbara Buono,D,4%,False,"November 19–25, 2012"
+2013,New Jersey,NJ,governor,Democratic Primary,Quinnipiac,2013-01-15 to 2013-01-21,2013-01-15,2013-01-21,616,4.0,Richard Codey,D,28%,False,"January 15–21, 2013"
+2013,New Jersey,NJ,governor,Democratic Primary,Public Policy Polling,2012-11-26 to 2012-11-28,2012-11-26,2012-11-28,300,5.66,Richard Codey,D,23%,False,"November 26–28, 2012"
+2013,New Jersey,NJ,governor,Democratic Primary,Quinnipiac,2012-11-19 to 2012-11-25,2012-11-19,2012-11-25,,,Richard Codey,D,12%,False,"November 19–25, 2012"
+2013,New Jersey,NJ,governor,Democratic Primary,Quinnipiac,2012-11-19 to 2012-11-25,2012-11-19,2012-11-25,,,Louis Greenwald,D,1%,False,"November 19–25, 2012"
+2013,New Jersey,NJ,governor,Democratic Primary,Quinnipiac,2013-01-15 to 2013-01-21,2013-01-15,2013-01-21,616,4.0,Steve Sweeney,D,10%,False,"January 15–21, 2013"
+2013,New Jersey,NJ,governor,Democratic Primary,Public Policy Polling,2012-11-26 to 2012-11-28,2012-11-26,2012-11-28,300,5.66,Steve Sweeney,D,6%,False,"November 26–28, 2012"
+2013,New Jersey,NJ,governor,Democratic Primary,Quinnipiac,2012-11-19 to 2012-11-25,2012-11-19,2012-11-25,,,John Wisniewski,D,1%,False,"November 19–25, 2012"

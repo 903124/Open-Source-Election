@@ -233,10 +233,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,Oregon,OR,governor,1974 Oregon gubernatorial election,Total,,,770574,100.0,False,False
 1974,Rhode Island,RI,governor,1974 Rhode Island gubernatorial election,Winning,Philip Noel,Democratic,252436,78.48,True,True
 1974,Rhode Island,RI,governor,1974 Rhode Island gubernatorial election,Candidate,James W. Nugent,Republican,69224,21.52,False,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Winning,James B. Edwards,Republican,266338,50.3,True,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,W.J. Bryan Dorn,Democratic,248861,47.0,False,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,Peggy Jennings,Independent,8313,1.6,False,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,Write-Ins,No,5528,1.1,False,False
+1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Winning,James B. Edwards,Republican,266338,50.34,True,False
+1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,W.J. Bryan Dorn,Democratic,248861,47.04,False,False
+1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,Peggy Jennings,Independent,8313,1.57,False,False
+1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,Write-Ins,No,5528,1.05,False,False
 1974,South Dakota,SD,governor,"South Dakota gubernatorial election, 1974",Winning,Richard F. Kneip (inc.),Democratic,149151,53.61,True,False
 1974,South Dakota,SD,governor,"South Dakota gubernatorial election, 1974",Candidate,John E. Olson,Republican,129077,46.39,False,False
 1974,South Dakota,SD,governor,"South Dakota gubernatorial election, 1974",Total,,,278228,100.0,False,False
@@ -384,7 +384,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1977,Virginia,VA,governor,1977 Virginia gubernatorial election,Candidate,Henry Howell,Democratic,541319,43.27,False,False
 1977,Virginia,VA,governor,1977 Virginia gubernatorial election,Candidate,Alan Ogden,Independent,10101,0.81,False,False
 1977,Virginia,VA,governor,1977 Virginia gubernatorial election,Write-in,Write-ins,Write-ins,218,0.02,False,False
-1978,Alabama,AL,governor,1978 Alabama gubernatorial election,Winning,Fob James,Democratic,551786,72.59,True,False
+1978,Alabama,AL,governor,1978 Alabama gubernatorial election,Winning,Fob James,Democratic,551886,72.59,True,False
 1978,Alabama,AL,governor,1978 Alabama gubernatorial election,Candidate,Guy Hunt,Republican,196693,25.88,False,False
 1978,Alabama,AL,governor,1978 Alabama gubernatorial election,Candidate,Jim Partain,Prohibition,8103,1.07,False,False
 1978,Alabama,AL,governor,1978 Alabama gubernatorial election,Candidate,Richard Dare,Determination,3522,0.46,False,False
@@ -885,11 +885,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1986,New Mexico,NM,governor,1986 New Mexico gubernatorial election,Winning,Garrey Carruthers,Republican,209455,53.05,True,False
 1986,New Mexico,NM,governor,1986 New Mexico gubernatorial election,Candidate,Ray Powell,Democratic,185378,46.95,False,False
 1986,New Mexico,NM,governor,1986 New Mexico gubernatorial election,Total,,,394833,100.0,False,False
-1986,New York,NY,governor,"New York gubernatorial election, 1986",Winning,Mario Cuomo,Total,2775045,64.63,True,True
-1986,New York,NY,governor,"New York gubernatorial election, 1986",Candidate,Mario Cuomo,Democratic,2654754,61.83,False,False
-1986,New York,NY,governor,"New York gubernatorial election, 1986",Candidate,Andrew O'Rourke,Republican,1211662,28.22,False,False
-1986,New York,NY,governor,"New York gubernatorial election, 1986",Candidate,Denis Dillon,Life,130827,3.05,False,False
-1986,New York,NY,governor,"New York gubernatorial election, 1986",Candidate,Lenora Fulani,Alliance,24135,0.56,False,False
+1986,New York,NY,governor,1986 New York gubernatorial election,Winning,Mario Cuomo,Total,2775045,64.63,True,True
+1986,New York,NY,governor,1986 New York gubernatorial election,Candidate,Mario Cuomo,Democratic,2654754,61.83,False,False
+1986,New York,NY,governor,1986 New York gubernatorial election,Candidate,Andrew O'Rourke,Republican,1211662,28.22,False,False
+1986,New York,NY,governor,1986 New York gubernatorial election,Candidate,Denis E. Dillon,Life,130827,3.05,False,False
+1986,New York,NY,governor,1986 New York gubernatorial election,Candidate,Lenora Fulani,Alliance,24135,0.56,False,False
 1986,Ohio,OH,governor,"Ohio gubernatorial election, 1986",Winning,Dick Celeste,Democratic,1858372,60.6,True,True
 1986,Ohio,OH,governor,"Ohio gubernatorial election, 1986",Candidate,Jim Rhodes,Republican,1207264,39.37,False,False
 1986,Ohio,OH,governor,"Ohio gubernatorial election, 1986",Write-in,Write-ins,Write-ins,975,0.03,False,False
@@ -1086,10 +1086,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1990,New Mexico,NM,governor,1990 New Mexico gubernatorial election,Candidate,Joseph E. Knight (write-in),Libertarian,788,0.19,False,False
 1990,New Mexico,NM,governor,1990 New Mexico gubernatorial election,Candidate,Thomas S. Macaione (write-in),Democratic,192,0.05,False,False
 1990,New Mexico,NM,governor,1990 New Mexico gubernatorial election,Total,,,411236,100.0,False,False
-1990,New York,NY,governor,"New York gubernatorial election, 1990",Winning,Mario Cuomo/Stan Lundine(incumbents),Total,2157087,53.17,True,False
-1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Mario Cuomo,Democratic,2086070,51.42,False,False
-1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Pierre A. Rinfret/George Yancey,Republican,865948,21.35,False,False
-1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Herbert London/Anthony DiPerna,Conservative,827614,20.4,False,False
+1990,New York,NY,governor,"New York gubernatorial election, 1990",Winning,Mario Cuomo,Total,2157087,53.17,True,True
+1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Mario Cuomo,Democratic,2086070,51.42,False,True
+1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Pierre Andrew Rinfret,Republican,865948,21.35,False,False
+1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Herbert London,Conservative,827614,20.4,False,False
 1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Louis P. Wein,Life,137804,3.4,False,False
 1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,Lenora Fulani,Alliance,31089,0.77,False,False
 1990,New York,NY,governor,"New York gubernatorial election, 1990",Candidate,W. Gary Johnson,Libertarian,24611,0.61,False,False
@@ -1320,6 +1320,20 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1994,New Mexico,NM,governor,1994 New Mexico gubernatorial election,Candidate,Bruce King,Democratic,186686,39.92,False,True
 1994,New Mexico,NM,governor,1994 New Mexico gubernatorial election,Candidate,Roberto Mondragón,Green,47990,10.26,False,False
 1994,New Mexico,NM,governor,1994 New Mexico gubernatorial election,Total,,,467621,100.0,False,False
+1994,New York,NY,governor,"New York Gubernatorial Election, 1994",Winning,George Pataki,Total,2538702,48.79,True,False
+1994,New York,NY,governor,"New York Gubernatorial Election, 1994",Candidate,George Pataki,Republican,2156057,41.43,False,False
+1994,New York,NY,governor,"New York Gubernatorial Election, 1994",Candidate,Mario Cuomo,Democratic,2272903,43.68,False,False
+1994,New York,NY,governor,"New York Gubernatorial Election, 1994",Candidate,Tom Golisano,Independence,217490,4.18,False,False
+1994,New York,NY,governor,"New York Gubernatorial Election, 1994",Candidate,Robert T. Walsh,Life,67750,1.3,False,False
+1994,New York,NY,governor,"New York Gubernatorial Election, 1994",Candidate,Robert L. Schulz,Libertarian,9506,0.18,False,False
+1994,New York,NY,governor,"New York Gubernatorial Election, 1994",Candidate,Lawrence Lane,Workers,5410,0.1,False,False
+1994,New York,NY,governor,New York City subtotal,Candidate,George Pataki,Republican,368788,24.39,False,False
+1994,New York,NY,governor,New York City subtotal,Candidate,Mario Cuomo,Democratic,1007747,66.63,False,False
+1994,New York,NY,governor,New York City subtotal,Candidate,Tom Golisano,Independence,16516,1.09,False,False
+1994,New York,NY,governor,New York City subtotal,Candidate,Robert T. Walsh,Life,9943,0.66,False,False
+1994,New York,NY,governor,New York City subtotal,Candidate,Robert L. Schulz,Libertarian,1018,0.07,False,False
+1994,New York,NY,governor,New York City subtotal,Candidate,Lawrence Lane,Workers,1806,0.12,False,False
+1994,New York,NY,governor,New York City subtotal,Total,,,1512353,100.0,False,False
 1994,Ohio,OH,governor,"Ohio gubernatorial election, 1994",Winning,George Voinovich (inc.),Republican,2401572,71.77,True,False
 1994,Ohio,OH,governor,"Ohio gubernatorial election, 1994",Candidate,Rob Burch,Democratic,835849,24.98,False,False
 1994,Ohio,OH,governor,"Ohio gubernatorial election, 1994",Candidate,Billy R. Inmon,Independent,108745,3.25,False,False
@@ -2853,10 +2867,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2016,Pennsylvania,PA,attorney general,2016 Pennsylvania Attorney General election,Winning,Josh Shapiro,Democratic,3057010,51.39,True,False
 2016,Pennsylvania,PA,attorney general,2016 Pennsylvania Attorney General election,Candidate,John Rafferty,Republican,2891325,48.61,False,False
 2016,Pennsylvania,PA,attorney general,2016 Pennsylvania Attorney General election,Total,,,5948335,100.0,False,False
-2016,Utah,UT,attorney general,General election results,Winning,Sean Reyes,Republican,719064,65.4,True,True
-2016,Utah,UT,attorney general,General election results,Candidate,Jon Harper,Democratic,275571,25.1,False,False
-2016,Utah,UT,attorney general,General election results,Candidate,Andrew McCullough,Libertarian,73975,6.7,False,False
-2016,Utah,UT,attorney general,General election results,Candidate,Michael Isbell,Independent American,30687,2.8,False,False
+2016,Utah,UT,attorney general,General election results,Winning,Sean Reyes,Republican,719064,65.41,True,True
+2016,Utah,UT,attorney general,General election results,Candidate,Jon Harper,Democratic,275571,25.07,False,False
+2016,Utah,UT,attorney general,General election results,Candidate,Andrew McCullough,Libertarian,73975,6.73,False,False
+2016,Utah,UT,attorney general,General election results,Candidate,Michael Isbell,Independent American,30687,2.79,False,False
 2016,Utah,UT,attorney general,General election results,Total,,,1099297,100.0,False,False
 2016,Utah,UT,governor,2016 Utah gubernatorial election,Winning,Gary Herbert,Republican,750850,66.74,True,True
 2016,Utah,UT,governor,2016 Utah gubernatorial election,Candidate,Mike Weinholtz,Democratic,323349,28.74,False,False

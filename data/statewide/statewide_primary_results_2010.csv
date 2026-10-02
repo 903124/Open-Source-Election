@@ -126,13 +126,6 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Van K. Tanabe,Democratic,1329.0,0.6,False,False
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Miles Shiratori,Democratic,1031.0,0.4,False,False
 2010,Hawaii,HI,governor,Democratic primary results,Total,,,236479.0,100.0,False,False
-2010,Hawaii,HI,governor,Republican primary results,Candidate,Duke Aiona,Republican,42479.0,93.0,False,False
-2010,Hawaii,HI,governor,Republican primary results,Candidate,John S. Carroll,Republican,2075.0,4.5,False,False
-2010,Hawaii,HI,governor,Republican primary results,Total,,,44554.0,100.0,False,False
-2010,Hawaii,HI,governor,Non-partisan primary results,Candidate,Tom Pollard,Independent,265.0,20.3,False,False
-2010,Hawaii,HI,governor,Non-partisan primary results,Candidate,Paul Manner,Independent,188.0,14.4,False,False
-2010,Hawaii,HI,governor,Non-partisan primary results,Candidate,Tony Clapes,Independent,95.0,7.3,False,False
-2010,Hawaii,HI,governor,Non-partisan primary results,Total,,,548.0,100.0,False,False
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Brian Schatz,Democratic,83431.0,34.8,False,False
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Robert Bunda,Democratic,45973.0,19.2,False,False
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Norman Sakamoto,Democratic,44462.0,18.5,False,False
@@ -140,8 +133,15 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Lyla Berg,Democratic,20161.0,8.4,False,False
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Jon Riki Karamatsu,Democratic,6746.0,2.8,False,False
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Steve Hirakami,Democratic,2695.0,1.1,False,False
+2010,Hawaii,HI,governor,Republican primary results,Candidate,Duke Aiona,Republican,42479.0,93.0,False,False
+2010,Hawaii,HI,governor,Republican primary results,Candidate,John S. Carroll,Republican,2075.0,4.5,False,False
+2010,Hawaii,HI,governor,Republican primary results,Total,,,44554.0,100.0,False,False
 2010,Hawaii,HI,governor,Republican primary results,Candidate,Lynn Finnegan,Republican,27052.0,59.2,False,False
 2010,Hawaii,HI,governor,Republican primary results,Candidate,Adrienne King,Republican,12300.0,26.9,False,False
+2010,Hawaii,HI,governor,Non-partisan primary results,Candidate,Tom Pollard,Independent,265.0,20.3,False,False
+2010,Hawaii,HI,governor,Non-partisan primary results,Candidate,Paul Manner,Independent,188.0,14.4,False,False
+2010,Hawaii,HI,governor,Non-partisan primary results,Candidate,Tony Clapes,Independent,95.0,7.3,False,False
+2010,Hawaii,HI,governor,Non-partisan primary results,Total,,,548.0,100.0,False,False
 2010,Idaho,ID,governor,Republican primary results,Candidate,Butch Otter,Republican,89117.0,54.6,False,True
 2010,Idaho,ID,governor,Republican primary results,Candidate,Rex Rammell,Republican,42436.0,26.0,False,False
 2010,Idaho,ID,governor,Republican primary results,Candidate,Sharon Ullman,Republican,13749.0,8.4,False,False

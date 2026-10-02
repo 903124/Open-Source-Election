@@ -50,10 +50,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2016,Pennsylvania,PA,attorney general,2016 Pennsylvania Attorney General election,Winning,Josh Shapiro,Democratic,3057010,51.39,True,False
 2016,Pennsylvania,PA,attorney general,2016 Pennsylvania Attorney General election,Candidate,John Rafferty,Republican,2891325,48.61,False,False
 2016,Pennsylvania,PA,attorney general,2016 Pennsylvania Attorney General election,Total,,,5948335,100.0,False,False
-2016,Utah,UT,attorney general,General election results,Winning,Sean Reyes,Republican,719064,65.4,True,True
-2016,Utah,UT,attorney general,General election results,Candidate,Jon Harper,Democratic,275571,25.1,False,False
-2016,Utah,UT,attorney general,General election results,Candidate,Andrew McCullough,Libertarian,73975,6.7,False,False
-2016,Utah,UT,attorney general,General election results,Candidate,Michael Isbell,Independent American,30687,2.8,False,False
+2016,Utah,UT,attorney general,General election results,Winning,Sean Reyes,Republican,719064,65.41,True,True
+2016,Utah,UT,attorney general,General election results,Candidate,Jon Harper,Democratic,275571,25.07,False,False
+2016,Utah,UT,attorney general,General election results,Candidate,Andrew McCullough,Libertarian,73975,6.73,False,False
+2016,Utah,UT,attorney general,General election results,Candidate,Michael Isbell,Independent American,30687,2.79,False,False
 2016,Utah,UT,attorney general,General election results,Total,,,1099297,100.0,False,False
 2016,Utah,UT,governor,2016 Utah gubernatorial election,Winning,Gary Herbert,Republican,750850,66.74,True,True
 2016,Utah,UT,governor,2016 Utah gubernatorial election,Candidate,Mike Weinholtz,Democratic,323349,28.74,False,False
