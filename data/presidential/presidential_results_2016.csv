@@ -4,10 +4,10 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2016,Alabama,AL,Autauga,County,Other,Other,865,3.46,24973,Republican
 2016,Alabama,AL,Baldwin,County,Donald Trump,Republican,72883,76.55,95215,Republican
 2016,Alabama,AL,Baldwin,County,Hillary Clinton,Democratic,18458,19.39,95215,Republican
-2016,Alabama,AL,Baldwin,County,Other,Other,3874,4.06,95215,Republican
+2016,Alabama,AL,Baldwin,County,Other,Other,3874,4.07,95215,Republican
 2016,Alabama,AL,Barbour,County,Donald Trump,Republican,5454,52.1,10469,Republican
 2016,Alabama,AL,Barbour,County,Hillary Clinton,Democratic,4871,46.53,10469,Republican
-2016,Alabama,AL,Barbour,County,Other,Other,144,1.37,10469,Republican
+2016,Alabama,AL,Barbour,County,Other,Other,144,1.38,10469,Republican
 2016,Alabama,AL,Bibb,County,Donald Trump,Republican,6738,76.4,8819,Republican
 2016,Alabama,AL,Bibb,County,Hillary Clinton,Democratic,1874,21.25,8819,Republican
 2016,Alabama,AL,Bibb,County,Other,Other,207,2.35,8819,Republican
@@ -25,7 +25,7 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2016,Alabama,AL,Calhoun,County,Other,Other,1757,3.67,47864,Republican
 2016,Alabama,AL,Chambers,County,Donald Trump,Republican,7843,56.42,13900,Republican
 2016,Alabama,AL,Chambers,County,Hillary Clinton,Democratic,5784,41.61,13900,Republican
-2016,Alabama,AL,Chambers,County,Other,Other,273,1.97,13900,Republican
+2016,Alabama,AL,Chambers,County,Other,Other,273,1.96,13900,Republican
 2016,Alabama,AL,Cherokee,County,Donald Trump,Republican,8953,83.42,10733,Republican
 2016,Alabama,AL,Cherokee,County,Hillary Clinton,Democratic,1547,14.41,10733,Republican
 2016,Alabama,AL,Cherokee,County,Other,Other,233,2.17,10733,Republican
@@ -34,13 +34,13 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2016,Alabama,AL,Chilton,County,Other,Other,377,2.05,18369,Republican
 2016,Alabama,AL,Choctaw,County,Donald Trump,Republican,4106,56.31,7292,Republican
 2016,Alabama,AL,Choctaw,County,Hillary Clinton,Democratic,3109,42.64,7292,Republican
-2016,Alabama,AL,Choctaw,County,Other,Other,77,1.05,7292,Republican
+2016,Alabama,AL,Choctaw,County,Other,Other,77,1.06,7292,Republican
 2016,Alabama,AL,Clarke,County,Donald Trump,Republican,7140,54.79,13031,Republican
 2016,Alabama,AL,Clarke,County,Hillary Clinton,Democratic,5749,44.12,13031,Republican
 2016,Alabama,AL,Clarke,County,Other,Other,142,1.09,13031,Republican
 2016,Alabama,AL,Clay,County,Donald Trump,Republican,5245,79.18,6624,Republican
 2016,Alabama,AL,Clay,County,Hillary Clinton,Democratic,1237,18.67,6624,Republican
-2016,Alabama,AL,Clay,County,Other,Other,142,2.15,6624,Republican
+2016,Alabama,AL,Clay,County,Other,Other,142,2.14,6624,Republican
 2016,Alabama,AL,Cleburne,County,Donald Trump,Republican,5764,87.43,6593,Republican
 2016,Alabama,AL,Cleburne,County,Hillary Clinton,Democratic,684,10.37,6593,Republican
 2016,Alabama,AL,Cleburne,County,Other,Other,145,2.2,6593,Republican
@@ -58,7 +58,7 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2016,Alabama,AL,Coosa,County,Other,Other,89,1.69,5252,Republican
 2016,Alabama,AL,Covington,County,Donald Trump,Republican,13267,83.23,15940,Republican
 2016,Alabama,AL,Covington,County,Hillary Clinton,Democratic,2387,14.97,15940,Republican
-2016,Alabama,AL,Covington,County,Other,Other,286,1.8,15940,Republican
+2016,Alabama,AL,Covington,County,Other,Other,286,1.79,15940,Republican
 2016,Alabama,AL,Crenshaw,County,Donald Trump,Republican,4513,72.01,6267,Republican
 2016,Alabama,AL,Crenshaw,County,Hillary Clinton,Democratic,1664,26.55,6267,Republican
 2016,Alabama,AL,Crenshaw,County,Other,Other,90,1.44,6267,Republican
@@ -67,19 +67,19 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2016,Alabama,AL,Cullman,County,Other,Other,1086,2.87,37873,Republican
 2016,Alabama,AL,Dale,County,Donald Trump,Republican,13808,73.65,18749,Republican
 2016,Alabama,AL,Dale,County,Hillary Clinton,Democratic,4413,23.54,18749,Republican
-2016,Alabama,AL,Dale,County,Other,Other,528,2.81,18749,Republican
+2016,Alabama,AL,Dale,County,Other,Other,528,2.82,18749,Republican
 2016,Alabama,AL,Dallas,County,Donald Trump,Republican,5789,30.81,18792,Democratic
 2016,Alabama,AL,Dallas,County,Hillary Clinton,Democratic,12836,68.31,18792,Democratic
-2016,Alabama,AL,Dallas,County,Other,Other,167,0.88,18792,Democratic
+2016,Alabama,AL,Dallas,County,Other,Other,167,0.89,18792,Democratic
 2016,Alabama,AL,DeKalb,County,Donald Trump,Republican,21405,82.88,25826,Republican
 2016,Alabama,AL,DeKalb,County,Hillary Clinton,Democratic,3622,14.02,25826,Republican
-2016,Alabama,AL,DeKalb,County,Other,Other,799,3.1,25826,Republican
+2016,Alabama,AL,DeKalb,County,Other,Other,799,3.09,25826,Republican
 2016,Alabama,AL,Elmore,County,Donald Trump,Republican,27634,74.17,37260,Republican
 2016,Alabama,AL,Elmore,County,Hillary Clinton,Democratic,8443,22.66,37260,Republican
 2016,Alabama,AL,Elmore,County,Other,Other,1183,3.17,37260,Republican
 2016,Alabama,AL,Escambia,County,Donald Trump,Republican,9935,66.92,14845,Republican
 2016,Alabama,AL,Escambia,County,Hillary Clinton,Democratic,4605,31.02,14845,Republican
-2016,Alabama,AL,Escambia,County,Other,Other,305,2.06,14845,Republican
+2016,Alabama,AL,Escambia,County,Other,Other,305,2.05,14845,Republican
 2016,Alabama,AL,Etowah,County,Donald Trump,Republican,32353,73.26,44164,Republican
 2016,Alabama,AL,Etowah,County,Hillary Clinton,Democratic,10442,23.64,44164,Republican
 2016,Alabama,AL,Etowah,County,Other,Other,1369,3.1,44164,Republican
@@ -94,13 +94,13 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2016,Alabama,AL,Geneva,County,Other,Other,239,2.03,11758,Republican
 2016,Alabama,AL,Greene,County,Donald Trump,Republican,838,17.17,4880,Democratic
 2016,Alabama,AL,Greene,County,Hillary Clinton,Democratic,4013,82.23,4880,Democratic
-2016,Alabama,AL,Greene,County,Other,Other,29,0.6,4880,Democratic
+2016,Alabama,AL,Greene,County,Other,Other,29,0.59,4880,Democratic
 2016,Alabama,AL,Hale,County,Donald Trump,Republican,3173,39.47,8040,Democratic
 2016,Alabama,AL,Hale,County,Hillary Clinton,Democratic,4775,59.39,8040,Democratic
 2016,Alabama,AL,Hale,County,Other,Other,92,1.14,8040,Democratic
 2016,Alabama,AL,Henry,County,Donald Trump,Republican,5632,69.77,8072,Republican
 2016,Alabama,AL,Henry,County,Hillary Clinton,Democratic,2292,28.39,8072,Republican
-2016,Alabama,AL,Henry,County,Other,Other,148,1.84,8072,Republican
+2016,Alabama,AL,Henry,County,Other,Other,148,1.83,8072,Republican
 2016,Alabama,AL,Houston,County,Donald Trump,Republican,30728,72.07,42639,Republican
 2016,Alabama,AL,Houston,County,Hillary Clinton,Democratic,10664,25.01,42639,Republican
 2016,Alabama,AL,Houston,County,Other,Other,1247,2.92,42639,Republican
@@ -115,7 +115,7 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2016,Alabama,AL,Lamar,County,Other,Other,107,1.54,6966,Republican
 2016,Alabama,AL,Lauderdale,County,Donald Trump,Republican,27899,70.59,39525,Republican
 2016,Alabama,AL,Lauderdale,County,Hillary Clinton,Democratic,9952,25.18,39525,Republican
-2016,Alabama,AL,Lauderdale,County,Other,Other,1674,4.23,39525,Republican
+2016,Alabama,AL,Lauderdale,County,Other,Other,1674,4.24,39525,Republican
 2016,Alabama,AL,Lawrence,County,Donald Trump,Republican,10833,73.05,14829,Republican
 2016,Alabama,AL,Lawrence,County,Hillary Clinton,Democratic,3627,24.46,14829,Republican
 2016,Alabama,AL,Lawrence,County,Other,Other,369,2.49,14829,Republican
@@ -124,10 +124,10 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2016,Alabama,AL,Lee,County,Other,Other,3344,5.65,59191,Republican
 2016,Alabama,AL,Limestone,County,Donald Trump,Republican,29067,72.14,40294,Republican
 2016,Alabama,AL,Limestone,County,Hillary Clinton,Democratic,9468,23.5,40294,Republican
-2016,Alabama,AL,Limestone,County,Other,Other,1759,4.36,40294,Republican
+2016,Alabama,AL,Limestone,County,Other,Other,1759,4.37,40294,Republican
 2016,Alabama,AL,Lowndes,County,Donald Trump,Republican,1751,26.2,6684,Democratic
 2016,Alabama,AL,Lowndes,County,Hillary Clinton,Democratic,4883,73.06,6684,Democratic
-2016,Alabama,AL,Lowndes,County,Other,Other,50,0.74,6684,Democratic
+2016,Alabama,AL,Lowndes,County,Other,Other,50,0.75,6684,Democratic
 2016,Alabama,AL,Macon,County,Donald Trump,Republican,1431,15.66,9140,Democratic
 2016,Alabama,AL,Macon,County,Hillary Clinton,Democratic,7566,82.78,9140,Democratic
 2016,Alabama,AL,Macon,County,Other,Other,143,1.56,9140,Democratic
@@ -169,13 +169,13 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2016,Alabama,AL,Randolph,County,Other,Other,191,1.87,10187,Republican
 2016,Alabama,AL,Russell,County,Donald Trump,Republican,9210,47.83,19256,Democratic
 2016,Alabama,AL,Russell,County,Hillary Clinton,Democratic,9579,49.75,19256,Democratic
-2016,Alabama,AL,Russell,County,Other,Other,467,2.42,19256,Democratic
+2016,Alabama,AL,Russell,County,Other,Other,467,2.43,19256,Democratic
 2016,Alabama,AL,Shelby,County,Donald Trump,Republican,73020,72.12,101254,Republican
 2016,Alabama,AL,Shelby,County,Hillary Clinton,Democratic,22977,22.69,101254,Republican
 2016,Alabama,AL,Shelby,County,Other,Other,5257,5.19,101254,Republican
 2016,Alabama,AL,St. Clair,County,Donald Trump,Republican,31651,82.42,38400,Republican
 2016,Alabama,AL,St. Clair,County,Hillary Clinton,Democratic,5589,14.55,38400,Republican
-2016,Alabama,AL,St. Clair,County,Other,Other,1160,3.03,38400,Republican
+2016,Alabama,AL,St. Clair,County,Other,Other,1160,3.02,38400,Republican
 2016,Alabama,AL,Sumter,County,Donald Trump,Republican,1581,24.66,6411,Democratic
 2016,Alabama,AL,Sumter,County,Hillary Clinton,Democratic,4746,74.03,6411,Democratic
 2016,Alabama,AL,Sumter,County,Other,Other,84,1.31,6411,Democratic
@@ -184,13 +184,13 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2016,Alabama,AL,Talladega,County,Other,Other,672,2.01,33407,Republican
 2016,Alabama,AL,Tallapoosa,County,Donald Trump,Republican,13594,69.76,19486,Republican
 2016,Alabama,AL,Tallapoosa,County,Hillary Clinton,Democratic,5519,28.32,19486,Republican
-2016,Alabama,AL,Tallapoosa,County,Other,Other,373,1.92,19486,Republican
+2016,Alabama,AL,Tallapoosa,County,Other,Other,373,1.91,19486,Republican
 2016,Alabama,AL,Tuscaloosa,County,Donald Trump,Republican,47723,57.71,82700,Republican
 2016,Alabama,AL,Tuscaloosa,County,Hillary Clinton,Democratic,31762,38.41,82700,Republican
-2016,Alabama,AL,Tuscaloosa,County,Other,Other,3215,3.88,82700,Republican
+2016,Alabama,AL,Tuscaloosa,County,Other,Other,3215,3.89,82700,Republican
 2016,Alabama,AL,Walker,County,Donald Trump,Republican,24266,82.34,29472,Republican
 2016,Alabama,AL,Walker,County,Hillary Clinton,Democratic,4497,15.26,29472,Republican
-2016,Alabama,AL,Walker,County,Other,Other,709,2.4,29472,Republican
+2016,Alabama,AL,Walker,County,Other,Other,709,2.41,29472,Republican
 2016,Alabama,AL,Washington,County,Donald Trump,Republican,6042,70.81,8533,Republican
 2016,Alabama,AL,Washington,County,Hillary Clinton,Democratic,2374,27.82,8533,Republican
 2016,Alabama,AL,Washington,County,Other,Other,117,1.37,8533,Republican
@@ -199,7 +199,7 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2016,Alabama,AL,Wilcox,County,Other,Other,42,0.69,6123,Democratic
 2016,Alabama,AL,Winston,County,Donald Trump,Republican,9228,89.48,10313,Republican
 2016,Alabama,AL,Winston,County,Hillary Clinton,Democratic,872,8.46,10313,Republican
-2016,Alabama,AL,Winston,County,Other,Other,213,2.06,10313,Republican
+2016,Alabama,AL,Winston,County,Other,Other,213,2.07,10313,Republican
 2016,Arizona,AZ,Apache,County,Donald Trump,Republican,8240,29.79,27661,Democratic
 2016,Arizona,AZ,Apache,County,Hillary Clinton,Democratic,17083,61.76,27661,Democratic
 2016,Arizona,AZ,Apache,County,Other,Other,2338,8.45,27661,Democratic
@@ -9444,286 +9444,286 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2016,Virginia,VA,York,Locality,Other,Various Parties,2282,6.69,34118,Republican
 2016,Washington,WA,Adams,County,Hillary Clinton,Democratic,1299,27.16,4782,Republican
 2016,Washington,WA,Adams,County,Donald Trump,Republican,3083,64.47,4782,Republican
-2016,Washington,WA,Adams,County,Other,Various Parties,400,8.36,4782,Republican
+2016,Washington,WA,Adams,County,Other,Other,400,8.36,4782,Republican
 2016,Washington,WA,Asotin,County,Hillary Clinton,Democratic,3134,31.42,9974,Republican
 2016,Washington,WA,Asotin,County,Donald Trump,Republican,5741,57.56,9974,Republican
-2016,Washington,WA,Asotin,County,Other,Various Parties,1099,11.02,9974,Republican
+2016,Washington,WA,Asotin,County,Other,Other,1099,11.02,9974,Republican
 2016,Washington,WA,Benton,County,Hillary Clinton,Democratic,26360,31.53,83592,Republican
 2016,Washington,WA,Benton,County,Donald Trump,Republican,47194,56.46,83592,Republican
-2016,Washington,WA,Benton,County,Other,Various Parties,10038,12.01,83592,Republican
+2016,Washington,WA,Benton,County,Other,Other,10038,12.01,83592,Republican
 2016,Washington,WA,Chelan,County,Hillary Clinton,Democratic,13032,37.85,34433,Republican
 2016,Washington,WA,Chelan,County,Donald Trump,Republican,18114,52.61,34433,Republican
-2016,Washington,WA,Chelan,County,Other,Various Parties,3287,9.55,34433,Republican
+2016,Washington,WA,Chelan,County,Other,Other,3287,9.55,34433,Republican
 2016,Washington,WA,Clallam,County,Hillary Clinton,Democratic,17677,43.61,40533,Republican
 2016,Washington,WA,Clallam,County,Donald Trump,Republican,18794,46.37,40533,Republican
-2016,Washington,WA,Clallam,County,Other,Various Parties,4062,10.02,40533,Republican
+2016,Washington,WA,Clallam,County,Other,Other,4062,10.02,40533,Republican
 2016,Washington,WA,Clark,County,Hillary Clinton,Democratic,92757,44.49,208485,Democratic
 2016,Washington,WA,Clark,County,Donald Trump,Republican,92441,44.34,208485,Democratic
-2016,Washington,WA,Clark,County,Other,Various Parties,23287,11.17,208485,Democratic
+2016,Washington,WA,Clark,County,Other,Other,23287,11.17,208485,Democratic
 2016,Washington,WA,Columbia,County,Hillary Clinton,Democratic,526,23.6,2229,Republican
 2016,Washington,WA,Columbia,County,Donald Trump,Republican,1497,67.16,2229,Republican
-2016,Washington,WA,Columbia,County,Other,Various Parties,206,9.24,2229,Republican
+2016,Washington,WA,Columbia,County,Other,Other,206,9.24,2229,Republican
 2016,Washington,WA,Cowlitz,County,Hillary Clinton,Democratic,17908,37.99,47142,Republican
 2016,Washington,WA,Cowlitz,County,Donald Trump,Republican,24185,51.3,47142,Republican
-2016,Washington,WA,Cowlitz,County,Other,Various Parties,5049,10.71,47142,Republican
+2016,Washington,WA,Cowlitz,County,Other,Other,5049,10.71,47142,Republican
 2016,Washington,WA,Douglas,County,Hillary Clinton,Democratic,4918,30.93,15901,Republican
 2016,Washington,WA,Douglas,County,Donald Trump,Republican,9603,60.39,15901,Republican
-2016,Washington,WA,Douglas,County,Other,Various Parties,1380,8.68,15901,Republican
+2016,Washington,WA,Douglas,County,Other,Other,1380,8.68,15901,Republican
 2016,Washington,WA,Ferry,County,Hillary Clinton,Democratic,1098,29.78,3687,Republican
 2016,Washington,WA,Ferry,County,Donald Trump,Republican,2202,59.72,3687,Republican
-2016,Washington,WA,Ferry,County,Other,Various Parties,387,10.5,3687,Republican
+2016,Washington,WA,Ferry,County,Other,Other,387,10.5,3687,Republican
 2016,Washington,WA,Franklin,County,Hillary Clinton,Democratic,8886,36.1,24614,Republican
 2016,Washington,WA,Franklin,County,Donald Trump,Republican,13206,53.65,24614,Republican
-2016,Washington,WA,Franklin,County,Other,Various Parties,2522,10.25,24614,Republican
+2016,Washington,WA,Franklin,County,Other,Other,2522,10.25,24614,Republican
 2016,Washington,WA,Garfield,County,Hillary Clinton,Democratic,279,22.39,1246,Republican
 2016,Washington,WA,Garfield,County,Donald Trump,Republican,851,68.3,1246,Republican
-2016,Washington,WA,Garfield,County,Other,Various Parties,116,9.31,1246,Republican
+2016,Washington,WA,Garfield,County,Other,Other,116,9.31,1246,Republican
 2016,Washington,WA,Grant,County,Hillary Clinton,Democratic,7810,26.69,29258,Republican
 2016,Washington,WA,Grant,County,Donald Trump,Republican,18518,63.29,29258,Republican
-2016,Washington,WA,Grant,County,Other,Various Parties,2930,10.01,29258,Republican
+2016,Washington,WA,Grant,County,Other,Other,2930,10.01,29258,Republican
 2016,Washington,WA,Grays Harbor,County,Hillary Clinton,Democratic,12020,41.02,29301,Republican
 2016,Washington,WA,Grays Harbor,County,Donald Trump,Republican,14067,48.01,29301,Republican
-2016,Washington,WA,Grays Harbor,County,Other,Various Parties,3214,10.97,29301,Republican
+2016,Washington,WA,Grays Harbor,County,Other,Other,3214,10.97,29301,Republican
 2016,Washington,WA,Island,County,Hillary Clinton,Democratic,20960,47.34,44273,Democratic
 2016,Washington,WA,Island,County,Donald Trump,Republican,18465,41.71,44273,Democratic
-2016,Washington,WA,Island,County,Other,Various Parties,4848,10.95,44273,Democratic
+2016,Washington,WA,Island,County,Other,Other,4848,10.95,44273,Democratic
 2016,Washington,WA,Jefferson,County,Hillary Clinton,Democratic,12656,60.62,20879,Democratic
 2016,Washington,WA,Jefferson,County,Donald Trump,Republican,6037,28.91,20879,Democratic
-2016,Washington,WA,Jefferson,County,Other,Various Parties,2186,10.47,20879,Democratic
+2016,Washington,WA,Jefferson,County,Other,Other,2186,10.47,20879,Democratic
 2016,Washington,WA,King,County,Hillary Clinton,Democratic,718322,69.85,1028450,Democratic
 2016,Washington,WA,King,County,Donald Trump,Republican,216339,21.04,1028450,Democratic
-2016,Washington,WA,King,County,Other,Various Parties,93789,9.12,1028450,Democratic
+2016,Washington,WA,King,County,Other,Other,93789,9.12,1028450,Democratic
 2016,Washington,WA,Kitsap,County,Hillary Clinton,Democratic,63156,49.05,128770,Democratic
 2016,Washington,WA,Kitsap,County,Donald Trump,Republican,49018,38.07,128770,Democratic
-2016,Washington,WA,Kitsap,County,Other,Various Parties,16596,12.89,128770,Democratic
+2016,Washington,WA,Kitsap,County,Other,Other,16596,12.89,128770,Democratic
 2016,Washington,WA,Kittitas,County,Hillary Clinton,Democratic,7489,38.18,19615,Republican
 2016,Washington,WA,Kittitas,County,Donald Trump,Republican,10100,51.49,19615,Republican
-2016,Washington,WA,Kittitas,County,Other,Various Parties,2026,10.33,19615,Republican
+2016,Washington,WA,Kittitas,County,Other,Other,2026,10.33,19615,Republican
 2016,Washington,WA,Klickitat,County,Hillary Clinton,Democratic,4194,37.87,11074,Republican
 2016,Washington,WA,Klickitat,County,Donald Trump,Republican,5789,52.28,11074,Republican
-2016,Washington,WA,Klickitat,County,Other,Various Parties,1091,9.85,11074,Republican
+2016,Washington,WA,Klickitat,County,Other,Other,1091,9.85,11074,Republican
 2016,Washington,WA,Lewis,County,Hillary Clinton,Democratic,9654,27.43,35199,Republican
 2016,Washington,WA,Lewis,County,Donald Trump,Republican,21992,62.48,35199,Republican
-2016,Washington,WA,Lewis,County,Other,Various Parties,3553,10.09,35199,Republican
+2016,Washington,WA,Lewis,County,Other,Other,3553,10.09,35199,Republican
 2016,Washington,WA,Lincoln,County,Hillary Clinton,Democratic,1244,21.23,5861,Republican
 2016,Washington,WA,Lincoln,County,Donald Trump,Republican,4108,70.09,5861,Republican
-2016,Washington,WA,Lincoln,County,Other,Various Parties,509,8.68,5861,Republican
+2016,Washington,WA,Lincoln,County,Other,Other,509,8.68,5861,Republican
 2016,Washington,WA,Mason,County,Hillary Clinton,Democratic,11993,41.35,29003,Republican
 2016,Washington,WA,Mason,County,Donald Trump,Republican,13677,47.16,29003,Republican
-2016,Washington,WA,Mason,County,Other,Various Parties,3333,11.49,29003,Republican
+2016,Washington,WA,Mason,County,Other,Other,3333,11.49,29003,Republican
 2016,Washington,WA,Okanogan,County,Hillary Clinton,Democratic,6298,35.87,17556,Republican
 2016,Washington,WA,Okanogan,County,Donald Trump,Republican,9610,54.74,17556,Republican
-2016,Washington,WA,Okanogan,County,Other,Various Parties,1648,9.39,17556,Republican
+2016,Washington,WA,Okanogan,County,Other,Other,1648,9.39,17556,Republican
 2016,Washington,WA,Pacific,County,Hillary Clinton,Democratic,4620,42.11,10972,Republican
 2016,Washington,WA,Pacific,County,Donald Trump,Republican,5360,48.85,10972,Republican
-2016,Washington,WA,Pacific,County,Other,Various Parties,992,9.04,10972,Republican
+2016,Washington,WA,Pacific,County,Other,Other,992,9.04,10972,Republican
 2016,Washington,WA,Pend Oreille,County,Hillary Clinton,Democratic,1934,27.57,7016,Republican
 2016,Washington,WA,Pend Oreille,County,Donald Trump,Republican,4373,62.33,7016,Republican
-2016,Washington,WA,Pend Oreille,County,Other,Various Parties,709,10.11,7016,Republican
+2016,Washington,WA,Pend Oreille,County,Other,Other,709,10.11,7016,Republican
 2016,Washington,WA,Pierce,County,Hillary Clinton,Democratic,172538,47.92,360017,Democratic
 2016,Washington,WA,Pierce,County,Donald Trump,Republican,146824,40.78,360017,Democratic
-2016,Washington,WA,Pierce,County,Other,Various Parties,40655,11.29,360017,Democratic
+2016,Washington,WA,Pierce,County,Other,Other,40655,11.29,360017,Democratic
 2016,Washington,WA,San Juan,County,Hillary Clinton,Democratic,7172,64.42,11134,Democratic
 2016,Washington,WA,San Juan,County,Donald Trump,Republican,2688,24.14,11134,Democratic
-2016,Washington,WA,San Juan,County,Other,Various Parties,1274,11.44,11134,Democratic
+2016,Washington,WA,San Juan,County,Other,Other,1274,11.44,11134,Democratic
 2016,Washington,WA,Skagit,County,Hillary Clinton,Democratic,26690,45.97,58059,Democratic
 2016,Washington,WA,Skagit,County,Donald Trump,Republican,24736,42.6,58059,Democratic
-2016,Washington,WA,Skagit,County,Other,Various Parties,6633,11.42,58059,Democratic
+2016,Washington,WA,Skagit,County,Other,Other,6633,11.42,58059,Democratic
 2016,Washington,WA,Skamania,County,Hillary Clinton,Democratic,2232,38.29,5829,Republican
 2016,Washington,WA,Skamania,County,Donald Trump,Republican,2928,50.23,5829,Republican
-2016,Washington,WA,Skamania,County,Other,Various Parties,669,11.48,5829,Republican
+2016,Washington,WA,Skamania,County,Other,Other,669,11.48,5829,Republican
 2016,Washington,WA,Snohomish,County,Hillary Clinton,Democratic,185227,52.22,354734,Democratic
 2016,Washington,WA,Snohomish,County,Donald Trump,Republican,128255,36.16,354734,Democratic
-2016,Washington,WA,Snohomish,County,Other,Various Parties,41252,11.63,354734,Democratic
+2016,Washington,WA,Snohomish,County,Other,Other,41252,11.63,354734,Democratic
 2016,Washington,WA,Spokane,County,Hillary Clinton,Democratic,93767,39.72,236050,Republican
 2016,Washington,WA,Spokane,County,Donald Trump,Republican,113435,48.06,236050,Republican
-2016,Washington,WA,Spokane,County,Other,Various Parties,28848,12.22,236050,Republican
+2016,Washington,WA,Spokane,County,Other,Other,28848,12.22,236050,Republican
 2016,Washington,WA,Stevens,County,Hillary Clinton,Democratic,5767,24.65,23395,Republican
 2016,Washington,WA,Stevens,County,Donald Trump,Republican,15161,64.8,23395,Republican
-2016,Washington,WA,Stevens,County,Other,Various Parties,2467,10.54,23395,Republican
+2016,Washington,WA,Stevens,County,Other,Other,2467,10.54,23395,Republican
 2016,Washington,WA,Thurston,County,Hillary Clinton,Democratic,68798,51.27,134191,Democratic
 2016,Washington,WA,Thurston,County,Donald Trump,Republican,48624,36.23,134191,Democratic
-2016,Washington,WA,Thurston,County,Other,Various Parties,16769,12.5,134191,Democratic
+2016,Washington,WA,Thurston,County,Other,Other,16769,12.5,134191,Democratic
 2016,Washington,WA,Wahkiakum,County,Hillary Clinton,Democratic,832,34.25,2429,Republican
 2016,Washington,WA,Wahkiakum,County,Donald Trump,Republican,1344,55.33,2429,Republican
-2016,Washington,WA,Wahkiakum,County,Other,Various Parties,253,10.42,2429,Republican
+2016,Washington,WA,Wahkiakum,County,Other,Other,253,10.42,2429,Republican
 2016,Washington,WA,Walla Walla,County,Hillary Clinton,Democratic,9694,36.96,26228,Republican
 2016,Washington,WA,Walla Walla,County,Donald Trump,Republican,13651,52.05,26228,Republican
-2016,Washington,WA,Walla Walla,County,Other,Various Parties,2883,10.99,26228,Republican
+2016,Washington,WA,Walla Walla,County,Other,Other,2883,10.99,26228,Republican
 2016,Washington,WA,Whatcom,County,Hillary Clinton,Democratic,60340,53.24,113339,Democratic
 2016,Washington,WA,Whatcom,County,Donald Trump,Republican,40599,35.82,113339,Democratic
-2016,Washington,WA,Whatcom,County,Other,Various Parties,12400,10.94,113339,Democratic
+2016,Washington,WA,Whatcom,County,Other,Other,12400,10.94,113339,Democratic
 2016,Washington,WA,Whitman,County,Hillary Clinton,Democratic,8146,45.19,18028,Democratic
 2016,Washington,WA,Whitman,County,Donald Trump,Republican,7403,41.06,18028,Democratic
-2016,Washington,WA,Whitman,County,Other,Various Parties,2479,13.75,18028,Democratic
+2016,Washington,WA,Whitman,County,Other,Other,2479,13.75,18028,Democratic
 2016,Washington,WA,Yakima,County,Hillary Clinton,Democratic,31291,39.24,79741,Republican
 2016,Washington,WA,Yakima,County,Donald Trump,Republican,41735,52.34,79741,Republican
-2016,Washington,WA,Yakima,County,Other,Various Parties,6715,8.42,79741,Republican
+2016,Washington,WA,Yakima,County,Other,Other,6715,8.42,79741,Republican
 2016,West Virginia,WV,Barbour,County,Donald Trump,Republican,4527,74.02,6116,Republican
 2016,West Virginia,WV,Barbour,County,Hillary Clinton,Democratic,1222,19.98,6116,Republican
-2016,West Virginia,WV,Barbour,County,Other,Various Parties,367,6.0,6116,Republican
+2016,West Virginia,WV,Barbour,County,Other,Other,367,6.0,6116,Republican
 2016,West Virginia,WV,Berkeley,County,Donald Trump,Republican,28244,65.13,43364,Republican
 2016,West Virginia,WV,Berkeley,County,Hillary Clinton,Democratic,12321,28.41,43364,Republican
-2016,West Virginia,WV,Berkeley,County,Other,Various Parties,2799,6.46,43364,Republican
+2016,West Virginia,WV,Berkeley,County,Other,Other,2799,6.46,43364,Republican
 2016,West Virginia,WV,Boone,County,Donald Trump,Republican,6504,74.09,8779,Republican
 2016,West Virginia,WV,Boone,County,Hillary Clinton,Democratic,1790,20.39,8779,Republican
-2016,West Virginia,WV,Boone,County,Other,Various Parties,485,5.52,8779,Republican
+2016,West Virginia,WV,Boone,County,Other,Other,485,5.52,8779,Republican
 2016,West Virginia,WV,Braxton,County,Donald Trump,Republican,3537,69.35,5100,Republican
 2016,West Virginia,WV,Braxton,County,Hillary Clinton,Democratic,1321,25.9,5100,Republican
-2016,West Virginia,WV,Braxton,County,Other,Various Parties,242,4.75,5100,Republican
+2016,West Virginia,WV,Braxton,County,Other,Other,242,4.75,5100,Republican
 2016,West Virginia,WV,Brooke,County,Donald Trump,Republican,6625,68.33,9696,Republican
 2016,West Virginia,WV,Brooke,County,Hillary Clinton,Democratic,2568,26.49,9696,Republican
-2016,West Virginia,WV,Brooke,County,Other,Various Parties,503,5.18,9696,Republican
+2016,West Virginia,WV,Brooke,County,Other,Other,503,5.18,9696,Republican
 2016,West Virginia,WV,Cabell,County,Donald Trump,Republican,19850,59.09,33591,Republican
 2016,West Virginia,WV,Cabell,County,Hillary Clinton,Democratic,11447,34.08,33591,Republican
-2016,West Virginia,WV,Cabell,County,Other,Various Parties,2294,6.83,33591,Republican
+2016,West Virginia,WV,Cabell,County,Other,Other,2294,6.83,33591,Republican
 2016,West Virginia,WV,Calhoun,County,Donald Trump,Republican,2035,77.14,2638,Republican
 2016,West Virginia,WV,Calhoun,County,Hillary Clinton,Democratic,456,17.29,2638,Republican
-2016,West Virginia,WV,Calhoun,County,Other,Various Parties,147,5.57,2638,Republican
+2016,West Virginia,WV,Calhoun,County,Other,Other,147,5.57,2638,Republican
 2016,West Virginia,WV,Clay,County,Donald Trump,Republican,2300,76.79,2995,Republican
 2016,West Virginia,WV,Clay,County,Hillary Clinton,Democratic,568,18.96,2995,Republican
-2016,West Virginia,WV,Clay,County,Other,Various Parties,127,4.25,2995,Republican
+2016,West Virginia,WV,Clay,County,Other,Other,127,4.25,2995,Republican
 2016,West Virginia,WV,Doddridge,County,Donald Trump,Republican,2358,82.36,2863,Republican
 2016,West Virginia,WV,Doddridge,County,Hillary Clinton,Democratic,362,12.64,2863,Republican
-2016,West Virginia,WV,Doddridge,County,Other,Various Parties,143,5.0,2863,Republican
+2016,West Virginia,WV,Doddridge,County,Other,Other,143,5.0,2863,Republican
 2016,West Virginia,WV,Fayette,County,Donald Trump,Republican,10357,66.91,15478,Republican
 2016,West Virginia,WV,Fayette,County,Hillary Clinton,Democratic,4290,27.72,15478,Republican
-2016,West Virginia,WV,Fayette,County,Other,Various Parties,831,5.37,15478,Republican
+2016,West Virginia,WV,Fayette,County,Other,Other,831,5.37,15478,Republican
 2016,West Virginia,WV,Gilmer,County,Donald Trump,Republican,1896,73.52,2579,Republican
 2016,West Virginia,WV,Gilmer,County,Hillary Clinton,Democratic,545,21.13,2579,Republican
-2016,West Virginia,WV,Gilmer,County,Other,Various Parties,138,5.35,2579,Republican
+2016,West Virginia,WV,Gilmer,County,Other,Other,138,5.35,2579,Republican
 2016,West Virginia,WV,Grant,County,Donald Trump,Republican,4346,87.53,4965,Republican
 2016,West Virginia,WV,Grant,County,Hillary Clinton,Democratic,512,10.31,4965,Republican
-2016,West Virginia,WV,Grant,County,Other,Various Parties,107,2.16,4965,Republican
+2016,West Virginia,WV,Grant,County,Other,Other,107,2.16,4965,Republican
 2016,West Virginia,WV,Greenbrier,County,Donald Trump,Republican,9556,67.18,14224,Republican
 2016,West Virginia,WV,Greenbrier,County,Hillary Clinton,Democratic,3765,26.47,14224,Republican
-2016,West Virginia,WV,Greenbrier,County,Other,Various Parties,903,6.35,14224,Republican
+2016,West Virginia,WV,Greenbrier,County,Other,Other,903,6.35,14224,Republican
 2016,West Virginia,WV,Hampshire,County,Donald Trump,Republican,6692,77.11,8679,Republican
 2016,West Virginia,WV,Hampshire,County,Hillary Clinton,Democratic,1580,18.2,8679,Republican
-2016,West Virginia,WV,Hampshire,County,Other,Various Parties,407,4.69,8679,Republican
+2016,West Virginia,WV,Hampshire,County,Other,Other,407,4.69,8679,Republican
 2016,West Virginia,WV,Hancock,County,Donald Trump,Republican,8909,69.59,12802,Republican
 2016,West Virginia,WV,Hancock,County,Hillary Clinton,Democratic,3262,25.48,12802,Republican
-2016,West Virginia,WV,Hancock,County,Other,Various Parties,631,4.93,12802,Republican
+2016,West Virginia,WV,Hancock,County,Other,Other,631,4.93,12802,Republican
 2016,West Virginia,WV,Hardy,County,Donald Trump,Republican,4274,75.33,5674,Republican
 2016,West Virginia,WV,Hardy,County,Hillary Clinton,Democratic,1155,20.36,5674,Republican
-2016,West Virginia,WV,Hardy,County,Other,Various Parties,245,4.31,5674,Republican
+2016,West Virginia,WV,Hardy,County,Other,Other,245,4.31,5674,Republican
 2016,West Virginia,WV,Harrison,County,Donald Trump,Republican,18750,66.14,28351,Republican
 2016,West Virginia,WV,Harrison,County,Hillary Clinton,Democratic,7694,27.14,28351,Republican
-2016,West Virginia,WV,Harrison,County,Other,Various Parties,1907,6.72,28351,Republican
+2016,West Virginia,WV,Harrison,County,Other,Other,1907,6.72,28351,Republican
 2016,West Virginia,WV,Jackson,County,Donald Trump,Republican,9020,73.31,12304,Republican
 2016,West Virginia,WV,Jackson,County,Hillary Clinton,Democratic,2663,21.64,12304,Republican
-2016,West Virginia,WV,Jackson,County,Other,Various Parties,621,5.05,12304,Republican
+2016,West Virginia,WV,Jackson,County,Other,Other,621,5.05,12304,Republican
 2016,West Virginia,WV,Jefferson,County,Donald Trump,Republican,13204,53.88,24508,Republican
 2016,West Virginia,WV,Jefferson,County,Hillary Clinton,Democratic,9518,38.84,24508,Republican
-2016,West Virginia,WV,Jefferson,County,Other,Various Parties,1786,7.28,24508,Republican
+2016,West Virginia,WV,Jefferson,County,Other,Other,1786,7.28,24508,Republican
 2016,West Virginia,WV,Kanawha,County,Donald Trump,Republican,43850,57.03,76888,Republican
 2016,West Virginia,WV,Kanawha,County,Hillary Clinton,Democratic,28263,36.76,76888,Republican
-2016,West Virginia,WV,Kanawha,County,Other,Various Parties,4775,6.21,76888,Republican
+2016,West Virginia,WV,Kanawha,County,Other,Other,4775,6.21,76888,Republican
 2016,West Virginia,WV,Lewis,County,Donald Trump,Republican,5274,76.04,6936,Republican
 2016,West Virginia,WV,Lewis,County,Hillary Clinton,Democratic,1347,19.42,6936,Republican
-2016,West Virginia,WV,Lewis,County,Other,Various Parties,315,4.54,6936,Republican
+2016,West Virginia,WV,Lewis,County,Other,Other,315,4.54,6936,Republican
 2016,West Virginia,WV,Lincoln,County,Donald Trump,Republican,5307,74.36,7137,Republican
 2016,West Virginia,WV,Lincoln,County,Hillary Clinton,Democratic,1459,20.44,7137,Republican
-2016,West Virginia,WV,Lincoln,County,Other,Various Parties,371,5.2,7137,Republican
+2016,West Virginia,WV,Lincoln,County,Other,Other,371,5.2,7137,Republican
 2016,West Virginia,WV,Logan,County,Donald Trump,Republican,9897,79.56,12440,Republican
 2016,West Virginia,WV,Logan,County,Hillary Clinton,Democratic,2092,16.82,12440,Republican
-2016,West Virginia,WV,Logan,County,Other,Various Parties,451,3.62,12440,Republican
+2016,West Virginia,WV,Logan,County,Other,Other,451,3.62,12440,Republican
 2016,West Virginia,WV,Marion,County,Donald Trump,Republican,14668,62.77,23367,Republican
 2016,West Virginia,WV,Marion,County,Hillary Clinton,Democratic,6964,29.8,23367,Republican
-2016,West Virginia,WV,Marion,County,Other,Various Parties,1735,7.43,23367,Republican
+2016,West Virginia,WV,Marion,County,Other,Other,1735,7.43,23367,Republican
 2016,West Virginia,WV,Marshall,County,Donald Trump,Republican,9666,72.39,13353,Republican
 2016,West Virginia,WV,Marshall,County,Hillary Clinton,Democratic,2918,21.85,13353,Republican
-2016,West Virginia,WV,Marshall,County,Other,Various Parties,769,5.76,13353,Republican
+2016,West Virginia,WV,Marshall,County,Other,Other,769,5.76,13353,Republican
 2016,West Virginia,WV,Mason,County,Donald Trump,Republican,7654,74.54,10269,Republican
 2016,West Virginia,WV,Mason,County,Hillary Clinton,Democratic,2081,20.26,10269,Republican
-2016,West Virginia,WV,Mason,County,Other,Various Parties,534,5.2,10269,Republican
+2016,West Virginia,WV,Mason,County,Other,Other,534,5.2,10269,Republican
 2016,West Virginia,WV,McDowell,County,Donald Trump,Republican,4629,74.11,6246,Republican
 2016,West Virginia,WV,McDowell,County,Hillary Clinton,Democratic,1438,23.02,6246,Republican
-2016,West Virginia,WV,McDowell,County,Other,Various Parties,179,2.87,6246,Republican
+2016,West Virginia,WV,McDowell,County,Other,Other,179,2.87,6246,Republican
 2016,West Virginia,WV,Mercer,County,Donald Trump,Republican,17404,75.03,23197,Republican
 2016,West Virginia,WV,Mercer,County,Hillary Clinton,Democratic,4704,20.28,23197,Republican
-2016,West Virginia,WV,Mercer,County,Other,Various Parties,1089,4.69,23197,Republican
+2016,West Virginia,WV,Mercer,County,Other,Other,1089,4.69,23197,Republican
 2016,West Virginia,WV,Mineral,County,Donald Trump,Republican,9070,77.71,11671,Republican
 2016,West Virginia,WV,Mineral,County,Hillary Clinton,Democratic,2050,17.56,11671,Republican
-2016,West Virginia,WV,Mineral,County,Other,Various Parties,551,4.73,11671,Republican
+2016,West Virginia,WV,Mineral,County,Other,Other,551,4.73,11671,Republican
 2016,West Virginia,WV,Mingo,County,Donald Trump,Republican,7911,83.17,9512,Republican
 2016,West Virginia,WV,Mingo,County,Hillary Clinton,Democratic,1370,14.4,9512,Republican
-2016,West Virginia,WV,Mingo,County,Other,Various Parties,231,2.43,9512,Republican
+2016,West Virginia,WV,Mingo,County,Other,Other,231,2.43,9512,Republican
 2016,West Virginia,WV,Monongalia,County,Donald Trump,Republican,18432,50.13,36772,Republican
 2016,West Virginia,WV,Monongalia,County,Hillary Clinton,Democratic,14699,39.97,36772,Republican
-2016,West Virginia,WV,Monongalia,County,Other,Various Parties,3641,9.9,36772,Republican
+2016,West Virginia,WV,Monongalia,County,Other,Other,3641,9.9,36772,Republican
 2016,West Virginia,WV,Monroe,County,Donald Trump,Republican,4443,75.92,5852,Republican
 2016,West Virginia,WV,Monroe,County,Hillary Clinton,Democratic,1111,18.98,5852,Republican
-2016,West Virginia,WV,Monroe,County,Other,Various Parties,298,5.1,5852,Republican
+2016,West Virginia,WV,Monroe,County,Other,Other,298,5.1,5852,Republican
 2016,West Virginia,WV,Morgan,County,Donald Trump,Republican,5732,74.09,7737,Republican
 2016,West Virginia,WV,Morgan,County,Hillary Clinton,Democratic,1573,20.33,7737,Republican
-2016,West Virginia,WV,Morgan,County,Other,Various Parties,432,5.58,7737,Republican
+2016,West Virginia,WV,Morgan,County,Other,Other,432,5.58,7737,Republican
 2016,West Virginia,WV,Nicholas,County,Donald Trump,Republican,7251,75.7,9579,Republican
 2016,West Virginia,WV,Nicholas,County,Hillary Clinton,Democratic,1840,19.21,9579,Republican
-2016,West Virginia,WV,Nicholas,County,Other,Various Parties,488,5.09,9579,Republican
+2016,West Virginia,WV,Nicholas,County,Other,Other,488,5.09,9579,Republican
 2016,West Virginia,WV,Ohio,County,Donald Trump,Republican,11139,61.16,18214,Republican
 2016,West Virginia,WV,Ohio,County,Hillary Clinton,Democratic,5493,30.16,18214,Republican
-2016,West Virginia,WV,Ohio,County,Other,Various Parties,1582,8.68,18214,Republican
+2016,West Virginia,WV,Ohio,County,Other,Other,1582,8.68,18214,Republican
 2016,West Virginia,WV,Pendleton,County,Donald Trump,Republican,2398,73.69,3254,Republican
 2016,West Virginia,WV,Pendleton,County,Hillary Clinton,Democratic,729,22.4,3254,Republican
-2016,West Virginia,WV,Pendleton,County,Other,Various Parties,127,3.91,3254,Republican
+2016,West Virginia,WV,Pendleton,County,Other,Other,127,3.91,3254,Republican
 2016,West Virginia,WV,Pleasants,County,Donald Trump,Republican,2358,74.17,3179,Republican
 2016,West Virginia,WV,Pleasants,County,Hillary Clinton,Democratic,621,19.53,3179,Republican
-2016,West Virginia,WV,Pleasants,County,Other,Various Parties,200,6.3,3179,Republican
+2016,West Virginia,WV,Pleasants,County,Other,Other,200,6.3,3179,Republican
 2016,West Virginia,WV,Pocahontas,County,Donald Trump,Republican,2496,67.92,3675,Republican
 2016,West Virginia,WV,Pocahontas,County,Hillary Clinton,Democratic,928,25.25,3675,Republican
-2016,West Virginia,WV,Pocahontas,County,Other,Various Parties,251,6.83,3675,Republican
+2016,West Virginia,WV,Pocahontas,County,Other,Other,251,6.83,3675,Republican
 2016,West Virginia,WV,Preston,County,Donald Trump,Republican,9538,74.73,12764,Republican
 2016,West Virginia,WV,Preston,County,Hillary Clinton,Democratic,2470,19.35,12764,Republican
-2016,West Virginia,WV,Preston,County,Other,Various Parties,756,5.92,12764,Republican
+2016,West Virginia,WV,Preston,County,Other,Other,756,5.92,12764,Republican
 2016,West Virginia,WV,Putnam,County,Donald Trump,Republican,17788,70.56,25211,Republican
 2016,West Virginia,WV,Putnam,County,Hillary Clinton,Democratic,5884,23.34,25211,Republican
-2016,West Virginia,WV,Putnam,County,Other,Various Parties,1539,6.1,25211,Republican
+2016,West Virginia,WV,Putnam,County,Other,Other,1539,6.1,25211,Republican
 2016,West Virginia,WV,Raleigh,County,Donald Trump,Republican,22048,73.76,29892,Republican
 2016,West Virginia,WV,Raleigh,County,Hillary Clinton,Democratic,6443,21.55,29892,Republican
-2016,West Virginia,WV,Raleigh,County,Other,Various Parties,1401,4.69,29892,Republican
+2016,West Virginia,WV,Raleigh,County,Other,Other,1401,4.69,29892,Republican
 2016,West Virginia,WV,Randolph,County,Donald Trump,Republican,7629,69.55,10969,Republican
 2016,West Virginia,WV,Randolph,County,Hillary Clinton,Democratic,2735,24.93,10969,Republican
-2016,West Virginia,WV,Randolph,County,Other,Various Parties,605,5.52,10969,Republican
+2016,West Virginia,WV,Randolph,County,Other,Other,605,5.52,10969,Republican
 2016,West Virginia,WV,Ritchie,County,Donald Trump,Republican,3405,82.95,4105,Republican
 2016,West Virginia,WV,Ritchie,County,Hillary Clinton,Democratic,496,12.08,4105,Republican
-2016,West Virginia,WV,Ritchie,County,Other,Various Parties,204,4.97,4105,Republican
+2016,West Virginia,WV,Ritchie,County,Other,Other,204,4.97,4105,Republican
 2016,West Virginia,WV,Roane,County,Donald Trump,Republican,3781,71.12,5316,Republican
 2016,West Virginia,WV,Roane,County,Hillary Clinton,Democratic,1222,22.99,5316,Republican
-2016,West Virginia,WV,Roane,County,Other,Various Parties,313,5.89,5316,Republican
+2016,West Virginia,WV,Roane,County,Other,Other,313,5.89,5316,Republican
 2016,West Virginia,WV,Summers,County,Donald Trump,Republican,3455,70.61,4893,Republican
 2016,West Virginia,WV,Summers,County,Hillary Clinton,Democratic,1190,24.32,4893,Republican
-2016,West Virginia,WV,Summers,County,Other,Various Parties,248,5.07,4893,Republican
+2016,West Virginia,WV,Summers,County,Other,Other,248,5.07,4893,Republican
 2016,West Virginia,WV,Taylor,County,Donald Trump,Republican,4733,71.79,6593,Republican
 2016,West Virginia,WV,Taylor,County,Hillary Clinton,Democratic,1491,22.61,6593,Republican
-2016,West Virginia,WV,Taylor,County,Other,Various Parties,369,5.6,6593,Republican
+2016,West Virginia,WV,Taylor,County,Other,Other,369,5.6,6593,Republican
 2016,West Virginia,WV,Tucker,County,Donald Trump,Republican,2565,73.26,3501,Republican
 2016,West Virginia,WV,Tucker,County,Hillary Clinton,Democratic,751,21.45,3501,Republican
-2016,West Virginia,WV,Tucker,County,Other,Various Parties,185,5.29,3501,Republican
+2016,West Virginia,WV,Tucker,County,Other,Other,185,5.29,3501,Republican
 2016,West Virginia,WV,Tyler,County,Donald Trump,Republican,2996,81.15,3692,Republican
 2016,West Virginia,WV,Tyler,County,Hillary Clinton,Democratic,507,13.73,3692,Republican
-2016,West Virginia,WV,Tyler,County,Other,Various Parties,189,5.12,3692,Republican
+2016,West Virginia,WV,Tyler,County,Other,Other,189,5.12,3692,Republican
 2016,West Virginia,WV,Upshur,County,Donald Trump,Republican,7005,75.34,9298,Republican
 2016,West Virginia,WV,Upshur,County,Hillary Clinton,Democratic,1766,18.99,9298,Republican
-2016,West Virginia,WV,Upshur,County,Other,Various Parties,527,5.67,9298,Republican
+2016,West Virginia,WV,Upshur,County,Other,Other,527,5.67,9298,Republican
 2016,West Virginia,WV,Wayne,County,Donald Trump,Republican,11152,72.67,15347,Republican
 2016,West Virginia,WV,Wayne,County,Hillary Clinton,Democratic,3357,21.87,15347,Republican
-2016,West Virginia,WV,Wayne,County,Other,Various Parties,838,5.46,15347,Republican
+2016,West Virginia,WV,Wayne,County,Other,Other,838,5.46,15347,Republican
 2016,West Virginia,WV,Webster,County,Donald Trump,Republican,2302,76.45,3011,Republican
 2016,West Virginia,WV,Webster,County,Hillary Clinton,Democratic,556,18.47,3011,Republican
-2016,West Virginia,WV,Webster,County,Other,Various Parties,153,5.08,3011,Republican
+2016,West Virginia,WV,Webster,County,Other,Other,153,5.08,3011,Republican
 2016,West Virginia,WV,Wetzel,County,Donald Trump,Republican,4519,71.59,6312,Republican
 2016,West Virginia,WV,Wetzel,County,Hillary Clinton,Democratic,1359,21.53,6312,Republican
-2016,West Virginia,WV,Wetzel,County,Other,Various Parties,434,6.88,6312,Republican
+2016,West Virginia,WV,Wetzel,County,Other,Other,434,6.88,6312,Republican
 2016,West Virginia,WV,Wirt,County,Donald Trump,Republican,1911,78.9,2422,Republican
 2016,West Virginia,WV,Wirt,County,Hillary Clinton,Democratic,386,15.94,2422,Republican
-2016,West Virginia,WV,Wirt,County,Other,Various Parties,125,5.16,2422,Republican
+2016,West Virginia,WV,Wirt,County,Other,Other,125,5.16,2422,Republican
 2016,West Virginia,WV,Wood,County,Donald Trump,Republican,25434,70.51,36071,Republican
 2016,West Virginia,WV,Wood,County,Hillary Clinton,Democratic,8400,23.29,36071,Republican
-2016,West Virginia,WV,Wood,County,Other,Various Parties,2237,6.2,36071,Republican
+2016,West Virginia,WV,Wood,County,Other,Other,2237,6.2,36071,Republican
 2016,West Virginia,WV,Wyoming,County,Donald Trump,Republican,6547,83.08,7880,Republican
 2016,West Virginia,WV,Wyoming,County,Hillary Clinton,Democratic,1062,13.48,7880,Republican
-2016,West Virginia,WV,Wyoming,County,Other,Various Parties,271,3.44,7880,Republican
+2016,West Virginia,WV,Wyoming,County,Other,Other,271,3.44,7880,Republican
 2016,Wisconsin,WI,Adams,County,Donald Trump,Republican,5966,58.89,10130,Republican
 2016,Wisconsin,WI,Adams,County,Hillary Clinton,Democratic,3745,36.97,10130,Republican
 2016,Wisconsin,WI,Adams,County,Other,Various Parties,419,4.14,10130,Republican

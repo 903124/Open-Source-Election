@@ -137,10 +137,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2012,Nebraska,2012 United States Senate election in Nebraska,General,Winning,False,Deb Fischer,Republican Party (United States),"455,593",57.77%
 2012,Nebraska,2012 United States Senate election in Nebraska,General,Candidate,False,Bob Kerrey,Democratic Party (United States),"332,979",42.23%
 2012,Nebraska,2012 United States Senate election in Nebraska,General,Total,False,,,"788,572",100.00%
-2012,Nevada,"United States Senate election in Nevada, 2012",General,Winning,True,Dean Heller,Republican Party (United States),"457,656",45.87
-2012,Nevada,"United States Senate election in Nevada, 2012",General,Candidate,False,Shelley Berkley,Democratic Party (United States),"446,080",44.71
-2012,Nevada,"United States Senate election in Nevada, 2012",General,Candidate,False,David Lory VanDerBeek,Independent American Party of Nevada,"48,792",4.89
-2012,Nevada,"United States Senate election in Nevada, 2012",General,Total,False,,,"997,805",100.0
+2012,Nevada,2012 United States Senate election in Nevada,General,Winning,True,Dean Heller,Republican Party (United States),"457,656",45.87
+2012,Nevada,2012 United States Senate election in Nevada,General,Candidate,False,Shelley Berkley,Democratic Party (United States),"446,080",44.71
+2012,Nevada,2012 United States Senate election in Nevada,General,Candidate,False,David Lory VanDerBeek,Independent American Party of Nevada,"48,792",4.89
+2012,Nevada,2012 United States Senate election in Nevada,General,Total,False,,,"997,805",100.0
 2012,New Jersey,"United States Senate election in New Jersey, 2012",General,Winning,True,Bob Menendez,Democratic Party (United States),"1,987,680",58.87%
 2012,New Jersey,"United States Senate election in New Jersey, 2012",General,Candidate,False,Joe Kyrillos,Republican Party (United States),"1,329,534",39.37%
 2012,New Jersey,"United States Senate election in New Jersey, 2012",General,Candidate,False,Kenneth R. Kaplan,Libertarian Party (United States),"16,803",0.50%

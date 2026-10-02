@@ -184,7 +184,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 1986,house,Connecticut,CT,3,,Bruce Morrison,Democratic,,69.6,True,True,False
 1986,house,Connecticut,CT,3,,Ernest J. Diette Jr.,Republican,,30.4,False,False,False
 1986,house,Connecticut,CT,4,,Stewart McKinney,Republican,,53.5,True,True,False
-1986,house,Connecticut,CT,4,,Christine M. Niedermeier,Democratic,,46.5,False,False,False
+1986,house,Connecticut,CT,4,,Christine Niedermeier,Democratic,,46.5,False,False,False
 1986,house,Connecticut,CT,5,,John G. Rowland,Republican,,60.9,True,True,False
 1986,house,Connecticut,CT,5,,Jim Cohen,Democratic,,39.1,False,False,False
 1986,house,Connecticut,CT,6,,Nancy Johnson,Republican,,64.2,True,True,False

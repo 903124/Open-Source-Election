@@ -277,11 +277,17 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2020,Tennessee,Democratic primary results,Primary,Candidate,False,Mark Pickrell,Democratic Party (United States),"16,045",4.83%
 2020,Tennessee,Democratic primary results,Primary,Total,False,,,"332,223",100.00%
 2020,Texas,Republican primary results,Primary,Winning,True,John Cornyn,Republican Party (United States),"1,470,669",76.04%
+2020,Texas,Republican primary results,Primary,Candidate,False,Dwayne Stovall,Republican Party (United States),"231,104",11.95%
+2020,Texas,Republican primary results,Primary,Candidate,False,Mark Yancey,Republican Party (United States),"124,864",6.46%
+2020,Texas,Republican primary results,Primary,Candidate,False,John Anthony Castro,Republican Party (United States),"86,916",4.49%
+2020,Texas,Republican primary results,Primary,Candidate,False,Virgil Bierschwale,Republican Party (United States),"20,494",1.06%
 2020,Texas,Republican primary results,Primary,Total,False,,,"1,934,047",100.0%
+2020,Texas,Democratic primary results,Primary,Winning,False,MJ Hegar,Democratic Party (United States),"417,160",22.31%
 2020,Texas,Democratic primary results,Primary,Winning,False,Royce West,Democratic Party (United States),"274,074",14.66%
 2020,Texas,Democratic primary results,Primary,Candidate,False,Cristina Tzintzún Ramirez,Democratic Party (United States),"246,659",13.19%
 2020,Texas,Democratic primary results,Primary,Candidate,False,"Annie ""Mamá"" Garcia",Democratic Party (United States),"191,900",10.27%
 2020,Texas,Democratic primary results,Primary,Candidate,False,Amanda Edwards,Democratic Party (United States),"189,624",10.14%
+2020,Texas,Democratic primary results,Primary,Candidate,False,Chris Bell,Democratic Party (United States),"159,751",8.55%
 2020,Texas,Democratic primary results,Primary,Candidate,False,Sema Hernandez,Democratic Party (United States),"137,892",7.38%
 2020,Texas,Democratic primary results,Primary,Candidate,False,Michael Cooper,Democratic Party (United States),"92,463",4.95%
 2020,Texas,Democratic primary results,Primary,Candidate,False,Victor Hugo Harris,Democratic Party (United States),"59,710",3.19%

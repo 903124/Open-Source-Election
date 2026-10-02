@@ -1,5 +1,5 @@
 year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
-1978,Alabama,AL,governor,1978 Alabama gubernatorial election,Winning,Fob James,Democratic,551786,72.59,True,False
+1978,Alabama,AL,governor,1978 Alabama gubernatorial election,Winning,Fob James,Democratic,551886,72.59,True,False
 1978,Alabama,AL,governor,1978 Alabama gubernatorial election,Candidate,Guy Hunt,Republican,196693,25.88,False,False
 1978,Alabama,AL,governor,1978 Alabama gubernatorial election,Candidate,Jim Partain,Prohibition,8103,1.07,False,False
 1978,Alabama,AL,governor,1978 Alabama gubernatorial election,Candidate,Richard Dare,Determination,3522,0.46,False,False

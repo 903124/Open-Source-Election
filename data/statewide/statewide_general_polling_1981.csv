@@ -1,0 +1,7 @@
+Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+1981,New Jersey,NJ,governor,General,Rutgers,1981-09-15 to 1981-09-27,1981-09-15,1981-09-27,840 RV,3.5,Jim Florio,D,44%,False,"September 15–27, 1981"
+1981,New Jersey,NJ,governor,General,The New York Times,1981-10-13 to 1981-10-18,1981-10-13,1981-10-18,"1,118 RV",4.0,Jim Florio,D,48%,False,"October 13–18, 1981"
+1981,New Jersey,NJ,governor,General,Rutgers,1981-10-20 to 1981-10-27,1981-10-20,1981-10-27,"1,205 RV",3.0,Jim Florio,D,43%,False,"October 20–27, 1981"
+1981,New Jersey,NJ,governor,General,Rutgers,1981-09-15 to 1981-09-27,1981-09-15,1981-09-27,840 RV,3.5,Tom Kean,R,36%,False,"September 15–27, 1981"
+1981,New Jersey,NJ,governor,General,The New York Times,1981-10-13 to 1981-10-18,1981-10-13,1981-10-18,"1,118 RV",4.0,Tom Kean,R,40%,False,"October 13–18, 1981"
+1981,New Jersey,NJ,governor,General,Rutgers,1981-10-20 to 1981-10-27,1981-10-20,1981-10-27,"1,205 RV",3.0,Tom Kean,R,37%,False,"October 20–27, 1981"

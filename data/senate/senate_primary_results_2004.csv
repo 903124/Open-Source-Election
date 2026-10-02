@@ -38,15 +38,15 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2004,Florida,Democratic primary results,Primary,Candidate,False,Alex Penelas,Democratic Party (United States),"115,898",10.1%
 2004,Florida,Democratic primary results,Primary,Candidate,False,Bernard E. Klein,Democratic Party (United States),"45,347",3.9%
 2004,Florida,Democratic primary results,Primary,Total,False,,,"1,152,513",100.0%
-2004,Florida,Republican Primary results,Primary,Winning,False,Mel Martínez,Republican Party (United States),"522,994",44.9%
-2004,Florida,Republican Primary results,Primary,Candidate,False,Bill McCollum,Republican Party (United States),"360,474",30.9%
-2004,Florida,Republican Primary results,Primary,Candidate,False,Doug Gallagher,Republican Party (United States),"158,360",13.6%
-2004,Florida,Republican Primary results,Primary,Candidate,False,Johnnie Byrd,Republican Party (United States),"68,982",5.9%
-2004,Florida,Republican Primary results,Primary,Candidate,False,Karen Saull,Republican Party (United States),"20,365",1.8%
-2004,Florida,Republican Primary results,Primary,Candidate,False,Sonya March,Republican Party (United States),"17,804",1.5%
-2004,Florida,Republican Primary results,Primary,Candidate,False,Larry Klayman,Republican Party (United States),"13,257",1.1%
-2004,Florida,Republican Primary results,Primary,Candidate,False,William Billy Kogut,Republican Party (United States),"3,695",0.3%
-2004,Florida,Republican Primary results,Primary,Total,False,,,"1,165,931",100.0%
+2004,Florida,Republican primary results,Primary,Winning,False,Mel Martínez,Republican Party (United States),"522,994",44.9%
+2004,Florida,Republican primary results,Primary,Candidate,False,Bill McCollum,Republican Party (United States),"360,474",30.9%
+2004,Florida,Republican primary results,Primary,Candidate,False,Doug Gallagher,Republican Party (United States),"158,360",13.6%
+2004,Florida,Republican primary results,Primary,Candidate,False,Johnnie Byrd,Republican Party (United States),"68,982",5.9%
+2004,Florida,Republican primary results,Primary,Candidate,False,Karen Saull,Republican Party (United States),"20,365",1.8%
+2004,Florida,Republican primary results,Primary,Candidate,False,Sonya March,Republican Party (United States),"17,804",1.5%
+2004,Florida,Republican primary results,Primary,Candidate,False,Larry Klayman,Republican Party (United States),"13,257",1.1%
+2004,Florida,Republican primary results,Primary,Candidate,False,William Billy Kogut,Republican Party (United States),"3,695",0.3%
+2004,Florida,Republican primary results,Primary,Total,False,,,"1,165,931",100.0%
 2004,Georgia,2004 Georgia U.S. Senate Democratic primary election,Primary,Winning,False,Denise Majette,Democratic Party (United States),"258,480",41.3%
 2004,Georgia,2004 Georgia U.S. Senate Democratic primary election,Primary,Winning,False,Cliff Oxford,Democratic Party (United States),"128,540",20.6%
 2004,Georgia,2004 Georgia U.S. Senate Democratic primary election,Primary,Candidate,False,Jim Boyd,Democratic Party (United States),"87,702",14.3%

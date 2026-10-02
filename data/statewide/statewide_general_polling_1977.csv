@@ -1,0 +1,9 @@
+Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,Candidate,Party,Pct,Incumbent,Date_Original
+1977,New Jersey,NJ,governor,General,Rutgers,1977-07-18 to 1977-07-29,1977-07-18,1977-07-29,1004 A,Brendan Byrne,D,37%,True,"July 18–29, 1977"
+1977,New Jersey,NJ,governor,General,Rutgers,1977-09-20 to 1977-09-27,1977-09-20,1977-09-27,844 RV,Brendan Byrne,D,39%,True,"September 20–27, 1977"
+1977,New Jersey,NJ,governor,General,New York Times,1977-10-15 to 1977-10-19,1977-10-15,1977-10-19,"1,416 RV",Brendan Byrne,D,40%,True,"October 15–19, 1977"
+1977,New Jersey,NJ,governor,General,''Asbury Park Press'',1977-11-06,1977-11-06,1977-11-06,402 A,Brendan Byrne,D,37%,True,"November 6, 1977"
+1977,New Jersey,NJ,governor,General,Rutgers,1977-07-18 to 1977-07-29,1977-07-18,1977-07-29,1004 A,Raymond Bateman,R,47%,False,"July 18–29, 1977"
+1977,New Jersey,NJ,governor,General,Rutgers,1977-09-20 to 1977-09-27,1977-09-20,1977-09-27,844 RV,Raymond Bateman,R,46%,False,"September 20–27, 1977"
+1977,New Jersey,NJ,governor,General,New York Times,1977-10-15 to 1977-10-19,1977-10-15,1977-10-19,"1,416 RV",Raymond Bateman,R,40%,False,"October 15–19, 1977"
+1977,New Jersey,NJ,governor,General,''Asbury Park Press'',1977-11-06,1977-11-06,1977-11-06,402 A,Raymond Bateman,R,35%,False,"November 6, 1977"

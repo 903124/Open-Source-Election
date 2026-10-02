@@ -73,11 +73,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1986,New Mexico,NM,governor,1986 New Mexico gubernatorial election,Winning,Garrey Carruthers,Republican,209455,53.05,True,False
 1986,New Mexico,NM,governor,1986 New Mexico gubernatorial election,Candidate,Ray Powell,Democratic,185378,46.95,False,False
 1986,New Mexico,NM,governor,1986 New Mexico gubernatorial election,Total,,,394833,100.0,False,False
-1986,New York,NY,governor,"New York gubernatorial election, 1986",Winning,Mario Cuomo,Total,2775045,64.63,True,True
-1986,New York,NY,governor,"New York gubernatorial election, 1986",Candidate,Mario Cuomo,Democratic,2654754,61.83,False,False
-1986,New York,NY,governor,"New York gubernatorial election, 1986",Candidate,Andrew O'Rourke,Republican,1211662,28.22,False,False
-1986,New York,NY,governor,"New York gubernatorial election, 1986",Candidate,Denis Dillon,Life,130827,3.05,False,False
-1986,New York,NY,governor,"New York gubernatorial election, 1986",Candidate,Lenora Fulani,Alliance,24135,0.56,False,False
+1986,New York,NY,governor,1986 New York gubernatorial election,Winning,Mario Cuomo,Total,2775045,64.63,True,True
+1986,New York,NY,governor,1986 New York gubernatorial election,Candidate,Mario Cuomo,Democratic,2654754,61.83,False,False
+1986,New York,NY,governor,1986 New York gubernatorial election,Candidate,Andrew O'Rourke,Republican,1211662,28.22,False,False
+1986,New York,NY,governor,1986 New York gubernatorial election,Candidate,Denis E. Dillon,Life,130827,3.05,False,False
+1986,New York,NY,governor,1986 New York gubernatorial election,Candidate,Lenora Fulani,Alliance,24135,0.56,False,False
 1986,Ohio,OH,governor,"Ohio gubernatorial election, 1986",Winning,Dick Celeste,Democratic,1858372,60.6,True,True
 1986,Ohio,OH,governor,"Ohio gubernatorial election, 1986",Candidate,Jim Rhodes,Republican,1207264,39.37,False,False
 1986,Ohio,OH,governor,"Ohio gubernatorial election, 1986",Write-in,Write-ins,Write-ins,975,0.03,False,False

@@ -1,0 +1,13 @@
+Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+1993,New Jersey,NJ,governor,Republican Primary,''The Record'',1993-03-09 to 1993-03-19,1993-03-09,1993-03-19,227 LV,6.5,W. Cary Edwards,R,8%,False,"March 9–19, 1993"
+1993,New Jersey,NJ,governor,Republican Primary,''The Record'',1993-04-02 to 1993-04-04,1993-04-02,1993-04-04,630 A,3.9,W. Cary Edwards,R,14%,False,"April 2–4, 1993"
+1993,New Jersey,NJ,governor,Republican Primary,''The Record'',1993-04-25 to 1993-05-03,1993-04-25,1993-05-03,208 LV,7.0,W. Cary Edwards,R,14%,False,"April 25–May 3, 1993"
+1993,New Jersey,NJ,governor,Republican Primary,KYW-TV,1993-05-28 to 1993-06-01,1993-05-28,1993-06-01,245 LV,6.7,W. Cary Edwards,R,23%,False,"May 28–June 1, 1993"
+1993,New Jersey,NJ,governor,Republican Primary,''The Record'',1993-03-09 to 1993-03-19,1993-03-09,1993-03-19,227 LV,6.5,Christine Todd Whitman,R,28%,False,"March 9–19, 1993"
+1993,New Jersey,NJ,governor,Republican Primary,''The Record'',1993-04-02 to 1993-04-04,1993-04-02,1993-04-04,630 A,3.9,Christine Todd Whitman,R,30%,False,"April 2–4, 1993"
+1993,New Jersey,NJ,governor,Republican Primary,''The Record'',1993-04-25 to 1993-05-03,1993-04-25,1993-05-03,208 LV,7.0,Christine Todd Whitman,R,41%,False,"April 25–May 3, 1993"
+1993,New Jersey,NJ,governor,Republican Primary,KYW-TV,1993-05-28 to 1993-06-01,1993-05-28,1993-06-01,245 LV,6.7,Christine Todd Whitman,R,37%,False,"May 28–June 1, 1993"
+1993,New Jersey,NJ,governor,Republican Primary,''The Record'',1993-03-09 to 1993-03-19,1993-03-09,1993-03-19,227 LV,6.5,James Wallwork,R,2%,False,"March 9–19, 1993"
+1993,New Jersey,NJ,governor,Republican Primary,''The Record'',1993-04-02 to 1993-04-04,1993-04-02,1993-04-04,630 A,3.9,James Wallwork,R,4%,False,"April 2–4, 1993"
+1993,New Jersey,NJ,governor,Republican Primary,''The Record'',1993-04-25 to 1993-05-03,1993-04-25,1993-05-03,208 LV,7.0,James Wallwork,R,5%,False,"April 25–May 3, 1993"
+1993,New Jersey,NJ,governor,Republican Primary,KYW-TV,1993-05-28 to 1993-06-01,1993-05-28,1993-06-01,245 LV,6.7,James Wallwork,R,18%,False,"May 28–June 1, 1993"

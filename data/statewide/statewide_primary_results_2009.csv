@@ -8,7 +8,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2009,New Jersey,NJ,governor,Republican primary results,Candidate,Steve Lonegan,Republican,140946,42.17,False,False
 2009,New Jersey,NJ,governor,Republican primary results,Candidate,Rick Merkt,Republican,9184,2.75,False,False
 2009,New Jersey,NJ,governor,Republican primary results,Total,,,334215,100.0,False,False
-2009,Virginia,VA,governor,Democratic Primary results,Winning,Creigh Deeds,Democratic,158845,49.77,True,False
-2009,Virginia,VA,governor,Democratic Primary results,Candidate,Terry McAuliffe,Democratic,84387,26.44,False,False
-2009,Virginia,VA,governor,Democratic Primary results,Candidate,Brian Moran,Democratic,75936,23.79,False,False
-2009,Virginia,VA,governor,Democratic Primary results,Total,,,319168,100.0,False,False
+2009,Virginia,VA,governor,Democratic primary results,Winning,Creigh Deeds,Democratic,158845,49.77,True,False
+2009,Virginia,VA,governor,Democratic primary results,Candidate,Terry McAuliffe,Democratic,84387,26.44,False,False
+2009,Virginia,VA,governor,Democratic primary results,Candidate,Brian Moran,Democratic,75936,23.79,False,False
+2009,Virginia,VA,governor,Democratic primary results,Total,,,319168,100.0,False,False

@@ -152,9 +152,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1972,Oregon,Democratic primary results,Primary,Candidate,False,Don S. Willner,Democratic Party (United States),"74,060",18.69%
 1972,Oregon,Democratic primary results,Primary,Candidate,False,Ralph Wiser,Democratic Party (United States),"17,729",4.48%
 1972,Oregon,Democratic primary results,Primary,Total,False,,,"396,204",100.00%
-1972,South Carolina,Democratic Primary,Primary,Winning,False,Eugene N. Zeigler,Democratic Party (United States),"201,170",58.66%
-1972,South Carolina,Democratic Primary,Primary,Candidate,False,John Bolt Culbertson,Democratic Party (United States),"141,757",41.34%
-1972,South Carolina,Democratic Primary,Primary,Total,False,,,"342,927",100.00%
+1972,South Carolina,Democratic primary,Primary,Winning,False,Eugene N. Zeigler,Democratic Party (United States),"201,170",58.66%
+1972,South Carolina,Democratic primary,Primary,Candidate,False,John Bolt Culbertson,Democratic Party (United States),"141,757",41.34%
+1972,South Carolina,Democratic primary,Primary,Total,False,,,"342,927",100.00%
 1972,South Dakota,Democratic primary results,Primary,Winning,False,James Abourezk,Democratic Party (United States),"46,931",79.42%
 1972,South Dakota,Democratic primary results,Primary,Candidate,False,George Blue,Democratic Party (United States),"12,163",20.58%
 1972,South Dakota,Democratic primary results,Primary,Total,False,,,"59,094",100.00%

@@ -1,0 +1,3 @@
+Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+2003,Kentucky,KY,governor,General,SurveyUSA,2003-10-30 to 2003-11-01,2003-10-30,2003-11-01,755 (LV),3.6,Ernie Fletcher,R,52%,False,"October 30 – November 1, 2003"
+2003,Kentucky,KY,governor,General,SurveyUSA,2003-10-30 to 2003-11-01,2003-10-30,2003-11-01,755 (LV),3.6,Ben Chandler,D,44%,False,"October 30 – November 1, 2003"

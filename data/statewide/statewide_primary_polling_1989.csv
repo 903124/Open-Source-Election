@@ -1,0 +1,11 @@
+Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+1989,New Jersey,NJ,governor,Republican Primary,Political Media Research Inc.,1989-05-19 to 1989-05-22,1989-05-19,1989-05-22,415,5.0,Gerald Cardinale,R,5%,False,"May 19–22, 1989"
+1989,New Jersey,NJ,governor,Republican Primary,Political Media Research Inc.,1989-05-29 to 1989-05-31,1989-05-29,1989-05-31,±5.0%,4.0,Gerald Cardinale,R,19%,False,"May 29–31, 1989"
+1989,New Jersey,NJ,governor,Republican Primary,Political Media Research Inc.,1989-05-19 to 1989-05-22,1989-05-19,1989-05-22,415,5.0,Jim Courter,R,20%,False,"May 19–22, 1989"
+1989,New Jersey,NJ,governor,Republican Primary,Political Media Research Inc.,1989-05-29 to 1989-05-31,1989-05-29,1989-05-31,±5.0%,4.0,Jim Courter,R,23%,False,"May 29–31, 1989"
+1989,New Jersey,NJ,governor,Republican Primary,Political Media Research Inc.,1989-05-19 to 1989-05-22,1989-05-19,1989-05-22,415,5.0,W. Cary Edwards,R,12%,False,"May 19–22, 1989"
+1989,New Jersey,NJ,governor,Republican Primary,Political Media Research Inc.,1989-05-29 to 1989-05-31,1989-05-29,1989-05-31,±5.0%,4.0,W. Cary Edwards,R,17%,False,"May 29–31, 1989"
+1989,New Jersey,NJ,governor,Republican Primary,Political Media Research Inc.,1989-05-19 to 1989-05-22,1989-05-19,1989-05-22,415,5.0,Bill Gormley,R,17%,False,"May 19–22, 1989"
+1989,New Jersey,NJ,governor,Republican Primary,Political Media Research Inc.,1989-05-29 to 1989-05-31,1989-05-29,1989-05-31,±5.0%,4.0,Bill Gormley,R,21%,False,"May 29–31, 1989"
+1989,New Jersey,NJ,governor,Republican Primary,Political Media Research Inc.,1989-05-19 to 1989-05-22,1989-05-19,1989-05-22,415,5.0,Chuck Hardwick,R,16%,False,"May 19–22, 1989"
+1989,New Jersey,NJ,governor,Republican Primary,Political Media Research Inc.,1989-05-29 to 1989-05-31,1989-05-29,1989-05-31,±5.0%,4.0,Chuck Hardwick,R,16%,False,"May 29–31, 1989"

@@ -56,10 +56,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2006,Colorado,CO,governor,Democratic primary results,Total,,,142586.0,100.0,False,False
 2006,Colorado,CO,governor,Republican primary results,Winning,Bob Beauprez,Republican,193804.0,100.0,True,False
 2006,Colorado,CO,governor,Republican primary results,Total,,,193804.0,100.0,False,False
-2006,Connecticut,CT,governor,"2006 Democratic gubernatorial convention, Connecticut",Winning,Dannel Malloy,Democratic,799.0,50.13,True,False
-2006,Connecticut,CT,governor,"2006 Democratic gubernatorial convention, Connecticut",Candidate,John DeStefano Jr.,Democratic,795.0,49.87,False,False
-2006,Connecticut,CT,governor,"2006 Democratic gubernatorial primary, Connecticut",Winning,John DeStefano Jr.,Democratic,135431.0,50.78,True,False
-2006,Connecticut,CT,governor,"2006 Democratic gubernatorial primary, Connecticut",Candidate,Dannel Malloy,Democratic,131258.0,49.22,False,False
+2006,Connecticut,CT,governor,"May 19, 2006 Democratic convention",Winning,Dannel Malloy,Democratic,799.0,50.13,True,False
+2006,Connecticut,CT,governor,"May 19, 2006 Democratic convention",Candidate,John DeStefano Jr.,Democratic,795.0,49.87,False,False
+2006,Connecticut,CT,governor,"August 8, 2006 Democratic gubernatorial primary",Winning,John DeStefano Jr.,Democratic,135431.0,50.78,True,False
+2006,Connecticut,CT,governor,"August 8, 2006 Democratic gubernatorial primary",Candidate,Dannel Malloy,Democratic,131258.0,49.22,False,False
+2006,Connecticut,CT,governor,"August 8, 2006 Democratic lieutenant gubernatorial primary",Winning,Mary Glassman,Democratic,121943.0,57.0,True,False
+2006,Connecticut,CT,governor,"August 8, 2006 Democratic lieutenant gubernatorial primary",Candidate,Scott Slifka,Democratic,92027.0,43.0,False,False
+2006,Connecticut,CT,governor,"August 8, 2006 Democratic lieutenant gubernatorial primary",Total,,,213970.0,100.0,False,False
 2006,Florida,FL,governor,Democratic primary results,Winning,Jim Davis,Democratic,405879.0,47.32,True,False
 2006,Florida,FL,governor,Democratic primary results,Candidate,Rod Smith,Democratic,353161.0,41.17,False,False
 2006,Florida,FL,governor,Democratic primary results,Candidate,Carol Castagnero,Democratic,45161.0,5.27,False,False

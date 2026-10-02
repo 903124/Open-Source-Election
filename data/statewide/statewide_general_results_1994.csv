@@ -105,6 +105,20 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1994,New Mexico,NM,governor,1994 New Mexico gubernatorial election,Candidate,Bruce King,Democratic,186686,39.92,False,True
 1994,New Mexico,NM,governor,1994 New Mexico gubernatorial election,Candidate,Roberto Mondragón,Green,47990,10.26,False,False
 1994,New Mexico,NM,governor,1994 New Mexico gubernatorial election,Total,,,467621,100.0,False,False
+1994,New York,NY,governor,"New York Gubernatorial Election, 1994",Winning,George Pataki,Total,2538702,48.79,True,False
+1994,New York,NY,governor,"New York Gubernatorial Election, 1994",Candidate,George Pataki,Republican,2156057,41.43,False,False
+1994,New York,NY,governor,"New York Gubernatorial Election, 1994",Candidate,Mario Cuomo,Democratic,2272903,43.68,False,False
+1994,New York,NY,governor,"New York Gubernatorial Election, 1994",Candidate,Tom Golisano,Independence,217490,4.18,False,False
+1994,New York,NY,governor,"New York Gubernatorial Election, 1994",Candidate,Robert T. Walsh,Life,67750,1.3,False,False
+1994,New York,NY,governor,"New York Gubernatorial Election, 1994",Candidate,Robert L. Schulz,Libertarian,9506,0.18,False,False
+1994,New York,NY,governor,"New York Gubernatorial Election, 1994",Candidate,Lawrence Lane,Workers,5410,0.1,False,False
+1994,New York,NY,governor,New York City subtotal,Candidate,George Pataki,Republican,368788,24.39,False,False
+1994,New York,NY,governor,New York City subtotal,Candidate,Mario Cuomo,Democratic,1007747,66.63,False,False
+1994,New York,NY,governor,New York City subtotal,Candidate,Tom Golisano,Independence,16516,1.09,False,False
+1994,New York,NY,governor,New York City subtotal,Candidate,Robert T. Walsh,Life,9943,0.66,False,False
+1994,New York,NY,governor,New York City subtotal,Candidate,Robert L. Schulz,Libertarian,1018,0.07,False,False
+1994,New York,NY,governor,New York City subtotal,Candidate,Lawrence Lane,Workers,1806,0.12,False,False
+1994,New York,NY,governor,New York City subtotal,Total,,,1512353,100.0,False,False
 1994,Ohio,OH,governor,"Ohio gubernatorial election, 1994",Winning,George Voinovich (inc.),Republican,2401572,71.77,True,False
 1994,Ohio,OH,governor,"Ohio gubernatorial election, 1994",Candidate,Rob Burch,Democratic,835849,24.98,False,False
 1994,Ohio,OH,governor,"Ohio gubernatorial election, 1994",Candidate,Billy R. Inmon,Independent,108745,3.25,False,False

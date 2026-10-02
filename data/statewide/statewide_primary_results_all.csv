@@ -2349,21 +2349,28 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1994,New Mexico,NM,governor,"June 7, 1994 Republican primary results",Candidate,David F. Cargo,Republican,12105.0,13.01,False,False
 1994,New Mexico,NM,governor,"June 7, 1994 Republican primary results",Candidate,Keith Russell Judd (write-in),Republican,57.0,0.06,False,False
 1994,New Mexico,NM,governor,"June 7, 1994 Republican primary results",Total,,,93071.0,100.0,False,False
-1994,New York,NY,governor,Democratic Gubernatorial Primary Results,Winning,Mario Cuomo,Democratic,548762.0,79.45,True,True
-1994,New York,NY,governor,Democratic Gubernatorial Primary Results,Candidate,Lenora Fulani,Democratic,141918.0,20.55,False,False
-1994,New York,NY,governor,Democratic Gubernatorial Primary Results,Total,,,690680.0,100.0,False,False
-1994,New York,NY,governor,Republican State Convention Vote,Winning,George Pataki,Republican,,72.4,True,False
-1994,New York,NY,governor,Republican State Convention Vote,Candidate,Herbert London,Republican,,22.1,False,False
-1994,New York,NY,governor,Republican State Convention Vote,Candidate,Evan Galbraith,Republican,,2.8,False,False
-1994,New York,NY,governor,Republican State Convention Vote,Candidate,Bill Green,Republican,,2.6,False,False
-1994,New York,NY,governor,Republican State Convention Vote,Candidate,Scattering,Republican,,0.1,False,False
-1994,New York,NY,governor,Republican State Convention Vote,Total,,,,100.0,False,False
-1994,New York,NY,governor,Republican Gubernatorial Primary Results,Winning,George Pataki,Republican,273620.0,75.6,True,False
-1994,New York,NY,governor,Republican Gubernatorial Primary Results,Candidate,Richard M. Rosenbaum,Republican,88302.0,24.4,False,False
-1994,New York,NY,governor,Republican Gubernatorial Primary Results,Total,,,361922.0,100.0,False,False
-1994,New York,NY,governor,Conservative Gubernatorial Primary Results,Winning,George Pataki,Conservative,17649.0,78.4,True,False
-1994,New York,NY,governor,Conservative Gubernatorial Primary Results,Candidate,"Robert G. Relph, Sr.",Conservative,4862.0,21.6,False,False
-1994,New York,NY,governor,Conservative Gubernatorial Primary Results,Total,,,22511.0,100.0,False,False
+1994,New York,NY,governor,1994 Democratic gubernatorial primary,Winning,Mario Cuomo,Democratic,548762.0,79.45,True,True
+1994,New York,NY,governor,1994 Democratic gubernatorial primary,Candidate,Lenora Fulani,Democratic,141918.0,20.55,False,False
+1994,New York,NY,governor,1994 Democratic gubernatorial primary,Total,,,690680.0,100.0,False,False
+1994,New York,NY,governor,1994 Republican state convention ballot,Winning,George Pataki,Republican,,72.4,True,False
+1994,New York,NY,governor,1994 Republican state convention ballot,Candidate,Herbert London,Republican,,22.1,False,False
+1994,New York,NY,governor,1994 Republican state convention ballot,Candidate,Evan Galbraith,Republican,,2.8,False,False
+1994,New York,NY,governor,1994 Republican state convention ballot,Candidate,Bill Green,Republican,,2.6,False,False
+1994,New York,NY,governor,1994 Republican state convention ballot,Candidate,Scattering,Republican,,0.1,False,False
+1994,New York,NY,governor,1994 Republican state convention ballot,Total,,,,100.0,False,False
+1994,New York,NY,governor,1994 Republican gubernatorial primary,Winning,George Pataki,Republican,273620.0,75.6,True,False
+1994,New York,NY,governor,1994 Republican gubernatorial primary,Candidate,Richard M. Rosenbaum,Republican,88302.0,24.4,False,False
+1994,New York,NY,governor,1994 Republican gubernatorial primary,Total,,,361922.0,100.0,False,False
+1994,New York,NY,governor,1994 Conservative gubernatorial primary,Winning,George Pataki,Conservative,17649.0,78.4,True,False
+1994,New York,NY,governor,1994 Conservative gubernatorial primary,Candidate,Robert G. Relph Sr.,Conservative,4862.0,21.6,False,False
+1994,New York,NY,governor,1994 Conservative gubernatorial primary,Total,,,22511.0,100.0,False,False
+1994,New York,NY,governor,1994 Libertarian state convention ballot,Winning,Howard Stern,Libertarian,287.0,75.33,True,False
+1994,New York,NY,governor,1994 Libertarian state convention ballot,Candidate,James Ostrowski,Libertarian,34.0,8.92,False,False
+1994,New York,NY,governor,1994 Libertarian state convention ballot,Candidate,Norma Segal,Libertarian,24.0,6.3,False,False
+1994,New York,NY,governor,1994 Libertarian state convention ballot,Candidate,Dottie Lou Brokaw,Libertarian,22.0,5.77,False,False
+1994,New York,NY,governor,1994 Libertarian state convention ballot,Candidate,Joseph Brennan,Libertarian,10.0,2.63,False,False
+1994,New York,NY,governor,1994 Libertarian state convention ballot,Candidate,Scattering,Independent (politics),4.0,1.05,False,False
+1994,New York,NY,governor,1994 Libertarian state convention ballot,Total,,,381.0,100.0,False,False
 1994,Ohio,OH,governor,Democratic primary results,Winning,Rob Burch,Democratic,408161.0,58.78,True,False
 1994,Ohio,OH,governor,Democratic primary results,Candidate,Peter Michael Schuller,Democratic,286276.0,41.22,False,False
 1994,Ohio,OH,governor,Democratic primary results,Total,,,694437.0,100.0,False,False
@@ -3498,10 +3505,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2006,Colorado,CO,governor,Democratic primary results,Total,,,142586.0,100.0,False,False
 2006,Colorado,CO,governor,Republican primary results,Winning,Bob Beauprez,Republican,193804.0,100.0,True,False
 2006,Colorado,CO,governor,Republican primary results,Total,,,193804.0,100.0,False,False
-2006,Connecticut,CT,governor,"2006 Democratic gubernatorial convention, Connecticut",Winning,Dannel Malloy,Democratic,799.0,50.13,True,False
-2006,Connecticut,CT,governor,"2006 Democratic gubernatorial convention, Connecticut",Candidate,John DeStefano Jr.,Democratic,795.0,49.87,False,False
-2006,Connecticut,CT,governor,"2006 Democratic gubernatorial primary, Connecticut",Winning,John DeStefano Jr.,Democratic,135431.0,50.78,True,False
-2006,Connecticut,CT,governor,"2006 Democratic gubernatorial primary, Connecticut",Candidate,Dannel Malloy,Democratic,131258.0,49.22,False,False
+2006,Connecticut,CT,governor,"May 19, 2006 Democratic convention",Winning,Dannel Malloy,Democratic,799.0,50.13,True,False
+2006,Connecticut,CT,governor,"May 19, 2006 Democratic convention",Candidate,John DeStefano Jr.,Democratic,795.0,49.87,False,False
+2006,Connecticut,CT,governor,"August 8, 2006 Democratic gubernatorial primary",Winning,John DeStefano Jr.,Democratic,135431.0,50.78,True,False
+2006,Connecticut,CT,governor,"August 8, 2006 Democratic gubernatorial primary",Candidate,Dannel Malloy,Democratic,131258.0,49.22,False,False
+2006,Connecticut,CT,governor,"August 8, 2006 Democratic lieutenant gubernatorial primary",Winning,Mary Glassman,Democratic,121943.0,57.0,True,False
+2006,Connecticut,CT,governor,"August 8, 2006 Democratic lieutenant gubernatorial primary",Candidate,Scott Slifka,Democratic,92027.0,43.0,False,False
+2006,Connecticut,CT,governor,"August 8, 2006 Democratic lieutenant gubernatorial primary",Total,,,213970.0,100.0,False,False
 2006,Florida,FL,governor,Democratic primary results,Winning,Jim Davis,Democratic,405879.0,47.32,True,False
 2006,Florida,FL,governor,Democratic primary results,Candidate,Rod Smith,Democratic,353161.0,41.17,False,False
 2006,Florida,FL,governor,Democratic primary results,Candidate,Carol Castagnero,Democratic,45161.0,5.27,False,False
@@ -3782,10 +3792,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2009,New Jersey,NJ,governor,Republican primary results,Candidate,Steve Lonegan,Republican,140946,42.17,False,False
 2009,New Jersey,NJ,governor,Republican primary results,Candidate,Rick Merkt,Republican,9184,2.75,False,False
 2009,New Jersey,NJ,governor,Republican primary results,Total,,,334215,100.0,False,False
-2009,Virginia,VA,governor,Democratic Primary results,Winning,Creigh Deeds,Democratic,158845,49.77,True,False
-2009,Virginia,VA,governor,Democratic Primary results,Candidate,Terry McAuliffe,Democratic,84387,26.44,False,False
-2009,Virginia,VA,governor,Democratic Primary results,Candidate,Brian Moran,Democratic,75936,23.79,False,False
-2009,Virginia,VA,governor,Democratic Primary results,Total,,,319168,100.0,False,False
+2009,Virginia,VA,governor,Democratic primary results,Winning,Creigh Deeds,Democratic,158845,49.77,True,False
+2009,Virginia,VA,governor,Democratic primary results,Candidate,Terry McAuliffe,Democratic,84387,26.44,False,False
+2009,Virginia,VA,governor,Democratic primary results,Candidate,Brian Moran,Democratic,75936,23.79,False,False
+2009,Virginia,VA,governor,Democratic primary results,Total,,,319168,100.0,False,False
 2010,Alabama,AL,governor,Republican primary results,Winning,Bradley Byrne,Republican,137451.0,27.89,True,False
 2010,Alabama,AL,governor,Republican primary results,Winning,Robert J. Bentley,Republican,123958.0,25.15,True,False
 2010,Alabama,AL,governor,Republican primary results,Candidate,Tim James,Republican,123792.0,25.12,False,False
@@ -3913,13 +3923,6 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Van K. Tanabe,Democratic,1329.0,0.6,False,False
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Miles Shiratori,Democratic,1031.0,0.4,False,False
 2010,Hawaii,HI,governor,Democratic primary results,Total,,,236479.0,100.0,False,False
-2010,Hawaii,HI,governor,Republican primary results,Candidate,Duke Aiona,Republican,42479.0,93.0,False,False
-2010,Hawaii,HI,governor,Republican primary results,Candidate,John S. Carroll,Republican,2075.0,4.5,False,False
-2010,Hawaii,HI,governor,Republican primary results,Total,,,44554.0,100.0,False,False
-2010,Hawaii,HI,governor,Non-partisan primary results,Candidate,Tom Pollard,Independent,265.0,20.3,False,False
-2010,Hawaii,HI,governor,Non-partisan primary results,Candidate,Paul Manner,Independent,188.0,14.4,False,False
-2010,Hawaii,HI,governor,Non-partisan primary results,Candidate,Tony Clapes,Independent,95.0,7.3,False,False
-2010,Hawaii,HI,governor,Non-partisan primary results,Total,,,548.0,100.0,False,False
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Brian Schatz,Democratic,83431.0,34.8,False,False
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Robert Bunda,Democratic,45973.0,19.2,False,False
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Norman Sakamoto,Democratic,44462.0,18.5,False,False
@@ -3927,8 +3930,15 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Lyla Berg,Democratic,20161.0,8.4,False,False
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Jon Riki Karamatsu,Democratic,6746.0,2.8,False,False
 2010,Hawaii,HI,governor,Democratic primary results,Candidate,Steve Hirakami,Democratic,2695.0,1.1,False,False
+2010,Hawaii,HI,governor,Republican primary results,Candidate,Duke Aiona,Republican,42479.0,93.0,False,False
+2010,Hawaii,HI,governor,Republican primary results,Candidate,John S. Carroll,Republican,2075.0,4.5,False,False
+2010,Hawaii,HI,governor,Republican primary results,Total,,,44554.0,100.0,False,False
 2010,Hawaii,HI,governor,Republican primary results,Candidate,Lynn Finnegan,Republican,27052.0,59.2,False,False
 2010,Hawaii,HI,governor,Republican primary results,Candidate,Adrienne King,Republican,12300.0,26.9,False,False
+2010,Hawaii,HI,governor,Non-partisan primary results,Candidate,Tom Pollard,Independent,265.0,20.3,False,False
+2010,Hawaii,HI,governor,Non-partisan primary results,Candidate,Paul Manner,Independent,188.0,14.4,False,False
+2010,Hawaii,HI,governor,Non-partisan primary results,Candidate,Tony Clapes,Independent,95.0,7.3,False,False
+2010,Hawaii,HI,governor,Non-partisan primary results,Total,,,548.0,100.0,False,False
 2010,Idaho,ID,governor,Republican primary results,Candidate,Butch Otter,Republican,89117.0,54.6,False,True
 2010,Idaho,ID,governor,Republican primary results,Candidate,Rex Rammell,Republican,42436.0,26.0,False,False
 2010,Idaho,ID,governor,Republican primary results,Candidate,Sharon Ullman,Republican,13749.0,8.4,False,False
@@ -5431,8 +5441,8 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2018,Tennessee,TN,governor,Republican primary results,Candidate,Basil Marceaux,Republican,1264,0.16,False,False
 2018,Tennessee,TN,governor,Republican primary results,Total,,,792888,100.0,False,False
 2018,Tennessee,TN,governor,Democratic primary results,Winning,Karl Dean,Democratic,280553,75.14,True,False
-2018,Tennessee,TN,governor,Democratic primary results,Candidate,Craig Fitzhugh,Democratic,72553,23.42,False,False
-2018,Tennessee,TN,governor,Democratic primary results,Candidate,Mezianne Vale Payne,Democratic,20284,5.44,False,False
+2018,Tennessee,TN,governor,Democratic primary results,Candidate,Craig Fitzhugh,Democratic,72553,19.43,False,False
+2018,Tennessee,TN,governor,Democratic primary results,Candidate,Mezianne Vale Payne,Democratic,20284,5.43,False,False
 2018,Tennessee,TN,governor,Democratic primary results,Total,,,373390,100.0,False,False
 2018,Texas,TX,attorney general,Republican primary results,Winning,Ken Paxton,Republican,1312172,100.0,True,True
 2018,Texas,TX,attorney general,Republican primary results,Total,,,1312172,100.0,False,False
