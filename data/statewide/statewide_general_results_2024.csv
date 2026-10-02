@@ -83,13 +83,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2024,Oregon,OR,state treasurer,2024 Oregon State Treasurer election,Candidate,Mary King,Families,155473,7.31,False,False
 2024,Oregon,OR,state treasurer,2024 Oregon State Treasurer election,Write-in,,,1882,0.09,False,False
 2024,Oregon,OR,state treasurer,2024 Oregon State Treasurer election,Total,,,2127268,100.0,False,False
-2024,Pennsylvania,PA,attorney general,2024 Pennsylvania Attorney General election,Winning,Dave Sunday,Republican,3496679,50.81,True,False
-2024,Pennsylvania,PA,attorney general,2024 Pennsylvania Attorney General election,Candidate,Eugene DePasquale,Democratic,3179376,46.2,False,False
-2024,Pennsylvania,PA,attorney general,2024 Pennsylvania Attorney General election,Candidate,Rob Cowburn,Libertarian,88835,1.29,False,False
-2024,Pennsylvania,PA,attorney general,2024 Pennsylvania Attorney General election,Candidate,Richard Weiss,Green,68046,0.99,False,False
-2024,Pennsylvania,PA,attorney general,2024 Pennsylvania Attorney General election,Candidate,Justin Magill,Constitution,31282,0.45,False,False
-2024,Pennsylvania,PA,attorney general,2024 Pennsylvania Attorney General election,Candidate,Eric Settle,Forward,18151,0.26,False,False
-2024,Pennsylvania,PA,attorney general,2024 Pennsylvania Attorney General election,Total,,,6882369,100.0,False,False
+2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Winning,Dave Sunday,Republican,3496679,50.81,True,False
+2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Candidate,Eugene DePasquale,Democratic,3179376,46.2,False,False
+2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Candidate,Rob Cowburn,Libertarian,88835,1.29,False,False
+2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Candidate,Richard Weiss,Green,68046,0.99,False,False
+2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Candidate,Justin Magill,Constitution,31282,0.45,False,False
+2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Candidate,Eric Settle,Forward,18151,0.26,False,False
+2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Total,,,6882369,100.0,False,False
 2024,Pennsylvania,PA,state treasurer,2024 Pennsylvania State Treasurer election,Winning,Stacy Garrity,Republican,3542336,51.91,True,True
 2024,Pennsylvania,PA,state treasurer,2024 Pennsylvania State Treasurer election,Candidate,Erin McClelland,Democratic,3115393,45.65,False,False
 2024,Pennsylvania,PA,state treasurer,2024 Pennsylvania State Treasurer election,Candidate,Nick Ciesielski,Libertarian,99228,1.45,False,False

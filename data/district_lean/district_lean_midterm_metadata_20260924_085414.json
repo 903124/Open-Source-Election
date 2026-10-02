@@ -1,0 +1,2536 @@
+{
+  "method": {
+    "lean": "fixed-weight blend of the district's own House general result (0.20), the state's midterm statewide ballot (0.20: governor / attorney general / secretary of state / state treasurer, plus state-leg chamber totals over contested state-leg districts) and its pooled U.S. Senate races (0.20) \u2014 the unified lean scheme minus the presidential component \u2014 each as Democratic two-party share minus the same race's national share; weights renormalised over the sources present (\u2248 1/3 each when all three are up, 50/50 house + statewide when no Senate race is on the ballot) \u2014 districts without a usable House race fall back to the statewide blend (statewide_baseline)",
+    "components": {
+      "house": "the district's own U.S. House general result from data/house/house_results_{year}.csv; winner votes missing in the article are reconstructed from percentage x district turnout; one-sided races dropped as uninformative",
+      "senate": "U.S. Senate general races (regular + special) from data/senate/senate_general_results_{year}.csv",
+      "statewide": "governor / attorney general / secretary of state / state treasurer races from data/statewide/statewide_general_results_{year}.csv",
+      "state-leg": "state senate + state house votes aggregated to statewide chamber totals from data/state_senate/ and data/state_house/ (state-leg districts cannot be mapped to congressional districts, so they enter only as chamber sums); walkover state-leg districts (a major party polled no votes) are dropped before the aggregation"
+    },
+    "components_used": [
+      "senate",
+      "statewide",
+      "state-leg",
+      "house"
+    ],
+    "two_party": "party lines summed as reported: fusion lines (Working Families, Conservative, Independence, ...) count on their own line party and land in other_votes, excluded from the two-party baseline; Total rows excluded; write-ins = other",
+    "race_exclusion": "races where a major party polled zero votes (top-two / top-four matchups such as CA 2016 or AK 2022 senate) are dropped as uninformative before blending",
+    "national_baseline": "each component's national baseline is that component summed over all district-map states with data; territories (PR, GU, MP, ...) excluded",
+    "map_vintage_for_year": {
+      "2006": "2000s",
+      "2010": "2000s",
+      "2014": "2010s",
+      "2018": "2010s",
+      "2022": "2020s"
+    },
+    "caveats": [
+      "the statewide components (senate / statewide executive / state-leg) carry no district detail, so districts without a usable House race share the state's blended baseline",
+      "the statewide blend follows each state's actual ballot (not every state has a senate race up; AG appears from 2018, SoS/treasurer from 2022), so national baselines are not directly comparable across years",
+      "state-leg chamber totals cover the states whose legislative races the source parses (11-24 states before 2016, 39-41 from 2020) and count contested districts only",
+      "the 2020s crosswalk snapshot includes the 2024 AL/GA/LA/NY/NC court redraws, while the 2022 midterms voted on the pre-redraw lines",
+      "DC has no senate race and no statewide-executive rows in the source tables, so DC-AL leans on its House delegate race alone where one is parsed"
+    ]
+  },
+  "years": {
+    "2006": {
+      "vintage": "2000s",
+      "rows": 436,
+      "house_districts": 372,
+      "national": {
+        "d_votes": 50701661,
+        "r_votes": 45150340,
+        "d_share_two_party_pct": 52.9
+      },
+      "states_present": 40,
+      "states_without_data": [
+        "DC",
+        "IN",
+        "LA",
+        "SC"
+      ],
+      "house": {
+        "districts": 372,
+        "votes_fixed": 10,
+        "national_d_share": 61.4,
+        "excluded_races": [
+          {
+            "state": "AL",
+            "district": "AL-05",
+            "d_votes": 143081,
+            "r_votes": 0
+          },
+          {
+            "state": "AL",
+            "district": "AL-06",
+            "d_votes": 0,
+            "r_votes": 163473
+          },
+          {
+            "state": "AL",
+            "district": "AL-07",
+            "d_votes": 133812,
+            "r_votes": 0
+          },
+          {
+            "state": "AZ",
+            "district": "AZ-06",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-20",
+            "d_votes": 61120,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-31",
+            "d_votes": 64952,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-32",
+            "d_votes": 76059,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-33",
+            "d_votes": 113715,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-35",
+            "d_votes": 82498,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-37",
+            "d_votes": 80716,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-42",
+            "d_votes": 0,
+            "r_votes": 129720
+          },
+          {
+            "state": "CA",
+            "district": "CA-07",
+            "d_votes": 118000,
+            "r_votes": 0
+          },
+          {
+            "state": "CO",
+            "district": "CO-01",
+            "d_votes": 129446,
+            "r_votes": 0
+          },
+          {
+            "state": "DC",
+            "district": "DC-AL",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-12",
+            "d_votes": 0,
+            "r_votes": 124452
+          },
+          {
+            "state": "FL",
+            "district": "FL-17",
+            "d_votes": 90663,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-19",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-02",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-20",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-23",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-03",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "GA",
+            "district": "GA-05",
+            "d_votes": 122380,
+            "r_votes": 0
+          },
+          {
+            "state": "IL",
+            "district": "IL-12",
+            "d_votes": 157284,
+            "r_votes": 0
+          },
+          {
+            "state": "KY",
+            "district": "KY-06",
+            "d_votes": 158765,
+            "r_votes": 0
+          },
+          {
+            "state": "LA",
+            "district": "LA-06",
+            "d_votes": 0,
+            "r_votes": 94645
+          },
+          {
+            "state": "MA",
+            "district": "MA-01",
+            "d_votes": 158057,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-02",
+            "d_votes": 164939,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-03",
+            "d_votes": 166973,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-04",
+            "d_votes": 176513,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-05",
+            "d_votes": 159120,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-07",
+            "d_votes": 171902,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-08",
+            "d_votes": 125515,
+            "r_votes": 0
+          },
+          {
+            "state": "MD",
+            "district": "MD-05",
+            "d_votes": 168148,
+            "r_votes": 0
+          },
+          {
+            "state": "MD",
+            "district": "MD-07",
+            "d_votes": 158899,
+            "r_votes": 0
+          },
+          {
+            "state": "MI",
+            "district": "MI-13",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "MI",
+            "district": "MI-15",
+            "d_votes": 179401,
+            "r_votes": 0
+          },
+          {
+            "state": "MN",
+            "district": "MN-01",
+            "d_votes": 0,
+            "r_votes": 126486
+          },
+          {
+            "state": "MN",
+            "district": "MN-02",
+            "d_votes": 0,
+            "r_votes": 163269
+          },
+          {
+            "state": "MN",
+            "district": "MN-03",
+            "d_votes": 0,
+            "r_votes": 184333
+          },
+          {
+            "state": "MN",
+            "district": "MN-04",
+            "d_votes": 0,
+            "r_votes": 74797
+          },
+          {
+            "state": "MN",
+            "district": "MN-05",
+            "d_votes": 0,
+            "r_votes": 52263
+          },
+          {
+            "state": "MN",
+            "district": "MN-06",
+            "d_votes": 0,
+            "r_votes": 151248
+          },
+          {
+            "state": "MN",
+            "district": "MN-07",
+            "d_votes": 0,
+            "r_votes": 74586
+          },
+          {
+            "state": "MN",
+            "district": "MN-08",
+            "d_votes": 0,
+            "r_votes": 97683
+          },
+          {
+            "state": "MS",
+            "district": "MS-03",
+            "d_votes": 0,
+            "r_votes": 125421
+          },
+          {
+            "state": "NC",
+            "district": "NC-01",
+            "d_votes": 82510,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "district": "NJ-01",
+            "d_votes": 140110,
+            "r_votes": 0
+          },
+          {
+            "state": "NJ",
+            "district": "NJ-10",
+            "d_votes": 90264,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-22",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-05",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-06",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-09",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-01",
+            "d_votes": 137987,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-14",
+            "d_votes": 161094,
+            "r_votes": 0
+          },
+          {
+            "state": "RI",
+            "district": "RI-02",
+            "d_votes": 140343,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-11",
+            "d_votes": 0,
+            "r_votes": 107268
+          },
+          {
+            "state": "TX",
+            "district": "TX-16",
+            "d_votes": 61116,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-20",
+            "d_votes": 68386,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-28",
+            "d_votes": 68372,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-09",
+            "d_votes": 60253,
+            "r_votes": 0
+          },
+          {
+            "state": "VA",
+            "district": "VA-03",
+            "d_votes": 133712,
+            "r_votes": 0
+          },
+          {
+            "state": "VA",
+            "district": "VA-04",
+            "d_votes": 0,
+            "r_votes": 150967
+          },
+          {
+            "state": "VA",
+            "district": "VA-06",
+            "d_votes": 0,
+            "r_votes": 153187
+          },
+          {
+            "state": "WI",
+            "district": "WI-06",
+            "d_votes": 0,
+            "r_votes": 203557
+          }
+        ]
+      },
+      "senate": {
+        "states": 31,
+        "national_d_share": 57.12
+      },
+      "statewide": {
+        "states": 40,
+        "national_d_share": 52.9,
+        "stateleg_walkover_districts": 418
+      },
+      "excluded_races": [
+        {
+          "state": "CT",
+          "office": "senate",
+          "d_votes": 1509,
+          "r_votes": 0
+        },
+        {
+          "state": "IN",
+          "office": "senate",
+          "d_votes": 0,
+          "r_votes": 1171553
+        },
+        {
+          "state": "TX",
+          "office": "senate",
+          "d_votes": 207252,
+          "r_votes": 0
+        },
+        {
+          "state": "VT",
+          "office": "senate",
+          "d_votes": 0,
+          "r_votes": 84924
+        }
+      ],
+      "unknown_states": null,
+      "missing_files": null,
+      "state_race_counts": {
+        "MN": 2,
+        "FL": 2,
+        "ME": 2,
+        "IA": 77,
+        "AZ": 49,
+        "CA": 91,
+        "KY": 9,
+        "NM": 30,
+        "IL": 1,
+        "NV": 2,
+        "RI": 2,
+        "CT": 2,
+        "HI": 2,
+        "TN": 46,
+        "DE": 30,
+        "OK": 16,
+        "OR": 1,
+        "KS": 1,
+        "WV": 13,
+        "ND": 1,
+        "MA": 2,
+        "UT": 1,
+        "NC": 84,
+        "AR": 1,
+        "WA": 5,
+        "VT": 1,
+        "TX": 9,
+        "MS": 1,
+        "MD": 85,
+        "AL": 24,
+        "OH": 2,
+        "MT": 1,
+        "VA": 1,
+        "WI": 2,
+        "MI": 144,
+        "CO": 1,
+        "NH": 1,
+        "PA": 2,
+        "GA": 1,
+        "NE": 2,
+        "NY": 145,
+        "MO": 1,
+        "WY": 2,
+        "ID": 1,
+        "SD": 1,
+        "AK": 1,
+        "NJ": 1
+      },
+      "state_offices": {
+        "MN": "senate; governor",
+        "FL": "senate; governor",
+        "ME": "senate; governor",
+        "IA": "governor; state senate; state house",
+        "AZ": "senate; governor; state senate; state house",
+        "CA": "senate; governor; state senate; state house",
+        "KY": "state senate",
+        "NM": "senate; governor; state house",
+        "IL": "governor",
+        "NV": "senate; governor",
+        "RI": "senate; governor",
+        "CT": "senate; governor",
+        "HI": "senate; governor",
+        "TN": "senate; governor; state house",
+        "DE": "senate; state senate; state house",
+        "OK": "governor; state senate",
+        "OR": "governor",
+        "KS": "governor",
+        "WV": "senate; state senate",
+        "ND": "senate",
+        "MA": "senate; governor",
+        "UT": "senate",
+        "NC": "state senate; state house",
+        "AR": "governor",
+        "WA": "senate; state house",
+        "VT": "governor",
+        "TX": "senate; governor; state senate",
+        "MS": "senate",
+        "MD": "senate; governor; state senate; state house",
+        "AL": "governor; state senate",
+        "OH": "senate; governor",
+        "MT": "senate",
+        "VA": "senate",
+        "WI": "senate; governor",
+        "MI": "senate; governor; state senate; state house",
+        "CO": "governor",
+        "NH": "governor",
+        "PA": "senate; governor",
+        "GA": "governor",
+        "NE": "senate; governor",
+        "NY": "senate; state senate; state house",
+        "MO": "senate",
+        "WY": "senate; governor",
+        "ID": "governor",
+        "SD": "governor",
+        "AK": "governor",
+        "NJ": "senate"
+      }
+    },
+    "2010": {
+      "vintage": "2000s",
+      "rows": 436,
+      "house_districts": 398,
+      "national": {
+        "d_votes": 51936670,
+        "r_votes": 53492105,
+        "d_share_two_party_pct": 49.26
+      },
+      "states_present": 42,
+      "states_without_data": [
+        "DC",
+        "MS",
+        "MT",
+        "NJ",
+        "VA"
+      ],
+      "house": {
+        "districts": 398,
+        "votes_fixed": 42,
+        "national_d_share": 47.88,
+        "excluded_races": [
+          {
+            "state": "AL",
+            "district": "AL-01",
+            "d_votes": 0,
+            "r_votes": 129713
+          },
+          {
+            "state": "AL",
+            "district": "AL-04",
+            "d_votes": 0,
+            "r_votes": 167684
+          },
+          {
+            "state": "AL",
+            "district": "AL-06",
+            "d_votes": 0,
+            "r_votes": 205386
+          },
+          {
+            "state": "CA",
+            "district": "CA-21",
+            "d_votes": 0,
+            "r_votes": 135979
+          },
+          {
+            "state": "CA",
+            "district": "CA-22",
+            "d_votes": 0,
+            "r_votes": 173490
+          },
+          {
+            "state": "FL",
+            "district": "FL-01",
+            "d_votes": 0,
+            "r_votes": 168899
+          },
+          {
+            "state": "FL",
+            "district": "FL-17",
+            "d_votes": 106361,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-21",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-04",
+            "d_votes": 0,
+            "r_votes": 175162
+          },
+          {
+            "state": "FL",
+            "district": "FL-06",
+            "d_votes": 0,
+            "r_votes": 178779
+          },
+          {
+            "state": "GA",
+            "district": "GA-11",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "GA",
+            "district": "GA-06",
+            "d_votes": 0,
+            "r_votes": 198100
+          },
+          {
+            "state": "GA",
+            "district": "GA-09",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "LA",
+            "district": "LA-05",
+            "d_votes": 0,
+            "r_votes": 122033
+          },
+          {
+            "state": "LA",
+            "district": "LA-07",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-08",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "MN",
+            "district": "MN-01",
+            "d_votes": 0,
+            "r_votes": 109242
+          },
+          {
+            "state": "MN",
+            "district": "MN-02",
+            "d_votes": 0,
+            "r_votes": 181341
+          },
+          {
+            "state": "MN",
+            "district": "MN-03",
+            "d_votes": 0,
+            "r_votes": 161177
+          },
+          {
+            "state": "MN",
+            "district": "MN-04",
+            "d_votes": 0,
+            "r_votes": 80141
+          },
+          {
+            "state": "MN",
+            "district": "MN-05",
+            "d_votes": 0,
+            "r_votes": 55128
+          },
+          {
+            "state": "MN",
+            "district": "MN-06",
+            "d_votes": 0,
+            "r_votes": 159476
+          },
+          {
+            "state": "MN",
+            "district": "MN-07",
+            "d_votes": 0,
+            "r_votes": 90652
+          },
+          {
+            "state": "MN",
+            "district": "MN-08",
+            "d_votes": 0,
+            "r_votes": 133490
+          },
+          {
+            "state": "MO",
+            "district": "MO-09",
+            "d_votes": 0,
+            "r_votes": 162724
+          },
+          {
+            "state": "NC",
+            "district": "NC-04",
+            "d_votes": 155384,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-12",
+            "d_votes": 81461,
+            "r_votes": 0
+          },
+          {
+            "state": "OK",
+            "district": "OK-01",
+            "d_votes": 0,
+            "r_votes": 151173
+          },
+          {
+            "state": "OK",
+            "district": "OK-04",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-01",
+            "d_votes": 149944,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-01",
+            "d_votes": 0,
+            "r_votes": 129398
+          },
+          {
+            "state": "TX",
+            "district": "TX-13",
+            "d_votes": 0,
+            "r_votes": 113201
+          },
+          {
+            "state": "TX",
+            "district": "TX-02",
+            "d_votes": 0,
+            "r_votes": 130020
+          },
+          {
+            "state": "TX",
+            "district": "TX-24",
+            "d_votes": 0,
+            "r_votes": 100078
+          },
+          {
+            "state": "TX",
+            "district": "TX-31",
+            "d_votes": 0,
+            "r_votes": 126290
+          },
+          {
+            "state": "TX",
+            "district": "TX-07",
+            "d_votes": 0,
+            "r_votes": 143655
+          },
+          {
+            "state": "VA",
+            "district": "VA-06",
+            "d_votes": 0,
+            "r_votes": 127487
+          },
+          {
+            "state": "WA",
+            "district": "WA-07",
+            "d_votes": 232649,
+            "r_votes": 0
+          }
+        ]
+      },
+      "senate": {
+        "states": 35,
+        "national_d_share": 47.97
+      },
+      "statewide": {
+        "states": 42,
+        "national_d_share": 49.26,
+        "stateleg_walkover_districts": 313
+      },
+      "excluded_races": [
+        {
+          "state": "CT",
+          "office": "senate",
+          "d_votes": 0,
+          "r_votes": 1420
+        },
+        {
+          "state": "SD",
+          "office": "senate",
+          "d_votes": 0,
+          "r_votes": 227947
+        },
+        {
+          "state": "UT",
+          "office": "senate",
+          "d_votes": 100,
+          "r_votes": 0
+        }
+      ],
+      "unknown_states": null,
+      "missing_files": null,
+      "state_race_counts": {
+        "MN": 1,
+        "FL": 2,
+        "IA": 87,
+        "ME": 1,
+        "AZ": 46,
+        "SC": 2,
+        "CA": 95,
+        "KY": 17,
+        "NM": 34,
+        "IL": 1,
+        "NV": 2,
+        "RI": 1,
+        "CT": 2,
+        "HI": 16,
+        "TN": 1,
+        "DE": 35,
+        "OK": 2,
+        "OR": 2,
+        "KS": 2,
+        "WV": 12,
+        "ND": 1,
+        "MA": 1,
+        "UT": 2,
+        "NC": 115,
+        "AR": 2,
+        "WA": 39,
+        "VT": 2,
+        "LA": 1,
+        "TX": 1,
+        "MD": 85,
+        "AL": 65,
+        "OH": 2,
+        "IN": 1,
+        "WI": 8,
+        "MI": 146,
+        "CO": 2,
+        "NH": 2,
+        "PA": 2,
+        "GA": 2,
+        "NY": 55,
+        "NE": 1,
+        "MO": 10,
+        "WY": 1,
+        "ID": 2,
+        "SD": 1,
+        "AK": 2
+      },
+      "state_offices": {
+        "MN": "governor",
+        "FL": "senate; governor",
+        "IA": "senate; governor; state senate; state house",
+        "ME": "governor",
+        "AZ": "senate; governor; state senate; state house",
+        "SC": "senate; governor",
+        "CA": "senate; governor; state senate; state house",
+        "KY": "senate; state senate",
+        "NM": "governor; state house",
+        "IL": "governor",
+        "NV": "senate; governor",
+        "RI": "governor",
+        "CT": "senate; governor",
+        "HI": "senate; governor; state senate",
+        "TN": "governor",
+        "DE": "senate; state senate; state house",
+        "OK": "senate; governor",
+        "OR": "senate; governor",
+        "KS": "senate; governor",
+        "WV": "senate; state senate",
+        "ND": "senate",
+        "MA": "senate",
+        "UT": "senate; governor",
+        "NC": "senate; state senate; state house",
+        "AR": "senate; governor",
+        "WA": "senate; state house",
+        "VT": "senate; governor",
+        "LA": "senate",
+        "TX": "governor",
+        "MD": "senate; governor; state senate; state house",
+        "AL": "senate; governor; state senate; state house",
+        "OH": "senate; governor",
+        "IN": "senate",
+        "WI": "senate; governor; state senate",
+        "MI": "governor; state senate; state house",
+        "CO": "senate; governor",
+        "NH": "senate; governor",
+        "PA": "senate; governor",
+        "GA": "senate; governor",
+        "NY": "senate; state senate",
+        "NE": "governor",
+        "MO": "senate; state senate",
+        "WY": "governor",
+        "ID": "senate; governor",
+        "SD": "governor",
+        "AK": "senate; governor"
+      }
+    },
+    "2014": {
+      "vintage": "2010s",
+      "rows": 436,
+      "house_districts": 350,
+      "national": {
+        "d_votes": 42874478,
+        "r_votes": 45665501,
+        "d_share_two_party_pct": 48.42
+      },
+      "states_present": 43,
+      "states_without_data": [
+        "DC",
+        "IN",
+        "MO",
+        "ND"
+      ],
+      "house": {
+        "districts": 350,
+        "votes_fixed": 10,
+        "national_d_share": 46.52,
+        "excluded_races": [
+          {
+            "state": "AL",
+            "district": "AL-04",
+            "d_votes": 0,
+            "r_votes": 132831
+          },
+          {
+            "state": "AL",
+            "district": "AL-05",
+            "d_votes": 0,
+            "r_votes": 115338
+          },
+          {
+            "state": "AL",
+            "district": "AL-07",
+            "d_votes": 133687,
+            "r_votes": 0
+          },
+          {
+            "state": "AR",
+            "district": "AR-03",
+            "d_votes": 0,
+            "r_votes": 151630
+          },
+          {
+            "state": "AZ",
+            "district": "AZ-07",
+            "d_votes": 54235,
+            "r_votes": 0
+          },
+          {
+            "state": "AZ",
+            "district": "AZ-08",
+            "d_votes": 0,
+            "r_votes": 128710
+          },
+          {
+            "state": "CA",
+            "district": "CA-17",
+            "d_votes": 134408,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-19",
+            "d_votes": 127788,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-20",
+            "d_votes": 106034,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-25",
+            "d_votes": 0,
+            "r_votes": 114072
+          },
+          {
+            "state": "CA",
+            "district": "CA-28",
+            "d_votes": 91996,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-34",
+            "d_votes": 61643,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-35",
+            "d_votes": 62255,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-04",
+            "d_votes": 0,
+            "r_votes": 211134
+          },
+          {
+            "state": "CA",
+            "district": "CA-40",
+            "d_votes": 49379,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-43",
+            "d_votes": 69681,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-44",
+            "d_votes": 59670,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-05",
+            "d_votes": 129613,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-12",
+            "d_votes": 0,
+            "r_votes": 10000000
+          },
+          {
+            "state": "FL",
+            "district": "FL-13",
+            "d_votes": 0,
+            "r_votes": 168172
+          },
+          {
+            "state": "FL",
+            "district": "FL-14",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-21",
+            "d_votes": 153395,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-25",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-27",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-04",
+            "d_votes": 0,
+            "r_votes": 177877
+          },
+          {
+            "state": "GA",
+            "district": "GA-11",
+            "d_votes": 0,
+            "r_votes": 161532
+          },
+          {
+            "state": "GA",
+            "district": "GA-13",
+            "d_votes": 159445,
+            "r_votes": 0
+          },
+          {
+            "state": "GA",
+            "district": "GA-14",
+            "d_votes": 0,
+            "r_votes": 118782
+          },
+          {
+            "state": "GA",
+            "district": "GA-03",
+            "d_votes": 0,
+            "r_votes": 156277
+          },
+          {
+            "state": "GA",
+            "district": "GA-04",
+            "d_votes": 161211,
+            "r_votes": 0
+          },
+          {
+            "state": "GA",
+            "district": "GA-05",
+            "d_votes": 170326,
+            "r_votes": 0
+          },
+          {
+            "state": "GA",
+            "district": "GA-08",
+            "d_votes": 0,
+            "r_votes": 129938
+          },
+          {
+            "state": "LA",
+            "district": "LA-02",
+            "d_votes": 190006,
+            "r_votes": 0
+          },
+          {
+            "state": "LA",
+            "district": "LA-03",
+            "d_votes": 0,
+            "r_votes": 207926
+          },
+          {
+            "state": "LA",
+            "district": "LA-04",
+            "d_votes": 0,
+            "r_votes": 152683
+          },
+          {
+            "state": "MA",
+            "district": "MA-01",
+            "d_votes": 171110,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-02",
+            "d_votes": 169640,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-04",
+            "d_votes": 188098,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-05",
+            "d_votes": 182100,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-07",
+            "d_votes": 142133,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-08",
+            "d_votes": 200644,
+            "r_votes": 0
+          },
+          {
+            "state": "MN",
+            "district": "MN-01",
+            "d_votes": 0,
+            "r_votes": 103536
+          },
+          {
+            "state": "MN",
+            "district": "MN-02",
+            "d_votes": 0,
+            "r_votes": 137778
+          },
+          {
+            "state": "MN",
+            "district": "MN-03",
+            "d_votes": 0,
+            "r_votes": 167515
+          },
+          {
+            "state": "MN",
+            "district": "MN-04",
+            "d_votes": 0,
+            "r_votes": 79492
+          },
+          {
+            "state": "MN",
+            "district": "MN-05",
+            "d_votes": 0,
+            "r_votes": 56577
+          },
+          {
+            "state": "MN",
+            "district": "MN-06",
+            "d_votes": 0,
+            "r_votes": 133328
+          },
+          {
+            "state": "MN",
+            "district": "MN-07",
+            "d_votes": 0,
+            "r_votes": 109955
+          },
+          {
+            "state": "MN",
+            "district": "MN-08",
+            "d_votes": 0,
+            "r_votes": 125358
+          },
+          {
+            "state": "MS",
+            "district": "MS-02",
+            "d_votes": 100688,
+            "r_votes": 0
+          },
+          {
+            "state": "NC",
+            "district": "NC-09",
+            "d_votes": 0,
+            "r_votes": 163080
+          },
+          {
+            "state": "NY",
+            "district": "NY-10",
+            "d_votes": 89080,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-13",
+            "d_votes": 68270,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-14",
+            "d_votes": 50237,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-15",
+            "d_votes": 54882,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-16",
+            "d_votes": 99658,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-22",
+            "d_votes": 0,
+            "r_votes": 129851
+          },
+          {
+            "state": "NY",
+            "district": "NY-05",
+            "d_votes": 75523,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-06",
+            "d_votes": 55368,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-08",
+            "d_votes": 77255,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-09",
+            "d_votes": 82659,
+            "r_votes": 0
+          },
+          {
+            "state": "OH",
+            "district": "OH-07",
+            "d_votes": 0,
+            "r_votes": 143959
+          },
+          {
+            "state": "OK",
+            "district": "OK-01",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-14",
+            "d_votes": 148351,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-15",
+            "d_votes": 0,
+            "r_votes": 128285
+          },
+          {
+            "state": "PA",
+            "district": "PA-18",
+            "d_votes": 0,
+            "r_votes": 166076
+          },
+          {
+            "state": "SC",
+            "district": "SC-01",
+            "d_votes": 0,
+            "r_votes": 127815
+          },
+          {
+            "state": "SC",
+            "district": "SC-04",
+            "d_votes": 0,
+            "r_votes": 126452
+          },
+          {
+            "state": "TN",
+            "district": "TN-01",
+            "d_votes": 0,
+            "r_votes": 115533
+          },
+          {
+            "state": "TX",
+            "district": "TX-11",
+            "d_votes": 0,
+            "r_votes": 107939
+          },
+          {
+            "state": "TX",
+            "district": "TX-20",
+            "d_votes": 66589,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-21",
+            "d_votes": 0,
+            "r_votes": 135699
+          },
+          {
+            "state": "TX",
+            "district": "TX-26",
+            "d_votes": 0,
+            "r_votes": 116996
+          },
+          {
+            "state": "TX",
+            "district": "TX-28",
+            "d_votes": 62508,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-29",
+            "d_votes": 41321,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-03",
+            "d_votes": 0,
+            "r_votes": 113404
+          },
+          {
+            "state": "TX",
+            "district": "TX-30",
+            "d_votes": 93041,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-33",
+            "d_votes": 43769,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-04",
+            "d_votes": 0,
+            "r_votes": 115085
+          },
+          {
+            "state": "TX",
+            "district": "TX-05",
+            "d_votes": 0,
+            "r_votes": 88998
+          },
+          {
+            "state": "TX",
+            "district": "TX-08",
+            "d_votes": 0,
+            "r_votes": 125066
+          },
+          {
+            "state": "TX",
+            "district": "TX-09",
+            "d_votes": 78109,
+            "r_votes": 0
+          },
+          {
+            "state": "VA",
+            "district": "VA-03",
+            "d_votes": 139197,
+            "r_votes": 0
+          },
+          {
+            "state": "VA",
+            "district": "VA-06",
+            "d_votes": 0,
+            "r_votes": 133898
+          },
+          {
+            "state": "VA",
+            "district": "VA-09",
+            "d_votes": 0,
+            "r_votes": 117465
+          },
+          {
+            "state": "WA",
+            "district": "WA-04",
+            "d_votes": 0,
+            "r_votes": 153079
+          }
+        ]
+      },
+      "senate": {
+        "states": 32,
+        "national_d_share": 47.33
+      },
+      "statewide": {
+        "states": 43,
+        "national_d_share": 48.42,
+        "stateleg_walkover_districts": 473
+      },
+      "excluded_races": [
+        {
+          "state": "AL",
+          "office": "senate",
+          "d_votes": 0,
+          "r_votes": 795606
+        },
+        {
+          "state": "KS",
+          "office": "senate",
+          "d_votes": 0,
+          "r_votes": 460350
+        },
+        {
+          "state": "MT",
+          "office": "senate",
+          "d_votes": 128,
+          "r_votes": 0
+        },
+        {
+          "state": "AK",
+          "office": "governor",
+          "d_votes": 0,
+          "r_votes": 128435
+        }
+      ],
+      "unknown_states": null,
+      "missing_files": null,
+      "state_race_counts": {
+        "MN": 2,
+        "TX": 2,
+        "FL": 6,
+        "MS": 1,
+        "IA": 15,
+        "ME": 2,
+        "MD": 84,
+        "AZ": 48,
+        "SC": 16,
+        "AL": 54,
+        "OH": 1,
+        "KY": 62,
+        "CA": 1,
+        "NM": 34,
+        "MT": 24,
+        "IL": 2,
+        "VA": 1,
+        "NV": 8,
+        "WI": 1,
+        "MI": 113,
+        "RI": 2,
+        "CO": 15,
+        "CT": 110,
+        "NH": 24,
+        "HI": 9,
+        "TN": 2,
+        "DE": 30,
+        "OK": 3,
+        "OR": 2,
+        "PA": 1,
+        "GA": 17,
+        "NE": 2,
+        "NY": 1,
+        "KS": 1,
+        "WV": 17,
+        "WY": 2,
+        "MA": 13,
+        "ID": 2,
+        "NC": 89,
+        "UT": 11,
+        "SD": 2,
+        "AK": 37,
+        "AR": 2,
+        "NJ": 1,
+        "VT": 9,
+        "WA": 21,
+        "LA": 1
+      },
+      "state_offices": {
+        "MN": "senate; governor",
+        "TX": "senate; governor",
+        "FL": "governor; state senate",
+        "MS": "senate",
+        "IA": "senate; governor; state senate",
+        "ME": "senate; governor",
+        "MD": "governor; state senate; state house",
+        "AZ": "governor; state senate; state house",
+        "SC": "senate; governor; state house",
+        "AL": "governor; state senate; state house",
+        "OH": "governor",
+        "KY": "senate; state senate; state house",
+        "CA": "governor",
+        "NM": "senate; governor; state house",
+        "MT": "senate; state senate",
+        "IL": "senate; governor",
+        "VA": "senate",
+        "NV": "governor; state senate",
+        "WI": "governor",
+        "MI": "senate; governor; state senate; state house",
+        "RI": "senate; governor",
+        "CO": "senate; governor; state senate",
+        "CT": "governor; state house",
+        "NH": "senate; governor; state senate",
+        "HI": "senate; governor; state senate",
+        "TN": "senate; governor",
+        "DE": "senate; state senate; state house",
+        "OK": "senate; governor",
+        "OR": "senate; governor",
+        "PA": "governor",
+        "GA": "senate; governor; state senate",
+        "NE": "senate; governor",
+        "NY": "governor",
+        "KS": "governor",
+        "WV": "senate; state senate",
+        "WY": "senate; governor",
+        "MA": "senate; governor; state senate",
+        "ID": "senate; governor",
+        "NC": "senate; state senate; state house",
+        "UT": "state senate",
+        "SD": "senate; governor",
+        "AK": "senate; state senate; state house",
+        "AR": "senate; governor",
+        "NJ": "senate",
+        "VT": "governor; state senate",
+        "WA": "state senate",
+        "LA": "senate"
+      }
+    },
+    "2018": {
+      "vintage": "2010s",
+      "rows": 436,
+      "house_districts": 386,
+      "national": {
+        "d_votes": 118853953,
+        "r_votes": 112350548,
+        "d_share_two_party_pct": 51.41
+      },
+      "states_present": 45,
+      "states_without_data": [
+        "DC",
+        "LA"
+      ],
+      "house": {
+        "districts": 386,
+        "votes_fixed": 6,
+        "national_d_share": 51.91,
+        "excluded_races": [
+          {
+            "state": "AK",
+            "district": "AK-AL",
+            "d_votes": 0,
+            "r_votes": 149779
+          },
+          {
+            "state": "AL",
+            "district": "AL-07",
+            "d_votes": 189163,
+            "r_votes": 0
+          },
+          {
+            "state": "AZ",
+            "district": "AZ-07",
+            "d_votes": 113044,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-13",
+            "d_votes": 260580,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-20",
+            "d_votes": 183677,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-27",
+            "d_votes": 202636,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-34",
+            "d_votes": 110195,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-40",
+            "d_votes": 93938,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-44",
+            "d_votes": 143322,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-05",
+            "d_votes": 205860,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-06",
+            "d_votes": 201939,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-08",
+            "d_votes": 0,
+            "r_votes": 170785
+          },
+          {
+            "state": "FL",
+            "district": "FL-10",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-14",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-20",
+            "d_votes": 202659,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-21",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-24",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "GA",
+            "district": "GA-05",
+            "d_votes": 275406,
+            "r_votes": 0
+          },
+          {
+            "state": "GA",
+            "district": "GA-08",
+            "d_votes": 0,
+            "r_votes": 198152
+          },
+          {
+            "state": "LA",
+            "district": "LA-02",
+            "d_votes": 190182,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-01",
+            "d_votes": 216900,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-04",
+            "d_votes": 251016,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-07",
+            "d_votes": 216557,
+            "r_votes": 0
+          },
+          {
+            "state": "MA",
+            "district": "MA-08",
+            "d_votes": 259159,
+            "r_votes": 0
+          },
+          {
+            "state": "MI",
+            "district": "MI-13",
+            "d_votes": 165355,
+            "r_votes": 0
+          },
+          {
+            "state": "MN",
+            "district": "MN-01",
+            "d_votes": 0,
+            "r_votes": 146199
+          },
+          {
+            "state": "MN",
+            "district": "MN-02",
+            "d_votes": 0,
+            "r_votes": 159343
+          },
+          {
+            "state": "MN",
+            "district": "MN-03",
+            "d_votes": 0,
+            "r_votes": 160839
+          },
+          {
+            "state": "MN",
+            "district": "MN-04",
+            "d_votes": 0,
+            "r_votes": 97746
+          },
+          {
+            "state": "MN",
+            "district": "MN-05",
+            "d_votes": 0,
+            "r_votes": 74440
+          },
+          {
+            "state": "MN",
+            "district": "MN-06",
+            "d_votes": 0,
+            "r_votes": 192936
+          },
+          {
+            "state": "MN",
+            "district": "MN-07",
+            "d_votes": 0,
+            "r_votes": 134668
+          },
+          {
+            "state": "MN",
+            "district": "MN-08",
+            "d_votes": 0,
+            "r_votes": 159364
+          },
+          {
+            "state": "MS",
+            "district": "MS-02",
+            "d_votes": 158921,
+            "r_votes": 0
+          },
+          {
+            "state": "NC",
+            "district": "NC-03",
+            "d_votes": 0,
+            "r_votes": 187901
+          },
+          {
+            "state": "NY",
+            "district": "NY-16",
+            "d_votes": 182044,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-17",
+            "d_votes": 170168,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-05",
+            "d_votes": 160500,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-06",
+            "d_votes": 111646,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-07",
+            "d_votes": 146687,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-08",
+            "d_votes": 180376,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-18",
+            "d_votes": 240924,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-20",
+            "d_votes": 139118,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-28",
+            "d_votes": 117494,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-30",
+            "d_votes": 166784,
+            "r_votes": 0
+          },
+          {
+            "state": "TX",
+            "district": "TX-09",
+            "d_votes": 136256,
+            "r_votes": 0
+          },
+          {
+            "state": "VA",
+            "district": "VA-03",
+            "d_votes": 198615,
+            "r_votes": 0
+          },
+          {
+            "state": "WA",
+            "district": "WA-02",
+            "d_votes": 210187,
+            "r_votes": 0
+          },
+          {
+            "state": "WA",
+            "district": "WA-09",
+            "d_votes": 240567,
+            "r_votes": 0
+          },
+          {
+            "state": "WI",
+            "district": "WI-02",
+            "d_votes": 309116,
+            "r_votes": 0
+          }
+        ]
+      },
+      "senate": {
+        "states": 31,
+        "national_d_share": 54.36
+      },
+      "statewide": {
+        "states": 45,
+        "national_d_share": 51.41,
+        "stateleg_walkover_districts": 975
+      },
+      "excluded_races": [
+        {
+          "state": "CA",
+          "office": "senate",
+          "d_votes": 11113364,
+          "r_votes": 0
+        },
+        {
+          "state": "VT",
+          "office": "senate",
+          "d_votes": 0,
+          "r_votes": 74815
+        },
+        {
+          "state": "IA",
+          "office": "attorney general",
+          "d_votes": 880531,
+          "r_votes": 0
+        }
+      ],
+      "unknown_states": null,
+      "missing_files": null,
+      "state_race_counts": {
+        "MN": 117,
+        "FL": 20,
+        "ME": 158,
+        "IA": 52,
+        "AZ": 53,
+        "SC": 46,
+        "CA": 2,
+        "KY": 102,
+        "NM": 34,
+        "IL": 84,
+        "NV": 39,
+        "RI": 21,
+        "CT": 165,
+        "HI": 23,
+        "TN": 14,
+        "DE": 36,
+        "OK": 1,
+        "OR": 1,
+        "KS": 1,
+        "WV": 17,
+        "ND": 21,
+        "MA": 2,
+        "UT": 60,
+        "NC": 167,
+        "AR": 9,
+        "WA": 1,
+        "VT": 22,
+        "TX": 111,
+        "MS": 1,
+        "MD": 85,
+        "AL": 65,
+        "OH": 20,
+        "IN": 20,
+        "MT": 86,
+        "VA": 1,
+        "WI": 3,
+        "MI": 41,
+        "CO": 75,
+        "NH": 194,
+        "PA": 6,
+        "GA": 93,
+        "NE": 2,
+        "NY": 43,
+        "MO": 17,
+        "WY": 30,
+        "ID": 21,
+        "SD": 32,
+        "AK": 31,
+        "NJ": 1
+      },
+      "state_offices": {
+        "MN": "senate; governor; attorney general; state house",
+        "FL": "senate; governor; attorney general; state senate",
+        "ME": "senate; governor; state senate; state house",
+        "IA": "governor; state senate; state house",
+        "AZ": "senate; governor; attorney general; state senate; state house",
+        "SC": "governor; state house",
+        "CA": "governor; attorney general",
+        "KY": "state senate; state house",
+        "NM": "senate; governor; state house",
+        "IL": "governor; attorney general; state senate; state house",
+        "NV": "senate; governor; attorney general; state senate; state house",
+        "RI": "senate; governor; state senate",
+        "CT": "senate; governor; attorney general; state senate; state house",
+        "HI": "senate; governor; state senate; state house",
+        "TN": "senate; governor; state senate",
+        "DE": "senate; attorney general; state senate; state house",
+        "OK": "governor",
+        "OR": "governor",
+        "KS": "governor",
+        "WV": "senate; state senate",
+        "ND": "senate; state senate",
+        "MA": "senate; governor",
+        "UT": "senate; state house",
+        "NC": "state senate; state house",
+        "AR": "governor; attorney general; state senate",
+        "WA": "senate",
+        "VT": "governor; state senate; state house",
+        "TX": "senate; governor; attorney general; state senate; state house",
+        "MS": "senate",
+        "MD": "senate; governor; attorney general; state senate; state house",
+        "AL": "governor; attorney general; state senate; state house",
+        "OH": "senate; governor; attorney general; state senate",
+        "IN": "senate; state senate",
+        "MT": "senate; state senate; state house",
+        "VA": "senate",
+        "WI": "senate; governor; attorney general",
+        "MI": "senate; governor; attorney general; state senate",
+        "CO": "governor; attorney general; state senate; state house",
+        "NH": "governor; state senate; state house",
+        "PA": "senate; governor; state house",
+        "GA": "governor; attorney general; state senate; state house",
+        "NE": "senate; governor",
+        "NY": "senate; governor; attorney general; state senate",
+        "MO": "senate; state senate",
+        "WY": "senate; governor; state senate; state house",
+        "ID": "governor; state senate",
+        "SD": "governor; attorney general; state senate",
+        "AK": "governor; state house",
+        "NJ": "senate"
+      }
+    },
+    "2022": {
+      "vintage": "2020s",
+      "rows": 436,
+      "house_districts": 393,
+      "national": {
+        "d_votes": 161935255,
+        "r_votes": 159687324,
+        "d_share_two_party_pct": 50.35
+      },
+      "states_present": 45,
+      "states_without_data": [
+        "DC",
+        "MS",
+        "NJ",
+        "VA"
+      ],
+      "house": {
+        "districts": 393,
+        "votes_fixed": 16,
+        "national_d_share": 48.35,
+        "excluded_races": [
+          {
+            "state": "AL",
+            "district": "AL-01",
+            "d_votes": 0,
+            "r_votes": 140592
+          },
+          {
+            "state": "AL",
+            "district": "AL-06",
+            "d_votes": 0,
+            "r_votes": 154233
+          },
+          {
+            "state": "AZ",
+            "district": "AZ-08",
+            "d_votes": 0,
+            "r_votes": 204713
+          },
+          {
+            "state": "AZ",
+            "district": "AZ-09",
+            "d_votes": 0,
+            "r_votes": 197185
+          },
+          {
+            "state": "CA",
+            "district": "CA-10",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-15",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-16",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-29",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-30",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-34",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "CA",
+            "district": "CA-37",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-18",
+            "d_votes": 0,
+            "r_votes": 167429
+          },
+          {
+            "state": "FL",
+            "district": "FL-05",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "FL",
+            "district": "FL-06",
+            "d_votes": 0,
+            "r_votes": 226469
+          },
+          {
+            "state": "IL",
+            "district": "IL-07",
+            "d_votes": 167650,
+            "r_votes": 0
+          },
+          {
+            "state": "LA",
+            "district": "LA-04",
+            "d_votes": 0,
+            "r_votes": 0
+          },
+          {
+            "state": "LA",
+            "district": "LA-06",
+            "d_votes": 0,
+            "r_votes": 205219
+          },
+          {
+            "state": "MA",
+            "district": "MA-04",
+            "d_votes": 208279,
+            "r_votes": 0
+          },
+          {
+            "state": "MN",
+            "district": "MN-01",
+            "d_votes": 0,
+            "r_votes": 159621
+          },
+          {
+            "state": "MN",
+            "district": "MN-02",
+            "d_votes": 0,
+            "r_votes": 148576
+          },
+          {
+            "state": "MN",
+            "district": "MN-03",
+            "d_votes": 0,
+            "r_votes": 134797
+          },
+          {
+            "state": "MN",
+            "district": "MN-04",
+            "d_votes": 0,
+            "r_votes": 95493
+          },
+          {
+            "state": "MN",
+            "district": "MN-05",
+            "d_votes": 0,
+            "r_votes": 70702
+          },
+          {
+            "state": "MN",
+            "district": "MN-06",
+            "d_votes": 0,
+            "r_votes": 198145
+          },
+          {
+            "state": "MN",
+            "district": "MN-07",
+            "d_votes": 0,
+            "r_votes": 204766
+          },
+          {
+            "state": "MN",
+            "district": "MN-08",
+            "d_votes": 0,
+            "r_votes": 188755
+          },
+          {
+            "state": "ND",
+            "district": "ND-AL",
+            "d_votes": 0,
+            "r_votes": 148399
+          },
+          {
+            "state": "NY",
+            "district": "NY-13",
+            "d_votes": 116589,
+            "r_votes": 0
+          },
+          {
+            "state": "NY",
+            "district": "NY-09",
+            "d_votes": 116970,
+            "r_votes": 0
+          },
+          {
+            "state": "PA",
+            "district": "PA-13",
+            "d_votes": 0,
+            "r_votes": 260345
+          },
+          {
+            "state": "PA",
+            "district": "PA-14",
+            "d_votes": 0,
+            "r_votes": 230865
+          },
+          {
+            "state": "PA",
+            "district": "PA-03",
+            "d_votes": 251115,
+            "r_votes": 0
+          },
+          {
+            "state": "SC",
+            "district": "SC-03",
+            "d_votes": 0,
+            "r_votes": 194569
+          },
+          {
+            "state": "SC",
+            "district": "SC-04",
+            "d_votes": 0,
+            "r_votes": 182365
+          },
+          {
+            "state": "SD",
+            "district": "SD-AL",
+            "d_votes": 0,
+            "r_votes": 253821
+          },
+          {
+            "state": "TX",
+            "district": "TX-11",
+            "d_votes": 0,
+            "r_votes": 151066
+          },
+          {
+            "state": "TX",
+            "district": "TX-19",
+            "d_votes": 0,
+            "r_votes": 152314
+          },
+          {
+            "state": "TX",
+            "district": "TX-25",
+            "d_votes": 0,
+            "r_votes": 185270
+          },
+          {
+            "state": "TX",
+            "district": "TX-26",
+            "d_votes": 0,
+            "r_votes": 183661
+          },
+          {
+            "state": "TX",
+            "district": "TX-31",
+            "d_votes": 0,
+            "r_votes": 183185
+          },
+          {
+            "state": "TX",
+            "district": "TX-06",
+            "d_votes": 0,
+            "r_votes": 149321
+          },
+          {
+            "state": "WI",
+            "district": "WI-06",
+            "d_votes": 0,
+            "r_votes": 239231
+          },
+          {
+            "state": "WI",
+            "district": "WI-08",
+            "d_votes": 0,
+            "r_votes": 223981
+          }
+        ]
+      },
+      "senate": {
+        "states": 31,
+        "national_d_share": 48.9
+      },
+      "statewide": {
+        "states": 45,
+        "national_d_share": 50.35,
+        "stateleg_walkover_districts": 1392
+      },
+      "excluded_races": [
+        {
+          "state": "UT",
+          "office": "senate",
+          "d_votes": 0,
+          "r_votes": 571974
+        },
+        {
+          "state": "AL",
+          "office": "state treasurer",
+          "d_votes": 0,
+          "r_votes": 946936
+        },
+        {
+          "state": "NE",
+          "office": "attorney general",
+          "d_votes": 0,
+          "r_votes": 434671
+        },
+        {
+          "state": "NE",
+          "office": "secretary of state",
+          "d_votes": 0,
+          "r_votes": 500342
+        },
+        {
+          "state": "NE",
+          "office": "state treasurer",
+          "d_votes": 0,
+          "r_votes": 431193
+        },
+        {
+          "state": "OK",
+          "office": "attorney general",
+          "d_votes": 0,
+          "r_votes": 792466
+        },
+        {
+          "state": "SC",
+          "office": "attorney general",
+          "d_votes": 0,
+          "r_votes": 1223080
+        },
+        {
+          "state": "SC",
+          "office": "state treasurer",
+          "d_votes": 0,
+          "r_votes": 1129961
+        },
+        {
+          "state": "SD",
+          "office": "attorney general",
+          "d_votes": 0,
+          "r_votes": 257419
+        }
+      ],
+      "unknown_states": null,
+      "missing_files": null,
+      "state_race_counts": {
+        "MN": 178,
+        "FL": 93,
+        "IA": 28,
+        "ME": 149,
+        "AZ": 46,
+        "SC": 53,
+        "KY": 56,
+        "CA": 4,
+        "NM": 40,
+        "IL": 108,
+        "NV": 48,
+        "RI": 67,
+        "CT": 145,
+        "HI": 63,
+        "TN": 45,
+        "OK": 35,
+        "DE": 37,
+        "OR": 17,
+        "KS": 65,
+        "WV": 87,
+        "ND": 34,
+        "MA": 2,
+        "UT": 45,
+        "NC": 117,
+        "AR": 53,
+        "WA": 1,
+        "VT": 11,
+        "LA": 1,
+        "TX": 100,
+        "MD": 74,
+        "AL": 34,
+        "OH": 5,
+        "IN": 73,
+        "MT": 88,
+        "WI": 18,
+        "MI": 149,
+        "CO": 75,
+        "NH": 24,
+        "PA": 5,
+        "GA": 91,
+        "NY": 8,
+        "NE": 1,
+        "MO": 81,
+        "WY": 26,
+        "ID": 35,
+        "SD": 39,
+        "AK": 12
+      },
+      "state_offices": {
+        "MN": "governor; attorney general; secretary of state; state senate; state house",
+        "FL": "senate; governor; attorney general; state senate; state house",
+        "IA": "senate; governor; attorney general; secretary of state; state treasurer; state senate",
+        "ME": "governor; state senate; state house",
+        "AZ": "senate; governor; attorney general; secretary of state; state treasurer; state senate; state house",
+        "SC": "senate; governor; secretary of state; state house",
+        "KY": "senate; state senate; state house",
+        "CA": "governor; attorney general; secretary of state; state treasurer",
+        "NM": "governor; attorney general; secretary of state; state treasurer; state house",
+        "IL": "senate; governor; attorney general; secretary of state; state treasurer; state senate; state house",
+        "NV": "senate; attorney general; secretary of state; state treasurer; state senate; state house",
+        "RI": "governor; attorney general; secretary of state; state treasurer; state senate; state house",
+        "CT": "senate; governor; attorney general; state treasurer; state senate; state house",
+        "HI": "senate; governor; state senate; state house",
+        "TN": "governor; state senate; state house",
+        "OK": "senate; governor; state treasurer; state senate; state house",
+        "DE": "attorney general; state treasurer; state senate; state house",
+        "OR": "senate; governor; state senate",
+        "KS": "senate; governor; attorney general; secretary of state; state treasurer; state house",
+        "WV": "state senate; state house",
+        "ND": "senate; attorney general; secretary of state; state senate; state house",
+        "MA": "governor; attorney general",
+        "UT": "state senate; state house",
+        "NC": "senate; state senate; state house",
+        "AR": "senate; governor; attorney general; secretary of state; state treasurer; state senate; state house",
+        "WA": "senate",
+        "VT": "senate; governor; attorney general; secretary of state; state senate",
+        "LA": "senate",
+        "TX": "governor; attorney general; state senate; state house",
+        "MD": "senate; governor; attorney general; state senate; state house",
+        "AL": "senate; governor; attorney general; secretary of state; state senate; state house",
+        "OH": "senate; governor; attorney general; secretary of state; state treasurer",
+        "IN": "senate; secretary of state; state treasurer; state senate; state house",
+        "MT": "state senate; state house",
+        "WI": "senate; governor; attorney general; secretary of state; state treasurer; state senate",
+        "MI": "governor; attorney general; secretary of state; state senate; state house",
+        "CO": "senate; governor; attorney general; secretary of state; state treasurer; state senate; state house",
+        "NH": "senate; governor; state senate",
+        "PA": "senate; governor; state senate; state house",
+        "GA": "senate; governor; attorney general; secretary of state; state house",
+        "NY": "senate; governor; attorney general; state treasurer; state house",
+        "NE": "governor",
+        "MO": "senate; state senate; state house",
+        "WY": "governor; state senate; state house",
+        "ID": "senate; governor; attorney general; state treasurer; state senate; state house",
+        "SD": "senate; governor; secretary of state; state treasurer; state senate; state house",
+        "AK": "governor; state house"
+      }
+    }
+  }
+}

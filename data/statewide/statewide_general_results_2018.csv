@@ -36,9 +36,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2018,California,CA,governor,2018 California gubernatorial election,Winning,Gavin Newsom,Democratic,7721410,61.95,True,False
 2018,California,CA,governor,2018 California gubernatorial election,Candidate,John H. Cox,Republican,4742825,38.05,False,False
 2018,California,CA,governor,2018 California gubernatorial election,Total,,,12464235,100.0,False,False
-2018,Colorado,CO,attorney general,"Colorado Attorney General election, 2018",Winning,Phil Weiser,Democratic,1285464,51.6,True,False
-2018,Colorado,CO,attorney general,"Colorado Attorney General election, 2018",Candidate,George Brauchler,Republican,1124757,45.1,False,False
-2018,Colorado,CO,attorney general,"Colorado Attorney General election, 2018",Candidate,"William F. Robinson, III",Libertarian,81733,3.3,False,False
+2018,Colorado,CO,attorney general,"Colorado Attorney General election, 2018",Winning,Phil Weiser,Democratic,1285464,51.58,True,False
+2018,Colorado,CO,attorney general,"Colorado Attorney General election, 2018",Candidate,George Brauchler,Republican,1124757,45.14,False,False
+2018,Colorado,CO,attorney general,"Colorado Attorney General election, 2018",Candidate,"William F. Robinson, III",Libertarian,81733,3.28,False,False
 2018,Colorado,CO,attorney general,"Colorado Attorney General election, 2018",Total,,,2491954,100.0,False,False
 2018,Colorado,CO,governor,2018 Colorado gubernatorial election,Winning,Jared Polis,Democratic,1348888,53.42,True,False
 2018,Colorado,CO,governor,2018 Colorado gubernatorial election,Candidate,Walker Stapleton,Republican,1080801,42.8,False,False
@@ -226,11 +226,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2018,Oregon,OR,governor,"Oregon gubernatorial election, 2018",Candidate,Chris Henry,Progressive,11013,0.59,False,False
 2018,Oregon,OR,governor,"Oregon gubernatorial election, 2018",Write-in,,,3034,0.16,False,False
 2018,Oregon,OR,governor,"Oregon gubernatorial election, 2018",Total,,,1866997,100.0,False,False
-2018,Pennsylvania,PA,governor,2018 Pennsylvania gubernatorial election,Winning,Tom Wolf (incumbent) John Fetterman,Democratic,2895652,57.77,True,False
-2018,Pennsylvania,PA,governor,2018 Pennsylvania gubernatorial election,Candidate,Scott Wagner Jeff Bartos,Republican,2039882,40.7,False,False
+2018,Pennsylvania,PA,governor,2018 Pennsylvania gubernatorial election,Winning,Tom Wolf (incumbent) John Fetterman,Democratic,2895652,57.74,True,False
+2018,Pennsylvania,PA,governor,2018 Pennsylvania gubernatorial election,Candidate,Scott Wagner Jeff Bartos,Republican,2039882,40.67,False,False
 2018,Pennsylvania,PA,governor,2018 Pennsylvania gubernatorial election,Candidate,Ken Krawchuk Kathleen Smith,Libertarian,49229,0.98,False,False
 2018,Pennsylvania,PA,governor,2018 Pennsylvania gubernatorial election,Candidate,Paul Glover Jocolyn Bowser-Bostick,Green,27792,0.55,False,False
-2018,Pennsylvania,PA,governor,2018 Pennsylvania gubernatorial election,Total,,,5012555,100.0,False,False
+2018,Pennsylvania,PA,governor,2018 Pennsylvania gubernatorial election,Write-in,,,2706,0.05,False,False
+2018,Pennsylvania,PA,governor,2018 Pennsylvania gubernatorial election,Total,,,5015261,100.0,False,False
 2018,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2018",Winning,Gina Raimondo,Democratic,198122,52.64,True,True
 2018,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2018",Candidate,Allan Fung,Republican,139932,37.18,False,False
 2018,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2018",Candidate,Joe Trillo,Independent,16532,4.39,False,False

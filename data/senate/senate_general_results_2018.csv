@@ -124,11 +124,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2018,Ohio,"United States Senate election in Ohio, 2018",General,Candidate,False,Republican Party (United States),Jim Renacci,"2,057,559",46.58%
 2018,Ohio,"United States Senate election in Ohio, 2018",General,Write-in,False,,,"1,017",0.02%
 2018,Ohio,"United States Senate election in Ohio, 2018",General,Total,False,,,"4,417,084",100.00%
-2018,Pennsylvania,"United States Senate election in Pennsylvania, 2018",General,Winning,True,Democratic Party (United States),Bob Casey Jr.,"2,792,437",55.74%
-2018,Pennsylvania,"United States Senate election in Pennsylvania, 2018",General,Candidate,False,Republican Party (United States),Lou Barletta,"2,134,848",42.62%
+2018,Pennsylvania,"United States Senate election in Pennsylvania, 2018",General,Winning,True,Democratic Party (United States),Bob Casey Jr.,"2,792,437",55.73%
+2018,Pennsylvania,"United States Senate election in Pennsylvania, 2018",General,Candidate,False,Republican Party (United States),Lou Barletta,"2,134,848",42.60%
 2018,Pennsylvania,"United States Senate election in Pennsylvania, 2018",General,Candidate,False,Libertarian Party (United States),Dale Kerns,"50,907",1.02%
 2018,Pennsylvania,"United States Senate election in Pennsylvania, 2018",General,Candidate,False,Green Party (United States),Neal Gale,"31,208",0.62%
-2018,Pennsylvania,"United States Senate election in Pennsylvania, 2018",General,Total,False,,,"5,009,400",100.00%
+2018,Pennsylvania,"United States Senate election in Pennsylvania, 2018",General,Write-in,False,,,"1,568",0.03%
+2018,Pennsylvania,"United States Senate election in Pennsylvania, 2018",General,Total,False,,,"5,010,968",100.0%
 2018,Rhode Island,"United States Senate election in Rhode Island, 2018",General,Winning,True,Democratic Party (United States),Sheldon Whitehouse,"231,477",61.44%
 2018,Rhode Island,"United States Senate election in Rhode Island, 2018",General,Candidate,False,Republican Party (United States),Robert Flanders,"144,421",38.33%
 2018,Rhode Island,"United States Senate election in Rhode Island, 2018",General,Write-in,False,,,840,0.22%
@@ -142,10 +143,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2018,Tennessee,2018 United States Senate election in Tennessee,General,Candidate,False,Independent (United States),Breton Phillips,"2,226",0.10%
 2018,Tennessee,2018 United States Senate election in Tennessee,General,Candidate,False,Independent (United States),Kevin Lee McCants,"1,927",0.09%
 2018,Tennessee,2018 United States Senate election in Tennessee,General,Total,False,,,"2,243,740",100.00%
-2018,Texas,2018 United States Senate election in Texas,General,Winning,True,Republican Party (United States),Ted Cruz,"4,260,373",50.89%
+2018,Texas,2018 United States Senate election in Texas,General,Winning,True,Republican Party (United States),Ted Cruz,"4,260,553",50.89%
 2018,Texas,2018 United States Senate election in Texas,General,Candidate,False,Democratic Party (United States),Beto O'Rourke,"4,045,632",48.33%
 2018,Texas,2018 United States Senate election in Texas,General,Candidate,False,Libertarian Party (United States),Neal Dikeman,"65,470",0.78%
-2018,Texas,2018 United States Senate election in Texas,General,Total,False,,,"8,371,475",100%
+2018,Texas,2018 United States Senate election in Texas,General,Total,False,,,"8,371,655",100%
 2018,Utah,"United States Senate general election in Utah, 2018",General,Winning,False,Republican Party (United States),Mitt Romney,"665,215",62.59%
 2018,Utah,"United States Senate general election in Utah, 2018",General,Candidate,False,Democratic Party (United States),Jenny Wilson,"328,541",30.91%
 2018,Utah,"United States Senate general election in Utah, 2018",General,Candidate,False,Constitution Party (United States),Tim Aalders,"28,774",2.71%

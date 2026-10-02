@@ -217,7 +217,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Georgia,GA,attorney general,Republican primary,Candidate,Bill Cowsert,Republican,241382,28.4,False,False
 2026,Georgia,GA,attorney general,Republican primary,Total,,,849965,100.0,False,False
 2026,Georgia,GA,attorney general,Democratic primary,Winning,Tanya Miller,Democratic,880160,84.6,True,False
-2026,Georgia,GA,attorney general,Democratic primary,Candidate,Bob Trammell,Democratic,160852,15.5,False,False
+2026,Georgia,GA,attorney general,Democratic primary,Candidate,Bob Trammell,Democratic,160852,15.4,False,False
 2026,Georgia,GA,attorney general,Democratic primary,Total,,,1041012,100.0,False,False
 2026,Georgia,GA,secretary of state,Republican primary,Winning,Tim Fleming,Republican,334055,39.2,True,False
 2026,Georgia,GA,secretary of state,Republican primary,Winning,Vernon Jones,Republican,232448,27.3,True,False
@@ -228,10 +228,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Georgia,GA,secretary of state,Republican primary runoff,Winning,Tim Fleming,Republican,430455,64.5,True,False
 2026,Georgia,GA,secretary of state,Republican primary runoff,Candidate,Vernon Jones,Republican,236920,35.5,False,False
 2026,Georgia,GA,secretary of state,Republican primary runoff,Total,,,667375,100.0,False,False
-2026,Georgia,GA,secretary of state,Democratic primary,Winning,Penny Brown Reynolds,Democratic,435185,42.34,True,False
-2026,Georgia,GA,secretary of state,Democratic primary,Winning,Dana Barrett,Democratic,361997,35.22,True,False
-2026,Georgia,GA,secretary of state,Democratic primary,Candidate,Cam Ashling,Democratic,126515,12.31,False,False
-2026,Georgia,GA,secretary of state,Democratic primary,Candidate,Adrian Consonery Jr.,Democratic,104140,10.13,False,False
+2026,Georgia,GA,secretary of state,Democratic primary,Winning,Penny Brown Reynolds,Democratic,435185,42.4,True,False
+2026,Georgia,GA,secretary of state,Democratic primary,Winning,Dana Barrett,Democratic,361997,35.2,True,False
+2026,Georgia,GA,secretary of state,Democratic primary,Candidate,Cam Ashling,Democratic,126515,12.3,False,False
+2026,Georgia,GA,secretary of state,Democratic primary,Candidate,Adrian Consonery Jr.,Democratic,104140,10.1,False,False
 2026,Georgia,GA,secretary of state,Democratic primary,Total,,,1027837,100.0,False,False
 2026,Georgia,GA,secretary of state,Democratic primary runoff,Winning,Penny Brown Reynolds,Democratic,242439,63.1,True,False
 2026,Georgia,GA,secretary of state,Democratic primary runoff,Candidate,Dana Barrett,Democratic,141759,36.9,False,False
@@ -629,9 +629,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Oklahoma,OK,governor,Republican primary results,Candidate,Kenneth Sturgell,Republican,2935,0.7,False,False
 2026,Oklahoma,OK,governor,Republican primary results,Candidate,Calup Anthony Taylor,Republican,1485,0.4,False,False
 2026,Oklahoma,OK,governor,Republican primary results,Total,,,403099,100.0,False,False
-2026,Oklahoma,OK,governor,Republican primary runoff results,Winning,Mike Mazzei,Republican,186678,50.3,True,False
-2026,Oklahoma,OK,governor,Republican primary runoff results,Candidate,Gentner Drummond,Republican,184631,49.7,False,False
-2026,Oklahoma,OK,governor,Republican primary runoff results,Total,,,371309,100.0,False,False
+2026,Oklahoma,OK,governor,Republican primary runoff results,Winning,Mike Mazzei,Republican,186734,50.3,True,False
+2026,Oklahoma,OK,governor,Republican primary runoff results,Candidate,Gentner Drummond,Republican,184681,49.7,False,False
+2026,Oklahoma,OK,governor,Republican primary runoff results,Total,,,371415,100.0,False,False
 2026,Oklahoma,OK,governor,Democratic primary results,Winning,Cyndi Munson,Democratic,129225,74.9,True,False
 2026,Oklahoma,OK,governor,Democratic primary results,Candidate,Constance Johnson,Democratic,38414,22.3,False,False
 2026,Oklahoma,OK,governor,Democratic primary results,Candidate,Arya Azma,Democratic,4824,2.8,False,False
@@ -646,7 +646,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Oregon,OR,governor,Democratic primary results,Candidate,Steve Laible,Democratic,3692,0.8,False,False
 2026,Oregon,OR,governor,Democratic primary results,Candidate,Cal Kishawi,Democratic,2422,0.5,False,False
 2026,Oregon,OR,governor,Democratic primary results,Candidate,Donnie Beckwith,Democratic,1799,0.4,False,False
-2026,Oregon,OR,governor,Democratic primary results,Candidate,Write-in,Democratic,14228,3.1,False,False
+2026,Oregon,OR,governor,Democratic primary results,Write-in,,,14228,3.1,False,False
 2026,Oregon,OR,governor,Democratic primary results,Total,,,461695,100.0,False,False
 2026,Oregon,OR,governor,Republican primary results,Winning,Christine Drazan,Republican,172474,40.5,True,False
 2026,Oregon,OR,governor,Republican primary results,Candidate,Ed Diehl,Republican,140458,33.0,False,False
@@ -662,7 +662,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Oregon,OR,governor,Republican primary results,Candidate,DeAngelo Turner,Republican,377,0.1,False,False
 2026,Oregon,OR,governor,Republican primary results,Candidate,Wen Waddell,Republican,321,0.1,False,False
 2026,Oregon,OR,governor,Republican primary results,Candidate,Tim Youker,Republican,248,0.1,False,False
-2026,Oregon,OR,governor,Republican primary results,Candidate,Write-in,Republican,1622,0.4,False,False
+2026,Oregon,OR,governor,Republican primary results,Write-in,,,1622,0.4,False,False
 2026,Oregon,OR,governor,Republican primary results,Total,,,425557,100.0,False,False
 2026,Pennsylvania,PA,governor,Democratic primary results,Winning,Josh Shapiro,Democratic,1116960,100.0,True,True
 2026,Pennsylvania,PA,governor,Democratic primary results,Total,,,1116960,100.0,False,False
@@ -683,23 +683,23 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Rhode Island,RI,governor,Republican primary results,Winning,Aaron Guckian,Republican,11691,50.6,True,False
 2026,Rhode Island,RI,governor,Republican primary results,Candidate,Elaine Pelino,Republican,11432,49.4,False,False
 2026,Rhode Island,RI,governor,Republican primary results,Total,,,23123,100.0,False,False
-2026,South Carolina,SC,attorney general,Republican primary results,Winning,Stephen Goldfinch,Republican,175921,40.0,True,False
-2026,South Carolina,SC,attorney general,Republican primary results,Winning,David Stumbo,Republican,156876,35.7,True,False
-2026,South Carolina,SC,attorney general,Republican primary results,Candidate,David Pascoe,Republican,107086,24.3,False,False
-2026,South Carolina,SC,attorney general,Republican primary results,Total,,,439883,100.0,False,False
-2026,South Carolina,SC,attorney general,Republican primary runoff results,Winning,David Stumbo,Republican,172944,55.7,True,False
-2026,South Carolina,SC,attorney general,Republican primary runoff results,Candidate,Stephen Goldfinch,Republican,137270,44.3,False,False
-2026,South Carolina,SC,attorney general,Republican primary runoff results,Total,,,310214,100.0,False,False
-2026,South Carolina,SC,secretary of state,Democratic primary results,Winning,Jason Belton,Democratic,179659,50.6,True,False
-2026,South Carolina,SC,secretary of state,Democratic primary results,Candidate,Edwina Winter,Democratic,175628,49.4,False,False
-2026,South Carolina,SC,secretary of state,Democratic primary results,Total,,,355287,100.0,False,False
-2026,South Carolina,SC,state treasurer,Democratic primary results,Winning,Vincent Coe,Democratic,195339,55.8,True,False
-2026,South Carolina,SC,state treasurer,Democratic primary results,Candidate,Trav Robertson,Democratic,154989,44.2,False,False
-2026,South Carolina,SC,state treasurer,Democratic primary results,Total,,,350328,100.0,False,False
+2026,South Carolina,SC,attorney general,Republican primary results,Winning,Stephen Goldfinch,Republican,176045,40.0,True,False
+2026,South Carolina,SC,attorney general,Republican primary results,Winning,David Stumbo,Republican,157002,35.7,True,False
+2026,South Carolina,SC,attorney general,Republican primary results,Candidate,David Pascoe,Republican,107185,24.3,False,False
+2026,South Carolina,SC,attorney general,Republican primary results,Total,,,440232,100.0,False,False
+2026,South Carolina,SC,attorney general,Republican primary runoff results,Winning,David Stumbo,Republican,173127,55.8,True,False
+2026,South Carolina,SC,attorney general,Republican primary runoff results,Candidate,Stephen Goldfinch,Republican,137427,44.2,False,False
+2026,South Carolina,SC,attorney general,Republican primary runoff results,Total,,,310554,100.0,False,False
+2026,South Carolina,SC,secretary of state,Democratic primary results,Winning,Jason Belton,Democratic,179783,50.6,True,False
+2026,South Carolina,SC,secretary of state,Democratic primary results,Candidate,Edwina Winter,Democratic,175763,49.4,False,False
+2026,South Carolina,SC,secretary of state,Democratic primary results,Total,,,355546,100.0,False,False
+2026,South Carolina,SC,state treasurer,Democratic primary results,Winning,Vincent Coe,Democratic,195498,55.8,True,False
+2026,South Carolina,SC,state treasurer,Democratic primary results,Candidate,Trav Robertson,Democratic,155080,44.2,False,False
+2026,South Carolina,SC,state treasurer,Democratic primary results,Total,,,350578,100.0,False,False
 2026,South Carolina,SC,governor,Republican primary results,Winning,Pamela Evette,Republican,136480,28.9,True,False
 2026,South Carolina,SC,governor,Republican primary results,Winning,Alan Wilson,Republican,123643,26.2,True,False
 2026,South Carolina,SC,governor,Republican primary results,Candidate,Ralph Norman,Republican,80790,17.1,False,False
-2026,South Carolina,SC,governor,Republican primary results,Candidate,Rom Reddy,Republican,66992,14.2,False,False
+2026,South Carolina,SC,governor,Republican primary results,Candidate,Rom Reddy,Republican,66992,14.1,False,False
 2026,South Carolina,SC,governor,Republican primary results,Candidate,Nancy Mace,Republican,57380,12.1,False,False
 2026,South Carolina,SC,governor,Republican primary results,Candidate,Josh Kimbrell (withdrawn),Republican,3957,0.8,False,False
 2026,South Carolina,SC,governor,Republican primary results,Candidate,Jacqueline DuBose (decertified),Republican,3714,0.8,False,False
@@ -708,7 +708,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,South Carolina,SC,governor,Republican primary runoff results,Candidate,Pamela Evette,Republican,100227,31.4,False,False
 2026,South Carolina,SC,governor,Republican primary runoff results,Total,,,318796,100.0,False,False
 2026,South Carolina,SC,governor,Democratic primary results,Winning,Jermaine Johnson,Democratic,221951,59.7,True,False
-2026,South Carolina,SC,governor,Democratic primary results,Candidate,Billy Webster,Democratic,110303,29.7,False,False
+2026,South Carolina,SC,governor,Democratic primary results,Candidate,Billy Webster,Democratic,110303,29.6,False,False
 2026,South Carolina,SC,governor,Democratic primary results,Candidate,William Mullins McLeod Jr.,Democratic,39739,10.7,False,False
 2026,South Carolina,SC,governor,Democratic primary results,Total,,,371993,100.0,False,False
 2026,South Dakota,SD,governor,Republican primary results,Winning,Toby Doeden,Republican,41712,30.6,True,False

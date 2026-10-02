@@ -429,9 +429,94 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Maryland,MD,State Senate,46,general,Bill Ferguson,Democratic,,,True,True
 2026,Maryland,MD,State Senate,46,general,Emmanuel Digman,Republican,,,False,False
 2026,Maryland,MD,State Senate,47,general,Malcolm Augustine,Democratic,,,True,True
-2026,Michigan,MI,State Senate,35,general,Chedrick Greene,Democratic,36583,58.88,True,False
-2026,Michigan,MI,State Senate,35,general,Jason Tunney,Republican,24491,39.42,False,False
-2026,Michigan,MI,State Senate,35,general,Ali Sledz,Libertarian,1058,1.7,False,False
+2026,Michigan,MI,State Senate,35,general,Chedrick Greene,Democratic,36583.0,58.88,True,True
+2026,Michigan,MI,State Senate,35,general,Jason Tunney,Republican,24491.0,39.42,False,False
+2026,Michigan,MI,State Senate,35,general,Ali Sledz,Libertarian,1058.0,1.7,False,False
+2026,Michigan,MI,State Senate,1,general,Justin Onwenu,Democratic,,,True,False
+2026,Michigan,MI,State Senate,1,general,Patrick O'Connell,Republican,,,False,False
+2026,Michigan,MI,State Senate,2,general,Abbas Alawieh,Democratic,,,True,False
+2026,Michigan,MI,State Senate,2,general,Harry Sawicki,Republican,,,False,False
+2026,Michigan,MI,State Senate,2,general,Larry Betts,Class,,,False,False
+2026,Michigan,MI,State Senate,3,general,John Conyers III,Democratic,,,True,False
+2026,Michigan,MI,State Senate,3,general,Mark Ashley Price,Republican,,,False,False
+2026,Michigan,MI,State Senate,3,general,David Roehrig,Class,,,False,False
+2026,Michigan,MI,State Senate,4,general,Darrin Camilleri,Democratic,,,True,True
+2026,Michigan,MI,State Senate,4,general,Marcie Grzywacz,Republican,,,False,False
+2026,Michigan,MI,State Senate,4,general,Beth Ann Socia,Constitution,,,False,False
+2026,Michigan,MI,State Senate,4,general,Walter Willis,Class,,,False,False
+2026,Michigan,MI,State Senate,5,general,Matt Koleszar,Democratic,,,True,False
+2026,Michigan,MI,State Senate,5,general,Estelle Oliansky,Republican,,,False,False
+2026,Michigan,MI,State Senate,6,general,Mary Cavanagh,Democratic,,,True,True
+2026,Michigan,MI,State Senate,6,general,Joi Pokerwinski,Republican,,,False,False
+2026,Michigan,MI,State Senate,7,general,Jason Hoskins,Democratic,,,True,False
+2026,Michigan,MI,State Senate,7,general,Anthony Paesano,Republican,,,False,False
+2026,Michigan,MI,State Senate,8,general,Dayna Polehanki,Democratic,,,True,False
+2026,Michigan,MI,State Senate,8,general,Kenneth D. Massey,Republican,,,False,False
+2026,Michigan,MI,State Senate,9,general,Michael Webber,Republican,,,True,True
+2026,Michigan,MI,State Senate,9,general,Theresa Brooks,Democratic,,,False,False
+2026,Michigan,MI,State Senate,9,general,Jacob Schodowski,Class,,,False,False
+2026,Michigan,MI,State Senate,9,general,Philippe M. Cicchini,Independent,,,False,False
+2026,Michigan,MI,State Senate,10,general,Natalie Price,Democratic,,,True,False
+2026,Michigan,MI,State Senate,10,general,Michelle Nard,Republican,,,False,False
+2026,Michigan,MI,State Senate,11,general,Veronica Klinefelt,Democratic,,,True,True
+2026,Michigan,MI,State Senate,11,general,Johnnie Townsend,Republican,,,False,False
+2026,Michigan,MI,State Senate,12,general,Kevin Hertel,Democratic,,,True,True
+2026,Michigan,MI,State Senate,12,general,John Goldwater,Republican,,,False,False
+2026,Michigan,MI,State Senate,13,general,Sean Carlson,Democratic,,,True,False
+2026,Michigan,MI,State Senate,13,general,Ryan Berman,Republican,,,False,False
+2026,Michigan,MI,State Senate,14,general,Sue Shink,Democratic,,,True,True
+2026,Michigan,MI,State Senate,14,general,Tawn Shawnelle Beliger,Republican,,,False,False
+2026,Michigan,MI,State Senate,15,general,Felicia Brabec,Democratic,,,True,False
+2026,Michigan,MI,State Senate,15,general,Jason Rogers,Republican,,,False,False
+2026,Michigan,MI,State Senate,16,general,Joe Bellino,Republican,,,True,True
+2026,Michigan,MI,State Senate,16,general,Deandre Barnes,Democratic,,,False,False
+2026,Michigan,MI,State Senate,17,general,Jonathan Lindsey,Republican,,,True,True
+2026,Michigan,MI,State Senate,17,general,Ashleigh Baker,Democratic,,,False,False
+2026,Michigan,MI,State Senate,18,general,Thomas Albert,Republican,,,True,True
+2026,Michigan,MI,State Senate,18,general,Anthony Pennock,Democratic,,,False,False
+2026,Michigan,MI,State Senate,19,general,Julie Rogers,Democratic,,,True,False
+2026,Michigan,MI,State Senate,19,general,Shaun Young,Republican,,,False,False
+2026,Michigan,MI,State Senate,20,general,Chris Moraitis,Republican,,,True,False
+2026,Michigan,MI,State Senate,20,general,Dale Murney,Democratic,,,False,False
+2026,Michigan,MI,State Senate,20,general,Shamara Clay,Green,,,False,False
+2026,Michigan,MI,State Senate,21,general,Sarah Anthony,Democratic,,,True,False
+2026,Michigan,MI,State Senate,21,general,Josh Burns,Republican,,,False,False
+2026,Michigan,MI,State Senate,22,general,Mike Murphy,Republican,,,True,False
+2026,Michigan,MI,State Senate,22,general,Rob Hower,Democratic,,,False,False
+2026,Michigan,MI,State Senate,23,general,Donni Steele,Republican,,,True,False
+2026,Michigan,MI,State Senate,23,general,Greg Hill,Democratic,,,False,False
+2026,Michigan,MI,State Senate,24,general,Doug Wozniak,Republican,,,True,False
+2026,Michigan,MI,State Senate,24,general,Edlira Sako,Democratic,,,False,False
+2026,Michigan,MI,State Senate,25,general,Andrew Beeler,Republican,,,True,False
+2026,Michigan,MI,State Senate,25,general,April Osentoski,Democratic,,,False,False
+2026,Michigan,MI,State Senate,26,general,Matthew Bierlein,Republican,,,True,False
+2026,Michigan,MI,State Senate,26,general,Brendan J. Johnson,Democratic,,,False,False
+2026,Michigan,MI,State Senate,27,general,John Daniel Cherry,Democratic,,,True,True
+2026,Michigan,MI,State Senate,27,general,Bill Bain,Republican,,,False,False
+2026,Michigan,MI,State Senate,28,general,Rashida Harrison,Democratic,,,True,False
+2026,Michigan,MI,State Senate,28,general,Julie DeRose,Republican,,,False,False
+2026,Michigan,MI,State Senate,28,general,Brandon Crabill,Libertarian,,,False,False
+2026,Michigan,MI,State Senate,28,general,Wes Peterson,Class,,,False,False
+2026,Michigan,MI,State Senate,29,general,Abbie Groff-Blaszak,Democratic,,,True,False
+2026,Michigan,MI,State Senate,29,general,Brady Middleton,Republican,,,False,False
+2026,Michigan,MI,State Senate,30,general,Mark Huizenga,Republican,,,True,True
+2026,Michigan,MI,State Senate,30,general,Carol Glanville,Democratic,,,False,False
+2026,Michigan,MI,State Senate,31,general,John Wetzel,Republican,,,True,False
+2026,Michigan,MI,State Senate,31,general,Chris Kleinjans,Democratic,,,False,False
+2026,Michigan,MI,State Senate,32,general,Kim Cole,Republican,,,True,False
+2026,Michigan,MI,State Senate,32,general,Rebecca Amidon,Democratic,,,False,False
+2026,Michigan,MI,State Senate,33,general,Gina Johnsen,Republican,,,True,False
+2026,Michigan,MI,State Senate,33,general,Stan Opan,Democratic,,,False,False
+2026,Michigan,MI,State Senate,34,general,Roger Hauck,Republican,,,True,True
+2026,Michigan,MI,State Senate,34,general,Tyler Landgraf,Democratic,,,False,False
+2026,Michigan,MI,State Senate,35,general,Laurie Atwood,Constitution,,,False,False
+2026,Michigan,MI,State Senate,36,general,Michele Hoitenga,Republican,,,True,True
+2026,Michigan,MI,State Senate,36,general,Mark Yonkman,Democratic,,,False,False
+2026,Michigan,MI,State Senate,37,general,John Damoose,Republican,,,True,True
+2026,Michigan,MI,State Senate,37,general,Kate Gallup,Democratic,,,False,False
+2026,Michigan,MI,State Senate,38,general,David Prestin,Republican,,,True,False
+2026,Michigan,MI,State Senate,38,general,Kelli van Ginhoven,Democratic,,,False,False
+2026,Michigan,MI,State Senate,38,general,Sara Cambensy,Independent,,,False,False
 2026,New York,NY,State Senate,22,special general,Sam Sutton,Democratic,8970,67.0,True,False
 2026,New York,NY,State Senate,22,special general,Nachman Carl Caller,New York Republican,4272,27.9,False,False
 2026,New York,NY,State Senate,47,special general,Erik Bottcher,Democratic,13325,76.2,False,False
