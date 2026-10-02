@@ -56,8 +56,43 @@ Output columns (written under *output_dir*, default ``data/presidential/``):
     presidential_results_all.csv      combined across the requested range
     presidential_metadata_{ts}.json   per-state coverage + totals cross-check
 
+PRESIDENTIAL OPINION POLLING (``include_polling=True`` by default; CLI
+``--include-polling``/``--no-include-polling``): the same run also mines the
+Wikipedia polling articles for the cycle, reusing the Senate pipeline's
+polling-table parsers (same table generations as senate/statewide races):
+
+* ``Nationwide opinion polling for the {year} United States presidential
+  election`` — national polls, classified by the matchup section they sit
+  under (``Kamala Harris vs. Donald Trump``, ...); hypothetical matchups are
+  kept and flagged via ``Poll_Type``.
+* ``Statewide opinion polling for the {year} United States presidential
+  election`` — state-level polls when the article carries real tables
+  (2008–2016 vintages); the 2020+ vintages only transclude
+  (``{{#section-h:...}}``) from the state articles, so they parse to zero
+  rows here.
+* The per-state ``{year} ... election in {State}`` articles' own
+  ``== Polling ==`` / ``== Polls ==`` sections — already fetched for the
+  county results, so this source costs no extra API request and covers the
+  transclusion-only 2020+ cycles.
+
+Rows from the overlapping sources are de-duplicated on
+(Year, State, Poll_Source, Date, Candidate, Pct).
+
+Polling columns (long format, one row per poll x candidate; same schema as
+the Senate/statewide polling families plus ``Scope`` / ``Matchup`` /
+``Poll_Type``):
+    Year, Scope, State, State_Code, Matchup, Poll_Type, Poll_Source, Date,
+    Date_Start, Date_End, Sample, MoE, Candidate, Party, Pct, Incumbent,
+    Date_Original
+
+    presidential_national_polling_{year}.csv   national polls
+    presidential_national_polling_all.csv      combined across runs on disk
+    presidential_state_polling_{year}.csv      state-level polls
+    presidential_state_polling_all.csv         combined across runs on disk
+
 Usage:
     python cli.py presidential --start-year 2018 --end-year 2024
+    python cli.py presidential --start-year 2018 --end-year 2024 --no-include-polling
     python presidential_elections.py
 """
 
@@ -77,6 +112,20 @@ from wiki_utils import (
     WikiAPIClient,
     even_years,
     get_default_client,
+    remove_wikilinks,
+    unwrap_format_templates,
+)
+
+# Polling-table machinery is shared with the Senate pipeline (statewide does
+# the same): Wikipedia uses the same polling-table generations in the
+# presidential polling articles, so the battle-tested Senate parsers are
+# reused instead of a second, drifting implementation.  senate_elections has
+# no presidential dependency, so this import cannot be circular.
+from senate_elections import (  # noqa: E402  (module import order is fine)
+    iter_polling_spans,
+    normalize_polling_date_columns,
+    parse_polling_table_universal,
+    wide_to_long_polls,
 )
 
 logger = logging.getLogger("presidential_elections")
@@ -795,6 +844,505 @@ def parse_state_page(
 
 
 # ────────────────────────────────────────────────────────────────────────────
+# PRESIDENTIAL OPINION POLLING
+# ────────────────────────────────────────────────────────────────────────────
+
+NATIONWIDE_POLLING_TITLE = (
+    "Nationwide opinion polling for the {year} United States presidential election"
+)
+STATEWIDE_POLLING_TITLE = (
+    "Statewide opinion polling for the {year} United States presidential election"
+)
+
+#: Long-format polling schema (superset of the Senate polling families).
+_POLLING_COLUMNS = [
+    "Year", "Scope", "State", "State_Code", "Matchup", "Poll_Type",
+    "Poll_Source", "Date", "Date_Start", "Date_End", "Sample", "MoE",
+    "Candidate", "Party", "Pct", "Incumbent", "Date_Original",
+]
+
+_POLLING_FAMILIES = ("national_polling", "state_polling")
+
+_STATE_CODES: Dict[str, str] = {name: code for _, name, code in PLACES}
+_STATE_CODES["Washington"] = "WA"        # polling articles drop the disambiguator
+_STATE_CODES["Washington, D.C."] = "DC"
+_STATE_CODES["Washington D.C."] = "DC"
+_STATE_CODES["United States"] = "US"
+_STATE_CODES["National"] = "US"
+_CODE_TO_NAME: Dict[str, str] = {code: name for _, name, code in PLACES}
+
+#: Sections of the dedicated polling articles that never hold attributable
+#: poll tables.  Generic sections ('Most recent polling', 'Polling
+#: aggregation in swing states', ...) are excluded by the state-name check in
+#: the statewide-article parser; this set keeps the nationwide article walker
+#: out of boilerplate.
+_POLLING_SKIP_SECTIONS = {
+    "see also", "notes", "references", "external links", "further reading",
+    "bibliography", "navigation", "citations", "sources", "limitations",
+    "forecasts",
+}
+
+#: Full party labels used in presidential polling-table headers
+#: ('Kamala Harris {{nobold|Democratic}}') → single-letter abbreviations, the
+#: format the shared Senate ``parse_candidate_header`` understands.
+_POLL_PARTY_ABBR: Dict[str, str] = {
+    "democratic": "D", "democrat": "D", "democratic party": "D",
+    "republican": "R", "republican party": "R",
+    "independent": "I", "independent politician": "I",
+    "libertarian": "L", "libertarian party": "L",
+    "green": "G", "green party": "G",
+    "constitution": "C", "constitution party": "C",
+}
+
+_HEADING_RE = re.compile(r"(?m)^(=+)\s*(.*?)\s*\1\s*$")
+_BOLD_VS_RE = re.compile(r"'''([^']{3,160}? vs\.?\s?[^']{0,160}?)'''")
+_ROWSPAN_RE = re.compile(r'rowspan\s*=\s*["\']?([2-9]\d?)', re.I)
+
+#: a bare percentage sub-column header of the 2016-generation tables
+_PCT_HEADER_LABELS = {"%", "pct", "pct.", "percent", "percentage"}
+#: a cell value that is a usable polling percentage (candidate names, poll
+#: labels and markup leftovers are not)
+_PCT_VALUE_OK_RE = re.compile(r"^\s*[≈~<>±+]?\s*\d[\d.,]*\s*%?\s*$")
+
+
+def polling_article_titles(year: int) -> List[str]:
+    """The cycle's two dedicated polling articles (either may not exist)."""
+    return [
+        NATIONWIDE_POLLING_TITLE.format(year=year),
+        STATEWIDE_POLLING_TITLE.format(year=year),
+    ]
+
+
+def _prepare_polling_wikitext(text: str) -> str:
+    """Pre-process a polling article for the shared Senate parsers.
+
+    Presidential polling tables carry the candidate's party in a
+    ``{{nobold|Democratic}}`` wrapper under the name; resolving those wrappers
+    to the '(D)'-style marker that ``parse_candidate_header`` understands
+    yields proper party values (the raw label would otherwise be deleted with
+    the rest of the templates, leaving party unknown).  Other formatting
+    wrappers are unwrapped to their content.
+    """
+    def _nobold(m: "re.Match[str]") -> str:
+        inner = remove_wikilinks(m.group(1))
+        key = re.sub(r"\s+", " ", inner).strip().lower()
+        abbr = _POLL_PARTY_ABBR.get(key)
+        return f"({abbr})" if abbr else inner.strip()
+
+    text = re.sub(r"\{\{\s*nobold\s*\|([^{}]*)\}\}", _nobold, text, flags=re.I)
+    return unwrap_format_templates(text)
+
+
+def _clean_heading_title(title: str) -> str:
+    """'[[Washington, D.C.|District of Columbia]]' → 'District of Columbia'."""
+    t = re.sub(r"\{\{[^}]*\}\}", "", title or "")
+    t = re.sub(r"<[^>]+>", " ", t)
+    return re.sub(r"\s+", " ", remove_wikilinks(t)).strip()
+
+
+def _heading_segments(text: str) -> List[Tuple[int, str, str]]:
+    """``(level, title, body)`` for every heading-delimited segment in
+    document order; text before the first heading comes first as
+    ``(0, "", preamble)``."""
+    matches = list(_HEADING_RE.finditer(text))
+    if not matches:
+        return [(0, "", text)]
+    segments: List[Tuple[int, str, str]] = []
+    if matches[0].start() > 0:
+        segments.append((0, "", text[: matches[0].start()]))
+    for i, m in enumerate(matches):
+        body_end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+        segments.append(
+            (len(m.group(1)), _clean_heading_title(m.group(2)),
+             text[m.end(): body_end])
+        )
+    return segments
+
+
+def _wikitables_with_pos(segment: str) -> List[Tuple[int, str]]:
+    """``(offset, table)`` for every outermost ``{| ... |}`` table inside
+    *segment* (nesting-aware, same depth logic as :func:`_wikitables`)."""
+    found: List[Tuple[int, str]] = []
+    depth, start, i = 0, None, 0
+    while i < len(segment):
+        if segment.startswith("{|", i):
+            if depth == 0:
+                start = i
+            depth += 1
+            i += 2
+        elif segment.startswith("|}", i):
+            depth -= 1
+            if depth == 0 and start is not None:
+                found.append((start, segment[start:i + 2]))
+                start = None
+            i += 2
+        else:
+            i += 1
+    return found
+
+
+def _iter_poll_tables(text: str) -> List[Tuple[List[str], str, str]]:
+    """Every wikitable in *text* with its heading context.
+
+    Returns ``(context_titles, table, text_before_table)`` triples where
+    *context_titles* is the cleaned heading path containing the table
+    (nearest heading last) and *text_before_table* is the wikitext between
+    the current section's start and the table (used for bold matchup lines).
+    Tables under boilerplate sections (See also / References / ...) are
+    skipped.
+    """
+    out: List[Tuple[List[str], str, str]] = []
+    stack: List[Tuple[int, str]] = []
+    for level, title, body in _heading_segments(text):
+        while stack and stack[-1][0] >= level:
+            stack.pop()
+        if level > 0:
+            stack.append((level, title))
+        titles = [t for _, t in stack]
+        if any(t.lower() in _POLLING_SKIP_SECTIONS for t in titles):
+            continue
+        for pos, table in _wikitables_with_pos(body):
+            out.append((titles, table, body[:pos]))
+    return out
+
+
+def _matchup_of(context_titles: List[str], pre_text: str) -> str:
+    """Best-effort matchup label for a polling table.
+
+    The last bold 'A vs. B' line before the table wins (the state articles
+    label their tables that way); otherwise the nearest heading that itself
+    names a matchup (the nationwide article's level-3 matchup sections) or a
+    race-shape heading ('Two-way race', ... as in the 2016 nationwide
+    article).
+    """
+    cleaned = _strip_refs(pre_text or "")
+    m = None
+    for m in _BOLD_VS_RE.finditer(cleaned):
+        pass
+    if m is not None:
+        return re.sub(r"\s+", " ", m.group(1)).strip()
+    for title in reversed(context_titles):
+        low = title.lower()
+        if " vs" in low or "race" in low:
+            return title
+    return ""
+
+
+def _classify_poll(table: str, context_titles: List[str], matchup: str) -> str:
+    """'Hypothetical' | 'Aggregate' | 'General' for one polling table."""
+    joined = " ".join(context_titles + [matchup]).lower()
+    head = table.split("|-", 1)[0].lower()
+    if "hypothetical" in joined:
+        return "Hypothetical"
+    if "aggregate" in joined or "aggregation" in head:
+        return "Aggregate"
+    return "General"
+
+
+def _materialize_body_rowspans(table: str) -> str:
+    """Rebuild a wikitable with body-row ``rowspan`` inheritance made explicit.
+
+    The 2016-era statewide polling tables vertically merge a candidate's
+    percentage across consecutive polls (``rowspan="2"`` '48%' covering two
+    pollster rows); the shared Senate parser aligns rows positionally against
+    the header, so a row missing the inherited cell would shift every later
+    value one column left.  Header rows ('!' rows) are copied verbatim so
+    colspan group headers keep working; only body rows are rebuilt, one cell
+    per occupied column.
+    """
+    out_lines: List[str] = []
+    pending: Dict[int, Tuple[str, int]] = {}
+    ncols = 0
+    for chunk in re.split(r"(?m)^\|-.*$", table):
+        cells = _row_cells(chunk)
+        if not cells:
+            continue
+        if all(h for h, _ in cells):                     # header row: verbatim
+            for line in chunk.split("\n"):
+                s = line.strip()
+                if (not s or s.startswith("{|") or s.startswith(("|+", "|-"))
+                        or s.startswith("|}")):
+                    continue
+                out_lines.append(s)
+            continue
+        occupied = {c: v for c, (v, rem) in pending.items() if rem > 0}
+        cur: Dict[int, str] = dict(occupied)
+        col = 0
+        for _h, raw in cells:
+            attrs, content = _split_attrs_content(raw)
+            ad = _attrs_dict(attrs)
+            rs, cs = ad["rowspan"], ad["colspan"]
+            while col in cur:
+                col += 1
+            for k in range(cs):
+                cur[col + k] = content
+                if rs > 1:
+                    pending[col + k] = (content, rs)
+            col += cs
+        if cur:
+            ncols = max(ncols, max(cur) + 1)
+        # explicit row separator: the shared parser splits body rows on '|-'
+        out_lines.append("|-")
+        for c in range(ncols):
+            out_lines.append("| " + cur.get(c, ""))
+        pending = {c: (v, r - 1) for c, (v, r) in pending.items() if r - 1 > 0}
+    return "\n".join(["{|"] + out_lines + ["|}"])
+
+
+def _collapse_pct_pair_columns(table: str) -> str:
+    """Collapse 'Label | %' column pairs of the 2016-generation tables.
+
+    The 2016-era statewide presidential polling tables label their candidate
+    columns generically and put the percentage in a bare '%' sub-column
+    (``!Democrat !!% !!Republican !!%``) with the candidate *name* in the
+    value cell.  The shared Senate parser models one column per candidate, so
+    each pair is collapsed to a single ``Label`` column holding the poll's
+    percentage (party is inferred from the label later); tables without such
+    pairs pass through unchanged.
+    """
+    grid: List[Tuple[bool, List[Tuple[str, str]]]] = []   # (is_header, [(attrs, content)])
+    for chunk in re.split(r"(?m)^\|-.*$", table):
+        cells = _row_cells(chunk)
+        if not cells:
+            continue
+        grid.append((
+            all(h for h, _ in cells),
+            [_split_attrs_content(raw) for _h, raw in cells],
+        ))
+    if not grid:
+        return table
+
+    # locate the first all-header row and its pair map
+    header_idx = next((i for i, (is_hdr, _c) in enumerate(grid) if is_hdr), None)
+    if header_idx is None:
+        return table
+    header_cells = grid[header_idx][1]
+    cleaned = [_clean_text(content) for _a, content in header_cells]
+    pairs: Dict[int, str] = {}            # label col -> label text
+    for i, label in enumerate(cleaned[:-1]):
+        if (label and cleaned[i + 1].lower() in _PCT_HEADER_LABELS
+                and i not in pairs):
+            pairs[i] = label
+    if not pairs:
+        return table
+
+    out_lines: List[str] = []
+    for i, (is_hdr, cells) in enumerate(grid):
+        out_lines.append("|-")
+        for j, (attrs, content) in enumerate(cells):
+            prefix = "! " if is_hdr else "| "
+            if j in pairs:
+                label = pairs[j]
+                abbr = _POLL_PARTY_ABBR.get(
+                    re.sub(r"[^a-z ]", "", label.lower()).strip())
+                # the pair value: the percentage-looking cell wins
+                a_clean, b_clean = _clean_text(content), ""
+                if j + 1 < len(cells):
+                    b_clean = _clean_text(cells[j + 1][1])
+                if is_hdr:
+                    out_lines.append(
+                        f"! {label} ({abbr})" if abbr else f"! {label}")
+                else:
+                    value = (b_clean if _PCT_VALUE_OK_RE.match(b_clean)
+                             else a_clean if _PCT_VALUE_OK_RE.match(a_clean)
+                             else b_clean or a_clean)
+                    out_lines.append("| " + value)
+            elif j - 1 in pairs:
+                continue                                  # consumed '%' column
+            elif attrs:
+                out_lines.append(f"{prefix}{attrs}|{content}")
+            else:
+                out_lines.append(prefix + content)
+    return "\n".join(["{|"] + out_lines + ["|}"])
+
+
+def _parse_one_poll(table: str, state_name: str, context_titles: List[str],
+                    pre_text: str) -> Optional[pd.DataFrame]:
+    """Parse one polling table into a long-format frame with ``Matchup`` and
+    ``Poll_Type`` columns attached (``Primary_Type`` placeholder dropped)."""
+    if _ROWSPAN_RE.search(table):
+        try:
+            table = _materialize_body_rowspans(table)
+        except Exception:                # never lose the row over a rebuild bug
+            logger.debug("rowspan materialisation failed for a %s table",
+                         state_name, exc_info=True)
+    table = _collapse_pct_pair_columns(table)
+    wide = parse_polling_table_universal(
+        "\n== Polling ==\n" + table, state_name
+    )
+    if wide.empty:
+        return None
+    long_df = wide_to_long_polls(wide, state_name)
+    if long_df.empty:
+        return None
+    matchup = _matchup_of(context_titles, pre_text)
+    long_df["Matchup"] = matchup
+    long_df["Poll_Type"] = _classify_poll(table, context_titles, matchup)
+    return long_df.drop(columns=["Primary_Type"], errors="ignore")
+
+
+def _split_trailing_party(candidate: str, party: str) -> Tuple[str, str]:
+    """Split a trailing full party label ('Kamala Harris Democratic',
+    'Kamala Harris (Democrat)') off a candidate header, and map bare party
+    headers ('Democrat') to their party.  Header generations without
+    ``{{nobold}}`` wrappers never match the shared parser's '(R)' pattern."""
+    if party and party != "Unknown":
+        return candidate, party
+    if not isinstance(candidate, str) or not candidate.strip():
+        return candidate, party
+    c = re.sub(r"\s+", " ", candidate).strip()
+    low = c.lower().strip(".,()")
+    if low in _POLL_PARTY_ABBR:                      # whole header IS a party
+        return c, _POLL_PARTY_ABBR[low]
+    m = re.search(r"\s+(\S+)$", c)
+    if m:
+        word = m.group(1).lower().strip(".,()")
+        abbr = _POLL_PARTY_ABBR.get(word)
+        if abbr:
+            name = c[: m.start()].strip().rstrip("()-–— ")
+            if name:
+                return name, abbr
+    return c, party or "Unknown"
+
+
+def _finalize_polling(frames: List[pd.DataFrame], year: int,
+                      scope: str) -> pd.DataFrame:
+    """Concat raw long frames, stamp ``Year`` / ``Scope``, enrich parties,
+    de-duplicate overlapping sources and normalise dates."""
+    if not frames:
+        return pd.DataFrame()
+    df = pd.concat(frames, ignore_index=True)
+    df.insert(0, "Year", int(year))
+    df.insert(1, "Scope", scope)
+    pairs = [
+        _split_trailing_party(c, p)
+        for c, p in zip(df.get("Candidate", ""), df.get("Party", ""))
+    ]
+    df["Candidate"] = [p[0] for p in pairs]
+    df["Party"] = [p[1] for p in pairs]
+    # a polling percentage is numeric; candidate names or markup leftovers
+    # leaking into the Pct column (mis-aligned source cells) are dropped
+    if len(df):
+        df = df[df["Pct"].astype(str).str.match(_PCT_VALUE_OK_RE, na=False)]
+    df = df.drop_duplicates(
+        subset=["Year", "State", "Poll_Source", "Date", "Candidate", "Pct"],
+        keep="first",
+    ).reset_index(drop=True)
+    df = normalize_polling_date_columns(df)
+    return df.reindex(columns=_POLLING_COLUMNS)
+
+
+def _nationwide_frames(text: str) -> List[pd.DataFrame]:
+    """Raw long frames from the cycle's nationwide polling article."""
+    if not text:
+        return []
+    frames: List[pd.DataFrame] = []
+    for titles, table, pre in _iter_poll_tables(_prepare_polling_wikitext(text)):
+        frame = _parse_one_poll(table, "National", titles, pre)
+        if frame is not None:
+            frame["State"] = "National"
+            frame.insert(1, "State_Code", "US")
+            frames.append(frame)
+    return frames
+
+
+def _statewide_article_frames(text: str) -> List[pd.DataFrame]:
+    """Raw long frames from the cycle's statewide polling article.
+
+    Only sections whose heading names a jurisdiction are mined — tables under
+    generic sections ('Most recent polling', ...) cannot be attributed to a
+    single state.  2020+ vintages hold no real tables (they transclude the
+    state articles via ``{{#section-h:...}}``) and naturally yield nothing.
+    """
+    if not text:
+        return []
+    frames: List[pd.DataFrame] = []
+    for _level, title, body in _heading_segments(_prepare_polling_wikitext(text)):
+        code = _STATE_CODES.get(title)
+        if code is None or code == "US":
+            continue
+        state_name = _CODE_TO_NAME[code]
+        for titles, table, pre in _iter_poll_tables(body):
+            frame = _parse_one_poll(table, state_name, titles, pre)
+            if frame is not None:
+                frame["State"] = state_name
+                frame.insert(1, "State_Code", code)
+                frames.append(frame)
+    return frames
+
+
+def _state_article_frames(text: str, state: str, code: str) -> List[pd.DataFrame]:
+    """Raw long frames from one state presidential article's polling sections
+    (``== Polling ==`` / ``== Polls ==`` at any level, e.g. under Campaign)."""
+    if not text:
+        return []
+    frames: List[pd.DataFrame] = []
+    prepared = _prepare_polling_wikitext(text)
+    for head_start, _head_end, scope_end, _lvl in iter_polling_spans(prepared):
+        scope = prepared[head_start:scope_end]
+        for titles, table, pre in _iter_poll_tables(scope):
+            frame = _parse_one_poll(table, state, titles, pre)
+            if frame is not None:
+                frame["State"] = state
+                frame.insert(1, "State_Code", code)
+                frames.append(frame)
+    return frames
+
+
+def collect_presidential_polling(
+    year: int,
+    state_articles: List[Tuple[str, str, Optional[str]]],
+    national_text: Optional[str],
+    statewide_text: Optional[str],
+) -> "Tuple[pd.DataFrame, pd.DataFrame]":
+    """Polling for one presidential cycle from every available source.
+
+    *state_articles* carries ``(state, code, wikitext)`` per jurisdiction (the
+    texts already fetched for the county results).  Returns
+    ``(national_polling, state_polling)`` in :data:`_POLLING_COLUMNS` layout
+    (empty frames when nothing parsed).
+    """
+    national = _finalize_polling(_nationwide_frames(national_text), year, "National")
+
+    state_frames: List[pd.DataFrame] = []
+    state_frames.extend(_statewide_article_frames(statewide_text))
+    for state, code, text in state_articles:
+        state_frames.extend(_state_article_frames(text, state, code))
+    state = _finalize_polling(state_frames, year, "State")
+    return national, state
+
+
+def _rebuild_polling_combined(pres_dir: str, family: str) -> Optional[pd.DataFrame]:
+    """Rebuild ``presidential_{family}_all.csv`` from every per-year file on
+    disk (mirrors the Senate pipeline: per-year files are the source of truth,
+    so a single-cycle run can never clobber multi-decade history)."""
+    import glob
+
+    parts: List[pd.DataFrame] = []
+    for path in sorted(glob.glob(os.path.join(pres_dir, f"presidential_{family}_*.csv"))):
+        name = os.path.basename(path)
+        if not re.fullmatch(rf"presidential_{family}_\d{{4}}\.csv", name):
+            continue
+        try:
+            df_year = pd.read_csv(path, dtype=str, keep_default_na=False, na_values=[""])
+        except Exception:
+            logger.warning("Could not read %s for the combined file — skipping", path)
+            continue
+        if len(df_year):
+            parts.append(df_year)
+    if not parts:
+        return None
+    combined = pd.concat(parts, ignore_index=True)
+    if "Year" in combined.columns:
+        combined = combined.sort_values(
+            ["Year"] + [c for c in ("State", "Date", "Poll_Source", "Candidate")
+                        if c in combined.columns],
+            kind="stable",
+        ).reset_index(drop=True)
+    return combined
+
+
+# ────────────────────────────────────────────────────────────────────────────
 # BATCH DRIVER
 # ────────────────────────────────────────────────────────────────────────────
 
@@ -803,9 +1351,18 @@ def run(
     end_year: int = 2024,
     output_dir: str = "data",
     client: Optional[WikiAPIClient] = None,
+    include_polling: bool = True,
 ) -> pd.DataFrame:
     """CLI entry point: process presidential cycles from *start_year* to
-    *end_year*, writing CSVs under ``<output_dir>/presidential/``."""
+    *end_year*, writing CSVs under ``<output_dir>/presidential/``.
+
+    When *include_polling* is set (default) the cycle's opinion-polling
+    articles are fetched alongside the per-state result articles (two extra
+    batched titles per cycle) and
+    ``presidential_{national,state}_polling_{year}.csv`` are written next to
+    the results; pass ``include_polling=False`` (CLI
+    ``--no-include-polling``) for the results-only behaviour.
+    """
     years = presidential_years(start_year, end_year)
     if not years:
         logger.warning(
@@ -821,17 +1378,23 @@ def run(
     client = client or get_default_client()
 
     all_frames: List[pd.DataFrame] = []
-    meta: Dict = {"years": {}, "missing_articles": []}
+    meta: Dict = {"years": {}, "missing_articles": [], "polling": {}}
 
     for year in years:
         titles = [page_title(year, suffix) for suffix, _, _ in PLACES]
+        nat_title = sw_title = None
+        if include_polling:
+            nat_title, sw_title = polling_article_titles(year)
+            titles = titles + [nat_title, sw_title]
         content = client.fetch_wikitext(titles)
 
         frames: List[pd.DataFrame] = []
+        state_articles: List[Tuple[str, str, Optional[str]]] = []
         year_meta: Dict = {}
         for suffix, state, code in PLACES:
             title = page_title(year, suffix)
             text = content.get(title)
+            state_articles.append((state, code, text))
             if not text:
                 logger.warning("  %s %-22s — article missing, skipped", year, state)
                 meta["missing_articles"].append(title)
@@ -877,21 +1440,63 @@ def run(
             df_year.to_csv(path, index=False)
             logger.info("  saved -> %s", path)
             all_frames.append(df_year)
+
+        if include_polling:
+            national_text = content.get(nat_title) if nat_title else None
+            statewide_text = content.get(sw_title) if sw_title else None
+            if not national_text:
+                meta["missing_articles"].append(nat_title)
+            if not statewide_text:
+                meta["missing_articles"].append(sw_title)
+            nat_df, st_df = collect_presidential_polling(
+                year, state_articles, national_text, statewide_text,
+            )
+            if len(nat_df):
+                path = os.path.join(pres_dir, f"presidential_national_polling_{year}.csv")
+                nat_df.to_csv(path, index=False)
+                logger.info("  saved -> %s (%d rows)", path, len(nat_df))
+            if len(st_df):
+                path = os.path.join(pres_dir, f"presidential_state_polling_{year}.csv")
+                st_df.to_csv(path, index=False)
+                logger.info("  saved -> %s (%d rows)", path, len(st_df))
+            meta["polling"][year] = {
+                "nationwide_article": bool(national_text),
+                "statewide_article": bool(statewide_text),
+                "national_rows": int(len(nat_df)),
+                "state_rows": int(len(st_df)),
+            }
+            logger.info(
+                "  %s polling — national: %d rows, state: %d rows",
+                year, len(nat_df), len(st_df),
+            )
         meta["years"][year] = year_meta
 
+    combined: Optional[pd.DataFrame] = None
     if all_frames:
         combined = pd.concat(all_frames, ignore_index=True)
         path = os.path.join(pres_dir, "presidential_results_all.csv")
         combined.to_csv(path, index=False)
         logger.info("Combined -> %s (%s rows)", path, f"{len(combined):,}")
 
+    wrote_polling = False
+    if include_polling:
+        # rebuild the combined polling files from ALL per-year files on disk,
+        # so single-cycle runs never clobber multi-cycle history
+        for family in _POLLING_FAMILIES:
+            poll_combined = _rebuild_polling_combined(pres_dir, family)
+            if poll_combined is not None and len(poll_combined):
+                path = os.path.join(pres_dir, f"presidential_{family}_all.csv")
+                poll_combined.to_csv(path, index=False)
+                logger.info("Polling combined -> %s (%s rows)",
+                            path, f"{len(poll_combined):,}")
+                wrote_polling = True
+
+    if combined is not None or wrote_polling:
         ts = time.strftime("%Y%m%d_%H%M%S")
         with open(os.path.join(pres_dir, f"presidential_metadata_{ts}.json"), "w",
                   encoding="utf-8") as fh:
             json.dump(meta, fh, indent=2, default=str)
-        return combined
-
-    return pd.DataFrame()
+    return combined if combined is not None else pd.DataFrame()
 
 
 if __name__ == "__main__":

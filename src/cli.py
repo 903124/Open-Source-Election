@@ -22,7 +22,11 @@ Subcommands:
                results (vote counts) for every cycle; pass
                --no-include-off-years to process even years only, or
                --no-include-polling to skip polling extraction.
-    presidential  Parse county-level presidential results per state.
+    presidential  Parse county-level presidential results per state AND the
+               cycle's opinion polling (nationwide + state-level) from the
+               dedicated "Nationwide/Statewide opinion polling for the {year}
+               ..." articles plus the per-state articles' own Polling
+               sections; --no-include-polling skips polling extraction.
     lean       Predicted partisan lean per congressional district from the
                district->county mapping (resources/district_counties.json)
                + county presidential votes (supports 2004-2024): a blend of
@@ -62,6 +66,7 @@ Examples:
     python cli.py house --start-year 2017 --end-year 2017         # 2017 specials
     python cli.py house --start-year 2018 --end-year 2024 --no-include-off-years
     python cli.py presidential --start-year 2020 --end-year 2024
+    python cli.py presidential --start-year 2020 --end-year 2024 --no-include-polling
     python cli.py lean                     # 2004-2024 from local presidential CSVs
     python cli.py lean --fetch-missing     # fetch missing presidential years first
     python cli.py lean --midterm           # midterm lean: house + senate + statewide + state-leg
@@ -200,7 +205,17 @@ def build_parser() -> argparse.ArgumentParser:
 
     sub.add_parser(
         "presidential", parents=[common],
-        help="Parse county-level presidential results (year range)",
+        help="Parse county-level presidential results + opinion polling "
+             "(year range)",
+    )
+    sub.choices["presidential"].add_argument(
+        "--include-polling", action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Extract presidential opinion polling from the cycle's "
+             "'Nationwide/Statewide opinion polling for the {year} ...' "
+             "articles plus the per-state articles' own Polling sections, "
+             "writing presidential_{national,state}_polling_{year}.csv "
+             "(default: on; disable with --no-include-polling)",
     )
 
     lean = sub.add_parser(
@@ -443,6 +458,7 @@ def main(argv: Optional[List[str]] = None) -> int:
             end_year=args.end_year,
             output_dir=args.output,
             client=client,
+            include_polling=getattr(args, "include_polling", True),
         )
 
     if args.command in ("lean", "all"):
