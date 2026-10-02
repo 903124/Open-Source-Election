@@ -1,0 +1,5 @@
+Year,State,State_Code,District,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+2007,Ohio,OH,5,Republican Primary,Basswood Research,2007-10-15,2007-10-15,2007-10-15,,,Buehrer,R,25%,False,"October 15, 2007"
+2007,Ohio,OH,5,Republican Primary,Basswood Research,2007-09-19,2007-09-19,2007-09-19,,,Buehrer,R,14%,False,"September 19, 2007"
+2007,Ohio,OH,5,Republican Primary,Basswood Research,2007-10-15,2007-10-15,2007-10-15,,,Latta,R,28%,False,"October 15, 2007"
+2007,Ohio,OH,5,Republican Primary,Basswood Research,2007-09-19,2007-09-19,2007-09-19,,,Latta,R,27%,False,"September 19, 2007"

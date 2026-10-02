@@ -1,0 +1,745 @@
+Year,State,State_Code,District,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Candidate,Party,Pct,Incumbent,Date_Original,Sample,MoE
+2010,Alabama,AL,2,General,Greenberg Quinlan Rosner Research,2010-10-09 to 2010-10-12,2010-10-09,2010-10-12,Bobby Bright,D,51%,False,"October 9–12, 2010",,
+2010,Alabama,AL,2,General,Public Opinion Strategies,2010-10-03 to 2010-10-04,2010-10-03,2010-10-04,Bobby Bright,D,43%,False,"October 3–4, 2010",,
+2010,Alabama,AL,2,General,Greenberg Quinlan Rosner Research,2010-09-26 to 2010-09-28,2010-09-26,2010-09-28,Bobby Bright,D,52%,False,"September 26–28, 2010",,
+2010,Alabama,AL,2,General,Greenberg Quinlan Rosner Research,2010-08-23 to 2010-08-26,2010-08-23,2010-08-26,Bobby Bright,D,52%,False,"August 23–26, 2010",,
+2010,Alabama,AL,2,General,Anzalone-Liszt Research,2010-02-08 to 2010-02-11,2010-02-08,2010-02-11,Bobby Bright,D,54%,False,"February 8–11, 2010",,
+2010,Alabama,AL,2,General,Greenberg Quinlan Rosner Research,2010-10-09 to 2010-10-12,2010-10-09,2010-10-12,Martha Roby,R,39%,False,"October 9–12, 2010",,
+2010,Alabama,AL,2,General,Public Opinion Strategies,2010-10-03 to 2010-10-04,2010-10-03,2010-10-04,Martha Roby,R,45%,False,"October 3–4, 2010",,
+2010,Alabama,AL,2,General,Greenberg Quinlan Rosner Research,2010-09-26 to 2010-09-28,2010-09-26,2010-09-28,Martha Roby,R,43%,False,"September 26–28, 2010",,
+2010,Alabama,AL,2,General,Greenberg Quinlan Rosner Research,2010-08-23 to 2010-08-26,2010-08-23,2010-08-26,Martha Roby,R,43%,False,"August 23–26, 2010",,
+2010,Alabama,AL,2,General,Anzalone-Liszt Research,2010-02-08 to 2010-02-11,2010-02-08,2010-02-11,Martha Roby,R,30%,False,"February 8–11, 2010",,
+2010,Alabama,AL,5,General,Public Opinion Strategies,2010-08-22 to 2010-08-23,2010-08-22,2010-08-23,Mo Brooks,R,48%,False,"August 22–23, 2010",,
+2010,Alabama,AL,5,General,Public Opinion Strategies,2010-06,2010-06-01,2010-06-30,Mo Brooks,R,48%,False,June 2010,,
+2010,Alabama,AL,5,General,Public Opinion Strategies,2010-08-22 to 2010-08-23,2010-08-22,2010-08-23,Steve Raby,D,37%,False,"August 22–23, 2010",,
+2010,Alabama,AL,5,General,Public Opinion Strategies,2010-06,2010-06-01,2010-06-30,Steve Raby,D,40%,False,June 2010,,
+2010,Arizona,AZ,1,General,Lake Research Partners (D),2010-10-12 to 2010-10-14,2010-10-12,2010-10-14,Ann Kirkpatrick,D,41%,False,"October 12–14, 2010",500 (LV),4.4
+2010,Arizona,AZ,1,General,The Hill,2010-09-25 to 2010-09-30,2010-09-25,2010-09-30,Ann Kirkpatrick,D,39%,False,"September 25–30, 2010",403 (LV),4.9
+2010,Arizona,AZ,1,General,Moore Information (R),2010-08-30 to 2010-08-31,2010-08-30,2010-08-31,Ann Kirkpatrick,D,43%,False,"August 30–31, 2010",412 (LV),4.8
+2010,Arizona,AZ,1,General,American Action Forum,2010-08-25 to 2010-08-29,2010-08-25,2010-08-29,Ann Kirkpatrick,D,41%,False,"August 25–29, 2010",400 (LV),4.9
+2010,Arizona,AZ,1,General,Lake Research Partners (D),2010-08-24 to 2010-08-26,2010-08-24,2010-08-26,Ann Kirkpatrick,D,43%,False,"August 24–26, 2010",500 (LV),4.4
+2010,Arizona,AZ,1,General,Lake Research Partners (D),2010-10-12 to 2010-10-14,2010-10-12,2010-10-14,Paul Gosar,R,38%,False,"October 12–14, 2010",500 (LV),4.4
+2010,Arizona,AZ,1,General,The Hill,2010-09-25 to 2010-09-30,2010-09-25,2010-09-30,Paul Gosar,R,46%,False,"September 25–30, 2010",403 (LV),4.9
+2010,Arizona,AZ,1,General,Moore Information (R),2010-08-30 to 2010-08-31,2010-08-30,2010-08-31,Paul Gosar,R,43%,False,"August 30–31, 2010",412 (LV),4.8
+2010,Arizona,AZ,1,General,American Action Forum,2010-08-25 to 2010-08-29,2010-08-25,2010-08-29,Paul Gosar,R,47%,False,"August 25–29, 2010",400 (LV),4.9
+2010,Arizona,AZ,1,General,Lake Research Partners (D),2010-08-24 to 2010-08-26,2010-08-24,2010-08-26,Paul Gosar,R,39%,False,"August 24–26, 2010",500 (LV),4.4
+2010,Arizona,AZ,1,General,Lake Research Partners (D),2010-10-12 to 2010-10-14,2010-10-12,2010-10-14,Nicole Patti,L,6%,False,"October 12–14, 2010",500 (LV),4.4
+2010,Arizona,AZ,1,General,The Hill,2010-09-25 to 2010-09-30,2010-09-25,2010-09-30,Nicole Patti,L,3%,False,"September 25–30, 2010",403 (LV),4.9
+2010,Arizona,AZ,3,General,Public Policy Polling,2010-10-16 to 2010-10-17,2010-10-16,2010-10-17,Ben Quayle,R,44%,False,"October 16–17, 2010",655 (LV),3.8
+2010,Arizona,AZ,3,General,Public Policy Polling,2010-10-16 to 2010-10-17,2010-10-16,2010-10-17,Jon Hulburd,D,46%,False,"October 16–17, 2010",655 (LV),3.8
+2010,Arizona,AZ,5,General,Penn Schoen Berland (D),2010-10-12 to 2010-10-14,2010-10-12,2010-10-14,Harry Mitchell,D,42%,False,"October 12–14, 2010",408 (LV),4.9
+2010,Arizona,AZ,5,General,Benenson Strategy Group (D),2010-10-05 to 2010-10-07,2010-10-05,2010-10-07,Harry Mitchell,D,46%,False,"October 5–7, 2010",400 (LV),4.9
+2010,Arizona,AZ,5,General,National Research (R),2010-10-05 to 2010-10-06,2010-10-05,2010-10-06,Harry Mitchell,D,43%,False,"October 5–6, 2010",400 (LV),4.9
+2010,Arizona,AZ,5,General,"Bennett, Petts & Normington (D)",2010-09-26 to 2010-09-27,2010-09-26,2010-09-27,Harry Mitchell,D,43%,False,"September 26–27, 2010",400 (LV),4.9
+2010,Arizona,AZ,5,General,Harstad Strategic Research (D),2010-09-13 to 2010-09-16,2010-09-13,2010-09-16,Harry Mitchell,D,45%,False,"September 13–16, 2010",509 (LV),4.3
+2010,Arizona,AZ,5,General,National Research (R),2010-08-31 to 2010-09-02,2010-08-31,2010-09-02,Harry Mitchell,D,38%,False,"August 31-September 2, 2010",400 (LV),4.9
+2010,Arizona,AZ,5,General,American Action Forum,2010-08-25 to 2010-08-29,2010-08-25,2010-08-29,Harry Mitchell,D,44%,False,"August 25–29, 2010",400 (LV),4.9
+2010,Arizona,AZ,5,General,Penn Schoen Berland (D),2010-10-12 to 2010-10-14,2010-10-12,2010-10-14,David Schweikert,R,45%,False,"October 12–14, 2010",408 (LV),4.9
+2010,Arizona,AZ,5,General,Benenson Strategy Group (D),2010-10-05 to 2010-10-07,2010-10-05,2010-10-07,David Schweikert,R,39%,False,"October 5–7, 2010",400 (LV),4.9
+2010,Arizona,AZ,5,General,National Research (R),2010-10-05 to 2010-10-06,2010-10-05,2010-10-06,David Schweikert,R,45%,False,"October 5–6, 2010",400 (LV),4.9
+2010,Arizona,AZ,5,General,"Bennett, Petts & Normington (D)",2010-09-26 to 2010-09-27,2010-09-26,2010-09-27,David Schweikert,R,40%,False,"September 26–27, 2010",400 (LV),4.9
+2010,Arizona,AZ,5,General,Harstad Strategic Research (D),2010-09-13 to 2010-09-16,2010-09-13,2010-09-16,David Schweikert,R,44%,False,"September 13–16, 2010",509 (LV),4.3
+2010,Arizona,AZ,5,General,National Research (R),2010-08-31 to 2010-09-02,2010-08-31,2010-09-02,David Schweikert,R,46%,False,"August 31-September 2, 2010",400 (LV),4.9
+2010,Arizona,AZ,5,General,American Action Forum,2010-08-25 to 2010-08-29,2010-08-25,2010-08-29,David Schweikert,R,50%,False,"August 25–29, 2010",400 (LV),4.9
+2010,Arizona,AZ,5,General,Penn Schoen Berland (D),2010-10-12 to 2010-10-14,2010-10-12,2010-10-14,Nick Coons,L,1%,False,"October 12–14, 2010",408 (LV),4.9
+2010,Arizona,AZ,5,General,"Bennett, Petts & Normington (D)",2010-09-26 to 2010-09-27,2010-09-26,2010-09-27,Nick Coons,L,6%,False,"September 26–27, 2010",400 (LV),4.9
+2010,Arizona,AZ,5,General,Harstad Strategic Research (D),2010-09-13 to 2010-09-16,2010-09-13,2010-09-16,Nick Coons,L,6%,False,"September 13–16, 2010",509 (LV),4.3
+2010,Arizona,AZ,7,General,Summit Consulting Group,2010-10-04 to 2010-10-05,2010-10-04,2010-10-05,Raúl Grijalva,D,37%,False,"October 4–5, 2010","1,807 (LV)",3.0
+2010,Arizona,AZ,7,General,Magellan Strategies (R),2010-09-29,2010-09-29,2010-09-29,Raúl Grijalva,D,40%,False,"September 29, 2010",686 (LV),3.7
+2010,Arizona,AZ,7,General,American Political Consultants (R),2010-09-25 to 2010-09-26,2010-09-25,2010-09-26,Raúl Grijalva,D,42%,False,"September 25–26, 2010",450 (LV),4.3
+2010,Arizona,AZ,7,General,Summit Consulting Group,2010-10-04 to 2010-10-05,2010-10-04,2010-10-05,Ruth McClung,R,39%,False,"October 4–5, 2010","1,807 (LV)",3.0
+2010,Arizona,AZ,7,General,Magellan Strategies (R),2010-09-29,2010-09-29,2010-09-29,Ruth McClung,R,38%,False,"September 29, 2010",686 (LV),3.7
+2010,Arizona,AZ,7,General,American Political Consultants (R),2010-09-25 to 2010-09-26,2010-09-25,2010-09-26,Ruth McClung,R,35%,False,"September 25–26, 2010",450 (LV),4.3
+2010,Arizona,AZ,7,General,Magellan Strategies (R),2010-09-29,2010-09-29,2010-09-29,George Keane,L,4%,False,"September 29, 2010",686 (LV),3.7
+2010,Arizona,AZ,7,General,Magellan Strategies (R),2010-09-29,2010-09-29,2010-09-29,Harley Meyer,I,5%,False,"September 29, 2010",686 (LV),3.7
+2010,Arizona,AZ,8,General,American Action Forum,2010-08-25 to 2010-08-29,2010-08-25,2010-08-29,Gabrielle Giffords,D,46%,False,"August 25–29, 2010",400 (LV),4.9
+2010,Arizona,AZ,8,General,American Action Forum,2010-08-25 to 2010-08-29,2010-08-25,2010-08-29,Jesse Kelly,R,46%,False,"August 25–29, 2010",400 (LV),4.9
+2010,Arkansas,AR,1,General,Talk Business Poll,2010-08-17,2010-08-17,2010-08-17,Rick Crawford,R,48%,False,"August 17, 2010",,
+2010,Arkansas,AR,1,General,Talk Business Poll,2010-08-17,2010-08-17,2010-08-17,Chad Causey,D,32%,False,"August 17, 2010",,
+2010,Arkansas,AR,1,General,Talk Business Poll,2010-08-17,2010-08-17,2010-08-17,Ken Adler,G,4%,False,"August 17, 2010",,
+2010,Arkansas,AR,2,General,Talk Business Poll,2010-08-17,2010-08-17,2010-08-17,Tim Griffin,R,52%,False,"August 17, 2010",,
+2010,Arkansas,AR,2,General,Talk Business Poll,2010-08-17,2010-08-17,2010-08-17,Joyce Elliott,D,35%,False,"August 17, 2010",,
+2010,Arkansas,AR,2,General,Talk Business Poll,2010-08-17,2010-08-17,2010-08-17,Lance Levi,I,3%,False,"August 17, 2010",,
+2010,Arkansas,AR,2,General,Talk Business Poll,2010-08-17,2010-08-17,2010-08-17,Lewis Kennedy,G,1%,False,"August 17, 2010",,
+2010,Arkansas,AR,3,General,Talk Business Poll,2010-08-25,2010-08-25,2010-08-25,Steve Womack,R,55%,False,"August 25, 2010",,
+2010,Arkansas,AR,3,General,Talk Business Poll,2010-08-25,2010-08-25,2010-08-25,David Whitaker,D,31%,False,"August 25, 2010",,
+2010,Arkansas,AR,4,General,Talk Business Poll,2010-08-25 to 2010-08-26,2010-08-25,2010-08-26,Mike Ross,D,49%,False,"August 25–26, 2010",,
+2010,Arkansas,AR,4,General,Talk Business Poll,2010-08-25 to 2010-08-26,2010-08-25,2010-08-26,Beth Anne Rankin,R,31%,False,"August 25–26, 2010",,
+2010,Arkansas,AR,4,General,Talk Business Poll,2010-08-25 to 2010-08-26,2010-08-25,2010-08-26,Joshua Drake,G,4%,False,"August 25–26, 2010",,
+2010,Colorado,CO,1,General,ccAdvertising,2010-10-17 to 2010-10-19,2010-10-17,2010-10-19,Diana DeGette,D,44%,False,"October 17–19, 2010",698 (LV),
+2010,Colorado,CO,1,General,ccAdvertising,2010-10-17 to 2010-10-19,2010-10-17,2010-10-19,Mike Fallon,R,36%,False,"October 17–19, 2010",698 (LV),
+2010,Colorado,CO,2,General,Magellan Data and Mapping Strategies,2010-09-20,2010-09-20,2010-09-20,Jared Polis,D,48%,False,"September 20, 2010",688 (LV),3.7
+2010,Colorado,CO,2,General,Magellan Data and Mapping Strategies,2010-09-20,2010-09-20,2010-09-20,Stephen Bailey,R,36%,False,"September 20, 2010",688 (LV),3.7
+2010,Colorado,CO,3,General,Penn Schoen Berland,2010-10-19 to 2010-10-21,2010-10-19,2010-10-21,John Salazar,D,43%,False,"October 19–21, 2010",400 (LV),4.9
+2010,Colorado,CO,3,General,"Ayres, McHenry & Associates",2010-08-23 to 2010-08-28,2010-08-23,2010-08-28,John Salazar,D,43%,False,"August 23–28, 2010",400 (LV),4.9
+2010,Colorado,CO,3,General,Magellan Data and Mapping Strategies,2010-08-17 to 2010-08-19,2010-08-17,2010-08-19,John Salazar,D,43%,False,"August 17–19, 2010",,3.1
+2010,Colorado,CO,3,General,Tarrance Group,2009-12-08 to 2009-12-09,2009-12-08,2009-12-09,John Salazar,D,46%,False,"December 8–9, 2009",,5.7
+2010,Colorado,CO,3,General,Penn Schoen Berland,2010-10-19 to 2010-10-21,2010-10-19,2010-10-21,Scott Tipton,R,47%,False,"October 19–21, 2010",400 (LV),4.9
+2010,Colorado,CO,3,General,"Ayres, McHenry & Associates",2010-08-23 to 2010-08-28,2010-08-23,2010-08-28,Scott Tipton,R,51%,False,"August 23–28, 2010",400 (LV),4.9
+2010,Colorado,CO,3,General,Magellan Data and Mapping Strategies,2010-08-17 to 2010-08-19,2010-08-17,2010-08-19,Scott Tipton,R,49%,False,"August 17–19, 2010",,3.1
+2010,Colorado,CO,3,General,Tarrance Group,2009-12-08 to 2009-12-09,2009-12-08,2009-12-09,Scott Tipton,R,44%,False,"December 8–9, 2009",,5.7
+2010,Colorado,CO,4,General,ccAdvertising,2010-10-01,2010-10-01,2010-10-01,Betsy Markey,D,35%,False,"October 1, 2010","2,743 (LV)",
+2010,Colorado,CO,4,General,Penn Schoen Berland,2010-09-25 to 2010-09-27,2010-09-25,2010-09-27,Betsy Markey,D,41%,False,"September 25–27, 2010",391 (LV),5.0
+2010,Colorado,CO,4,General,"Bennett, Petts & Normington",2010-09-06 to 2010-09-07,2010-09-06,2010-09-07,Betsy Markey,D,38%,False,"September 6–7, 2010",400 (LV),
+2010,Colorado,CO,4,General,"Ayres, McHenry & Associates",2010-08-23 to 2010-08-28,2010-08-23,2010-08-28,Betsy Markey,D,39%,False,"August 23–28, 2010",400 (LV),4.9
+2010,Colorado,CO,4,General,ccAdvertising,2010-10-01,2010-10-01,2010-10-01,Cory Gardner,R,47%,False,"October 1, 2010","2,743 (LV)",
+2010,Colorado,CO,4,General,Penn Schoen Berland,2010-09-25 to 2010-09-27,2010-09-25,2010-09-27,Cory Gardner,R,44%,False,"September 25–27, 2010",391 (LV),5.0
+2010,Colorado,CO,4,General,"Bennett, Petts & Normington",2010-09-06 to 2010-09-07,2010-09-06,2010-09-07,Cory Gardner,R,38%,False,"September 6–7, 2010",400 (LV),
+2010,Colorado,CO,4,General,"Ayres, McHenry & Associates",2010-08-23 to 2010-08-28,2010-08-23,2010-08-28,Cory Gardner,R,50%,False,"August 23–28, 2010",400 (LV),4.9
+2010,Colorado,CO,7,General,Magellan Data and Mapping Strategies,2010-08-08,2010-08-08,2010-08-08,Ed Perlmutter,D,39%,False,"August 8, 2010",830 (LV),3.4
+2010,Colorado,CO,7,General,Magellan Data and Mapping Strategies,2010-08-08,2010-08-08,2010-08-08,Ryan Frazier,R,40%,False,"August 8, 2010",830 (LV),3.4
+2010,Connecticut,CT,1,General,CT Capitol Report,2010-10-24 to 2010-10-26,2010-10-24,2010-10-26,John Larson,D,55.8%,False,"October 24–26, 2010",,
+2010,Connecticut,CT,1,General,CT Capitol Report,2010-10-03 to 2010-10-05,2010-10-03,2010-10-05,John Larson,D,51.8%,False,"October 3–5, 2010",,
+2010,Connecticut,CT,1,General,CT Capitol Report,2010-10-24 to 2010-10-26,2010-10-24,2010-10-26,Ann Brickley,R,38.3%,False,"October 24–26, 2010",,
+2010,Connecticut,CT,1,General,CT Capitol Report,2010-10-03 to 2010-10-05,2010-10-03,2010-10-05,Ann Brickley,R,44.7%,False,"October 3–5, 2010",,
+2010,Connecticut,CT,2,General,CT Capitol Report,2010-10-24 to 2010-10-26,2010-10-24,2010-10-26,Joe Courtney,D,57.2%,False,"October 24–26, 2010",,
+2010,Connecticut,CT,2,General,CT Capitol Report,2010-10-03 to 2010-10-05,2010-10-03,2010-10-05,Joe Courtney,D,55.0,False,"October 3–5, 2010",,
+2010,Connecticut,CT,2,General,CT Capitol Report,2010-10-24 to 2010-10-26,2010-10-24,2010-10-26,Janet Peckinpaugh,R,38%,False,"October 24–26, 2010",,
+2010,Connecticut,CT,2,General,CT Capitol Report,2010-10-03 to 2010-10-05,2010-10-03,2010-10-05,Janet Peckinpaugh,R,41.3%,False,"October 3–5, 2010",,
+2010,Connecticut,CT,3,General,CT Capitol Report,2010-10-24 to 2010-10-26,2010-10-24,2010-10-26,Rosa DeLauro,D,56%,False,"October 24–26, 2010",,
+2010,Connecticut,CT,3,General,CT Capitol Report,2010-10-03 to 2010-10-05,2010-10-03,2010-10-05,Rosa DeLauro,D,58.1%,False,"October 3–5, 2010",,
+2010,Connecticut,CT,3,General,CT Capitol Report,2010-10-24 to 2010-10-26,2010-10-24,2010-10-26,Jerry Labriola,R,37.9%,False,"October 24–26, 2010",,
+2010,Connecticut,CT,3,General,CT Capitol Report,2010-10-03 to 2010-10-05,2010-10-03,2010-10-05,Jerry Labriola,R,36.5%,False,"October 3–5, 2010",,
+2010,Connecticut,CT,4,General,CT Capitol Report,2010-10-24 to 2010-10-26,2010-10-24,2010-10-26,Jim Himes,D,46.1%,False,"October 24–26, 2010",,
+2010,Connecticut,CT,4,General,National Research,2010-10-17 to 2010-10-18,2010-10-17,2010-10-18,Jim Himes,D,42%,False,"October 17–18, 2010",,
+2010,Connecticut,CT,4,General,CT Capitol Report,2010-10-03 to 2010-10-05,2010-10-03,2010-10-05,Jim Himes,D,49.4%,False,"October 3–5, 2010",,
+2010,Connecticut,CT,4,General,National Research,2010-09-27 to 2010-09-28,2010-09-27,2010-09-28,Jim Himes,D,42%,False,"September 27–28, 2010",,
+2010,Connecticut,CT,4,General,National Research,2010-08-17 to 2010-08-18,2010-08-17,2010-08-18,Jim Himes,D,42%,False,"August 17–18, 2010",,
+2010,Connecticut,CT,4,General,American Action Forum,2010-07-28 to 2010-08-01,2010-07-28,2010-08-01,Jim Himes,D,46%,False,"July 28-Aug. 1, 2010",,
+2010,Connecticut,CT,4,General,CT Capitol Report,2010-10-24 to 2010-10-26,2010-10-24,2010-10-26,Dan Debicella,R,48%,False,"October 24–26, 2010",,
+2010,Connecticut,CT,4,General,National Research,2010-10-17 to 2010-10-18,2010-10-17,2010-10-18,Dan Debicella,R,46%,False,"October 17–18, 2010",,
+2010,Connecticut,CT,4,General,CT Capitol Report,2010-10-03 to 2010-10-05,2010-10-03,2010-10-05,Dan Debicella,R,47.2%,False,"October 3–5, 2010",,
+2010,Connecticut,CT,4,General,National Research,2010-09-27 to 2010-09-28,2010-09-27,2010-09-28,Dan Debicella,R,42%,False,"September 27–28, 2010",,
+2010,Connecticut,CT,4,General,National Research,2010-08-17 to 2010-08-18,2010-08-17,2010-08-18,Dan Debicella,R,38%,False,"August 17–18, 2010",,
+2010,Connecticut,CT,4,General,American Action Forum,2010-07-28 to 2010-08-01,2010-07-28,2010-08-01,Dan Debicella,R,42%,False,"July 28-Aug. 1, 2010",,
+2010,Connecticut,CT,5,General,CT Capitol Report,2010-10-28 to 2010-10-31,2010-10-28,2010-10-31,Chris Murphy,D,43.8%,False,"October 28–31, 2010",,
+2010,Connecticut,CT,5,General,CT Capitol Report,2010-10-24 to 2010-10-26,2010-10-24,2010-10-26,Chris Murphy,D,45.5%,False,"October 24–26, 2010",,
+2010,Connecticut,CT,5,General,Gotham Research Group,2010-10-04 to 2010-10-06,2010-10-04,2010-10-06,Chris Murphy,D,48%,False,"October 4–6, 2010",,
+2010,Connecticut,CT,5,General,CT Capitol Report,2010-10-03 to 2010-10-05,2010-10-03,2010-10-05,Chris Murphy,D,44.3%,False,"October 3–5, 2010",,
+2010,Connecticut,CT,5,General,Gotham Research Group,2010-09-19 to 2010-09-21,2010-09-19,2010-09-21,Chris Murphy,D,50%,False,"September 19–21, 2010",,
+2010,Connecticut,CT,5,General,National Research,2010-08-30 to 2010-08-31,2010-08-30,2010-08-31,Chris Murphy,D,40%,False,"August 30–31, 2010",,
+2010,Connecticut,CT,5,General,CT Capitol Report,2010-10-28 to 2010-10-31,2010-10-28,2010-10-31,Sam Caligiuri,R,51.5%,False,"October 28–31, 2010",,
+2010,Connecticut,CT,5,General,CT Capitol Report,2010-10-24 to 2010-10-26,2010-10-24,2010-10-26,Sam Caligiuri,R,46.9%,False,"October 24–26, 2010",,
+2010,Connecticut,CT,5,General,Gotham Research Group,2010-10-04 to 2010-10-06,2010-10-04,2010-10-06,Sam Caligiuri,R,34%,False,"October 4–6, 2010",,
+2010,Connecticut,CT,5,General,CT Capitol Report,2010-10-03 to 2010-10-05,2010-10-03,2010-10-05,Sam Caligiuri,R,49.7%,False,"October 3–5, 2010",,
+2010,Connecticut,CT,5,General,Gotham Research Group,2010-09-19 to 2010-09-21,2010-09-19,2010-09-21,Sam Caligiuri,R,37%,False,"September 19–21, 2010",,
+2010,Connecticut,CT,5,General,National Research,2010-08-30 to 2010-08-31,2010-08-30,2010-08-31,Sam Caligiuri,R,39%,False,"August 30–31, 2010",,
+2010,Delaware,DE,AL,General,Monmouth University,2010-10-25 to 2010-10-27,2010-10-25,2010-10-27,Glen Urquhart,R,44%,False,"October 25–27, 2010",,
+2010,Delaware,DE,AL,General,Fairleigh Dickinson,2010-10-20 to 2010-10-26,2010-10-20,2010-10-26,Glen Urquhart,R,36%,False,"October 20–26, 2010",,
+2010,Delaware,DE,AL,General,Monmouth University,2010-10-08 to 2010-10-11,2010-10-08,2010-10-11,Glen Urquhart,R,44%,False,"October 8–11, 2010",,
+2010,Delaware,DE,AL,General,Fairleigh Dickinson,2010-09-27 to 2010-10-03,2010-09-27,2010-10-03,Glen Urquhart,R,36%,False,"September 27 – October 3, 2010",,
+2010,Delaware,DE,AL,General,University of Delaware,2010-09-16 to 2010-09-30,2010-09-16,2010-09-30,Glen Urquhart,R,31%,False,"September 16–30, 2010",,
+2010,Delaware,DE,AL,General,Wilson Research Strategies,2010-09-27 to 2010-09-28,2010-09-27,2010-09-28,Glen Urquhart,R,41%,False,"September 27–28, 2010",,
+2010,Delaware,DE,AL,General,Grove Insight,2010-09-15 to 2010-09-18,2010-09-15,2010-09-18,Glen Urquhart,R,32%,False,"September 15–18, 2010",,
+2010,Delaware,DE,AL,General,Public Policy Polling,2010-09-11 to 2010-09-12,2010-09-11,2010-09-12,Glen Urquhart,R,37%,False,"September 11–12, 2010",,
+2010,Delaware,DE,AL,General,Public Policy Polling,2010-08-07 to 2010-08-08,2010-08-07,2010-08-08,Glen Urquhart,R,30%,False,"August 7–8, 2010",,
+2010,Delaware,DE,AL,General,Monmouth University,2010-10-25 to 2010-10-27,2010-10-25,2010-10-27,John Carney,D,51%,False,"October 25–27, 2010",,
+2010,Delaware,DE,AL,General,Fairleigh Dickinson,2010-10-20 to 2010-10-26,2010-10-20,2010-10-26,John Carney,D,53%,False,"October 20–26, 2010",,
+2010,Delaware,DE,AL,General,Monmouth University,2010-10-08 to 2010-10-11,2010-10-08,2010-10-11,John Carney,D,53%,False,"October 8–11, 2010",,
+2010,Delaware,DE,AL,General,Fairleigh Dickinson,2010-09-27 to 2010-10-03,2010-09-27,2010-10-03,John Carney,D,51%,False,"September 27 – October 3, 2010",,
+2010,Delaware,DE,AL,General,University of Delaware,2010-09-16 to 2010-09-30,2010-09-16,2010-09-30,John Carney,D,48%,False,"September 16–30, 2010",,
+2010,Delaware,DE,AL,General,Wilson Research Strategies,2010-09-27 to 2010-09-28,2010-09-27,2010-09-28,John Carney,D,45%,False,"September 27–28, 2010",,
+2010,Delaware,DE,AL,General,Grove Insight,2010-09-15 to 2010-09-18,2010-09-15,2010-09-18,John Carney,D,50%,False,"September 15–18, 2010",,
+2010,Delaware,DE,AL,General,Public Policy Polling,2010-09-11 to 2010-09-12,2010-09-11,2010-09-12,John Carney,D,48%,False,"September 11–12, 2010",,
+2010,Delaware,DE,AL,General,Public Policy Polling,2010-08-07 to 2010-08-08,2010-08-07,2010-08-08,John Carney,D,48%,False,"August 7–8, 2010",,
+2010,Florida,FL,2,General,The Hill,2010-10-16 to 2010-10-19,2010-10-16,2010-10-19,Allen Boyd,D,38%,False,"October 16–19, 2010",,
+2010,Florida,FL,2,General,Voter Survey Service,2010-10-14 to 2010-10-17,2010-10-14,2010-10-17,Allen Boyd,D,38%,False,"October 14–17, 2010",,
+2010,Florida,FL,2,General,National Research,2010-09-29 to 2010-09-30,2010-09-29,2010-09-30,Allen Boyd,D,30%,False,"September 29–30, 2010",,
+2010,Florida,FL,2,General,Tarrance Group,2010-04-12 to 2010-04-13,2010-04-12,2010-04-13,Allen Boyd,D,37%,False,"April 12–13, 2010",,
+2010,Florida,FL,2,General,The Hill,2010-10-16 to 2010-10-19,2010-10-16,2010-10-19,Steve Southerland,R,50%,False,"October 16–19, 2010",,
+2010,Florida,FL,2,General,Voter Survey Service,2010-10-14 to 2010-10-17,2010-10-14,2010-10-17,Steve Southerland,R,50%,False,"October 14–17, 2010",,
+2010,Florida,FL,2,General,National Research,2010-09-29 to 2010-09-30,2010-09-29,2010-09-30,Steve Southerland,R,46%,False,"September 29–30, 2010",,
+2010,Florida,FL,2,General,Tarrance Group,2010-04-12 to 2010-04-13,2010-04-12,2010-04-13,Steve Southerland,R,52%,False,"April 12–13, 2010",,
+2010,Florida,FL,8,General,Voter Survey Service,2010-10-22 to 2010-10-25,2010-10-22,2010-10-25,Alan Grayson,D,41%,False,"October 22–25, 2010",,
+2010,Florida,FL,8,General,"OnMessage, Inc.",2010-10,2010-10-01,2010-10-31,Alan Grayson,D,30%,False,"October, 2010",,
+2010,Florida,FL,8,General,Voter Survey Service,2010-09-25 to 2010-09-27,2010-09-25,2010-09-27,Alan Grayson,D,36%,False,"September 25–27, 2010",,
+2010,Florida,FL,8,General,Public Policy Polling,2010-08-23 to 2010-08-25,2010-08-23,2010-08-25,Alan Grayson,D,40%,False,"August 23–25, 2010",,
+2010,Florida,FL,8,General,Voter Survey Service,2010-10-22 to 2010-10-25,2010-10-22,2010-10-25,Daniel Webster,R,48%,False,"October 22–25, 2010",,
+2010,Florida,FL,8,General,"OnMessage, Inc.",2010-10,2010-10-01,2010-10-31,Daniel Webster,R,46%,False,"October, 2010",,
+2010,Florida,FL,8,General,Voter Survey Service,2010-09-25 to 2010-09-27,2010-09-25,2010-09-27,Daniel Webster,R,43%,False,"September 25–27, 2010",,
+2010,Florida,FL,8,General,Public Policy Polling,2010-08-23 to 2010-08-25,2010-08-23,2010-08-25,Daniel Webster,R,27%,False,"August 23–25, 2010",,
+2010,Florida,FL,12,General,Greenberg Quinlan Rosner Research,2010-07-26 to 2010-07-28,2010-07-26,2010-07-28,Dennis Ross,R,32%,False,"July 26–28, 2010",,
+2010,Florida,FL,12,General,Greenberg Quinlan Rosner Research,2009-11-17 to 2009-11-19,2009-11-17,2009-11-19,Dennis Ross,R,42%,False,"November 17–19, 2009",,
+2010,Florida,FL,12,General,Greenberg Quinlan Rosner Research,2010-07-26 to 2010-07-28,2010-07-26,2010-07-28,Lori Edwards,D,35%,False,"July 26–28, 2010",,
+2010,Florida,FL,12,General,Greenberg Quinlan Rosner Research,2009-11-17 to 2009-11-19,2009-11-17,2009-11-19,Lori Edwards,D,46%,False,"November 17–19, 2009",,
+2010,Florida,FL,12,General,Greenberg Quinlan Rosner Research,2010-07-26 to 2010-07-28,2010-07-26,2010-07-28,Randy Wilkinson (T),Unknown,20%,False,"July 26–28, 2010",,
+2010,Florida,FL,22,General,Voter Survey Service,2010-10-17 to 2010-10-19,2010-10-17,2010-10-19,Ron Klein,D,44%,False,"October 17–19, 2010",,
+2010,Florida,FL,22,General,Wilson Research Strategies,2010-09-20 to 2010-09-22,2010-09-20,2010-09-22,Ron Klein,D,42%,False,"September 20–22, 2010",,
+2010,Florida,FL,22,General,Anzalone Research,2010-09-14 to 2010-09-16,2010-09-14,2010-09-16,Ron Klein,D,48%,False,"September 14–16, 2010",,
+2010,Florida,FL,22,General,Wilson Research Strategies,2010-04-18 to 2010-04-19,2010-04-18,2010-04-19,Ron Klein,D,42%,False,"April 18–19, 2010",,
+2010,Florida,FL,22,General,Voter Survey Service,2010-10-17 to 2010-10-19,2010-10-17,2010-10-19,Allen West,R,47%,False,"October 17–19, 2010",,
+2010,Florida,FL,22,General,Wilson Research Strategies,2010-09-20 to 2010-09-22,2010-09-20,2010-09-22,Allen West,R,48%,False,"September 20–22, 2010",,
+2010,Florida,FL,22,General,Anzalone Research,2010-09-14 to 2010-09-16,2010-09-14,2010-09-16,Allen West,R,40%,False,"September 14–16, 2010",,
+2010,Florida,FL,22,General,Wilson Research Strategies,2010-04-18 to 2010-04-19,2010-04-18,2010-04-19,Allen West,R,44%,False,"April 18–19, 2010",,
+2010,Florida,FL,24,General,Mclaughlin & Associates,2010-09-22 to 2010-09-23,2010-09-22,2010-09-23,Suzanne Kosmas,D,39%,False,"September 22–23, 2010",,
+2010,Florida,FL,24,General,Hamilton Campaigns,2010-09-22 to 2010-09-23,2010-09-22,2010-09-23,Suzanne Kosmas,D,45%,False,"September 22–23, 2010",,
+2010,Florida,FL,24,General,Public Opinion Strategies,2010-08-31 to 2010-09-01,2010-08-31,2010-09-01,Suzanne Kosmas,D,37%,False,"August 31-September 1, 2010",,
+2010,Florida,FL,24,General,Hamilton Campaigns,2010-08,2010-08-01,2010-08-31,Suzanne Kosmas,D,43%,False,"August, 2010",,
+2010,Florida,FL,24,General,Mclaughlin & Associates,2010-09-22 to 2010-09-23,2010-09-22,2010-09-23,Sandra Adams,R,49%,False,"September 22–23, 2010",,
+2010,Florida,FL,24,General,Hamilton Campaigns,2010-09-22 to 2010-09-23,2010-09-22,2010-09-23,Sandra Adams,R,43%,False,"September 22–23, 2010",,
+2010,Florida,FL,24,General,Public Opinion Strategies,2010-08-31 to 2010-09-01,2010-08-31,2010-09-01,Sandra Adams,R,49%,False,"August 31-September 1, 2010",,
+2010,Florida,FL,24,General,Hamilton Campaigns,2010-08,2010-08-01,2010-08-31,Sandra Adams,R,49%,False,"August, 2010",,
+2010,Florida,FL,25,General,Voter Survey Service,2010-10-29,2010-10-29,2010-10-29,David Rivera,R,44%,False,"October 29, 2010",,
+2010,Florida,FL,25,General,Voter Survey Service,2010-10-25 to 2010-10-26,2010-10-25,2010-10-26,David Rivera,R,44%,False,"October 25–26, 2010",,
+2010,Florida,FL,25,General,Greenberg Quinlan Rosner,2010-09-12 to 2010-09-19,2010-09-12,2010-09-19,David Rivera,R,33%,False,"September 12–19, 2010",,
+2010,Florida,FL,25,General,Benenson Strategy Group,2010-03-24 to 2010-03-27,2010-03-24,2010-03-27,David Rivera,R,35%,False,"March 24–27, 2010",,
+2010,Florida,FL,25,General,Voter Survey Service,2010-10-29,2010-10-29,2010-10-29,Joe Garcia,D,40%,False,"October 29, 2010",,
+2010,Florida,FL,25,General,Voter Survey Service,2010-10-25 to 2010-10-26,2010-10-25,2010-10-26,Joe Garcia,D,43%,False,"October 25–26, 2010",,
+2010,Florida,FL,25,General,Greenberg Quinlan Rosner,2010-09-12 to 2010-09-19,2010-09-12,2010-09-19,Joe Garcia,D,40%,False,"September 12–19, 2010",,
+2010,Florida,FL,25,General,Benenson Strategy Group,2010-03-24 to 2010-03-27,2010-03-24,2010-03-27,Joe Garcia,D,38%,False,"March 24–27, 2010",,
+2010,Hawaii,HI,1,General,Aloha Vote,2010-10-23,2010-10-23,2010-10-23,Charles Djou,R,45.3%,False,"October 23, 2010",620,3.9
+2010,Hawaii,HI,1,General,Honolulu Star-Advertiser,2010-10-12 to 2010-10-19,2010-10-12,2010-10-19,Charles Djou,R,48%,False,"October 12–19, 2010",399,4.9
+2010,Hawaii,HI,1,General,OnMessage Inc.,2010-10-17 to 2010-10-18,2010-10-17,2010-10-18,Charles Djou,R,51%,False,"October 17–18, 2010",,
+2010,Hawaii,HI,1,General,ccAdvertising,2010-10,2010-10-01,2010-10-31,Charles Djou,R,44%,False,"mid-October, 2010","2,747",3.0
+2010,Hawaii,HI,1,General,The Hill,2010-10-02 to 2010-10-07,2010-10-02,2010-10-07,Charles Djou,R,45%,False,"October 2–7, 2010",406,4.9
+2010,Hawaii,HI,1,General,Global Strategy Group,2010-10-04 to 2010-10-06,2010-10-04,2010-10-06,Charles Djou,R,44%,False,"October 4–6, 2010",400,
+2010,Hawaii,HI,1,General,Public Policy Polling,2010-10-02 to 2010-10-03,2010-10-02,2010-10-03,Charles Djou,R,47%,False,"October 2–3, 2010",643,3.9
+2010,Hawaii,HI,1,General,Tarrance Group,2010-07-26 to 2010-07-27,2010-07-26,2010-07-27,Charles Djou,R,50%,False,"July 26–27, 2010",400,4.9
+2010,Hawaii,HI,1,General,Aloha Vote,2010-10-23,2010-10-23,2010-10-23,Colleen Hanabusa,D,49.5%,False,"October 23, 2010",620,3.9
+2010,Hawaii,HI,1,General,Honolulu Star-Advertiser,2010-10-12 to 2010-10-19,2010-10-12,2010-10-19,Colleen Hanabusa,D,45%,False,"October 12–19, 2010",399,4.9
+2010,Hawaii,HI,1,General,OnMessage Inc.,2010-10-17 to 2010-10-18,2010-10-17,2010-10-18,Colleen Hanabusa,D,45%,False,"October 17–18, 2010",,
+2010,Hawaii,HI,1,General,ccAdvertising,2010-10,2010-10-01,2010-10-31,Colleen Hanabusa,D,35%,False,"mid-October, 2010","2,747",3.0
+2010,Hawaii,HI,1,General,The Hill,2010-10-02 to 2010-10-07,2010-10-02,2010-10-07,Colleen Hanabusa,D,41%,False,"October 2–7, 2010",406,4.9
+2010,Hawaii,HI,1,General,Global Strategy Group,2010-10-04 to 2010-10-06,2010-10-04,2010-10-06,Colleen Hanabusa,D,48%,False,"October 4–6, 2010",400,
+2010,Hawaii,HI,1,General,Public Policy Polling,2010-10-02 to 2010-10-03,2010-10-02,2010-10-03,Colleen Hanabusa,D,48%,False,"October 2–3, 2010",643,3.9
+2010,Hawaii,HI,1,General,Tarrance Group,2010-07-26 to 2010-07-27,2010-07-26,2010-07-27,Colleen Hanabusa,D,42%,False,"July 26–27, 2010",400,4.9
+2010,Idaho,ID,1,General,Greg Smith & Associates,2010-10-28 to 2010-10-30,2010-10-28,2010-10-30,Walt Minnick,D,48%,False,"October 28–30, 2010",,
+2010,Idaho,ID,1,General,Mason-Dixon,2010-10-20 to 2010-10-22,2010-10-20,2010-10-22,Walt Minnick,D,44%,False,"October 20–22, 2010",,
+2010,Idaho,ID,1,General,Moore Information,2010-10-05 to 2010-10-06,2010-10-05,2010-10-06,Walt Minnick,D,37%,False,"October 5–6, 2010",,
+2010,Idaho,ID,1,General,Mason-Dixon,2010-09-13 to 2010-09-15,2010-09-13,2010-09-15,Walt Minnick,D,46%,False,"September 13–15, 2010",,
+2010,Idaho,ID,1,General,Qualtrics,2010-09-01 to 2010-09-09,2010-09-01,2010-09-09,Walt Minnick,D,60%,False,"September 1–9, 2010",,
+2010,Idaho,ID,1,General,GS Strategy Group,2010-07-29,2010-07-29,2010-07-29,Walt Minnick,D,52%,False,"July 29, 2010",,
+2010,Idaho,ID,1,General,Moore Information,2010-07-12 to 2010-07-13,2010-07-12,2010-07-13,Walt Minnick,D,37%,False,"July 12–13, 2010",,
+2010,Idaho,ID,1,General,Greg Smith & Associates,2010-06-07 to 2010-06-08,2010-06-07,2010-06-08,Walt Minnick,D,29%,False,"June 7–8, 2010",,
+2010,Idaho,ID,1,General,Greg Smith & Associates,2010-10-28 to 2010-10-30,2010-10-28,2010-10-30,Raúl Labrador,R,38%,False,"October 28–30, 2010",,
+2010,Idaho,ID,1,General,Mason-Dixon,2010-10-20 to 2010-10-22,2010-10-20,2010-10-22,Raúl Labrador,R,41%,False,"October 20–22, 2010",,
+2010,Idaho,ID,1,General,Moore Information,2010-10-05 to 2010-10-06,2010-10-05,2010-10-06,Raúl Labrador,R,31%,False,"October 5–6, 2010",,
+2010,Idaho,ID,1,General,Mason-Dixon,2010-09-13 to 2010-09-15,2010-09-13,2010-09-15,Raúl Labrador,R,36%,False,"September 13–15, 2010",,
+2010,Idaho,ID,1,General,Qualtrics,2010-09-01 to 2010-09-09,2010-09-01,2010-09-09,Raúl Labrador,R,30%,False,"September 1–9, 2010",,
+2010,Idaho,ID,1,General,GS Strategy Group,2010-07-29,2010-07-29,2010-07-29,Raúl Labrador,R,29%,False,"July 29, 2010",,
+2010,Idaho,ID,1,General,Moore Information,2010-07-12 to 2010-07-13,2010-07-12,2010-07-13,Raúl Labrador,R,27%,False,"July 12–13, 2010",,
+2010,Idaho,ID,1,General,Greg Smith & Associates,2010-06-07 to 2010-06-08,2010-06-07,2010-06-08,Raúl Labrador,R,40%,False,"June 7–8, 2010",,
+2010,Indiana,IN,2,General,EPIC-MRA,2010-10-20 to 2010-10-22,2010-10-20,2010-10-22,Joe Donnelly,D,48%,False,"October 20–22, 2010",400,4.9
+2010,Indiana,IN,2,General,EPIC-MRA,2010-10-01 to 2010-10-03,2010-10-01,2010-10-03,Joe Donnelly,D,48%,False,"October 1–3, 2010",400,4.9
+2010,Indiana,IN,2,General,American Action Forum via South Bend Tribune,2010-08-16 to 2010-08-19,2010-08-16,2010-08-19,Joe Donnelly,D,46%,False,"August 16–19, 2010",400,4.9
+2010,Indiana,IN,2,General,The Polling Company,2010-07-31 to 2010-08-03,2010-07-31,2010-08-03,Joe Donnelly,D,52%,False,"July 31-August 3, 2010",309,5.6
+2010,Indiana,IN,2,General,EPIC-MRA,2010-10-20 to 2010-10-22,2010-10-20,2010-10-22,Jackie Walorski,R,43%,False,"October 20–22, 2010",400,4.9
+2010,Indiana,IN,2,General,EPIC-MRA,2010-10-01 to 2010-10-03,2010-10-01,2010-10-03,Jackie Walorski,R,39%,False,"October 1–3, 2010",400,4.9
+2010,Indiana,IN,2,General,American Action Forum via South Bend Tribune,2010-08-16 to 2010-08-19,2010-08-16,2010-08-19,Jackie Walorski,R,44%,False,"August 16–19, 2010",400,4.9
+2010,Indiana,IN,2,General,The Polling Company,2010-07-31 to 2010-08-03,2010-07-31,2010-08-03,Jackie Walorski,R,35%,False,"July 31-August 3, 2010",309,5.6
+2010,Indiana,IN,8,General,Public Opinion Strategies,2010-07-21 to 2010-07-22,2010-07-21,2010-07-22,Trent Van Haaften,D,27%,False,"July 21–22, 2010",400,4.9
+2010,Indiana,IN,8,General,OnMessage,2010-09-13 to 2010-09-14,2010-09-13,2010-09-14,Trent Van Haaften,D,20%,False,"September 13–14, 2010",400,4.9
+2010,Indiana,IN,8,General,Public Opinion Strategies,2010-07-21 to 2010-07-22,2010-07-21,2010-07-22,Larry Bucshon,R,43%,False,"July 21–22, 2010",400,4.9
+2010,Indiana,IN,8,General,OnMessage,2010-09-13 to 2010-09-14,2010-09-13,2010-09-14,Larry Bucshon,R,41%,False,"September 13–14, 2010",400,4.9
+2010,Indiana,IN,9,General,Public Opinion Strategies,2010-05-25 to 2010-05-26,2010-05-25,2010-05-26,Baron Hill,D,41%,False,"May 25–26, 2010",300,5.7
+2010,Indiana,IN,9,General,Public Opinion Strategies,2010-07-26 to 2010-07-28,2010-07-26,2010-07-28,Baron Hill,D,42%,False,"July 26–28, 2010",300,4.9
+2010,Indiana,IN,9,General,The Hill,2010-10-16 to 2010-10-19,2010-10-16,2010-10-19,Baron Hill,D,46%,False,"October 16–19, 2010",400,4.9
+2010,Indiana,IN,9,General,Public Opinion Strategies,2010-10-24 to 2010-10-25,2010-10-24,2010-10-25,Baron Hill,D,37%,False,"October 24–25, 2010",,5.7
+2010,Indiana,IN,9,General,Public Opinion Strategies,2010-05-25 to 2010-05-26,2010-05-25,2010-05-26,Todd Young,R,34%,False,"May 25–26, 2010",300,5.7
+2010,Indiana,IN,9,General,Public Opinion Strategies,2010-07-26 to 2010-07-28,2010-07-26,2010-07-28,Todd Young,R,41%,False,"July 26–28, 2010",300,4.9
+2010,Indiana,IN,9,General,The Hill,2010-10-16 to 2010-10-19,2010-10-16,2010-10-19,Todd Young,R,44%,False,"October 16–19, 2010",400,4.9
+2010,Indiana,IN,9,General,Public Opinion Strategies,2010-10-24 to 2010-10-25,2010-10-24,2010-10-25,Todd Young,R,49%,False,"October 24–25, 2010",,5.7
+2010,Iowa,IA,1,General,Voter/Consumer Research,2010-08-31 to 2010-09-03,2010-08-31,2010-09-03,Bruce Braley,D,50%,False,"August 31-September 3, 2010",,
+2010,Iowa,IA,1,General,Voter/Consumer Research,2010-08-31 to 2010-09-03,2010-08-31,2010-09-03,Ben Lange,R,39%,False,"August 31-September 3, 2010",,
+2010,Iowa,IA,2,General,Tarrance Group,2010-10-18 to 2010-10-19,2010-10-18,2010-10-19,David Loebsack,D,44%,False,"October 18–19, 2010",,
+2010,Iowa,IA,2,General,Tarrance Group,2010-09-13 to 2010-09-14,2010-09-13,2010-09-14,David Loebsack,D,41%,False,"September 13–14, 2010",,
+2010,Iowa,IA,2,General,Voter/Consumer Research,2010-08-31 to 2010-09-03,2010-08-31,2010-09-03,David Loebsack,D,47%,False,"August 31-September 3, 2010",,
+2010,Iowa,IA,2,General,Susquehanna Polling and Research,2010-06-23 to 2010-06-25,2010-06-23,2010-06-25,David Loebsack,D,46%,False,"June 23–25, 2010",,
+2010,Iowa,IA,2,General,Tarrance Group,2010-10-18 to 2010-10-19,2010-10-18,2010-10-19,Mariannette Miller-Meeks,R,45%,False,"October 18–19, 2010",,
+2010,Iowa,IA,2,General,Tarrance Group,2010-09-13 to 2010-09-14,2010-09-13,2010-09-14,Mariannette Miller-Meeks,R,40%,False,"September 13–14, 2010",,
+2010,Iowa,IA,2,General,Voter/Consumer Research,2010-08-31 to 2010-09-03,2010-08-31,2010-09-03,Mariannette Miller-Meeks,R,39%,False,"August 31-September 3, 2010",,
+2010,Iowa,IA,2,General,Susquehanna Polling and Research,2010-06-23 to 2010-06-25,2010-06-23,2010-06-25,Mariannette Miller-Meeks,R,41%,False,"June 23–25, 2010",,
+2010,Iowa,IA,2,General,Tarrance Group,2010-10-18 to 2010-10-19,2010-10-18,2010-10-19,Gary Sicard,L,1%,False,"October 18–19, 2010",,
+2010,Iowa,IA,2,General,Tarrance Group,2010-09-13 to 2010-09-14,2010-09-13,2010-09-14,Gary Sicard,L,6%,False,"September 13–14, 2010",,
+2010,Iowa,IA,3,General,The Hill,2010-10-19 to 2010-10-21,2010-10-19,2010-10-21,Leonard Boswell,D,49%,False,"October 19–21, 2010",,
+2010,Iowa,IA,3,General,Anzalone Liszt Research,2010-10-02 to 2010-10-05,2010-10-02,2010-10-05,Leonard Boswell,D,47%,False,"October 2–5, 2010",,
+2010,Iowa,IA,3,General,"Bennett, Petts and Normington",2010-10-03 to 2010-10-04,2010-10-03,2010-10-04,Leonard Boswell,D,49%,False,"October 3–4, 2010",,
+2010,Iowa,IA,3,General,Voter/Consumer Research,2010-08-31 to 2010-09-03,2010-08-31,2010-09-03,Leonard Boswell,D,48%,False,"August 31-September 3, 2010",,
+2010,Iowa,IA,3,General,American Action Forum,2010-08-16 to 2010-08-18,2010-08-16,2010-08-18,Leonard Boswell,D,41%,False,"August 16–18, 2010",,
+2010,Iowa,IA,3,General,Victory Enterprises,2010-08-04 to 2010-08-05,2010-08-04,2010-08-05,Leonard Boswell,D,38%,False,"August 4–5, 2010",,
+2010,Iowa,IA,3,General,Victory Enterprises,2010-06-17,2010-06-17,2010-06-17,Leonard Boswell,D,32%,False,"June 17, 2010",,
+2010,Iowa,IA,3,General,The Hill,2010-10-19 to 2010-10-21,2010-10-19,2010-10-21,Brad Zaun,R,37%,False,"October 19–21, 2010",,
+2010,Iowa,IA,3,General,Anzalone Liszt Research,2010-10-02 to 2010-10-05,2010-10-02,2010-10-05,Brad Zaun,R,38%,False,"October 2–5, 2010",,
+2010,Iowa,IA,3,General,"Bennett, Petts and Normington",2010-10-03 to 2010-10-04,2010-10-03,2010-10-04,Brad Zaun,R,41%,False,"October 3–4, 2010",,
+2010,Iowa,IA,3,General,Voter/Consumer Research,2010-08-31 to 2010-09-03,2010-08-31,2010-09-03,Brad Zaun,R,39%,False,"August 31-September 3, 2010",,
+2010,Iowa,IA,3,General,American Action Forum,2010-08-16 to 2010-08-18,2010-08-16,2010-08-18,Brad Zaun,R,51%,False,"August 16–18, 2010",,
+2010,Iowa,IA,3,General,Victory Enterprises,2010-08-04 to 2010-08-05,2010-08-04,2010-08-05,Brad Zaun,R,45%,False,"August 4–5, 2010",,
+2010,Iowa,IA,3,General,Victory Enterprises,2010-06-17,2010-06-17,2010-06-17,Brad Zaun,R,41%,False,"June 17, 2010",,
+2010,Kansas,KS,1,General,Survey USA,2010-10-05 to 2010-10-06,2010-10-05,2010-10-06,Tim Huelskamp,R,63%,False,"October 5–6, 2010",,
+2010,Kansas,KS,1,General,SurveyUSA,2010-08-05 to 2010-08-08,2010-08-05,2010-08-08,Tim Huelskamp,R,65%,False,"August 5–8, 2010",,
+2010,Kansas,KS,1,General,Survey USA,2010-10-05 to 2010-10-06,2010-10-05,2010-10-06,Alan Jilka,D,26%,False,"October 5–6, 2010",,
+2010,Kansas,KS,1,General,SurveyUSA,2010-08-05 to 2010-08-08,2010-08-05,2010-08-08,Alan Jilka,D,23%,False,"August 5–8, 2010",,
+2010,Kansas,KS,1,General,Survey USA,2010-10-05 to 2010-10-06,2010-10-05,2010-10-06,Jack Warner,L,5%,False,"October 5–6, 2010",,
+2010,Kansas,KS,1,General,SurveyUSA,2010-08-05 to 2010-08-08,2010-08-05,2010-08-08,Jack Warner,L,7%,False,"August 5–8, 2010",,
+2010,Kansas,KS,4,General,Survey USA,2010-10-25 to 2010-10-28,2010-10-25,2010-10-28,Mike Pompeo,R,54%,False,"October 25–28, 2010",,
+2010,Kansas,KS,4,General,Cole Hargrave,2010-10-10 to 2010-10-11,2010-10-10,2010-10-11,Mike Pompeo,R,48%,False,"October 10–11, 2010",,
+2010,Kansas,KS,4,General,Survey USA,2010-10-06 to 2010-10-07,2010-10-06,2010-10-07,Mike Pompeo,R,53%,False,"October 6–7, 2010",,
+2010,Kansas,KS,4,General,Survey USA,2010-09-14 to 2010-09-15,2010-09-14,2010-09-15,Mike Pompeo,R,50%,False,"September 14–15, 2010",,
+2010,Kansas,KS,4,General,Gerstein Agne,2010-09-08 to 2010-09-09,2010-09-08,2010-09-09,Mike Pompeo,R,46%,False,"September 8–9, 2010",,
+2010,Kansas,KS,4,General,Gerstein Agne,2010-08-10 to 2010-08-12,2010-08-10,2010-08-12,Mike Pompeo,R,50%,False,"August 10–12, 2010",,
+2010,Kansas,KS,4,General,Survey USA,2010-08-09 to 2010-08-11,2010-08-09,2010-08-11,Mike Pompeo,R,49%,False,"August 9–11, 2010",,
+2010,Kansas,KS,4,General,Survey USA,2010-10-25 to 2010-10-28,2010-10-25,2010-10-28,Raj Goyle,D,38%,False,"October 25–28, 2010",,
+2010,Kansas,KS,4,General,Cole Hargrave,2010-10-10 to 2010-10-11,2010-10-10,2010-10-11,Raj Goyle,D,31%,False,"October 10–11, 2010",,
+2010,Kansas,KS,4,General,Survey USA,2010-10-06 to 2010-10-07,2010-10-06,2010-10-07,Raj Goyle,D,40%,False,"October 6–7, 2010",,
+2010,Kansas,KS,4,General,Survey USA,2010-09-14 to 2010-09-15,2010-09-14,2010-09-15,Raj Goyle,D,40%,False,"September 14–15, 2010",,
+2010,Kansas,KS,4,General,Gerstein Agne,2010-09-08 to 2010-09-09,2010-09-08,2010-09-09,Raj Goyle,D,46%,False,"September 8–9, 2010",,
+2010,Kansas,KS,4,General,Gerstein Agne,2010-08-10 to 2010-08-12,2010-08-10,2010-08-12,Raj Goyle,D,47%,False,"August 10–12, 2010",,
+2010,Kansas,KS,4,General,Survey USA,2010-08-09 to 2010-08-11,2010-08-09,2010-08-11,Raj Goyle,D,42%,False,"August 9–11, 2010",,
+2010,Kansas,KS,4,General,Survey USA,2010-10-25 to 2010-10-28,2010-10-25,2010-10-28,David Moffett/Shawn Smith*,L,2%*,False,"October 25–28, 2010",,
+2010,Kansas,KS,4,General,Survey USA,2010-10-06 to 2010-10-07,2010-10-06,2010-10-07,David Moffett/Shawn Smith*,L,2%*,False,"October 6–7, 2010",,
+2010,Kansas,KS,4,General,Survey USA,2010-09-14 to 2010-09-15,2010-09-14,2010-09-15,David Moffett/Shawn Smith*,L,3%,False,"September 14–15, 2010",,
+2010,Kansas,KS,4,General,Survey USA,2010-08-09 to 2010-08-11,2010-08-09,2010-08-11,David Moffett/Shawn Smith*,L,4%,False,"August 9–11, 2010",,
+2010,Kentucky,KY,3,General,SurveyUSA,2010-10-21 to 2010-10-25,2010-10-21,2010-10-25,John Yarmuth,D,50%,False,"October 21–25, 2010",,
+2010,Kentucky,KY,3,General,Rivercity Polling,2010-10-19 to 2010-10-23,2010-10-19,2010-10-23,John Yarmuth,D,41%,False,"October 19–23, 2010",,
+2010,Kentucky,KY,3,General,Braun Research,2010-10-18 to 2010-10-19,2010-10-18,2010-10-19,John Yarmuth,D,57.9%,False,"October 18–19, 2010",,
+2010,Kentucky,KY,3,General,Braun Research,2010-09-20 to 2010-09-21,2010-09-20,2010-09-21,John Yarmuth,D,53%,False,"September 20–21, 2010",,
+2010,Kentucky,KY,3,General,Survey USA,2010-08-27 to 2010-08-30,2010-08-27,2010-08-30,John Yarmuth,D,47%,False,"August 27–30, 2010",,
+2010,Kentucky,KY,3,General,Braun Research,2010-08-09 to 2010-08-10,2010-08-09,2010-08-10,John Yarmuth,D,52%,False,"August 9–10, 2010",,
+2010,Kentucky,KY,3,General,Rivercity Polling,2010-06-20 to 2010-06-29,2010-06-20,2010-06-29,John Yarmuth,D,44%,False,"June 20–29, 2010",,
+2010,Kentucky,KY,3,General,Cooper & Secrest Associates,2010-06-21 to 2010-06-23,2010-06-21,2010-06-23,John Yarmuth,D,58%,False,"June 21–23, 2010",,
+2010,Kentucky,KY,3,General,SurveyUSA,2010-10-21 to 2010-10-25,2010-10-21,2010-10-25,Todd Lally,R,46%,False,"October 21–25, 2010",,
+2010,Kentucky,KY,3,General,Rivercity Polling,2010-10-19 to 2010-10-23,2010-10-19,2010-10-23,Todd Lally,R,37%,False,"October 19–23, 2010",,
+2010,Kentucky,KY,3,General,Braun Research,2010-10-18 to 2010-10-19,2010-10-18,2010-10-19,Todd Lally,R,31.4%,False,"October 18–19, 2010",,
+2010,Kentucky,KY,3,General,Braun Research,2010-09-20 to 2010-09-21,2010-09-20,2010-09-21,Todd Lally,R,30%,False,"September 20–21, 2010",,
+2010,Kentucky,KY,3,General,Survey USA,2010-08-27 to 2010-08-30,2010-08-27,2010-08-30,Todd Lally,R,45%,False,"August 27–30, 2010",,
+2010,Kentucky,KY,3,General,Braun Research,2010-08-09 to 2010-08-10,2010-08-09,2010-08-10,Todd Lally,R,29%,False,"August 9–10, 2010",,
+2010,Kentucky,KY,3,General,Rivercity Polling,2010-06-20 to 2010-06-29,2010-06-20,2010-06-29,Todd Lally,R,43%,False,"June 20–29, 2010",,
+2010,Kentucky,KY,3,General,Cooper & Secrest Associates,2010-06-21 to 2010-06-23,2010-06-21,2010-06-23,Todd Lally,R,32%,False,"June 21–23, 2010",,
+2010,Kentucky,KY,6,General,Braun Research,2010-10-20 to 2010-10-21,2010-10-20,2010-10-21,Ben Chandler,D,46.6%,False,"October 20–21, 2010",,
+2010,Kentucky,KY,6,General,Mason-Dixon,2010-10-15 to 2010-10-19,2010-10-15,2010-10-19,Ben Chandler,D,48%,False,"October 15–19, 2010",,
+2010,Kentucky,KY,6,General,Tarrance Group,2010-10-04 to 2010-10-05,2010-10-04,2010-10-05,Ben Chandler,D,47%,False,"October 4–5, 2010",,
+2010,Kentucky,KY,6,General,Mellman Group,2010-09-29 to 2010-09-30,2010-09-29,2010-09-30,Ben Chandler,D,52%,False,"September 29–30, 2010",,
+2010,Kentucky,KY,6,General,Braun Research,2010-09-21 to 2010-09-22,2010-09-21,2010-09-22,Ben Chandler,D,50.7%,False,"September 21–22, 2010",,
+2010,Kentucky,KY,6,General,Tarrance Group,2010-09-20 to 2010-09-21,2010-09-20,2010-09-21,Ben Chandler,D,49%,False,"September 20–21, 2010",,
+2010,Kentucky,KY,6,General,Mellman Group,2010-09-13 to 2010-09-14,2010-09-13,2010-09-14,Ben Chandler,D,53%,False,"September 13–14, 2010",,
+2010,Kentucky,KY,6,General,Grove Insight,2010-09-07 to 2010-09-09,2010-09-07,2010-09-09,Ben Chandler,D,52%,False,"September 7–9, 2010",,
+2010,Kentucky,KY,6,General,Braun Research,2010-07-26 to 2010-07-27,2010-07-26,2010-07-27,Ben Chandler,D,46.1%,False,"July 26–27, 2010",,
+2010,Kentucky,KY,6,General,Tarrance Group,2010-05-24 to 2010-05-25,2010-05-24,2010-05-25,Ben Chandler,D,45%,False,"May 24–25, 2010",,
+2010,Kentucky,KY,6,General,Braun Research,2010-10-20 to 2010-10-21,2010-10-20,2010-10-21,Andy Barr,R,42.3%,False,"October 20–21, 2010",,
+2010,Kentucky,KY,6,General,Mason-Dixon,2010-10-15 to 2010-10-19,2010-10-15,2010-10-19,Andy Barr,R,44%,False,"October 15–19, 2010",,
+2010,Kentucky,KY,6,General,Tarrance Group,2010-10-04 to 2010-10-05,2010-10-04,2010-10-05,Andy Barr,R,48%,False,"October 4–5, 2010",,
+2010,Kentucky,KY,6,General,Mellman Group,2010-09-29 to 2010-09-30,2010-09-29,2010-09-30,Andy Barr,R,40%,False,"September 29–30, 2010",,
+2010,Kentucky,KY,6,General,Braun Research,2010-09-21 to 2010-09-22,2010-09-21,2010-09-22,Andy Barr,R,36.5%,False,"September 21–22, 2010",,
+2010,Kentucky,KY,6,General,Tarrance Group,2010-09-20 to 2010-09-21,2010-09-20,2010-09-21,Andy Barr,R,42%,False,"September 20–21, 2010",,
+2010,Kentucky,KY,6,General,Mellman Group,2010-09-13 to 2010-09-14,2010-09-13,2010-09-14,Andy Barr,R,33%,False,"September 13–14, 2010",,
+2010,Kentucky,KY,6,General,Grove Insight,2010-09-07 to 2010-09-09,2010-09-07,2010-09-09,Andy Barr,R,38%,False,"September 7–9, 2010",,
+2010,Kentucky,KY,6,General,Braun Research,2010-07-26 to 2010-07-27,2010-07-26,2010-07-27,Andy Barr,R,32.2%,False,"July 26–27, 2010",,
+2010,Kentucky,KY,6,General,Tarrance Group,2010-05-24 to 2010-05-25,2010-05-24,2010-05-25,Andy Barr,R,38%,False,"May 24–25, 2010",,
+2010,Maryland,MD,1,General,Baltimore Sun,2010-10-15 to 2010-10-20,2010-10-15,2010-10-20,Frank Kratovil,D,40%,False,"October 15–20, 2010",,
+2010,Maryland,MD,1,General,Monmouth University,2010-10-16 to 2010-10-19,2010-10-16,2010-10-19,Frank Kratovil,D,42%,False,"October 16–19, 2010",,
+2010,Maryland,MD,1,General,The Hill,2010-10-05,2010-10-05,2010-10-05,Frank Kratovil,D,40%,False,"October 5, 2010",,
+2010,Maryland,MD,1,General,OnMessage Inc.,2010-09-20 to 2010-09-21,2010-09-20,2010-09-21,Frank Kratovil,D,39%,False,"September 20–21, 2010",,
+2010,Maryland,MD,1,General,Garin-Hart-Yang Research Group,2010-09-12 to 2010-09-13,2010-09-12,2010-09-13,Frank Kratovil,D,45%,False,"September 12–13, 2010",,
+2010,Maryland,MD,1,General,Garin-Hart-Yang Research Group,2010-06-15 to 2010-06-16,2010-06-15,2010-06-16,Frank Kratovil,D,44%,False,"June 15–16, 2010",,
+2010,Maryland,MD,1,General,Public Opinion Strategies,2010-04-25 to 2010-04-26,2010-04-25,2010-04-26,Frank Kratovil,D,36%,False,"April 25–26, 2010",,
+2010,Maryland,MD,1,General,Tarrance Group,2009-11-15 to 2009-11-17,2009-11-15,2009-11-17,Frank Kratovil,D,39%,False,"November 15–17, 2009",,
+2010,Maryland,MD,1,General,Baltimore Sun,2010-10-15 to 2010-10-20,2010-10-15,2010-10-20,Andy Harris,R,40%,False,"October 15–20, 2010",,
+2010,Maryland,MD,1,General,Monmouth University,2010-10-16 to 2010-10-19,2010-10-16,2010-10-19,Andy Harris,R,53%,False,"October 16–19, 2010",,
+2010,Maryland,MD,1,General,The Hill,2010-10-05,2010-10-05,2010-10-05,Andy Harris,R,43%,False,"October 5, 2010",,
+2010,Maryland,MD,1,General,OnMessage Inc.,2010-09-20 to 2010-09-21,2010-09-20,2010-09-21,Andy Harris,R,43%,False,"September 20–21, 2010",,
+2010,Maryland,MD,1,General,Garin-Hart-Yang Research Group,2010-09-12 to 2010-09-13,2010-09-12,2010-09-13,Andy Harris,R,39%,False,"September 12–13, 2010",,
+2010,Maryland,MD,1,General,Garin-Hart-Yang Research Group,2010-06-15 to 2010-06-16,2010-06-15,2010-06-16,Andy Harris,R,39%,False,"June 15–16, 2010",,
+2010,Maryland,MD,1,General,Public Opinion Strategies,2010-04-25 to 2010-04-26,2010-04-25,2010-04-26,Andy Harris,R,39%,False,"April 25–26, 2010",,
+2010,Maryland,MD,1,General,Tarrance Group,2009-11-15 to 2009-11-17,2009-11-15,2009-11-17,Andy Harris,R,52%,False,"November 15–17, 2009",,
+2010,Maryland,MD,1,General,Public Opinion Strategies,2010-04-25 to 2010-04-26,2010-04-25,2010-04-26,Richard Davis,L,6%,False,"April 25–26, 2010",,
+2010,Massachusetts,MA,4,General,Boston Globe,2010-10-17 to 2010-10-22,2010-10-17,2010-10-22,Barney Frank,D,46%,False,"October 17–22, 2010",,
+2010,Massachusetts,MA,4,General,WPRI,2010-10-14 to 2010-10-17,2010-10-14,2010-10-17,Barney Frank,D,49%,False,"October 14–17, 2010",,
+2010,Massachusetts,MA,4,General,Kiley & Co.,2010-10-13 to 2010-10-14,2010-10-13,2010-10-14,Barney Frank,D,56%,False,"October 13–14, 2010",,
+2010,Massachusetts,MA,4,General,OnMessage Inc.,2010-09-15 to 2010-09-16,2010-09-15,2010-09-16,Barney Frank,D,48%,False,"September 15–16, 2010",,
+2010,Massachusetts,MA,4,General,Boston Globe,2010-10-17 to 2010-10-22,2010-10-17,2010-10-22,Sean Bielat,R,33%,False,"October 17–22, 2010",,
+2010,Massachusetts,MA,4,General,WPRI,2010-10-14 to 2010-10-17,2010-10-14,2010-10-17,Sean Bielat,R,37%,False,"October 14–17, 2010",,
+2010,Massachusetts,MA,4,General,Kiley & Co.,2010-10-13 to 2010-10-14,2010-10-13,2010-10-14,Sean Bielat,R,37%,False,"October 13–14, 2010",,
+2010,Massachusetts,MA,4,General,OnMessage Inc.,2010-09-15 to 2010-09-16,2010-09-15,2010-09-16,Sean Bielat,R,38%,False,"September 15–16, 2010",,
+2010,Massachusetts,MA,10,General,Boston Globe,2010-10-17 to 2010-10-22,2010-10-17,2010-10-22,Bill Keating,D,37%,False,"October 17–22, 2010",,
+2010,Massachusetts,MA,10,General,NMB Research,2010-10-20 to 2010-10-21,2010-10-20,2010-10-21,Bill Keating,D,43%,False,"October 20–21, 2010",,
+2010,Massachusetts,MA,10,General,MassINC Polling Group,2010-10-13 to 2010-10-15,2010-10-13,2010-10-15,Bill Keating,D,46%,False,"October 13–15, 2010",,
+2010,Massachusetts,MA,10,General,NMB Research,2010-10-06 to 2010-10-07,2010-10-06,2010-10-07,Bill Keating,D,42%,False,"October 6–7, 2010",,
+2010,Massachusetts,MA,10,General,Boston Globe,2010-10-17 to 2010-10-22,2010-10-17,2010-10-22,Jeff Perry,R,33%,False,"October 17–22, 2010",,
+2010,Massachusetts,MA,10,General,NMB Research,2010-10-20 to 2010-10-21,2010-10-20,2010-10-21,Jeff Perry,R,45%,False,"October 20–21, 2010",,
+2010,Massachusetts,MA,10,General,MassINC Polling Group,2010-10-13 to 2010-10-15,2010-10-13,2010-10-15,Jeff Perry,R,43%,False,"October 13–15, 2010",,
+2010,Massachusetts,MA,10,General,NMB Research,2010-10-06 to 2010-10-07,2010-10-06,2010-10-07,Jeff Perry,R,44%,False,"October 6–7, 2010",,
+2010,Minnesota,MN,1,General,Survey USA,2010-10-22 to 2010-10-26,2010-10-22,2010-10-26,Tim Walz (DFL),Unknown,50%,False,"October 22–26, 2010",558 (LV),4.2
+2010,Minnesota,MN,1,General,Grove Insight (D),2010-10-18 to 2010-10-19,2010-10-18,2010-10-19,Tim Walz (DFL),Unknown,50%,False,"October 18–19, 2010",400 (LV),4.9
+2010,Minnesota,MN,1,General,Survey USA,2010-10-12 to 2010-10-14,2010-10-12,2010-10-14,Tim Walz (DFL),Unknown,47%,False,"October 12–14, 2010",584 (LV),4.1
+2010,Minnesota,MN,1,General,Survey USA,2010-10-22 to 2010-10-26,2010-10-22,2010-10-26,Randy Demmer,R,41%,False,"October 22–26, 2010",558 (LV),4.2
+2010,Minnesota,MN,1,General,Grove Insight (D),2010-10-18 to 2010-10-19,2010-10-18,2010-10-19,Randy Demmer,R,34%,False,"October 18–19, 2010",400 (LV),4.9
+2010,Minnesota,MN,1,General,Survey USA,2010-10-12 to 2010-10-14,2010-10-12,2010-10-14,Randy Demmer,R,42%,False,"October 12–14, 2010",584 (LV),4.1
+2010,Minnesota,MN,1,General,Survey USA,2010-10-22 to 2010-10-26,2010-10-22,2010-10-26,Steven Wilson (IP),Unknown,4%,False,"October 22–26, 2010",558 (LV),4.2
+2010,Minnesota,MN,1,General,Grove Insight (D),2010-10-18 to 2010-10-19,2010-10-18,2010-10-19,Steven Wilson (IP),Unknown,13%,False,"October 18–19, 2010",400 (LV),4.9
+2010,Minnesota,MN,1,General,Survey USA,2010-10-12 to 2010-10-14,2010-10-12,2010-10-14,Steven Wilson (IP),Unknown,4%,False,"October 12–14, 2010",584 (LV),4.1
+2010,Minnesota,MN,1,General,Survey USA,2010-10-22 to 2010-10-26,2010-10-22,2010-10-26,Lars Johnson,I,2%,False,"October 22–26, 2010",558 (LV),4.2
+2010,Minnesota,MN,1,General,Survey USA,2010-10-12 to 2010-10-14,2010-10-12,2010-10-14,Lars Johnson,I,2%,False,"October 12–14, 2010",584 (LV),4.1
+2010,Minnesota,MN,6,General,Survey USA,2010-09-15,2010-09-15,2010-09-15,Michele Bachmann,R,49%,False,"September 15, 2010",582 (LV),4.1
+2010,Minnesota,MN,6,General,Survey USA,2010-07-09 to 2010-07-11,2010-07-09,2010-07-11,Michele Bachmann,R,48%,False,"July 9–11, 2010",565 (LV),4.2
+2010,Minnesota,MN,6,General,Public Policy Polling,2009-12-17 to 2009-12-20,2009-12-17,2009-12-20,Michele Bachmann,R,55%,False,"December 17–20, 2009",719 (RV),3.7
+2010,Minnesota,MN,6,General,Public Policy Polling,2009-12-17 to 2009-12-20,2009-12-17,2009-12-20,Michele Bachmann,R,53%,False,"December 17–20, 2009",719 (RV),3.7
+2010,Minnesota,MN,6,General,Survey USA,2010-09-15,2010-09-15,2010-09-15,Tarryl Clark (DFL),Unknown,40%,False,"September 15, 2010",582 (LV),4.1
+2010,Minnesota,MN,6,General,Survey USA,2010-07-09 to 2010-07-11,2010-07-09,2010-07-11,Tarryl Clark (DFL),Unknown,39%,False,"July 9–11, 2010",565 (LV),4.2
+2010,Minnesota,MN,6,General,Public Policy Polling,2009-12-17 to 2009-12-20,2009-12-17,2009-12-20,Tarryl Clark (DFL),Unknown,37%,False,"December 17–20, 2009",719 (RV),3.7
+2010,Minnesota,MN,6,General,Survey USA,2010-09-15,2010-09-15,2010-09-15,Bob Anderson (IP),Unknown,6%,False,"September 15, 2010",582 (LV),4.1
+2010,Minnesota,MN,6,General,Survey USA,2010-07-09 to 2010-07-11,2010-07-09,2010-07-11,Bob Anderson (IP),Unknown,6%,False,"July 9–11, 2010",565 (LV),4.2
+2010,Minnesota,MN,6,General,Survey USA,2010-09-15,2010-09-15,2010-09-15,Aubrey Immelman,I,1%,False,"September 15, 2010",582 (LV),4.1
+2010,Minnesota,MN,6,General,Survey USA,2010-07-09 to 2010-07-11,2010-07-09,2010-07-11,Aubrey Immelman,I,2%,False,"July 9–11, 2010",565 (LV),4.2
+2010,Minnesota,MN,6,General,Public Policy Polling,2009-12-17 to 2009-12-20,2009-12-17,2009-12-20,Maureen Reed (DFL),Unknown,37%,False,"December 17–20, 2009",719 (RV),3.7
+2010,Minnesota,MN,8,General,Survey USA,2010-10-25 to 2010-10-28,2010-10-25,2010-10-28,Jim Oberstar (DFL),Unknown,47%,False,"October 25–28, 2010",665 (LV),3.9
+2010,Minnesota,MN,8,General,Public Opinion Strategies (R),2010-09-28 to 2010-09-30,2010-09-28,2010-09-30,Jim Oberstar (DFL),Unknown,45%,False,"September 28–30, 2010",300 (LV),5.7
+2010,Minnesota,MN,8,General,Survey USA,2010-10-25 to 2010-10-28,2010-10-25,2010-10-28,Chip Cravaack,R,46%,False,"October 25–28, 2010",665 (LV),3.9
+2010,Minnesota,MN,8,General,Public Opinion Strategies (R),2010-09-28 to 2010-09-30,2010-09-28,2010-09-30,Chip Cravaack,R,42%,False,"September 28–30, 2010",300 (LV),5.7
+2010,Minnesota,MN,8,General,Survey USA,2010-10-25 to 2010-10-28,2010-10-25,2010-10-28,George Burton (C),Unknown,3%,False,"October 25–28, 2010",665 (LV),3.9
+2010,Nebraska,NE,2,General,Wiese Research Associates,2010-10-17 to 2010-10-21,2010-10-17,2010-10-21,Lee Terry,R,44%,False,"October 17–21, 2010",,
+2010,Nebraska,NE,2,General,Wiese Research Associates,2010-10-17 to 2010-10-21,2010-10-17,2010-10-21,Lee Terry,R,48%,False,"October 17–21, 2010",,
+2010,Nebraska,NE,2,General,Wiese Research Associates,2010-10-17 to 2010-10-21,2010-10-17,2010-10-21,Tom White,D,39%,False,"October 17–21, 2010",,
+2010,Nebraska,NE,2,General,Wiese Research Associates,2010-10-17 to 2010-10-21,2010-10-17,2010-10-21,Tom White,D,40%,False,"October 17–21, 2010",,
+2010,Nevada,NV,3,General,Mason-Dixon,2010-10-25 to 2010-10-27,2010-10-25,2010-10-27,Dina Titus,D,43%,False,"October 25–27, 2010",400 (LV),5.0
+2010,Nevada,NV,3,General,The Hill,2010-09-25 to 2010-09-27,2010-09-25,2010-09-27,Dina Titus,D,44%,False,"September 25–27, 2010",403 (LV),4.9
+2010,Nevada,NV,3,General,Mason-Dixon,2010-09-07 to 2010-09-09,2010-09-07,2010-09-09,Dina Titus,D,47%,False,"September 7–9, 2010",400 (LV),5.0
+2010,Nevada,NV,3,General,"Ayres, McHenry & Associates",2010-08-23 to 2010-08-24,2010-08-23,2010-08-24,Dina Titus,D,45%,False,"August 23–24, 2010",400 (V),4.9
+2010,Nevada,NV,3,General,Mason-Dixon,2010-08-09 to 2010-08-11,2010-08-09,2010-08-11,Dina Titus,D,43%,False,"August 9–11, 2010",400 (LV),5.0
+2010,Nevada,NV,3,General,Mason-Dixon,2010-07-12 to 2010-07-14,2010-07-12,2010-07-14,Dina Titus,D,42%,False,"July 12–14, 2010",400 (LV),5.0
+2010,Nevada,NV,3,General,Wilson Research Strategies,2010-03-24 to 2010-03-25,2010-03-24,2010-03-25,Dina Titus,D,35%,False,"March 24–25, 2010",,4.9
+2010,Nevada,NV,3,General,Mason-Dixon,2009-11-30 to 2009-12-02,2009-11-30,2009-12-02,Dina Titus,D,40%,False,"November 30 – December 2, 2009",300 (RV),6.0
+2010,Nevada,NV,3,General,Mason-Dixon,2010-10-25 to 2010-10-27,2010-10-25,2010-10-27,Joe Heck,R,53%,False,"October 25–27, 2010",400 (LV),5.0
+2010,Nevada,NV,3,General,The Hill,2010-09-25 to 2010-09-27,2010-09-25,2010-09-27,Joe Heck,R,47%,False,"September 25–27, 2010",403 (LV),4.9
+2010,Nevada,NV,3,General,Mason-Dixon,2010-09-07 to 2010-09-09,2010-09-07,2010-09-09,Joe Heck,R,43%,False,"September 7–9, 2010",400 (LV),5.0
+2010,Nevada,NV,3,General,"Ayres, McHenry & Associates",2010-08-23 to 2010-08-24,2010-08-23,2010-08-24,Joe Heck,R,48%,False,"August 23–24, 2010",400 (V),4.9
+2010,Nevada,NV,3,General,Mason-Dixon,2010-08-09 to 2010-08-11,2010-08-09,2010-08-11,Joe Heck,R,42%,False,"August 9–11, 2010",400 (LV),5.0
+2010,Nevada,NV,3,General,Mason-Dixon,2010-07-12 to 2010-07-14,2010-07-12,2010-07-14,Joe Heck,R,40%,False,"July 12–14, 2010",400 (LV),5.0
+2010,Nevada,NV,3,General,Wilson Research Strategies,2010-03-24 to 2010-03-25,2010-03-24,2010-03-25,Joe Heck,R,40%,False,"March 24–25, 2010",,4.9
+2010,Nevada,NV,3,General,Mason-Dixon,2009-11-30 to 2009-12-02,2009-11-30,2009-12-02,Joe Heck,R,40%,False,"November 30 – December 2, 2009",300 (RV),6.0
+2010,Nevada,NV,3,General,Wilson Research Strategies,2010-03-24 to 2010-03-25,2010-03-24,2010-03-25,Barry Michaels,I,7%,False,"March 24–25, 2010",,4.9
+2010,New Hampshire,NH,1,General,Granite State Poll,2010-10-27 to 2010-10-31,2010-10-27,2010-10-31,Carol Shea-Porter,D,39%,False,"October 27–31, 2010",,
+2010,New Hampshire,NH,1,General,OnMessage Inc.,2010-10-20 to 2010-10-21,2010-10-20,2010-10-21,Carol Shea-Porter,D,37%,False,"October 20–21, 2010",,
+2010,New Hampshire,NH,1,General,The Hill,2010-10-09 to 2010-10-12,2010-10-09,2010-10-12,Carol Shea-Porter,D,42%,False,"October 9–12, 2010",,
+2010,New Hampshire,NH,1,General,Granite State Poll,2010-10-07 to 2010-10-12,2010-10-07,2010-10-12,Carol Shea-Porter,D,36%,False,"October 7–12, 2010",,
+2010,New Hampshire,NH,1,General,Granite State Poll,2010-09-30,2010-09-30,2010-09-30,Carol Shea-Porter,D,39%,False,"September 30, 2010",,
+2010,New Hampshire,NH,1,General,American Research Group,2010-09-27,2010-09-27,2010-09-27,Carol Shea-Porter,D,40%,False,"September 27, 2010",,
+2010,New Hampshire,NH,1,General,Granite State Poll,2010-07-19 to 2010-07-27,2010-07-19,2010-07-27,Carol Shea-Porter,D,44%,False,"July 19–27, 2010",,
+2010,New Hampshire,NH,1,General,Granite State Poll,2010-04-18 to 2010-04-28,2010-04-18,2010-04-28,Carol Shea-Porter,D,38%,False,"April 18–28, 2010",,
+2010,New Hampshire,NH,1,General,Public Policy Polling,2010-04-17 to 2010-04-18,2010-04-17,2010-04-18,Carol Shea-Porter,D,45%,False,"April 17–18, 2010",,
+2010,New Hampshire,NH,1,General,Granite State Poll,2010-02-03,2010-02-03,2010-02-03,Carol Shea-Porter,D,33%,False,"February 3, 2010",,
+2010,New Hampshire,NH,1,General,Populus Research,2009-09-02,2009-09-02,2009-09-02,Carol Shea-Porter,D,46%,False,"September 2, 2009",,
+2010,New Hampshire,NH,1,General,On Message Inc.,2009-04-28,2009-04-28,2009-04-28,Carol Shea-Porter,D,43%,False,"April 28, 2009",,
+2010,New Hampshire,NH,1,General,Granite State Poll,2010-10-27 to 2010-10-31,2010-10-27,2010-10-31,Frank Guinta,R,46%,False,"October 27–31, 2010",,
+2010,New Hampshire,NH,1,General,OnMessage Inc.,2010-10-20 to 2010-10-21,2010-10-20,2010-10-21,Frank Guinta,R,53%,False,"October 20–21, 2010",,
+2010,New Hampshire,NH,1,General,The Hill,2010-10-09 to 2010-10-12,2010-10-09,2010-10-12,Frank Guinta,R,47%,False,"October 9–12, 2010",,
+2010,New Hampshire,NH,1,General,Granite State Poll,2010-10-07 to 2010-10-12,2010-10-07,2010-10-12,Frank Guinta,R,48%,False,"October 7–12, 2010",,
+2010,New Hampshire,NH,1,General,Granite State Poll,2010-09-30,2010-09-30,2010-09-30,Frank Guinta,R,49%,False,"September 30, 2010",,
+2010,New Hampshire,NH,1,General,American Research Group,2010-09-27,2010-09-27,2010-09-27,Frank Guinta,R,50%,False,"September 27, 2010",,
+2010,New Hampshire,NH,1,General,Granite State Poll,2010-07-19 to 2010-07-27,2010-07-19,2010-07-27,Frank Guinta,R,39%,False,"July 19–27, 2010",,
+2010,New Hampshire,NH,1,General,Granite State Poll,2010-04-18 to 2010-04-28,2010-04-18,2010-04-28,Frank Guinta,R,42%,False,"April 18–28, 2010",,
+2010,New Hampshire,NH,1,General,Public Policy Polling,2010-04-17 to 2010-04-18,2010-04-17,2010-04-18,Frank Guinta,R,46%,False,"April 17–18, 2010",,
+2010,New Hampshire,NH,1,General,Granite State Poll,2010-02-03,2010-02-03,2010-02-03,Frank Guinta,R,43%,False,"February 3, 2010",,
+2010,New Hampshire,NH,1,General,Populus Research,2009-09-02,2009-09-02,2009-09-02,Frank Guinta,R,43%,False,"September 2, 2009",,
+2010,New Hampshire,NH,1,General,On Message Inc.,2009-04-28,2009-04-28,2009-04-28,Frank Guinta,R,34%,False,"April 28, 2009",,
+2010,New Hampshire,NH,2,General,Granite State Poll,2010-10-27 to 2010-10-31,2010-10-27,2010-10-31,Ann McLane Kuster,D,43%,False,"October 27–31, 2010",,
+2010,New Hampshire,NH,2,General,Granite State Poll,2010-10-07 to 2010-10-12,2010-10-07,2010-10-12,Ann McLane Kuster,D,43%,False,"October 7–12, 2010",,
+2010,New Hampshire,NH,2,General,The Hill,2010-10-05 to 2010-10-07,2010-10-05,2010-10-07,Ann McLane Kuster,D,42%,False,"October 5–7, 2010",,
+2010,New Hampshire,NH,2,General,Granite State Poll,2010-09-23 to 2010-09-29,2010-09-23,2010-09-29,Ann McLane Kuster,D,38%,False,"September 23–29, 2010",,
+2010,New Hampshire,NH,2,General,American Research Group,2010-09-22 to 2010-09-26,2010-09-22,2010-09-26,Ann McLane Kuster,D,36%,False,"September 22–26, 2010",,
+2010,New Hampshire,NH,2,General,Granite State Poll,2010-07-19 to 2010-07-27,2010-07-19,2010-07-27,Ann McLane Kuster,D,29%,False,"July 19–27, 2010",,
+2010,New Hampshire,NH,2,General,Granite State Poll,2010-04-18 to 2010-04-28,2010-04-18,2010-04-28,Ann McLane Kuster,D,30%,False,"April 18–28, 2010",,
+2010,New Hampshire,NH,2,General,Granite State Poll,2010-02-03,2010-02-03,2010-02-03,Ann McLane Kuster,D,28%,False,"February 3, 2010",,
+2010,New Hampshire,NH,2,General,Granite State Poll,2010-10-27 to 2010-10-31,2010-10-27,2010-10-31,Charlie Bass,R,40%,False,"October 27–31, 2010",,
+2010,New Hampshire,NH,2,General,Granite State Poll,2010-10-07 to 2010-10-12,2010-10-07,2010-10-12,Charlie Bass,R,36%,False,"October 7–12, 2010",,
+2010,New Hampshire,NH,2,General,The Hill,2010-10-05 to 2010-10-07,2010-10-05,2010-10-07,Charlie Bass,R,45%,False,"October 5–7, 2010",,
+2010,New Hampshire,NH,2,General,Granite State Poll,2010-09-23 to 2010-09-29,2010-09-23,2010-09-29,Charlie Bass,R,43%,False,"September 23–29, 2010",,
+2010,New Hampshire,NH,2,General,American Research Group,2010-09-22 to 2010-09-26,2010-09-22,2010-09-26,Charlie Bass,R,38%,False,"September 22–26, 2010",,
+2010,New Hampshire,NH,2,General,Granite State Poll,2010-07-19 to 2010-07-27,2010-07-19,2010-07-27,Charlie Bass,R,47%,False,"July 19–27, 2010",,
+2010,New Hampshire,NH,2,General,Granite State Poll,2010-04-18 to 2010-04-28,2010-04-18,2010-04-28,Charlie Bass,R,42%,False,"April 18–28, 2010",,
+2010,New Hampshire,NH,2,General,Granite State Poll,2010-02-03,2010-02-03,2010-02-03,Charlie Bass,R,39%,False,"February 3, 2010",,
+2010,New Jersey,NJ,3,General,Monmouth University,2010-10-22 to 2010-10-25,2010-10-22,2010-10-25,Poll,Unknown,43%,False,"October 22–25, 2010",,
+2010,New Jersey,NJ,3,General,Rutgers-Eagleton,2010-10-23 to 2010-10-24,2010-10-23,2010-10-24,Poll,Unknown,46%,False,"October 23–24, 2010",,
+2010,New Jersey,NJ,3,General,Stockton,2010-10-18 to 2010-10-22,2010-10-18,2010-10-22,Poll,Unknown,37%,False,"October 18–22, 2010",,
+2010,New Jersey,NJ,3,General,Monmouth University,2010-09-24 to 2010-09-28,2010-09-24,2010-09-28,Poll,Unknown,42%,False,"September 24–28, 2010",,
+2010,New Jersey,NJ,3,General,Rutgers-Eagleton,2010-09-23 to 2010-09-26,2010-09-23,2010-09-26,Poll,Unknown,44%,False,"September 23–26, 2010",,
+2010,New Jersey,NJ,3,General,Stockton,2010-09-21 to 2010-09-23,2010-09-21,2010-09-23,Poll,Unknown,38%,False,"September 21–23, 2010",,
+2010,New Jersey,NJ,3,General,Rutgers University,2010-08-05 to 2010-08-08,2010-08-05,2010-08-08,Poll,Unknown,31%,False,"August 5–8, 2010",,
+2010,New Jersey,NJ,3,General,Greenberg Quinlan Rosner Research†,2010-06-27 to 2010-06-30,2010-06-27,2010-06-30,Poll,Unknown,51%,False,"June 27–30, 2010",,
+2010,New Jersey,NJ,3,General,Monmouth University,2010-10-22 to 2010-10-25,2010-10-22,2010-10-25,John Adler,D,48%,False,"October 22–25, 2010",,
+2010,New Jersey,NJ,3,General,Rutgers-Eagleton,2010-10-23 to 2010-10-24,2010-10-23,2010-10-24,John Adler,D,45%,False,"October 23–24, 2010",,
+2010,New Jersey,NJ,3,General,Stockton,2010-10-18 to 2010-10-22,2010-10-18,2010-10-22,John Adler,D,40%,False,"October 18–22, 2010",,
+2010,New Jersey,NJ,3,General,Monmouth University,2010-09-24 to 2010-09-28,2010-09-24,2010-09-28,John Adler,D,39%,False,"September 24–28, 2010",,
+2010,New Jersey,NJ,3,General,Rutgers-Eagleton,2010-09-23 to 2010-09-26,2010-09-23,2010-09-26,John Adler,D,38%,False,"September 23–26, 2010",,
+2010,New Jersey,NJ,3,General,Stockton,2010-09-21 to 2010-09-23,2010-09-21,2010-09-23,John Adler,D,30%,False,"September 21–23, 2010",,
+2010,New Jersey,NJ,3,General,Rutgers University,2010-08-05 to 2010-08-08,2010-08-05,2010-08-08,John Adler,D,25%,False,"August 5–8, 2010",,
+2010,New Jersey,NJ,3,General,Greenberg Quinlan Rosner Research†,2010-06-27 to 2010-06-30,2010-06-27,2010-06-30,John Adler,D,34%,False,"June 27–30, 2010",,
+2010,New Jersey,NJ,3,General,Rutgers-Eagleton,2010-10-23 to 2010-10-24,2010-10-23,2010-10-24,Jon Runyan,R,4%,False,"October 23–24, 2010",,
+2010,New Jersey,NJ,3,General,Stockton,2010-10-18 to 2010-10-22,2010-10-18,2010-10-22,Jon Runyan,R,4.9%,False,"October 18–22, 2010",,
+2010,New Jersey,NJ,3,General,Monmouth University,2010-09-24 to 2010-09-28,2010-09-24,2010-09-28,Jon Runyan,R,4%,False,"September 24–28, 2010",,
+2010,New Jersey,NJ,3,General,Rutgers-Eagleton,2010-09-23 to 2010-09-26,2010-09-23,2010-09-26,Jon Runyan,R,6%,False,"September 23–26, 2010",,
+2010,New Jersey,NJ,3,General,Stockton,2010-09-21 to 2010-09-23,2010-09-21,2010-09-23,Jon Runyan,R,7.6%,False,"September 21–23, 2010",,
+2010,New Jersey,NJ,3,General,Rutgers University,2010-08-05 to 2010-08-08,2010-08-05,2010-08-08,Jon Runyan,R,4%,False,"August 5–8, 2010",,
+2010,New Jersey,NJ,3,General,Greenberg Quinlan Rosner Research†,2010-06-27 to 2010-06-30,2010-06-27,2010-06-30,Jon Runyan,R,12%,False,"June 27–30, 2010",,
+2010,New Jersey,NJ,12,General,National Research,2010-10-27,2010-10-27,2010-10-27,Poll,Unknown,42%,False,"October 27, 2010",,
+2010,New Jersey,NJ,12,General,Monmouth University,2010-10-25 to 2010-10-27,2010-10-25,2010-10-27,Poll,Unknown,51%,False,"October 25–27, 2010",,
+2010,New Jersey,NJ,12,General,Monmouth University,2010-10-09 to 2010-10-12,2010-10-09,2010-10-12,Poll,Unknown,51%,False,"October 9–12, 2010",,
+2010,New Jersey,NJ,12,General,National Research,2010-10-27,2010-10-27,2010-10-27,Rush Holt,D,43%,False,"October 27, 2010",,
+2010,New Jersey,NJ,12,General,Monmouth University,2010-10-25 to 2010-10-27,2010-10-25,2010-10-27,Rush Holt,D,43%,False,"October 25–27, 2010",,
+2010,New Jersey,NJ,12,General,Monmouth University,2010-10-09 to 2010-10-12,2010-10-09,2010-10-12,Rush Holt,D,46%,False,"October 9–12, 2010",,
+2010,New Mexico,NM,1,General,Research and Polling Inc.,2010-10-27 to 2010-10-28,2010-10-27,2010-10-28,Martin Heinrich,D,46%,False,"October 27–28, 2010",,
+2010,New Mexico,NM,1,General,Public Opinion Strategies,2010-10-24 to 2010-10-25,2010-10-24,2010-10-25,Martin Heinrich,D,47%,False,"October 24–25, 2010",,
+2010,New Mexico,NM,1,General,Research and Polling Inc.,2010-09-27 to 2010-09-30,2010-09-27,2010-09-30,Martin Heinrich,D,48%,False,"September 27–30, 2010",,
+2010,New Mexico,NM,1,General,Public Policy Polling,2010-09-25 to 2010-09-26,2010-09-25,2010-09-26,Martin Heinrich,D,50%,False,"September 25–26, 2010",,
+2010,New Mexico,NM,1,General,American Action Forum,2010-08-23 to 2010-08-29,2010-08-23,2010-08-29,Martin Heinrich,D,49%,False,"August 23–29, 2010",,
+2010,New Mexico,NM,1,General,Research and Polling Inc.,2010-08-23 to 2010-08-27,2010-08-23,2010-08-27,Martin Heinrich,D,47%,False,"August 23–27, 2010",,
+2010,New Mexico,NM,1,General,Survey USA,2010-07-22 to 2010-07-25,2010-07-22,2010-07-25,Martin Heinrich,D,45%,False,"July 22–25, 2010",,
+2010,New Mexico,NM,1,General,Greenberg Quinlan Rosner Research,2010-07-08 to 2010-07-13,2010-07-08,2010-07-13,Martin Heinrich,D,53%,False,"July 8–13, 2010",,
+2010,New Mexico,NM,1,General,Greenberg Quinlan Rosner Research,2010-04-28 to 2010-05-02,2010-04-28,2010-05-02,Martin Heinrich,D,55%,False,"April 28 – May 2, 2010",,
+2010,New Mexico,NM,1,General,Public Policy Polling,2010-02-25,2010-02-25,2010-02-25,Martin Heinrich,D,45%,False,"February 25, 2010",,
+2010,New Mexico,NM,1,General,Research and Polling Inc.,2010-10-27 to 2010-10-28,2010-10-27,2010-10-28,Jon Barela,R,49%,False,"October 27–28, 2010",,
+2010,New Mexico,NM,1,General,Public Opinion Strategies,2010-10-24 to 2010-10-25,2010-10-24,2010-10-25,Jon Barela,R,49%,False,"October 24–25, 2010",,
+2010,New Mexico,NM,1,General,Research and Polling Inc.,2010-09-27 to 2010-09-30,2010-09-27,2010-09-30,Jon Barela,R,41%,False,"September 27–30, 2010",,
+2010,New Mexico,NM,1,General,Public Policy Polling,2010-09-25 to 2010-09-26,2010-09-25,2010-09-26,Jon Barela,R,43%,False,"September 25–26, 2010",,
+2010,New Mexico,NM,1,General,American Action Forum,2010-08-23 to 2010-08-29,2010-08-23,2010-08-29,Jon Barela,R,42%,False,"August 23–29, 2010",,
+2010,New Mexico,NM,1,General,Research and Polling Inc.,2010-08-23 to 2010-08-27,2010-08-23,2010-08-27,Jon Barela,R,41%,False,"August 23–27, 2010",,
+2010,New Mexico,NM,1,General,Survey USA,2010-07-22 to 2010-07-25,2010-07-22,2010-07-25,Jon Barela,R,51%,False,"July 22–25, 2010",,
+2010,New Mexico,NM,1,General,Greenberg Quinlan Rosner Research,2010-07-08 to 2010-07-13,2010-07-08,2010-07-13,Jon Barela,R,41%,False,"July 8–13, 2010",,
+2010,New Mexico,NM,1,General,Greenberg Quinlan Rosner Research,2010-04-28 to 2010-05-02,2010-04-28,2010-05-02,Jon Barela,R,38%,False,"April 28 – May 2, 2010",,
+2010,New Mexico,NM,1,General,Public Policy Polling,2010-02-25,2010-02-25,2010-02-25,Jon Barela,R,36%,False,"February 25, 2010",,
+2010,New Mexico,NM,2,General,Research and Polling Inc.,2010-10-27 to 2010-10-28,2010-10-27,2010-10-28,Harry Teague,D,45%,False,"October 27–28, 2010",,
+2010,New Mexico,NM,2,General,Tarrance Group,2010-10-19 to 2010-10-20,2010-10-19,2010-10-20,Harry Teague,D,41%,False,"October 19–20, 2010",,
+2010,New Mexico,NM,2,General,The Hill,2010-09-28 to 2010-09-30,2010-09-28,2010-09-30,Harry Teague,D,42%,False,"September 28–30, 2010",,
+2010,New Mexico,NM,2,General,Research and Polling Inc.,2010-09-27 to 2010-09-30,2010-09-27,2010-09-30,Harry Teague,D,44%,False,"September 27–30, 2010",,
+2010,New Mexico,NM,2,General,Public Policy Polling,2010-09-25 to 2010-09-26,2010-09-25,2010-09-26,Harry Teague,D,47%,False,"September 25–26, 2010",,
+2010,New Mexico,NM,2,General,Anzalone Liszt Research,2010-09-07 to 2010-09-09,2010-09-07,2010-09-09,Harry Teague,D,51%,False,"September 7–9, 2010",,
+2010,New Mexico,NM,2,General,Research and Polling Inc.,2010-08-23 to 2010-08-27,2010-08-23,2010-08-27,Harry Teague,D,45%,False,"August 23–27, 2010",,
+2010,New Mexico,NM,2,General,Hamilton Campaigns,2010-04-06 to 2010-04-08,2010-04-06,2010-04-08,Harry Teague,D,47%,False,"April 6–8, 2010",,
+2010,New Mexico,NM,2,General,Public Policy Polling,2010-02-25,2010-02-25,2010-02-25,Harry Teague,D,41%,False,"February 25, 2010",,
+2010,New Mexico,NM,2,General,Tarrance Group,2010-02-16 to 2010-02-18,2010-02-16,2010-02-18,Harry Teague,D,44%,False,"February 16–18, 2010",,
+2010,New Mexico,NM,2,General,Hamilton Campaigns,2009-08,2009-08-01,2009-08-31,Harry Teague,D,42%,False,"August, 2009",,
+2010,New Mexico,NM,2,General,Research and Polling Inc.,2010-10-27 to 2010-10-28,2010-10-27,2010-10-28,Steve Pearce,R,48%,False,"October 27–28, 2010",,
+2010,New Mexico,NM,2,General,Tarrance Group,2010-10-19 to 2010-10-20,2010-10-19,2010-10-20,Steve Pearce,R,50%,False,"October 19–20, 2010",,
+2010,New Mexico,NM,2,General,The Hill,2010-09-28 to 2010-09-30,2010-09-28,2010-09-30,Steve Pearce,R,46%,False,"September 28–30, 2010",,
+2010,New Mexico,NM,2,General,Research and Polling Inc.,2010-09-27 to 2010-09-30,2010-09-27,2010-09-30,Steve Pearce,R,45%,False,"September 27–30, 2010",,
+2010,New Mexico,NM,2,General,Public Policy Polling,2010-09-25 to 2010-09-26,2010-09-25,2010-09-26,Steve Pearce,R,48%,False,"September 25–26, 2010",,
+2010,New Mexico,NM,2,General,Anzalone Liszt Research,2010-09-07 to 2010-09-09,2010-09-07,2010-09-09,Steve Pearce,R,44%,False,"September 7–9, 2010",,
+2010,New Mexico,NM,2,General,Research and Polling Inc.,2010-08-23 to 2010-08-27,2010-08-23,2010-08-27,Steve Pearce,R,42%,False,"August 23–27, 2010",,
+2010,New Mexico,NM,2,General,Hamilton Campaigns,2010-04-06 to 2010-04-08,2010-04-06,2010-04-08,Steve Pearce,R,46%,False,"April 6–8, 2010",,
+2010,New Mexico,NM,2,General,Public Policy Polling,2010-02-25,2010-02-25,2010-02-25,Steve Pearce,R,43%,False,"February 25, 2010",,
+2010,New Mexico,NM,2,General,Tarrance Group,2010-02-16 to 2010-02-18,2010-02-16,2010-02-18,Steve Pearce,R,48%,False,"February 16–18, 2010",,
+2010,New Mexico,NM,2,General,Hamilton Campaigns,2009-08,2009-08-01,2009-08-31,Steve Pearce,R,52%,False,"August, 2009",,
+2010,New York,NY,1,General,Siena,2010-10-06 to 2010-10-11,2010-10-06,2010-10-11,Tim Bishop,D,51%,False,"October 6–11, 2010",,
+2010,New York,NY,1,General,Survey USA,2010-01-16 to 2010-01-18,2010-01-16,2010-01-18,Tim Bishop,D,47%,False,"January 16–18, 2010",,
+2010,New York,NY,1,General,McLaughlin & Associates,2009-11-18 to 2009-11-19,2009-11-18,2009-11-19,Tim Bishop,D,46%,False,"November 18–19, 2009",,
+2010,New York,NY,1,General,Siena,2010-10-06 to 2010-10-11,2010-10-06,2010-10-11,Randy Altschuler,R,39%,False,"October 6–11, 2010",,
+2010,New York,NY,1,General,Survey USA,2010-01-16 to 2010-01-18,2010-01-16,2010-01-18,Randy Altschuler,R,45%,False,"January 16–18, 2010",,
+2010,New York,NY,1,General,McLaughlin & Associates,2009-11-18 to 2009-11-19,2009-11-18,2009-11-19,Randy Altschuler,R,26%,False,"November 18–19, 2009",,
+2010,New York,NY,4,General,McLaughlin & Associates,2010-10-06,2010-10-06,2010-10-06,Carolyn McCarthy,D,46%,False,"October 6, 2010",,
+2010,New York,NY,4,General,McLaughlin & Associates,2010-10-06,2010-10-06,2010-10-06,Fran Becker,R,45%,False,"October 6, 2010",,
+2010,New York,NY,13,General,Barry Zeplowitz & Associates,2010-09-22 to 2010-09-23,2010-09-22,2010-09-23,Michael McMahon,D,46%,False,"September 22–23, 2010",,
+2010,New York,NY,13,General,Global Strategy Group,2010-09-19 to 2010-09-22,2010-09-19,2010-09-22,Michael McMahon,D,51%,False,"September 19–22, 2010",,
+2010,New York,NY,13,General,Global Strategy Group,2010-04-07 to 2010-04-11,2010-04-07,2010-04-11,Michael McMahon,D,56%,False,"April 7–11, 2010",,
+2010,New York,NY,13,General,Barry Zeplowitz & Associates,2010-09-22 to 2010-09-23,2010-09-22,2010-09-23,Michael Grimm,R,38%,False,"September 22–23, 2010",,
+2010,New York,NY,13,General,Global Strategy Group,2010-09-19 to 2010-09-22,2010-09-19,2010-09-22,Michael Grimm,R,33%,False,"September 19–22, 2010",,
+2010,New York,NY,13,General,Global Strategy Group,2010-04-07 to 2010-04-11,2010-04-07,2010-04-11,Michael Grimm,R,23%,False,"April 7–11, 2010",,
+2010,New York,NY,19,General,Siena,2010-10-23 to 2010-10-26,2010-10-23,2010-10-26,John Hall,D,47%,False,"October 23–26, 2010",,
+2010,New York,NY,19,General,Iona College,2010-10-20,2010-10-20,2010-10-20,John Hall,D,43%,False,"October 20, 2010",,
+2010,New York,NY,19,General,Monmouth University,2010-10-15 to 2010-10-18,2010-10-15,2010-10-18,John Hall,D,49%,False,"October 15–18, 2010",,
+2010,New York,NY,19,General,The Hill,2010-10-12 to 2010-10-14,2010-10-12,2010-10-14,John Hall,D,43%,False,"October 12–14, 2010",,
+2010,New York,NY,19,General,Siena,2010-10-05 to 2010-10-10,2010-10-05,2010-10-10,John Hall,D,43%,False,"October 5–10, 2010",,
+2010,New York,NY,19,General,Iona College,2010-10-06,2010-10-06,2010-10-06,John Hall,D,42%,False,"October 6, 2010",,
+2010,New York,NY,19,General,Public Policy Polling,2010-09-11 to 2010-09-12,2010-09-11,2010-09-12,John Hall,D,42%,False,"September 11–12, 2010",,
+2010,New York,NY,19,General,Siena,2010-10-23 to 2010-10-26,2010-10-23,2010-10-26,Nan Hayworth,R,46%,False,"October 23–26, 2010",,
+2010,New York,NY,19,General,Iona College,2010-10-20,2010-10-20,2010-10-20,Nan Hayworth,R,44%,False,"October 20, 2010",,
+2010,New York,NY,19,General,Monmouth University,2010-10-15 to 2010-10-18,2010-10-15,2010-10-18,Nan Hayworth,R,48%,False,"October 15–18, 2010",,
+2010,New York,NY,19,General,The Hill,2010-10-12 to 2010-10-14,2010-10-12,2010-10-14,Nan Hayworth,R,43%,False,"October 12–14, 2010",,
+2010,New York,NY,19,General,Siena,2010-10-05 to 2010-10-10,2010-10-05,2010-10-10,Nan Hayworth,R,46%,False,"October 5–10, 2010",,
+2010,New York,NY,19,General,Iona College,2010-10-06,2010-10-06,2010-10-06,Nan Hayworth,R,42%,False,"October 6, 2010",,
+2010,New York,NY,19,General,Public Policy Polling,2010-09-11 to 2010-09-12,2010-09-11,2010-09-12,Nan Hayworth,R,44%,False,"September 11–12, 2010",,
+2010,New York,NY,20,General,Siena,2010-10-23 to 2010-10-25,2010-10-23,2010-10-25,Scott Murphy,D,42%,False,"October 23–25, 2010",,
+2010,New York,NY,20,General,Public Opinion Strategies,2010-10-17 to 2010-10-18,2010-10-17,2010-10-18,Scott Murphy,D,42%,False,"October 17–18, 2010",,
+2010,New York,NY,20,General,NRCC internal poll,2010-10,2010-10-01,2010-10-31,Scott Murphy,D,45%,False,"Early-October, 2010",,
+2010,New York,NY,20,General,Grove Insight,2010-09-28 to 2010-09-30,2010-09-28,2010-09-30,Scott Murphy,D,51%,False,"September 28–30, 2010",,
+2010,New York,NY,20,General,Public Opinion Strategies,2010-09-27 to 2010-09-28,2010-09-27,2010-09-28,Scott Murphy,D,42%,False,"September 27–28, 2010",,
+2010,New York,NY,20,General,Siena,2010-09-12 to 2010-09-14,2010-09-12,2010-09-14,Scott Murphy,D,54%,False,"September 12–14, 2010",,
+2010,New York,NY,20,General,American Action Forum,2010-07-28 to 2010-08-01,2010-07-28,2010-08-01,Scott Murphy,D,45%,False,"July 28-Aug. 1, 2010",,
+2010,New York,NY,20,General,Siena,2010-10-23 to 2010-10-25,2010-10-23,2010-10-25,Chris Gibson,R,51%,False,"October 23–25, 2010",,
+2010,New York,NY,20,General,Public Opinion Strategies,2010-10-17 to 2010-10-18,2010-10-17,2010-10-18,Chris Gibson,R,44%,False,"October 17–18, 2010",,
+2010,New York,NY,20,General,NRCC internal poll,2010-10,2010-10-01,2010-10-31,Chris Gibson,R,48%,False,"Early-October, 2010",,
+2010,New York,NY,20,General,Grove Insight,2010-09-28 to 2010-09-30,2010-09-28,2010-09-30,Chris Gibson,R,38%,False,"September 28–30, 2010",,
+2010,New York,NY,20,General,Public Opinion Strategies,2010-09-27 to 2010-09-28,2010-09-27,2010-09-28,Chris Gibson,R,38%,False,"September 27–28, 2010",,
+2010,New York,NY,20,General,Siena,2010-09-12 to 2010-09-14,2010-09-12,2010-09-14,Chris Gibson,R,37%,False,"September 12–14, 2010",,
+2010,New York,NY,20,General,American Action Forum,2010-07-28 to 2010-08-01,2010-07-28,2010-08-01,Chris Gibson,R,40%,False,"July 28-Aug. 1, 2010",,
+2010,New York,NY,22,General,Abacus Associates,2010-10-20 to 2010-10-21,2010-10-20,2010-10-21,Maurice Hinchey,D,51%,False,"October 20–21, 2010",,
+2010,New York,NY,22,General,Magellan,2010-10-19,2010-10-19,2010-10-19,Maurice Hinchey,D,43%,False,"October 19, 2010",,
+2010,New York,NY,22,General,Abacus Associates,2010-10-20 to 2010-10-21,2010-10-20,2010-10-21,George Phillips,R,34%,False,"October 20–21, 2010",,
+2010,New York,NY,22,General,Magellan,2010-10-19,2010-10-19,2010-10-19,George Phillips,R,43%,False,"October 19, 2010",,
+2010,New York,NY,23,General,Siena,2010-10-23 to 2010-10-26,2010-10-23,2010-10-26,Bill Owens,D,42%,False,"October 23–26, 2010",,
+2010,New York,NY,23,General,Siena,2010-10-05 to 2010-10-07,2010-10-05,2010-10-07,Bill Owens,D,44%,False,"October 5–7, 2010",,
+2010,New York,NY,23,General,Public Opinion Strategies,2010-09-22 to 2010-09-23,2010-09-22,2010-09-23,Bill Owens,D,37%,False,"September 22–23, 2010",,
+2010,New York,NY,23,General,American Action Forum,2010-07-28 to 2010-08-01,2010-07-28,2010-08-01,Bill Owens,D,41%,False,"July 28-Aug. 1, 2010",,
+2010,New York,NY,23,General,Siena,2010-10-23 to 2010-10-26,2010-10-23,2010-10-26,Matt Doheny,R,42%,False,"October 23–26, 2010",,
+2010,New York,NY,23,General,Siena,2010-10-05 to 2010-10-07,2010-10-05,2010-10-07,Matt Doheny,R,39%,False,"October 5–7, 2010",,
+2010,New York,NY,23,General,Public Opinion Strategies,2010-09-22 to 2010-09-23,2010-09-22,2010-09-23,Matt Doheny,R,51%,False,"September 22–23, 2010",,
+2010,New York,NY,23,General,American Action Forum,2010-07-28 to 2010-08-01,2010-07-28,2010-08-01,Matt Doheny,R,39%,False,"July 28-Aug. 1, 2010",,
+2010,New York,NY,24,General,Siena,2010-10-23 to 2010-10-25,2010-10-23,2010-10-25,Mike Arcuri,D,48%,False,"October 23–25, 2010",,
+2010,New York,NY,24,General,The Hill,2010-10-12 to 2010-10-14,2010-10-12,2010-10-14,Mike Arcuri,D,47%,False,"October 12–14, 2010",,
+2010,New York,NY,24,General,McLaughlin & Associates,2010-10-06 to 2010-10-07,2010-10-06,2010-10-07,Mike Arcuri,D,43%,False,"October 6–7, 2010",,
+2010,New York,NY,24,General,Siena,2010-09-13 to 2010-09-15,2010-09-13,2010-09-15,Mike Arcuri,D,48%,False,"September 13–15, 2010",,
+2010,New York,NY,24,General,Benenson Strategy Group,2010-08-29 to 2010-08-31,2010-08-29,2010-08-31,Mike Arcuri,D,50%,False,"August 29–31, 2010",,
+2010,New York,NY,24,General,Siena,2010-10-23 to 2010-10-25,2010-10-23,2010-10-25,Richard L. Hanna,R,43%,False,"October 23–25, 2010",,
+2010,New York,NY,24,General,The Hill,2010-10-12 to 2010-10-14,2010-10-12,2010-10-14,Richard L. Hanna,R,37%,False,"October 12–14, 2010",,
+2010,New York,NY,24,General,McLaughlin & Associates,2010-10-06 to 2010-10-07,2010-10-06,2010-10-07,Richard L. Hanna,R,46%,False,"October 6–7, 2010",,
+2010,New York,NY,24,General,Siena,2010-09-13 to 2010-09-15,2010-09-13,2010-09-15,Richard L. Hanna,R,40%,False,"September 13–15, 2010",,
+2010,New York,NY,24,General,Benenson Strategy Group,2010-08-29 to 2010-08-31,2010-08-29,2010-08-31,Richard L. Hanna,R,37%,False,"August 29–31, 2010",,
+2010,New York,NY,25,General,Siena,2010-10-10 to 2010-10-12,2010-10-10,2010-10-12,Dan Maffei,D,51%,False,"October 10–12, 2010",,
+2010,New York,NY,25,General,McLaughlin & Associates,2010-10-04 to 2010-10-05,2010-10-04,2010-10-05,Dan Maffei,D,39%,False,"October 4–5, 2010",,
+2010,New York,NY,25,General,American Action Forum,2010-07-28 to 2010-08-01,2010-07-28,2010-08-01,Dan Maffei,D,44%,False,"July 28-Aug. 1, 2010",,
+2010,New York,NY,25,General,McLaughlin & Associates,2010-07-26 to 2010-07-27,2010-07-26,2010-07-27,Dan Maffei,D,46%,False,"July 26–27, 2010",,
+2010,New York,NY,25,General,Kiley & Co.,2010-06-27 to 2010-06-30,2010-06-27,2010-06-30,Dan Maffei,D,54%,False,"June 27–30, 2010",,
+2010,New York,NY,25,General,Siena,2010-10-10 to 2010-10-12,2010-10-10,2010-10-12,Ann Marie Buerkle,R,39%,False,"October 10–12, 2010",,
+2010,New York,NY,25,General,McLaughlin & Associates,2010-10-04 to 2010-10-05,2010-10-04,2010-10-05,Ann Marie Buerkle,R,40%,False,"October 4–5, 2010",,
+2010,New York,NY,25,General,American Action Forum,2010-07-28 to 2010-08-01,2010-07-28,2010-08-01,Ann Marie Buerkle,R,41%,False,"July 28-Aug. 1, 2010",,
+2010,New York,NY,25,General,McLaughlin & Associates,2010-07-26 to 2010-07-27,2010-07-26,2010-07-27,Ann Marie Buerkle,R,37%,False,"July 26–27, 2010",,
+2010,New York,NY,25,General,Kiley & Co.,2010-06-27 to 2010-06-30,2010-06-27,2010-06-30,Ann Marie Buerkle,R,35%,False,"June 27–30, 2010",,
+2010,New York,NY,29,General,Siena,2010-09-14 to 2010-09-16,2010-09-14,2010-09-16,Matt Zeller,D,30%,False,"September 14–16, 2010",,
+2010,New York,NY,29,General,We Ask America,2010-04-20,2010-04-20,2010-04-20,Matt Zeller,D,24.01%,False,"April 20, 2010",,
+2010,New York,NY,29,General,Siena,2010-09-14 to 2010-09-16,2010-09-14,2010-09-16,Tom Reed,R,44%,False,"September 14–16, 2010",,
+2010,New York,NY,29,General,We Ask America,2010-04-20,2010-04-20,2010-04-20,Tom Reed,R,41.38%,False,"April 20, 2010",,
+2010,North Dakota,ND,AL,General,Public Opinion Strategies,2010-10-24 to 2010-10-25,2010-10-24,2010-10-25,Earl Pomeroy,D,42%,False,"October 24–25, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-10-18 to 2010-10-19,2010-10-18,2010-10-19,Earl Pomeroy,D,42%,False,"October 18–19, 2010",,
+2010,North Dakota,ND,AL,General,The Hill,2010-10-16 to 2010-10-19,2010-10-16,2010-10-19,Earl Pomeroy,D,45%,False,"October 16–19, 2010",,
+2010,North Dakota,ND,AL,General,Prairie Poll,2010-10,2010-10-01,2010-10-31,Earl Pomeroy,D,44%,False,October 2010,,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-09-20 to 2010-09-21,2010-09-20,2010-09-21,Earl Pomeroy,D,45%,False,"September 20–21, 2010",,
+2010,North Dakota,ND,AL,General,Garin-Hart-Yang,2010-09-10 to 2010-09-12,2010-09-10,2010-09-12,Earl Pomeroy,D,46%,False,"September 10–12, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-08-10 to 2010-08-11,2010-08-10,2010-08-11,Earl Pomeroy,D,44%,False,"August 10–11, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-07-21,2010-07-21,2010-07-21,Earl Pomeroy,D,46%,False,"July 21, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-06-15 to 2010-06-16,2010-06-15,2010-06-16,Earl Pomeroy,D,44%,False,"June 15–16, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-05-19,2010-05-19,2010-05-19,Earl Pomeroy,D,43%,False,"May 19, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-04-20,2010-04-20,2010-04-20,Earl Pomeroy,D,45%,False,"April 20, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-03-23 to 2010-03-24,2010-03-23,2010-03-24,Earl Pomeroy,D,44%,False,"March 23–24, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-02-09 to 2010-02-10,2010-02-09,2010-02-10,Earl Pomeroy,D,40%,False,"February 9–10, 2010",,
+2010,North Dakota,ND,AL,General,Public Opinion Strategies,2010-10-24 to 2010-10-25,2010-10-24,2010-10-25,Rick Berg,R,51%,False,"October 24–25, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-10-18 to 2010-10-19,2010-10-18,2010-10-19,Rick Berg,R,52%,False,"October 18–19, 2010",,
+2010,North Dakota,ND,AL,General,The Hill,2010-10-16 to 2010-10-19,2010-10-16,2010-10-19,Rick Berg,R,44%,False,"October 16–19, 2010",,
+2010,North Dakota,ND,AL,General,Prairie Poll,2010-10,2010-10-01,2010-10-31,Rick Berg,R,34%,False,October 2010,,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-09-20 to 2010-09-21,2010-09-20,2010-09-21,Rick Berg,R,48%,False,"September 20–21, 2010",,
+2010,North Dakota,ND,AL,General,Garin-Hart-Yang,2010-09-10 to 2010-09-12,2010-09-10,2010-09-12,Rick Berg,R,44%,False,"September 10–12, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-08-10 to 2010-08-11,2010-08-10,2010-08-11,Rick Berg,R,53%,False,"August 10–11, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-07-21,2010-07-21,2010-07-21,Rick Berg,R,49%,False,"July 21, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-06-15 to 2010-06-16,2010-06-15,2010-06-16,Rick Berg,R,51%,False,"June 15–16, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-05-19,2010-05-19,2010-05-19,Rick Berg,R,52%,False,"May 19, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-04-20,2010-04-20,2010-04-20,Rick Berg,R,49%,False,"April 20, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-03-23 to 2010-03-24,2010-03-23,2010-03-24,Rick Berg,R,51%,False,"March 23–24, 2010",,
+2010,North Dakota,ND,AL,General,Rasmussen Reports,2010-02-09 to 2010-02-10,2010-02-09,2010-02-10,Rick Berg,R,46%,False,"February 9–10, 2010",,
+2010,Ohio,OH,1,General,American Action Forum,2010-08-16 to 2010-08-21,2010-08-16,2010-08-21,Steve Driehaus,D,45%,False,"August 16–21, 2010",400,4.9
+2010,Ohio,OH,1,General,The Polling Company,2010-07-30 to 2010-08-02,2010-07-30,2010-08-02,Steve Driehaus,D,41%,False,"July 30-August 2, 2010",301,5.65
+2010,Ohio,OH,1,General,American Action Forum,2010-08-16 to 2010-08-21,2010-08-16,2010-08-21,Steve Chabot,R,47%,False,"August 16–21, 2010",400,4.9
+2010,Ohio,OH,1,General,The Polling Company,2010-07-30 to 2010-08-02,2010-07-30,2010-08-02,Steve Chabot,R,51%,False,"July 30-August 2, 2010",301,5.65
+2010,Oklahoma,OK,2,General,Public Policy Polling,2010-03-03,2010-03-03,2010-03-03,Dan Boren,D,44%,False,"March 3, 2010",,
+2010,Oklahoma,OK,2,General,Public Policy Polling,2010-03-03,2010-03-03,2010-03-03,Dan Boren,D,45%,False,"March 3, 2010",,
+2010,Oklahoma,OK,2,General,Public Policy Polling,2010-03-03,2010-03-03,2010-03-03,Dan Boren,D,48%,False,"March 3, 2010",,
+2010,Oklahoma,OK,2,General,Public Policy Polling,2010-03-03,2010-03-03,2010-03-03,Dan Boren,D,49%,False,"March 3, 2010",,
+2010,Oklahoma,OK,2,General,Public Policy Polling,2010-03-03,2010-03-03,2010-03-03,Daniel Edmonds,R,28%,False,"March 3, 2010",,
+2010,Oklahoma,OK,2,General,Public Policy Polling,2010-03-03,2010-03-03,2010-03-03,Charles Thompson,R,25%,False,"March 3, 2010",,
+2010,Oklahoma,OK,2,General,Public Policy Polling,2010-03-03,2010-03-03,2010-03-03,Howard Houchen,R,26%,False,"March 3, 2010",,
+2010,Oklahoma,OK,2,General,Public Policy Polling,2010-03-03,2010-03-03,2010-03-03,Dan Arnett,R,22%,False,"March 3, 2010",,
+2010,Oregon,OR,1,General,Elway Research,2010-10-18 to 2010-10-21,2010-10-18,2010-10-21,Rob Cornilles,R,38%,False,"October 18–21, 2010",,
+2010,Oregon,OR,1,General,Survey USA,2010-10-16 to 2010-10-18,2010-10-16,2010-10-18,Rob Cornilles,R,42%,False,"October 16–18, 2010",,
+2010,Oregon,OR,1,General,Moore Research,2010-05-26 to 2010-05-27,2010-05-26,2010-05-27,Rob Cornilles,R,40%,False,"May 26–27, 2010",,
+2010,Oregon,OR,1,General,Survey USA,2010-10-16 to 2010-10-18,2010-10-16,2010-10-18,Don LaMunyon (C),Unknown,2%,False,"October 16–18, 2010",,
+2010,Oregon,OR,1,General,Elway Research,2010-10-18 to 2010-10-21,2010-10-18,2010-10-21,David Wu,D,51%,False,"October 18–21, 2010",,
+2010,Oregon,OR,1,General,Survey USA,2010-10-16 to 2010-10-18,2010-10-16,2010-10-18,David Wu,D,51%,False,"October 16–18, 2010",,
+2010,Oregon,OR,1,General,Moore Research,2010-05-26 to 2010-05-27,2010-05-26,2010-05-27,David Wu,D,46%,False,"May 26–27, 2010",,
+2010,Oregon,OR,4,General,Grove Insights (D),2010-10-11 to 2010-10-12,2010-10-11,2010-10-12,Art Robinson,R,39%,False,"October 11–12, 2010",,
+2010,Oregon,OR,4,General,Global Perspective Innovative Research (R),2010-10-04 to 2010-10-05,2010-10-04,2010-10-05,Art Robinson,R,42%,False,"October 4–5, 2010",,
+2010,Oregon,OR,4,General,Grove Insights (D),2010-10-11 to 2010-10-12,2010-10-11,2010-10-12,Peter DeFazio,D,53%,False,"October 11–12, 2010",,
+2010,Oregon,OR,4,General,Global Perspective Innovative Research (R),2010-10-04 to 2010-10-05,2010-10-04,2010-10-05,Peter DeFazio,D,48%,False,"October 4–5, 2010",,
+2010,Oregon,OR,4,General,Global Perspective Innovative Research (R),2010-10-04 to 2010-10-05,2010-10-04,2010-10-05,Generic Democrat,Unknown,44%,False,"October 4–5, 2010",,
+2010,Oregon,OR,4,General,Global Perspective Innovative Research (R),2010-10-04 to 2010-10-05,2010-10-04,2010-10-05,Generic Republican,Unknown,45%,False,"October 4–5, 2010",,
+2010,Oregon,OR,5,General,Elway Research,2010-10-18 to 2010-10-21,2010-10-18,2010-10-21,Scott Bruun,R,38%,False,"October 18–21, 2010",,
+2010,Oregon,OR,5,General,Survey USA,2010-10-17 to 2010-10-19,2010-10-17,2010-10-19,Scott Bruun,R,51%,False,"October 17–19, 2010",,
+2010,Oregon,OR,5,General,American Action Forum,2010-08-23 to 2010-08-29,2010-08-23,2010-08-29,Scott Bruun,R,36%,False,"August 23–29, 2010",,
+2010,Oregon,OR,5,General,Moore Research,2010-08-18 to 2010-08-19,2010-08-18,2010-08-19,Scott Bruun,R,41%,False,"August 18–19, 2010",,
+2010,Oregon,OR,5,General,Lake Research Partners,2010-07-21 to 2010-07-25,2010-07-21,2010-07-25,Scott Bruun,R,35%,False,"July 21–25, 2010",,
+2010,Oregon,OR,5,General,Elway Research,2010-10-18 to 2010-10-21,2010-10-18,2010-10-21,Chris Lugo (PG),Unknown,2%,False,"October 18–21, 2010",,
+2010,Oregon,OR,5,General,Survey USA,2010-10-17 to 2010-10-19,2010-10-17,2010-10-19,Chris Lugo (PG),Unknown,2%,False,"October 17–19, 2010",,
+2010,Oregon,OR,5,General,Elway Research,2010-10-18 to 2010-10-21,2010-10-18,2010-10-21,Kurt Schrader,D,50%,False,"October 18–21, 2010",,
+2010,Oregon,OR,5,General,Survey USA,2010-10-17 to 2010-10-19,2010-10-17,2010-10-19,Kurt Schrader,D,41%,False,"October 17–19, 2010",,
+2010,Oregon,OR,5,General,American Action Forum,2010-08-23 to 2010-08-29,2010-08-23,2010-08-29,Kurt Schrader,D,44%,False,"August 23–29, 2010",,
+2010,Oregon,OR,5,General,Moore Research,2010-08-18 to 2010-08-19,2010-08-18,2010-08-19,Kurt Schrader,D,38%,False,"August 18–19, 2010",,
+2010,Oregon,OR,5,General,Lake Research Partners,2010-07-21 to 2010-07-25,2010-07-21,2010-07-25,Kurt Schrader,D,46%,False,"July 21–25, 2010",,
+2010,Rhode Island,RI,1,General,WJAR Channel 10,2010-10-04 to 2010-10-06,2010-10-04,2010-10-06,Democratic nominee,Unknown,47%,False,"October 4–6, 2010",,
+2010,Rhode Island,RI,1,General,Brown University,2010-09-27 to 2010-09-29,2010-09-27,2010-09-29,Democratic nominee,Unknown,39%,False,"September 27–29, 2010",,
+2010,Rhode Island,RI,1,General,Quest Research,2010-09-15 to 2010-09-17,2010-09-15,2010-09-17,Democratic nominee,Unknown,49%,False,"September 15–17, 2010",,
+2010,Rhode Island,RI,1,General,WJAR Channel 10,2010-10-04 to 2010-10-06,2010-10-04,2010-10-06,Republican nominee,Unknown,36%,False,"October 4–6, 2010",,
+2010,Rhode Island,RI,1,General,Brown University,2010-09-27 to 2010-09-29,2010-09-27,2010-09-29,Republican nominee,Unknown,30%,False,"September 27–29, 2010",,
+2010,Rhode Island,RI,1,General,Quest Research,2010-09-15 to 2010-09-17,2010-09-15,2010-09-17,Republican nominee,Unknown,26%,False,"September 15–17, 2010",,
+2010,Rhode Island,RI,2,General,WJAR Channel 10,2010-10-04 to 2010-10-06,2010-10-04,2010-10-06,Democratic nominee,Unknown,65%,False,"October 4–6, 2010",,
+2010,Rhode Island,RI,2,General,WPRI-TV,2010-10-01 to 2010-10-03,2010-10-01,2010-10-03,Democratic nominee,Unknown,54%,False,"October 1–3, 2010",,
+2010,Rhode Island,RI,2,General,Brown University,2010-09-27 to 2010-09-29,2010-09-27,2010-09-29,Democratic nominee,Unknown,47%,False,"September 27–29, 2010",,
+2010,Rhode Island,RI,2,General,Quest Research,2010-09-15 to 2010-09-17,2010-09-15,2010-09-17,Democratic nominee,Unknown,54%,False,"September 15–17, 2010",,
+2010,Rhode Island,RI,2,General,WJAR Channel 10,2010-10-04 to 2010-10-06,2010-10-04,2010-10-06,Republican nominee,Unknown,26%,False,"October 4–6, 2010",,
+2010,Rhode Island,RI,2,General,WPRI-TV,2010-10-01 to 2010-10-03,2010-10-01,2010-10-03,Republican nominee,Unknown,24%,False,"October 1–3, 2010",,
+2010,Rhode Island,RI,2,General,Brown University,2010-09-27 to 2010-09-29,2010-09-27,2010-09-29,Republican nominee,Unknown,14%,False,"September 27–29, 2010",,
+2010,Rhode Island,RI,2,General,Quest Research,2010-09-15 to 2010-09-17,2010-09-15,2010-09-17,Republican nominee,Unknown,20%,False,"September 15–17, 2010",,
+2010,Tennessee,TN,8,General,Memphisnewsblog.com,2010-08-10 to 2010-08-11,2010-08-10,2010-08-11,Stephen Fincher,R,47%,False,"August 10–11, 2010",,
+2010,Tennessee,TN,8,General,Memphisnewsblog.com,2010-08-10 to 2010-08-11,2010-08-10,2010-08-11,Roy Herron,D,37%,False,"August 10–11, 2010",,
+2010,Tennessee,TN,8,General,Memphisnewsblog.com,2010-08-10 to 2010-08-11,2010-08-10,2010-08-11,Donn Janes,I,5%,False,"August 10–11, 2010",,
+2010,Virginia,VA,5,General,Survey USA,2010-09-28,2010-09-28,2010-09-28,Tom Perriello,D,35%,False,"September 28, 2010",(),
+2010,Virginia,VA,5,General,Benenson Strategy Group,2010-09-21,2010-09-21,2010-09-21,Tom Perriello,D,44%,False,"September 21, 2010",(),
+2010,Virginia,VA,5,General,Global Strategy Group,2010-09-07,2010-09-07,2010-09-07,Tom Perriello,D,42%,False,"September 7, 2010",(),
+2010,Virginia,VA,5,General,Survey USA,2010-09-02,2010-09-02,2010-09-02,Tom Perriello,D,35%,False,"September 2, 2010",(),
+2010,Virginia,VA,5,General,American Action Forum,2010-08-12,2010-08-12,2010-08-12,Tom Perriello,D,43%,False,"August 12, 2010",(),
+2010,Virginia,VA,5,General,Survey USA,2010-07-20,2010-07-20,2010-07-20,Tom Perriello,D,35%,False,"July 20, 2010",(),
+2010,Virginia,VA,5,General,Public Policy Polling,2010-02-05 to 2010-02-10,2010-02-05,2010-02-10,Tom Perriello,D,44%,False,"February 5–10, 2010",924 (V),3.2
+2010,Virginia,VA,5,General,Survey USA,2010-09-28,2010-09-28,2010-09-28,Robert Hurt,R,58%,False,"September 28, 2010",(),
+2010,Virginia,VA,5,General,Benenson Strategy Group,2010-09-21,2010-09-21,2010-09-21,Robert Hurt,R,46%,False,"September 21, 2010",(),
+2010,Virginia,VA,5,General,Global Strategy Group,2010-09-07,2010-09-07,2010-09-07,Robert Hurt,R,44%,False,"September 7, 2010",(),
+2010,Virginia,VA,5,General,Survey USA,2010-09-02,2010-09-02,2010-09-02,Robert Hurt,R,61%,False,"September 2, 2010",(),
+2010,Virginia,VA,5,General,American Action Forum,2010-08-12,2010-08-12,2010-08-12,Robert Hurt,R,49%,False,"August 12, 2010",(),
+2010,Virginia,VA,5,General,Survey USA,2010-07-20,2010-07-20,2010-07-20,Robert Hurt,R,58%,False,"July 20, 2010",(),
+2010,Virginia,VA,5,General,Public Policy Polling,2010-02-05 to 2010-02-10,2010-02-05,2010-02-10,Robert Hurt,R,44%,False,"February 5–10, 2010",924 (V),3.2
+2010,Virginia,VA,5,General,Survey USA,2010-09-28,2010-09-28,2010-09-28,Jeffrey Clark,I,4%,False,"September 28, 2010",(),
+2010,Virginia,VA,5,General,Benenson Strategy Group,2010-09-21,2010-09-21,2010-09-21,Jeffrey Clark,I,4%,False,"September 21, 2010",(),
+2010,Virginia,VA,5,General,Global Strategy Group,2010-09-07,2010-09-07,2010-09-07,Jeffrey Clark,I,6%,False,"September 7, 2010",(),
+2010,Virginia,VA,5,General,Survey USA,2010-09-02,2010-09-02,2010-09-02,Jeffrey Clark,I,2%,False,"September 2, 2010",(),
+2010,Virginia,VA,5,General,Survey USA,2010-07-20,2010-07-20,2010-07-20,Jeffrey Clark,I,4%,False,"July 20, 2010",(),
+2010,Virginia,VA,8,General,"Pollster unavailable, results via ''The Washington Post''",2010-10,2010-10-01,2010-10-31,Jim Moran,D,58%,False,October 2010,,
+2010,Virginia,VA,8,General,McLaughlin & Associates,2010-09,2010-09-01,2010-09-30,Jim Moran,D,45%,False,September 2010,,
+2010,Virginia,VA,8,General,"Pollster unavailable, results via ''The Washington Post''",2010-10,2010-10-01,2010-10-31,Patrick Murray,R,31%,False,October 2010,,
+2010,Virginia,VA,8,General,McLaughlin & Associates,2010-09,2010-09-01,2010-09-30,Patrick Murray,R,32%,False,September 2010,,
+2010,Washington,WA,1,General,Wenzel Strategies (R),2010-03-23 to 2010-03-24,2010-03-23,2010-03-24,Jay Inslee,D,41%,False,"March 23–24, 2010",400 (RV),
+2010,Washington,WA,1,General,Wenzel Strategies (R),2010-03-23 to 2010-03-24,2010-03-23,2010-03-24,James Watkins,R,27%,False,"March 23–24, 2010",400 (RV),
+2010,Washington,WA,2,General,SurveyUSA,2010-10-19 to 2010-10-21,2010-10-19,2010-10-21,Rick Larsen,D,50%,False,"October 19–21, 2010",643 (LV),3.9
+2010,Washington,WA,2,General,SurveyUSA,2010-09-26 to 2010-09-28,2010-09-26,2010-09-28,Rick Larsen,D,50%,False,"September 26–28, 2010",576 (LV),4.2
+2010,Washington,WA,2,General,SurveyUSA,2010-08-31 to 2010-09-02,2010-08-31,2010-09-02,Rick Larsen,D,46%,False,"August 31 – September 2, 2010",612 (LV),4.0
+2010,Washington,WA,2,General,Moore Information (R),2010-04-20 to 2010-04-21,2010-04-20,2010-04-21,Rick Larsen,D,44%,False,"April 20–21, 2010",300 (LV),6.3
+2010,Washington,WA,2,General,SurveyUSA,2010-10-19 to 2010-10-21,2010-10-19,2010-10-21,John Koster,R,46%,False,"October 19–21, 2010",643 (LV),3.9
+2010,Washington,WA,2,General,SurveyUSA,2010-09-26 to 2010-09-28,2010-09-26,2010-09-28,John Koster,R,47%,False,"September 26–28, 2010",576 (LV),4.2
+2010,Washington,WA,2,General,SurveyUSA,2010-08-31 to 2010-09-02,2010-08-31,2010-09-02,John Koster,R,50%,False,"August 31 – September 2, 2010",612 (LV),4.0
+2010,Washington,WA,2,General,Moore Information (R),2010-04-20 to 2010-04-21,2010-04-20,2010-04-21,John Koster,R,37%,False,"April 20–21, 2010",300 (LV),6.3
+2010,Washington,WA,3,General,SurveyUSA,2010-10-24 to 2010-10-26,2010-10-24,2010-10-26,Denny Heck,D,46%,False,"October 24–26, 2010",640 (LV),4.0
+2010,Washington,WA,3,General,SurveyUSA,2010-10-10 to 2010-10-12,2010-10-10,2010-10-12,Denny Heck,D,42%,False,"October 10–12, 2010",579 (LV),4.1
+2010,Washington,WA,3,General,Penn Schoen Berland,2010-10-02 to 2010-10-07,2010-10-02,2010-10-07,Denny Heck,D,40%,False,"October 2–7, 2010",400 (LV),4.9
+2010,Washington,WA,3,General,SurveyUSA,2010-09-12 to 2010-09-14,2010-09-12,2010-09-14,Denny Heck,D,43%,False,"September 12–14, 2010",552 (LV),4.3
+2010,Washington,WA,3,General,GQR,2010-09-07 to 2010-09-09,2010-09-07,2010-09-09,Denny Heck,D,44%,False,"September 7–9, 2010",502 (LV),4.4
+2010,Washington,WA,3,General,SurveyUSA,2010-08-23 to 2010-08-24,2010-08-23,2010-08-24,Denny Heck,D,41%,False,"August 23–24, 2010",562 (LV),4.2
+2010,Washington,WA,3,General,SurveyUSA,2010-10-24 to 2010-10-26,2010-10-24,2010-10-26,Jaime Herrera,R,50%,False,"October 24–26, 2010",640 (LV),4.0
+2010,Washington,WA,3,General,SurveyUSA,2010-10-10 to 2010-10-12,2010-10-10,2010-10-12,Jaime Herrera,R,53%,False,"October 10–12, 2010",579 (LV),4.1
+2010,Washington,WA,3,General,Penn Schoen Berland,2010-10-02 to 2010-10-07,2010-10-02,2010-10-07,Jaime Herrera,R,42%,False,"October 2–7, 2010",400 (LV),4.9
+2010,Washington,WA,3,General,SurveyUSA,2010-09-12 to 2010-09-14,2010-09-12,2010-09-14,Jaime Herrera,R,52%,False,"September 12–14, 2010",552 (LV),4.3
+2010,Washington,WA,3,General,GQR,2010-09-07 to 2010-09-09,2010-09-07,2010-09-09,Jaime Herrera,R,47%,False,"September 7–9, 2010",502 (LV),4.4
+2010,Washington,WA,3,General,SurveyUSA,2010-08-23 to 2010-08-24,2010-08-23,2010-08-24,Jaime Herrera,R,54%,False,"August 23–24, 2010",562 (LV),4.2
+2010,Washington,WA,6,General,Wenzel Strategies (R),2010-10-18 to 2010-10-19,2010-10-18,2010-10-19,Norm Dicks,D,44%,False,"October 18–19, 2010","1,262 (LV)",2.7
+2010,Washington,WA,6,General,Wenzel Strategies (R),2010-10-18 to 2010-10-19,2010-10-18,2010-10-19,Doug Cloud,R,48%,False,"October 18–19, 2010","1,262 (LV)",2.7
+2010,Washington,WA,8,General,SurveyUSA,2010-10-18 to 2010-10-20,2010-10-18,2010-10-20,Dave Reichert,R,52%,False,"October 18–20, 2010",639 (LV),4.0
+2010,Washington,WA,8,General,Public Policy Polling (D),2010-10-09 to 2010-10-10,2010-10-09,2010-10-10,Dave Reichert,R,49%,False,"October 9–10, 2010","1,036 (LV)",
+2010,Washington,WA,8,General,Fairbank Maslin (D),2010-10-04 to 2010-10-05,2010-10-04,2010-10-05,Dave Reichert,R,48%,False,"October 4–5, 2010",400 (LV),
+2010,Washington,WA,8,General,SurveyUSA,2010-09-27 to 2010-09-29,2010-09-27,2010-09-29,Dave Reichert,R,52%,False,"September 27–29, 2010",579 (LV),4.2
+2010,Washington,WA,8,General,SurveyUSA,2010-08-31 to 2010-09-02,2010-08-31,2010-09-02,Dave Reichert,R,54%,False,"August 31 – September 2, 2010",657 (LV),3.9
+2010,Washington,WA,8,General,SurveyUSA,2010-10-18 to 2010-10-20,2010-10-18,2010-10-20,Suzan DelBene,D,45%,False,"October 18–20, 2010",639 (LV),4.0
+2010,Washington,WA,8,General,Public Policy Polling (D),2010-10-09 to 2010-10-10,2010-10-09,2010-10-10,Suzan DelBene,D,46%,False,"October 9–10, 2010","1,036 (LV)",
+2010,Washington,WA,8,General,Fairbank Maslin (D),2010-10-04 to 2010-10-05,2010-10-04,2010-10-05,Suzan DelBene,D,44%,False,"October 4–5, 2010",400 (LV),
+2010,Washington,WA,8,General,SurveyUSA,2010-09-27 to 2010-09-29,2010-09-27,2010-09-29,Suzan DelBene,D,45%,False,"September 27–29, 2010",579 (LV),4.2
+2010,Washington,WA,8,General,SurveyUSA,2010-08-31 to 2010-09-02,2010-08-31,2010-09-02,Suzan DelBene,D,41%,False,"August 31 – September 2, 2010",657 (LV),3.9
+2010,Washington,WA,9,General,SurveyUSA,2010-10-22 to 2010-10-25,2010-10-22,2010-10-25,Adam Smith,D,49%,False,"October 22–25, 2010",590 (LV),4.1
+2010,Washington,WA,9,General,Benenson (D),2010-09-18 to 2010-09-20,2010-09-18,2010-09-20,Adam Smith,D,54%,False,"September 18–20, 2010",400 (LV),4.9
+2010,Washington,WA,9,General,SurveyUSA,2010-09-14 to 2010-09-16,2010-09-14,2010-09-16,Adam Smith,D,49%,False,"September 14–16, 2010",586 (LV),4.1
+2010,Washington,WA,9,General,SurveyUSA,2010-10-22 to 2010-10-25,2010-10-22,2010-10-25,Dick Muri,R,46%,False,"October 22–25, 2010",590 (LV),4.1
+2010,Washington,WA,9,General,Benenson (D),2010-09-18 to 2010-09-20,2010-09-18,2010-09-20,Dick Muri,R,35%,False,"September 18–20, 2010",400 (LV),4.9
+2010,Washington,WA,9,General,SurveyUSA,2010-09-14 to 2010-09-16,2010-09-14,2010-09-16,Dick Muri,R,46%,False,"September 14–16, 2010",586 (LV),4.1
+2010,Wyoming,WY,AL,General,Rasmussen Reports,2010-09-30,2010-09-30,2010-09-30,Cynthia Lummis,R,61%,False,"September 30, 2010",,
+2010,Wyoming,WY,AL,General,Mason-Dixon,2010-07-26 to 2010-07-28,2010-07-26,2010-07-28,Cynthia Lummis,R,59%,False,"July 26–28, 2010",,
+2010,Wyoming,WY,AL,General,Rasmussen Reports,2010-09-30,2010-09-30,2010-09-30,David Wendt,D,29%,False,"September 30, 2010",,
+2010,Wyoming,WY,AL,General,Mason-Dixon,2010-07-26 to 2010-07-28,2010-07-26,2010-07-28,David Wendt,D,29%,False,"July 26–28, 2010",,

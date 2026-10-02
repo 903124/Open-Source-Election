@@ -1,0 +1,47 @@
+Year,State,State_Code,District,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+2009,New York,NY,20,General,Siena Research Institute,2009-03-25 to 2009-03-26,2009-03-25,2009-03-26,,,Scott Murphy,D,47%,False,March 25–26
+2009,New York,NY,20,General,Siena Research Institute,2009-03-09 to 2009-03-10,2009-03-09,2009-03-10,,,Scott Murphy,D,41%,False,March 9–10
+2009,New York,NY,20,General,Siena Research Institute,2009-02-24 to 2009-02-25,2009-02-24,2009-02-25,,,Scott Murphy,D,37%,False,February 24–25
+2009,New York,NY,20,General,Siena Research Institute,2009-02-18 to 2009-02-19,2009-02-18,2009-02-19,34%,,Scott Murphy,D,46%,False,February 18–19
+2009,New York,NY,20,General,Siena Research Institute,2009-02-03 to 2009-02-04,2009-02-03,2009-02-04,29%,,Scott Murphy,D,50%,False,February 3–4
+2009,New York,NY,20,General,Siena Research Institute,2009-03-25 to 2009-03-26,2009-03-25,2009-03-26,,,Jim Tedisco,R,43%,False,March 25–26
+2009,New York,NY,20,General,Siena Research Institute,2009-03-09 to 2009-03-10,2009-03-09,2009-03-10,,,Jim Tedisco,R,45%,False,March 9–10
+2009,New York,NY,20,General,Siena Research Institute,2009-02-24 to 2009-02-25,2009-02-24,2009-02-25,,,Jim Tedisco,R,44%,False,February 24–25
+2009,New York,NY,20,General,Siena Research Institute,2009-03-25 to 2009-03-26,2009-03-25,2009-03-26,,,Eric Sundwall,L,2%,False,March 25–26
+2009,New York,NY,20,General,Siena Research Institute,2009-03-09 to 2009-03-10,2009-03-09,2009-03-10,,,Eric Sundwall,L,1%,False,March 9–10
+2009,New York,NY,20,General,Siena Research Institute,2009-02-24 to 2009-02-25,2009-02-24,2009-02-25,,,Eric Sundwall,L,4%,False,February 24–25
+2009,California,CA,10,General,Survey USA,2009-10-26 to 2009-10-28,2009-10-26,2009-10-28,,,John Garamendi,Unknown,50%,False,"October 26–28, 2009"
+2009,California,CA,10,General,Survey USA,2009-10-26 to 2009-10-28,2009-10-26,2009-10-28,,,David Harmer,Unknown,40%,False,"October 26–28, 2009"
+2009,New York,NY,23,General,Siena Research Institute,2009-11-02,2009-11-02,2009-11-02,,,Dede Scozzafava,Unknown,6%,False,"November 2, 2009"
+2009,New York,NY,23,General,Public Policy Polling,2009-11-01,2009-11-01,2009-11-01,,,Dede Scozzafava,Unknown,13%,False,"November 1, 2009"
+2009,New York,NY,23,General,Talking Points Memo,2009-10-26 to 2009-10-28,2009-10-26,2009-10-28,,,Dede Scozzafava,Unknown,20%,False,"October 26–28, 2009"
+2009,New York,NY,23,General,Daily Kos,2009-10-26 to 2009-10-28,2009-10-26,2009-10-28,,,Dede Scozzafava,Unknown,21%,False,"October 26–28, 2009"
+2009,New York,NY,23,General,Talking Points Memo,2009-10-25 to 2009-10-26,2009-10-25,2009-10-26,,,Dede Scozzafava,Unknown,14%,False,"October 25–26, 2009"
+2009,New York,NY,23,General,Club for Growth,2009-10-24 to 2009-10-25,2009-10-24,2009-10-25,,,Dede Scozzafava,Unknown,20%,False,"October 24–25, 2009"
+2009,New York,NY,23,General,Daily Kos,2009-10-19 to 2009-10-21,2009-10-19,2009-10-21,,,Dede Scozzafava,Unknown,30%,False,"October 19–21, 2009"
+2009,New York,NY,23,General,Siena Research Institute,2009-10-11 to 2009-10-13,2009-10-11,2009-10-13,,,Dede Scozzafava,Unknown,29%,False,"October 11–13, 2009"
+2009,New York,NY,23,General,Siena Research Institute,2009-09-29,2009-09-29,2009-09-29,,,Dede Scozzafava,Unknown,35%,False,"September 29, 2009"
+2009,New York,NY,23,General,Club for Growth,2009-09-17,2009-09-17,2009-09-17,,,Dede Scozzafava,Unknown,20%,False,"September 17, 2009"
+2009,New York,NY,23,General,McLaughlin & Associates †,2009-09-09,2009-09-09,2009-09-09,,,Dede Scozzafava,Unknown,30%,False,"September 9, 2009"
+2009,New York,NY,23,General,Siena Research Institute,2009-11-02,2009-11-02,2009-11-02,,,Bill Owens,Unknown,36%,False,"November 2, 2009"
+2009,New York,NY,23,General,Public Policy Polling,2009-11-01,2009-11-01,2009-11-01,,,Bill Owens,Unknown,34%,False,"November 1, 2009"
+2009,New York,NY,23,General,Talking Points Memo,2009-10-26 to 2009-10-28,2009-10-26,2009-10-28,,,Bill Owens,Unknown,36%,False,"October 26–28, 2009"
+2009,New York,NY,23,General,Daily Kos,2009-10-26 to 2009-10-28,2009-10-26,2009-10-28,,,Bill Owens,Unknown,33%,False,"October 26–28, 2009"
+2009,New York,NY,23,General,Talking Points Memo,2009-10-25 to 2009-10-26,2009-10-25,2009-10-26,,,Bill Owens,Unknown,29%,False,"October 25–26, 2009"
+2009,New York,NY,23,General,Club for Growth,2009-10-24 to 2009-10-25,2009-10-24,2009-10-25,,,Bill Owens,Unknown,27%,False,"October 24–25, 2009"
+2009,New York,NY,23,General,Daily Kos,2009-10-19 to 2009-10-21,2009-10-19,2009-10-21,,,Bill Owens,Unknown,35%,False,"October 19–21, 2009"
+2009,New York,NY,23,General,Siena Research Institute,2009-10-11 to 2009-10-13,2009-10-11,2009-10-13,,,Bill Owens,Unknown,33%,False,"October 11–13, 2009"
+2009,New York,NY,23,General,Siena Research Institute,2009-09-29,2009-09-29,2009-09-29,,,Bill Owens,Unknown,28%,False,"September 29, 2009"
+2009,New York,NY,23,General,Club for Growth,2009-09-17,2009-09-17,2009-09-17,,,Bill Owens,Unknown,17%,False,"September 17, 2009"
+2009,New York,NY,23,General,McLaughlin & Associates †,2009-09-09,2009-09-09,2009-09-09,,,Bill Owens,Unknown,20%,False,"September 9, 2009"
+2009,New York,NY,23,General,Siena Research Institute,2009-11-02,2009-11-02,2009-11-02,,,Doug Hoffman,Unknown,41%,False,"November 2, 2009"
+2009,New York,NY,23,General,Public Policy Polling,2009-11-01,2009-11-01,2009-11-01,,,Doug Hoffman,Unknown,51%,False,"November 1, 2009"
+2009,New York,NY,23,General,Talking Points Memo,2009-10-26 to 2009-10-28,2009-10-26,2009-10-28,,,Doug Hoffman,Unknown,35%,False,"October 26–28, 2009"
+2009,New York,NY,23,General,Daily Kos,2009-10-26 to 2009-10-28,2009-10-26,2009-10-28,,,Doug Hoffman,Unknown,32%,False,"October 26–28, 2009"
+2009,New York,NY,23,General,Talking Points Memo,2009-10-25 to 2009-10-26,2009-10-25,2009-10-26,,,Doug Hoffman,Unknown,34%,False,"October 25–26, 2009"
+2009,New York,NY,23,General,Club for Growth,2009-10-24 to 2009-10-25,2009-10-24,2009-10-25,,,Doug Hoffman,Unknown,31%,False,"October 24–25, 2009"
+2009,New York,NY,23,General,Daily Kos,2009-10-19 to 2009-10-21,2009-10-19,2009-10-21,,,Doug Hoffman,Unknown,23%,False,"October 19–21, 2009"
+2009,New York,NY,23,General,Siena Research Institute,2009-10-11 to 2009-10-13,2009-10-11,2009-10-13,,,Doug Hoffman,Unknown,23%,False,"October 11–13, 2009"
+2009,New York,NY,23,General,Siena Research Institute,2009-09-29,2009-09-29,2009-09-29,,,Doug Hoffman,Unknown,16%,False,"September 29, 2009"
+2009,New York,NY,23,General,Club for Growth,2009-09-17,2009-09-17,2009-09-17,,,Doug Hoffman,Unknown,17%,False,"September 17, 2009"
+2009,New York,NY,23,General,McLaughlin & Associates †,2009-09-09,2009-09-09,2009-09-09,,,Doug Hoffman,Unknown,19%,False,"September 9, 2009"

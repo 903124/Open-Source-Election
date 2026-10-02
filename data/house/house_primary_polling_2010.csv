@@ -1,0 +1,79 @@
+Year,State,State_Code,District,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Candidate,Party,Pct,Incumbent,Date_Original,Sample,MoE
+2010,Alabama,AL,7,Democratic Primary,Anzalone Liszt Research,2010-06-13 to 2010-06-16,2010-06-13,2010-06-16,Shelia Smoot,D,33%,False,"June 13–16, 2010",,
+2010,Alabama,AL,7,Democratic Primary,Anzalone Liszt Research,2010-05-13 to 2010-05-16,2010-05-13,2010-05-16,Shelia Smoot,D,22%,False,"May 13–16, 2010",,
+2010,Alabama,AL,7,Democratic Primary,Anzalone Liszt Research,2010-04,2010-04-01,2010-04-30,Shelia Smoot,D,33%,False,April 2010,,
+2010,Alabama,AL,7,Democratic Primary,Anzalone Liszt Research,2010-01,2010-01-01,2010-01-31,Shelia Smoot,D,29%,False,January 2010,,
+2010,Alabama,AL,7,Democratic Primary,Anzalone Liszt Research,2010-05-13 to 2010-05-16,2010-05-13,2010-05-16,Earl Hilliard Jr.,D,20%,False,"May 13–16, 2010",,
+2010,Alabama,AL,7,Democratic Primary,Anzalone Liszt Research,2010-04,2010-04-01,2010-04-30,Earl Hilliard Jr.,D,28%,False,April 2010,,
+2010,Alabama,AL,7,Democratic Primary,Anzalone Liszt Research,2010-01,2010-01-01,2010-01-31,Earl Hilliard Jr.,D,25%,False,January 2010,,
+2010,Alabama,AL,7,Democratic Primary,Anzalone Liszt Research,2010-06-13 to 2010-06-16,2010-06-13,2010-06-16,Terri Sewell,D,53%,False,"June 13–16, 2010",,
+2010,Alabama,AL,7,Democratic Primary,Anzalone Liszt Research,2010-05-13 to 2010-05-16,2010-05-13,2010-05-16,Terri Sewell,D,22%,False,"May 13–16, 2010",,
+2010,Alabama,AL,7,Democratic Primary,Anzalone Liszt Research,2010-04,2010-04-01,2010-04-30,Terri Sewell,D,13%,False,April 2010,,
+2010,Alabama,AL,7,Democratic Primary,Anzalone Liszt Research,2010-01,2010-01-01,2010-01-31,Terri Sewell,D,9%,False,January 2010,,
+2010,Alabama,AL,7,Democratic Primary,Anzalone Liszt Research,2010-05-13 to 2010-05-16,2010-05-13,2010-05-16,Martha Bozeman,D,7%,False,"May 13–16, 2010",,
+2010,New Mexico,NM,3,Republican Primary,Public Policy Polling,2010-09-25 to 2010-09-26,2010-09-25,2010-09-26,Ben R. Luján,D,49%,False,"September 25–26, 2010",,
+2010,New Mexico,NM,3,Republican Primary,Public Policy Polling,2010-02-25,2010-02-25,2010-02-25,Ben R. Luján,D,42%,False,"February 25, 2010",,
+2010,New Mexico,NM,3,Republican Primary,Public Policy Polling,2010-09-25 to 2010-09-26,2010-09-25,2010-09-26,Tom Mullins,R,43%,False,"September 25–26, 2010",,
+2010,New Mexico,NM,3,Republican Primary,Public Policy Polling,2010-02-25,2010-02-25,2010-02-25,Tom Mullins,R,36%,False,"February 25, 2010",,
+2010,North Carolina,NC,7,Republican Primary,Grove Insight,2010-10-03 to 2010-10-05,2010-10-03,2010-10-05,Mike McIntyre,D,52%,False,"October 3–5, 2010",,
+2010,North Carolina,NC,7,Republican Primary,SurveyUSA,2010-09-24 to 2010-09-26,2010-09-24,2010-09-26,Mike McIntyre,D,45%,False,"September 24–26, 2010",,
+2010,North Carolina,NC,7,Republican Primary,Public Opinion Strategies,2010-08-31 to 2010-09-02,2010-08-31,2010-09-02,Mike McIntyre,D,41%,False,"August 31 – September 2, 2010",,
+2010,North Carolina,NC,7,Republican Primary,Grove Insight,2010-10-03 to 2010-10-05,2010-10-03,2010-10-05,Ilario Pantano,R,41%,False,"October 3–5, 2010",,
+2010,North Carolina,NC,7,Republican Primary,SurveyUSA,2010-09-24 to 2010-09-26,2010-09-24,2010-09-26,Ilario Pantano,R,46%,False,"September 24–26, 2010",,
+2010,North Carolina,NC,7,Republican Primary,Public Opinion Strategies,2010-08-31 to 2010-09-02,2010-08-31,2010-09-02,Ilario Pantano,R,48%,False,"August 31 – September 2, 2010",,
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-07-07 to 2010-07-09,2010-07-07,2010-07-09,Kevin Calvey,R,28%,False,"July 7–9, 2010",306 (LV),5.6
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-02-25 to 2010-03-08,2010-02-25,2010-03-08,Kevin Calvey,R,20%,False,"February 25-March 8, 2010",302 (LV),5.64
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-07-07 to 2010-07-09,2010-07-07,2010-07-09,Kevin Calvey,R,20%,False,"July 7–9, 2010",306 (LV),5.6
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-07-07 to 2010-07-09,2010-07-07,2010-07-09,Rick Flanigan,R,<1%,False,"July 7–9, 2010",306 (LV),5.6
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-02-25 to 2010-03-08,2010-02-25,2010-03-08,Rick Flanigan,R,1%,False,"February 25-March 8, 2010",302 (LV),5.64
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-07-07 to 2010-07-09,2010-07-07,2010-07-09,Rick Flanigan,R,0%,False,"July 7–9, 2010",306 (LV),5.6
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-07-07 to 2010-07-09,2010-07-07,2010-07-09,James Lankford,R,20%,False,"July 7–9, 2010",306 (LV),5.6
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-02-25 to 2010-03-08,2010-02-25,2010-03-08,James Lankford,R,7%,False,"February 25-March 8, 2010",302 (LV),5.64
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-07-07 to 2010-07-09,2010-07-07,2010-07-09,James Lankford,R,14%,False,"July 7–9, 2010",306 (LV),5.6
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-07-07 to 2010-07-09,2010-07-07,2010-07-09,Johnny Roy,R,2%,False,"July 7–9, 2010",306 (LV),5.6
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-02-25 to 2010-03-08,2010-02-25,2010-03-08,Johnny Roy,R,1%,False,"February 25-March 8, 2010",302 (LV),5.64
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-07-07 to 2010-07-09,2010-07-07,2010-07-09,Johnny Roy,R,5%,False,"July 7–9, 2010",306 (LV),5.6
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-07-07 to 2010-07-09,2010-07-07,2010-07-09,Mike Thompson,R,14%,False,"July 7–9, 2010",306 (LV),5.6
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-02-25 to 2010-03-08,2010-02-25,2010-03-08,Mike Thompson,R,9%,False,"February 25-March 8, 2010",302 (LV),5.64
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-07-07 to 2010-07-09,2010-07-07,2010-07-09,Mike Thompson,R,11%,False,"July 7–9, 2010",306 (LV),5.6
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-07-07 to 2010-07-09,2010-07-07,2010-07-09,Harry Johnson,R,1%,False,"July 7–9, 2010",306 (LV),5.6
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-07-07 to 2010-07-09,2010-07-07,2010-07-09,Harry Johnson,R,<1%,False,"July 7–9, 2010",306 (LV),5.6
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-07-07 to 2010-07-09,2010-07-07,2010-07-09,Shane Jett,R,6%,False,"July 7–9, 2010",306 (LV),5.6
+2010,Oklahoma,OK,5,Republican Primary,Soonerpoll,2010-07-07 to 2010-07-09,2010-07-07,2010-07-09,Shane Jett,R,12%,False,"July 7–9, 2010",306 (LV),5.6
+2010,Pennsylvania,PA,3,Republican Primary,The Hill,2010-09-25 to 2010-09-27,2010-09-25,2010-09-27,Kathy Dahlkemper,D,36%,False,"September 25–27, 2010",401,4.9
+2010,Pennsylvania,PA,3,Republican Primary,Franklin-Marshall,2010-09-14 to 2010-09-19,2010-09-14,2010-09-19,Kathy Dahlkemper,D,38%,False,"September 14–19, 2010",482,4.5
+2010,Pennsylvania,PA,3,Republican Primary,The Polling Company,2010-07-29 to 2010-08-01,2010-07-29,2010-08-01,Kathy Dahlkemper,D,46%,False,"July 29-August 1, 2010",314,5.5
+2010,Pennsylvania,PA,3,Republican Primary,The Hill,2010-09-25 to 2010-09-27,2010-09-25,2010-09-27,Mike Kelly,R,49%,False,"September 25–27, 2010",401,4.9
+2010,Pennsylvania,PA,3,Republican Primary,Franklin-Marshall,2010-09-14 to 2010-09-19,2010-09-14,2010-09-19,Mike Kelly,R,44%,False,"September 14–19, 2010",482,4.5
+2010,Pennsylvania,PA,3,Republican Primary,The Polling Company,2010-07-29 to 2010-08-01,2010-07-29,2010-08-01,Mike Kelly,R,42%,False,"July 29-August 1, 2010",314,5.5
+2010,Pennsylvania,PA,8,Republican Primary,Franklin-Marshall,2010-09-14 to 2010-09-19,2010-09-14,2010-09-19,Patrick Murphy,D,35%,False,"September 14–19, 2010",464,4.6
+2010,Pennsylvania,PA,8,Republican Primary,Franklin-Marshall,2010-10-14 to 2010-10-19,2010-10-14,2010-10-19,Patrick Murphy,D,40%,False,"October 14–19, 2010",464,4.6
+2010,Pennsylvania,PA,8,Republican Primary,Franklin-Marshall,2010-10-24 to 2010-10-29,2010-10-24,2010-10-29,Patrick Murphy,D,35%,False,"October 24–29, 2010",464,4.6
+2010,Pennsylvania,PA,8,Republican Primary,Franklin-Marshall,2010-09-14 to 2010-09-19,2010-09-14,2010-09-19,Mike Fitzpatrick,R,49%,False,"September 14–19, 2010",464,4.6
+2010,Pennsylvania,PA,8,Republican Primary,Franklin-Marshall,2010-10-14 to 2010-10-19,2010-10-14,2010-10-19,Mike Fitzpatrick,R,47%,False,"October 14–19, 2010",464,4.6
+2010,Pennsylvania,PA,8,Republican Primary,Franklin-Marshall,2010-10-24 to 2010-10-29,2010-10-24,2010-10-29,Mike Fitzpatrick,R,55%,False,"October 24–29, 2010",464,4.6
+2010,Pennsylvania,PA,15,Republican Primary,Morning Call,2010-09-11 to 2010-09-15,2010-09-11,2010-09-15,John Callahan,D,38%,False,"September 11–15, 2010",496,5.0
+2010,Pennsylvania,PA,15,Republican Primary,Morning Call,2010-09-11 to 2010-09-15,2010-09-11,2010-09-15,Charlie Dent,R,49%,False,"September 11–15, 2010",496,5.0
+2010,Pennsylvania,PA,15,Republican Primary,Morning Call,2010-09-11 to 2010-09-15,2010-09-11,2010-09-15,Jake Towne,I,3%,False,"September 11–15, 2010",496,5.0
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-02-23,2010-02-23,2010-02-23,Stephanie Herseth Sandlin,D,49%,False,"February 23, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-03-25,2010-03-25,2010-03-25,Stephanie Herseth Sandlin,D,46%,False,"March 25, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-04-26,2010-04-26,2010-04-26,Stephanie Herseth Sandlin,D,50%,False,"April 26, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-05-27,2010-05-27,2010-05-27,Stephanie Herseth Sandlin,D,46%,False,"May 27, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-06-14,2010-06-14,2010-06-14,Stephanie Herseth Sandlin,D,41%,False,"June 14, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-07-06,2010-07-06,2010-07-06,Stephanie Herseth Sandlin,D,44%,False,"July 6, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-08-03,2010-08-03,2010-08-03,Stephanie Herseth Sandlin,D,42%,False,"August 3, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-09-08,2010-09-08,2010-09-08,Stephanie Herseth Sandlin,D,47%,False,"September 8, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-10-04,2010-10-04,2010-10-04,Stephanie Herseth Sandlin,D,44%,False,"October 4, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-10-20,2010-10-20,2010-10-20,Stephanie Herseth Sandlin,D,44%,False,"October 20, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Nielson Brothers Polling,2010-10-20 to 2010-10-22,2010-10-20,2010-10-22,Stephanie Herseth Sandlin,D,42%,False,"October 20–22, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-02-23,2010-02-23,2010-02-23,Kristi Noem,R,34%,False,"February 23, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-03-25,2010-03-25,2010-03-25,Kristi Noem,R,35%,False,"March 25, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-04-26,2010-04-26,2010-04-26,Kristi Noem,R,35%,False,"April 26, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-05-27,2010-05-27,2010-05-27,Kristi Noem,R,43%,False,"May 27, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-06-14,2010-06-14,2010-06-14,Kristi Noem,R,53%,False,"June 14, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-07-06,2010-07-06,2010-07-06,Kristi Noem,R,49%,False,"July 6, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-08-03,2010-08-03,2010-08-03,Kristi Noem,R,51%,False,"August 3, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-09-08,2010-09-08,2010-09-08,Kristi Noem,R,45%,False,"September 8, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-10-04,2010-10-04,2010-10-04,Kristi Noem,R,47%,False,"October 4, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Rasmussen Reports,2010-10-20,2010-10-20,2010-10-20,Kristi Noem,R,49%,False,"October 20, 2010",,
+2010,South Dakota,SD,AL,Republican Primary,Nielson Brothers Polling,2010-10-20 to 2010-10-22,2010-10-20,2010-10-22,Kristi Noem,R,40%,False,"October 20–22, 2010",,

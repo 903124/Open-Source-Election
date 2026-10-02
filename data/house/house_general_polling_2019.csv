@@ -1,0 +1,23 @@
+Year,State,State_Code,District,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+2019,North Carolina,NC,9,General,co/efficient,2019-09-05 to 2019-09-06,2019-09-05,2019-09-06,"1,175 LV",3.9,Dan Bishop,R,45%,False,"September 5–6, 2019"
+2019,North Carolina,NC,9,General,GAJ Solutions (R),2019-08-26 to 2019-08-28,2019-08-26,2019-08-28,500,4.0,Dan Bishop,R,46%,False,"August 26–28, 2019"
+2019,North Carolina,NC,9,General,Harper Polling,2019-08-26 to 2019-08-28,2019-08-26,2019-08-28,551 LV,4.2,Dan Bishop,R,42%,False,"August 26–28, 2019"
+2019,North Carolina,NC,9,General,ALG Research (D),2019-07-15 to 2019-07-18,2019-07-15,2019-07-18,450 LV,4.6,Dan Bishop,R,46%,False,"July 15–18, 2019"
+2019,North Carolina,NC,9,General,Atlantic Media & Research (R),2019-05-20 to 2019-05-30,2019-05-20,2019-05-30,358 LV,5.2,Dan Bishop,R,39%,False,"May 20–30, 2019"
+2019,North Carolina,NC,9,General,JMC Analytics,2019-05-21 to 2019-05-24,2019-05-21,2019-05-24,350 LV,5.2,Dan Bishop,R,46%,False,"May 21–24, 2019"
+2019,North Carolina,NC,9,General,co/efficient,2019-09-05 to 2019-09-06,2019-09-05,2019-09-06,"1,175 LV",3.9,Dan McCready,D,48%,False,"September 5–6, 2019"
+2019,North Carolina,NC,9,General,GAJ Solutions (R),2019-08-26 to 2019-08-28,2019-08-26,2019-08-28,500,4.0,Dan McCready,D,45%,False,"August 26–28, 2019"
+2019,North Carolina,NC,9,General,Harper Polling,2019-08-26 to 2019-08-28,2019-08-26,2019-08-28,551 LV,4.2,Dan McCready,D,46%,False,"August 26–28, 2019"
+2019,North Carolina,NC,9,General,ALG Research (D),2019-07-15 to 2019-07-18,2019-07-15,2019-07-18,450 LV,4.6,Dan McCready,D,46%,False,"July 15–18, 2019"
+2019,North Carolina,NC,9,General,Atlantic Media & Research (R),2019-05-20 to 2019-05-30,2019-05-20,2019-05-30,358 LV,5.2,Dan McCready,D,41%,False,"May 20–30, 2019"
+2019,North Carolina,NC,9,General,JMC Analytics,2019-05-21 to 2019-05-24,2019-05-21,2019-05-24,350 LV,5.2,Dan McCready,D,42%,False,"May 21–24, 2019"
+2019,North Carolina,NC,9,General,Atlantic Media & Research,2018-12,2018-12-01,2018-12-31,,,Dan McCready,D,46%,False,December 2018
+2019,North Carolina,NC,9,General,JMC Analytics,2019-05-21 to 2019-05-24,2019-05-21,2019-05-24,350,5.2,Dan McCready,D,41%,False,"May 21–24, 2019"
+2019,North Carolina,NC,9,General,DCCC Targeting and Analytics (D),2019-02-24 to 2019-02-25,2019-02-24,2019-02-25,518,4.3,Dan McCready,D,50%,False,"February 24–25, 2019"
+2019,North Carolina,NC,9,General,Atlantic Media & Research,2018-12,2018-12-01,2018-12-31,,,Mark Harris,R,43%,False,December 2018
+2019,North Carolina,NC,9,General,JMC Analytics,2019-05-21 to 2019-05-24,2019-05-21,2019-05-24,350,5.2,Generic Republican,Unknown,52%,False,"May 21–24, 2019"
+2019,North Carolina,NC,9,General,DCCC Targeting and Analytics (D),2019-02-24 to 2019-02-25,2019-02-24,2019-02-25,518,4.3,Generic Republican,Unknown,46%,False,"February 24–25, 2019"
+2019,North Carolina,NC,9,General,Atlantic Media & Research,2019-05-20 to 2019-05-30,2019-05-20,2019-05-30,358,5.2,Generic Republican,Unknown,46%,False,"May 20–30, 2019"
+2019,North Carolina,NC,9,General,Atlantic Media & Research,2018-12,2018-12-01,2018-12-31,,,Generic Republican,Unknown,45%,False,December 2018
+2019,North Carolina,NC,9,General,Atlantic Media & Research,2019-05-20 to 2019-05-30,2019-05-20,2019-05-30,358,5.2,Generic Democrat,Unknown,38%,False,"May 20–30, 2019"
+2019,North Carolina,NC,9,General,Atlantic Media & Research,2018-12,2018-12-01,2018-12-31,,,Generic Democrat,Unknown,36%,False,December 2018

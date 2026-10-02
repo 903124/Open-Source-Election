@@ -1,0 +1,5 @@
+Year,State,State_Code,District,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+2015,New York,NY,11,General,Global Strategy Group,2015-01-16 to 2015-01-18,2015-01-16,2015-01-18,404,4.9,Dan Donovan,R,48%,False,"January 16–18, 2015"
+2015,New York,NY,11,General,Global Strategy Group,2015-01-16 to 2015-01-18,2015-01-16,2015-01-18,404,4.9,Michael Cusick,D,28%,False,"January 16–18, 2015"
+2015,Mississippi,MS,1,General,Gravis Marketing,2015-05-28,2015-05-28,2015-05-28,509,4.0,Trent Kelly,R,54%,False,"May 28, 2015"
+2015,Mississippi,MS,1,General,Gravis Marketing,2015-05-28,2015-05-28,2015-05-28,509,4.0,Walter Zinn,D,37%,False,"May 28, 2015"

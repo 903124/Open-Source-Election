@@ -1,0 +1,11 @@
+Year,State,State_Code,District,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+2025,Florida,FL,6,General,GOP,2025-03-28,2025-03-28,2025-03-28,,,Randy Fine,R,41%,False,"March 28, 2025"
+2025,Florida,FL,6,General,Florida Politics,2025-03-22 to 2025-03-25,2025-03-22,2025-03-25,403 (LV),4.9,Randy Fine,R,48%,False,"March 22–25, 2025"
+2025,Florida,FL,6,General,GOP,2025-03-28,2025-03-28,2025-03-28,,,Josh Weil,D,44%,False,"March 28, 2025"
+2025,Florida,FL,6,General,Florida Politics,2025-03-22 to 2025-03-25,2025-03-22,2025-03-25,403 (LV),4.9,Josh Weil,D,44%,False,"March 22–25, 2025"
+2025,Tennessee,TN,7,General,Emerson College,2025-11-22 to 2025-11-24,2025-11-22,2025-11-24,600 (LV),3.9,Matt Van Epps,R,48%,False,"November 22–24, 2025"
+2025,Tennessee,TN,7,General,Impact Research (D),2025-10-16 to 2025-10-19,2025-10-16,2025-10-19,700 (LV),3.7,Matt Van Epps,R,52%,False,"October 16–19, 2025"
+2025,Tennessee,TN,7,General,Workbench Strategy (D),2025-10-15 to 2025-10-19,2025-10-15,2025-10-19,400 (LV),5.7,Matt Van Epps,R,51%,False,"October 15–19, 2025"
+2025,Tennessee,TN,7,General,Emerson College,2025-11-22 to 2025-11-24,2025-11-22,2025-11-24,600 (LV),3.9,Aftyn Behn,D,46%,False,"November 22–24, 2025"
+2025,Tennessee,TN,7,General,Impact Research (D),2025-10-16 to 2025-10-19,2025-10-16,2025-10-19,700 (LV),3.7,Aftyn Behn,D,44%,False,"October 16–19, 2025"
+2025,Tennessee,TN,7,General,Workbench Strategy (D),2025-10-15 to 2025-10-19,2025-10-15,2025-10-19,400 (LV),5.7,Aftyn Behn,D,41%,False,"October 15–19, 2025"

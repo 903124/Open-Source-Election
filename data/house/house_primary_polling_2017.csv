@@ -1,0 +1,13 @@
+Year,State,State_Code,District,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+2017,South Carolina,SC,5,Republican Primary,Atlantic Research and Media of North Carolina,2017-02-25,2017-02-25,2017-02-25,239,6.2,Chad Connelly,R,1%,False,"February 25, 2017"
+2017,South Carolina,SC,5,Republican Primary,Remington Research Group,2017-01-07 to 2017-01-08,2017-01-07,2017-01-08,778,3.4,Chad Connelly,R,9%,False,"January 7–8, 2017"
+2017,South Carolina,SC,5,Republican Primary,Atlantic Research and Media of North Carolina,2017-02-25,2017-02-25,2017-02-25,239,6.2,Sheri Few,R,9%,False,"February 25, 2017"
+2017,South Carolina,SC,5,Republican Primary,Atlantic Research and Media of North Carolina,2017-02-25,2017-02-25,2017-02-25,239,6.2,Tom Mullikin,R,8%,False,"February 25, 2017"
+2017,South Carolina,SC,5,Republican Primary,Atlantic Research and Media of North Carolina,2017-02-25,2017-02-25,2017-02-25,239,6.2,Ralph Norman,R,11%,False,"February 25, 2017"
+2017,South Carolina,SC,5,Republican Primary,Remington Research Group,2017-01-07 to 2017-01-08,2017-01-07,2017-01-08,778,3.4,Ralph Norman,R,9%,False,"January 7–8, 2017"
+2017,South Carolina,SC,5,Republican Primary,Atlantic Research and Media of North Carolina,2017-02-25,2017-02-25,2017-02-25,239,6.2,Tommy Pope,R,19%,False,"February 25, 2017"
+2017,South Carolina,SC,5,Republican Primary,Remington Research Group,2017-01-07 to 2017-01-08,2017-01-07,2017-01-08,778,3.4,Tommy Pope,R,25%,False,"January 7–8, 2017"
+2017,South Carolina,SC,5,Republican Primary,Atlantic Research and Media of North Carolina,2017-02-25,2017-02-25,2017-02-25,239,6.2,Kris Wampler,R,0%,False,"February 25, 2017"
+2017,Utah,UT,3,Republican Primary,Dan Jones & Associates,2017-06-23 to 2017-07-05,2017-06-23,2017-07-05,199,4.9,John Curtis,R,27%,False,"June 23 – July 5, 2017"
+2017,Utah,UT,3,Republican Primary,Dan Jones & Associates,2017-06-23 to 2017-07-05,2017-06-23,2017-07-05,199,4.9,Chris Herrod,R,9%,False,"June 23 – July 5, 2017"
+2017,Utah,UT,3,Republican Primary,Dan Jones & Associates,2017-06-23 to 2017-07-05,2017-06-23,2017-07-05,199,4.9,Tanner Ainge,R,7%,False,"June 23 – July 5, 2017"

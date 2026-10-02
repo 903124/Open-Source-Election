@@ -1,0 +1,11 @@
+Year,State,State_Code,District,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+2002,Arizona,AZ,1,General,Northern Arizona University,2002-10-17 to 2002-10-20,2002-10-17,2002-10-20,600 (LV),4.1,Rick Renzi,R,48%,False,"October 17–20, 2002"
+2002,Arizona,AZ,1,General,Northern Arizona University,2002-09-12 to 2002-09-14,2002-09-12,2002-09-14,803 (LV),3.5,Rick Renzi,R,37%,False,"September 12–14, 2002"
+2002,Arizona,AZ,1,General,Northern Arizona University,2002-10-17 to 2002-10-20,2002-10-17,2002-10-20,600 (LV),4.1,George Cordova,D,36%,False,"October 17–20, 2002"
+2002,Arizona,AZ,1,General,Northern Arizona University,2002-09-12 to 2002-09-14,2002-09-12,2002-09-14,803 (LV),3.5,George Cordova,D,37%,False,"September 12–14, 2002"
+2002,Arizona,AZ,1,General,Northern Arizona University,2002-10-17 to 2002-10-20,2002-10-17,2002-10-20,600 (LV),4.1,Edwin Porr,L,4%,False,"October 17–20, 2002"
+2002,Arizona,AZ,1,General,Northern Arizona University,2002-09-12 to 2002-09-14,2002-09-12,2002-09-14,803 (LV),3.5,Edwin Porr,L,3%,False,"September 12–14, 2002"
+2002,Nebraska,NE,2,General,Midwest Survey and Research,2002-10-23 to 2002-10-28,2002-10-23,2002-10-28,604 (LV),3.98,Lee Terry,R,54%,False,"October 23–28, 2002"
+2002,Nebraska,NE,2,General,Midwest Survey and Research,2002-10-23 to 2002-10-28,2002-10-23,2002-10-28,604 (LV),3.98,Jim Simon,D,33%,False,"October 23–28, 2002"
+2002,Nebraska,NE,2,General,Midwest Survey and Research,2002-10-23 to 2002-10-28,2002-10-23,2002-10-28,604 (LV),3.98,Doug Paterson,G,3%,False,"October 23–28, 2002"
+2002,Nebraska,NE,2,General,Midwest Survey and Research,2002-10-23 to 2002-10-28,2002-10-23,2002-10-28,604 (LV),3.98,Dave Stock,L,1%,False,"October 23–28, 2002"

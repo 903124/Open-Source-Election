@@ -1,0 +1,6 @@
+Year,State,State_Code,District,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+2023,Rhode Island,RI,1,General,Salve Regina University,2023-10-12 to 2023-10-17,2023-10-12,2023-10-17,386 (RV),4.0,Gabe Amo,D,46%,False,"October 12–17, 2023"
+2023,Rhode Island,RI,1,General,Salve Regina University,2023-10-12 to 2023-10-17,2023-10-12,2023-10-17,386 (RV),4.0,Gerry Leonard,R,35%,False,"October 12–17, 2023"
+2023,Utah,UT,2,General,Lighthouse Research,2023-09-26 to 2023-10-06,2023-09-26,2023-10-06,528 (RV),4.3,Celeste Malloy,R,43%,False,"September 26 – October 6, 2023"
+2023,Utah,UT,2,General,Lighthouse Research,2023-09-26 to 2023-10-06,2023-09-26,2023-10-06,528 (RV),4.3,Kathleen Riebe,D,34%,False,"September 26 – October 6, 2023"
+2023,Utah,UT,2,General,Lighthouse Research,2023-09-26 to 2023-10-06,2023-09-26,2023-10-06,528 (RV),4.3,Brad Green,L,6%,False,"September 26 – October 6, 2023"
