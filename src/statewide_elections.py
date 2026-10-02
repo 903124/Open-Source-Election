@@ -1,7 +1,7 @@
 """
 statewide_elections.py — Parse U.S. **statewide** executive election results
-(Governor, Attorney General, Secretary of State, State Treasurer) from the
-Wikipedia overview articles ("Race summary" tables), fetched via the
+(Governor, Attorney General, Secretary of State, State Treasurer) AND the
+accompanying state-level opinion polling from Wikipedia, fetched via the
 MediaWiki Action API.
 
 For each even year in [start_year, end_year] up to four overview articles are
@@ -44,9 +44,34 @@ Candidate/Votes/% wikitables in primary sections that have no boxes;
 ranked-choice multi-round tables (Virginia 2021 GOP convention) and
 by-county/by-district breakdowns are intentionally skipped.
 
-Output columns (written under *output_dir*, default ``data/statewide/``):
+STATE-LEVEL POLLING (``include_polling=True`` by default; CLI
+``--include-polling``/``--no-include-polling``): the same race-article
+fetches are reused, so polling extraction costs no extra API calls.  Two
+sources are mined per race:
+
+* the race article's own ``== Polling ==`` / ``=== Polls ===`` sections;
+* a dedicated ``Opinion polling for the {year} {State} ... election``
+  article when the race article links one via ``{{main|...}}`` — the bulk
+  of gubernatorial polling lives there (e.g. Virginia/New Jersey 2021,
+  Kentucky 2023).
+
+Polling tables are parsed with the Senate pipeline's parsers
+(``senate_elections.parse_polling_table_universal`` +
+``wide_to_long_polls``), which support both the 2018-era table generation
+and the 2020+ sortable generation.  Polls are classified primary vs.
+general positionally from the level-2 headings (Democratic/Republican
+primary, jungle primary, General election).  Long format: one row per
+poll per candidate.
+
+Result columns (written under *output_dir*, default ``data/statewide/``):
     year, state, state_code, office, candidate, party, percentage,
     winner, incumbent
+
+Polling columns (same schema as the Senate polling families, plus
+``State_Code`` and ``Office``):
+    Year, State, State_Code, Office, Primary_Type, Poll_Source, Date,
+    Date_Start, Date_End, Sample, MoE, Candidate, Party, Pct, Incumbent,
+    Date_Original
 
     statewide_results_{year}.csv            per year, overview summaries
                                             (general election, % only)
@@ -57,11 +82,20 @@ Output columns (written under *output_dir*, default ``data/statewide/``):
     statewide_general_results_{year}.csv    per-race general results
                                             (votes + %, from race articles)
     statewide_general_results_all.csv
+    statewide_primary_polling_{year}.csv    per-race primary polling
+                                            (long format, race + polling
+                                            articles)
+    statewide_primary_polling_all.csv
+    statewide_general_polling_{year}.csv    per-race general polling
+                                            (long format, race + polling
+                                            articles)
+    statewide_general_polling_all.csv
 
 Usage:
     python cli.py statewide --start-year 2018 --end-year 2024
     python cli.py statewide --start-year 2001 --end-year 2025
     python cli.py statewide --start-year 2018 --end-year 2024 --no-include-off-years
+    python cli.py statewide --start-year 2017 --end-year 2023 --no-include-polling
     python statewide_elections.py
 """
 
@@ -76,6 +110,19 @@ from typing import Dict, List, Optional
 
 import pandas as pd
 
+# Polling-table machinery is shared with the Senate pipeline: Wikipedia uses
+# the same polling-table generations (2018-era 'align=center|' cells and the
+# 2020+ sortable generation) in gubernatorial and other statewide race
+# articles, so the battle-tested Senate parsers are reused instead of a
+# second, drifting implementation.  senate_elections has no statewide
+# dependency, so this import cannot be circular.
+from senate_elections import (
+    extract_infobox_incumbent,
+    iter_polling_spans,
+    normalize_polling_date_columns,
+    parse_polling_table_universal,
+    wide_to_long_polls,
+)
 from wiki_utils import (
     WikiAPIClient,
     clean_wikitext,
@@ -835,6 +882,243 @@ def parse_race_article(
     return _frame(primary_rows), _frame(general_rows)
 
 
+# ────────────────────────────────────────────────────────────────────────────
+# STATE-LEVEL POLLING (race articles + dedicated "Opinion polling for ..." articles)
+# ────────────────────────────────────────────────────────────────────────────
+
+#: Level-2 section headings, used for positional primary/general classification.
+_LEVEL2_HEADING_RE = re.compile(r"(?m)^==\s*([^=\n].*?)\s*==\s*$")
+
+#: Dedicated polling-article links race articles carry next to their
+#: (often summary-only) polling tables:
+#:     {{main|Opinion polling for the 2021 Virginia gubernatorial election}}
+#:     {{further|Opinion polling for the 2023 Kentucky gubernatorial election}}
+_POLLING_ARTICLE_RE = re.compile(
+    r"\{\{\s*(?:[Mm]ain|[Ff]urther)\s*\|\s*(Opinion polling [^}|]+?)\s*(?:\|[^}]*)?\}\}"
+)
+
+
+def _find_heading(text: str, name: str) -> int:
+    """Offset of the first level-2 heading exactly matching *name*, or -1.
+
+    Mirrors ``senate_elections._find_heading`` — kept local so the statewide
+    module stays runnable even if the Senate module is refactored.
+    """
+    m = re.search(rf"^==\s*{re.escape(name)}\s*==\s*$", text, re.MULTILINE | re.IGNORECASE)
+    return m.start() if m else -1
+
+
+def _section_end(text: str, start_pos: int) -> int:
+    """End of the level-2 section that begins at *start_pos* (next level-2
+    heading, or end of text)."""
+    m = _LEVEL2_HEADING_RE.search(text, start_pos + 1)
+    return m.start() if m else len(text)
+
+
+def discover_polling_article_title(race_text: str) -> Optional[str]:
+    """
+    Return the dedicated polling-article title linked from a race article,
+    or None.
+
+    Gubernatorial race articles frequently delegate the full polling tables
+    to a companion article — ``Opinion polling for the 2021 Virginia
+    gubernatorial election`` and friends — linking it from their own
+    (summary) polling section via ``{{main|...}}``.  Only titles that carry
+    a four-digit year are accepted, so generic links are ignored.
+    """
+    for raw in _POLLING_ARTICLE_RE.findall(race_text or ""):
+        title = raw.strip()
+        if re.search(r"\b(19|20)\d{2}\b", title):
+            return title
+    return None
+
+
+#: Poll-source cells in some polling-table generations (the 2021 California
+#: recall article, notably) carry raw external links — '[https://… Label]' —
+#: which the shared parser keeps verbatim.  Strip the URL fragment and keep
+#: the label ('… Real Clear Politics]' → 'Real Clear Politics').
+_POLL_SRC_BRACKETS_RE = re.compile(r"[\[\]]")
+
+
+def _clean_poll_source(raw) -> str:
+    """Normalise a leaked external-link poll-source cell to its label."""
+    if not isinstance(raw, str):
+        return raw
+    v = _POLL_SRC_BRACKETS_RE.sub("", raw).strip()
+    if "/" not in v and ":" not in v:
+        return v
+    # drop leading URL-ish tokens ('https://…', 'ttps://…', '…/report.pdf')
+    while True:
+        first, _sep, rest = v.partition(" ")
+        if rest and (":" in first or "/" in first
+                     or re.search(r"\.(?:pdf|html?|aspx|php)$", first, re.I)):
+            v = rest
+            continue
+        break
+    return v.strip()
+
+
+def parse_race_polling(
+    text: str,
+    year: int,
+    state: str,
+    state_code: str,
+    office: str,
+    whole_article: bool = False,
+) -> "tuple[pd.DataFrame, pd.DataFrame]":
+    """
+    Extract (primary, general) polling rows from one state-level race or
+    polling article.
+
+    Works on BOTH article kinds — the per-race article and the dedicated
+    ``Opinion polling for ...`` companion:
+
+    * **Race-article mode** (``whole_article=False``): polling headings
+      (``Polling`` / ``Polls`` / ``Opinion polling``, any level) are located
+      with the Senate pipeline's :func:`iter_polling_spans` and classified
+      positionally — inside ``== Democratic primary ==`` → primary polls,
+      inside ``== Republican primary ==`` → Republican Primary, inside a
+      jungle/blanket-primary heading → ``jungle``, everything else →
+      ``General``.
+    * **Dedicated-polling-article mode** (``whole_article=True``): every
+      wikitable in the article is a polling table by definition, so each
+      table is parsed and classified by the level-2 section it sits in.
+      This also captures the articles that put tables directly under
+      ``== General election ==`` without a nested ``Polling`` heading.
+      Results-style tables (no date column) fail the parser's date check
+      and are skipped automatically.
+
+    Unlike the Senate classifier, a top-level polling section that sits
+    between the primary sections and ``== General election ==`` (or after
+    ``== Results ==``) is treated as GENERAL, not primary — statewide
+    articles put their main polling section at the end, and the Senate
+    fallback would mislabel those rows.
+
+    Returns ``(primary_polling, general_polling)`` in the Senate long
+    format, augmented with ``Year`` / ``State_Code`` / ``Office`` columns
+    and ISO-normalised dates (``Date_Start`` / ``Date_End`` /
+    ``Date_Original``).
+    """
+    if not text:
+        return pd.DataFrame(), pd.DataFrame()
+
+    # ── locate the section anchors ─────────────────────────────────
+    general_start = _find_heading(text, "General election")
+    if general_start == -1:
+        general_start = len(text)
+    dem_start = _find_heading(text, "Democratic primary")
+    rep_start = _find_heading(text, "Republican primary")
+    # statewide spellings of a nonpartisan/jungle round (Louisiana-style)
+    jungle_start = -1
+    for name in ("Jungle primary", "Primary election", "Nonpartisan blanket primary"):
+        jungle_start = _find_heading(text, name)
+        if jungle_start != -1:
+            break
+
+    has_dem = dem_start != -1 and dem_start < general_start
+    has_rep = rep_start != -1 and rep_start < general_start
+    has_jungle = jungle_start != -1 and jungle_start < general_start
+    if has_dem and has_rep:
+        primary_type = "two_party"
+    elif has_dem or has_rep:
+        primary_type = "single_party"
+    elif has_jungle:
+        primary_type = "jungle"
+    else:
+        primary_type = "no_primary"
+
+    # section bounds — an absent second party lets the present one run to
+    # the general-election heading
+    dem_end = rep_start if (dem_start != -1 and rep_start > dem_start) else general_start
+    rep_end = dem_start if (rep_start != -1 and dem_start > rep_start) else general_start
+    jungle_end = _section_end(text, jungle_start) if jungle_start != -1 else -1
+
+    def _primary_context(pos: int) -> Optional["tuple[str, Optional[str]]"]:
+        """(Primary_Type, party) when a heading at *pos* sits inside a
+        primary section, else None (→ general polling)."""
+        if pos >= general_start:
+            return None
+        if dem_start != -1 and dem_start <= pos < dem_end:
+            return ("Democratic Primary", "D")
+        if rep_start != -1 and rep_start <= pos < rep_end:
+            return ("Republican Primary", "R")
+        if jungle_start != -1 and jungle_start <= pos < jungle_end:
+            return ("jungle", None)
+        return None
+
+    incumbent_name = extract_infobox_incumbent(text)
+    primary_frames: List[pd.DataFrame] = []
+    general_frames: List[pd.DataFrame] = []
+
+    def _parse_scope(scope_text: str, ctx) -> None:
+        """Parse one chunk of wikitext as polling tables, filing the long
+        rows under primary or general according to *ctx*."""
+        wide = parse_polling_table_universal(
+            scope_text,
+            state,
+            is_primary=ctx is not None,
+            primary_party=ctx[1] if ctx else None,
+        )
+        if wide.empty:
+            return
+        long_df = wide_to_long_polls(
+            wide, state,
+            ctx[0] if ctx else "General",
+            is_primary=ctx is not None,
+            primary_party=ctx[1] if ctx else None,
+            incumbent_name=incumbent_name,
+        )
+        if len(long_df):
+            (primary_frames if ctx else general_frames).append(long_df)
+
+    if whole_article:
+        # ── dedicated polling article: parse EVERY table, classified by
+        # the level-2 section it sits in.  A synthetic '== Polling =='
+        # heading is prepended so the shared parser can find a scope.
+        marks = [(m.start(), m.group(1).strip())
+                 for m in _LEVEL2_HEADING_RE.finditer(text)]
+        intervals: List["tuple[int, int, Optional[tuple]"] = []
+        for idx, (pos, _name) in enumerate(marks):
+            sec_end = marks[idx + 1][0] if idx + 1 < len(marks) else len(text)
+            intervals.append((pos, sec_end, _primary_context(pos)))
+        if marks and marks[0][0] > 0:          # preamble before the first heading
+            intervals.insert(0, (0, marks[0][0], None))
+        for sec_start, sec_end, ctx in intervals:
+            for table in _wikitables(text[sec_start:sec_end]):
+                _parse_scope("\n== Polling ==\n" + table, ctx)
+    else:
+        for head_start, _head_end, scope_end, _level in iter_polling_spans(text):
+            ctx = _primary_context(head_start)
+            if ctx is not None:
+                # a primary-classified polling section must never swallow
+                # general-election content
+                scope_end = min(scope_end, general_start)
+                if head_start >= scope_end:
+                    continue
+            _parse_scope(text[head_start:scope_end], ctx)
+
+    def _finalize(frames: List[pd.DataFrame]) -> pd.DataFrame:
+        if not frames:
+            return pd.DataFrame()
+        df = pd.concat(frames, ignore_index=True)
+        df.insert(0, "Year", int(year))
+        df.insert(2, "State_Code", state_code)
+        df.insert(3, "Office", office)
+        # normalise leaked external-link source cells BEFORE dedup so the
+        # cleaned labels collapse duplicate rows
+        df["Poll_Source"] = df["Poll_Source"].map(_clean_poll_source)
+        # a state's governor and AG articles can reprint the same poll — the
+        # office column keeps both copies distinguishable, so dedup on it
+        df = df.drop_duplicates(
+            subset=["Year", "State", "Office", "Poll_Source", "Date",
+                    "Candidate", "Pct"],
+            keep="first",
+        ).reset_index(drop=True)
+        return normalize_polling_date_columns(df)
+
+    return _finalize(primary_frames), _finalize(general_frames)
+
+
 def _rebuild_combined(statewide_dir: str, family: str = "results_") -> Optional[pd.DataFrame]:
     """
     Rebuild ``statewide_{family}all.csv`` from every per-year file on disk.
@@ -845,7 +1129,8 @@ def _rebuild_combined(statewide_dir: str, family: str = "results_") -> Optional[
     truth: every year ever processed by any run leaves a file behind, so
     concatenating them (sorted by year) always yields the full-history
     combined file.  *family* is "results_" (overview summaries),
-    "primary_results_" or "general_results_".
+    "primary_results_", "general_results_", "primary_polling_" or
+    "general_polling_".
     """
     import glob
 
@@ -882,6 +1167,7 @@ def run(
     client: Optional[WikiAPIClient] = None,
     include_off_years: bool = True,
     fetch_races: bool = True,
+    include_polling: bool = True,
 ) -> pd.DataFrame:
     """CLI entry point: process statewide executive cycles from *start_year*
     to *end_year*, writing CSVs under ``<output_dir>/statewide/``.
@@ -894,6 +1180,16 @@ def run(
     results (vote counts), written to
     ``statewide_primary_results_{year}.csv`` /
     ``statewide_general_results_{year}.csv``.
+
+    When *include_polling* is also true (default), the same race-article
+    texts — plus any dedicated ``Opinion polling for the {year} {State} ...
+    election`` article the race articles link — are mined for opinion
+    polling and the results are written to
+    ``statewide_primary_polling_{year}.csv`` /
+    ``statewide_general_polling_{year}.csv`` (Senate long schema +
+    ``State_Code`` / ``Office`` columns).  Polling extraction reuses the
+    race-article fetches; only the companion polling articles trigger
+    extra API requests.
     """
     years = even_years(start_year, end_year)
     if include_off_years:
@@ -906,6 +1202,9 @@ def run(
         return pd.DataFrame()
     if not include_off_years and (start_year, end_year) != (years[0], years[-1]):
         logger.info("Odd bounds clamped to even years: %d–%d", years[0], years[-1])
+    if include_polling and not fetch_races:
+        logger.warning("include_polling needs the race-article fetch — disabling polling")
+        include_polling = False
     logger.info("Statewide cycles to process: %s", years)
 
     statewide_dir = os.path.join(output_dir, "statewide")
@@ -913,9 +1212,12 @@ def run(
 
     client = client or get_default_client()
 
-    meta = {"years": {}, "races": {}, "missing_articles": []}
+    meta = {"years": {}, "races": {}, "polling_articles": {}, "missing_articles": []}
     # title -> (year, state, office) for every discovered race article
     race_map: Dict[str, tuple] = {}
+    # title -> (year, state, office) for dedicated 'Opinion polling for ...'
+    # companion articles (discovered from the race articles in STEP 2)
+    polling_map: Dict[str, tuple] = {}
 
     # ── STEP 1: overview articles → general summary tables ─────────────
     for year in years:
@@ -955,9 +1257,11 @@ def run(
             logger.info("  saved -> %s", path)
         meta["years"][year] = year_meta
 
-    # ── STEP 2: race articles → primary / general results ──────────────
+    # ── STEP 2: race articles → primary / general results + polling ────
     primary_frames: Dict[int, List[pd.DataFrame]] = {}
     general_frames: Dict[int, List[pd.DataFrame]] = {}
+    primary_poll_frames: Dict[int, List[pd.DataFrame]] = {}
+    general_poll_frames: Dict[int, List[pd.DataFrame]] = {}
     if fetch_races and race_map:
         logger.info("Fetching %d statewide race articles ...", len(race_map))
         content = client.fetch_wikitext(list(race_map))
@@ -967,6 +1271,13 @@ def run(
                 logger.warning("  race article missing: %s", title)
                 meta["missing_articles"].append(title)
                 continue
+
+            # queue the dedicated polling companion article, if linked
+            if include_polling:
+                poll_title = discover_polling_article_title(text)
+                if poll_title and poll_title not in polling_map:
+                    polling_map[poll_title] = (year, state, office)
+
             try:
                 primary_df, general_df = parse_race_article(
                     text, year, state, _state_code(state), office,
@@ -985,10 +1296,63 @@ def run(
                 primary_frames.setdefault(year, []).append(primary_df)
             if len(general_df):
                 general_frames.setdefault(year, []).append(general_df)
+
+            # polling mined from the SAME article text — no extra fetches
+            poll_counts = (0, 0)
+            if include_polling:
+                try:
+                    p_polls, g_polls = parse_race_polling(
+                        text, year, state, _state_code(state), office,
+                    )
+                except Exception:
+                    # polling must never break the results pipeline
+                    logger.exception("  polling parse failed: %s", title)
+                    p_polls = g_polls = pd.DataFrame()
+                if len(p_polls):
+                    primary_poll_frames.setdefault(year, []).append(p_polls)
+                if len(g_polls):
+                    general_poll_frames.setdefault(year, []).append(g_polls)
+                poll_counts = (len(p_polls), len(g_polls))
             logger.info(
-                "  %s [%s] %s — primary rows: %d, general rows: %d",
+                "  %s [%s] %s — primary rows: %d, general rows: %d%s",
                 year, office, title, len(primary_df), len(general_df),
+                (", primary polls: %d, general polls: %d" % poll_counts)
+                if include_polling else "",
             )
+
+        # ── STEP 2b: dedicated 'Opinion polling for ...' articles ───────
+        if include_polling and polling_map:
+            fresh = [t for t in polling_map if t not in race_map]
+            logger.info("Fetching %d dedicated polling articles ...", len(fresh))
+            poll_content = client.fetch_wikitext(fresh) if fresh else {}
+            for title in sorted(fresh):
+                year, state, office = polling_map[title]
+                text = poll_content.get(title)
+                if not text:
+                    logger.warning("  polling article missing: %s", title)
+                    meta["missing_articles"].append(title)
+                    continue
+                try:
+                    p_polls, g_polls = parse_race_polling(
+                        text, year, state, _state_code(state), office,
+                        whole_article=True,
+                    )
+                except Exception:
+                    logger.exception("  polling article parse failed: %s", title)
+                    p_polls = g_polls = pd.DataFrame()
+                meta["polling_articles"][title] = {
+                    "year": year, "state": state, "office": office,
+                    "primary_poll_rows": int(len(p_polls)),
+                    "general_poll_rows": int(len(g_polls)),
+                }
+                if len(p_polls):
+                    primary_poll_frames.setdefault(year, []).append(p_polls)
+                if len(g_polls):
+                    general_poll_frames.setdefault(year, []).append(g_polls)
+                logger.info(
+                    "  %s [%s] %s — primary polls: %d, general polls: %d",
+                    year, office, title, len(p_polls), len(g_polls),
+                )
 
     def _write_family(frames_by_year: Dict[int, List[pd.DataFrame]], family: str) -> None:
         for year in sorted(frames_by_year):
@@ -999,12 +1363,16 @@ def run(
 
     _write_family(primary_frames, "primary_results_")
     _write_family(general_frames, "general_results_")
+    _write_family(primary_poll_frames, "primary_polling_")
+    _write_family(general_poll_frames, "general_polling_")
 
     # ── STEP 3: combined _all files rebuilt from ALL per-year files ────
     combined_summary = None
     for family, label in (("results_", "results"),
                           ("primary_results_", "primary results"),
-                          ("general_results_", "general results")):
+                          ("general_results_", "general results"),
+                          ("primary_polling_", "primary polling"),
+                          ("general_polling_", "general polling")):
         combined = _rebuild_combined(statewide_dir, family)
         if combined is not None:
             path = os.path.join(statewide_dir, f"statewide_{family}all.csv")

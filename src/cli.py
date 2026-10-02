@@ -13,11 +13,15 @@ Subcommands:
                per-race primary AND general results (vote counts);
                disable with --no-include-off-years.
     state-leg  Parse state legislature results (state senates + state houses).
-    statewide  Parse statewide executive results (gov, AG, SoS, treasurer).
-               Odd (off-year) cycles — NJ/VA gubernatorial, KY/LA/MS
-               statewide slate — are included by default, with per-race
-               primary AND general results (vote counts) for every cycle;
-               pass --no-include-off-years to process even years only.
+    statewide  Parse statewide executive results (gov, AG, SoS, treasurer)
+               AND the accompanying state-level opinion polling from the
+               same race articles plus any dedicated "Opinion polling for
+               the {year} {State} ..." article the race links. Odd (off-year)
+               cycles — NJ/VA gubernatorial, KY/LA/MS statewide slate — are
+               included by default, with per-race primary AND general
+               results (vote counts) for every cycle; pass
+               --no-include-off-years to process even years only, or
+               --no-include-polling to skip polling extraction.
     presidential  Parse county-level presidential results per state.
     lean       Predicted partisan lean per congressional district from the
                district->county mapping (resources/district_counties.json)
@@ -171,7 +175,8 @@ def build_parser() -> argparse.ArgumentParser:
 
     statewide = sub.add_parser(
         "statewide", parents=[common],
-        help="Parse statewide executive results (year range)",
+        help="Parse statewide executive results + state-level opinion "
+             "polling (year range)",
     )
     statewide.add_argument(
         "--include-off-years", action=argparse.BooleanOptionalAction,
@@ -182,6 +187,15 @@ def build_parser() -> argparse.ArgumentParser:
              "--no-include-off-years). Per-race primary and general results "
              "(with vote counts) are parsed for every processed cycle from "
              "the per-state race articles.",
+    )
+    statewide.add_argument(
+        "--include-polling", action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Extract state-level opinion polling from the same race "
+             "articles plus any dedicated 'Opinion polling for the "
+             "{year} {State} ...' companion article, writing "
+             "statewide_{primary,general}_polling_{year}.csv (default: "
+             "on; disable with --no-include-polling)",
     )
 
     sub.add_parser(
@@ -420,6 +434,7 @@ def main(argv: Optional[List[str]] = None) -> int:
             output_dir=args.output,
             client=client,
             include_off_years=getattr(args, "include_off_years", True),
+            include_polling=getattr(args, "include_polling", True),
         )
 
     if args.command in ("presidential", "all"):

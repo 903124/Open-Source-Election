@@ -60,6 +60,8 @@ Two casing conventions coexist: the six `senate_*` families use capitalised head
 | 8 | `data/statewide/statewide_results_*.csv` | 12 | 2004–2024 | 2,490 | Governor, attorney general, secretary of state, and state treasurer results |
 | 9 | `data/presidential/presidential_results_*.csv` | 7 | 2004–2024 | 119,172 | Presidential results by county, parish, or equivalent subdivision |
 | 10 | `data/district_lean/district_lean_*.csv` + `district_pvi_summary.csv` | 8 | 2004–2024 | 5,232 + 1,306 | Cook-PVI-style partisan lean per congressional district, and a per-map-vintage summary |
+| 11 | `data/statewide/statewide_general_polling_*.csv` | per run | 2017→ (irregular) | varies | Opinion polls preceding statewide general elections (governor, AG, SoS, treasurer) — see §9b |
+| 12 | `data/statewide/statewide_primary_polling_*.csv` | per run | 2017→ (irregular) | varies | Opinion polls preceding statewide primaries (same schema as #11) — see §9b |
 
 Record counts aggregate all files of a family, including `_all`. Per-year file counts: families 1–2, 53 files each (1920–2024); family 3, 19 files (1970–2024, irregular); family 4, 14 files (1938–2024, irregular); family 5, 52 files (1920–2024, 1978 not present in the shipped dataset); families 6–8, 11 files each (2004–2024); family 9, 6 files (2004–2024); family 10, 6 lean year files plus `_all` plus the summary file.
 
@@ -211,6 +213,39 @@ Statewide executive-office results — governor, attorney general, secretary of 
 | `incumbent` | boolean | `True` when the candidate held the office entering the election. | `True` |
 
 **Coverage notes.** The office families begin at different years upstream: gubernatorial summary tables exist from 1980 (the shipped run starts at 2004), attorney-general overviews exist from 2016, and secretary-of-state and treasurer overviews from 2020; consequently those three offices appear in fewer files. The 2018 cycle lacks secretary-of-state and treasurer overview articles on Wikipedia entirely, so `statewide_results_2018.csv` contains no records for those offices.
+## 9b. `data/statewide/` — statewide executive polling
+
+`statewide_general_polling_{year}.csv` (+ `_all`) and `statewide_primary_polling_{year}.csv` (+ `_all`) are produced by `src/statewide_elections.py` (`--include-polling`, on by default) from the per-state race articles and any dedicated `Opinion polling for the {year} {State} ...` companion article a race links. Year files exist only for cycles actually processed, so coverage grows run by run; the shipped off-year/midterm extract starts at 2021.
+
+**Grain.** One record per poll per candidate (a poll covering *n* candidates contributes *n* records sharing `Poll_Source` and `Date`).
+
+**Schema.** The same polling schema as the Senate families (§6), extended with the statewide join keys:
+
+| Column | Type | Description | Example |
+|---|---|---|---|
+| `Year` | int | Election year the poll refers to. | `2021` |
+| `State` | string | State whose race was polled. | `New Jersey` |
+| `State_Code` | string | Two-letter USPS code (join key to `statewide_*_results`). | `NJ` |
+| `Office` | string | `governor`, `attorney general`, `secretary of state`, or `state treasurer`. | `governor` |
+| `Primary_Type` | string | `General` within the general-polling family; `Democratic Primary` / `Republican Primary` / `jungle` within the primary family. | `General` |
+| `Poll_Source` | string | Pollster or sponsoring organisation as named in the article; raw external-link URLs are stripped to the pollster label. | `Monmouth University` |
+| `Date` | string | Canonical field date: single `YYYY-MM-DD`, range `YYYY-MM-DD to YYYY-MM-DD`, `through YYYY-MM-DD`, or month precision `YYYY-MM`. | `2021-10-20 to 2021-10-24` |
+| `Date_Start` | string | ISO start of the field window (machine-sortable; empty for open-ended). | `2021-10-20` |
+| `Date_End` | string | ISO end of the field window. | `2021-10-24` |
+| `Sample` | string | Sample size text; `LV`/`RV` qualifiers retained; empty where unreported. | `603 (LV)` |
+| `MoE` | decimal | Numeric margin of error in percentage points; empty where the poll reported none. | `4.0` |
+| `Candidate` | string | Candidate as listed in the poll row (`Generic Republican` etc. occur where pollsters tested generic opponents). | `Terry McAuliffe` |
+| `Party` | string | One-letter party code `D`/`R`/`I`/`L`/`G`, or `Unknown`. | `D` |
+| `Pct` | string | Poll percentage with `%` suffix. | `48%` |
+| `Incumbent` | boolean | `True` when the polled candidate held the office (from the article infobox `before_election`). | `True` |
+| `Date_Original` | string | Raw free-text date exactly as printed in the article (provenance). | `"October 20–24, 2021"` |
+
+**Classification.** A polling table is filed as primary or general positionally: inside `== Democratic primary ==` / `== Republican primary ==` / a jungle-primary heading → primary; everything else (including the main end-of-article polling section and dedicated polling articles) → general.
+
+**Caveats.** Aggregate rows from Real Clear Politics / FiveThirtyEight summary tables are kept and identified via `Poll_Source`; the CA-recall tables poll the recall question itself (`Candidate` = `Yes on recall` / `No on recall`, `Party` = `Unknown`).
+
+---
+
 ## 10. `data/presidential/` — `presidential_results_{year}.csv`, `presidential_results_all.csv`
 
 County-level presidential election results for all fifty states and the District of Columbia, produced by `src/presidential_elections.py`. 6 year files (2004–2024) plus `_all`; 119,172 records.
