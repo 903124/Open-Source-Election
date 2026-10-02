@@ -7,11 +7,17 @@ Subcommands:
                Odd (off-year) special-election cycles — e.g. NJ/MA 2013,
                AL 2017 — are included by default; disable with
                --no-include-off-years.
-    house      Parse U.S. House election results for a year range.
-               Odd (off-year) special-election cycles — one to seven
-               specials every odd year — are included by default, with
-               per-race primary AND general results (vote counts);
-               disable with --no-include-off-years.
+    house      Parse U.S. House election results AND per-district opinion
+               polling for a year range.  Polling is mined from the same
+               per-state race articles fetched for vote counts (even years)
+               and from the special race articles (odd years), tagged with
+               Year/State/District; districts whose articles publish no
+               polling section simply contribute no rows.  Odd (off-year)
+               special-election cycles — one to seven specials every odd
+               year — are included by default, with per-race primary AND
+               general results (vote counts); disable with
+               --no-include-off-years.  Polling extraction can be skipped
+               with --no-include-polling.
     state-leg  Parse state legislature results (state senates + state houses).
     statewide  Parse statewide executive results (gov, AG, SoS, treasurer)
                AND the accompanying state-level opinion polling from the
@@ -65,6 +71,7 @@ Examples:
     python cli.py house --start-year 2012 --end-year 2024 --delay 0.5
     python cli.py house --start-year 2017 --end-year 2017         # 2017 specials
     python cli.py house --start-year 2018 --end-year 2024 --no-include-off-years
+    python cli.py house --start-year 2018 --end-year 2024 --no-include-polling
     python cli.py presidential --start-year 2020 --end-year 2024
     python cli.py presidential --start-year 2020 --end-year 2024 --no-include-polling
     python cli.py lean                     # 2004-2024 from local presidential CSVs
@@ -171,6 +178,16 @@ def build_parser() -> argparse.ArgumentParser:
              "exists). Default: on; disable with --no-include-votes to "
              "skip the extra per-state article fetches — the columns are "
              "still emitted, empty, so the schema stays stable.",
+    )
+    sub.choices["house"].add_argument(
+        "--include-polling", action=argparse.BooleanOptionalAction, default=True,
+        help="Extract district-level opinion polling from the same "
+             "per-state race articles fetched for vote counts (even years) "
+             "and from the special race articles (odd years), writing "
+             "house_{primary,general}_polling_{year}.csv plus combined "
+             "_all files (default: on; disable with --no-include-polling). "
+             "Enabling polling without votes still triggers the per-state "
+             "fetch.",
     )
 
     sub.add_parser(
@@ -432,6 +449,7 @@ def main(argv: Optional[List[str]] = None) -> int:
             client=client,
             include_off_years=getattr(args, "include_off_years", True),
             include_votes=getattr(args, "include_votes", True),
+            include_polling=getattr(args, "include_polling", True),
         )
 
     if args.command in ("state-leg", "all"):
