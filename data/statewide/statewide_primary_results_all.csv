@@ -7594,7 +7594,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Rhode Island,RI,state treasurer,Republican primary results,Total,,,20342,100.0,False,False
 2026,Rhode Island,RI,secretary of state,Democratic primary results,Winning,Gregg Amore,Democratic,109203,100.0,True,True
 2026,Rhode Island,RI,secretary of state,Democratic primary results,Total,,,109203,100.0,False,False
-2026,Rhode Island,RI,governor,Democratic primary results,Winning,Helena Buonanno Foulkes,Democratic,81314,62.5,True,False
+2026,Rhode Island,RI,governor,Democratic primary results,Winning,Helena Foulkes,Democratic,81314,62.5,True,False
 2026,Rhode Island,RI,governor,Democratic primary results,Candidate,Dan McKee,Democratic,48872,37.5,False,True
 2026,Rhode Island,RI,governor,Democratic primary results,Total,,,130186,100.0,False,False
 2026,Rhode Island,RI,governor,Republican primary results,Winning,Aaron Guckian,Republican,11691,50.6,True,False

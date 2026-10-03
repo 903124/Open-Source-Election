@@ -912,7 +912,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Florida,FL,State House,55,general,Judy Freiberg,Democratic,38853.0,35.8,False,False
 2024,Florida,FL,State House,55,general,CJ Hacker,Write-in,60.0,0.1,False,False
 2024,Florida,FL,State House,56,general,Brad Yeager,Republican,50279.0,65.1,True,True
-2024,Florida,FL,State House,56,general,William “Willie” Pura,Democratic,26904.0,34.9,False,False
+2024,Florida,FL,State House,56,general,"William ""Willie"" Pura",Democratic,26904.0,34.9,False,False
 2024,Florida,FL,State House,57,general,Adam C. Anderson,Republican,61669.0,58.8,True,True
 2024,Florida,FL,State House,57,general,Kelly Johnson,Democratic,40503.0,38.6,False,False
 2024,Florida,FL,State House,57,general,Robert “Bob” Arthur Larrivee,Independent (politician),2675.0,2.6,False,False
