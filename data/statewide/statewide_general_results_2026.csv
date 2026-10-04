@@ -77,6 +77,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Candidate,Rick Jackson,Republican,,,False,False
 2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Candidate,Keisha Lance Bottoms,Democratic,,,False,False
 2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Total,,,,100.0,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Douglas Moylan,Nonpartisan,,,False,True
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Tom Fisher,Nonpartisan,,,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Jordan Pauluhn,Nonpartisan,,,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Peter Santos,Nonpartisan,,,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Phillip Tydingco,Nonpartisan,,,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Total,,,,100.0,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Candidate,Therese Terlaje,Democratic,,,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Candidate,Vicente Ada,Republican,,,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Total,,,,,False,False

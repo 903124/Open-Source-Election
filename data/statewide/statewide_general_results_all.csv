@@ -3230,11 +3230,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2019,Kentucky,KY,attorney general,"Kentucky Attorney General election, 2019",Winning,Daniel Cameron,Republican,823343,57.8,True,False
 2019,Kentucky,KY,attorney general,"Kentucky Attorney General election, 2019",Candidate,Greg Stumbo,Democratic,602218,42.2,False,False
 2019,Kentucky,KY,attorney general,"Kentucky Attorney General election, 2019",Total,,,1425561,100.0,False,False
-2019,Kentucky,KY,governor,2019 Kentucky gubernatorial election,Winning,Andy Beshear,Democratic,709890,49.19,True,False
-2019,Kentucky,KY,governor,2019 Kentucky gubernatorial election,Candidate,Matthew G. Bevin,Republican,704754,48.84,False,True
-2019,Kentucky,KY,governor,2019 Kentucky gubernatorial election,Candidate,John Hicks,Libertarian,28433,1.97,False,False
-2019,Kentucky,KY,governor,2019 Kentucky gubernatorial election,Candidate,Blackii Effing Whyte,Write-in,46,0.0,False,False
-2019,Kentucky,KY,governor,2019 Kentucky gubernatorial election,Total,,,1443123,100.0,False,False
+2019,Kentucky,KY,governor,"Kentucky gubernatorial election, 2019",Winning,Andy Beshear,Democratic,709890,49.2,True,False
+2019,Kentucky,KY,governor,"Kentucky gubernatorial election, 2019",Candidate,Matt Bevin,Republican,704754,48.84,False,True
+2019,Kentucky,KY,governor,"Kentucky gubernatorial election, 2019",Candidate,John Hicks,Libertarian,28433,1.97,False,False
+2019,Kentucky,KY,governor,"Kentucky gubernatorial election, 2019",Write-in,,,46,0.0,False,False
+2019,Kentucky,KY,governor,"Kentucky gubernatorial election, 2019",Total,,,1443123,100.0,False,False
 2019,Louisiana,LA,attorney general,"Louisiana Attorney General election, 2019",Winning,Jeff Landry,Republican,855338,66.21,True,True
 2019,Louisiana,LA,attorney general,"Louisiana Attorney General election, 2019",Candidate,Ike Jackson,Democratic,436531,33.79,False,False
 2019,Louisiana,LA,attorney general,"Louisiana Attorney General election, 2019",Total,,,1291869,100.0,False,False
@@ -4212,6 +4212,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Candidate,Rick Jackson,Republican,,,False,False
 2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Candidate,Keisha Lance Bottoms,Democratic,,,False,False
 2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Total,,,,100.0,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Douglas Moylan,Nonpartisan,,,False,True
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Tom Fisher,Nonpartisan,,,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Jordan Pauluhn,Nonpartisan,,,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Peter Santos,Nonpartisan,,,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Phillip Tydingco,Nonpartisan,,,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Total,,,,100.0,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Candidate,Therese Terlaje,Democratic,,,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Candidate,Vicente Ada,Republican,,,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Total,,,,,False,False
