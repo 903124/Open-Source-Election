@@ -6973,6 +6973,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Arkansas,AR,State Senate,31,general,Clint Penzo,Republican,,,True,True
 2026,Arkansas,AR,State Senate,32,general,Joshua P. Bryant,Republican,,,True,True
 2026,Arkansas,AR,State Senate,35,general,Tyler Dees,Republican,,,True,True
+2026,Colorado,CO,State Senate,1,general,Byron Pelton,Republican,,,True,True
+2026,Colorado,CO,State Senate,1,general,Jamie Jeffery,Democratic,,,False,False
 2026,Connecticut,CT,State Senate,1,general,John Fonfara,Democratic,,,True,True
 2026,Connecticut,CT,State Senate,2,general,Maryam Khan,Democratic,,,True,False
 2026,Connecticut,CT,State Senate,2,general,Tim Knotts,Republican,,,False,False
