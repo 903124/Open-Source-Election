@@ -231,6 +231,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Candidate,Amy Acton,Democratic,,,False,False
 2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Candidate,Don Kissick,Libertarian,,,False,False
 2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Total,,,,100.0,False,False
+2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Tina Kotek,Democratic,,,False,True
+2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Christine Drazan,Republican,,,False,False
+2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Brett Smith,Green,,,False,False
+2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Total,,,,100.0,False,False
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Josh Shapiro,Democratic,,,False,True
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Stacy Garrity,Republican,,,False,False
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Ken Krawchuk,Libertarian,,,False,False
