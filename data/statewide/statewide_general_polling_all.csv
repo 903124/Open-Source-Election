@@ -11856,7 +11856,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2021,California,CA,governor,General,SurveyUSA,2021-04-30 to 2021-05-02,2021-04-30,2021-05-02,642 (RV),Kevin Faulconer}},Unknown,3%,False,"Apr 30 – May 2, 2021",5.3
 2021,California,CA,governor,General,SurveyUSA,2021-04-30 to 2021-05-02,2021-04-30,2021-05-02,642 (RV),Caitlyn Jenner}},Unknown,5%,False,"Apr 30 – May 2, 2021",5.3
 2021,California,CA,governor,General,SurveyUSA,2021-04-30 to 2021-05-02,2021-04-30,2021-05-02,642 (RV),Doug Ose}},Unknown,2%,False,"Apr 30 – May 2, 2021",5.3
-2021,New Jersey,NJ,governor,General,Real Clear Politics,2021-10-15 to 2021-10-31,2021-10-15,2021-10-31,,Phil Murphy,D,50.5%,True,"October 15–31, 2021",
+2021,New Jersey,NJ,governor,General,RealClearPolitics,2021-10-15 to 2021-10-31,2021-10-15,2021-10-31,,Phil Murphy,D,50.5%,True,"October 15–31, 2021",
 2021,New Jersey,NJ,governor,General,Research Co.,2021-10-31 to 2021-11-01,2021-10-31,2021-11-01,450 (LV),Phil Murphy,D,50%,True,"October 31 – November 1, 2021",4.6
 2021,New Jersey,NJ,governor,General,The Trafalgar Group,2021-10-29 to 2021-10-31,2021-10-29,2021-10-31,"1,085 (LV)",Phil Murphy,D,49%,True,"October 29–31, 2021",3.0
 2021,New Jersey,NJ,governor,General,Fairleigh Dickinson University,2021-10-23 to 2021-10-28,2021-10-23,2021-10-28,823 (RV),Phil Murphy,D,53%,True,"October 23–28, 2021",3.4
@@ -11877,7 +11877,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2021,New Jersey,NJ,governor,General,National Research Inc. (R),2021-04-11 to 2021-04-13,2021-04-11,2021-04-13,600 (LV),Phil Murphy,D,47%,True,"April 11–13, 2021",4.0
 2021,New Jersey,NJ,governor,General,Rutgers-Eagleton,2021-05-21 to 2021-05-29,2021-05-21,2021-05-29,461 (RV),Phil Murphy,D,42%,True,"May 21–29, 2021",
 2021,New Jersey,NJ,governor,General,Monmouth University,2021-04-29 to 2021-05-04,2021-04-29,2021-05-04,706 (A),Phil Murphy,D,48%,True,"April 29 – May 4, 2021",3.7
-2021,New Jersey,NJ,governor,General,Real Clear Politics,2021-10-15 to 2021-10-31,2021-10-15,2021-10-31,,Jack Ciattarelli,R,42.7%,False,"October 15–31, 2021",
+2021,New Jersey,NJ,governor,General,RealClearPolitics,2021-10-15 to 2021-10-31,2021-10-15,2021-10-31,,Jack Ciattarelli,R,42.7%,False,"October 15–31, 2021",
 2021,New Jersey,NJ,governor,General,Research Co.,2021-10-31 to 2021-11-01,2021-10-31,2021-11-01,450 (LV),Jack Ciattarelli,R,44%,False,"October 31 – November 1, 2021",4.6
 2021,New Jersey,NJ,governor,General,The Trafalgar Group,2021-10-29 to 2021-10-31,2021-10-29,2021-10-31,"1,085 (LV)",Jack Ciattarelli,R,45%,False,"October 29–31, 2021",3.0
 2021,New Jersey,NJ,governor,General,Fairleigh Dickinson University,2021-10-23 to 2021-10-28,2021-10-23,2021-10-28,823 (RV),Jack Ciattarelli,R,44%,False,"October 23–28, 2021",3.4
@@ -15510,7 +15510,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Connecticut,CT,governor,General,Race to the WH,through 2026-09-17,,2026-09-17,,Ned Lamont,D,52.0%,True,"through September 17, 2026",
 2026,Connecticut,CT,governor,General,RealClearPolitics,2026-08-20 to 2026-09-17,2026-08-20,2026-09-17,,Ned Lamont,D,51.8%,True,"August 20 – September 17, 2026",
 2026,Connecticut,CT,governor,General,University of New Hampshire,2026-09-17 to 2026-09-21,2026-09-17,2026-09-21,540 (LV),Ned Lamont,D,55%,True,"September 17–21, 2026",4.2
-2026,Connecticut,CT,governor,General,co/efficient,2026-09-16 to 2026-09-17,2026-09-16,2026-09-17,979 (LV),Ned Lamont,D,48%,True,"September 16–17, 2026",3.1
+2026,Connecticut,CT,governor,General,(R),2026-09-16 to 2026-09-17,2026-09-16,2026-09-17,979 (LV),Ned Lamont,D,48%,True,"September 16–17, 2026",3.1
 2026,Connecticut,CT,governor,General,Quinnipiac University Polling Institute,2026-09-08 to 2026-09-14,2026-09-08,2026-09-14,"1,288 (LV)",Ned Lamont,D,55%,True,"September 8–14, 2026",3.8
 2026,Connecticut,CT,governor,General,CT Insider,2026-09-01 to 2026-09-08,2026-09-01,2026-09-08,"1,000 (RV)",Ned Lamont,D,48%,True,"September 1–8, 2026",3.1
 2026,Connecticut,CT,governor,General,University of New Hampshire,2026-08-20 to 2026-08-24,2026-08-20,2026-08-24,809 (LV),Ned Lamont,D,52%,True,"August 20–24, 2026",3.4
@@ -15521,7 +15521,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Connecticut,CT,governor,General,Race to the WH,through 2026-09-17,,2026-09-17,,Ryan Fazio,R,38.3%,False,"through September 17, 2026",
 2026,Connecticut,CT,governor,General,RealClearPolitics,2026-08-20 to 2026-09-17,2026-08-20,2026-09-17,,Ryan Fazio,R,38.3%,False,"August 20 – September 17, 2026",
 2026,Connecticut,CT,governor,General,University of New Hampshire,2026-09-17 to 2026-09-21,2026-09-17,2026-09-21,540 (LV),Ryan Fazio,R,38%,False,"September 17–21, 2026",4.2
-2026,Connecticut,CT,governor,General,co/efficient,2026-09-16 to 2026-09-17,2026-09-16,2026-09-17,979 (LV),Ryan Fazio,R,41%,False,"September 16–17, 2026",3.1
+2026,Connecticut,CT,governor,General,(R),2026-09-16 to 2026-09-17,2026-09-16,2026-09-17,979 (LV),Ryan Fazio,R,41%,False,"September 16–17, 2026",3.1
 2026,Connecticut,CT,governor,General,Quinnipiac University Polling Institute,2026-09-08 to 2026-09-14,2026-09-08,2026-09-14,"1,288 (LV)",Ryan Fazio,R,38%,False,"September 8–14, 2026",3.8
 2026,Connecticut,CT,governor,General,CT Insider,2026-09-01 to 2026-09-08,2026-09-01,2026-09-08,"1,000 (RV)",Ryan Fazio,R,34%,False,"September 1–8, 2026",3.1
 2026,Connecticut,CT,governor,General,University of New Hampshire,2026-08-20 to 2026-08-24,2026-08-20,2026-08-24,809 (LV),Ryan Fazio,R,37%,False,"August 20–24, 2026",3.4
@@ -15530,12 +15530,14 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Connecticut,CT,governor,General,Sacred Heart University,2026-07-21 to 2026-07-26,2026-07-21,2026-07-26,"1,000 (RV)",Josh Elliot,D,44%,False,"July 21–26, 2026",3.1
 2026,Connecticut,CT,governor,General,WTNH-TV,2025-08,2025-08-01,2025-08-31,600 (LV),Erin Stewart,R,42%,False,August 2025,
 2026,Florida,FL,attorney general,General,St. Pete Polls,2026-10-05 to 2026-10-07,2026-10-05,2026-10-07,836 (LV),James Uthmeier,R,45%,True,"October 5–7, 2026",3.4
+2026,Florida,FL,attorney general,General,James Madison Institute,2026-09-28 to 2026-10-04,2026-09-28,2026-10-04,854 (LV),James Uthmeier,R,50%,True,"September 28 – October 4, 2026",
 2026,Florida,FL,attorney general,General,Florida Politics,2026-09-15 to 2026-09-17,2026-09-15,2026-09-17,913 (LV),James Uthmeier,R,43%,True,"September 15–17, 2026",3.2
 2026,Florida,FL,attorney general,General,Change Research,2026-09-07 to 2026-09-09,2026-09-07,2026-09-09,"1,107 (LV)",James Uthmeier,R,46%,True,"September 7–9, 2026",2.8
 2026,Florida,FL,attorney general,General,Change Research,2026-05-13 to 2026-05-16,2026-05-13,2026-05-16,"1,593 (LV)",James Uthmeier,R,41%,True,"May 13–16, 2026",2.3
 2026,Florida,FL,attorney general,General,Florida Politics,2026-03-27 to 2026-04-03,2026-03-27,2026-04-03,"1,834 (LV)",James Uthmeier,R,40%,True,"March 27 – April 3, 2026",2.0
 2026,Florida,FL,attorney general,General,University of North Florida,2025-10-15 to 2025-10-25,2025-10-15,2025-10-25,728 (LV),James Uthmeier,R,45%,True,"October 15–25, 2025",4.3
 2026,Florida,FL,attorney general,General,St. Pete Polls,2026-10-05 to 2026-10-07,2026-10-05,2026-10-07,836 (LV),José Javier Rodríguez,D,43%,False,"October 5–7, 2026",3.4
+2026,Florida,FL,attorney general,General,James Madison Institute,2026-09-28 to 2026-10-04,2026-09-28,2026-10-04,854 (LV),José Javier Rodríguez,D,40%,False,"September 28 – October 4, 2026",
 2026,Florida,FL,attorney general,General,Florida Politics,2026-09-15 to 2026-09-17,2026-09-15,2026-09-17,913 (LV),José Javier Rodríguez,D,42%,False,"September 15–17, 2026",3.2
 2026,Florida,FL,attorney general,General,Change Research,2026-09-07 to 2026-09-09,2026-09-07,2026-09-09,"1,107 (LV)",José Javier Rodríguez,D,46%,False,"September 7–9, 2026",2.8
 2026,Florida,FL,attorney general,General,Change Research,2026-05-13 to 2026-05-16,2026-05-13,2026-05-16,"1,593 (LV)",José Javier Rodríguez,D,45%,False,"May 13–16, 2026",2.3
@@ -15548,7 +15550,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Florida,FL,governor,General,Silver Bulletin,through 2026-10-05,,2026-10-05,,Byron Donalds,R,46.8%,False,"through October 5, 2026",
 2026,Florida,FL,governor,General,St. Pete Polls,2026-10-05 to 2026-10-07,2026-10-05,2026-10-07,836 (LV),Byron Donalds,R,45%,False,"October 5–7, 2026",3.4
 2026,Florida,FL,governor,General,YouGov,2026-09-28 to 2026-10-05,2026-09-28,2026-10-05,"3,813 (LV)",Byron Donalds,R,47%,False,"September 28 – October 5, 2026",2.7
-2026,Florida,FL,governor,General,James Madison Institute,2026-09-28 to 2026-10-04,2026-09-28,2026-10-04,"1,174 (LV)",Byron Donalds,R,52%,False,"September 28 – October 4, 2026",2.8
+2026,Florida,FL,governor,General,James Madison Institute,2026-09-28 to 2026-10-04,2026-09-28,2026-10-04,849 (LV),Byron Donalds,R,52%,False,"September 28 – October 4, 2026",
 2026,Florida,FL,governor,General,Mason-Dixon,2026-09-28 to 2026-10-01,2026-09-28,2026-10-01,625 (LV),Byron Donalds,R,48%,False,"September 28 – October 1, 2026",4.0
 2026,Florida,FL,governor,General,Change Research,2026-09-25 to 2026-09-27,2026-09-25,2026-09-27,"1,063 (LV)",Byron Donalds,R,46%,False,"September 25–27, 2026",2.8
 2026,Florida,FL,governor,General,Stetson University,2026-09-14 to 2026-09-21,2026-09-14,2026-09-21,830 (LV),Byron Donalds,R,51%,False,"September 14–21, 2026",4.3
@@ -15568,7 +15570,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Florida,FL,governor,General,Silver Bulletin,through 2026-10-05,,2026-10-05,,David Jolly,D,43.1%,False,"through October 5, 2026",
 2026,Florida,FL,governor,General,St. Pete Polls,2026-10-05 to 2026-10-07,2026-10-05,2026-10-07,836 (LV),David Jolly,D,45%,False,"October 5–7, 2026",3.4
 2026,Florida,FL,governor,General,YouGov,2026-09-28 to 2026-10-05,2026-09-28,2026-10-05,"3,813 (LV)",David Jolly,D,45%,False,"September 28 – October 5, 2026",2.7
-2026,Florida,FL,governor,General,James Madison Institute,2026-09-28 to 2026-10-04,2026-09-28,2026-10-04,"1,174 (LV)",David Jolly,D,42%,False,"September 28 – October 4, 2026",2.8
+2026,Florida,FL,governor,General,James Madison Institute,2026-09-28 to 2026-10-04,2026-09-28,2026-10-04,849 (LV),David Jolly,D,42%,False,"September 28 – October 4, 2026",
 2026,Florida,FL,governor,General,Mason-Dixon,2026-09-28 to 2026-10-01,2026-09-28,2026-10-01,625 (LV),David Jolly,D,41%,False,"September 28 – October 1, 2026",4.0
 2026,Florida,FL,governor,General,Change Research,2026-09-25 to 2026-09-27,2026-09-25,2026-09-27,"1,063 (LV)",David Jolly,D,48%,False,"September 25–27, 2026",2.8
 2026,Florida,FL,governor,General,Stetson University,2026-09-14 to 2026-09-21,2026-09-14,2026-09-21,830 (LV),David Jolly,D,39%,False,"September 14–21, 2026",4.3
@@ -15682,7 +15684,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Iowa,IA,attorney general,General,Fund for Economic Independence (R),2025-09-09 to 2025-09-11,2025-09-09,2025-09-11,,Nathan Willems,D,15%,False,"September 9–11, 2025",
 2026,Iowa,IA,secretary of state,General,Change Research,2026-09-11 to 2026-09-14,2026-09-11,2026-09-14,704 (LV),Paul Pate,R,42%,True,"September 11–14, 2026",3.9
 2026,Iowa,IA,secretary of state,General,Change Research,2026-09-11 to 2026-09-14,2026-09-11,2026-09-14,704 (LV),Ryan Peterman,D,40%,False,"September 11–14, 2026",3.9
-2026,Iowa,IA,governor,General,270toWin,2026-09-11 to 2026-10-04,2026-09-11,2026-10-04,,Zach Lahn,R,42.0%,False,"September 11 – October 4, 2026",
+2026,Iowa,IA,governor,General,270toWin,2026-09-15 to 2026-10-09,2026-09-15,2026-10-09,,Zach Lahn,R,43.2%,False,"September 15 – October 9, 2026",
 2026,Iowa,IA,governor,General,Decision Desk HQ,through 2026-10-06,,2026-10-06,,Zach Lahn,R,42.8%,False,"through October 6, 2026",
 2026,Iowa,IA,governor,General,FiftyPlusOne,through 2026-10-06,,2026-10-06,,Zach Lahn,R,42.8%,False,"through October 6, 2026",
 2026,Iowa,IA,governor,General,RealClearPolitics,2026-09-03 to 2026-10-06,2026-09-03,2026-10-06,,Zach Lahn,R,42.6%,False,"September 3 – October 6, 2026",
@@ -15703,7 +15705,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Iowa,IA,governor,General,Fox News,2026-06-23 to 2026-06-27,2026-06-23,2026-06-27,"1,003 (RV)",Zach Lahn,R,44%,False,"June 23–27, 2026",3.0
 2026,Iowa,IA,governor,General,New York Times,2026-06-15 to 2026-06-27,2026-06-15,2026-06-27,600 (LV),Zach Lahn,R,47%,False,"June 15–27, 2026",4.7
 2026,Iowa,IA,governor,General,Cygnal (R),2026-06-16 to 2026-06-19,2026-06-16,2026-06-19,600 (LV),Zach Lahn,R,43%,False,"June 16–19, 2026",4.0
-2026,Iowa,IA,governor,General,270toWin,2026-09-11 to 2026-10-04,2026-09-11,2026-10-04,,Rob Sand,D,51.4%,False,"September 11 – October 4, 2026",
+2026,Iowa,IA,governor,General,270toWin,2026-09-15 to 2026-10-09,2026-09-15,2026-10-09,,Rob Sand,D,51.2%,False,"September 15 – October 9, 2026",
 2026,Iowa,IA,governor,General,Decision Desk HQ,through 2026-10-06,,2026-10-06,,Rob Sand,D,52.0%,False,"through October 6, 2026",
 2026,Iowa,IA,governor,General,FiftyPlusOne,through 2026-10-06,,2026-10-06,,Rob Sand,D,51.4%,False,"through October 6, 2026",
 2026,Iowa,IA,governor,General,RealClearPolitics,2026-09-03 to 2026-10-06,2026-09-03,2026-10-06,,Rob Sand,D,51.0%,False,"September 3 – October 6, 2026",
@@ -15758,7 +15760,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Kansas,KS,governor,General,Global Strategy Group,2026-09-13 to 2026-09-16,2026-09-13,2026-09-16,800 (LV),Ty Masterson,R,46%,False,"September 13–16, 2026",3.5
 2026,Kansas,KS,governor,General,(R),2026-09-08 to 2026-09-10,2026-09-08,2026-09-10,915 (LV),Ty Masterson,R,51%,False,"September 8–10, 2026",3.2
 2026,Kansas,KS,governor,General,Global Strategy Group,2026-08-13 to 2026-08-16,2026-08-13,2026-08-16,600 (LV),Ty Masterson,R,46%,False,"August 13–16, 2026",4.0
-2026,Maine,ME,governor,General,270toWin,2026-09-01 to 2026-09-02,2026-09-01,2026-09-02,,Hannah Pingree,D,"October 6, 2026",False,"access-date=September 2, 2026}}",
+2026,Maine,ME,governor,General,270toWin,2026-10-01 to 2026-10-10,2026-10-01,2026-10-10,,Hannah Pingree,D,"October 9, 2026",False,"access-date=October 10, 2026}}",
 2026,Maine,ME,governor,General,Decision Desk HQ,through 2026-10-05,,2026-10-05,,Hannah Pingree,D,50.6%,False,"through October 5, 2026",
 2026,Maine,ME,governor,General,FiftyPlusOne,through 2026-10-05,,2026-10-05,,Hannah Pingree,D,50.1%,False,"through October 5, 2026",
 2026,Maine,ME,governor,General,RealClearPolitics,2026-09-02 to 2026-10-05,2026-09-02,2026-10-05,,Hannah Pingree,D,49.8%,False,"September 2 – October 5, 2026",
@@ -15775,7 +15777,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Maine,ME,governor,General,Fox News,2026-08-06 to 2026-08-10,2026-08-06,2026-08-10,"1,000 (RV)",Hannah Pingree,D,49%,False,"August 6–10, 2026",3.0
 2026,Maine,ME,governor,General,University of New Hampshire,2026-07-15 to 2026-07-20,2026-07-15,2026-07-20,"1,178 (LV)",Hannah Pingree,D,49%,False,"July 15–20, 2026",2.9
 2026,Maine,ME,governor,General,Fox News,2026-06-23 to 2026-06-27,2026-06-23,2026-06-27,"1,003 (RV)",Hannah Pingree,D,53%,False,"June 23–27, 2026",3.0
-2026,Maine,ME,governor,General,270toWin,2026-09-01 to 2026-09-02,2026-09-01,2026-09-02,,Bobby Charles,R,49.2%,False,"access-date=September 2, 2026}}",
+2026,Maine,ME,governor,General,270toWin,2026-10-01 to 2026-10-10,2026-10-01,2026-10-10,,Bobby Charles,R,49.4%,False,"access-date=October 10, 2026}}",
 2026,Maine,ME,governor,General,Decision Desk HQ,through 2026-10-05,,2026-10-05,,Bobby Charles,R,38.5%,False,"through October 5, 2026",
 2026,Maine,ME,governor,General,FiftyPlusOne,through 2026-10-05,,2026-10-05,,Bobby Charles,R,38.3%,False,"through October 5, 2026",
 2026,Maine,ME,governor,General,RealClearPolitics,2026-09-02 to 2026-10-05,2026-09-02,2026-10-05,,Bobby Charles,R,38.4%,False,"September 2 – October 5, 2026",
@@ -15792,7 +15794,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Maine,ME,governor,General,Fox News,2026-08-06 to 2026-08-10,2026-08-06,2026-08-10,"1,000 (RV)",Bobby Charles,R,38%,False,"August 6–10, 2026",3.0
 2026,Maine,ME,governor,General,University of New Hampshire,2026-07-15 to 2026-07-20,2026-07-15,2026-07-20,"1,178 (LV)",Bobby Charles,R,35%,False,"July 15–20, 2026",2.9
 2026,Maine,ME,governor,General,Fox News,2026-06-23 to 2026-06-27,2026-06-23,2026-06-27,"1,003 (RV)",Bobby Charles,R,42%,False,"June 23–27, 2026",3.0
-2026,Maine,ME,governor,General,270toWin,2026-09-01 to 2026-09-02,2026-09-01,2026-09-02,,Rick Bennett,I,38.2%,False,"access-date=September 2, 2026}}",
+2026,Maine,ME,governor,General,270toWin,2026-10-01 to 2026-10-10,2026-10-01,2026-10-10,,Rick Bennett,I,37.4%,False,"access-date=October 10, 2026}}",
 2026,Maine,ME,governor,General,FiftyPlusOne,through 2026-10-05,,2026-10-05,,Rick Bennett,I,6.4%,False,"through October 5, 2026",
 2026,Maine,ME,governor,General,The Washington Post,2026-09-30 to 2026-10-05,2026-09-30,2026-10-05,800 (LV),Rick Bennett,I,11%,False,"September 30 – October 5, 2026",3.6
 2026,Maine,ME,governor,General,Marist University,2026-10-01 to 2026-10-04,2026-10-01,2026-10-04,"1,505 (RV)",Rick Bennett,I,6%,False,"October 1–4, 2026",3.8
@@ -16255,12 +16257,12 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,New York,NY,attorney general,General,Siena College,2026-08-03 to 2026-08-06,2026-08-03,2026-08-06,811 (LV),Letitia James,D,54%,True,"August 3–6, 2026",4.2
 2026,New York,NY,attorney general,General,Siena College,2026-09-11 to 2026-09-17,2026-09-11,2026-09-17,"1,144 (LV)",Saritha Komatireddy,R,39%,False,"September 11–17, 2026",3.9
 2026,New York,NY,attorney general,General,Siena College,2026-08-03 to 2026-08-06,2026-08-03,2026-08-06,811 (LV),Saritha Komatireddy,R,36%,False,"August 3–6, 2026",4.2
-2026,New York,NY,governor,General,270toWin,2026-09-23,2026-09-23,2026-09-23,,Kathy Hochul,Unknown,54.0%,True,"September 23, 2026",
+2026,New York,NY,governor,General,270toWin,2026-09-23 to 2026-10-08,2026-09-23,2026-10-08,,Kathy Hochul,Unknown,53.3%,True,"September 23 – October 8, 2026",
 2026,New York,NY,governor,General,Decision Desk HQ,through 2026-10-05,,2026-10-05,,Kathy Hochul,Unknown,52.6%,True,"through October 5, 2026",
 2026,New York,NY,governor,General,FiftyPlusOne,through 2026-10-05,,2026-10-05,,Kathy Hochul,Unknown,52.2%,True,"through October 5, 2026",
 2026,New York,NY,governor,General,RealClearPolitics,2026-09-11 to 2026-10-05,2026-09-11,2026-10-05,,Kathy Hochul,Unknown,53.3%,True,"September 11 – October 5, 2026",
 2026,New York,NY,governor,General,Silver Bulletin,through 2026-10-05,,2026-10-05,,Kathy Hochul,Unknown,52.8%,True,"through October 5, 2026",
-2026,New York,NY,governor,General,270toWin,2026-09-23,2026-09-23,2026-09-23,,Bruce Blakeman,Unknown,40.0%,False,"September 23, 2026",
+2026,New York,NY,governor,General,270toWin,2026-09-23 to 2026-10-08,2026-09-23,2026-10-08,,Bruce Blakeman,Unknown,40.5%,False,"September 23 – October 8, 2026",
 2026,New York,NY,governor,General,Decision Desk HQ,through 2026-10-05,,2026-10-05,,Bruce Blakeman,Unknown,41.0%,False,"through October 5, 2026",
 2026,New York,NY,governor,General,FiftyPlusOne,through 2026-10-05,,2026-10-05,,Bruce Blakeman,Unknown,40.2%,False,"through October 5, 2026",
 2026,New York,NY,governor,General,RealClearPolitics,2026-09-11 to 2026-10-05,2026-09-11,2026-10-05,,Bruce Blakeman,Unknown,40.5%,False,"September 11 – October 5, 2026",
@@ -16462,6 +16464,10 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Oregon,OR,governor,General,The Oregonian,2026-06-22 to 2026-06-24,2026-06-22,2026-06-24,600 (RV),Christine Drazan,R,48%,False,"June 22–24, 2026",4.0
 2026,Oregon,OR,governor,General,Hoffman Research Group (R),2026-05-11 to 2026-05-12,2026-05-11,2026-05-12,603 (LV),Christine Drazan,R,45%,False,"May 11–12, 2026",4.0
 2026,Oregon,OR,governor,General,FM3 Research (D),2026-01-28 to 2026-02-04,2026-01-28,2026-02-04,"1,065 (LV)",Christine Drazan,R,40%,False,"January 28 – February 4, 2026",3.1
+2026,Oregon,OR,governor,General,Oregon Public Broadcasting,2026-10-01 to 2026-10-04,2026-10-01,2026-10-04,800 (LV),Brett Smith,G,6%,False,"October 1–4, 2026",3.5
+2026,Oregon,OR,governor,General,The Oregonian,2026-09-24 to 2026-10-01,2026-09-24,2026-10-01,549 (LV),Brett Smith,G,3%,False,"September 24 – October 1, 2026",4.0
+2026,Oregon,OR,governor,General,Oregon Public Broadcasting,2026-09-17 to 2026-09-27,2026-09-17,2026-09-27,915 (LV),Brett Smith,G,3%,False,"September 17–27, 2026",3.2
+2026,Oregon,OR,governor,General,DHM Research,2026-09-03 to 2026-09-09,2026-09-03,2026-09-09,600 (LV),Brett Smith,G,4%,False,"September 3–9, 2026",4.0
 2026,Oregon,OR,governor,General,The Oregonian,2026-01-28 to 2026-02-04,2026-01-28,2026-02-04,"1,065 (A)",Ed Diehl,R,37%,False,"January 28 – February 4, 2026",3.1
 2026,Oregon,OR,governor,General,Hoffman Research Group (R),2026-05-11 to 2026-05-12,2026-05-11,2026-05-12,603 (LV),Chris Dudley,R,48%,False,"May 11–12, 2026",4.0
 2026,Oregon,OR,governor,General,FM3 Research (D),2026-01-28 to 2026-02-04,2026-01-28,2026-02-04,"1,065 (LV)",Chris Dudley,R,35%,False,"January 28 – February 4, 2026",3.1
