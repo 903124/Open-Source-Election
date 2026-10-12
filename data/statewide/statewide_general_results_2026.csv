@@ -74,6 +74,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Dean Ocean Abrams Joe Van Victor,Independent,,,False,False
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Jeffrey Peter Datto Juan Santana,Independent,,,False,False
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Total,,,,100.0,False,False
+2026,Georgia,GA,attorney general,2026 Georgia Attorney General election,Candidate,Brian Strickland,Republican,,,False,False
+2026,Georgia,GA,attorney general,2026 Georgia Attorney General election,Candidate,Tanya Miller,Democratic,,,False,False
+2026,Georgia,GA,attorney general,2026 Georgia Attorney General election,Total,,,,100.0,False,False
 2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Candidate,Rick Jackson,Republican,,,False,False
 2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Candidate,Keisha Lance Bottoms,Democratic,,,False,False
 2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Total,,,,100.0,False,False
@@ -99,6 +102,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Darren Bailey,Republican,,,False,False
 2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Collin Corbett,Independent,,,False,False
 2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Total,,,,100.0,False,False
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Max Engling,Republican,,,False,False
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Beau Bayh,Democratic,,,False,False
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Lauri Shillings,Libertarian,,,False,False
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Greg Ballard,Lincoln,,,False,False
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Harrison Jacobo,Socialist Party Usa,,,False,False
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Andrew Delano (write-in),Workers,,,False,False
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Total,,,,100.0,False,False
 2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Candidate,Brenna Bird,Republican,,,False,True
 2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Candidate,Nathan Willems,Democratic,,,False,False
 2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Total,,,,100.0,False,False

@@ -26,6 +26,32 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Alabama,AL,State House,15,general,Nell Brown,Democratic,,,False,False
 2026,Alabama,AL,State House,16,general,Bryan Brinyark,Republican,,,True,False
 2026,Alabama,AL,State House,16,general,Christian Martin,Democratic,,,False,False
+2026,Alabama,AL,State House,17,general,Phil Segraves,Republican,,,True,False
+2026,Alabama,AL,State House,18,general,Jamie Kiel,Republican,,,True,True
+2026,Alabama,AL,State House,19,general,Laura Hall,Democratic,,,True,False
+2026,Alabama,AL,State House,19,general,Donald Barnes,Republican,,,False,False
+2026,Alabama,AL,State House,20,general,James Lomax,Republican,,,True,True
+2026,Alabama,AL,State House,20,general,James Linderholm,Democratic,,,False,False
+2026,Alabama,AL,State House,21,general,Rex Reynolds,Republican,,,True,True
+2026,Alabama,AL,State House,21,general,Forrest Satterfield,Democratic,,,False,False
+2026,Alabama,AL,State House,22,general,Ritchie Whorton,Republican,,,True,True
+2026,Alabama,AL,State House,23,general,Mike Kirkland,Republican,,,True,True
+2026,Alabama,AL,State House,24,general,Nathaniel Ledbetter,Republican,,,True,True
+2026,Alabama,AL,State House,25,general,Phillip Rigsby,Republican,,,True,True
+2026,Alabama,AL,State House,25,general,Allison Montgomery,Democratic,,,False,False
+2026,Alabama,AL,State House,26,general,Brock Colvin,Republican,,,True,True
+2026,Alabama,AL,State House,27,general,Jeana Ross,Republican,,,True,True
+2026,Alabama,AL,State House,28,general,Mack Butler,Republican,,,True,True
+2026,Alabama,AL,State House,28,general,Robert Hunter,Democratic,,,False,False
+2026,Alabama,AL,State House,29,general,Mark Gidley,Republican,,,True,True
+2026,Alabama,AL,State House,30,general,Craig Lipscomb,Republican,,,True,True
+2026,Alabama,AL,State House,31,general,Troy Stubbs,Republican,,,True,True
+2026,Alabama,AL,State House,32,general,Debra Foster,Democratic,,,True,False
+2026,Alabama,AL,State House,32,general,Joey Callahan,Republican,,,False,False
+2026,Alabama,AL,State House,33,general,Ben Robbins,Republican,,,True,False
+2026,Alabama,AL,State House,34,general,David Standridge,Republican,,,True,True
+2026,Alabama,AL,State House,35,general,Steve Hurst,Republican,,,True,False
+2026,Alabama,AL,State House,35,general,Joseph Cleveland,Independent,,,False,False
 2026,Arkansas,AR,State House,35,general,Audrey P. Willis,Democratic,344,60.88,True,False
 2026,Arkansas,AR,State House,35,general,Joyce Ann Gray,Democratic,221,39.12,False,False
 2026,Arkansas,AR,State House,46,general,Tonya Fletcher,Republican,1497,31.49,True,False
