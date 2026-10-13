@@ -59,6 +59,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Jeff Peckman,Unity,,,False,False
 2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Erik Underwood,Voting,,,False,False
 2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Total,,,,100.0,False,False
+2026,Delaware,DE,attorney general,2026 Delaware Attorney General election,Candidate,Kathleen Jennings,Democratic,,,False,True
+2026,Delaware,DE,attorney general,2026 Delaware Attorney General election,Candidate,David C. Graham,Republican,,,False,False
+2026,Delaware,DE,attorney general,2026 Delaware Attorney General election,Total,,,,100.0,False,False
+2026,Delaware,DE,state treasurer,2026 Delaware State Treasurer election,Candidate,Ted Lauzen,Democratic,,,False,False
+2026,Delaware,DE,state treasurer,2026 Delaware State Treasurer election,Candidate,Mike Ramone,Republican,,,False,False
+2026,Delaware,DE,state treasurer,2026 Delaware State Treasurer election,Total,,,,100.0,False,False
 2026,District of Columbia,DC,attorney general,2026 District of Columbia Attorney General election,Candidate,Brian Schwalb,District,,,False,True
 2026,District of Columbia,DC,attorney general,2026 District of Columbia Attorney General election,Candidate,Manuel Rivera,District,,,False,False
 2026,District of Columbia,DC,attorney general,2026 District of Columbia Attorney General election,Total,,,,100.0,False,False
@@ -106,8 +112,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Beau Bayh,Democratic,,,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Lauri Shillings,Libertarian,,,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Greg Ballard,Lincoln,,,False,False
-2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Harrison Jacobo,Socialist Party Usa,,,False,False
-2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Andrew Delano (write-in),Workers,,,False,False
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Andrew Delano (write-in),National Socialist American Workers,,,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Total,,,,100.0,False,False
 2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Candidate,Brenna Bird,Republican,,,False,True
 2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Candidate,Nathan Willems,Democratic,,,False,False
@@ -143,6 +148,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,,,False,False
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,,,False,False
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,,,False,False
+2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Andrea Campbell,Democratic,,,False,True
+2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Michael Walsh,Republican,,,False,False
+2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Total,,,,100.0,False,False
+2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Maura Healey,Democratic,,,False,True
+2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Michael Minogue,Republican,,,False,False
+2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Andrea C. James,Independent,,,False,False
+2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Total,,,,100.0,False,False
 2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Eli Savit,Democratic,,,False,False
 2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Doug Lloyd,Republican,,,False,False
 2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Jason Dye,Libertarian,,,False,False
@@ -249,6 +261,17 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Stacy Garrity,Republican,,,False,False
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Ken Krawchuk,Libertarian,,,False,False
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Total,,,,100.0,False,False
+2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Candidate,James Diossa,Democratic,,,False,True
+2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Candidate,Micholas A. Credle,Republican,,,False,False
+2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Total,,,,100.0,False,False
+2026,Rhode Island,RI,secretary of state,2026 Rhode Island Secretary of State election,Candidate,Gregg Amore,Democratic,,,False,True
+2026,Rhode Island,RI,secretary of state,2026 Rhode Island Secretary of State election,Total,,,,100.0,False,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Helena Buonanno Foulkes,Democratic,,,False,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Aaron C. Guckian,Republican,,,False,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Kenneth Block,Independent,,,False,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Jasjit S. Gotra,Independent,,,False,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,C.D. Reynolds,Independent,,,False,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Total,,,,100.0,False,False
 2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Candidate,David Stumbo,Republican,,,False,False
 2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Candidate,Richard Hricik,Democratic,,,False,False
 2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Total,,,,100.0,False,False

@@ -23793,6 +23793,16 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Rhode Island,RI,State House,15,general,Christopher Paplauskas,Republican,,,True,True
 2026,Rhode Island,RI,State House,15,general,Colleen Crudele,Democratic,,,False,False
 2026,Rhode Island,RI,State House,15,general,Allan Fung,Independent,,,False,False
+2026,South Dakota,SD,State House,27,general,Evangeline Poor Bear,Independent,,,True,False
+2026,South Dakota,SD,State House,27,general,Elizabeth Lone Eagle,Independent,,,False,False
+2026,South Dakota,SD,State House,27,general,Joe Flood,Independent,,,False,False
+2026,South Dakota,SD,State House,27,general,Liz Marty May,Republican,,,False,True
+2026,South Dakota,SD,State House,27,general,Jay Yohner,Independent,,,False,False
+2026,Tennessee,TN,State House,93,general,John Bradley,Write-in,,,True,False
+2026,Tennessee,TN,State House,93,general,DD Washington,Write-in,,,False,False
+2026,Tennessee,TN,State House,93,general,Mitchess Morrison,Write-in,,,False,False
+2026,Tennessee,TN,State House,93,general,Tommy Brewington,Write-in,,,False,False
+2026,Tennessee,TN,State House,93,general,Calvin Lacy,Write-in,,,False,False
 2026,Texas,TX,State House,1,general,Chris Spencer,Republican,,,True,False
 2026,Texas,TX,State House,1,general,Sean Huffman,Democratic,,,False,False
 2026,Texas,TX,State House,2,general,Brent Money,Republican,,,True,True
@@ -24087,6 +24097,9 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,West Virginia,WV,State House,50,general,Mathew Anderson,Democratic,,,True,False
 2026,West Virginia,WV,State House,50,general,Stacey L. Hensley,Constitution,,,False,False
 2026,West Virginia,WV,State House,50,general,Tom Louisos,Independent,,,False,False
+2026,West Virginia,WV,State House,50,general,J. Pino,Write-in,,,False,False
+2026,West Virginia,WV,State House,50,general,Bill Vest,Write-in,,,False,True
+2026,West Virginia,WV,State House,50,general,Eric Walton,Write-in,,,False,False
 2026,Wisconsin,WI,State House,1,general,Joel Kitchens,Republican,,,True,True
 2026,Wisconsin,WI,State House,1,general,Renee Paplham,Democratic,,,False,False
 2026,Wisconsin,WI,State House,2,general,Alicia Saunders,Democratic,,,True,False

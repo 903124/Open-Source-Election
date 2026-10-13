@@ -3263,8 +3263,8 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2022,house,Virginia,VA,9,248789,Taysha DeVaughan,Democratic,66027,26.6,False,False,False
 2022,house,Virginia,VA,10,296140,Jennifer Wexton,Democratic,157405,53.3,True,True,False
 2022,house,Virginia,VA,10,296140,Hung Cao,Republican,138163,46.7,False,False,False
-2022,house,Virginia,VA,11,289652,Gerry Connolly,Democratic,193190,66.9,True,True,False
-2022,house,Virginia,VA,11,289652,James Myles,Republican,,33.1,False,False,False
+2022,house,Virginia,VA,11,289676,Gerry Connolly,Democratic,193190,66.9,True,True,False
+2022,house,Virginia,VA,11,289676,James Myles,Republican,,33.1,False,False,False
 2022,house,Washington,WA,1,286684,Suzan DelBene,Democratic,181992,63.5,True,True,False
 2022,house,Washington,WA,1,286684,Vincent Cavaleri,Republican,104329,36.4,False,False,False
 2022,house,Washington,WA,2,337923,Rick Larsen,Democratic,202980,60.1,True,True,False
