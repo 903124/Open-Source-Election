@@ -253,32 +253,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2018,South Dakota,SD,governor,2018 South Dakota gubernatorial election,Total,,,339214,100.0,False,False
 2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Winning,Bill Lee,Republican,1336106,59.56,True,False
 2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Karl Dean,Democratic,864863,38.55,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Sherry L. Clark,Independent,5198,0.23,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Mark Wright,Independent,4687,0.21,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Patrick Whitlock,Independent,3631,0.16,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Yvonne Neubert,Independent,3070,0.14,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Heather Scott,Independent,2969,0.13,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Mark CoonRippy Brown,Independent,2841,0.13,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Joe B. Wilmoth,Independent,2444,0.11,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,George Blackwell Smith IV,Independent,1550,0.07,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Cory King,Independent,1502,0.07,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Tracy C. Yaste Tisdale,Independent,1396,0.06,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Justin Cornett,Independent,1217,0.05,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Chad Riden,Independent,1096,0.05,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Robert Sawyers Sr.,Independent,1059,0.05,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Vinnie Vineyard,Independent,1012,0.05,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Rick Tyler,Independent,981,0.04,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Gabriel Fancher,Independent,869,0.04,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Sean Bruce Fleming,Independent,814,0.04,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Alfred Shawm Rapoza,Independent,800,0.04,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Jessie D. McDonald,Independent,755,0.03,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Toney Randall Mitchell,Independent,739,0.03,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Mike Toews,Independent,726,0.03,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Matthew Koch,Independent,652,0.03,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Jeremy Allen Stephenson,Independent,613,0.03,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Tommy Ray McAnally,Independent,609,0.03,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Jaron D. Weidner,Independent,588,0.03,False,False
-2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,William Andrew Helmstetter,Independent,496,0.02,False,False
+2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Candidate,Other candidates,Other,42314,1.89,False,False
 2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Write-in,,,11,0.0,False,False
 2018,Tennessee,TN,governor,2018 Tennessee gubernatorial election,Total,,,2243294,100.0,False,False
 2018,Texas,TX,attorney general,General election results,Winning,Ken Paxton,Republican,4193207,50.57,True,True
