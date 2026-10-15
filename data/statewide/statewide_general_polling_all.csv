@@ -13263,6 +13263,8 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2022,Michigan,MI,governor,General,ARW Strategies,2022-04-18 to 2022-04-20,2022-04-18,2022-04-20,600 (LV),Generic Republican,Unknown,46%,False,"April 18–20, 2022",4.0
 2022,Michigan,MI,governor,General,Cygnal,2021-06-02 to 2021-06-06,2021-06-02,2021-06-06,600 (LV),Generic Republican,Unknown,52%,False,"June 2–6, 2021",4.0
 2022,Michigan,MI,governor,General,"The Glengariff Group, Inc.",2021-02-03 to 2021-02-06,2021-02-03,2021-02-06,600 (LV),Generic Opponent,Unknown,41%,False,"February 3–6, 2021",4.0
+2022,Minnesota,MN,governor,General,RealClearPolitics,2022-10-10 to 2022-10-30,2022-10-10,2022-10-30,,Tim Walz (DFL),Unknown,48.0%,False,"October 10–30, 2022",
+2022,Minnesota,MN,governor,General,FiveThirtyEight,2022-09-24 to 2022-10-30,2022-09-24,2022-10-30,,Tim Walz (DFL),Unknown,49.7%,False,"September 24 – October 30, 2022",
 2022,Minnesota,MN,governor,General,SurveyUSA,2022-05-05 to 2022-05-10,2022-05-05,2022-05-10,513 (LV),Tim Walz (DFL),Unknown,44%,False,"May 5–10, 2022",4.9
 2022,Minnesota,MN,governor,General,SurveyUSA,2022-01-25 to 2022-01-30,2022-01-25,2022-01-30,501 (LV),Tim Walz (DFL),Unknown,45%,False,"January 25–30, 2022",5.7
 2022,Minnesota,MN,governor,General,SurveyUSA,2021-12-02 to 2021-12-06,2021-12-02,2021-12-06,506 (LV),Tim Walz (DFL),Unknown,47%,False,"December 2–6, 2021",5.1
@@ -13275,6 +13277,8 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2022,Minnesota,MN,governor,General,SurveyUSA,2021-12-02 to 2021-12-06,2021-12-02,2021-12-06,506 (LV),Tim Walz (DFL),Unknown,48%,False,"December 2–6, 2021",5.1
 2022,Minnesota,MN,governor,General,SurveyUSA,2022-05-05 to 2022-05-10,2022-05-05,2022-05-10,513 (LV),Tim Walz (DFL),Unknown,47%,False,"May 5–10, 2022",4.9
 2022,Minnesota,MN,governor,General,Change Research,2021-08-28 to 2021-08-31,2021-08-28,2021-08-31,"1,945 (RV)",Tim Walz (DFL),Unknown,46%,False,"August 28–31, 2021",2.5
+2022,Minnesota,MN,governor,General,RealClearPolitics,2022-10-10 to 2022-10-30,2022-10-10,2022-10-30,,Scott Jensen,R,43.7%,False,"October 10–30, 2022",
+2022,Minnesota,MN,governor,General,FiveThirtyEight,2022-09-24 to 2022-10-30,2022-09-24,2022-10-30,,Scott Jensen,R,40.9%,False,"September 24 – October 30, 2022",
 2022,Minnesota,MN,governor,General,SurveyUSA,2022-05-05 to 2022-05-10,2022-05-05,2022-05-10,513 (LV),Scott Jensen,R,39%,False,"May 5–10, 2022",4.9
 2022,Minnesota,MN,governor,General,SurveyUSA,2022-01-25 to 2022-01-30,2022-01-25,2022-01-30,501 (LV),Michelle Benson,R,37%,False,"January 25–30, 2022",5.7
 2022,Minnesota,MN,governor,General,SurveyUSA,2021-12-02 to 2021-12-06,2021-12-02,2021-12-06,506 (LV),Michelle Benson,R,35%,False,"December 2–6, 2021",5.1
@@ -15093,9 +15097,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2025,New Jersey,NJ,governor,General,270toWin,2025-10-27 to 2025-10-31,2025-10-27,2025-10-31,,Mikie Sherrill,D,50.1%,False,"October 27–31, 2025",
 2025,New Jersey,NJ,governor,General,Decision Desk HQ,through 2025-11-03,,2025-11-03,,Mikie Sherrill,D,50.6%,False,"through November 3, 2025",
 2025,New Jersey,NJ,governor,General,FiftyPlusOne,through 2025-11-03,,2025-11-03,,Mikie Sherrill,D,50.4%,False,"through November 3, 2025",
-2025,New Jersey,NJ,governor,General,Race to the WH,through 2025-11-03,,2025-11-03,,Mikie Sherrill,D,49.7%,False,"through November 3, 2025",
 2025,New Jersey,NJ,governor,General,RealClearPolitics,2025-10-14 to 2025-10-30,2025-10-14,2025-10-30,,Mikie Sherrill,D,48.9%,False,"October 14–30, 2025",
-2025,New Jersey,NJ,governor,General,VoteHub,through 2025-11-03,,2025-11-03,,Mikie Sherrill,D,49.8%,False,"through November 3, 2025",
 2025,New Jersey,NJ,governor,General,Research Co.,2025-11-02 to 2025-11-03,2025-11-02,2025-11-03,429 (LV),Mikie Sherrill,D,51%,False,"November 2–3, 2025",4.6
 2025,New Jersey,NJ,governor,General,John Zogby Strategies,2025-10-31 to 2025-11-03,2025-10-31,2025-11-03,"1,205 (LV)",Mikie Sherrill,D,55%,False,"October 31 – November 3, 2025",2.9
 2025,New Jersey,NJ,governor,General,AtlasIntel,2025-10-25 to 2025-10-30,2025-10-25,2025-10-30,"1,639 (LV)",Mikie Sherrill,D,50%,False,"October 25–30, 2025",2.0
@@ -15144,9 +15146,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2025,New Jersey,NJ,governor,General,270toWin,2025-10-27 to 2025-10-31,2025-10-27,2025-10-31,,Jack Ciattarelli,R,45.7%,False,"October 27–31, 2025",
 2025,New Jersey,NJ,governor,General,Decision Desk HQ,through 2025-11-03,,2025-11-03,,Jack Ciattarelli,R,45.7%,False,"through November 3, 2025",
 2025,New Jersey,NJ,governor,General,FiftyPlusOne,through 2025-11-03,,2025-11-03,,Jack Ciattarelli,R,44.7%,False,"through November 3, 2025",
-2025,New Jersey,NJ,governor,General,Race to the WH,through 2025-11-03,,2025-11-03,,Jack Ciattarelli,R,45.1%,False,"through November 3, 2025",
 2025,New Jersey,NJ,governor,General,RealClearPolitics,2025-10-14 to 2025-10-30,2025-10-14,2025-10-30,,Jack Ciattarelli,R,45.6%,False,"October 14–30, 2025",
-2025,New Jersey,NJ,governor,General,VoteHub,through 2025-11-03,,2025-11-03,,Jack Ciattarelli,R,44.5%,False,"through November 3, 2025",
 2025,New Jersey,NJ,governor,General,Research Co.,2025-11-02 to 2025-11-03,2025-11-02,2025-11-03,429 (LV),Jack Ciattarelli,R,48%,False,"November 2–3, 2025",4.6
 2025,New Jersey,NJ,governor,General,John Zogby Strategies,2025-10-31 to 2025-11-03,2025-10-31,2025-11-03,"1,205 (LV)",Jack Ciattarelli,R,43%,False,"October 31 – November 3, 2025",2.9
 2025,New Jersey,NJ,governor,General,AtlasIntel,2025-10-25 to 2025-10-30,2025-10-25,2025-10-30,"1,639 (LV)",Jack Ciattarelli,R,49%,False,"October 25–30, 2025",2.0
@@ -15195,9 +15195,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2025,Virginia,VA,governor,General,270toWin,2025-10-27 to 2025-11-03,2025-10-27,2025-11-03,,Abigail Spanberger,D,53.3%,False,"October 27 – November 3, 2025",
 2025,Virginia,VA,governor,General,Decision Desk HQ,through 2025-11-03,,2025-11-03,,Abigail Spanberger,D,52.3%,False,"through November 3, 2025",
 2025,Virginia,VA,governor,General,FiftyPlusOne,through 2025-11-03,,2025-11-03,,Abigail Spanberger,D,53.1%,False,"through November 3, 2025",
-2025,Virginia,VA,governor,General,Race to the WH,through 2025-11-03,,2025-11-03,,Abigail Spanberger,D,52.3%,False,"through November 3, 2025",
 2025,Virginia,VA,governor,General,RealClearPolitics,2025-10-16 to 2025-11-03,2025-10-16,2025-11-03,,Abigail Spanberger,D,52.9%,False,"October 16 – November 3, 2025",
-2025,Virginia,VA,governor,General,VoteHub,through 2025-11-03,,2025-11-03,,Abigail Spanberger,D,52.1%,False,"through November 3, 2025",
 2025,Virginia,VA,governor,General,Quantus Insights (R),2025-11-03,2025-11-03,2025-11-03,"1,201 (LV)",Abigail Spanberger,D,53%,False,"November 3, 2025",2.7
 2025,Virginia,VA,governor,General,InsiderAdvantage (R),2025-11-02 to 2025-11-03,2025-11-02,2025-11-03,800 (LV),Abigail Spanberger,D,50%,False,"November 2–3, 2025",3.5
 2025,Virginia,VA,governor,General,Research Co.,2025-11-02 to 2025-11-03,2025-11-02,2025-11-03,423 (LV),Abigail Spanberger,D,54%,False,"November 2–3, 2025",4.6
@@ -15256,9 +15254,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2025,Virginia,VA,governor,General,270toWin,2025-10-27 to 2025-11-03,2025-10-27,2025-11-03,,Winsome Earle-Sears,R,43.1%,False,"October 27 – November 3, 2025",
 2025,Virginia,VA,governor,General,Decision Desk HQ,through 2025-11-03,,2025-11-03,,Winsome Earle-Sears,R,43.1%,False,"through November 3, 2025",
 2025,Virginia,VA,governor,General,FiftyPlusOne,through 2025-11-03,,2025-11-03,,Winsome Earle-Sears,R,42.4%,False,"through November 3, 2025",
-2025,Virginia,VA,governor,General,Race to the WH,through 2025-11-03,,2025-11-03,,Winsome Earle-Sears,R,42.8%,False,"through November 3, 2025",
 2025,Virginia,VA,governor,General,RealClearPolitics,2025-10-16 to 2025-11-03,2025-10-16,2025-11-03,,Winsome Earle-Sears,R,42.7%,False,"October 16 – November 3, 2025",
-2025,Virginia,VA,governor,General,VoteHub,through 2025-11-03,,2025-11-03,,Winsome Earle-Sears,R,42.9%,False,"through November 3, 2025",
 2025,Virginia,VA,governor,General,Quantus Insights (R),2025-11-03,2025-11-03,2025-11-03,"1,201 (LV)",Winsome Earle-Sears,R,44%,False,"November 3, 2025",2.7
 2025,Virginia,VA,governor,General,InsiderAdvantage (R),2025-11-02 to 2025-11-03,2025-11-02,2025-11-03,800 (LV),Winsome Earle-Sears,R,40%,False,"November 2–3, 2025",3.5
 2025,Virginia,VA,governor,General,Research Co.,2025-11-02 to 2025-11-03,2025-11-02,2025-11-03,423 (LV),Winsome Earle-Sears,R,46%,False,"November 2–3, 2025",4.6
@@ -15560,6 +15556,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Connecticut,CT,governor,General,270toWin,2026-09-01 to 2026-09-21,2026-09-01,2026-09-21,,Ned Lamont,D,51.8%,True,"September 1–21, 2026",
 2026,Connecticut,CT,governor,General,RealClearPolitics,2026-09-01 to 2026-09-21,2026-09-01,2026-09-21,,Ned Lamont,D,52.5%,True,"September 1–21, 2026",
 2026,Connecticut,CT,governor,General,Silver Bulletin,through 2026-09-21,,2026-09-21,,Ned Lamont,D,53.0%,True,"through September 21, 2026",
+2026,Connecticut,CT,governor,General,Quinnipiac University Polling Institute,2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,"1,225 (LV)",Ned Lamont,D,58%,True,"October 8–12, 2026",3.8
 2026,Connecticut,CT,governor,General,University of New Hampshire,2026-09-17 to 2026-09-21,2026-09-17,2026-09-21,540 (LV),Ned Lamont,D,55%,True,"September 17–21, 2026",4.2
 2026,Connecticut,CT,governor,General,(R),2026-09-16 to 2026-09-17,2026-09-16,2026-09-17,979 (LV),Ned Lamont,D,48%,True,"September 16–17, 2026",3.1
 2026,Connecticut,CT,governor,General,Quinnipiac University Polling Institute,2026-09-08 to 2026-09-14,2026-09-08,2026-09-14,"1,288 (LV)",Ned Lamont,D,55%,True,"September 8–14, 2026",3.8
@@ -15571,6 +15568,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Connecticut,CT,governor,General,270toWin,2026-09-01 to 2026-09-21,2026-09-01,2026-09-21,,Ryan Fazio,R,38.3%,False,"September 1–21, 2026",
 2026,Connecticut,CT,governor,General,RealClearPolitics,2026-09-01 to 2026-09-21,2026-09-01,2026-09-21,,Ryan Fazio,R,38.5%,False,"September 1–21, 2026",
 2026,Connecticut,CT,governor,General,Silver Bulletin,through 2026-09-21,,2026-09-21,,Ryan Fazio,R,38.7%,False,"through September 21, 2026",
+2026,Connecticut,CT,governor,General,Quinnipiac University Polling Institute,2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,"1,225 (LV)",Ryan Fazio,R,38%,False,"October 8–12, 2026",3.8
 2026,Connecticut,CT,governor,General,University of New Hampshire,2026-09-17 to 2026-09-21,2026-09-17,2026-09-21,540 (LV),Ryan Fazio,R,38%,False,"September 17–21, 2026",4.2
 2026,Connecticut,CT,governor,General,(R),2026-09-16 to 2026-09-17,2026-09-16,2026-09-17,979 (LV),Ryan Fazio,R,41%,False,"September 16–17, 2026",3.1
 2026,Connecticut,CT,governor,General,Quinnipiac University Polling Institute,2026-09-08 to 2026-09-14,2026-09-08,2026-09-14,"1,288 (LV)",Ryan Fazio,R,38%,False,"September 8–14, 2026",3.8
@@ -15600,6 +15598,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Florida,FL,governor,General,RealClearPolitics,2026-09-24 to 2026-10-09,2026-09-24,2026-10-09,,Byron Donalds,R,48.0%,False,"September 24 – October 9, 2026",
 2026,Florida,FL,governor,General,Silver Bulletin,through 2026-10-07,,2026-10-07,,Byron Donalds,R,47.9%,False,"through October 7, 2026",
 2026,Florida,FL,governor,General,Change Research,2026-10-08 to 2026-10-10,2026-10-08,2026-10-10,920 (LV),Byron Donalds,R,47%,False,"October 8–10, 2026",3.1
+2026,Florida,FL,governor,General,MDW Communications,2026-10-04 to 2026-10-10,2026-10-04,2026-10-10,"2,351 (LV)",Byron Donalds,R,47%,False,"October 4–10, 2026",2.8
 2026,Florida,FL,governor,General,Stetson University,2026-10-01 to 2026-10-09,2026-10-01,2026-10-09,716 (LV),Byron Donalds,R,52%,False,"October 1–9, 2026",4.2
 2026,Florida,FL,governor,General,St. Pete Polls,2026-10-05 to 2026-10-07,2026-10-05,2026-10-07,836 (LV),Byron Donalds,R,45%,False,"October 5–7, 2026",3.4
 2026,Florida,FL,governor,General,YouGov,2026-09-28 to 2026-10-05,2026-09-28,2026-10-05,"3,813 (LV)",Byron Donalds,R,47%,False,"September 28 – October 5, 2026",2.7
@@ -15622,6 +15621,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Florida,FL,governor,General,RealClearPolitics,2026-09-24 to 2026-10-09,2026-09-24,2026-10-09,,David Jolly,D,43.0%,False,"September 24 – October 9, 2026",
 2026,Florida,FL,governor,General,Silver Bulletin,through 2026-10-07,,2026-10-07,,David Jolly,D,43.8%,False,"through October 7, 2026",
 2026,Florida,FL,governor,General,Change Research,2026-10-08 to 2026-10-10,2026-10-08,2026-10-10,920 (LV),David Jolly,D,47%,False,"October 8–10, 2026",3.1
+2026,Florida,FL,governor,General,MDW Communications,2026-10-04 to 2026-10-10,2026-10-04,2026-10-10,"2,351 (LV)",David Jolly,D,44%,False,"October 4–10, 2026",2.8
 2026,Florida,FL,governor,General,Stetson University,2026-10-01 to 2026-10-09,2026-10-01,2026-10-09,716 (LV),David Jolly,D,41%,False,"October 1–9, 2026",4.2
 2026,Florida,FL,governor,General,St. Pete Polls,2026-10-05 to 2026-10-07,2026-10-05,2026-10-07,836 (LV),David Jolly,D,45%,False,"October 5–7, 2026",3.4
 2026,Florida,FL,governor,General,YouGov,2026-09-28 to 2026-10-05,2026-09-28,2026-10-05,"3,813 (LV)",David Jolly,D,45%,False,"September 28 – October 5, 2026",2.7
@@ -15662,10 +15662,11 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Florida,FL,governor,General,Cygnal (R),2025-08-25 to 2025-08-27,2025-08-25,2025-08-27,"1,000 (LV)",Generic Democrat,Unknown,38%,False,"August 25–27, 2025",3.1
 2026,Florida,FL,governor,General,Cygnal (R),2024-10-26 to 2024-10-28,2024-10-26,2024-10-28,600 (LV),Generic Democrat,Unknown,41%,False,"October 26–28, 2024",4.0
 2026,Georgia,GA,governor,General,270toWin,2026-09-15 to 2026-10-03,2026-09-15,2026-10-03,,Rick Jackson,R,48.3%,False,"September 15 – October 3, 2026",
-2026,Georgia,GA,governor,General,Decision Desk HQ,through 2026-10-03,,2026-10-03,,Rick Jackson,R,48.8%,False,"through October 3, 2026",
-2026,Georgia,GA,governor,General,FiftyPlusOne,through 2026-10-03,,2026-10-03,,Rick Jackson,R,47.9%,False,"through October 3, 2026",
-2026,Georgia,GA,governor,General,RealClearPolitics,2026-09-14 to 2026-09-23,2026-09-14,2026-09-23,,Rick Jackson,R,48.0%,False,"September 14–23, 2026",
+2026,Georgia,GA,governor,General,Decision Desk HQ,through 2026-10-13,,2026-10-13,,Rick Jackson,R,49.3%,False,"through October 13, 2026",
+2026,Georgia,GA,governor,General,FiftyPlusOne,through 2026-10-13,,2026-10-13,,Rick Jackson,R,48.2%,False,"through October 13, 2026",
+2026,Georgia,GA,governor,General,RealClearPolitics,2026-09-14 to 2026-10-13,2026-09-14,2026-10-13,,Rick Jackson,R,48.3%,False,"September 14 – October 13, 2026",
 2026,Georgia,GA,governor,General,Silver Bulletin,through 2026-10-03,,2026-10-03,,Rick Jackson,R,47.8%,False,"through October 3, 2026",
+2026,Georgia,GA,governor,General,InsiderAdvantage (R),2026-10-12 to 2026-10-13,2026-10-12,2026-10-13,800 (LV),Rick Jackson,R,49%,False,"October 12–13, 2026",3.5
 2026,Georgia,GA,governor,General,Wedgewood Polls,2026-10-02 to 2026-10-03,2026-10-02,2026-10-03,600 (LV),Rick Jackson,R,51%,False,"October 2–3, 2026",4.0
 2026,Georgia,GA,governor,General,InsiderAdvantage (R),2026-09-22 to 2026-09-23,2026-09-22,2026-09-23,"1,200 (LV)",Rick Jackson,R,48%,False,"September 22–23, 2026",4.0
 2026,Georgia,GA,governor,General,Big Data Poll (R),2026-09-21 to 2026-09-23,2026-09-21,2026-09-23,712 (RV),Rick Jackson,R,50%,False,"September 21–23, 2026",4.0
@@ -15680,10 +15681,11 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Georgia,GA,governor,General,Adobe Acrobat,2026-05-30 to 2026-06-02,2026-05-30,2026-06-02,510 (LV),Rick Jackson,R,38%,False,"May 30 – June 2, 2026",4.3
 2026,Georgia,GA,governor,General,NetChoice,2026-04-03 to 2026-04-09,2026-04-03,2026-04-09,407 (LV),Rick Jackson,R,43%,False,"April 3–9, 2026",6.5
 2026,Georgia,GA,governor,General,270toWin,2026-09-15 to 2026-10-03,2026-09-15,2026-10-03,,Keisha Lance Bottoms,D,46.3%,False,"September 15 – October 3, 2026",
-2026,Georgia,GA,governor,General,Decision Desk HQ,through 2026-10-03,,2026-10-03,,Keisha Lance Bottoms,D,46.8%,False,"through October 3, 2026",
-2026,Georgia,GA,governor,General,FiftyPlusOne,through 2026-10-03,,2026-10-03,,Keisha Lance Bottoms,D,46.4%,False,"through October 3, 2026",
-2026,Georgia,GA,governor,General,RealClearPolitics,2026-09-14 to 2026-09-23,2026-09-14,2026-09-23,,Keisha Lance Bottoms,D,46.3%,False,"September 14–23, 2026",
-2026,Georgia,GA,governor,General,Silver Bulletin,through 2026-10-03,,2026-10-03,,Keisha Lance Bottoms,D,46.9%,False,"through October 3, 2026",
+2026,Georgia,GA,governor,General,Decision Desk HQ,through 2026-10-13,,2026-10-13,,Keisha Lance Bottoms,D,47.2%,False,"through October 13, 2026",
+2026,Georgia,GA,governor,General,FiftyPlusOne,through 2026-10-13,,2026-10-13,,Keisha Lance Bottoms,D,46.5%,False,"through October 13, 2026",
+2026,Georgia,GA,governor,General,RealClearPolitics,2026-09-14 to 2026-10-13,2026-09-14,2026-10-13,,Keisha Lance Bottoms,D,46.5%,False,"September 14 – October 13, 2026",
+2026,Georgia,GA,governor,General,Silver Bulletin,through 2026-10-03,,2026-10-03,,Keisha Lance Bottoms,D,46.8%,False,"through October 3, 2026",
+2026,Georgia,GA,governor,General,InsiderAdvantage (R),2026-10-12 to 2026-10-13,2026-10-12,2026-10-13,800 (LV),Keisha Lance Bottoms,D,47%,False,"October 12–13, 2026",3.5
 2026,Georgia,GA,governor,General,Wedgewood Polls,2026-10-02 to 2026-10-03,2026-10-02,2026-10-03,600 (LV),Keisha Lance Bottoms,D,49%,False,"October 2–3, 2026",4.0
 2026,Georgia,GA,governor,General,InsiderAdvantage (R),2026-09-22 to 2026-09-23,2026-09-22,2026-09-23,"1,200 (LV)",Keisha Lance Bottoms,D,46%,False,"September 22–23, 2026",4.0
 2026,Georgia,GA,governor,General,Big Data Poll (R),2026-09-21 to 2026-09-23,2026-09-21,2026-09-23,712 (RV),Keisha Lance Bottoms,D,50%,False,"September 21–23, 2026",4.0
@@ -15740,10 +15742,12 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Iowa,IA,secretary of state,General,Change Research,2026-09-11 to 2026-09-14,2026-09-11,2026-09-14,704 (LV),Paul Pate,R,42%,True,"September 11–14, 2026",3.9
 2026,Iowa,IA,secretary of state,General,Change Research,2026-09-11 to 2026-09-14,2026-09-11,2026-09-14,704 (LV),Ryan Peterman,D,40%,False,"September 11–14, 2026",3.9
 2026,Iowa,IA,governor,General,270toWin,2026-09-09 to 2026-10-06,2026-09-09,2026-10-06,,Zach Lahn,R,43.2%,False,"September 9 – October 6, 2026",
-2026,Iowa,IA,governor,General,Decision Desk HQ,through 2026-10-06,,2026-10-06,,Zach Lahn,R,42.8%,False,"through October 6, 2026",
-2026,Iowa,IA,governor,General,FiftyPlusOne,through 2026-10-06,,2026-10-06,,Zach Lahn,R,42.8%,False,"through October 6, 2026",
-2026,Iowa,IA,governor,General,RealClearPolitics,2026-09-03 to 2026-10-06,2026-09-03,2026-10-06,,Zach Lahn,R,42.6%,False,"September 3 – October 6, 2026",
-2026,Iowa,IA,governor,General,Silver Bulletin,through 2026-10-06,,2026-10-06,,Zach Lahn,R,42.9%,False,"through October 6, 2026",
+2026,Iowa,IA,governor,General,Decision Desk HQ,through 2026-10-12,,2026-10-12,,Zach Lahn,R,43.1%,False,"through October 12, 2026",
+2026,Iowa,IA,governor,General,FiftyPlusOne,through 2026-10-12,,2026-10-12,,Zach Lahn,R,43.1%,False,"through October 12, 2026",
+2026,Iowa,IA,governor,General,RealClearPolitics,2026-09-22 to 2026-10-12,2026-09-22,2026-10-12,,Zach Lahn,R,43.2%,False,"September 22 – October 12, 2026",
+2026,Iowa,IA,governor,General,Silver Bulletin,through 2026-10-06,,2026-10-06,,Zach Lahn,R,43.0%,False,"through October 6, 2026",
+2026,Iowa,IA,governor,General,YouGov,2026-10-06 to 2026-10-12,2026-10-06,2026-10-12,"2,245 (LV)",Zach Lahn,R,44%,False,"October 6–12, 2026",3.1
+2026,Iowa,IA,governor,General,Marist University,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,(LV),Zach Lahn,R,45%,False,"October 8–11, 2026",6.6
 2026,Iowa,IA,governor,General,Emerson College,2026-10-05 to 2026-10-06,2026-10-05,2026-10-06,650 (LV),Zach Lahn,R,45%,False,"October 5–6, 2026",3.8
 2026,Iowa,IA,governor,General,DocumentCloud,2026-09-29 to 2026-10-05,2026-09-29,2026-10-05,801 (LV),Zach Lahn,R,42%,False,"September 29 – October 5, 2026",4.2
 2026,Iowa,IA,governor,General,Suffolk University,2026-10-01 to 2026-10-04,2026-10-01,2026-10-04,500 (LV),Zach Lahn,R,43%,False,"October 1–4, 2026",4.4
@@ -15761,10 +15765,12 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Iowa,IA,governor,General,New York Times,2026-06-15 to 2026-06-27,2026-06-15,2026-06-27,600 (LV),Zach Lahn,R,47%,False,"June 15–27, 2026",4.7
 2026,Iowa,IA,governor,General,Cygnal (R),2026-06-16 to 2026-06-19,2026-06-16,2026-06-19,600 (LV),Zach Lahn,R,43%,False,"June 16–19, 2026",4.0
 2026,Iowa,IA,governor,General,270toWin,2026-09-09 to 2026-10-06,2026-09-09,2026-10-06,,Rob Sand,D,51.2%,False,"September 9 – October 6, 2026",
-2026,Iowa,IA,governor,General,Decision Desk HQ,through 2026-10-06,,2026-10-06,,Rob Sand,D,52.0%,False,"through October 6, 2026",
-2026,Iowa,IA,governor,General,FiftyPlusOne,through 2026-10-06,,2026-10-06,,Rob Sand,D,51.4%,False,"through October 6, 2026",
-2026,Iowa,IA,governor,General,RealClearPolitics,2026-09-03 to 2026-10-06,2026-09-03,2026-10-06,,Rob Sand,D,51.0%,False,"September 3 – October 6, 2026",
+2026,Iowa,IA,governor,General,Decision Desk HQ,through 2026-10-12,,2026-10-12,,Rob Sand,D,51.7%,False,"through October 12, 2026",
+2026,Iowa,IA,governor,General,FiftyPlusOne,through 2026-10-12,,2026-10-12,,Rob Sand,D,51.1%,False,"through October 12, 2026",
+2026,Iowa,IA,governor,General,RealClearPolitics,2026-09-22 to 2026-10-12,2026-09-22,2026-10-12,,Rob Sand,D,51.7%,False,"September 22 – October 12, 2026",
 2026,Iowa,IA,governor,General,Silver Bulletin,through 2026-10-06,,2026-10-06,,Rob Sand,D,51.5%,False,"through October 6, 2026",
+2026,Iowa,IA,governor,General,YouGov,2026-10-06 to 2026-10-12,2026-10-06,2026-10-12,"2,245 (LV)",Rob Sand,D,50%,False,"October 6–12, 2026",3.1
+2026,Iowa,IA,governor,General,Marist University,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,(LV),Rob Sand,D,52%,False,"October 8–11, 2026",6.6
 2026,Iowa,IA,governor,General,Emerson College,2026-10-05 to 2026-10-06,2026-10-05,2026-10-06,650 (LV),Rob Sand,D,49%,False,"October 5–6, 2026",3.8
 2026,Iowa,IA,governor,General,DocumentCloud,2026-09-29 to 2026-10-05,2026-09-29,2026-10-05,801 (LV),Rob Sand,D,51%,False,"September 29 – October 5, 2026",4.2
 2026,Iowa,IA,governor,General,Suffolk University,2026-10-01 to 2026-10-04,2026-10-01,2026-10-04,500 (LV),Rob Sand,D,55%,False,"October 1–4, 2026",4.4
@@ -15820,6 +15826,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Maine,ME,governor,General,FiftyPlusOne,through 2026-10-05,,2026-10-05,,Hannah Pingree,D,50.1%,False,"through October 5, 2026",
 2026,Maine,ME,governor,General,RealClearPolitics,2026-09-02 to 2026-10-05,2026-09-02,2026-10-05,,Hannah Pingree,D,49.8%,False,"September 2 – October 5, 2026",
 2026,Maine,ME,governor,General,Silver Bulletin,through 2026-10-05,,2026-10-05,,Hannah Pingree,D,50.9%,False,"through October 5, 2026",
+2026,Maine,ME,governor,General,Suffolk University,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,500 (LV),Hannah Pingree,D,49%,False,"October 8–11, 2026",4.4
 2026,Maine,ME,governor,General,The Washington Post,2026-09-30 to 2026-10-05,2026-09-30,2026-10-05,800 (LV),Hannah Pingree,D,49%,False,"September 30 – October 5, 2026",3.6
 2026,Maine,ME,governor,General,Marist University,2026-10-01 to 2026-10-04,2026-10-01,2026-10-04,"1,505 (RV)",Hannah Pingree,D,52%,False,"October 1–4, 2026",3.8
 2026,Maine,ME,governor,General,CBS,2026-09-23 to 2026-10-01,2026-09-23,2026-10-01,"1,133 (LV)",Hannah Pingree,D,56%,False,"September 23 – October 1, 2026",4.7
@@ -15838,6 +15845,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Maine,ME,governor,General,FiftyPlusOne,through 2026-10-05,,2026-10-05,,Bobby Charles,R,38.3%,False,"through October 5, 2026",
 2026,Maine,ME,governor,General,RealClearPolitics,2026-09-02 to 2026-10-05,2026-09-02,2026-10-05,,Bobby Charles,R,38.4%,False,"September 2 – October 5, 2026",
 2026,Maine,ME,governor,General,Silver Bulletin,through 2026-10-05,,2026-10-05,,Bobby Charles,R,38.9%,False,"through October 5, 2026",
+2026,Maine,ME,governor,General,Suffolk University,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,500 (LV),Bobby Charles,R,38%,False,"October 8–11, 2026",4.4
 2026,Maine,ME,governor,General,The Washington Post,2026-09-30 to 2026-10-05,2026-09-30,2026-10-05,800 (LV),Bobby Charles,R,36%,False,"September 30 – October 5, 2026",3.6
 2026,Maine,ME,governor,General,Marist University,2026-10-01 to 2026-10-04,2026-10-01,2026-10-04,"1,505 (RV)",Bobby Charles,R,40%,False,"October 1–4, 2026",3.8
 2026,Maine,ME,governor,General,CBS,2026-09-23 to 2026-10-01,2026-09-23,2026-10-01,"1,133 (LV)",Bobby Charles,R,44%,False,"September 23 – October 1, 2026",4.7
@@ -15853,6 +15861,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Maine,ME,governor,General,Fox News,2026-06-23 to 2026-06-27,2026-06-23,2026-06-27,"1,003 (RV)",Bobby Charles,R,42%,False,"June 23–27, 2026",3.0
 2026,Maine,ME,governor,General,270toWin,2026-10-01 to 2026-10-10,2026-10-01,2026-10-10,,Rick Bennett,I,37.4%,False,"access-date=October 10, 2026}}",
 2026,Maine,ME,governor,General,FiftyPlusOne,through 2026-10-05,,2026-10-05,,Rick Bennett,I,6.4%,False,"through October 5, 2026",
+2026,Maine,ME,governor,General,Suffolk University,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,500 (LV),Rick Bennett,I,8%,False,"October 8–11, 2026",4.4
 2026,Maine,ME,governor,General,The Washington Post,2026-09-30 to 2026-10-05,2026-09-30,2026-10-05,800 (LV),Rick Bennett,I,11%,False,"September 30 – October 5, 2026",3.6
 2026,Maine,ME,governor,General,Marist University,2026-10-01 to 2026-10-04,2026-10-01,2026-10-04,"1,505 (RV)",Rick Bennett,I,6%,False,"October 1–4, 2026",3.8
 2026,Maine,ME,governor,General,(R),2026-09-28 to 2026-09-30,2026-09-28,2026-09-30,"1,240 (LV)",Rick Bennett,I,6%,False,"September 28–30, 2026",2.77
@@ -16122,6 +16131,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Michigan,MI,governor,General,Glengariff Group,2025-05-05 to 2025-05-08,2025-05-05,2025-05-08,600 (RV),Aric Nesbitt,R,26%,False,"May 5−8, 2025",4.0
 2026,Michigan,MI,governor,General,Glengariff Group,2025-05-05 to 2025-05-08,2025-05-05,2025-05-08,600 (RV),Garlin Gilchrist,D,29%,False,"May 5−8, 2025",4.0
 2026,Michigan,MI,governor,General,Plymouth Union Public (R),2025-10-08 to 2025-10-09,2025-10-08,2025-10-09,600 (LV),Generic Democrat,Unknown,31%,False,"October 8−9, 2025",
+2026,Minnesota,MN,attorney general,General,KSTP,2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,718 (LV),Keith Ellison (DFL),Unknown,45%,False,"October 8–12, 2026",4.2
 2026,Minnesota,MN,attorney general,General,Mason-Dixon Polling & Strategy,2026-10-05 to 2026-10-07,2026-10-05,2026-10-07,800 (LV),Keith Ellison (DFL),Unknown,48%,False,"October 5–7, 2026",3.5
 2026,Minnesota,MN,attorney general,General,Morning Consult,2026-09-30,2026-09-30,2026-09-30,"October 2–7, 2026",Keith Ellison (DFL),Unknown,±3.1%,False,"date=September 30, 2026}}",
 2026,Minnesota,MN,attorney general,General,KTSP,2026-09-09 to 2026-09-14,2026-09-09,2026-09-14,654 (LV),Keith Ellison (DFL),Unknown,43%,False,"September 9–14, 2026",4.4
@@ -16129,6 +16139,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Minnesota,MN,attorney general,General,KSTP,2026-07-29 to 2026-08-04,2026-07-29,2026-08-04,"1,435 (LV)",Keith Ellison (DFL),Unknown,44%,False,"July 29 – August 4, 2026",3.2
 2026,Minnesota,MN,attorney general,General,KSTP,2026-07-15 to 2026-07-20,2026-07-15,2026-07-20,"1,387 (LV)",Keith Ellison (DFL),Unknown,42%,False,"July 15–20, 2026",3.1
 2026,Minnesota,MN,attorney general,General,KSTP,2026-06-01 to 2026-06-19,2026-06-01,2026-06-19,"June 11–16, 2026",Keith Ellison (DFL),Unknown,± 3.1%,False,"access-date=June 19, 2026}}",
+2026,Minnesota,MN,attorney general,General,KSTP,2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,718 (LV),Ron Schutz,R,44%,False,"October 8–12, 2026",4.2
 2026,Minnesota,MN,attorney general,General,Mason-Dixon Polling & Strategy,2026-10-05 to 2026-10-07,2026-10-05,2026-10-07,800 (LV),Ron Schutz,R,40%,False,"October 5–7, 2026",3.5
 2026,Minnesota,MN,attorney general,General,Morning Consult,2026-09-30,2026-09-30,2026-09-30,"October 2–7, 2026",Ron Schutz,R,43%,False,"date=September 30, 2026}}",
 2026,Minnesota,MN,attorney general,General,KTSP,2026-09-09 to 2026-09-14,2026-09-09,2026-09-14,654 (LV),Ron Schutz,R,45%,False,"September 9–14, 2026",4.4
@@ -16141,6 +16152,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Minnesota,MN,secretary of state,General,KSTP,2026-09-09 to 2026-09-14,2026-09-09,2026-09-14,654 (LV),Tad Jude,R,36%,False,"September 9–14, 2026",4.4
 2026,Minnesota,MN,governor,General,RealClearPolitics,2026-08-31 to 2026-10-07,2026-08-31,2026-10-07,,Amy Klobuchar (DFL),Unknown,48.4%,False,"August 31 – October 7, 2026",
 2026,Minnesota,MN,governor,General,Silver Bulletin,through 2026-10-07,,2026-10-07,,Amy Klobuchar (DFL),Unknown,49.4%,False,"through October 7, 2026",
+2026,Minnesota,MN,governor,General,KSTP,2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,718 (LV),Amy Klobuchar (DFL),Unknown,48%,False,"October 8–12, 2026",4.2
 2026,Minnesota,MN,governor,General,KARE 11,2026-10-05 to 2026-10-07,2026-10-05,2026-10-07,800 (LV),Amy Klobuchar (DFL),Unknown,50%,False,"October 5–7, 2026",3.5
 2026,Minnesota,MN,governor,General,Morning Consult,2026-09-30,2026-09-30,2026-09-30,"October 2–7, 2026",Amy Klobuchar (DFL),Unknown,±3.1%,False,"date=September 30, 2026}}",
 2026,Minnesota,MN,governor,General,(R),2026-09-14 to 2026-09-15,2026-09-14,2026-09-15,833 (LV),Amy Klobuchar (DFL),Unknown,47%,False,"September 14–15, 2026",3.4
@@ -16157,6 +16169,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Minnesota,MN,governor,General,SurveyUSA,2026-01-27 to 2026-01-30,2026-01-27,2026-01-30,575 (RV),Amy Klobuchar (DFL),Unknown,48%,False,"January 27–30, 2026",4.8
 2026,Minnesota,MN,governor,General,RealClearPolitics,2026-08-31 to 2026-10-07,2026-08-31,2026-10-07,,Lisa Demuth,R,41.0%,False,"August 31 – October 7, 2026",
 2026,Minnesota,MN,governor,General,Silver Bulletin,through 2026-10-07,,2026-10-07,,Lisa Demuth,R,40.5%,False,"through October 7, 2026",
+2026,Minnesota,MN,governor,General,KSTP,2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,718 (LV),Lisa Demuth,R,41%,False,"October 8–12, 2026",4.2
 2026,Minnesota,MN,governor,General,KARE 11,2026-10-05 to 2026-10-07,2026-10-05,2026-10-07,800 (LV),Lisa Demuth,R,41%,False,"October 5–7, 2026",3.5
 2026,Minnesota,MN,governor,General,Morning Consult,2026-09-30,2026-09-30,2026-09-30,"October 2–7, 2026",Lisa Demuth,R,48%,False,"date=September 30, 2026}}",
 2026,Minnesota,MN,governor,General,(R),2026-09-14 to 2026-09-15,2026-09-14,2026-09-15,833 (LV),Lisa Demuth,R,45%,False,"September 14–15, 2026",3.4
@@ -16657,6 +16670,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Tennessee,TN,governor,General,TargetSmart,2026-09-09 to 2026-09-12,2026-09-09,2026-09-12,600 (LV),David Hatley,I,10%,False,"September 9–12, 2026",4.0
 2026,Tennessee,TN,governor,General,TargetSmart,2026-09-09 to 2026-09-12,2026-09-09,2026-09-12,600 (LV),Lauren Pinkston,I,2%,False,"September 9–12, 2026",4.0
 2026,Tennessee,TN,governor,General,Quantus Insights (R),2025-08-05 to 2025-08-07,2025-08-05,2025-08-07,600 (RV),John Rose,R,43%,False,"August 5–7, 2025",3.5
+2026,Texas,TX,attorney general,General,University of Texas,2026-09-25 to 2026-10-05,2026-09-25,2026-10-05,861 (LV),Mayes Middleton,R,47%,False,"September 25 – October 5, 2026",3.3
 2026,Texas,TX,attorney general,General,Politico,2026-09-22 to 2026-09-24,2026-09-22,2026-09-24,865 (LV),Mayes Middleton,R,47%,False,"September 22–24, 2026",3.5
 2026,Texas,TX,attorney general,General,Texas Public Opinion Research,2026-09-19 to 2026-09-22,2026-09-19,2026-09-22,"1,007 (LV)",Mayes Middleton,R,46%,False,"September 19–22, 2026",3.6
 2026,Texas,TX,attorney general,General,Texas Southern University,2026-09-15 to 2026-09-19,2026-09-15,2026-09-19,"1,800 (LV)",Mayes Middleton,R,47%,False,"September 15–19, 2026",2.3
@@ -16669,6 +16683,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Texas,TX,attorney general,General,University of Texas,2026-06-05 to 2026-06-12,2026-06-05,2026-06-12,"1,200 (RV)",Mayes Middleton,R,41%,False,"June 5–12, 2026",3.47
 2026,Texas,TX,attorney general,General,Texas A&M University,2026-06-01 to 2026-06-04,2026-06-01,2026-06-04,807 (LV),Mayes Middleton,R,45%,False,"June 1–4, 2026",4.0
 2026,Texas,TX,attorney general,General,Texas Public Opinion Research,2026-05-27 to 2026-05-28,2026-05-27,2026-05-28,"1,670 (LV)",Mayes Middleton,R,44%,False,"May 27–28, 2026",2.8
+2026,Texas,TX,attorney general,General,University of Texas,2026-09-25 to 2026-10-05,2026-09-25,2026-10-05,861 (LV),Nathan Johnson,D,48%,False,"September 25 – October 5, 2026",3.3
 2026,Texas,TX,attorney general,General,Politico,2026-09-22 to 2026-09-24,2026-09-22,2026-09-24,865 (LV),Nathan Johnson,D,42%,False,"September 22–24, 2026",3.5
 2026,Texas,TX,attorney general,General,Texas Public Opinion Research,2026-09-19 to 2026-09-22,2026-09-19,2026-09-22,"1,007 (LV)",Nathan Johnson,D,43%,False,"September 19–22, 2026",3.6
 2026,Texas,TX,attorney general,General,Texas Southern University,2026-09-15 to 2026-09-19,2026-09-15,2026-09-19,"1,800 (LV)",Nathan Johnson,D,42%,False,"September 15–19, 2026",2.3
@@ -16686,14 +16701,15 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Texas,TX,attorney general,General,Texas Public Opinion Research,2025-08-27 to 2025-08-29,2025-08-27,2025-08-29,843 (RV),Generic Republican,Unknown,47%,False,"August 27–29, 2025",4.6
 2026,Texas,TX,attorney general,General,Texas Public Opinion Research,2025-08-27 to 2025-08-29,2025-08-27,2025-08-29,843 (RV),Generic Democrat,Unknown,44%,False,"August 27–29, 2025",4.6
 2026,Texas,TX,governor,General,270toWin,2026-09-15 to 2026-10-08,2026-09-15,2026-10-08,,Greg Abbott,R,49.0%,True,"September 15 – October 8, 2026",
-2026,Texas,TX,governor,General,Decision Desk HQ,through 2026-10-08,,2026-10-08,,Greg Abbott,R,47.4%,True,"through October 8, 2026",
-2026,Texas,TX,governor,General,FiftyPlusOne,through 2026-10-08,,2026-10-08,,Greg Abbott,R,48.2%,True,"through October 8, 2026",
-2026,Texas,TX,governor,General,RealClearPolitics,2026-09-15 to 2026-10-08,2026-09-15,2026-10-08,,Greg Abbott,R,48.3%,True,"September 15 – October 8, 2026",
-2026,Texas,TX,governor,General,Silver Bulletin,through 2026-10-05,,2026-10-05,,Greg Abbott,R,48.4%,True,"through October 5, 2026",
+2026,Texas,TX,governor,General,Decision Desk HQ,through 2026-10-11,,2026-10-11,,Greg Abbott,R,47.8%,True,"through October 11, 2026",
+2026,Texas,TX,governor,General,FiftyPlusOne,through 2026-10-11,,2026-10-11,,Greg Abbott,R,48.3%,True,"through October 11, 2026",
+2026,Texas,TX,governor,General,RealClearPolitics,2026-09-15 to 2026-10-11,2026-09-15,2026-10-11,,Greg Abbott,R,48.6%,True,"September 15 – October 11, 2026",
+2026,Texas,TX,governor,General,Silver Bulletin,through 2026-10-11,,2026-10-11,,Greg Abbott,R,48.5%,True,"through October 11, 2026",
 2026,Texas,TX,governor,General,Marist University,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,(LV),Greg Abbott,R,49%,True,"October 8–11, 2026",4.9
 2026,Texas,TX,governor,General,GBAO (D),2026-10-05 to 2026-10-08,2026-10-05,2026-10-08,800 (LV),Greg Abbott,R,45%,True,"October 5–8, 2026",3.5
 2026,Texas,TX,governor,General,Siena University,2026-10-05 to 2026-10-08,2026-10-05,2026-10-08,617 (LV),Greg Abbott,R,48%,True,"October 5–8, 2026",4.4
 2026,Texas,TX,governor,General,YouGov,2026-09-28 to 2026-10-05,2026-09-28,2026-10-05,"3,625 (LV)",Greg Abbott,R,47%,True,"September 28 – October 5, 2026",3.0
+2026,Texas,TX,governor,General,University of Texas,2026-09-25 to 2026-10-05,2026-09-25,2026-10-05,861 (LV),Greg Abbott,R,48%,True,"September 25 – October 5, 2026",3.3
 2026,Texas,TX,governor,General,New York Times,2026-09-22 to 2026-10-01,2026-09-22,2026-10-01,615 (LV),Greg Abbott,R,46%,True,"September 22 – October 1, 2026",2.1
 2026,Texas,TX,governor,General,Fox News,2026-09-24 to 2026-09-28,2026-09-24,2026-09-28,"1,005 (LV)",Greg Abbott,R,52%,True,"September 24–28, 2026",3.0
 2026,Texas,TX,governor,General,The New York Times,2026-09-20 to 2026-09-28,2026-09-20,2026-09-28,800 (LV),Greg Abbott,R,46%,True,"September 20–28, 2026",3.5
@@ -16737,14 +16753,15 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Texas,TX,governor,General,Emerson College,2026-01-10 to 2026-01-12,2026-01-10,2026-01-12,"1,165 (RV)",Greg Abbott,R,50%,True,"January 10–12, 2026",2.8
 2026,Texas,TX,governor,General,UT Tyler,2026-02-13 to 2026-02-22,2026-02-13,2026-02-22,"1,117 (RV)",Greg Abbott,R,51%,True,"February 13–22, 2026",3.1
 2026,Texas,TX,governor,General,270toWin,2026-09-15 to 2026-10-08,2026-09-15,2026-10-08,,Gina Hinojosa,D,46.8%,False,"September 15 – October 8, 2026",
-2026,Texas,TX,governor,General,Decision Desk HQ,through 2026-10-08,,2026-10-08,,Gina Hinojosa,D,47.0%,False,"through October 8, 2026",
-2026,Texas,TX,governor,General,FiftyPlusOne,through 2026-10-08,,2026-10-08,,Gina Hinojosa,D,46.2%,False,"through October 8, 2026",
-2026,Texas,TX,governor,General,RealClearPolitics,2026-09-15 to 2026-10-08,2026-09-15,2026-10-08,,Gina Hinojosa,D,46.6%,False,"September 15 – October 8, 2026",
-2026,Texas,TX,governor,General,Silver Bulletin,through 2026-10-05,,2026-10-05,,Gina Hinojosa,D,46.8%,False,"through October 5, 2026",
+2026,Texas,TX,governor,General,Decision Desk HQ,through 2026-10-11,,2026-10-11,,Gina Hinojosa,D,46.9%,False,"through October 11, 2026",
+2026,Texas,TX,governor,General,FiftyPlusOne,through 2026-10-11,,2026-10-11,,Gina Hinojosa,D,46.1%,False,"through October 11, 2026",
+2026,Texas,TX,governor,General,RealClearPolitics,2026-09-15 to 2026-10-11,2026-09-15,2026-10-11,,Gina Hinojosa,D,46.4%,False,"September 15 – October 11, 2026",
+2026,Texas,TX,governor,General,Silver Bulletin,through 2026-10-11,,2026-10-11,,Gina Hinojosa,D,46.2%,False,"through October 11, 2026",
 2026,Texas,TX,governor,General,Marist University,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,(LV),Gina Hinojosa,D,45%,False,"October 8–11, 2026",4.9
 2026,Texas,TX,governor,General,GBAO (D),2026-10-05 to 2026-10-08,2026-10-05,2026-10-08,800 (LV),Gina Hinojosa,D,47%,False,"October 5–8, 2026",3.5
 2026,Texas,TX,governor,General,Siena University,2026-10-05 to 2026-10-08,2026-10-05,2026-10-08,617 (LV),Gina Hinojosa,D,47%,False,"October 5–8, 2026",4.4
 2026,Texas,TX,governor,General,YouGov,2026-09-28 to 2026-10-05,2026-09-28,2026-10-05,"3,625 (LV)",Gina Hinojosa,D,48%,False,"September 28 – October 5, 2026",3.0
+2026,Texas,TX,governor,General,University of Texas,2026-09-25 to 2026-10-05,2026-09-25,2026-10-05,861 (LV),Gina Hinojosa,D,49%,False,"September 25 – October 5, 2026",3.3
 2026,Texas,TX,governor,General,New York Times,2026-09-22 to 2026-10-01,2026-09-22,2026-10-01,615 (LV),Gina Hinojosa,D,49%,False,"September 22 – October 1, 2026",2.1
 2026,Texas,TX,governor,General,Fox News,2026-09-24 to 2026-09-28,2026-09-24,2026-09-28,"1,005 (LV)",Gina Hinojosa,D,47%,False,"September 24–28, 2026",3.0
 2026,Texas,TX,governor,General,The New York Times,2026-09-20 to 2026-09-28,2026-09-20,2026-09-28,800 (LV),Gina Hinojosa,D,44%,False,"September 20–28, 2026",3.5

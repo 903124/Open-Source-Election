@@ -4205,6 +4205,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Candidate,Therese Terlaje,Democratic,,,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Candidate,Vicente Ada,Republican,,,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Total,,,,,False,False
+2026,Hawaii,HI,governor,2026 Hawaii gubernatorial election,Candidate,Josh Green,Democratic,,,False,True
+2026,Hawaii,HI,governor,2026 Hawaii gubernatorial election,Candidate,Gary Cordery,Republican,,,False,False
+2026,Hawaii,HI,governor,2026 Hawaii gubernatorial election,Total,,,,100.0,False,False
 2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Candidate,Kwame Raoul,Democratic,,,False,True
 2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Candidate,Bob Fioretti,Republican,,,False,False
 2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Total,,,,100.0,False,False
@@ -4252,12 +4255,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Total,,,,100.0,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,Anthony Brown,Democratic,,,False,True
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,James B. Rutledge III,Republican,,,False,False
-2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Total,,,,,False,False
+2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Total,,,,100.0,False,False
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Wes Moore,Democratic,,,False,True
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,,,False,False
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,,,False,False
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,,,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,,,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,,100.0,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Andrea Campbell,Democratic,,,False,True
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Michael Walsh,Republican,,,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Total,,,,100.0,False,False
