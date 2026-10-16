@@ -4109,9 +4109,15 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2025,Virginia,VA,governor,2025 Virginia gubernatorial election,Candidate,Winsome Earle-Sears,Republican,1449586,42.22,False,False
 2025,Virginia,VA,governor,2025 Virginia gubernatorial election,Write-in,,,6897,0.2,False,False
 2025,Virginia,VA,governor,2025 Virginia gubernatorial election,Total,,,3433340,100.0,False,False
+2026,Alabama,AL,attorney general,2026 Alabama Attorney General election,Candidate,Katherine Robertson,Republican,,,False,False
+2026,Alabama,AL,attorney general,2026 Alabama Attorney General election,Candidate,Jeff McLaughlin,Democratic,,,False,False
+2026,Alabama,AL,attorney general,2026 Alabama Attorney General election,Total,,,,100.0,False,False
 2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Candidate,Caroleene Dobson,Republican,,,False,False
 2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Candidate,Wayne Rogers,Democratic,,,False,False
 2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Total,,,,100.0,False,False
+2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Candidate,Young Boozer,Republican,,,False,True
+2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Candidate,Rosilyn Houston,Democratic,,,False,False
+2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Total,,,,100.0,False,False
 2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Candidate,Tommy Tuberville,Republican,,,False,False
 2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Candidate,Doug Jones,Democratic,,,False,False
 2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Total,,,,100.0,False,False
