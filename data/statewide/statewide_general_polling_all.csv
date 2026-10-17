@@ -15557,10 +15557,10 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Connecticut,CT,governor,General,RealClearPolitics,2026-09-01 to 2026-10-12,2026-09-01,2026-10-12,,Ned Lamont,D,52.8%,True,"September 1 – October 12, 2026",
 2026,Connecticut,CT,governor,General,Silver Bulletin,through 2026-10-12,,2026-10-12,,Ned Lamont,D,53.7%,True,"through October 12, 2026",
 2026,Connecticut,CT,governor,General,Emerson College,2026-10-10 to 2026-10-12,2026-10-10,2026-10-12,800 (LV),Ned Lamont,D,51%,True,"October 10–12, 2026",3.5
-2026,Connecticut,CT,governor,General,Quinnipiac University Polling Institute,2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,"1,225 (LV)",Ned Lamont,D,58%,True,"October 8–12, 2026",3.8
+2026,Connecticut,CT,governor,General,Quinnipiac University,2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,"1,225 (LV)",Ned Lamont,D,58%,True,"October 8–12, 2026",3.8
 2026,Connecticut,CT,governor,General,University of New Hampshire,2026-09-17 to 2026-09-21,2026-09-17,2026-09-21,540 (LV),Ned Lamont,D,55%,True,"September 17–21, 2026",4.2
 2026,Connecticut,CT,governor,General,(R),2026-09-16 to 2026-09-17,2026-09-16,2026-09-17,979 (LV),Ned Lamont,D,48%,True,"September 16–17, 2026",3.1
-2026,Connecticut,CT,governor,General,Quinnipiac University Polling Institute,2026-09-08 to 2026-09-14,2026-09-08,2026-09-14,"1,288 (LV)",Ned Lamont,D,55%,True,"September 8–14, 2026",3.8
+2026,Connecticut,CT,governor,General,Quinnipiac University,2026-09-08 to 2026-09-14,2026-09-08,2026-09-14,"1,288 (LV)",Ned Lamont,D,55%,True,"September 8–14, 2026",3.8
 2026,Connecticut,CT,governor,General,CT Insider,2026-09-01 to 2026-09-08,2026-09-01,2026-09-08,"1,000 (RV)",Ned Lamont,D,48%,True,"September 1–8, 2026",3.1
 2026,Connecticut,CT,governor,General,University of New Hampshire,2026-08-20 to 2026-08-24,2026-08-20,2026-08-24,809 (LV),Ned Lamont,D,52%,True,"August 20–24, 2026",3.4
 2026,Connecticut,CT,governor,General,Sacred Heart University,2026-07-21 to 2026-07-26,2026-07-21,2026-07-26,"1,000 (RV)",Ned Lamont,D,50%,True,"July 21–26, 2026",3.1
@@ -15570,10 +15570,10 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Connecticut,CT,governor,General,RealClearPolitics,2026-09-01 to 2026-10-12,2026-09-01,2026-10-12,,Ryan Fazio,R,38.4%,False,"September 1 – October 12, 2026",
 2026,Connecticut,CT,governor,General,Silver Bulletin,through 2026-10-12,,2026-10-12,,Ryan Fazio,R,38.2%,False,"through October 12, 2026",
 2026,Connecticut,CT,governor,General,Emerson College,2026-10-10 to 2026-10-12,2026-10-10,2026-10-12,800 (LV),Ryan Fazio,R,38%,False,"October 10–12, 2026",3.5
-2026,Connecticut,CT,governor,General,Quinnipiac University Polling Institute,2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,"1,225 (LV)",Ryan Fazio,R,38%,False,"October 8–12, 2026",3.8
+2026,Connecticut,CT,governor,General,Quinnipiac University,2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,"1,225 (LV)",Ryan Fazio,R,38%,False,"October 8–12, 2026",3.8
 2026,Connecticut,CT,governor,General,University of New Hampshire,2026-09-17 to 2026-09-21,2026-09-17,2026-09-21,540 (LV),Ryan Fazio,R,38%,False,"September 17–21, 2026",4.2
 2026,Connecticut,CT,governor,General,(R),2026-09-16 to 2026-09-17,2026-09-16,2026-09-17,979 (LV),Ryan Fazio,R,41%,False,"September 16–17, 2026",3.1
-2026,Connecticut,CT,governor,General,Quinnipiac University Polling Institute,2026-09-08 to 2026-09-14,2026-09-08,2026-09-14,"1,288 (LV)",Ryan Fazio,R,38%,False,"September 8–14, 2026",3.8
+2026,Connecticut,CT,governor,General,Quinnipiac University,2026-09-08 to 2026-09-14,2026-09-08,2026-09-14,"1,288 (LV)",Ryan Fazio,R,38%,False,"September 8–14, 2026",3.8
 2026,Connecticut,CT,governor,General,CT Insider,2026-09-01 to 2026-09-08,2026-09-01,2026-09-08,"1,000 (RV)",Ryan Fazio,R,34%,False,"September 1–8, 2026",3.1
 2026,Connecticut,CT,governor,General,University of New Hampshire,2026-08-20 to 2026-08-24,2026-08-20,2026-08-24,809 (LV),Ryan Fazio,R,37%,False,"August 20–24, 2026",3.4
 2026,Connecticut,CT,governor,General,Sacred Heart University,2026-07-21 to 2026-07-26,2026-07-21,2026-07-26,"1,000 (RV)",Ryan Fazio,R,30%,False,"July 21–26, 2026",3.1
@@ -15723,16 +15723,22 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Illinois,IL,governor,General,WFLD,2025-11-20 to 2025-11-24,2025-11-20,2025-11-24,"1,208 (LV)",JB Pritzker,D,54%,True,"November 20–24, 2025",2.8
 2026,Illinois,IL,governor,General,Public Policy Polling,2026-09-30 to 2026-10-01,2026-09-30,2026-10-01,569 (LV),Darren Bailey,R,34%,False,"September 30 – October 1, 2026",
 2026,Illinois,IL,governor,General,WFLD,2025-11-20 to 2025-11-24,2025-11-20,2025-11-24,"1,208 (LV)",Darren Bailey,R,34%,False,"November 20–24, 2025",2.8
+2026,Indiana,IN,secretary of state,General,Bellwether Research,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,896 (LV),Max Engling,R,35%,False,"October 8–11, 2026",3.5
 2026,Indiana,IN,secretary of state,General,The Tarrance Group (R),2026-09-27 to 2026-09-30,2026-09-27,2026-09-30,600 (LV),Max Engling,R,38%,False,"September 27–30, 2026",4.1
+2026,Indiana,IN,secretary of state,General,Bellwether Research,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,896 (LV),Beau Bayh,D,43%,False,"October 8–11, 2026",3.5
 2026,Indiana,IN,secretary of state,General,The Tarrance Group (R),2026-09-27 to 2026-09-30,2026-09-27,2026-09-30,600 (LV),Beau Bayh,D,37%,False,"September 27–30, 2026",4.1
 2026,Indiana,IN,secretary of state,General,InAct LLC,2025-10-24 to 2025-11-01,2025-10-24,2025-11-01,400 (LV),Beau Bayh,D,32%,False,"October 24 – November 1, 2025",4.9
+2026,Indiana,IN,secretary of state,General,Bellwether Research,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,896 (LV),Greg Ballard,I,5%,False,"October 8–11, 2026",3.5
 2026,Indiana,IN,secretary of state,General,The Tarrance Group (R),2026-09-27 to 2026-09-30,2026-09-27,2026-09-30,600 (LV),Greg Ballard,I,5%,False,"September 27–30, 2026",4.1
 2026,Indiana,IN,secretary of state,General,InAct LLC,2025-10-24 to 2025-11-01,2025-10-24,2025-11-01,400 (LV),Greg Ballard,I,24%,False,"October 24 – November 1, 2025",4.9
+2026,Indiana,IN,secretary of state,General,Bellwether Research,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,896 (LV),Lauri Shillings,L,6%,False,"October 8–11, 2026",3.5
 2026,Indiana,IN,secretary of state,General,The Tarrance Group (R),2026-09-27 to 2026-09-30,2026-09-27,2026-09-30,600 (LV),Lauri Shillings,L,6%,False,"September 27–30, 2026",4.1
 2026,Indiana,IN,secretary of state,General,InAct LLC,2025-10-24 to 2025-11-01,2025-10-24,2025-11-01,400 (LV),Diego Morales,R,29%,True,"October 24 – November 1, 2025",4.9
 2026,Indiana,IN,secretary of state,General,InAct LLC,2025-10-24 to 2025-11-01,2025-10-24,2025-11-01,400 (LV),Generic Republican,Unknown,44%,False,"October 24 – November 1, 2025",4.9
 2026,Indiana,IN,secretary of state,General,InAct LLC,2025-10-24 to 2025-11-01,2025-10-24,2025-11-01,400 (LV),Generic Democrat,Unknown,34%,False,"October 24 – November 1, 2025",4.9
 2026,Indiana,IN,secretary of state,General,InAct LLC,2025-10-24 to 2025-11-01,2025-10-24,2025-11-01,400 (LV),Generic Independent,Unknown,10%,False,"October 24 – November 1, 2025",4.9
+2026,Indiana,IN,state treasurer,General,Bellwether Research,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,896 (LV),Daniel Elliott,R,43%,True,"October 8-11, 2026",3.5
+2026,Indiana,IN,state treasurer,General,Bellwether Research,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,896 (LV),Coumba Kebe,D,38%,False,"October 8-11, 2026",3.5
 2026,Iowa,IA,attorney general,General,Cygnal (R),2026-09-09 to 2026-09-11,2026-09-09,2026-09-11,500 (LV),Brenna Bird,R,40%,True,"September 9–11, 2026",4.38
 2026,Iowa,IA,attorney general,General,Cygnal (R),2026-06-16 to 2026-06-19,2026-06-16,2026-06-19,600 (LV),Brenna Bird,R,44%,True,"June 16–19, 2026",4.0
 2026,Iowa,IA,attorney general,General,Global Strategy Group,2026-04-06 to 2026-04-09,2026-04-06,2026-04-09,600 (LV),Brenna Bird,R,45%,True,"April 6–9, 2026",4.0
@@ -16456,10 +16462,11 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Ohio,OH,attorney general,General,DocumentCloud,2026-07-29 to 2026-08-04,2026-07-29,2026-08-04,600 (LV),John Kulewicz,D,36%,False,"July 29 – August 4, 2026",4.0
 2026,Ohio,OH,attorney general,General,Twitter,2026-06-02 to 2026-06-04,2026-06-02,2026-06-04,600 (LV),John Kulewicz,D,34%,False,"June 2–4, 2026",4.0
 2026,Ohio,OH,governor,General,270toWin,2026-09-16 to 2026-10-04,2026-09-16,2026-10-04,,Vivek Ramaswamy,R,43.8%,False,"September 16 – October 4, 2026",
-2026,Ohio,OH,governor,General,Decision Desk HQ,through 2026-10-06,,2026-10-06,,Vivek Ramaswamy,R,43.6%,False,"through October 6, 2026",
-2026,Ohio,OH,governor,General,FiftyPlusOne,through 2026-10-06,,2026-10-06,,Vivek Ramaswamy,R,44.2%,False,"through October 6, 2026",
-2026,Ohio,OH,governor,General,RealClearPolitics,2026-09-01 to 2026-10-06,2026-09-01,2026-10-06,,Vivek Ramaswamy,R,44.3%,False,"September 1 – October 6, 2026",
-2026,Ohio,OH,governor,General,Silver Bulletin,through 2026-10-05,,2026-10-05,,Vivek Ramaswamy,R,44.4%,False,"through October 5, 2026",
+2026,Ohio,OH,governor,General,Decision Desk HQ,through 2026-10-09,,2026-10-09,,Vivek Ramaswamy,R,43.6%,False,"through October 9, 2026",
+2026,Ohio,OH,governor,General,FiftyPlusOne,through 2026-10-09,,2026-10-09,,Vivek Ramaswamy,R,43.9%,False,"through October 9, 2026",
+2026,Ohio,OH,governor,General,RealClearPolitics,2026-09-18 to 2026-10-09,2026-09-18,2026-10-09,,Vivek Ramaswamy,R,44.1%,False,"September 18 – October 9, 2026",
+2026,Ohio,OH,governor,General,Silver Bulletin,through 2026-10-06,,2026-10-06,,Vivek Ramaswamy,R,44.5%,False,"through October 6, 2026",
+2026,Ohio,OH,governor,General,Bowling Green State University,2026-09-29 to 2026-10-09,2026-09-29,2026-10-09,"1,000 (LV)",Vivek Ramaswamy,R,44%,False,"September 29 – October 9, 2026",4.0
 2026,Ohio,OH,governor,General,(R),2026-10-05 to 2026-10-06,2026-10-05,2026-10-06,925 (LV),Vivek Ramaswamy,R,45%,False,"October 5–6, 2026",3.5
 2026,Ohio,OH,governor,General,DocumentCloud,2026-09-29 to 2026-10-05,2026-09-29,2026-10-05,760 (LV),Vivek Ramaswamy,R,42%,False,"September 29 – October 5, 2026",4.5
 2026,Ohio,OH,governor,General,New York Times,2026-09-22 to 2026-10-01,2026-09-22,2026-10-01,616 (LV),Vivek Ramaswamy,R,45%,False,"September 22 – October 1, 2026",4.5
@@ -16491,10 +16498,11 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Ohio,OH,governor,General,Bowling Green State University,2025-04-18 to 2025-04-24,2025-04-18,2025-04-24,800 (RV),Vivek Ramaswamy,R,51%,False,"April 18–24, 2025",4.1
 2026,Ohio,OH,governor,General,Public Policy Polling,2025-02-19 to 2025-02-20,2025-02-19,2025-02-20,642 (RV),Vivek Ramaswamy,R,48%,False,"February 19–20, 2025",3.9
 2026,Ohio,OH,governor,General,270toWin,2026-09-16 to 2026-10-04,2026-09-16,2026-10-04,,Amy Acton,D,49.3%,False,"September 16 – October 4, 2026",
-2026,Ohio,OH,governor,General,Decision Desk HQ,through 2026-10-06,,2026-10-06,,Amy Acton,D,47.8%,False,"through October 6, 2026",
-2026,Ohio,OH,governor,General,FiftyPlusOne,through 2026-10-06,,2026-10-06,,Amy Acton,D,48.3%,False,"through October 6, 2026",
-2026,Ohio,OH,governor,General,RealClearPolitics,2026-09-01 to 2026-10-06,2026-09-01,2026-10-06,,Amy Acton,D,48.1%,False,"September 1 – October 6, 2026",
-2026,Ohio,OH,governor,General,Silver Bulletin,through 2026-10-05,,2026-10-05,,Amy Acton,D,49.5%,False,"through October 5, 2026",
+2026,Ohio,OH,governor,General,Decision Desk HQ,through 2026-10-09,,2026-10-09,,Amy Acton,D,48.3%,False,"through October 9, 2026",
+2026,Ohio,OH,governor,General,FiftyPlusOne,through 2026-10-09,,2026-10-09,,Amy Acton,D,48.6%,False,"through October 9, 2026",
+2026,Ohio,OH,governor,General,RealClearPolitics,2026-09-18 to 2026-10-09,2026-09-18,2026-10-09,,Amy Acton,D,48.4%,False,"September 18 – October 9, 2026",
+2026,Ohio,OH,governor,General,Silver Bulletin,through 2026-10-06,,2026-10-06,,Amy Acton,D,48.5%,False,"through October 6, 2026",
+2026,Ohio,OH,governor,General,Bowling Green State University,2026-09-29 to 2026-10-09,2026-09-29,2026-10-09,"1,000 (LV)",Amy Acton,D,50%,False,"September 29 – October 9, 2026",4.0
 2026,Ohio,OH,governor,General,(R),2026-10-05 to 2026-10-06,2026-10-05,2026-10-06,925 (LV),Amy Acton,D,43%,False,"October 5–6, 2026",3.5
 2026,Ohio,OH,governor,General,DocumentCloud,2026-09-29 to 2026-10-05,2026-09-29,2026-10-05,760 (LV),Amy Acton,D,50%,False,"September 29 – October 5, 2026",4.5
 2026,Ohio,OH,governor,General,New York Times,2026-09-22 to 2026-10-01,2026-09-22,2026-10-01,616 (LV),Amy Acton,D,49%,False,"September 22 – October 1, 2026",4.5
@@ -16664,6 +16672,8 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,South Carolina,SC,governor,General,FITSNews,2026-09-29 to 2026-10-03,2026-09-29,2026-10-03,638 (RV),Jermaine Johnson,D,35%,False,"September 29 – October 3, 2026",3.7
 2026,South Carolina,SC,governor,General,Washington Examiner,2026-08-12 to 2026-08-15,2026-08-12,2026-08-15,600 (V),Jermaine Johnson,D,42%,False,"August 12–15, 2026",
 2026,South Carolina,SC,governor,General,Public Policy Polling,2026-07-16 to 2026-07-17,2026-07-16,2026-07-17,577 (V),Jermaine Johnson,D,37%,False,"July 16–17, 2026",
+2026,South Dakota,SD,governor,General,Democrats for Education Reform,2026-10-06 to 2026-10-08,2026-10-06,2026-10-08,400 (LV),Larry Rhoden,R,48%,True,"October 6–8, 2026",4.9
+2026,South Dakota,SD,governor,General,Democrats for Education Reform,2026-10-06 to 2026-10-08,2026-10-06,2026-10-08,400 (LV),Dan Ahlers,D,38%,False,"October 6–8, 2026",4.9
 2026,Tennessee,TN,governor,General,TargetSmart,2026-09-09 to 2026-09-12,2026-09-09,2026-09-12,600 (LV),Marsha Blackburn,R,45%,False,"September 9–12, 2026",4.0
 2026,Tennessee,TN,governor,General,Targoz Market Research,2026-08-15 to 2026-08-26,2026-08-15,2026-08-26,"1,149 (RV)",Marsha Blackburn,R,46%,False,"August 15–26, 2026",2.77
 2026,Tennessee,TN,governor,General,Targoz Market Research,2026-08-15 to 2026-08-26,2026-08-15,2026-08-26,601 (LV),Marsha Blackburn,R,55%,False,"August 15–26, 2026",2.77

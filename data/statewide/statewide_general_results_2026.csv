@@ -65,6 +65,15 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Jeff Peckman,Unity,,,False,False
 2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Erik Underwood,Voting,,,False,False
 2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Total,,,,100.0,False,False
+2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Candidate,William Tong,Democratic,,,False,False
+2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Candidate,John Bolton,Republican,,,False,False
+2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Total,,,,100.0,False,False
+2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Candidate,Erick Russell,Democratic,,,False,False
+2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Candidate,Fred Wilms,Republican,,,False,False
+2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Total,,,,100.0,False,False
+2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Candidate,Ned Lamont,Democratic,,,False,False
+2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Candidate,Ryan Fazio,Republican,,,False,False
+2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Total,,,,100.0,False,False
 2026,Delaware,DE,attorney general,2026 Delaware Attorney General election,Candidate,Kathleen Jennings,Democratic,,,False,True
 2026,Delaware,DE,attorney general,2026 Delaware Attorney General election,Candidate,David C. Graham,Republican,,,False,False
 2026,Delaware,DE,attorney general,2026 Delaware Attorney General election,Total,,,,100.0,False,False
