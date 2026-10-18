@@ -4240,8 +4240,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Beau Bayh,Democratic,,,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Lauri Shillings,Libertarian,,,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Greg Ballard,Lincoln,,,False,False
-2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Andrew Delano (write-in),National Socialist American Workers,,,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Total,,,,100.0,False,False
+2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Candidate,Daniel Elliott,Republican,,,False,True
+2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Candidate,Coumba Kebe,Democratic,,,False,False
+2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Total,,,,100.0,False,False
 2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Candidate,Brenna Bird,Republican,,,False,True
 2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Candidate,Nathan Willems,Democratic,,,False,False
 2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Total,,,,100.0,False,False

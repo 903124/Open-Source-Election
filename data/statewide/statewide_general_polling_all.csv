@@ -15518,6 +15518,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,California,CA,secretary of state,General,Independent Voter Project,2026-09-23 to 2026-10-02,2026-09-23,2026-10-02,"2,906 (LV)",Donald P. Wagner,R,31%,False,"September 23 – October 2, 2026",2.5
 2026,California,CA,governor,General,270toWin,2026-09-04 to 2026-10-02,2026-09-04,2026-10-02,,Xavier Becerra,D,55.3%,False,"September 4 – October 2, 2026",
 2026,California,CA,governor,General,Silver Bulletin,through 2026-10-02,,2026-10-02,,Xavier Becerra,D,55.6%,False,"through October 2, 2026",
+2026,California,CA,governor,General,ActiVote,2026-09-24 to 2026-10-16,2026-09-24,2026-10-16,400 (LV),Xavier Becerra,D,63%,False,"September 24 – October 16, 2026",4.9
 2026,California,CA,governor,General,Manhattan Institute,2026-09-24 to 2026-10-01,2026-09-24,2026-10-01,"1,000 (LV)",Xavier Becerra,D,57%,False,"September 24 – October 1, 2026",3.1
 2026,California,CA,governor,General,Independent Voter Project,2026-09-23 to 2026-09-28,2026-09-23,2026-09-28,"2,906 (LV)",Xavier Becerra,D,48%,False,"September 23–28, 2026",2.5
 2026,California,CA,governor,General,Berkeley IGS,2026-09-15 to 2026-09-20,2026-09-15,2026-09-20,"4,512 (LV)",Xavier Becerra,D,58%,False,"September 15–20, 2026",2.0
@@ -15533,6 +15534,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,California,CA,governor,General,CEPP,2026-05-23 to 2026-05-26,2026-05-23,2026-05-26,735 (LV),Xavier Becerra,D,42%,False,"May 23–26, 2026",3.6
 2026,California,CA,governor,General,270toWin,2026-09-04 to 2026-10-02,2026-09-04,2026-10-02,,Steve Hilton,R,35.5%,False,"September 4 – October 2, 2026",
 2026,California,CA,governor,General,Silver Bulletin,through 2026-10-02,,2026-10-02,,Steve Hilton,R,35.9%,False,"through October 2, 2026",
+2026,California,CA,governor,General,ActiVote,2026-09-24 to 2026-10-16,2026-09-24,2026-10-16,400 (LV),Steve Hilton,R,37%,False,"September 24 – October 16, 2026",4.9
 2026,California,CA,governor,General,Manhattan Institute,2026-09-24 to 2026-10-01,2026-09-24,2026-10-01,"1,000 (LV)",Steve Hilton,R,39%,False,"September 24 – October 1, 2026",3.1
 2026,California,CA,governor,General,Independent Voter Project,2026-09-23 to 2026-09-28,2026-09-23,2026-09-28,"2,906 (LV)",Steve Hilton,R,38%,False,"September 23–28, 2026",2.5
 2026,California,CA,governor,General,Berkeley IGS,2026-09-15 to 2026-09-20,2026-09-15,2026-09-20,"4,512 (LV)",Steve Hilton,R,33%,False,"September 15–20, 2026",2.0
@@ -15558,6 +15560,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Connecticut,CT,governor,General,Silver Bulletin,through 2026-10-12,,2026-10-12,,Ned Lamont,D,53.7%,True,"through October 12, 2026",
 2026,Connecticut,CT,governor,General,Emerson College,2026-10-10 to 2026-10-12,2026-10-10,2026-10-12,800 (LV),Ned Lamont,D,51%,True,"October 10–12, 2026",3.5
 2026,Connecticut,CT,governor,General,Quinnipiac University,2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,"1,225 (LV)",Ned Lamont,D,58%,True,"October 8–12, 2026",3.8
+2026,Connecticut,CT,governor,General,Wesleyan University,2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,"1,000 (RV)",Ned Lamont,D,53%,True,"October 8–12, 2026",4.54
 2026,Connecticut,CT,governor,General,University of New Hampshire,2026-09-17 to 2026-09-21,2026-09-17,2026-09-21,540 (LV),Ned Lamont,D,55%,True,"September 17–21, 2026",4.2
 2026,Connecticut,CT,governor,General,(R),2026-09-16 to 2026-09-17,2026-09-16,2026-09-17,979 (LV),Ned Lamont,D,48%,True,"September 16–17, 2026",3.1
 2026,Connecticut,CT,governor,General,Quinnipiac University,2026-09-08 to 2026-09-14,2026-09-08,2026-09-14,"1,288 (LV)",Ned Lamont,D,55%,True,"September 8–14, 2026",3.8
@@ -15571,6 +15574,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Connecticut,CT,governor,General,Silver Bulletin,through 2026-10-12,,2026-10-12,,Ryan Fazio,R,38.2%,False,"through October 12, 2026",
 2026,Connecticut,CT,governor,General,Emerson College,2026-10-10 to 2026-10-12,2026-10-10,2026-10-12,800 (LV),Ryan Fazio,R,38%,False,"October 10–12, 2026",3.5
 2026,Connecticut,CT,governor,General,Quinnipiac University,2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,"1,225 (LV)",Ryan Fazio,R,38%,False,"October 8–12, 2026",3.8
+2026,Connecticut,CT,governor,General,Wesleyan University,2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,"1,000 (RV)",Ryan Fazio,R,32%,False,"October 8–12, 2026",4.54
 2026,Connecticut,CT,governor,General,University of New Hampshire,2026-09-17 to 2026-09-21,2026-09-17,2026-09-21,540 (LV),Ryan Fazio,R,38%,False,"September 17–21, 2026",4.2
 2026,Connecticut,CT,governor,General,(R),2026-09-16 to 2026-09-17,2026-09-16,2026-09-17,979 (LV),Ryan Fazio,R,41%,False,"September 16–17, 2026",3.1
 2026,Connecticut,CT,governor,General,Quinnipiac University,2026-09-08 to 2026-09-14,2026-09-08,2026-09-14,"1,288 (LV)",Ryan Fazio,R,38%,False,"September 8–14, 2026",3.8
@@ -15737,8 +15741,8 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Indiana,IN,secretary of state,General,InAct LLC,2025-10-24 to 2025-11-01,2025-10-24,2025-11-01,400 (LV),Generic Republican,Unknown,44%,False,"October 24 – November 1, 2025",4.9
 2026,Indiana,IN,secretary of state,General,InAct LLC,2025-10-24 to 2025-11-01,2025-10-24,2025-11-01,400 (LV),Generic Democrat,Unknown,34%,False,"October 24 – November 1, 2025",4.9
 2026,Indiana,IN,secretary of state,General,InAct LLC,2025-10-24 to 2025-11-01,2025-10-24,2025-11-01,400 (LV),Generic Independent,Unknown,10%,False,"October 24 – November 1, 2025",4.9
-2026,Indiana,IN,state treasurer,General,Bellwether Research,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,896 (LV),Daniel Elliott,R,43%,True,"October 8-11, 2026",3.5
-2026,Indiana,IN,state treasurer,General,Bellwether Research,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,896 (LV),Coumba Kebe,D,38%,False,"October 8-11, 2026",3.5
+2026,Indiana,IN,state treasurer,General,Bellwether Research,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,896 (LV),Daniel Elliott,R,43%,True,"October 8–11, 2026",3.5
+2026,Indiana,IN,state treasurer,General,Bellwether Research,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,896 (LV),Coumba Kebe,D,38%,False,"October 8–11, 2026",3.5
 2026,Iowa,IA,attorney general,General,Cygnal (R),2026-09-09 to 2026-09-11,2026-09-09,2026-09-11,500 (LV),Brenna Bird,R,40%,True,"September 9–11, 2026",4.38
 2026,Iowa,IA,attorney general,General,Cygnal (R),2026-06-16 to 2026-06-19,2026-06-16,2026-06-19,600 (LV),Brenna Bird,R,44%,True,"June 16–19, 2026",4.0
 2026,Iowa,IA,attorney general,General,Global Strategy Group,2026-04-06 to 2026-04-09,2026-04-06,2026-04-09,600 (LV),Brenna Bird,R,45%,True,"April 6–9, 2026",4.0
@@ -16211,7 +16215,8 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Minnesota,MN,governor,General,SurveyUSA,2025-09-15 to 2025-09-18,2025-09-15,2025-09-18,568 (LV),Tim Walz (DFL),Unknown,47%,False,"September 15–18, 2025",4.8
 2026,Minnesota,MN,governor,General,RMG Research,2025-12-10 to 2025-12-16,2025-12-10,2025-12-16,800 (RV),Tim Walz (DFL),Unknown,40%,False,"December 10–16, 2025",3.5
 2026,Minnesota,MN,governor,General,RMG Research,2025-12-10 to 2025-12-16,2025-12-10,2025-12-16,800 (RV),Generic Republican,Unknown,46%,False,"December 10–16, 2025",3.5
-2026,Nebraska,NE,governor,General,Silver Bulletin,through 2026-10-03,,2026-10-03,,Jim Pillen,R,43.5%,True,"through October 3, 2026",
+2026,Nebraska,NE,governor,General,Silver Bulletin,through 2026-10-14,,2026-10-14,,Jim Pillen,R,44.9%,True,"through October 14, 2026",
+2026,Nebraska,NE,governor,General,Public Policy Polling,2026-10-13 to 2026-10-14,2026-10-13,2026-10-14,571 (RV),Jim Pillen,R,48%,True,"October 13–14, 2026",4.1
 2026,Nebraska,NE,governor,General,National Public Affairs (R),2026-10-02 to 2026-10-05,2026-10-02,2026-10-05,800 (LV),Jim Pillen,R,44%,True,"October 2–5, 2026",4.0
 2026,Nebraska,NE,governor,General,YouGov,2026-09-24 to 2026-10-03,2026-09-24,2026-10-03,"1,809 (LV)",Jim Pillen,R,44%,True,"September 24 – October 3, 2026",3.3
 2026,Nebraska,NE,governor,General,(R),2026-09-28 to 2026-09-30,2026-09-28,2026-09-30,"1,113 (LV)",Jim Pillen,R,43%,True,"September 28–30, 2026",2.92
@@ -16223,7 +16228,8 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Nebraska,NE,governor,General,Public Policy Polling,2026-04-06 to 2026-04-07,2026-04-06,2026-04-07,670 (RV),Jim Pillen,R,38%,True,"April 6–7, 2026",3.8
 2026,Nebraska,NE,governor,General,Lake Research Partners (D),2025-12-11 to 2025-12-17,2025-12-11,2025-12-17,900 (LV),Jim Pillen,R,48%,True,"December 11–17, 2025",3.3
 2026,Nebraska,NE,governor,General,Lake Research Partners (D),2025-07-23 to 2025-07-29,2025-07-23,2025-07-29,900 (LV),Jim Pillen,R,51%,True,"July 23–29, 2025",3.3
-2026,Nebraska,NE,governor,General,Silver Bulletin,through 2026-10-03,,2026-10-03,,Lynne Walz,D,38.5%,False,"through October 3, 2026",
+2026,Nebraska,NE,governor,General,Silver Bulletin,through 2026-10-14,,2026-10-14,,Lynne Walz,D,40.1%,False,"through October 14, 2026",
+2026,Nebraska,NE,governor,General,Public Policy Polling,2026-10-13 to 2026-10-14,2026-10-13,2026-10-14,571 (RV),Lynne Walz,D,46%,False,"October 13–14, 2026",4.1
 2026,Nebraska,NE,governor,General,National Public Affairs (R),2026-10-02 to 2026-10-05,2026-10-02,2026-10-05,800 (LV),Lynne Walz,D,40%,False,"October 2–5, 2026",4.0
 2026,Nebraska,NE,governor,General,YouGov,2026-09-24 to 2026-10-03,2026-09-24,2026-10-03,"1,809 (LV)",Lynne Walz,D,43%,False,"September 24 – October 3, 2026",3.3
 2026,Nebraska,NE,governor,General,(R),2026-09-28 to 2026-09-30,2026-09-28,2026-09-30,"1,113 (LV)",Lynne Walz,D,38%,False,"September 28–30, 2026",2.92
@@ -16293,8 +16299,9 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Nevada,NV,governor,General,Noble Predictive Insights,2026-03-10 to 2026-03-13,2026-03-10,2026-03-13,845 (RV),Irina Hansen,R,32%,False,"March 10–13, 2026",3.4
 2026,Nevada,NV,governor,General,Noble Predictive Insights,2026-03-10 to 2026-03-13,2026-03-10,2026-03-13,845 (RV),Matthew Winterhawk,R,31%,False,"March 10–13, 2026",3.4
 2026,Nevada,NV,governor,General,Noble Predictive Insights,2026-03-10 to 2026-03-13,2026-03-10,2026-03-13,845 (RV),Jose Zalaya,R,30%,False,"March 10–13, 2026",3.4
-2026,New Hampshire,NH,governor,General,RealClearPolitics,2026-09-09 to 2026-09-29,2026-09-09,2026-09-29,,Kelly Ayotte,R,51.5%,True,"September 9–29, 2026",
-2026,New Hampshire,NH,governor,General,Silver Bulletin,2026-08-17 to 2026-09-29,2026-08-17,2026-09-29,,Kelly Ayotte,R,52.1%,True,"August 17 – September 29, 2026",
+2026,New Hampshire,NH,governor,General,RealClearPolitics,2026-09-15 to 2026-10-05,2026-09-15,2026-10-05,,Kelly Ayotte,R,51.0%,True,"September 15 – October 5, 2026",
+2026,New Hampshire,NH,governor,General,Silver Bulletin,through 2026-10-05,,2026-10-05,,Kelly Ayotte,R,51.2%,True,"through October 5, 2026",
+2026,New Hampshire,NH,governor,General,National Public Affairs (R),2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,600 (LV),Kelly Ayotte,R,54%,True,"October 8–12, 2026",4.0
 2026,New Hampshire,NH,governor,General,YouGov,2026-09-28 to 2026-10-05,2026-09-28,2026-10-05,"1,520 (LV)",Kelly Ayotte,R,49%,True,"September 28 – October 5, 2026",3.9
 2026,New Hampshire,NH,governor,General,Saint Anselm College,2026-09-28 to 2026-09-29,2026-09-28,2026-09-29,"1,042 (LV)",Kelly Ayotte,R,52%,True,"September 28–29, 2026",3.0
 2026,New Hampshire,NH,governor,General,The New York Times,2026-09-15 to 2026-09-22,2026-09-15,2026-09-22,613 (LV),Kelly Ayotte,R,52%,True,"September 15–22, 2026",4.9
@@ -16311,8 +16318,9 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,New Hampshire,NH,governor,General,University of New Hampshire,2026-01-15 to 2026-01-19,2026-01-15,2026-01-19,"2,053 (LV)",Kelly Ayotte,R,50%,True,"January 15–19, 2026",2.1
 2026,New Hampshire,NH,governor,General,University of New Hampshire,2026-01-15 to 2026-01-19,2026-01-15,2026-01-19,"2,053 (LV)",Kelly Ayotte,R,49%,True,"January 15–19, 2026",2.1
 2026,New Hampshire,NH,governor,General,(R),2025-10-09 to 2025-10-13,2025-10-09,2025-10-13,"1,034 (LV)",Kelly Ayotte,R,43%,True,"October 9–13, 2025",3.1
-2026,New Hampshire,NH,governor,General,RealClearPolitics,2026-09-09 to 2026-09-29,2026-09-09,2026-09-29,,Cinde Warmington,D,40.8%,False,"September 9–29, 2026",
-2026,New Hampshire,NH,governor,General,Silver Bulletin,2026-08-17 to 2026-09-29,2026-08-17,2026-09-29,,Cinde Warmington,D,41.1%,False,"August 17 – September 29, 2026",
+2026,New Hampshire,NH,governor,General,RealClearPolitics,2026-09-15 to 2026-10-05,2026-09-15,2026-10-05,,Cinde Warmington,D,42.0%,False,"September 15 – October 5, 2026",
+2026,New Hampshire,NH,governor,General,Silver Bulletin,through 2026-10-05,,2026-10-05,,Cinde Warmington,D,41.0%,False,"through October 5, 2026",
+2026,New Hampshire,NH,governor,General,National Public Affairs (R),2026-10-08 to 2026-10-12,2026-10-08,2026-10-12,600 (LV),Cinde Warmington,D,38%,False,"October 8–12, 2026",4.0
 2026,New Hampshire,NH,governor,General,YouGov,2026-09-28 to 2026-10-05,2026-09-28,2026-10-05,"1,520 (LV)",Cinde Warmington,D,40%,False,"September 28 – October 5, 2026",3.9
 2026,New Hampshire,NH,governor,General,Saint Anselm College,2026-09-28 to 2026-09-29,2026-09-28,2026-09-29,"1,042 (LV)",Cinde Warmington,D,45%,False,"September 28–29, 2026",3.0
 2026,New Hampshire,NH,governor,General,The New York Times,2026-09-15 to 2026-09-22,2026-09-15,2026-09-22,613 (LV),Cinde Warmington,D,41%,False,"September 15–22, 2026",4.9
@@ -16838,8 +16846,11 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Vermont,VT,governor,General,University of New Hampshire,2026-06-18 to 2026-06-23,2026-06-18,2026-06-23,887 (LV),Amanda Janoo,D,27%,False,"June 18–23, 2026",3.3
 2026,Vermont,VT,governor,General,University of New Hampshire,2026-07-15 to 2026-07-20,2026-07-15,2026-07-20,954 (LV),Aly Richards,D,35%,False,"July 15–20, 2026",3.2
 2026,Vermont,VT,governor,General,University of New Hampshire,2026-06-18 to 2026-06-23,2026-06-18,2026-06-23,887 (LV),Aly Richards,D,25%,False,"June 18–23, 2026",3.3
-2026,Wisconsin,WI,governor,General,RealClearPolitics,2026-08-01 to 2026-08-21,2026-08-01,2026-08-21,,David Crowley,D,"September 13, 2026",False,"access-date=August 21, 2026}} --->",
-2026,Wisconsin,WI,governor,General,Silver Bulletin,2026-07-20 to 2026-08-20,2026-07-20,2026-08-20,,David Crowley,D,48.6%,False,"July 20 – August 20, 2026",
+2026,Wisconsin,WI,governor,General,Decision Desk HQ,2026-08-01 to 2026-08-21,2026-08-01,2026-08-21,,David Crowley,D,"October 17, 2026",False,"access-date=August 21, 2026}} --->",
+2026,Wisconsin,WI,governor,General,FiftyPlusOne,through 2026-10-09,,2026-10-09,,David Crowley,D,47.4%,False,"through October 9, 2026",
+2026,Wisconsin,WI,governor,General,RealClearPolitics,2026-07-20 to 2026-09-23,2026-07-20,2026-09-23,,David Crowley,D,47.5%,False,"July 20 – September 23, 2026",
+2026,Wisconsin,WI,governor,General,Silver Bulletin,through 2026-10-09,,2026-10-09,,David Crowley,D,48.6%,False,"through October 9, 2026",
+2026,Wisconsin,WI,governor,General,YouGov,2026-09-22 to 2026-10-09,2026-09-22,2026-10-09,"1,715 (A)",David Crowley,D,46%,False,"September 22 – October 9, 2026",
 2026,Wisconsin,WI,governor,General,Twitter,2026-09-28 to 2026-10-01,2026-09-28,2026-10-01,662 (LV),David Crowley,D,49%,False,"September 28 – October 1, 2026",
 2026,Wisconsin,WI,governor,General,Marquette University,2026-09-16 to 2026-09-23,2026-09-16,2026-09-23,692 (LV),David Crowley,D,49%,False,"September 16–23, 2026",4.8
 2026,Wisconsin,WI,governor,General,Marquette University,2026-08-12 to 2026-08-20,2026-08-12,2026-08-20,738 (LV),David Crowley,D,49%,False,"August 12–20, 2026",4.5
@@ -16848,8 +16859,11 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Wisconsin,WI,governor,General,Politico,2026-07-30 to 2026-08-03,2026-07-30,2026-08-03,800 (LV),David Crowley,D,47%,False,"July 30 – August 3, 2026",3.5
 2026,Wisconsin,WI,governor,General,RMG Research,2026-07-20 to 2026-07-24,2026-07-20,2026-07-24,800 (RV),David Crowley,D,46%,False,"July 20–24, 2026",3.5
 2026,Wisconsin,WI,governor,General,TIPP Insights (R),2026-03-13 to 2026-03-19,2026-03-13,2026-03-19,"1,175 (LV)",David Crowley,D,42%,False,"March 13–19, 2026",2.9
-2026,Wisconsin,WI,governor,General,RealClearPolitics,2026-08-01 to 2026-08-21,2026-08-01,2026-08-21,,Tom Tiffany,R,47.5%,False,"access-date=August 21, 2026}} --->",
-2026,Wisconsin,WI,governor,General,Silver Bulletin,2026-07-20 to 2026-08-20,2026-07-20,2026-08-20,,Tom Tiffany,R,44.6%,False,"July 20 – August 20, 2026",
+2026,Wisconsin,WI,governor,General,Decision Desk HQ,2026-08-01 to 2026-08-21,2026-08-01,2026-08-21,,Tom Tiffany,R,46.8%,False,"access-date=August 21, 2026}} --->",
+2026,Wisconsin,WI,governor,General,FiftyPlusOne,through 2026-10-09,,2026-10-09,,Tom Tiffany,R,43.8%,False,"through October 9, 2026",
+2026,Wisconsin,WI,governor,General,RealClearPolitics,2026-07-20 to 2026-09-23,2026-07-20,2026-09-23,,Tom Tiffany,R,44.0%,False,"July 20 – September 23, 2026",
+2026,Wisconsin,WI,governor,General,Silver Bulletin,through 2026-10-09,,2026-10-09,,Tom Tiffany,R,45.0%,False,"through October 9, 2026",
+2026,Wisconsin,WI,governor,General,YouGov,2026-09-22 to 2026-10-09,2026-09-22,2026-10-09,"1,715 (A)",Tom Tiffany,R,42%,False,"September 22 – October 9, 2026",
 2026,Wisconsin,WI,governor,General,Twitter,2026-09-28 to 2026-10-01,2026-09-28,2026-10-01,662 (LV),Tom Tiffany,R,44%,False,"September 28 – October 1, 2026",
 2026,Wisconsin,WI,governor,General,Marquette University,2026-09-16 to 2026-09-23,2026-09-16,2026-09-23,692 (LV),Tom Tiffany,R,46%,False,"September 16–23, 2026",4.8
 2026,Wisconsin,WI,governor,General,Marquette University,2026-08-12 to 2026-08-20,2026-08-12,2026-08-20,738 (LV),Tom Tiffany,R,44%,False,"August 12–20, 2026",4.5

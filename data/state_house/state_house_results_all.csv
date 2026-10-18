@@ -24055,6 +24055,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Texas,TX,State House,123,general,Diego Bernal,Democratic,,,True,True
 2026,Texas,TX,State House,124,general,Josey Garcia,Democratic,,,True,True
 2026,Texas,TX,State House,124,general,Sylvia Soto,Republican,,,False,False
+2026,Texas,TX,State House,124,general,L.D. Howard,Write-in,,,False,False
 2026,Texas,TX,State House,125,general,Andrian Reyna,Democratic,,,True,False
 2026,Texas,TX,State House,125,general,Ricardo Martinez,Republican,,,False,False
 2026,Texas,TX,State House,126,general,Stan Stanart,Republican,,,True,False
