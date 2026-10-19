@@ -15511,8 +15511,11 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Arizona,AZ,governor,General,Noble Predictive Insights,2025-02-11 to 2025-02-13,2025-02-11,2025-02-13,"1,006 (RV)",Kimberly Yee,R,34%,False,"February 11–13, 2025",3.1
 2026,Arizona,AZ,governor,General,GrayHouse (R),2025-10-26 to 2025-10-28,2025-10-26,2025-10-28,744 (RV),Generic Republican,Unknown,44%,False,"October 26–28, 2025",3.6
 2026,Arizona,AZ,governor,General,GrayHouse (R),2025-10-26 to 2025-10-28,2025-10-26,2025-10-28,744 (RV),Someone else,Unknown,48%,False,"October 26–28, 2025",3.6
+2026,Arkansas,AR,governor,General,Hendrix College,2026-10-08 to 2026-10-13,2026-10-08,2026-10-13,709 (LV),Sarah Huckabee Sanders,R,51%,True,"October 8–13, 2026",5.0
 2026,Arkansas,AR,governor,General,Hendrix College,2026-08-11 to 2026-08-12,2026-08-11,2026-08-12,"1,217 (LV)",Sarah Huckabee Sanders,R,45%,True,"August 11–12, 2026",4.7
+2026,Arkansas,AR,governor,General,Hendrix College,2026-10-08 to 2026-10-13,2026-10-08,2026-10-13,709 (LV),Fredrick Love,D,32%,False,"October 8–13, 2026",5.0
 2026,Arkansas,AR,governor,General,Hendrix College,2026-08-11 to 2026-08-12,2026-08-11,2026-08-12,"1,217 (LV)",Fredrick Love,D,40%,False,"August 11–12, 2026",4.7
+2026,Arkansas,AR,governor,General,Hendrix College,2026-10-08 to 2026-10-13,2026-10-08,2026-10-13,709 (LV),Colt Shelby,L,11%,False,"October 8–13, 2026",5.0
 2026,Arkansas,AR,governor,General,Hendrix College,2026-08-11 to 2026-08-12,2026-08-11,2026-08-12,"1,217 (LV)",Colt Shelby,L,7%,False,"August 11–12, 2026",4.7
 2026,California,CA,secretary of state,General,Independent Voter Project,2026-09-23 to 2026-10-02,2026-09-23,2026-10-02,"2,906 (LV)",Shirley Weber,D,41%,True,"September 23 – October 2, 2026",2.5
 2026,California,CA,secretary of state,General,Independent Voter Project,2026-09-23 to 2026-10-02,2026-09-23,2026-10-02,"2,906 (LV)",Donald P. Wagner,R,31%,False,"September 23 – October 2, 2026",2.5
@@ -16729,6 +16732,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Texas,TX,governor,General,FiftyPlusOne,through 2026-10-11,,2026-10-11,,Greg Abbott,R,48.3%,True,"through October 11, 2026",
 2026,Texas,TX,governor,General,RealClearPolitics,2026-09-15 to 2026-10-11,2026-09-15,2026-10-11,,Greg Abbott,R,48.6%,True,"September 15 – October 11, 2026",
 2026,Texas,TX,governor,General,Silver Bulletin,through 2026-10-11,,2026-10-11,,Greg Abbott,R,48.5%,True,"through October 11, 2026",
+2026,Texas,TX,governor,General,CBS News,2026-10-08 to 2026-10-16,2026-10-08,2026-10-16,"1,492 (LV)",Greg Abbott,R,52%,True,"October 8-16, 2026",3.5
 2026,Texas,TX,governor,General,ActiVote,2026-09-30 to 2026-10-14,2026-09-30,2026-10-14,400 (LV),Greg Abbott,R,51%,True,"September 30 – October 14, 2026",4.9
 2026,Texas,TX,governor,General,Marist University,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,(LV),Greg Abbott,R,49%,True,"October 8–11, 2026",4.9
 2026,Texas,TX,governor,General,GBAO (D),2026-10-05 to 2026-10-08,2026-10-05,2026-10-08,800 (LV),Greg Abbott,R,45%,True,"October 5–8, 2026",3.5
@@ -16782,6 +16786,7 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Texas,TX,governor,General,FiftyPlusOne,through 2026-10-11,,2026-10-11,,Gina Hinojosa,D,46.1%,False,"through October 11, 2026",
 2026,Texas,TX,governor,General,RealClearPolitics,2026-09-15 to 2026-10-11,2026-09-15,2026-10-11,,Gina Hinojosa,D,46.4%,False,"September 15 – October 11, 2026",
 2026,Texas,TX,governor,General,Silver Bulletin,through 2026-10-11,,2026-10-11,,Gina Hinojosa,D,46.2%,False,"through October 11, 2026",
+2026,Texas,TX,governor,General,CBS News,2026-10-08 to 2026-10-16,2026-10-08,2026-10-16,"1,492 (LV)",Gina Hinojosa,D,48%,False,"October 8-16, 2026",3.5
 2026,Texas,TX,governor,General,ActiVote,2026-09-30 to 2026-10-14,2026-09-30,2026-10-14,400 (LV),Gina Hinojosa,D,49%,False,"September 30 – October 14, 2026",4.9
 2026,Texas,TX,governor,General,Marist University,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,(LV),Gina Hinojosa,D,45%,False,"October 8–11, 2026",4.9
 2026,Texas,TX,governor,General,GBAO (D),2026-10-05 to 2026-10-08,2026-10-05,2026-10-08,800 (LV),Gina Hinojosa,D,47%,False,"October 5–8, 2026",3.5
