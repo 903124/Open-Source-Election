@@ -30,6 +30,8 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Risa Lombardo,Green,,,False,False
 2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Teri Ann Hourihan,Labels,,,False,False
 2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Total,,,,100.0,False,False
+2026,Arkansas,AR,attorney general,2026 Arkansas Attorney General election,Candidate,Tim Griffin incumbent),Republican,,,False,False
+2026,Arkansas,AR,attorney general,2026 Arkansas Attorney General election,Total,,,,100.0,False,False
 2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Candidate,Kim Hammer,Republican,,,False,False
 2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Candidate,Kelly Grappe,Democratic,,,False,False
 2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Candidate,Michael Pakko,Libertarian,,,False,False
@@ -253,9 +255,6 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Candidate,Deb Haaland,Democratic,,,False,False
 2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Candidate,Gregg Hull,Republican,,,False,False
 2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Total,,,,100.0,False,False
-2026,New York,NY,attorney general,2026 New York Attorney General election,Candidate,Letitia James,New York State Democratic Committee,,,False,False
-2026,New York,NY,attorney general,2026 New York Attorney General election,Candidate,Saritha Komatireddy,New York Republican State Committee,,,False,False
-2026,New York,NY,attorney general,2026 New York Attorney General election,Total,,,,100.0,False,False
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Kathy Hochul,New York State Democratic Committee,,,False,False
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Bruce Blakeman,New York Republican State Committee,,,False,False
 2026,New York,NY,governor,2026 New York gubernatorial election,Total,,,,100.0,False,False
