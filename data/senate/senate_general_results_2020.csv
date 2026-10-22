@@ -26,6 +26,37 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2020,Delaware,"United States Senate election in Delaware, 2020",General,Candidate,False,Mark Turley,Independent Party of Delaware,"7,833",1.59%
 2020,Delaware,"United States Senate election in Delaware, 2020",General,Candidate,False,Nadine Frost,Libertarian Party (United States),"5,244",1.07%
 2020,Delaware,"United States Senate election in Delaware, 2020",General,Total,False,,,"490,935",100.0%
+2020,Georgia,2020 United States Senate election in Georgia,General,Winning,True,David Perdue,Republican Party (United States),"2,462,617",49.73%
+2020,Georgia,2020 United States Senate election in Georgia,General,Winning,False,Jon Ossoff,Democratic Party (United States),"2,374,519",47.95%
+2020,Georgia,2020 United States Senate election in Georgia,General,Candidate,False,Shane T. Hazel,Libertarian Party (United States),"115,039",2.32%
+2020,Georgia,2020 United States Senate election in Georgia,General,Total,False,,,"4,952,175",100.0%
+2020,Georgia,2021 United States Senate election in Georgia runoff,General,Winning,False,Jon Ossoff,Democratic Party (United States),"2,269,923",50.61%
+2020,Georgia,2021 United States Senate election in Georgia runoff,General,Candidate,True,David Perdue,Republican Party (United States),"2,214,979",49.39%
+2020,Georgia,2021 United States Senate election in Georgia runoff,General,Total,False,,,"4,484,902",100.00%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Winning,False,Raphael Warnock,Democratic Party (US),"1,617,035",32.90%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Winning,True,Kelly Loeffler,Republican Party (US),"1,273,214",25.91%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Doug Collins,Republican Party (US),"980,454",19.95%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Deborah Jackson,Democratic Party (US),"324,118",6.60%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Matt Lieberman,Democratic Party (US),"136,021",2.77%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Tamara Johnson-Shealey,Democratic Party (US),"106,767",2.17%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Jamesia James,Democratic Party (US),"94,406",1.92%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Derrick Grayson,Republican Party (US),"51,592",1.05%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Joy Felicia Slade,Democratic Party (US),"44,945",0.91%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Annette Davis Jackson,Republican Party (US),"44,335",0.90%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Kandiss Taylor,Republican Party (US),"40,349",0.82%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Wayne Johnson (withdrawn),Republican Party (US),"36,176",0.74%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Brian Slowinski,Libertarian Party (US),"35,431",0.72%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Richard Dien Winfield,Democratic Party (US),"28,687",0.58%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Ed Tarver,Democratic Party (US),"26,333",0.54%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Allen Buckley,Independent,"17,954",0.37%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,John Fortuin,Green Party (US),"15,293",0.31%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Al Bartell,Independent,"14,640",0.30%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Valencia Stovall,Independent,"13,318",0.27%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Candidate,False,Michael Todd Greene,Independent,"13,293",0.27%
+2020,Georgia (special),2020–21 United States Senate special election in Georgia,General,Total,False,,,"4,914,361",100.00%
+2020,Georgia (special),2021 United States Senate special election in Georgia runoff,General,Winning,False,Raphael Warnock,Democratic Party (United States),"2,289,113",51.04%
+2020,Georgia (special),2021 United States Senate special election in Georgia runoff,General,Candidate,True,Kelly Loeffler,Republican Party (United States),"2,195,841",48.96%
+2020,Georgia (special),2021 United States Senate special election in Georgia runoff,General,Total,False,,,"4,484,954",100.00%
 2020,Idaho,"United States Senate election in Idaho, 2020",General,Winning,True,Jim Risch,Republican Party (United States),"538,446",62.62%
 2020,Idaho,"United States Senate election in Idaho, 2020",General,Candidate,False,Paulette Jordan,Democratic Party (United States),"285,864",33.25%
 2020,Idaho,"United States Senate election in Idaho, 2020",General,Candidate,False,Natalie Fleming,Independent,"25,329",2.95%
