@@ -101,11 +101,9 @@ Usage:
 
 from __future__ import annotations
 
-import json
 import logging
 import os
 import re
-import time
 from typing import Dict, List, Optional
 
 import pandas as pd
@@ -1382,11 +1380,6 @@ def run(
                 combined_summary = combined
         else:
             logger.info("No per-year %s files on disk yet — combined file skipped", label)
-
-    ts = time.strftime("%Y%m%d_%H%M%S")
-    with open(os.path.join(statewide_dir, f"statewide_metadata_{ts}.json"), "w",
-              encoding="utf-8") as fh:
-        json.dump(meta, fh, indent=2, default=str)
 
     return combined_summary if combined_summary is not None else pd.DataFrame()
 

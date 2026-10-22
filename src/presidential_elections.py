@@ -54,7 +54,6 @@ Output columns (written under *output_dir*, default ``data/presidential/``):
 
     presidential_results_{year}.csv   per year (all 50 states + DC)
     presidential_results_all.csv      combined across the requested range
-    presidential_metadata_{ts}.json   per-state coverage + totals cross-check
 
 PRESIDENTIAL OPINION POLLING (``include_polling=True`` by default; CLI
 ``--include-polling``/``--no-include-polling``): the same run also mines the
@@ -99,11 +98,9 @@ Usage:
 from __future__ import annotations
 
 import html
-import json
 import logging
 import os
 import re
-import time
 from typing import Dict, List, Optional, Tuple
 
 import pandas as pd
@@ -1491,11 +1488,6 @@ def run(
                             path, f"{len(poll_combined):,}")
                 wrote_polling = True
 
-    if combined is not None or wrote_polling:
-        ts = time.strftime("%Y%m%d_%H%M%S")
-        with open(os.path.join(pres_dir, f"presidential_metadata_{ts}.json"), "w",
-                  encoding="utf-8") as fh:
-            json.dump(meta, fh, indent=2, default=str)
     return combined if combined is not None else pd.DataFrame()
 
 

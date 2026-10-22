@@ -105,7 +105,6 @@ Midterm outputs (under *output_dir*, default ``data/district_lean/``):
     district_lean_midterm_{year}.csv   one row per district in force that midterm
     district_lean_midterm_all.csv      combined across the requested range
     district_midterm_lean_summary.csv  per-district midterm lean per vintage
-    district_lean_midterm_metadata_{ts}.json  method notes + coverage
 
 Inputs are read-only: this module does NOT fetch anything unless
 ``fetch_missing=True``, in which case missing
@@ -128,7 +127,6 @@ presidential component's numbers — while ``lean_pct`` is the blend.)
     district_lean_{year}.csv        one row per district in force that year
     district_lean_all.csv           combined across the requested range
     district_pvi_summary.csv        per-district lean averaged per vintage
-    district_lean_metadata_{ts}.json  method notes + coverage + unmatched counties
 
 Usage:
     python cli.py lean                                  # 2004-2024 from local CSVs
@@ -147,7 +145,6 @@ import json
 import logging
 import os
 import re
-import time
 import unicodedata
 from typing import Dict, List, Optional, Tuple
 
@@ -1570,11 +1567,6 @@ def _run_midterm(
         logger.info("Midterm summary -> %s (%s rows)", path,
                     f"{len(summary):,}")
 
-    ts = time.strftime("%Y%m%d_%H%M%S")
-    with open(os.path.join(lean_dir,
-                           f"district_lean_midterm_metadata_{ts}.json"), "w",
-              encoding="utf-8") as fh:
-        json.dump(meta, fh, indent=2, default=str)
     return combined
 
 
@@ -1836,10 +1828,6 @@ def run(
         pvi.to_csv(path, index=False)
         logger.info("PVI summary -> %s (%s rows)", path, f"{len(pvi):,}")
 
-    ts = time.strftime("%Y%m%d_%H%M%S")
-    with open(os.path.join(lean_dir, f"district_lean_metadata_{ts}.json"), "w",
-              encoding="utf-8") as fh:
-        json.dump(meta, fh, indent=2, default=str)
     return combined
 
 

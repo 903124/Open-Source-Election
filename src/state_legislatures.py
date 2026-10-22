@@ -26,7 +26,6 @@ as ``{{percentage|a|{{sum|a|b}}|2}}`` are computed from the vote counts.
 Outputs (written under *output_dir*, default ``data/``):
     state_senate/state_senate_results_{year}.csv + _all.csv
     state_house/state_house_results_{year}.csv   + _all.csv
-    state_senate/state_leg_metadata_<ts>.json    (coverage report)
 
 Columns: year, state, state_code, chamber, district, race, candidate,
 party, votes, percentage, winner, incumbent
@@ -38,11 +37,9 @@ Usage:
 
 from __future__ import annotations
 
-import json
 import logging
 import os
 import re
-import time
 from typing import Dict, List, Optional, Tuple
 
 import pandas as pd
@@ -1065,10 +1062,6 @@ def run(
                 sub.to_csv(path, index=False)
                 logger.info("Combined -> %s (%s rows)", path, f"{len(sub):,}")
 
-        ts = time.strftime("%Y%m%d_%H%M%S")
-        with open(os.path.join(senate_dir, f"state_leg_metadata_{ts}.json"), "w",
-                  encoding="utf-8") as fh:
-            json.dump(meta, fh, indent=2, default=str)
         return combined
 
     return pd.DataFrame()

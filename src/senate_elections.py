@@ -23,7 +23,6 @@ Year column):
     senate_primary_results_{year}.csv
     senate_general_results_{year}.csv
     senate_{key}_all.csv                combined across the requested range
-    senate_metadata_<ts>.json           run metadata + per-race details
 
 Usage:
     python cli.py senate --start-year 2018 --end-year 2024
@@ -33,7 +32,6 @@ Usage:
 from __future__ import annotations
 
 import html
-import json
 import logging
 import re
 import time
@@ -90,11 +88,24 @@ def discover_race_titles(text: str, year: int) -> List[str]:
     ``{{main|<year> United States Senate [special] election in <State>}}``;
     following these picks up special elections automatically and ignores
     non-race sections (Results summary, Predictions, ...).
+
+    Titles may carry a *year-span prefix* — ``2020–21 United States Senate
+    election in Georgia`` — used by Wikipedia when a race's runoff falls in
+    the next calendar year (Georgia's Senate runoffs were held January 5,
+    2021).  The span suffix (``–21`` / ``-2021`` / ``/21``, any dash
+    variant, with or without spaces) is therefore tolerated after the cycle
+    year.  The prefix still must *begin* with the cycle year, so links to
+    other cycles (e.g. ``1914 United States Senate election in Wisconsin``
+    inside the 1918 overview) stay excluded and a race linked from two
+    consecutive overviews is only ever attributed to its own cycle.
+    'special' is matched case-insensitively ('2020 United States Senate
+    Special election in Kansas').
     """
     pattern = (
         r"\{\{\s*[Mm]ain\s*\|\s*("
         + str(year)
-        + r" United States Senate (?:special )?election in [^}|]+?)\s*(?:\|[^}]*)?\}\}"
+        + r"(?:\s*[-\u2013\u2014/]\s*(?:\d{2}|\d{4}))?"  # optional year span: –21 / -2021 / /21
+        + r" United States Senate (?:[Ss]pecial )?election in [^}|]+?)\s*(?:\|[^}]*)?\}\}"
     )
     return list(dict.fromkeys(re.findall(pattern, text)))
 
@@ -105,8 +116,9 @@ def state_from_title(title: str) -> Optional[str]:
 
     '2018 United States Senate election in Arizona'             → 'Arizona'
     '2018 United States Senate special election in Mississippi' → 'Mississippi (special)'
+    '2020–21 United States Senate election in Georgia'          → 'Georgia'
     """
-    m = re.search(r"United States Senate (special )?election in (.+?)\s*$", title)
+    m = re.search(r"United States Senate ([Ss]pecial )?election in (.+?)\s*$", title)
     if not m:
         return None
     state = m.group(2).strip()
@@ -1402,18 +1414,8 @@ def save_results(results: Dict, output_dir: str = "data") -> str:
             results[key] = combined   # keep in-memory result consistent
             logger.info("Saved: %s (%d rows, rebuilt from per-year files)", path, len(combined))
 
-    timestamp = time.strftime("%Y%m%d_%H%M%S")
-    metadata_path = os.path.join(senate_dir, f"senate_metadata_{timestamp}.json")
-    with open(metadata_path, "w", encoding="utf-8") as fh:
-        json.dump(
-            {
-                "metadata": results["metadata"],
-                "state_details": results["state_details"],
-                "races_discovered": results.get("races_discovered", {}),
-            },
-            fh, indent=2, default=str,
-        )
-    logger.info("Saved: %s", metadata_path)
+    # No JSON sidecar is written: run metadata stays in the returned results
+    # dict (results["metadata"]) and is surfaced through the log output.
     return output_dir
 
 
@@ -1432,9 +1434,9 @@ def run(
     special-election cycles in the range are included by default — pass
     ``include_off_years=False`` to restrict the run to even years.
 
-    When *run_qc* is set (default), a polling quality check — file sizes,
-    row coverage, value sanity — runs over the written polling CSVs and a
-    ``polling_qc_report.json`` is saved next to them.
+    *run_qc* is accepted for backward compatibility and ignored: the polling
+    QC step (which wrote ``polling_qc_report.json``) has been removed so the
+    pipelines no longer produce JSON log files.
     """
     logger.info("U.S. Senate cycles %d–%d", start_year, end_year)
     results = process_senate_cycles(
@@ -1446,12 +1448,6 @@ def run(
         "Senate done: %d races processed, %d ok, %d failed -> %s/senate",
         meta["total_processed"], meta["successful"], meta["failed"], output_dir,
     )
-    if run_qc:
-        try:
-            import polling_qc
-            polling_qc.check_pipeline(output_dir, pipeline="senate")
-        except Exception:  # QC must never break the data run
-            logger.exception("Polling QC failed (non-fatal)")
     return results
 
 

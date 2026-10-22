@@ -45,9 +45,6 @@ Subcommands:
                geometry (UCLA cdmaps x 2010 Census counties; ~185 MB of
                cached, resumable downloads; needs shapely + pyproj).
     all        Run all six pipelines.
-    polling-check  Quality-check polling CSVs (file size + data sanity) and
-               report which files need improvement; exit code 1 when any
-               file is flagged.
     fetch      Fetch one article's raw wikitext (debugging helper).
 
 Year ranges are inclusive. senate/house/state-leg/presidential cover even
@@ -80,7 +77,6 @@ Examples:
     python cli.py lean --midterm --components senate,statewide  # drop state-leg
     python cli.py lean --midterm --start-year 2014 --end-year 2018
     python cli.py crosswalk                # regenerate the district->county mapping
-    python cli.py polling-check            # QC polling CSVs (size + data sanity)
     python cli.py fetch "2018 United States Senate election in Arizona"
 """
 
@@ -98,19 +94,6 @@ import senate_elections
 import state_legislatures
 import statewide_elections
 import wiki_utils
-
-try:
-    import polling_qc
-
-    _QC_MIN_BYTES = polling_qc.DEFAULT_MIN_BYTES
-    _QC_PEER_RATIO = polling_qc.DEFAULT_PEER_RATIO
-except ModuleNotFoundError:
-    # polling_qc is optional: only the `polling-check` subcommand needs it.
-    # The data pipelines (senate/house/...) must keep working in checkouts
-    # (e.g. GitHub Actions) where the module is not present.
-    polling_qc = None
-    _QC_MIN_BYTES = 1500
-    _QC_PEER_RATIO = 0.25
 
 logger = logging.getLogger("cli")
 
@@ -324,34 +307,6 @@ def build_parser() -> argparse.ArgumentParser:
              "disable with --no-include-off-years)",
     )
 
-    qc = sub.add_parser(
-        "polling-check", parents=[common],
-        help="Quality-check polling CSVs (file size + data sanity) — "
-             "reports which files need improvement",
-    )
-    qc.add_argument(
-        "--pipeline", default="senate",
-        help="Which pipeline's polling CSVs to check (default: senate)",
-    )
-    qc.add_argument(
-        "--data-dir", default=None,
-        help="Base data directory (default: --output value, i.e. data)",
-    )
-    qc.add_argument(
-        "--min-size", type=int, default=_QC_MIN_BYTES,
-        help=f"Flag per-year polling files smaller than this many bytes "
-             f"(default: {_QC_MIN_BYTES})",
-    )
-    qc.add_argument(
-        "--peer-ratio", type=float, default=_QC_PEER_RATIO,
-        help="Flag files below this fraction of the kind-median size "
-             f"(default: {_QC_PEER_RATIO})",
-    )
-    qc.add_argument(
-        "--no-report", action="store_true",
-        help="Do not write polling_qc_report.json",
-    )
-
     fetch = sub.add_parser("fetch", parents=[common], help="Fetch one article (debug)")
     fetch.add_argument("title", help="Exact Wikipedia article title")
 
@@ -380,24 +335,6 @@ def main(argv: Optional[List[str]] = None) -> int:
 
     client = make_client(args)
     wiki_utils.set_default_client(client)
-
-    if args.command == "polling-check":
-        if polling_qc is None:
-            logger.error(
-                "polling-check needs the polling_qc module (src/polling_qc.py), "
-                "which is not present in this checkout. The data pipelines "
-                "(senate/house/state-leg/statewide/presidential/lean) are "
-                "unaffected."
-            )
-            return 1
-        rep = polling_qc.check_pipeline(
-            args.data_dir or args.output,
-            pipeline=args.pipeline,
-            min_bytes=args.min_size,
-            peer_ratio=args.peer_ratio,
-            report=not args.no_report,
-        )
-        return 1 if rep["needs_improvement"] else 0
 
     if args.command == "crosswalk":
         # geometry build: no wiki client involved; heavy downloads, all cached
