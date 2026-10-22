@@ -252,7 +252,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Indiana,IN,State Senate,19,general,Timothy Murphy,Democratic,,,False,False
 2026,Indiana,IN,State Senate,21,general,Tracey Powell,Republican,,,True,False
 2026,Indiana,IN,State Senate,21,general,Kirsten Root,Democratic,,,False,False
-2026,Indiana,IN,State Senate,22,general,Ron Alting,Republican,,,True,True
+2026,Indiana,IN,State Senate,22,general,Ron Alting (incumbent) (withdrawn; remains on ballot),Republican,,,True,False
 2026,Indiana,IN,State Senate,22,general,Natasha Baker,Democratic,,,False,False
 2026,Indiana,IN,State Senate,23,general,Spencer Deery,Republican,,,True,False
 2026,Indiana,IN,State Senate,23,general,David Sanders,Democratic,,,False,False
