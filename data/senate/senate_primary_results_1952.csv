@@ -32,6 +32,23 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1952,Massachusetts,1952 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (US),John F. Kennedy,"394,138",100.00%
 1952,Massachusetts,1952 Democratic U.S. Senate primary,Primary,Write-in,False,,,9,0.00%
 1952,Massachusetts,1952 Democratic U.S. Senate primary,Primary,Total,False,,,"394,147",100.00%
+1952,Michigan,1952 Democratic U.S. Senate primary,Primary,Winning,True,Democratic Party (US),Blair Moody,"465,379",88.36%
+1952,Michigan,1952 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Louis C. Schwinger,"61,309",11.64%
+1952,Michigan,1952 Democratic U.S. Senate primary,Primary,Write-in,False,,,13,0.00%
+1952,Michigan,1952 Democratic U.S. Senate primary,Primary,Total,False,,,"526,701",100.00%
+1952,Michigan (special),1952 Democratic special U.S. Senate primary,Primary,Winning,True,Democratic Party (US),Blair Moody,"431,994",99.98%
+1952,Michigan (special),1952 Democratic special U.S. Senate primary,Primary,Write-in,False,,,95,0.02%
+1952,Michigan (special),1952 Democratic special U.S. Senate primary,Primary,Total,False,,,"432,089",100.00%
+1952,Michigan,1952 Republican U.S. Senate primary,Primary,Winning,False,Republican Party (US),Charles E. Potter,"413,244",48.95%
+1952,Michigan,1952 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (US),John B. Martin Jr.,"219,765",26.03%
+1952,Michigan,1952 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (US),Eugene C. Keyes,"187,619",22.23%
+1952,Michigan,1952 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (US),Clifford Provost,"23,542",2.79%
+1952,Michigan,1952 Republican U.S. Senate primary,Primary,Write-in,False,,,6,0.00%
+1952,Michigan,1952 Republican U.S. Senate primary,Primary,Total,False,,,"844,176",100.00%
+1952,Michigan (special),1952 Republican special U.S. Senate primary,Primary,Winning,False,Republican Party (US),Charles E. Potter,"468,214",59.83%
+1952,Michigan (special),1952 Republican special U.S. Senate primary,Primary,Candidate,False,Republican Party (US),John B. Martin Jr.,"314,128",40.14%
+1952,Michigan (special),1952 Republican special U.S. Senate primary,Primary,Write-in,False,,,246,0.03%
+1952,Michigan (special),1952 Republican special U.S. Senate primary,Primary,Total,False,,,"782,588",100.00%
 1952,Minnesota,Democratic primary election results,Primary,Winning,False,Minnesota Democratic–Farmer–Labor Party,William E. (Bill) Carlson,"126,426",54.37%
 1952,Minnesota,Democratic primary election results,Primary,Candidate,False,Minnesota Democratic–Farmer–Labor Party,John A. McDonough,"64,094",27.56%
 1952,Minnesota,Democratic primary election results,Primary,Candidate,False,Minnesota Democratic–Farmer–Labor Party,F. H. Shoemaker,"42,029",18.07%

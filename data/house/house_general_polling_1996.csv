@@ -1,0 +1,4 @@
+Year,State,State_Code,District,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+1996,Vermont,VT,AL,General,Becker Institute,1996-10,1996-10-01,1996-10-31,,,Bernie Sanders,Unknown,52%,False,October 1996
+1996,Vermont,VT,AL,General,Becker Institute,1996-10,1996-10-01,1996-10-31,,,Susan Sweetser,Unknown,33%,False,October 1996
+1996,Vermont,VT,AL,General,Becker Institute,1996-10,1996-10-01,1996-10-31,,,Jack Long,Unknown,5%,False,October 1996

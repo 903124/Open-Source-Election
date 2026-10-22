@@ -34,12 +34,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Alaska,AK,governor,1998 open primary for lieutenant governor,Candidate,Don Smith,Republican,8230.0,7.75,False,False
 1998,Alaska,AK,governor,1998 open primary for lieutenant governor,Candidate,Doyle Holmes,Republican,5764.0,5.43,False,False
 1998,Alaska,AK,governor,1998 open primary for lieutenant governor,Total,,,106244.0,100.0,False,False
-1998,Arizona,AZ,governor,Democratic Primary results,Winning,Paul Johnson,Democratic,109044.0,100.0,True,False
-1998,Arizona,AZ,governor,Democratic Primary results,Total,,,109044.0,100.0,False,False
 1998,Arizona,AZ,governor,Republican primary results,Winning,Jane Dee Hull,Republican,177324.0,76.52,True,True
 1998,Arizona,AZ,governor,Republican primary results,Candidate,Jim Howl,Republican,30699.0,13.25,False,False
 1998,Arizona,AZ,governor,Republican primary results,Candidate,Charles Brown,Republican,23710.0,10.23,False,False
 1998,Arizona,AZ,governor,Republican primary results,Total,,,231733.0,100.0,False,False
+1998,Arizona,AZ,governor,Democratic Primary results,Winning,Paul Johnson,Democratic,109044.0,100.0,True,False
+1998,Arizona,AZ,governor,Democratic Primary results,Total,,,109044.0,100.0,False,False
 1998,Arizona,AZ,governor,Libertarian primary results,Winning,Katherine Gallant,Libertarian,855.0,51.82,True,False
 1998,Arizona,AZ,governor,Libertarian primary results,Candidate,Tom Rawles,Libertarian,795.0,48.18,False,False
 1998,Arizona,AZ,governor,Libertarian primary results,Total,,,1650.0,100.0,False,False

@@ -28,12 +28,6 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1932,California,1932 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),P. M. Abbott,"13,836",2.70%
 1932,California,1932 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Annie Hale,"7,910",1.54%
 1932,California,1932 Democratic Senate primary,Primary,Total,False,,,"513,298",100.00%
-1932,Colorado (special),Democratic primary results,Primary,Winning,False,Democratic Party (United States),Alva B. Adams,"65,701",52.71
-1932,Colorado (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),John T. Barnett,"58,938",47.29
-1932,Colorado (special),Democratic primary results,Primary,Total,False,,,"124,639",100.00
-1932,Colorado (special),Republican primary,Primary,Winning,False,Republican Party (United States),Karl C. Schuyler,"66,179",58.43%
-1932,Colorado (special),Republican primary,Primary,Candidate,False,Republican Party (United States),Nate C. Warren,"47,080",41.57%
-1932,Colorado (special),Republican primary,Primary,Total,False,,,"113,259",100.00%
 1932,Colorado,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Alva B. Adams,"65,701",52.71
 1932,Colorado,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),John T. Barnett,"58,938",47.29
 1932,Colorado,Democratic primary results,Primary,Total,False,,,"124,639",100.00
@@ -161,6 +155,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1932,Oklahoma,Republican primary runoff,Primary,Winning,False,Republican Party (United States),Wirt Franklin,"42,090",59.04%
 1932,Oklahoma,Republican primary runoff,Primary,Candidate,False,Republican Party (United States),James A. Harris,"29,195",40.96%
 1932,Oklahoma,Republican primary runoff,Primary,Total,False,,,"71,285",100.00%
+1932,South Carolina,Democratic Primary results,Primary,Winning,False,Democratic Party (United States),Ellison D. Smith,"100,270",37.0
+1932,South Carolina,Democratic Primary results,Primary,Candidate,False,Democratic Party (United States),Coleman Livingston Blease,"81,297",30.0
+1932,South Carolina,Democratic Primary results,Primary,Candidate,False,Democratic Party (United States),Ashton H. Williams,"48,084",17.7
+1932,South Carolina,Democratic Primary results,Primary,Candidate,False,Democratic Party (United States),Leon W. Harris,"41,478",15.3
+1932,South Carolina,Democratic Primary Runoff results,Primary,Winning,False,Democratic Party (United States),Ellison D. Smith,"150,468",56.7
+1932,South Carolina,Democratic Primary Runoff results,Primary,Candidate,False,Democratic Party (United States),Coleman Livingston Blease,"114,840",43.3
 1932,South Dakota,Democratic primary,Primary,Winning,False,Democratic Party (United States),Ulysses Simpson Grant Cherry,"17,567",42.60%
 1932,South Dakota,Democratic primary,Primary,Candidate,False,Democratic Party (United States),Lewis W. Bicknell,"15,718",38.12%
 1932,South Dakota,Democratic primary,Primary,Candidate,False,Democratic Party (United States),"Mark Sheafe, Jr.","7,949",19.28%

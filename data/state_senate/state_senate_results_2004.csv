@@ -246,6 +246,85 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2004,Iowa,IA,State Senate,48,general,Steve Waterman,Democratic,12776.0,46.0,False,False
 2004,Iowa,IA,State Senate,50,general,Michael Gronstal,Democratic,12480.0,54.5,True,True
 2004,Iowa,IA,State Senate,50,general,Loren Knauss,Republican,10413.0,45.5,False,False
+2004,Kansas,KS,State Senate,1,general,Dennis D. Pyle,Republican,15865.0,54.64,True,False
+2004,Kansas,KS,State Senate,1,general,Tom Kautz,Democratic,13173.0,45.36,False,False
+2004,Kansas,KS,State Senate,2,general,Marci Francisco,Democratic,16478.0,50.83,True,False
+2004,Kansas,KS,State Senate,2,general,Mark Buhler,Republican,13902.0,42.89,False,False
+2004,Kansas,KS,State Senate,2,general,James W. (Jim) Mullins,Reform,2035.0,6.28,False,False
+2004,Kansas,KS,State Senate,3,general,Roger C. Pine,Republican,18134.0,51.84,True,False
+2004,Kansas,KS,State Senate,3,general,Jan Justice,Democratic,16849.0,48.16,False,False
+2004,Kansas,KS,State Senate,4,general,David Haley,Democratic,17420.0,100.0,True,False
+2004,Kansas,KS,State Senate,5,general,Mark S. Gilstrap,Democratic,13257.0,51.58,True,False
+2004,Kansas,KS,State Senate,5,general,Steve Fitzgerald,Republican,12443.0,48.42,False,False
+2004,Kansas,KS,State Senate,6,general,Chris Steineger,Democratic,14450.0,79.22,True,False
+2004,Kansas,KS,State Senate,6,general,Joy Holt,Reform,3791.0,20.78,False,False
+2004,Kansas,KS,State Senate,7,general,David Wysong,Republican,20855.0,55.94,True,False
+2004,Kansas,KS,State Senate,7,general,Thurston Cromwell,Democratic,16424.0,44.06,False,False
+2004,Kansas,KS,State Senate,8,general,Barbara P. Allen,Republican,19494.0,60.23,True,False
+2004,Kansas,KS,State Senate,8,general,Nate Hogan,Democratic,11046.0,34.13,False,False
+2004,Kansas,KS,State Senate,8,general,D. Eric West,Reform,1827.0,5.64,False,False
+2004,Kansas,KS,State Senate,9,general,Kay O'Connor,Republican,19786.0,60.12,True,False
+2004,Kansas,KS,State Senate,9,general,Mike Boatright,Democratic,13124.0,39.88,False,False
+2004,Kansas,KS,State Senate,10,general,Nick Jordan,Republican,21687.0,61.06,True,False
+2004,Kansas,KS,State Senate,10,general,Pete Roman,Democratic,13833.0,38.94,False,False
+2004,Kansas,KS,State Senate,11,general,John L. Vratil,Republican,29762.0,100.0,True,False
+2004,Kansas,KS,State Senate,12,general,Pat Apple,Republican,19815.0,64.61,True,False
+2004,Kansas,KS,State Senate,12,general,Tim Shields,Democratic,9379.0,30.58,False,False
+2004,Kansas,KS,State Senate,12,general,Tim Ralston,Libertarian,1474.0,4.81,False,False
+2004,Kansas,KS,State Senate,13,general,Jim Barone,Democratic,13948.0,49.79,True,False
+2004,Kansas,KS,State Senate,13,general,Lynda Wilkinson,Republican,13634.0,48.67,False,False
+2004,Kansas,KS,State Senate,13,general,Larry Monaghan,Libertarian,432.0,1.54,False,False
+2004,Kansas,KS,State Senate,14,general,Dwayne Umbarger,Republican,17009.0,64.92,True,False
+2004,Kansas,KS,State Senate,14,general,Dusty Deringer,Democratic,9190.0,35.08,False,False
+2004,Kansas,KS,State Senate,15,general,Derek Schmidt,Republican,24307.0,100.0,True,False
+2004,Kansas,KS,State Senate,16,general,Peggy Palmer,Republican,19104.0,69.89,True,False
+2004,Kansas,KS,State Senate,16,general,Belinda Aldrich-Farrar,Democratic,8230.0,30.11,False,False
+2004,Kansas,KS,State Senate,17,general,Jim Barnett,Republican,16739.0,62.06,True,False
+2004,Kansas,KS,State Senate,17,general,Sharon Karr,Democratic,10234.0,37.94,False,False
+2004,Kansas,KS,State Senate,18,general,Laura Kelly,Democratic,15388.0,50.16,True,False
+2004,Kansas,KS,State Senate,18,general,Dave Jackson,Republican,15290.0,49.84,False,False
+2004,Kansas,KS,State Senate,19,general,Anthony Hensley,Democratic,16009.0,60.86,True,False
+2004,Kansas,KS,State Senate,19,general,Bob Hanson,Republican,10297.0,39.14,False,False
+2004,Kansas,KS,State Senate,20,general,Vicki Schmidt,Republican,20448.0,63.24,True,False
+2004,Kansas,KS,State Senate,20,general,David Wilson,Democratic,11886.0,36.76,False,False
+2004,Kansas,KS,State Senate,21,general,Mark Taddiken,Republican,25745.0,100.0,True,False
+2004,Kansas,KS,State Senate,22,general,Roger P. Reitz,Republican,14448.0,62.02,True,False
+2004,Kansas,KS,State Senate,22,general,Julie Govert Walter,Democratic,8848.0,37.98,False,False
+2004,Kansas,KS,State Senate,23,general,Karin Brownlee,Republican,29075.0,100.0,True,False
+2004,Kansas,KS,State Senate,24,general,Pete Brungardt,Republican,17565.0,59.42,True,False
+2004,Kansas,KS,State Senate,24,general,Alan Jilka,Democratic,11994.0,40.58,False,False
+2004,Kansas,KS,State Senate,25,general,Jean Kurtis Schodorf,Republican,15478.0,66.45,True,False
+2004,Kansas,KS,State Senate,25,general,Hibbard Davis,Democratic,7814.0,33.55,False,False
+2004,Kansas,KS,State Senate,26,general,Phillip B. Journey,Republican,16472.0,57.99,True,False
+2004,Kansas,KS,State Senate,26,general,Daniel J. Thimesch,Democratic,11931.0,42.01,False,False
+2004,Kansas,KS,State Senate,27,general,Leslie D. Donovan Sr.,Republican,19215.0,64.28,True,False
+2004,Kansas,KS,State Senate,27,general,Barbara Jane Firestone,Democratic,10676.0,35.72,False,False
+2004,Kansas,KS,State Senate,28,general,Mike Petersen,Republican,9568.0,57.66,True,False
+2004,Kansas,KS,State Senate,28,general,Henry Helgerson,Democratic,7025.0,42.34,False,False
+2004,Kansas,KS,State Senate,29,general,Donald Betts Jr.,Democratic,11584.0,70.19,True,False
+2004,Kansas,KS,State Senate,29,general,Treatha Brown - Foster,Republican,4919.0,29.81,False,False
+2004,Kansas,KS,State Senate,30,general,Susan Wagle,Republican,18771.0,59.93,True,False
+2004,Kansas,KS,State Senate,30,general,David E. Clark Jr.,Democratic,11727.0,37.44,False,False
+2004,Kansas,KS,State Senate,30,general,Donald L. Harter,Libertarian,825.0,2.63,False,False
+2004,Kansas,KS,State Senate,31,general,Carolyn McGinn,Republican,19435.0,63.61,True,False
+2004,Kansas,KS,State Senate,31,general,Randy Brown,Democratic,11118.0,36.39,False,False
+2004,Kansas,KS,State Senate,32,general,Greta Goodwin,Democratic,13200.0,48.7,True,False
+2004,Kansas,KS,State Senate,32,general,Ray La Boeuf,Republican,12980.0,47.89,False,False
+2004,Kansas,KS,State Senate,32,general,James Reed Robbins,Libertarian,925.0,3.41,False,False
+2004,Kansas,KS,State Senate,33,general,Ruth Teichman,Republican,24719.0,100.0,True,False
+2004,Kansas,KS,State Senate,34,general,Terry Bruce,Republican,15557.0,59.02,True,False
+2004,Kansas,KS,State Senate,34,general,L. Duane Anstine,Democratic,10803.0,40.98,False,False
+2004,Kansas,KS,State Senate,35,general,Jay Emler,Republican,20894.0,72.39,True,False
+2004,Kansas,KS,State Senate,35,general,Chris Snyder,Democratic,7968.0,27.61,False,False
+2004,Kansas,KS,State Senate,36,general,Janis K. Lee,Democratic,18380.0,56.28,True,False
+2004,Kansas,KS,State Senate,36,general,Larry D. Salmans,Republican,13477.0,41.26,False,False
+2004,Kansas,KS,State Senate,36,general,Bill Earnest,Libertarian,804.0,2.46,False,False
+2004,Kansas,KS,State Senate,37,general,Dennis M Wilson,Republican,26295.0,71.0,True,False
+2004,Kansas,KS,State Senate,37,general,Rick Turnbow,Democratic,10742.0,29.0,False,False
+2004,Kansas,KS,State Senate,38,general,Tim Huelskamp,Republican,17183.0,100.0,True,False
+2004,Kansas,KS,State Senate,39,general,Stephen R. Morris,Republican,18423.0,100.0,True,False
+2004,Kansas,KS,State Senate,40,general,Ralph Ostmeyer,Republican,21205.0,67.32,True,False
+2004,Kansas,KS,State Senate,40,general,Tim Peterson,Democratic,10292.0,32.68,False,False
 2004,Kentucky,KY,State Senate,17,special general,Damon Thayer,Republican,4913.0,55.6,True,False
 2004,Kentucky,KY,State Senate,17,special general,Charles Britton Wells,Democratic,3920.0,44.4,False,False
 2004,Kentucky,KY,State Senate,4,special general,J. Dorsey Ridley,Democratic,12094.0,59.1,True,False

@@ -75,11 +75,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1976,Montana,Democratic Party primary results,Primary,Winning,False,Democratic Party (United States),Jack Melcher,"89,413",88.52
 1976,Montana,Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),Ray E. Gulick,"11,593",11.48
 1976,Montana,Democratic Party primary results,Primary,Total,False,,,"101,006",100.00
-1976,Montana,Republican Primary results,Primary,Winning,False,Republican Party (United States),Stanley C. Burger,"32,313",40.41
-1976,Montana,Republican Primary results,Primary,Candidate,False,Republican Party (United States),Dave Drum,"27,257",34.09
-1976,Montana,Republican Primary results,Primary,Candidate,False,Republican Party (United States),Jack Tierney,"15,129",18.92
-1976,Montana,Republican Primary results,Primary,Candidate,False,Republican Party (United States),Larry L. Gilbert,"5,258",6.58
-1976,Montana,Republican Primary results,Primary,Total,False,,,"79,957",100.00
+1976,Montana,Republican primary results,Primary,Winning,False,Republican Party (United States),Stanley C. Burger,"32,313",40.41
+1976,Montana,Republican primary results,Primary,Candidate,False,Republican Party (United States),Dave Drum,"27,257",34.09
+1976,Montana,Republican primary results,Primary,Candidate,False,Republican Party (United States),Jack Tierney,"15,129",18.92
+1976,Montana,Republican primary results,Primary,Candidate,False,Republican Party (United States),Larry L. Gilbert,"5,258",6.58
+1976,Montana,Republican primary results,Primary,Total,False,,,"79,957",100.00
 1976,Nebraska,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Edward Zorinsky,"79,988",48.58%
 1976,Nebraska,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Hess Dyas,"77,384",46.99%
 1976,Nebraska,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Lenore R. Etchison,"7,194",4.37%

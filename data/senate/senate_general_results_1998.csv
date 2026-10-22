@@ -23,7 +23,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1998,California,"1998 United States Senate election, California",General,Candidate,False,Peace and Freedom Party (United States),Ophie C. Beltran,"48,685",0.56%
 1998,California,"1998 United States Senate election, California",General,Candidate,False,Natural Law Party,Brian M. Rees,"46,543",0.59%
 1998,California,"1998 United States Senate election, California",General,Total,False,,,"8,311,905",100.00%
-1998,Colorado,General election,General,Winning,True,Republican Party (United States),Ben Nighthorse Campbell,"829,370",62.49%
+1998,Colorado,General election,General,Winning,False,Republican Party (United States),Ben Nighthorse Campbell (inc.),"829,370",62.49%
 1998,Colorado,General election,General,Candidate,False,Democratic Party (United States),Dottie Lamm,"464,754",35.02%
 1998,Colorado,General election,General,Candidate,False,Libertarian Party (United States),David S. Segal,"14,024",1.06%
 1998,Colorado,General election,General,Candidate,False,Constitution Party (United States),Kevin Swanson,"9,775",0.74%
@@ -128,11 +128,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1998,Oregon,General election results,General,Candidate,False,Natural Law Party (United States),Michael A. Campbell,"8,372",0.75%
 1998,Oregon,General election results,General,Candidate,False,Socialist Party USA,Dean M. Braa,"7,553",0.68%
 1998,Oregon,General election results,General,Total,False,,,"1,117,747",100.0%
-1998,Pennsylvania,2000 United States Senate election in Pennsylvania,General,Winning,True,Republican Party (United States),Arlen Specter,"1,814,180",61.34
-1998,Pennsylvania,2000 United States Senate election in Pennsylvania,General,Candidate,False,Democratic Party (United States),William R. Lloyd Jr.,"1,028,839",34.79
-1998,Pennsylvania,2000 United States Senate election in Pennsylvania,General,Candidate,False,Constitution Party (United States),Dean Snyder,"68,377",2.31
-1998,Pennsylvania,2000 United States Senate election in Pennsylvania,General,Candidate,False,Libertarian Party (United States),Jack Iannantuono,"46,103",1.56
-1998,Pennsylvania,2000 United States Senate election in Pennsylvania,General,Total,False,,,2957499,100.00
+1998,Pennsylvania,1998 U.S. Senate election in Pennsylvania,General,Winning,True,Republican Party (United States),Arlen Specter,"1,814,180",61.34%
+1998,Pennsylvania,1998 U.S. Senate election in Pennsylvania,General,Candidate,False,Democratic Party (United States),William R. Lloyd Jr.,"1,028,839",34.79%
+1998,Pennsylvania,1998 U.S. Senate election in Pennsylvania,General,Candidate,False,Constitution Party (United States),Dean Snyder,"68,377",2.31%
+1998,Pennsylvania,1998 U.S. Senate election in Pennsylvania,General,Candidate,False,Libertarian Party (United States),Jack Iannantuono,"46,103",1.56%
+1998,Pennsylvania,1998 U.S. Senate election in Pennsylvania,General,Total,False,,,2957499,100.00%
 1998,South Carolina,"South Carolina U.S. Senate Election, 1998",General,Winning,True,Democratic Party (US),Fritz Hollings,"563,377",52.70%
 1998,South Carolina,"South Carolina U.S. Senate Election, 1998",General,Candidate,False,Republican Party (US),Bob Inglis,"488,238",45.67%
 1998,South Carolina,"South Carolina U.S. Senate Election, 1998",General,Candidate,False,Libertarian Party (US),Richard T. Quillian,"16,991",1.59%

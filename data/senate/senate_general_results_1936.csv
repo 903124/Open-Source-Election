@@ -86,6 +86,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1936,Montana,"United States Senate election in Montana, 1936",General,Winning,True,Democratic Party (United States),James E. Murray,"121,769",54.98%
 1936,Montana,"United States Senate election in Montana, 1936",General,Candidate,False,Republican Party (United States),Thomas O. Larson,"60,038",27.11%
 1936,Montana,"United States Senate election in Montana, 1936",General,Candidate,False,Independent (politician),Joseph P. Monaghan,"39,655",17.91%
+1936,New Hampshire,1936 U.S. Senate election in New Hampshire,General,Winning,False,Republican Party (US),Styles Bridges,"107,923",51.86%
+1936,New Hampshire,1936 U.S. Senate election in New Hampshire,General,Candidate,False,Democratic Party (US),William N. Rogers,"99,195",47.67%
+1936,New Hampshire,1936 U.S. Senate election in New Hampshire,General,Candidate,False,Farmer-Labor Party (US),Stearns Morse,989,0.48%
+1936,New Hampshire,1936 U.S. Senate election in New Hampshire,General,Total,False,,,"162,257",100.00%
 1936,New Jersey,1936 United States Senate election in New Jersey,General,Winning,False,Democratic Party (US),William H. Smathers,"916,414",54.90%
 1936,New Jersey,1936 United States Senate election in New Jersey,General,Candidate,True,Republican Party (US),William Warren Barbour,"740,088",44.34%
 1936,New Jersey,1936 United States Senate election in New Jersey,General,Candidate,False,Townsend Party,Fred Turner,"6,651",0.40%

@@ -108,6 +108,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1990,Rhode Island,RI,governor,1990 Rhode Island gubernatorial election,Winning,Bruce Sundlun,Democratic,264411,74.15,True,False
 1990,Rhode Island,RI,governor,1990 Rhode Island gubernatorial election,Candidate,Edward D. DiPrete,Republican,92177,25.85,False,True
 1990,Rhode Island,RI,governor,1990 Rhode Island gubernatorial election,Total,,,356672,100.0,False,False
+1990,South Carolina,SC,governor,1990 South Carolina gubernatorial election,Winning,"Carroll A. Campbell, Jr.",Republican,528831,69.49,True,True
+1990,South Carolina,SC,governor,1990 South Carolina gubernatorial election,Candidate,Theo Mitchell,Democratic,212048,27.86,False,False
+1990,South Carolina,SC,governor,1990 South Carolina gubernatorial election,Candidate,"John R. Peeples, Jr.",American,17263,2.3,False,False
+1990,South Carolina,SC,governor,1990 South Carolina gubernatorial election,Candidate,Write-Ins,No,2877,0.4,False,False
 1990,South Dakota,SD,governor,"South Dakota gubernatorial election, 1990",Winning,George S. Mickelson (inc.),Republican,151198,58.9,True,False
 1990,South Dakota,SD,governor,"South Dakota gubernatorial election, 1990",Candidate,Bob L. Samuelson,Democratic,105525,41.1,False,False
 1990,South Dakota,SD,governor,"South Dakota gubernatorial election, 1990",Total,,,256723,100.0,False,False

@@ -1,90 +1,105 @@
-Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
-1950,Arizona,"United States Senate election in Arizona, 1950",General,Winning,True,Democratic Party (United States),Carl T. Hayden,"116,246",62.80%
-1950,Arizona,"United States Senate election in Arizona, 1950",General,Candidate,False,Republican Party (United States),Bruce Brockett,"68,846",37.20%
-1950,Colorado,1950 United States Senate election in Colorado,General,Winning,False,Republican Party (United States),Eugene Millikin (inc.),"239,724",53.25%
-1950,Colorado,1950 United States Senate election in Colorado,General,Candidate,False,Democratic Party (United States),John A. Carroll,"210,442",46.75%
-1950,Connecticut (special),1950 United States Senate election in Connecticut,General,Winning,True,Democratic Party (US),William Benton,"431,413",49.18
-1950,Connecticut (special),1950 United States Senate election in Connecticut,General,Candidate,False,Republican Party (US),Prescott Bush,"430,311",49.06
-1950,Connecticut (special),1950 United States Senate election in Connecticut,General,Candidate,False,Socialist Party of America,John J. Gillespie,"15,441",1.76
-1950,Connecticut,1950 U.S. Senate election in Connecticut,General,Winning,True,Democratic Party (US),Brien McMahon,"453,646",51.68%
-1950,Connecticut,1950 U.S. Senate election in Connecticut,General,Candidate,False,Republican Party (US),Joseph E. Talbot,"409,053",46.60%
-1950,Connecticut,1950 U.S. Senate election in Connecticut,General,Candidate,False,Socialist Party (US),Anthony R. Martino,"15,128",1.72%
+Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,percentage
+1950,Alabama,1950 United States Senate election,General,Winning,True,J. Lister Hill,Democratic Party (US),"125,534",76.54%
+1950,Alabama,1950 United States Senate election,General,Candidate,False,John G. Crommelin,Independent,"38,477",23.46%
+1950,Alabama,1950 United States Senate election,General,Total,False,,,"164,011",100.00%
+1950,Arizona,"United States Senate election in Arizona, 1950",General,Winning,True,Carl T. Hayden,Democratic Party (United States),"116,246",62.80%
+1950,Arizona,"United States Senate election in Arizona, 1950",General,Candidate,False,Bruce Brockett,Republican Party (United States),"68,846",37.20%
+1950,Colorado,1950 United States Senate election in Colorado,General,Winning,False,Eugene Millikin (inc.),Republican Party (United States),"239,724",53.25%
+1950,Colorado,1950 United States Senate election in Colorado,General,Candidate,False,John A. Carroll,Democratic Party (United States),"210,442",46.75%
+1950,Connecticut (special),1950 United States Senate election in Connecticut,General,Winning,True,William Benton,Democratic Party (US),"431,413",49.18
+1950,Connecticut (special),1950 United States Senate election in Connecticut,General,Candidate,False,Prescott Bush,Republican Party (US),"430,311",49.06
+1950,Connecticut (special),1950 United States Senate election in Connecticut,General,Candidate,False,John J. Gillespie,Socialist Party of America,"15,441",1.76
+1950,Connecticut,1950 U.S. Senate election in Connecticut,General,Winning,True,Brien McMahon,Democratic Party (US),"453,646",51.68%
+1950,Connecticut,1950 U.S. Senate election in Connecticut,General,Candidate,False,Joseph E. Talbot,Republican Party (US),"409,053",46.60%
+1950,Connecticut,1950 U.S. Senate election in Connecticut,General,Candidate,False,Anthony R. Martino,Socialist Party (US),"15,128",1.72%
 1950,Connecticut,1950 U.S. Senate election in Connecticut,General,Total,False,,,"877,827",100.0%
-1950,Georgia,1950 U.S. Senate election in Georgia,General,Winning,True,Democratic Party (United States),Walter F. George,"261,290",100.00%
+1950,Georgia,1950 U.S. Senate election in Georgia,General,Winning,True,Walter F. George,Democratic Party (United States),"261,290",100.00%
 1950,Georgia,1950 U.S. Senate election in Georgia,General,Total,False,,,"261,293",100.00%
-1950,Illinois,1950 U.S. Senate election in Illinois,General,Winning,False,Republican Party (United States),Everett McKinley Dirksen,"1,951,984",53.88%
-1950,Illinois,1950 U.S. Senate election in Illinois,General,Candidate,True,Democratic Party (United States),Scott W. Lucas,"1,657,630",45.76%
-1950,Illinois,1950 U.S. Senate election in Illinois,General,Candidate,False,Prohibition Party,Enoch A. Holtwick,"13,050",0.36%
+1950,Idaho (special),1950 United States Senate special election in Idaho,General,Winning,True,Henry Dworshak,Republican Party (US),"104,608",51.86
+1950,Idaho (special),1950 United States Senate special election in Idaho,General,Candidate,False,Claude J. Burtenshaw,Democratic Party (US),"97,092",48.14
+1950,Idaho,1950 United States Senate election in Idaho,General,Winning,False,Herman Welker,Republican Party (US),"124,237",61.68
+1950,Idaho,1950 United States Senate election in Idaho,General,Candidate,False,D. Worth Clark,Democratic Party (US),"77,180",38.32
+1950,Illinois,1950 U.S. Senate election in Illinois,General,Winning,False,Everett McKinley Dirksen,Republican Party (United States),"1,951,984",53.88%
+1950,Illinois,1950 U.S. Senate election in Illinois,General,Candidate,True,Scott W. Lucas,Democratic Party (United States),"1,657,630",45.76%
+1950,Illinois,1950 U.S. Senate election in Illinois,General,Candidate,False,Enoch A. Holtwick,Prohibition Party,"13,050",0.36%
 1950,Illinois,1950 U.S. Senate election in Illinois,General,Write-in,False,,,9,0.00%
 1950,Illinois,1950 U.S. Senate election in Illinois,General,Total,False,,,"3,622,673",100
-1950,Indiana,1950 United States Senate election in Indiana,General,Winning,True,Republican Party (United States),Homer Capehart,"844,303",52.81%
-1950,Indiana,1950 United States Senate election in Indiana,General,Candidate,False,Democratic Party (United States),Alexander M. Campbell,"741,025",46.35%
-1950,Indiana,1950 United States Senate election in Indiana,General,Candidate,False,Prohibition Party (United States),Lester N. Abel,"13,396",0.84%
+1950,Indiana,1950 United States Senate election in Indiana,General,Winning,True,Homer Capehart,Republican Party (United States),"844,303",52.81%
+1950,Indiana,1950 United States Senate election in Indiana,General,Candidate,False,Alexander M. Campbell,Democratic Party (United States),"741,025",46.35%
+1950,Indiana,1950 United States Senate election in Indiana,General,Candidate,False,Lester N. Abel,Prohibition Party (United States),"13,396",0.84%
 1950,Indiana,1950 United States Senate election in Indiana,General,Total,False,,,"1,598,724",100.00%
-1950,Iowa,1950 U.S. Senate election in Iowa,General,Winning,True,Republican Party (United States),Bourke B. Hickenlooper,"470,613",54.82%
-1950,Iowa,1950 U.S. Senate election in Iowa,General,Candidate,False,Democratic Party (United States),Albert J. Loveland,"383,766",44.70%
-1950,Iowa,1950 U.S. Senate election in Iowa,General,Candidate,False,Prohibition Party (US),Z. Everett Kellum,"3,273",0.38%
-1950,Iowa,1950 U.S. Senate election in Iowa,General,Candidate,False,Dixiecrat,Ernest J. Seemann,571,0.07%
-1950,Iowa,1950 U.S. Senate election in Iowa,General,Candidate,False,Socialist Labor Party (US),Leslie O. Ludwig,300,0.04%
+1950,Iowa,1950 U.S. Senate election in Iowa,General,Winning,True,Bourke B. Hickenlooper,Republican Party (United States),"470,613",54.82%
+1950,Iowa,1950 U.S. Senate election in Iowa,General,Candidate,False,Albert J. Loveland,Democratic Party (United States),"383,766",44.70%
+1950,Iowa,1950 U.S. Senate election in Iowa,General,Candidate,False,Z. Everett Kellum,Prohibition Party (US),"3,273",0.38%
+1950,Iowa,1950 U.S. Senate election in Iowa,General,Candidate,False,Ernest J. Seemann,Dixiecrat,571,0.07%
+1950,Iowa,1950 U.S. Senate election in Iowa,General,Candidate,False,Leslie O. Ludwig,Socialist Labor Party (US),300,0.04%
 1950,Iowa,1950 U.S. Senate election in Iowa,General,Total,False,,,"858,523",100.00%
-1950,Kansas (special),1950 United States Senate election in Kansas,General,Winning,False,Republican Party (United States),Frank Carlson,"335,880",54.25%
-1950,Kansas (special),1950 United States Senate election in Kansas,General,Candidate,False,Democratic Party (United States),Paul Aiken,"271,365",43.83%
-1950,Kansas (special),1950 United States Senate election in Kansas,General,Candidate,False,Prohibition Party,Verne L. Damon,"11,859",1.92%
-1950,Kansas (special),1950 United States Senate election in Kansas,General,Total,False,,,"619,104",100.00%
-1950,Kansas (special),1950 United States Senate special election in Kansas,General,Winning,False,Republican Party (United States),Frank Carlson,"321,718",55.17%
-1950,Kansas (special),1950 United States Senate special election in Kansas,General,Candidate,False,Democratic Party (United States),Paul Aiken,"261,405",44.83%
-1950,Kansas (special),1950 United States Senate special election in Kansas,General,Total,False,,,"583,123",100.00%
-1950,Kansas,1950 United States Senate election in Kansas,General,Winning,False,Republican Party (United States),Frank Carlson,"335,880",54.25%
-1950,Kansas,1950 United States Senate election in Kansas,General,Candidate,False,Democratic Party (United States),Paul Aiken,"271,365",43.83%
-1950,Kansas,1950 United States Senate election in Kansas,General,Candidate,False,Prohibition Party,Verne L. Damon,"11,859",1.92%
+1950,Kansas,1950 United States Senate election in Kansas,General,Winning,False,Frank Carlson,Republican Party (United States),"335,880",54.25%
+1950,Kansas,1950 United States Senate election in Kansas,General,Candidate,False,Paul Aiken,Democratic Party (United States),"271,365",43.83%
+1950,Kansas,1950 United States Senate election in Kansas,General,Candidate,False,Verne L. Damon,Prohibition Party,"11,859",1.92%
 1950,Kansas,1950 United States Senate election in Kansas,General,Total,False,,,"619,104",100.00%
-1950,Kansas,1950 United States Senate special election in Kansas,General,Winning,False,Republican Party (United States),Frank Carlson,"321,718",55.17%
-1950,Kansas,1950 United States Senate special election in Kansas,General,Candidate,False,Democratic Party (United States),Paul Aiken,"261,405",44.83%
-1950,Kansas,1950 United States Senate special election in Kansas,General,Total,False,,,"583,123",100.00%
-1950,Louisiana,"United States Senate election in Louisiana, 1950",General,Winning,True,Democratic Party (US),Russell B. Long,"220,907",87.72%
-1950,Louisiana,"United States Senate election in Louisiana, 1950",General,Candidate,False,Republican Party (US),Charles S. Gerth,"30,931",12.28%
-1950,Maryland,1950 U.S. Senate election in Maryland,General,Winning,False,Republican Party (United States),John Marshall Butler,"326,291",53.00%
-1950,Maryland,1950 U.S. Senate election in Maryland,General,Candidate,False,Democratic Party (United States),Millard Tydings (inc.),"283,180",46.00%
-1950,Maryland,1950 U.S. Senate election in Maryland,General,Candidate,False,"Progressive Party (United States, 1948)",Samuel Fox,"6,143",1.00%
+1950,Kansas (special),1950 United States Senate special election in Kansas,General,Winning,False,Frank Carlson,Republican Party (United States),"321,718",55.17%
+1950,Kansas (special),1950 United States Senate special election in Kansas,General,Candidate,False,Paul Aiken,Democratic Party (United States),"261,405",44.83%
+1950,Kansas (special),1950 United States Senate special election in Kansas,General,Total,False,,,"583,123",100.00%
+1950,Kentucky,1950 U.S. Senate election in Kentucky,General,Winning,True,Earle Clements,Democratic Party (US),"334,249",54.16%
+1950,Kentucky,1950 U.S. Senate election in Kentucky,General,Candidate,False,Charles I. Dawson,Republican Party (US),"278,368",45.11%
+1950,Kentucky,1950 U.S. Senate election in Kentucky,General,Candidate,False,James E. Olson,Independent politician,"4,496",0.73%
+1950,Kentucky (special),1950 U.S. Senate special election in Kentucky,General,Winning,True,Earle Clements,Democratic Party (US),"317,320",54.40%
+1950,Kentucky (special),1950 U.S. Senate special election in Kentucky,General,Candidate,False,Charles I. Dawson,Republican Party (US),"265,994",45.60%
+1950,Louisiana,"United States Senate election in Louisiana, 1950",General,Winning,True,Russell B. Long,Democratic Party (US),"220,907",87.72%
+1950,Louisiana,"United States Senate election in Louisiana, 1950",General,Candidate,False,Charles S. Gerth,Republican Party (US),"30,931",12.28%
+1950,Maryland,1950 U.S. Senate election in Maryland,General,Winning,False,John Marshall Butler,Republican Party (United States),"326,291",53.00%
+1950,Maryland,1950 U.S. Senate election in Maryland,General,Candidate,False,Millard Tydings (inc.),Democratic Party (United States),"283,180",46.00%
+1950,Maryland,1950 U.S. Senate election in Maryland,General,Candidate,False,Samuel Fox,"Progressive Party (United States, 1948)","6,143",1.00%
 1950,Maryland,1950 U.S. Senate election in Maryland,General,Total,False,,,"615,614",100.00%
-1950,Missouri,1950 United States Senate election in Missouri,General,Winning,False,Democratic Party (US),Thomas C. Hennings Jr.,"685,732",53.60
-1950,Missouri,1950 United States Senate election in Missouri,General,Candidate,True,Republican Party (US),Forrest C. Donnell,"592,922",46.34
-1950,Missouri,1950 United States Senate election in Missouri,General,Candidate,False,Socialist Labor Party of America,Henry W. Genck,150,0.01
-1950,New York,1950 United States Senate election in New York,General,Candidate,True,Democratic Party (United States),Herbert H. Lehman,"2,319,719",44.37%
-1950,New York,1950 United States Senate election in New York,General,Candidate,True,Liberal Party of New York,Herbert H. Lehman,"312,594",5.98%
-1950,New York,1950 United States Senate election in New York,General,Winning,False,Republican Party (United States),Joe Hanley,"2,367,353",45.28%
-1950,New York,1950 United States Senate election in New York,General,Candidate,False,American Labor Party,W. E. B. Du Bois,"205,729",3.94%
-1950,New York,1950 United States Senate election in New York,General,Candidate,False,Socialist Workers Party (US),Joseph Hansen,"15,340",0.29%
-1950,New York,1950 United States Senate election in New York,General,Candidate,False,Socialist Labor Party of America,Stephen Emery,"7,659",0.15%
+1950,Missouri,1950 United States Senate election in Missouri,General,Winning,False,Thomas C. Hennings Jr.,Democratic Party (US),"685,732",53.60
+1950,Missouri,1950 United States Senate election in Missouri,General,Candidate,True,Forrest C. Donnell,Republican Party (US),"592,922",46.34
+1950,Missouri,1950 United States Senate election in Missouri,General,Candidate,False,Henry W. Genck,Socialist Labor Party of America,150,0.01
+1950,Nevada,1950 U.S. Senate election in Nevada,General,Winning,True,Pat McCarran,Democratic Party (US),"35,829",58.01%
+1950,Nevada,1950 U.S. Senate election in Nevada,General,Candidate,False,George E. Marshall,Republican Party (US),"25,933",41.99%
+1950,New Hampshire,1950 U.S. Senate election in New Hampshire,General,Winning,True,Charles W. Tobey,Republican Party (US),"106,142",55.99%
+1950,New Hampshire,1950 U.S. Senate election in New Hampshire,General,Candidate,False,Emmet J. Kelley,Democratic Party (US),"72,473",38.23%
+1950,New Hampshire,1950 U.S. Senate election in New Hampshire,General,Candidate,False,Wesley Powell (write-in),Independent politician,"10,943",5.77%
+1950,New Hampshire,1950 U.S. Senate election in New Hampshire,General,Total,False,,,"189,558",100.00%
+1950,New York,1950 United States Senate election in New York,General,Candidate,True,Herbert H. Lehman,Democratic Party (United States),"2,319,719",44.37%
+1950,New York,1950 United States Senate election in New York,General,Candidate,True,Herbert H. Lehman,Liberal Party of New York,"312,594",5.98%
+1950,New York,1950 United States Senate election in New York,General,Winning,False,Joe Hanley,Republican Party (United States),"2,367,353",45.28%
+1950,New York,1950 United States Senate election in New York,General,Candidate,False,W. E. B. Du Bois,American Labor Party,"205,729",3.94%
+1950,New York,1950 United States Senate election in New York,General,Candidate,False,Joseph Hansen,Socialist Workers Party (US),"15,340",0.29%
+1950,New York,1950 United States Senate election in New York,General,Candidate,False,Stephen Emery,Socialist Labor Party of America,"7,659",0.15%
 1950,New York,1950 United States Senate election in New York,General,Total,False,,,"5,228,394",100.00%
-1950,North Carolina (special),Democratic runoff,General,Winning,False,Democratic Party (US),Willis Smith,"281,114",51.78
-1950,North Carolina (special),Democratic runoff,General,Candidate,True,Democratic Party (US),Frank Porter Graham,"261,789",48.22
-1950,North Carolina,1950 U.S. Senate election in North Carolina,General,Winning,True,Democratic Party (United States),Clyde R. Hoey,"376,472",68.67%
-1950,North Carolina,1950 U.S. Senate election in North Carolina,General,Candidate,False,Republican Party (United States),Halsey B. Leavitt,"171,804",31.34%
+1950,North Carolina (special),Democratic runoff,General,Winning,False,Willis Smith,Democratic Party (US),"281,114",51.78
+1950,North Carolina (special),Democratic runoff,General,Candidate,True,Frank Porter Graham,Democratic Party (US),"261,789",48.22
+1950,North Carolina (special),1950 United States Senate Special election in North Carolina,General,Winning,False,Willis Smith,Democratic Party (US),"364,912",66.97
+1950,North Carolina (special),1950 United States Senate Special election in North Carolina,General,Candidate,False,E. L. Galvin,Republican Party (US),"177,753",32.62
+1950,North Carolina,1950 U.S. Senate election in North Carolina,General,Winning,True,Clyde R. Hoey,Democratic Party (United States),"376,472",68.67%
+1950,North Carolina,1950 U.S. Senate election in North Carolina,General,Candidate,False,Halsey B. Leavitt,Republican Party (United States),"171,804",31.34%
 1950,North Carolina,1950 U.S. Senate election in North Carolina,General,Total,False,,,"548,276",100.00%
-1950,North Dakota,1950 United States Senate special election in North Dakota,General,Winning,False,Republican Party (United States),Milton Young (inc.),"126,209",67.59%
-1950,North Dakota,1950 United States Senate special election in North Dakota,General,Candidate,False,Democratic Party (United States),Harry O'Brien,"60,507",32.41%
-1950,Ohio,1950 United States Senate election in Ohio,General,Winning,True,Republican Party (United States),Robert A. Taft,"1,645,643",57.54%
-1950,Ohio,1950 United States Senate election in Ohio,General,Candidate,False,Democratic Party (United States),Joseph T. Ferguson,"1,214,459",42.46%
+1950,North Dakota,1950 United States Senate special election in North Dakota,General,Winning,False,Milton Young (inc.),Republican Party (United States),"126,209",67.59%
+1950,North Dakota,1950 United States Senate special election in North Dakota,General,Candidate,False,Harry O'Brien,Democratic Party (United States),"60,507",32.41%
+1950,Ohio,1950 United States Senate election in Ohio,General,Winning,True,Robert A. Taft,Republican Party (United States),"1,645,643",57.54%
+1950,Ohio,1950 United States Senate election in Ohio,General,Candidate,False,Joseph T. Ferguson,Democratic Party (United States),"1,214,459",42.46%
 1950,Ohio,1950 United States Senate election in Ohio,General,Total,False,,,"2,860,102",100.0%
-1950,Oklahoma,1950 United States Senate election in Oklahoma,General,Winning,False,Democratic Party (United States),Mike Monroney,"345,953",54.81%
-1950,Oklahoma,1950 United States Senate election in Oklahoma,General,Candidate,False,Republican Party (United States),Bill Alexander,"285,224",45.19%
-1950,Pennsylvania,General election results,General,Winning,False,Republican Party (US),James H. Duff,"1,820,400",51.30%
-1950,Pennsylvania,General election results,General,Candidate,True,Democratic Party (US),Francis J. Myers,"1,694,076",47.74%
-1950,Pennsylvania,General election results,General,Candidate,False,Prohibition Party,Earl N. Bergerstock,"12,618",0.36%
-1950,Pennsylvania,General election results,General,Candidate,False,Independent politician,Jack Still,"8,353",0.24%
-1950,Pennsylvania,General election results,General,Candidate,False,"Progressive Party (United States, 1948)",Lillian R. Narins,"5,516",0.16%
-1950,Pennsylvania,General election results,General,Candidate,False,Socialist Party USA,William J. Van Essen,"4,864",0.14%
-1950,Pennsylvania,General election results,General,Candidate,False,Socialist Labor Party of America,Frank Knotek,"1,596",0.05%
-1950,South Carolina,1950 South Carolina U.S. Senate election,General,Winning,True,Democratic Party (United States),Olin D. Johnston,"50,458",99.93%
-1950,South Dakota,1950 United States Senate election in South Dakota,General,Winning,False,Republican Party (United States),Francis H. Case,"160,670",63.92%
-1950,South Dakota,1950 United States Senate election in South Dakota,General,Candidate,False,Democratic Party (United States),John A. Engel,"90,692",36.08%
-1950,Vermont,"United States Senate election in Vermont, 1950",General,Winning,False,Republican Party (United States),George Aiken (inc.),"69,543",78.01%
-1950,Vermont,"United States Senate election in Vermont, 1950",General,Candidate,False,Democratic Party (United States),James E. Bigelow,"19,608",21.99%
+1950,Oklahoma,1950 United States Senate election in Oklahoma,General,Winning,False,Mike Monroney,Democratic Party (United States),"345,953",54.81%
+1950,Oklahoma,1950 United States Senate election in Oklahoma,General,Candidate,False,Bill Alexander,Republican Party (United States),"285,224",45.19%
+1950,Pennsylvania,General election results,General,Winning,False,James H. Duff,Republican Party (US),"1,820,400",51.30%
+1950,Pennsylvania,General election results,General,Candidate,True,Francis J. Myers,Democratic Party (US),"1,694,076",47.74%
+1950,Pennsylvania,General election results,General,Candidate,False,Earl N. Bergerstock,Prohibition Party,"12,618",0.36%
+1950,Pennsylvania,General election results,General,Candidate,False,Jack Still,Independent politician,"8,353",0.24%
+1950,Pennsylvania,General election results,General,Candidate,False,Lillian R. Narins,"Progressive Party (United States, 1948)","5,516",0.16%
+1950,Pennsylvania,General election results,General,Candidate,False,William J. Van Essen,Socialist Party USA,"4,864",0.14%
+1950,Pennsylvania,General election results,General,Candidate,False,Frank Knotek,Socialist Labor Party of America,"1,596",0.05%
+1950,South Carolina,1950 South Carolina U.S. Senate election,General,Winning,True,Olin D. Johnston,Democratic Party (United States),"50,458",99.93%
+1950,South Dakota,1950 United States Senate election in South Dakota,General,Winning,False,Francis H. Case,Republican Party (United States),"160,670",63.92%
+1950,South Dakota,1950 United States Senate election in South Dakota,General,Candidate,False,John A. Engel,Democratic Party (United States),"90,692",36.08%
+1950,Vermont,"United States Senate election in Vermont, 1950",General,Winning,False,George Aiken (inc.),Republican Party (United States),"69,543",78.01%
+1950,Vermont,"United States Senate election in Vermont, 1950",General,Candidate,False,James E. Bigelow,Democratic Party (United States),"19,608",21.99%
 1950,Vermont,"United States Senate election in Vermont, 1950",General,Total,False,,,"89,151",100.00%
-1950,Wisconsin,1950 U.S. Senate election in Wisconsin,General,Winning,True,Republican Party (United States),Alexander Wiley,"595,283",53.34%
-1950,Wisconsin,1950 U.S. Senate election in Wisconsin,General,Candidate,False,Democratic Party (United States),Thomas E. Fairchild,"515,539",46.19%
-1950,Wisconsin,1950 U.S. Senate election in Wisconsin,General,Candidate,False,Socialist Party USA,Edwin W. Knappe,"3,972",0.36%
-1950,Wisconsin,1950 U.S. Senate election in Wisconsin,General,Candidate,False,Independent (politician),Perry J. Stearns,644,0.06%
-1950,Wisconsin,1950 U.S. Senate election in Wisconsin,General,Candidate,False,Socialist Workers Party (US),James E. Boulton,332,0.03%
-1950,Wisconsin,1950 U.S. Senate election in Wisconsin,General,Candidate,False,Socialist Labor Party (US),Artemio Cozzini,307,0.03%
+1950,Washington,1950 United States Senate election in Washington,General,Winning,True,Warren G. Magnuson,Democratic Party (US),"397,719",53.40
+1950,Washington,1950 United States Senate election in Washington,General,Candidate,False,W. Walter Williams,Republican Party (US),"342,464",45.98
+1950,Wisconsin,1950 U.S. Senate election in Wisconsin,General,Winning,True,Alexander Wiley,Republican Party (United States),"595,283",53.34%
+1950,Wisconsin,1950 U.S. Senate election in Wisconsin,General,Candidate,False,Thomas E. Fairchild,Democratic Party (United States),"515,539",46.19%
+1950,Wisconsin,1950 U.S. Senate election in Wisconsin,General,Candidate,False,Edwin W. Knappe,Socialist Party USA,"3,972",0.36%
+1950,Wisconsin,1950 U.S. Senate election in Wisconsin,General,Candidate,False,Perry J. Stearns,Independent (politician),644,0.06%
+1950,Wisconsin,1950 U.S. Senate election in Wisconsin,General,Candidate,False,James E. Boulton,Socialist Workers Party (US),332,0.03%
+1950,Wisconsin,1950 U.S. Senate election in Wisconsin,General,Candidate,False,Artemio Cozzini,Socialist Labor Party (US),307,0.03%

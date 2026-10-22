@@ -202,64 +202,49 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2004,Alabama,AL,Winston,County,Other,Other,57,0.55,10423,Republican
 2004,Arizona,AZ,Apache,County,George W. Bush,Republican,8384,34.65,24198,Democratic
 2004,Arizona,AZ,Apache,County,John Kerry,Democratic,15658,64.71,24198,Democratic
-2004,Arizona,AZ,Apache,County,Michael Badnarik,Libertarian,142,0.59,24198,Democratic
-2004,Arizona,AZ,Apache,County,Other,Write-Ins,14,0.06,24198,Democratic
+2004,Arizona,AZ,Apache,County,Other,Other,156,0.64,24198,Democratic
 2004,Arizona,AZ,Cochise,County,George W. Bush,Republican,26556,59.55,44595,Republican
 2004,Arizona,AZ,Cochise,County,John Kerry,Democratic,17514,39.27,44595,Republican
-2004,Arizona,AZ,Cochise,County,Michael Badnarik,Libertarian,318,0.71,44595,Republican
-2004,Arizona,AZ,Cochise,County,Other,Write-Ins,207,0.46,44595,Republican
+2004,Arizona,AZ,Cochise,County,Other,Other,525,1.18,44595,Republican
 2004,Arizona,AZ,Coconino,County,George W. Bush,Republican,22526,43.0,52391,Democratic
 2004,Arizona,AZ,Coconino,County,John Kerry,Democratic,29243,55.82,52391,Democratic
-2004,Arizona,AZ,Coconino,County,Michael Badnarik,Libertarian,377,0.72,52391,Democratic
-2004,Arizona,AZ,Coconino,County,Other,Write-Ins,245,0.47,52391,Democratic
+2004,Arizona,AZ,Coconino,County,Other,Other,622,1.18,52391,Democratic
 2004,Arizona,AZ,Gila,County,George W. Bush,Republican,12343,59.12,20877,Republican
 2004,Arizona,AZ,Gila,County,John Kerry,Democratic,8314,39.82,20877,Republican
-2004,Arizona,AZ,Gila,County,Michael Badnarik,Libertarian,155,0.74,20877,Republican
-2004,Arizona,AZ,Gila,County,Other,Write-Ins,65,0.31,20877,Republican
+2004,Arizona,AZ,Gila,County,Other,Other,220,1.06,20877,Republican
 2004,Arizona,AZ,Graham,County,George W. Bush,Republican,7467,69.65,10720,Republican
 2004,Arizona,AZ,Graham,County,John Kerry,Democratic,3185,29.71,10720,Republican
-2004,Arizona,AZ,Graham,County,Michael Badnarik,Libertarian,66,0.62,10720,Republican
-2004,Arizona,AZ,Graham,County,Other,Write-Ins,2,0.02,10720,Republican
+2004,Arizona,AZ,Graham,County,Other,Other,68,0.64,10720,Republican
 2004,Arizona,AZ,Greenlee,County,George W. Bush,Republican,1899,61.92,3067,Republican
 2004,Arizona,AZ,Greenlee,County,John Kerry,Democratic,1146,37.37,3067,Republican
-2004,Arizona,AZ,Greenlee,County,Michael Badnarik,Libertarian,19,0.62,3067,Republican
-2004,Arizona,AZ,Greenlee,County,Other,Write-Ins,3,0.1,3067,Republican
+2004,Arizona,AZ,Greenlee,County,Other,Other,22,0.71,3067,Republican
 2004,Arizona,AZ,La Paz,County,George W. Bush,Republican,3158,62.42,5059,Republican
 2004,Arizona,AZ,La Paz,County,John Kerry,Democratic,1849,36.55,5059,Republican
-2004,Arizona,AZ,La Paz,County,Michael Badnarik,Libertarian,45,0.89,5059,Republican
-2004,Arizona,AZ,La Paz,County,Other,Write-Ins,7,0.14,5059,Republican
+2004,Arizona,AZ,La Paz,County,Other,Other,52,1.03,5059,Republican
 2004,Arizona,AZ,Maricopa,County,George W. Bush,Republican,679455,56.86,1194961,Republican
 2004,Arizona,AZ,Maricopa,County,John Kerry,Democratic,504849,42.25,1194961,Republican
-2004,Arizona,AZ,Maricopa,County,Michael Badnarik,Libertarian,6776,0.57,1194961,Republican
-2004,Arizona,AZ,Maricopa,County,Other,Write-Ins,3881,0.32,1194961,Republican
+2004,Arizona,AZ,Maricopa,County,Other,Other,10657,0.89,1194961,Republican
 2004,Arizona,AZ,Mohave,County,George W. Bush,Republican,36794,63.53,57915,Republican
 2004,Arizona,AZ,Mohave,County,John Kerry,Democratic,20503,35.4,57915,Republican
-2004,Arizona,AZ,Mohave,County,Michael Badnarik,Libertarian,393,0.68,57915,Republican
-2004,Arizona,AZ,Mohave,County,Other,Write-Ins,225,0.39,57915,Republican
+2004,Arizona,AZ,Mohave,County,Other,Other,618,1.07,57915,Republican
 2004,Arizona,AZ,Navajo,County,George W. Bush,Republican,17277,53.32,32404,Republican
 2004,Arizona,AZ,Navajo,County,John Kerry,Democratic,14815,45.72,32404,Republican
-2004,Arizona,AZ,Navajo,County,Michael Badnarik,Libertarian,224,0.69,32404,Republican
-2004,Arizona,AZ,Navajo,County,Other,Write-Ins,88,0.27,32404,Republican
+2004,Arizona,AZ,Navajo,County,Other,Other,312,0.96,32404,Republican
 2004,Arizona,AZ,Pima,County,George W. Bush,Republican,171109,46.56,367492,Democratic
 2004,Arizona,AZ,Pima,County,John Kerry,Democratic,193128,52.55,367492,Democratic
-2004,Arizona,AZ,Pima,County,Michael Badnarik,Libertarian,2109,0.57,367492,Democratic
-2004,Arizona,AZ,Pima,County,Other,Write-Ins,1146,0.31,367492,Democratic
+2004,Arizona,AZ,Pima,County,Other,Other,3255,0.89,367492,Democratic
 2004,Arizona,AZ,Pinal,County,George W. Bush,Republican,37006,57.27,64622,Republican
 2004,Arizona,AZ,Pinal,County,John Kerry,Democratic,27252,42.17,64622,Republican
-2004,Arizona,AZ,Pinal,County,Michael Badnarik,Libertarian,333,0.52,64622,Republican
-2004,Arizona,AZ,Pinal,County,Other,Write-Ins,31,0.05,64622,Republican
+2004,Arizona,AZ,Pinal,County,Other,Other,364,0.56,64622,Republican
 2004,Arizona,AZ,Santa Cruz,County,George W. Bush,Republican,4668,39.93,11689,Democratic
 2004,Arizona,AZ,Santa Cruz,County,John Kerry,Democratic,6909,59.11,11689,Democratic
-2004,Arizona,AZ,Santa Cruz,County,Michael Badnarik,Libertarian,80,0.68,11689,Democratic
-2004,Arizona,AZ,Santa Cruz,County,Other,Write-Ins,32,0.27,11689,Democratic
+2004,Arizona,AZ,Santa Cruz,County,Other,Other,112,0.96,11689,Democratic
 2004,Arizona,AZ,Yavapai,County,George W. Bush,Republican,53468,61.05,87583,Republican
 2004,Arizona,AZ,Yavapai,County,John Kerry,Democratic,33127,37.82,87583,Republican
-2004,Arizona,AZ,Yavapai,County,Michael Badnarik,Libertarian,612,0.7,87583,Republican
-2004,Arizona,AZ,Yavapai,County,Other,Write-Ins,376,0.43,87583,Republican
+2004,Arizona,AZ,Yavapai,County,Other,Other,988,1.13,87583,Republican
 2004,Arizona,AZ,Yuma,County,George W. Bush,Republican,22184,57.58,38529,Republican
 2004,Arizona,AZ,Yuma,County,John Kerry,Democratic,16032,41.61,38529,Republican
-2004,Arizona,AZ,Yuma,County,Michael Badnarik,Libertarian,207,0.54,38529,Republican
-2004,Arizona,AZ,Yuma,County,Other,Write-Ins,106,0.28,38529,Republican
+2004,Arizona,AZ,Yuma,County,Other,Other,313,0.81,38529,Republican
 2004,Arkansas,AR,Arkansas,County,George W. Bush,Republican,3789,54.55,6946,Republican
 2004,Arkansas,AR,Arkansas,County,John Kerry,Democratic,3110,44.77,6946,Republican
 2004,Arkansas,AR,Arkansas,County,Other,Other,47,0.68,6946,Republican
@@ -1579,224 +1564,136 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2004,Hawaii,HI,Maui,County,Other,Other,440,0.92,47430,Democratic
 2004,Idaho,ID,Ada,County,George W. Bush,Republican,94641,61.05,155030,Republican
 2004,Idaho,ID,Ada,County,John Kerry,Democratic,58523,37.75,155030,Republican
-2004,Idaho,ID,Ada,County,Michael J. Badnarik,Libertarian,1041,0.67,155030,Republican
-2004,Idaho,ID,Ada,County,Michael Anthony Peroutka,Constitution,449,0.29,155030,Republican
-2004,Idaho,ID,Ada,County,Various Other Candidates,Write In,376,0.24,155030,Republican
+2004,Idaho,ID,Ada,County,Other,Other,1866,1.2,155030,Republican
 2004,Idaho,ID,Adams,County,George W. Bush,Republican,1468,71.16,2063,Republican
 2004,Idaho,ID,Adams,County,John Kerry,Democratic,555,26.9,2063,Republican
-2004,Idaho,ID,Adams,County,Michael J. Badnarik,Libertarian,14,0.68,2063,Republican
-2004,Idaho,ID,Adams,County,Michael Anthony Peroutka,Constitution,24,1.16,2063,Republican
-2004,Idaho,ID,Adams,County,Various Other Candidates,Write In,2,0.1,2063,Republican
+2004,Idaho,ID,Adams,County,Other,Other,40,1.94,2063,Republican
 2004,Idaho,ID,Bannock,County,George W. Bush,Republican,21479,61.64,34844,Republican
 2004,Idaho,ID,Bannock,County,John Kerry,Democratic,12903,37.03,34844,Republican
-2004,Idaho,ID,Bannock,County,Michael J. Badnarik,Libertarian,244,0.7,34844,Republican
-2004,Idaho,ID,Bannock,County,Michael Anthony Peroutka,Constitution,125,0.36,34844,Republican
-2004,Idaho,ID,Bannock,County,Various Other Candidates,Write In,93,0.26,34844,Republican
+2004,Idaho,ID,Bannock,County,Other,Other,462,1.33,34844,Republican
 2004,Idaho,ID,Bear Lake,County,George W. Bush,Republican,2506,82.43,3040,Republican
 2004,Idaho,ID,Bear Lake,County,John Kerry,Democratic,494,16.25,3040,Republican
-2004,Idaho,ID,Bear Lake,County,Michael J. Badnarik,Libertarian,12,0.39,3040,Republican
-2004,Idaho,ID,Bear Lake,County,Michael Anthony Peroutka,Constitution,22,0.72,3040,Republican
-2004,Idaho,ID,Bear Lake,County,Various Other Candidates,Write In,6,0.2,3040,Republican
+2004,Idaho,ID,Bear Lake,County,Other,Other,40,1.32,3040,Republican
 2004,Idaho,ID,Benewah,County,George W. Bush,Republican,2823,69.7,4050,Republican
 2004,Idaho,ID,Benewah,County,John Kerry,Democratic,1148,28.35,4050,Republican
-2004,Idaho,ID,Benewah,County,Michael J. Badnarik,Libertarian,34,0.84,4050,Republican
-2004,Idaho,ID,Benewah,County,Michael Anthony Peroutka,Constitution,35,0.86,4050,Republican
-2004,Idaho,ID,Benewah,County,Various Other Candidates,Write In,10,0.25,4050,Republican
+2004,Idaho,ID,Benewah,County,Other,Other,79,1.95,4050,Republican
 2004,Idaho,ID,Bingham,County,George W. Bush,Republican,12734,76.87,16565,Republican
 2004,Idaho,ID,Bingham,County,John Kerry,Democratic,3605,21.76,16565,Republican
-2004,Idaho,ID,Bingham,County,Michael J. Badnarik,Libertarian,105,0.63,16565,Republican
-2004,Idaho,ID,Bingham,County,Michael Anthony Peroutka,Constitution,107,0.65,16565,Republican
-2004,Idaho,ID,Bingham,County,Various Other Candidates,Write In,14,0.08,16565,Republican
+2004,Idaho,ID,Bingham,County,Other,Other,226,1.37,16565,Republican
 2004,Idaho,ID,Blaine,County,George W. Bush,Republican,4034,39.76,10147,Democratic
 2004,Idaho,ID,Blaine,County,John Kerry,Democratic,5992,59.05,10147,Democratic
-2004,Idaho,ID,Blaine,County,Michael J. Badnarik,Libertarian,80,0.79,10147,Democratic
-2004,Idaho,ID,Blaine,County,Michael Anthony Peroutka,Constitution,23,0.23,10147,Democratic
-2004,Idaho,ID,Blaine,County,Various Other Candidates,Write In,18,0.18,10147,Democratic
+2004,Idaho,ID,Blaine,County,Other,Other,121,1.19,10147,Democratic
 2004,Idaho,ID,Boise,County,George W. Bush,Republican,2501,70.91,3527,Republican
 2004,Idaho,ID,Boise,County,John Kerry,Democratic,970,27.5,3527,Republican
-2004,Idaho,ID,Boise,County,Michael J. Badnarik,Libertarian,31,0.88,3527,Republican
-2004,Idaho,ID,Boise,County,Michael Anthony Peroutka,Constitution,15,0.43,3527,Republican
-2004,Idaho,ID,Boise,County,Various Other Candidates,Write In,10,0.28,3527,Republican
+2004,Idaho,ID,Boise,County,Other,Other,56,1.59,3527,Republican
 2004,Idaho,ID,Bonner,County,George W. Bush,Republican,10697,60.49,17684,Republican
 2004,Idaho,ID,Bonner,County,John Kerry,Democratic,6649,37.6,17684,Republican
-2004,Idaho,ID,Bonner,County,Michael J. Badnarik,Libertarian,139,0.79,17684,Republican
-2004,Idaho,ID,Bonner,County,Michael Anthony Peroutka,Constitution,146,0.83,17684,Republican
-2004,Idaho,ID,Bonner,County,Various Other Candidates,Write In,53,0.3,17684,Republican
+2004,Idaho,ID,Bonner,County,Other,Other,338,1.91,17684,Republican
 2004,Idaho,ID,Bonneville,County,George W. Bush,Republican,30048,77.3,38871,Republican
 2004,Idaho,ID,Bonneville,County,John Kerry,Democratic,8356,21.5,38871,Republican
-2004,Idaho,ID,Bonneville,County,Michael J. Badnarik,Libertarian,229,0.59,38871,Republican
-2004,Idaho,ID,Bonneville,County,Michael Anthony Peroutka,Constitution,184,0.47,38871,Republican
-2004,Idaho,ID,Bonneville,County,Various Other Candidates,Write In,54,0.14,38871,Republican
+2004,Idaho,ID,Bonneville,County,Other,Other,467,1.2,38871,Republican
 2004,Idaho,ID,Boundary,County,George W. Bush,Republican,3012,68.78,4379,Republican
 2004,Idaho,ID,Boundary,County,John Kerry,Democratic,1268,28.96,4379,Republican
-2004,Idaho,ID,Boundary,County,Michael J. Badnarik,Libertarian,51,1.16,4379,Republican
-2004,Idaho,ID,Boundary,County,Michael Anthony Peroutka,Constitution,31,0.71,4379,Republican
-2004,Idaho,ID,Boundary,County,Various Other Candidates,Write In,17,0.39,4379,Republican
+2004,Idaho,ID,Boundary,County,Other,Other,99,2.26,4379,Republican
 2004,Idaho,ID,Butte,County,George W. Bush,Republican,1077,76.6,1406,Republican
 2004,Idaho,ID,Butte,County,John Kerry,Democratic,321,22.83,1406,Republican
-2004,Idaho,ID,Butte,County,Michael J. Badnarik,Libertarian,4,0.28,1406,Republican
-2004,Idaho,ID,Butte,County,Michael Anthony Peroutka,Constitution,4,0.28,1406,Republican
-2004,Idaho,ID,Butte,County,Various Other Candidates,Write In,0,0.0,1406,Republican
+2004,Idaho,ID,Butte,County,Other,Other,8,0.57,1406,Republican
 2004,Idaho,ID,Camas,County,George W. Bush,Republican,450,75.63,595,Republican
 2004,Idaho,ID,Camas,County,John Kerry,Democratic,139,23.36,595,Republican
-2004,Idaho,ID,Camas,County,Michael J. Badnarik,Libertarian,1,0.17,595,Republican
-2004,Idaho,ID,Camas,County,Michael Anthony Peroutka,Constitution,5,0.84,595,Republican
-2004,Idaho,ID,Camas,County,Various Other Candidates,Write In,0,0.0,595,Republican
+2004,Idaho,ID,Camas,County,Other,Other,6,1.01,595,Republican
 2004,Idaho,ID,Canyon,County,George W. Bush,Republican,41599,74.69,55698,Republican
 2004,Idaho,ID,Canyon,County,John Kerry,Democratic,13415,24.09,55698,Republican
-2004,Idaho,ID,Canyon,County,Michael J. Badnarik,Libertarian,346,0.62,55698,Republican
-2004,Idaho,ID,Canyon,County,Michael Anthony Peroutka,Constitution,269,0.48,55698,Republican
-2004,Idaho,ID,Canyon,County,Various Other Candidates,Write In,69,0.12,55698,Republican
+2004,Idaho,ID,Canyon,County,Other,Other,684,1.22,55698,Republican
 2004,Idaho,ID,Caribou,County,George W. Bush,Republican,2753,83.91,3281,Republican
 2004,Idaho,ID,Caribou,County,John Kerry,Democratic,491,14.96,3281,Republican
-2004,Idaho,ID,Caribou,County,Michael J. Badnarik,Libertarian,21,0.64,3281,Republican
-2004,Idaho,ID,Caribou,County,Michael Anthony Peroutka,Constitution,8,0.24,3281,Republican
-2004,Idaho,ID,Caribou,County,Various Other Candidates,Write In,8,0.24,3281,Republican
+2004,Idaho,ID,Caribou,County,Other,Other,37,1.13,3281,Republican
 2004,Idaho,ID,Cassia,County,George W. Bush,Republican,6562,83.9,7821,Republican
 2004,Idaho,ID,Cassia,County,John Kerry,Democratic,1153,14.74,7821,Republican
-2004,Idaho,ID,Cassia,County,Michael J. Badnarik,Libertarian,48,0.61,7821,Republican
-2004,Idaho,ID,Cassia,County,Michael Anthony Peroutka,Constitution,54,0.69,7821,Republican
-2004,Idaho,ID,Cassia,County,Various Other Candidates,Write In,4,0.05,7821,Republican
+2004,Idaho,ID,Cassia,County,Other,Other,106,1.36,7821,Republican
 2004,Idaho,ID,Clark,County,George W. Bush,Republican,302,85.55,353,Republican
 2004,Idaho,ID,Clark,County,John Kerry,Democratic,46,13.03,353,Republican
-2004,Idaho,ID,Clark,County,Michael J. Badnarik,Libertarian,2,0.57,353,Republican
-2004,Idaho,ID,Clark,County,Michael Anthony Peroutka,Constitution,3,0.85,353,Republican
-2004,Idaho,ID,Clark,County,Various Other Candidates,Write In,0,0.0,353,Republican
+2004,Idaho,ID,Clark,County,Other,Other,5,1.42,353,Republican
 2004,Idaho,ID,Clearwater,County,George W. Bush,Republican,2839,70.38,4034,Republican
 2004,Idaho,ID,Clearwater,County,John Kerry,Democratic,1117,27.69,4034,Republican
-2004,Idaho,ID,Clearwater,County,Michael J. Badnarik,Libertarian,40,0.99,4034,Republican
-2004,Idaho,ID,Clearwater,County,Michael Anthony Peroutka,Constitution,35,0.87,4034,Republican
-2004,Idaho,ID,Clearwater,County,Various Other Candidates,Write In,3,0.07,4034,Republican
+2004,Idaho,ID,Clearwater,County,Other,Other,78,1.93,4034,Republican
 2004,Idaho,ID,Custer,County,George W. Bush,Republican,1762,74.72,2358,Republican
 2004,Idaho,ID,Custer,County,John Kerry,Democratic,559,23.71,2358,Republican
-2004,Idaho,ID,Custer,County,Michael J. Badnarik,Libertarian,18,0.76,2358,Republican
-2004,Idaho,ID,Custer,County,Michael Anthony Peroutka,Constitution,13,0.55,2358,Republican
-2004,Idaho,ID,Custer,County,Various Other Candidates,Write In,6,0.25,2358,Republican
+2004,Idaho,ID,Custer,County,Other,Other,37,1.57,2358,Republican
 2004,Idaho,ID,Elmore,County,George W. Bush,Republican,6011,74.57,8061,Republican
 2004,Idaho,ID,Elmore,County,John Kerry,Democratic,1959,24.3,8061,Republican
-2004,Idaho,ID,Elmore,County,Michael J. Badnarik,Libertarian,45,0.56,8061,Republican
-2004,Idaho,ID,Elmore,County,Michael Anthony Peroutka,Constitution,29,0.36,8061,Republican
-2004,Idaho,ID,Elmore,County,Various Other Candidates,Write In,17,0.21,8061,Republican
+2004,Idaho,ID,Elmore,County,Other,Other,91,1.13,8061,Republican
 2004,Idaho,ID,Franklin,County,George W. Bush,Republican,4527,89.57,5054,Republican
 2004,Idaho,ID,Franklin,County,John Kerry,Democratic,456,9.02,5054,Republican
-2004,Idaho,ID,Franklin,County,Michael J. Badnarik,Libertarian,19,0.38,5054,Republican
-2004,Idaho,ID,Franklin,County,Michael Anthony Peroutka,Constitution,51,1.01,5054,Republican
-2004,Idaho,ID,Franklin,County,Various Other Candidates,Write In,1,0.02,5054,Republican
+2004,Idaho,ID,Franklin,County,Other,Other,71,1.41,5054,Republican
 2004,Idaho,ID,Fremont,County,George W. Bush,Republican,4965,86.06,5769,Republican
 2004,Idaho,ID,Fremont,County,John Kerry,Democratic,741,12.84,5769,Republican
-2004,Idaho,ID,Fremont,County,Michael J. Badnarik,Libertarian,22,0.38,5769,Republican
-2004,Idaho,ID,Fremont,County,Michael Anthony Peroutka,Constitution,34,0.59,5769,Republican
-2004,Idaho,ID,Fremont,County,Various Other Candidates,Write In,7,0.12,5769,Republican
+2004,Idaho,ID,Fremont,County,Other,Other,63,1.1,5769,Republican
 2004,Idaho,ID,Gem,County,George W. Bush,Republican,5416,75.92,7134,Republican
 2004,Idaho,ID,Gem,County,John Kerry,Democratic,1628,22.82,7134,Republican
-2004,Idaho,ID,Gem,County,Michael J. Badnarik,Libertarian,34,0.48,7134,Republican
-2004,Idaho,ID,Gem,County,Michael Anthony Peroutka,Constitution,37,0.52,7134,Republican
-2004,Idaho,ID,Gem,County,Various Other Candidates,Write In,19,0.27,7134,Republican
+2004,Idaho,ID,Gem,County,Other,Other,90,1.26,7134,Republican
 2004,Idaho,ID,Gooding,County,George W. Bush,Republican,3973,74.61,5325,Republican
 2004,Idaho,ID,Gooding,County,John Kerry,Democratic,1278,24.0,5325,Republican
-2004,Idaho,ID,Gooding,County,Michael J. Badnarik,Libertarian,29,0.54,5325,Republican
-2004,Idaho,ID,Gooding,County,Michael Anthony Peroutka,Constitution,31,0.58,5325,Republican
-2004,Idaho,ID,Gooding,County,Various Other Candidates,Write In,14,0.26,5325,Republican
+2004,Idaho,ID,Gooding,County,Other,Other,74,1.39,5325,Republican
 2004,Idaho,ID,Idaho,County,George W. Bush,Republican,6017,75.5,7970,Republican
 2004,Idaho,ID,Idaho,County,John Kerry,Democratic,1689,21.19,7970,Republican
-2004,Idaho,ID,Idaho,County,Michael J. Badnarik,Libertarian,49,0.61,7970,Republican
-2004,Idaho,ID,Idaho,County,Michael Anthony Peroutka,Constitution,202,2.53,7970,Republican
-2004,Idaho,ID,Idaho,County,Various Other Candidates,Write In,13,0.16,7970,Republican
+2004,Idaho,ID,Idaho,County,Other,Other,264,3.31,7970,Republican
 2004,Idaho,ID,Jefferson,County,George W. Bush,Republican,7703,86.49,8906,Republican
 2004,Idaho,ID,Jefferson,County,John Kerry,Democratic,1084,12.17,8906,Republican
-2004,Idaho,ID,Jefferson,County,Michael J. Badnarik,Libertarian,41,0.46,8906,Republican
-2004,Idaho,ID,Jefferson,County,Michael Anthony Peroutka,Constitution,72,0.81,8906,Republican
-2004,Idaho,ID,Jefferson,County,Various Other Candidates,Write In,6,0.07,8906,Republican
+2004,Idaho,ID,Jefferson,County,Other,Other,119,1.34,8906,Republican
 2004,Idaho,ID,Jerome,County,George W. Bush,Republican,5177,78.68,6580,Republican
 2004,Idaho,ID,Jerome,County,John Kerry,Democratic,1344,20.43,6580,Republican
-2004,Idaho,ID,Jerome,County,Michael J. Badnarik,Libertarian,31,0.47,6580,Republican
-2004,Idaho,ID,Jerome,County,Michael Anthony Peroutka,Constitution,18,0.27,6580,Republican
-2004,Idaho,ID,Jerome,County,Various Other Candidates,Write In,10,0.15,6580,Republican
+2004,Idaho,ID,Jerome,County,Other,Other,59,0.89,6580,Republican
 2004,Idaho,ID,Kootenai,County,George W. Bush,Republican,36173,66.25,54603,Republican
 2004,Idaho,ID,Kootenai,County,John Kerry,Democratic,17584,32.2,54603,Republican
-2004,Idaho,ID,Kootenai,County,Michael J. Badnarik,Libertarian,303,0.55,54603,Republican
-2004,Idaho,ID,Kootenai,County,Michael Anthony Peroutka,Constitution,408,0.75,54603,Republican
-2004,Idaho,ID,Kootenai,County,Various Other Candidates,Write In,135,0.25,54603,Republican
+2004,Idaho,ID,Kootenai,County,Other,Other,846,1.55,54603,Republican
 2004,Idaho,ID,Latah,County,George W. Bush,Republican,8686,49.48,17553,Republican
 2004,Idaho,ID,Latah,County,John Kerry,Democratic,8430,48.03,17553,Republican
-2004,Idaho,ID,Latah,County,Michael J. Badnarik,Libertarian,239,1.36,17553,Republican
-2004,Idaho,ID,Latah,County,Michael Anthony Peroutka,Constitution,125,0.71,17553,Republican
-2004,Idaho,ID,Latah,County,Various Other Candidates,Write In,73,0.41,17553,Republican
+2004,Idaho,ID,Latah,County,Other,Other,437,2.49,17553,Republican
 2004,Idaho,ID,Lemhi,County,George W. Bush,Republican,3079,75.93,4055,Republican
 2004,Idaho,ID,Lemhi,County,John Kerry,Democratic,915,22.56,4055,Republican
-2004,Idaho,ID,Lemhi,County,Michael J. Badnarik,Libertarian,37,0.91,4055,Republican
-2004,Idaho,ID,Lemhi,County,Michael Anthony Peroutka,Constitution,16,0.39,4055,Republican
-2004,Idaho,ID,Lemhi,County,Various Other Candidates,Write In,8,0.2,4055,Republican
+2004,Idaho,ID,Lemhi,County,Other,Other,61,1.51,4055,Republican
 2004,Idaho,ID,Lewis,County,George W. Bush,Republican,1359,74.67,1820,Republican
 2004,Idaho,ID,Lewis,County,John Kerry,Democratic,440,24.18,1820,Republican
-2004,Idaho,ID,Lewis,County,Michael J. Badnarik,Libertarian,7,0.38,1820,Republican
-2004,Idaho,ID,Lewis,County,Michael Anthony Peroutka,Constitution,10,0.55,1820,Republican
-2004,Idaho,ID,Lewis,County,Various Other Candidates,Write In,4,0.22,1820,Republican
+2004,Idaho,ID,Lewis,County,Other,Other,21,1.15,1820,Republican
 2004,Idaho,ID,Lincoln,County,George W. Bush,Republican,1388,73.99,1876,Republican
 2004,Idaho,ID,Lincoln,County,John Kerry,Democratic,466,24.84,1876,Republican
-2004,Idaho,ID,Lincoln,County,Michael J. Badnarik,Libertarian,9,0.48,1876,Republican
-2004,Idaho,ID,Lincoln,County,Michael Anthony Peroutka,Constitution,9,0.48,1876,Republican
-2004,Idaho,ID,Lincoln,County,Various Other Candidates,Write In,4,0.21,1876,Republican
+2004,Idaho,ID,Lincoln,County,Other,Other,22,1.17,1876,Republican
 2004,Idaho,ID,Madison,County,George W. Bush,Republican,10693,91.89,11637,Republican
 2004,Idaho,ID,Madison,County,John Kerry,Democratic,826,7.1,11637,Republican
-2004,Idaho,ID,Madison,County,Michael J. Badnarik,Libertarian,35,0.3,11637,Republican
-2004,Idaho,ID,Madison,County,Michael Anthony Peroutka,Constitution,69,0.59,11637,Republican
-2004,Idaho,ID,Madison,County,Various Other Candidates,Write In,14,0.12,11637,Republican
+2004,Idaho,ID,Madison,County,Other,Other,118,1.01,11637,Republican
 2004,Idaho,ID,Minidoka,County,George W. Bush,Republican,5797,80.5,7201,Republican
 2004,Idaho,ID,Minidoka,County,John Kerry,Democratic,1331,18.48,7201,Republican
-2004,Idaho,ID,Minidoka,County,Michael J. Badnarik,Libertarian,33,0.46,7201,Republican
-2004,Idaho,ID,Minidoka,County,Michael Anthony Peroutka,Constitution,35,0.49,7201,Republican
-2004,Idaho,ID,Minidoka,County,Various Other Candidates,Write In,5,0.07,7201,Republican
+2004,Idaho,ID,Minidoka,County,Other,Other,73,1.02,7201,Republican
 2004,Idaho,ID,Nez Perce,County,George W. Bush,Republican,11009,62.2,17700,Republican
 2004,Idaho,ID,Nez Perce,County,John Kerry,Democratic,6476,36.59,17700,Republican
-2004,Idaho,ID,Nez Perce,County,Michael J. Badnarik,Libertarian,112,0.63,17700,Republican
-2004,Idaho,ID,Nez Perce,County,Michael Anthony Peroutka,Constitution,82,0.46,17700,Republican
-2004,Idaho,ID,Nez Perce,County,Various Other Candidates,Write In,21,0.12,17700,Republican
+2004,Idaho,ID,Nez Perce,County,Other,Other,215,1.21,17700,Republican
 2004,Idaho,ID,Oneida,County,George W. Bush,Republican,1789,83.87,2133,Republican
 2004,Idaho,ID,Oneida,County,John Kerry,Democratic,304,14.25,2133,Republican
-2004,Idaho,ID,Oneida,County,Michael J. Badnarik,Libertarian,9,0.42,2133,Republican
-2004,Idaho,ID,Oneida,County,Michael Anthony Peroutka,Constitution,30,1.41,2133,Republican
-2004,Idaho,ID,Oneida,County,Various Other Candidates,Write In,1,0.05,2133,Republican
+2004,Idaho,ID,Oneida,County,Other,Other,40,1.88,2133,Republican
 2004,Idaho,ID,Owyhee,County,George W. Bush,Republican,2859,79.64,3590,Republican
 2004,Idaho,ID,Owyhee,County,John Kerry,Democratic,685,19.08,3590,Republican
-2004,Idaho,ID,Owyhee,County,Michael J. Badnarik,Libertarian,27,0.75,3590,Republican
-2004,Idaho,ID,Owyhee,County,Michael Anthony Peroutka,Constitution,17,0.47,3590,Republican
-2004,Idaho,ID,Owyhee,County,Various Other Candidates,Write In,2,0.06,3590,Republican
+2004,Idaho,ID,Owyhee,County,Other,Other,46,1.28,3590,Republican
 2004,Idaho,ID,Payette,County,George W. Bush,Republican,6256,76.47,8181,Republican
 2004,Idaho,ID,Payette,County,John Kerry,Democratic,1848,22.59,8181,Republican
-2004,Idaho,ID,Payette,County,Michael J. Badnarik,Libertarian,39,0.48,8181,Republican
-2004,Idaho,ID,Payette,County,Michael Anthony Peroutka,Constitution,34,0.42,8181,Republican
-2004,Idaho,ID,Payette,County,Various Other Candidates,Write In,4,0.05,8181,Republican
+2004,Idaho,ID,Payette,County,Other,Other,77,0.94,8181,Republican
 2004,Idaho,ID,Power,County,George W. Bush,Republican,2105,71.16,2958,Republican
 2004,Idaho,ID,Power,County,John Kerry,Democratic,829,28.03,2958,Republican
-2004,Idaho,ID,Power,County,Michael J. Badnarik,Libertarian,13,0.44,2958,Republican
-2004,Idaho,ID,Power,County,Michael Anthony Peroutka,Constitution,10,0.34,2958,Republican
-2004,Idaho,ID,Power,County,Various Other Candidates,Write In,1,0.03,2958,Republican
+2004,Idaho,ID,Power,County,Other,Other,24,0.81,2958,Republican
 2004,Idaho,ID,Shoshone,County,George W. Bush,Republican,2922,54.75,5337,Republican
 2004,Idaho,ID,Shoshone,County,John Kerry,Democratic,2331,43.68,5337,Republican
-2004,Idaho,ID,Shoshone,County,Michael J. Badnarik,Libertarian,35,0.66,5337,Republican
-2004,Idaho,ID,Shoshone,County,Michael Anthony Peroutka,Constitution,41,0.77,5337,Republican
-2004,Idaho,ID,Shoshone,County,Various Other Candidates,Write In,8,0.15,5337,Republican
+2004,Idaho,ID,Shoshone,County,Other,Other,84,1.57,5337,Republican
 2004,Idaho,ID,Teton,County,George W. Bush,Republican,2235,60.57,3690,Republican
 2004,Idaho,ID,Teton,County,John Kerry,Democratic,1416,38.37,3690,Republican
-2004,Idaho,ID,Teton,County,Michael J. Badnarik,Libertarian,24,0.65,3690,Republican
-2004,Idaho,ID,Teton,County,Michael Anthony Peroutka,Constitution,2,0.05,3690,Republican
-2004,Idaho,ID,Teton,County,Various Other Candidates,Write In,13,0.35,3690,Republican
+2004,Idaho,ID,Teton,County,Other,Other,39,1.06,3690,Republican
 2004,Idaho,ID,Twin Falls,County,George W. Bush,Republican,19672,74.42,26435,Republican
 2004,Idaho,ID,Twin Falls,County,John Kerry,Democratic,6458,24.43,26435,Republican
-2004,Idaho,ID,Twin Falls,County,Michael J. Badnarik,Libertarian,146,0.55,26435,Republican
-2004,Idaho,ID,Twin Falls,County,Michael Anthony Peroutka,Constitution,119,0.45,26435,Republican
-2004,Idaho,ID,Twin Falls,County,Various Other Candidates,Write In,40,0.15,26435,Republican
+2004,Idaho,ID,Twin Falls,County,Other,Other,305,1.15,26435,Republican
 2004,Idaho,ID,Valley,County,George W. Bush,Republican,2863,59.97,4774,Republican
 2004,Idaho,ID,Valley,County,John Kerry,Democratic,1843,38.6,4774,Republican
-2004,Idaho,ID,Valley,County,Michael J. Badnarik,Libertarian,29,0.61,4774,Republican
-2004,Idaho,ID,Valley,County,Michael Anthony Peroutka,Constitution,18,0.38,4774,Republican
-2004,Idaho,ID,Valley,County,Various Other Candidates,Write In,21,0.44,4774,Republican
+2004,Idaho,ID,Valley,County,Other,Other,68,1.43,4774,Republican
 2004,Idaho,ID,Washington,County,George W. Bush,Republican,3274,75.11,4359,Republican
 2004,Idaho,ID,Washington,County,John Kerry,Democratic,1033,23.7,4359,Republican
-2004,Idaho,ID,Washington,County,Michael J. Badnarik,Libertarian,17,0.39,4359,Republican
-2004,Idaho,ID,Washington,County,Michael Anthony Peroutka,Constitution,33,0.76,4359,Republican
-2004,Idaho,ID,Washington,County,Various Other Candidates,Write In,2,0.05,4359,Republican
+2004,Idaho,ID,Washington,County,Other,Other,52,1.19,4359,Republican
 2004,Illinois,IL,Adams,County,John Kerry,Democratic,10511,33.39,31477,Republican
 2004,Illinois,IL,Adams,County,George W. Bush,Republican,20834,66.19,31477,Republican
 2004,Illinois,IL,Adams,County,Other,Other,132,0.42,31477,Republican

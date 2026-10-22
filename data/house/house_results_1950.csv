@@ -193,7 +193,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 1950,house,Indiana,IN,10,,Vernon J. Dwyer,Democratic,,40.5,False,False,False
 1950,house,Indiana,IN,10,,Carl W. Thompson,Prohibition,,0.9,False,False,False
 1950,house,Indiana,IN,11,,Charles B. Brownson,Republican,,56.5,True,False,False
-1950,house,Indiana,IN,11,,Andrew Jacobs,Democratic,,43.0,False,True,False
+1950,house,Indiana,IN,11,,Andrew Jacobs Sr.,Democratic,,43.0,False,True,False
 1950,house,Indiana,IN,11,,Alston E. Wrentmore,Prohibition,,0.5,False,False,False
 1950,house,Iowa,IA,1,,Thomas E. Martin,Republican,,61.7,True,True,False
 1950,house,Iowa,IA,1,,James D. France,Democratic,,38.0,False,False,False

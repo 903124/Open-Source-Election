@@ -11,14 +11,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2014,Alaska,AK,governor,2014 Alaska gubernatorial election,Total,,,279958,100.0,False,False
 2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Winning,Doug Ducey,Republican,805062,53.44,True,False
 2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Fred DuVal,Democratic,626921,41.62,False,False
-2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Barry Hess,Libertarian,57337,3.8,False,False
+2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Barry Hess,Libertarian,57337,3.81,False,False
 2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,John Lewis Mealer,Americans Elect,15432,1.02,False,False
-2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,J. Johnson (write-in),None,1520,0.1,False,False
-2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Brian Bailey (write-in),Independent,50,,False,False
-2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Alice Novoa (write-in),Republican,43,,False,False
-2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Cary Dolego (write-in),Independent,29,,False,False
-2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Curtis Woolsey (write-in),None,15,,False,False
-2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Diane-Elizabeth R.R. Kennedy (write-in),Independent,7,,False,False
+2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Write-in,None,1664,0.11,False,False
 2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Total,,,1506416,100.0,False,False
 2014,Arkansas,AR,governor,2014 Arkansas gubernatorial election,Winning,Asa Hutchinson,Republican,470429,55.44,True,False
 2014,Arkansas,AR,governor,2014 Arkansas gubernatorial election,Candidate,Mike Ross,Democratic,352115,41.49,False,False

@@ -1,4 +1,8 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
+1962,Alabama,"Alabama Democratic senatorial primary, 1962 results",Primary,Candidate,False,Democratic Party (United States),J. Lister Hill,"363,613",73.7%
+1962,Alabama,"Alabama Democratic senatorial primary, 1962 results",Primary,Candidate,False,Democratic Party (United States),Donald Gunter Hallmark,"72,855",14.8%
+1962,Alabama,"Alabama Democratic senatorial primary, 1962 results",Primary,Candidate,False,Democratic Party (United States),John G. Crommelin,"56,822",11.5%
+1962,Alabama,"Alabama Democratic senatorial primary, 1962 results",Primary,Winning,False,Democratic Party (United States),Totals,"493,290",100.00%
 1962,Alaska,1962 Democratic U.S. Senate primary,Primary,Winning,True,Democratic Party (United States),Ernest Gruening,"18,525",86.28%
 1962,Alaska,1962 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Robert L. Veach,"2,946",13.72%
 1962,Alaska,1962 Democratic U.S. Senate primary,Primary,Total,False,,,"21,471",100.00

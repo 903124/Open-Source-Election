@@ -31,7 +31,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,California,CA,governor,Republican primary results,Candidate,William Nelson,Republican,22597.0,1.22,False,False
 1974,California,CA,governor,Republican primary results,Candidate,Scattering,Republican,8355.0,0.45,False,False
 1974,California,CA,governor,Republican primary results,Total,,,1848825.0,100.0,False,False
-1974,California,CA,governor,Democratic primary results,Winning,Edmund G. Brown Jr.,Democratic,1085752.0,37.86,True,False
+1974,California,CA,governor,Democratic primary results,Winning,Jerry Brown,Democratic,1085752.0,37.86,True,False
 1974,California,CA,governor,Democratic primary results,Candidate,Joseph Alioto,Democratic,544007.0,18.97,False,False
 1974,California,CA,governor,Democratic primary results,Candidate,Bob Moretti,Democratic,478469.0,16.68,False,False
 1974,California,CA,governor,Democratic primary results,Candidate,William M. Roth,Democratic,293686.0,10.24,False,False
@@ -173,12 +173,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,New Mexico,NM,governor,Republican primary results,Candidate,Walter E. Bruce,Republican,2913.0,5.72,False,False
 1974,New Mexico,NM,governor,Republican primary results,Candidate,Scattering,Republican,26.0,0.05,False,False
 1974,New Mexico,NM,governor,Republican primary results,Total,,,50927.0,100.0,False,False
-1974,New York,NY,governor,Democratic primary results,Winning,Hugh Carey,Democratic,600283.0,60.78,True,False
-1974,New York,NY,governor,Democratic primary results,Candidate,Howard J. Samuels,Democratic,387369.0,39.22,False,False
-1974,New York,NY,governor,Democratic primary results,Total,,,987652.0,100.0,False,False
 1974,New York,NY,governor,Conservative convention results,Winning,Malcolm Wilson,Conservative,21279.0,59.79,True,True
 1974,New York,NY,governor,Conservative convention results,Candidate,T. David Bullard,Conservative,14312.0,40.21,False,False
 1974,New York,NY,governor,Conservative convention results,Total,,,35591.0,100.0,False,False
+1974,New York,NY,governor,Democratic primary results,Winning,Hugh Carey,Democratic,600283.0,60.78,True,False
+1974,New York,NY,governor,Democratic primary results,Candidate,Howard J. Samuels,Democratic,387369.0,39.22,False,False
+1974,New York,NY,governor,Democratic primary results,Total,,,987652.0,100.0,False,False
 1974,Ohio,OH,governor,Democratic primary results,Winning,John J. Gilligan,Democratic,713488.0,70.58,True,True
 1974,Ohio,OH,governor,Democratic primary results,Candidate,James D. Nolan,Democratic,297244.0,29.41,False,False
 1974,Ohio,OH,governor,Democratic primary results,Total,,,1010853.0,100.0,False,False

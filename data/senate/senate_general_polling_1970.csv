@@ -1,3 +1,12 @@
 Year,State,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
 1970,New Jersey,General,RSCC,1970-10-15,1970-10-15,1970-10-15,,,Harrison Williams,D,36%,False,"October 15, 1970"
 1970,New Jersey,General,RSCC,1970-10-15,1970-10-15,1970-10-15,,,Nelson Gross,R,32%,False,"October 15, 1970"
+1970,New York,General,New York Daily News,1970-11-02,1970-11-02,1970-11-02,"5,025",,"Charles Goodell (R, L)",Unknown,25%,False,"November 2, 1970"
+1970,New York,General,WMCA-FM,1970-10-27,1970-10-27,1970-10-27,,,"Charles Goodell (R, L)",Unknown,35%,False,"October 27, 1970"
+1970,New York,General,New York Daily News,1970-10-26,1970-10-26,1970-10-26,,,"Charles Goodell (R, L)",Unknown,23%,False,"October 26, 1970"
+1970,New York,General,New York Daily News,1970-11-02,1970-11-02,1970-11-02,"5,025",,Richard Ottinger,D,32%,False,"November 2, 1970"
+1970,New York,General,WMCA-FM,1970-10-27,1970-10-27,1970-10-27,,,Richard Ottinger,D,19%,False,"October 27, 1970"
+1970,New York,General,New York Daily News,1970-10-26,1970-10-26,1970-10-26,,,Richard Ottinger,D,32%,False,"October 26, 1970"
+1970,New York,General,New York Daily News,1970-11-02,1970-11-02,1970-11-02,"5,025",,James L. Buckley (C),Unknown,37%,False,"November 2, 1970"
+1970,New York,General,WMCA-FM,1970-10-27,1970-10-27,1970-10-27,,,James L. Buckley (C),Unknown,42%,False,"October 27, 1970"
+1970,New York,General,New York Daily News,1970-10-26,1970-10-26,1970-10-26,,,James L. Buckley (C),Unknown,39%,False,"October 26, 1970"

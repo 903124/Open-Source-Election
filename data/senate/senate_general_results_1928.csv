@@ -50,17 +50,6 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1928,Michigan,1928 U.S. Senate election in Michigan,General,Candidate,False,Prohibition Party (US),Duly McCone,"1,927",0.14%
 1928,Michigan,1928 U.S. Senate election in Michigan,General,Candidate,False,Socialist Labor Party,David Boyd,689,0.05%
 1928,Michigan,1928 U.S. Senate election in Michigan,General,Total,False,,,"1,362,146",100.00%
-1928,Michigan,1928 U.S. Senate special election in Michigan,General,Winning,False,Republican Party (US),Arthur H. Vandenberg,"974,203",72.03%
-1928,Michigan,1928 U.S. Senate special election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"375,673",27.78%
-1928,Michigan,1928 U.S. Senate special election in Michigan,General,Candidate,False,Socialist Party (US),Francis W. Elliott,"2,682",0.20%
-1928,Michigan,1928 U.S. Senate special election in Michigan,General,Total,False,,,"1,352,558",100.00%
-1928,Michigan (special),1928 U.S. Senate election in Michigan,General,Winning,True,Republican Party (US),Arthur H. Vandenberg,"977,893",71.79%
-1928,Michigan (special),1928 U.S. Senate election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"376,592",27.65%
-1928,Michigan (special),1928 U.S. Senate election in Michigan,General,Candidate,False,Socialist Party (US),William L. Kreighoff,"2,796",0.21%
-1928,Michigan (special),1928 U.S. Senate election in Michigan,General,Candidate,False,Communist Party (US),Ben A. Faulkner,"2,249",0.17%
-1928,Michigan (special),1928 U.S. Senate election in Michigan,General,Candidate,False,Prohibition Party (US),Duly McCone,"1,927",0.14%
-1928,Michigan (special),1928 U.S. Senate election in Michigan,General,Candidate,False,Socialist Labor Party,David Boyd,689,0.05%
-1928,Michigan (special),1928 U.S. Senate election in Michigan,General,Total,False,,,"1,362,146",100.00%
 1928,Michigan (special),1928 U.S. Senate special election in Michigan,General,Winning,False,Republican Party (US),Arthur H. Vandenberg,"974,203",72.03%
 1928,Michigan (special),1928 U.S. Senate special election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"375,673",27.78%
 1928,Michigan (special),1928 U.S. Senate special election in Michigan,General,Candidate,False,Socialist Party (US),Francis W. Elliott,"2,682",0.20%
@@ -80,6 +69,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1928,Nebraska,1928 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (United States),Richard Lee Metcalfe,"204,737",38.72%
 1928,Nebraska,1928 United States Senate election in Nebraska,General,Write-in,False,,,1,0.00%
 1928,Nebraska,1928 United States Senate election in Nebraska,General,Total,False,,,"528,752",100.00%
+1928,Nevada,1928 United States Senate election in Nevada,General,Winning,True,Democratic Party (US),Key Pittman,"19,515",59.26
+1928,Nevada,1928 United States Senate election in Nevada,General,Candidate,False,Republican Party (US),Samuel Platt,"13,414",40.74
 1928,New Jersey,1928 United States Senate election in New Jersey,General,Winning,False,Republican Party (US),Hamilton Fish Kean,"841,752",57.87%
 1928,New Jersey,1928 United States Senate election in New Jersey,General,Candidate,True,Democratic Party (US),Edward I. Edwards,"608,623",41.84%
 1928,New Jersey,1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Party (US),Charlotte L. Bohlin,"2,267",0.16%

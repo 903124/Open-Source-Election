@@ -3740,84 +3740,52 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2008,Louisiana,LA,Winn,Parish,Other,Other,93,1.37,6772,Republican
 2008,Maine,ME,Androscoggin,County,Barack Obama,Democratic,31017,56.55,54850,Democratic
 2008,Maine,ME,Androscoggin,County,John McCain,Republican,22671,41.33,54850,Democratic
-2008,Maine,ME,Androscoggin,County,Ralph Nader,Independent,926,1.69,54850,Democratic
-2008,Maine,ME,Androscoggin,County,Cynthia McKinney,Green,222,0.4,54850,Democratic
-2008,Maine,ME,Androscoggin,County,Other,Other,14,0.03,54850,Democratic
+2008,Maine,ME,Androscoggin,County,Other,Other,1162,2.12,54850,Democratic
 2008,Maine,ME,Aroostook,County,Barack Obama,Democratic,19345,53.75,35994,Democratic
 2008,Maine,ME,Aroostook,County,John McCain,Republican,15898,44.17,35994,Democratic
-2008,Maine,ME,Aroostook,County,Ralph Nader,Independent,582,1.62,35994,Democratic
-2008,Maine,ME,Aroostook,County,Cynthia McKinney,Green,157,0.44,35994,Democratic
-2008,Maine,ME,Aroostook,County,Other,Other,12,0.03,35994,Democratic
+2008,Maine,ME,Aroostook,County,Other,Other,751,2.09,35994,Democratic
 2008,Maine,ME,Cumberland,County,Barack Obama,Democratic,105218,64.1,164151,Democratic
 2008,Maine,ME,Cumberland,County,John McCain,Republican,56186,34.23,164151,Democratic
-2008,Maine,ME,Cumberland,County,Ralph Nader,Independent,2070,1.26,164151,Democratic
-2008,Maine,ME,Cumberland,County,Cynthia McKinney,Green,532,0.32,164151,Democratic
-2008,Maine,ME,Cumberland,County,Other,Other,145,0.09,164151,Democratic
+2008,Maine,ME,Cumberland,County,Other,Other,2747,1.67,164151,Democratic
 2008,Maine,ME,Franklin,County,Barack Obama,Democratic,10113,58.87,17178,Democratic
 2008,Maine,ME,Franklin,County,John McCain,Republican,6627,38.58,17178,Democratic
-2008,Maine,ME,Franklin,County,Ralph Nader,Independent,348,2.03,17178,Democratic
-2008,Maine,ME,Franklin,County,Cynthia McKinney,Green,86,0.5,17178,Democratic
-2008,Maine,ME,Franklin,County,Other,Other,4,0.02,17178,Democratic
+2008,Maine,ME,Franklin,County,Other,Other,438,2.55,17178,Democratic
 2008,Maine,ME,Hancock,County,Barack Obama,Democratic,18895,58.74,32165,Democratic
 2008,Maine,ME,Hancock,County,John McCain,Republican,12686,39.44,32165,Democratic
-2008,Maine,ME,Hancock,County,Ralph Nader,Independent,420,1.31,32165,Democratic
-2008,Maine,ME,Hancock,County,Cynthia McKinney,Green,150,0.47,32165,Democratic
-2008,Maine,ME,Hancock,County,Other,Other,14,0.04,32165,Democratic
+2008,Maine,ME,Hancock,County,Other,Other,584,1.82,32165,Democratic
 2008,Maine,ME,Kennebec,County,Barack Obama,Democratic,37238,56.43,65986,Democratic
 2008,Maine,ME,Kennebec,County,John McCain,Republican,27482,41.65,65986,Democratic
-2008,Maine,ME,Kennebec,County,Ralph Nader,Independent,979,1.48,65986,Democratic
-2008,Maine,ME,Kennebec,County,Cynthia McKinney,Green,263,0.4,65986,Democratic
-2008,Maine,ME,Kennebec,County,Other,Other,24,0.04,65986,Democratic
+2008,Maine,ME,Kennebec,County,Other,Other,1266,1.92,65986,Democratic
 2008,Maine,ME,Knox,County,Barack Obama,Democratic,13728,59.74,22980,Democratic
 2008,Maine,ME,Knox,County,John McCain,Republican,8816,38.36,22980,Democratic
-2008,Maine,ME,Knox,County,Ralph Nader,Independent,325,1.42,22980,Democratic
-2008,Maine,ME,Knox,County,Cynthia McKinney,Green,97,0.42,22980,Democratic
-2008,Maine,ME,Knox,County,Other,Other,14,0.06,22980,Democratic
+2008,Maine,ME,Knox,County,Other,Other,436,1.9,22980,Democratic
 2008,Maine,ME,Lincoln,County,Barack Obama,Democratic,11886,55.07,21584,Democratic
 2008,Maine,ME,Lincoln,County,John McCain,Republican,9287,43.03,21584,Democratic
-2008,Maine,ME,Lincoln,County,Ralph Nader,Independent,307,1.42,21584,Democratic
-2008,Maine,ME,Lincoln,County,Cynthia McKinney,Green,87,0.4,21584,Democratic
-2008,Maine,ME,Lincoln,County,Other,Other,17,0.08,21584,Democratic
+2008,Maine,ME,Lincoln,County,Other,Other,411,1.9,21584,Democratic
 2008,Maine,ME,Oxford,County,Barack Obama,Democratic,17940,56.68,31650,Democratic
 2008,Maine,ME,Oxford,County,John McCain,Republican,12863,40.64,31650,Democratic
-2008,Maine,ME,Oxford,County,Ralph Nader,Independent,647,2.05,31650,Democratic
-2008,Maine,ME,Oxford,County,Cynthia McKinney,Green,172,0.54,31650,Democratic
-2008,Maine,ME,Oxford,County,Other,Other,28,0.08,31650,Democratic
+2008,Maine,ME,Oxford,County,Other,Other,847,2.68,31650,Democratic
 2008,Maine,ME,Penobscot,County,Barack Obama,Democratic,41614,51.72,80467,Democratic
 2008,Maine,ME,Penobscot,County,John McCain,Republican,37495,46.6,80467,Democratic
-2008,Maine,ME,Penobscot,County,Ralph Nader,Independent,1003,1.24,80467,Democratic
-2008,Maine,ME,Penobscot,County,Cynthia McKinney,Green,299,0.37,80467,Democratic
-2008,Maine,ME,Penobscot,County,Other,Other,56,0.07,80467,Democratic
+2008,Maine,ME,Penobscot,County,Other,Other,1358,1.69,80467,Democratic
 2008,Maine,ME,Piscataquis,County,Barack Obama,Democratic,4430,46.96,9434,Republican
 2008,Maine,ME,Piscataquis,County,John McCain,Republican,4785,50.72,9434,Republican
-2008,Maine,ME,Piscataquis,County,Ralph Nader,Independent,157,1.66,9434,Republican
-2008,Maine,ME,Piscataquis,County,Cynthia McKinney,Green,50,0.53,9434,Republican
-2008,Maine,ME,Piscataquis,County,Other,Other,12,0.13,9434,Republican
+2008,Maine,ME,Piscataquis,County,Other,Other,219,2.32,9434,Republican
 2008,Maine,ME,Sagadahoc,County,Barack Obama,Democratic,12152,57.05,21301,Democratic
 2008,Maine,ME,Sagadahoc,County,John McCain,Republican,8721,40.94,21301,Democratic
-2008,Maine,ME,Sagadahoc,County,Ralph Nader,Independent,342,1.61,21301,Democratic
-2008,Maine,ME,Sagadahoc,County,Cynthia McKinney,Green,82,0.38,21301,Democratic
-2008,Maine,ME,Sagadahoc,County,Other,Other,4,0.02,21301,Democratic
+2008,Maine,ME,Sagadahoc,County,Other,Other,428,2.01,21301,Democratic
 2008,Maine,ME,Somerset,County,Barack Obama,Democratic,13335,51.77,25758,Democratic
 2008,Maine,ME,Somerset,County,John McCain,Republican,11867,46.07,25758,Democratic
-2008,Maine,ME,Somerset,County,Ralph Nader,Independent,417,1.62,25758,Democratic
-2008,Maine,ME,Somerset,County,Cynthia McKinney,Green,131,0.51,25758,Democratic
-2008,Maine,ME,Somerset,County,Other,Other,8,0.03,25758,Democratic
+2008,Maine,ME,Somerset,County,Other,Other,556,2.16,25758,Democratic
 2008,Maine,ME,Waldo,County,Barack Obama,Democratic,11967,54.77,21850,Democratic
 2008,Maine,ME,Waldo,County,John McCain,Republican,9423,43.13,21850,Democratic
-2008,Maine,ME,Waldo,County,Ralph Nader,Independent,315,1.44,21850,Democratic
-2008,Maine,ME,Waldo,County,Cynthia McKinney,Green,123,0.56,21850,Democratic
-2008,Maine,ME,Waldo,County,Other,Other,22,0.1,21850,Democratic
+2008,Maine,ME,Waldo,County,Other,Other,460,2.1,21850,Democratic
 2008,Maine,ME,Washington,County,Barack Obama,Democratic,8246,49.51,16654,Democratic
 2008,Maine,ME,Washington,County,John McCain,Republican,8077,48.5,16654,Democratic
-2008,Maine,ME,Washington,County,Ralph Nader,Independent,258,1.55,16654,Democratic
-2008,Maine,ME,Washington,County,Cynthia McKinney,Green,70,0.42,16654,Democratic
-2008,Maine,ME,Washington,County,Other,Other,3,0.02,16654,Democratic
+2008,Maine,ME,Washington,County,Other,Other,331,1.99,16654,Democratic
 2008,Maine,ME,York,County,Barack Obama,Democratic,64799,59.36,109161,Democratic
 2008,Maine,ME,York,County,John McCain,Republican,42389,38.83,109161,Democratic
-2008,Maine,ME,York,County,Ralph Nader,Independent,1540,1.41,109161,Democratic
-2008,Maine,ME,York,County,Cynthia McKinney,Green,379,0.35,109161,Democratic
-2008,Maine,ME,York,County,Other,Other,54,0.05,109161,Democratic
+2008,Maine,ME,York,County,Other,Other,1973,1.81,109161,Democratic
 2008,Maryland,MD,Allegany,County,Barack Obama,Democratic,10693,35.95,29742,Republican
 2008,Maryland,MD,Allegany,County,John McCain,Republican,18405,61.88,29742,Republican
 2008,Maryland,MD,Allegany,County,Other,Other,644,2.17,29742,Republican
@@ -9867,289 +9835,289 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2008,West Virginia,WV,Wyoming,County,Other,Other,174,2.31,7530,Republican
 2008,Wisconsin,WI,Adams,County,Barack Obama,Democratic,5806,58.14,9986,Democratic
 2008,Wisconsin,WI,Adams,County,John McCain,Republican,3974,39.8,9986,Democratic
-2008,Wisconsin,WI,Adams,County,Other,Various Parties,206,2.06,9986,Democratic
+2008,Wisconsin,WI,Adams,County,Other,Other,206,2.06,9986,Democratic
 2008,Wisconsin,WI,Ashland,County,Barack Obama,Democratic,5818,67.86,8574,Democratic
 2008,Wisconsin,WI,Ashland,County,John McCain,Republican,2634,30.72,8574,Democratic
-2008,Wisconsin,WI,Ashland,County,Other,Various Parties,122,1.42,8574,Democratic
+2008,Wisconsin,WI,Ashland,County,Other,Other,122,1.42,8574,Democratic
 2008,Wisconsin,WI,Barron,County,Barack Obama,Democratic,12078,52.77,22886,Democratic
 2008,Wisconsin,WI,Barron,County,John McCain,Republican,10457,45.69,22886,Democratic
-2008,Wisconsin,WI,Barron,County,Other,Various Parties,351,1.54,22886,Democratic
+2008,Wisconsin,WI,Barron,County,Other,Other,351,1.54,22886,Democratic
 2008,Wisconsin,WI,Bayfield,County,Barack Obama,Democratic,5972,63.08,9468,Democratic
 2008,Wisconsin,WI,Bayfield,County,John McCain,Republican,3365,35.54,9468,Democratic
-2008,Wisconsin,WI,Bayfield,County,Other,Various Parties,131,1.38,9468,Democratic
+2008,Wisconsin,WI,Bayfield,County,Other,Other,131,1.38,9468,Democratic
 2008,Wisconsin,WI,Brown,County,Barack Obama,Democratic,67269,53.92,124754,Democratic
 2008,Wisconsin,WI,Brown,County,John McCain,Republican,55854,44.77,124754,Democratic
-2008,Wisconsin,WI,Brown,County,Other,Various Parties,1631,1.31,124754,Democratic
+2008,Wisconsin,WI,Brown,County,Other,Other,1631,1.31,124754,Democratic
 2008,Wisconsin,WI,Buffalo,County,Barack Obama,Democratic,3949,56.41,7000,Democratic
 2008,Wisconsin,WI,Buffalo,County,John McCain,Republican,2923,41.76,7000,Democratic
-2008,Wisconsin,WI,Buffalo,County,Other,Various Parties,128,1.83,7000,Democratic
+2008,Wisconsin,WI,Buffalo,County,Other,Other,128,1.83,7000,Democratic
 2008,Wisconsin,WI,Burnett,County,Barack Obama,Democratic,4337,49.92,8688,Democratic
 2008,Wisconsin,WI,Burnett,County,John McCain,Republican,4200,48.34,8688,Democratic
-2008,Wisconsin,WI,Burnett,County,Other,Various Parties,151,1.74,8688,Democratic
+2008,Wisconsin,WI,Burnett,County,Other,Other,151,1.74,8688,Democratic
 2008,Wisconsin,WI,Calumet,County,Barack Obama,Democratic,13295,50.22,26474,Democratic
 2008,Wisconsin,WI,Calumet,County,John McCain,Republican,12722,48.05,26474,Democratic
-2008,Wisconsin,WI,Calumet,County,Other,Various Parties,457,1.73,26474,Democratic
+2008,Wisconsin,WI,Calumet,County,Other,Other,457,1.73,26474,Democratic
 2008,Wisconsin,WI,Chippewa,County,Barack Obama,Democratic,16239,53.72,30231,Democratic
 2008,Wisconsin,WI,Chippewa,County,John McCain,Republican,13492,44.63,30231,Democratic
-2008,Wisconsin,WI,Chippewa,County,Other,Various Parties,500,1.65,30231,Democratic
+2008,Wisconsin,WI,Chippewa,County,Other,Other,500,1.65,30231,Democratic
 2008,Wisconsin,WI,Clark,County,Barack Obama,Democratic,7454,52.54,14187,Democratic
 2008,Wisconsin,WI,Clark,County,John McCain,Republican,6383,44.99,14187,Democratic
-2008,Wisconsin,WI,Clark,County,Other,Various Parties,350,2.47,14187,Democratic
+2008,Wisconsin,WI,Clark,County,Other,Other,350,2.47,14187,Democratic
 2008,Wisconsin,WI,Columbia,County,Barack Obama,Democratic,16661,56.92,29272,Democratic
 2008,Wisconsin,WI,Columbia,County,John McCain,Republican,12193,41.65,29272,Democratic
-2008,Wisconsin,WI,Columbia,County,Other,Various Parties,418,1.43,29272,Democratic
+2008,Wisconsin,WI,Columbia,County,Other,Other,418,1.43,29272,Democratic
 2008,Wisconsin,WI,Crawford,County,Barack Obama,Democratic,4987,62.49,7981,Democratic
 2008,Wisconsin,WI,Crawford,County,John McCain,Republican,2830,35.46,7981,Democratic
-2008,Wisconsin,WI,Crawford,County,Other,Various Parties,164,2.05,7981,Democratic
+2008,Wisconsin,WI,Crawford,County,Other,Other,164,2.05,7981,Democratic
 2008,Wisconsin,WI,Dane,County,Barack Obama,Democratic,205984,72.8,282939,Democratic
 2008,Wisconsin,WI,Dane,County,John McCain,Republican,73065,25.82,282939,Democratic
-2008,Wisconsin,WI,Dane,County,Other,Various Parties,3890,1.37,282939,Democratic
+2008,Wisconsin,WI,Dane,County,Other,Other,3890,1.37,282939,Democratic
 2008,Wisconsin,WI,Dodge,County,Barack Obama,Democratic,19183,44.8,42823,Republican
 2008,Wisconsin,WI,Dodge,County,John McCain,Republican,23015,53.74,42823,Republican
-2008,Wisconsin,WI,Dodge,County,Other,Various Parties,625,1.46,42823,Republican
+2008,Wisconsin,WI,Dodge,County,Other,Other,625,1.46,42823,Republican
 2008,Wisconsin,WI,Door,County,Barack Obama,Democratic,10142,58.02,17481,Democratic
 2008,Wisconsin,WI,Door,County,John McCain,Republican,7112,40.68,17481,Democratic
-2008,Wisconsin,WI,Door,County,Other,Various Parties,227,1.3,17481,Democratic
+2008,Wisconsin,WI,Door,County,Other,Other,227,1.3,17481,Democratic
 2008,Wisconsin,WI,Douglas,County,Barack Obama,Democratic,15830,65.78,24066,Democratic
 2008,Wisconsin,WI,Douglas,County,John McCain,Republican,7835,32.56,24066,Democratic
-2008,Wisconsin,WI,Douglas,County,Other,Various Parties,401,1.66,24066,Democratic
+2008,Wisconsin,WI,Douglas,County,Other,Other,401,1.66,24066,Democratic
 2008,Wisconsin,WI,Dunn,County,Barack Obama,Democratic,13002,56.56,22989,Democratic
 2008,Wisconsin,WI,Dunn,County,John McCain,Republican,9566,41.61,22989,Democratic
-2008,Wisconsin,WI,Dunn,County,Other,Various Parties,421,1.83,22989,Democratic
+2008,Wisconsin,WI,Dunn,County,Other,Other,421,1.83,22989,Democratic
 2008,Wisconsin,WI,Eau Claire,County,Barack Obama,Democratic,33146,60.25,55010,Democratic
 2008,Wisconsin,WI,Eau Claire,County,John McCain,Republican,20959,38.1,55010,Democratic
-2008,Wisconsin,WI,Eau Claire,County,Other,Various Parties,905,1.65,55010,Democratic
+2008,Wisconsin,WI,Eau Claire,County,Other,Other,905,1.65,55010,Democratic
 2008,Wisconsin,WI,Florence,County,Barack Obama,Democratic,1134,42.23,2685,Republican
 2008,Wisconsin,WI,Florence,County,John McCain,Republican,1512,56.31,2685,Republican
-2008,Wisconsin,WI,Florence,County,Other,Various Parties,39,1.46,2685,Republican
+2008,Wisconsin,WI,Florence,County,Other,Other,39,1.46,2685,Republican
 2008,Wisconsin,WI,Fond du Lac,County,Barack Obama,Democratic,23463,44.84,52323,Republican
 2008,Wisconsin,WI,Fond du Lac,County,John McCain,Republican,28164,53.83,52323,Republican
-2008,Wisconsin,WI,Fond du Lac,County,Other,Various Parties,696,1.33,52323,Republican
+2008,Wisconsin,WI,Fond du Lac,County,Other,Other,696,1.33,52323,Republican
 2008,Wisconsin,WI,Forest,County,Barack Obama,Democratic,2673,57.08,4683,Democratic
 2008,Wisconsin,WI,Forest,County,John McCain,Republican,1963,41.92,4683,Democratic
-2008,Wisconsin,WI,Forest,County,Other,Various Parties,47,1.0,4683,Democratic
+2008,Wisconsin,WI,Forest,County,Other,Other,47,1.0,4683,Democratic
 2008,Wisconsin,WI,Grant,County,Barack Obama,Democratic,14875,61.16,24320,Democratic
 2008,Wisconsin,WI,Grant,County,John McCain,Republican,9068,37.29,24320,Democratic
-2008,Wisconsin,WI,Grant,County,Other,Various Parties,377,1.55,24320,Democratic
+2008,Wisconsin,WI,Grant,County,Other,Other,377,1.55,24320,Democratic
 2008,Wisconsin,WI,Green,County,Barack Obama,Democratic,11502,62.06,18534,Democratic
 2008,Wisconsin,WI,Green,County,John McCain,Republican,6730,36.31,18534,Democratic
-2008,Wisconsin,WI,Green,County,Other,Various Parties,302,1.63,18534,Democratic
+2008,Wisconsin,WI,Green,County,Other,Other,302,1.63,18534,Democratic
 2008,Wisconsin,WI,Green Lake,County,Barack Obama,Democratic,4000,41.95,9536,Republican
 2008,Wisconsin,WI,Green Lake,County,John McCain,Republican,5393,56.55,9536,Republican
-2008,Wisconsin,WI,Green Lake,County,Other,Various Parties,143,1.5,9536,Republican
+2008,Wisconsin,WI,Green Lake,County,Other,Other,143,1.5,9536,Republican
 2008,Wisconsin,WI,Iowa,County,Barack Obama,Democratic,7987,66.73,11969,Democratic
 2008,Wisconsin,WI,Iowa,County,John McCain,Republican,3829,31.99,11969,Democratic
-2008,Wisconsin,WI,Iowa,County,Other,Various Parties,153,1.28,11969,Democratic
+2008,Wisconsin,WI,Iowa,County,Other,Other,153,1.28,11969,Democratic
 2008,Wisconsin,WI,Iron,County,Barack Obama,Democratic,1914,55.77,3432,Democratic
 2008,Wisconsin,WI,Iron,County,John McCain,Republican,1464,42.66,3432,Democratic
-2008,Wisconsin,WI,Iron,County,Other,Various Parties,54,1.57,3432,Democratic
+2008,Wisconsin,WI,Iron,County,Other,Other,54,1.57,3432,Democratic
 2008,Wisconsin,WI,Jackson,County,Barack Obama,Democratic,5572,60.23,9251,Democratic
 2008,Wisconsin,WI,Jackson,County,John McCain,Republican,3552,38.4,9251,Democratic
-2008,Wisconsin,WI,Jackson,County,Other,Various Parties,127,1.37,9251,Democratic
+2008,Wisconsin,WI,Jackson,County,Other,Other,127,1.37,9251,Democratic
 2008,Wisconsin,WI,Jefferson,County,Barack Obama,Democratic,21448,49.69,43166,Democratic
 2008,Wisconsin,WI,Jefferson,County,John McCain,Republican,21096,48.87,43166,Democratic
-2008,Wisconsin,WI,Jefferson,County,Other,Various Parties,622,1.44,43166,Democratic
+2008,Wisconsin,WI,Jefferson,County,Other,Other,622,1.44,43166,Democratic
 2008,Wisconsin,WI,Juneau,County,Barack Obama,Democratic,6186,53.65,11530,Democratic
 2008,Wisconsin,WI,Juneau,County,John McCain,Republican,5148,44.65,11530,Democratic
-2008,Wisconsin,WI,Juneau,County,Other,Various Parties,196,1.7,11530,Democratic
+2008,Wisconsin,WI,Juneau,County,Other,Other,196,1.7,11530,Democratic
 2008,Wisconsin,WI,Kenosha,County,Barack Obama,Democratic,45836,58.18,78789,Democratic
 2008,Wisconsin,WI,Kenosha,County,John McCain,Republican,31609,40.12,78789,Democratic
-2008,Wisconsin,WI,Kenosha,County,Other,Various Parties,1344,1.7,78789,Democratic
+2008,Wisconsin,WI,Kenosha,County,Other,Other,1344,1.7,78789,Democratic
 2008,Wisconsin,WI,Kewaunee,County,Barack Obama,Democratic,5902,54.71,10787,Democratic
 2008,Wisconsin,WI,Kewaunee,County,John McCain,Republican,4711,43.67,10787,Democratic
-2008,Wisconsin,WI,Kewaunee,County,Other,Various Parties,174,1.62,10787,Democratic
+2008,Wisconsin,WI,Kewaunee,County,Other,Other,174,1.62,10787,Democratic
 2008,Wisconsin,WI,La Crosse,County,Barack Obama,Democratic,38524,60.94,63218,Democratic
 2008,Wisconsin,WI,La Crosse,County,John McCain,Republican,23701,37.49,63218,Democratic
-2008,Wisconsin,WI,La Crosse,County,Other,Various Parties,993,1.57,63218,Democratic
+2008,Wisconsin,WI,La Crosse,County,Other,Other,993,1.57,63218,Democratic
 2008,Wisconsin,WI,Lafayette,County,Barack Obama,Democratic,4732,60.43,7831,Democratic
 2008,Wisconsin,WI,Lafayette,County,John McCain,Republican,2984,38.1,7831,Democratic
-2008,Wisconsin,WI,Lafayette,County,Other,Various Parties,115,1.47,7831,Democratic
+2008,Wisconsin,WI,Lafayette,County,Other,Other,115,1.47,7831,Democratic
 2008,Wisconsin,WI,Langlade,County,Barack Obama,Democratic,5182,49.82,10402,Democratic
 2008,Wisconsin,WI,Langlade,County,John McCain,Republican,5081,48.85,10402,Democratic
-2008,Wisconsin,WI,Langlade,County,Other,Various Parties,139,1.33,10402,Democratic
+2008,Wisconsin,WI,Langlade,County,Other,Other,139,1.33,10402,Democratic
 2008,Wisconsin,WI,Lincoln,County,Barack Obama,Democratic,8424,55.17,15268,Democratic
 2008,Wisconsin,WI,Lincoln,County,John McCain,Republican,6519,42.7,15268,Democratic
-2008,Wisconsin,WI,Lincoln,County,Other,Various Parties,325,2.13,15268,Democratic
+2008,Wisconsin,WI,Lincoln,County,Other,Other,325,2.13,15268,Democratic
 2008,Wisconsin,WI,Manitowoc,County,Barack Obama,Democratic,22428,52.88,42414,Democratic
 2008,Wisconsin,WI,Manitowoc,County,John McCain,Republican,19234,45.35,42414,Democratic
-2008,Wisconsin,WI,Manitowoc,County,Other,Various Parties,752,1.77,42414,Democratic
+2008,Wisconsin,WI,Manitowoc,County,Other,Other,752,1.77,42414,Democratic
 2008,Wisconsin,WI,Marathon,County,Barack Obama,Democratic,36367,53.53,67940,Democratic
 2008,Wisconsin,WI,Marathon,County,John McCain,Republican,30345,44.66,67940,Democratic
-2008,Wisconsin,WI,Marathon,County,Other,Various Parties,1228,1.81,67940,Democratic
+2008,Wisconsin,WI,Marathon,County,Other,Other,1228,1.81,67940,Democratic
 2008,Wisconsin,WI,Marinette,County,Barack Obama,Democratic,11195,52.67,21255,Democratic
 2008,Wisconsin,WI,Marinette,County,John McCain,Republican,9726,45.76,21255,Democratic
-2008,Wisconsin,WI,Marinette,County,Other,Various Parties,334,1.57,21255,Democratic
+2008,Wisconsin,WI,Marinette,County,Other,Other,334,1.57,21255,Democratic
 2008,Wisconsin,WI,Marquette,County,Barack Obama,Democratic,4068,51.85,7846,Democratic
 2008,Wisconsin,WI,Marquette,County,John McCain,Republican,3654,46.57,7846,Democratic
-2008,Wisconsin,WI,Marquette,County,Other,Various Parties,124,1.58,7846,Democratic
+2008,Wisconsin,WI,Marquette,County,Other,Other,124,1.58,7846,Democratic
 2008,Wisconsin,WI,Menominee,County,Barack Obama,Democratic,1257,86.81,1448,Democratic
 2008,Wisconsin,WI,Menominee,County,John McCain,Republican,185,12.78,1448,Democratic
-2008,Wisconsin,WI,Menominee,County,Other,Various Parties,6,0.41,1448,Democratic
+2008,Wisconsin,WI,Menominee,County,Other,Other,6,0.41,1448,Democratic
 2008,Wisconsin,WI,Milwaukee,County,Barack Obama,Democratic,319819,67.3,475192,Democratic
 2008,Wisconsin,WI,Milwaukee,County,John McCain,Republican,149445,31.45,475192,Democratic
-2008,Wisconsin,WI,Milwaukee,County,Other,Various Parties,5928,1.25,475192,Democratic
+2008,Wisconsin,WI,Milwaukee,County,Other,Other,5928,1.25,475192,Democratic
 2008,Wisconsin,WI,Monroe,County,Barack Obama,Democratic,10198,53.25,19152,Democratic
 2008,Wisconsin,WI,Monroe,County,John McCain,Republican,8666,45.25,19152,Democratic
-2008,Wisconsin,WI,Monroe,County,Other,Various Parties,288,1.5,19152,Democratic
+2008,Wisconsin,WI,Monroe,County,Other,Other,288,1.5,19152,Democratic
 2008,Wisconsin,WI,Oconto,County,Barack Obama,Democratic,9927,52.34,18968,Democratic
 2008,Wisconsin,WI,Oconto,County,John McCain,Republican,8755,46.16,18968,Democratic
-2008,Wisconsin,WI,Oconto,County,Other,Various Parties,286,1.5,18968,Democratic
+2008,Wisconsin,WI,Oconto,County,Other,Other,286,1.5,18968,Democratic
 2008,Wisconsin,WI,Oneida,County,Barack Obama,Democratic,11907,54.3,21927,Democratic
 2008,Wisconsin,WI,Oneida,County,John McCain,Republican,9630,43.92,21927,Democratic
-2008,Wisconsin,WI,Oneida,County,Other,Various Parties,390,1.78,21927,Democratic
+2008,Wisconsin,WI,Oneida,County,Other,Other,390,1.78,21927,Democratic
 2008,Wisconsin,WI,Outagamie,County,Barack Obama,Democratic,50294,54.93,91563,Democratic
 2008,Wisconsin,WI,Outagamie,County,John McCain,Republican,39677,43.33,91563,Democratic
-2008,Wisconsin,WI,Outagamie,County,Other,Various Parties,1592,1.74,91563,Democratic
+2008,Wisconsin,WI,Outagamie,County,Other,Other,1592,1.74,91563,Democratic
 2008,Wisconsin,WI,Ozaukee,County,Barack Obama,Democratic,20579,38.56,53365,Republican
 2008,Wisconsin,WI,Ozaukee,County,John McCain,Republican,32172,60.29,53365,Republican
-2008,Wisconsin,WI,Ozaukee,County,Other,Various Parties,614,1.15,53365,Republican
+2008,Wisconsin,WI,Ozaukee,County,Other,Other,614,1.15,53365,Republican
 2008,Wisconsin,WI,Pepin,County,Barack Obama,Democratic,2102,55.74,3771,Democratic
 2008,Wisconsin,WI,Pepin,County,John McCain,Republican,1616,42.85,3771,Democratic
-2008,Wisconsin,WI,Pepin,County,Other,Various Parties,53,1.41,3771,Democratic
+2008,Wisconsin,WI,Pepin,County,Other,Other,53,1.41,3771,Democratic
 2008,Wisconsin,WI,Pierce,County,Barack Obama,Democratic,11803,53.39,22107,Democratic
 2008,Wisconsin,WI,Pierce,County,John McCain,Republican,9812,44.38,22107,Democratic
-2008,Wisconsin,WI,Pierce,County,Other,Various Parties,492,2.23,22107,Democratic
+2008,Wisconsin,WI,Pierce,County,Other,Other,492,2.23,22107,Democratic
 2008,Wisconsin,WI,Polk,County,Barack Obama,Democratic,10876,48.03,22643,Republican
 2008,Wisconsin,WI,Polk,County,John McCain,Republican,11282,49.83,22643,Republican
-2008,Wisconsin,WI,Polk,County,Other,Various Parties,485,2.14,22643,Republican
+2008,Wisconsin,WI,Polk,County,Other,Other,485,2.14,22643,Republican
 2008,Wisconsin,WI,Portage,County,Barack Obama,Democratic,24817,62.95,39422,Democratic
 2008,Wisconsin,WI,Portage,County,John McCain,Republican,13810,35.03,39422,Democratic
-2008,Wisconsin,WI,Portage,County,Other,Various Parties,795,2.02,39422,Democratic
+2008,Wisconsin,WI,Portage,County,Other,Other,795,2.02,39422,Democratic
 2008,Wisconsin,WI,Price,County,Barack Obama,Democratic,4559,55.64,8194,Democratic
 2008,Wisconsin,WI,Price,County,John McCain,Republican,3461,42.24,8194,Democratic
-2008,Wisconsin,WI,Price,County,Other,Various Parties,174,2.12,8194,Democratic
+2008,Wisconsin,WI,Price,County,Other,Other,174,2.12,8194,Democratic
 2008,Wisconsin,WI,Racine,County,Barack Obama,Democratic,53408,53.07,100642,Democratic
 2008,Wisconsin,WI,Racine,County,John McCain,Republican,45954,45.66,100642,Democratic
-2008,Wisconsin,WI,Racine,County,Other,Various Parties,1280,1.27,100642,Democratic
+2008,Wisconsin,WI,Racine,County,Other,Other,1280,1.27,100642,Democratic
 2008,Wisconsin,WI,Richland,County,Barack Obama,Democratic,5041,59.66,8450,Democratic
 2008,Wisconsin,WI,Richland,County,John McCain,Republican,3298,39.03,8450,Democratic
-2008,Wisconsin,WI,Richland,County,Other,Various Parties,111,1.31,8450,Democratic
+2008,Wisconsin,WI,Richland,County,Other,Other,111,1.31,8450,Democratic
 2008,Wisconsin,WI,Rock,County,Barack Obama,Democratic,50529,63.82,79169,Democratic
 2008,Wisconsin,WI,Rock,County,John McCain,Republican,27364,34.56,79169,Democratic
-2008,Wisconsin,WI,Rock,County,Other,Various Parties,1276,1.62,79169,Democratic
+2008,Wisconsin,WI,Rock,County,Other,Other,1276,1.62,79169,Democratic
 2008,Wisconsin,WI,Rusk,County,Barack Obama,Democratic,3855,53.01,7272,Democratic
 2008,Wisconsin,WI,Rusk,County,John McCain,Republican,3253,44.73,7272,Democratic
-2008,Wisconsin,WI,Rusk,County,Other,Various Parties,164,2.26,7272,Democratic
+2008,Wisconsin,WI,Rusk,County,Other,Other,164,2.26,7272,Democratic
 2008,Wisconsin,WI,St. Croix,County,Barack Obama,Democratic,21177,47.25,44821,Republican
 2008,Wisconsin,WI,St. Croix,County,John McCain,Republican,22837,50.95,44821,Republican
-2008,Wisconsin,WI,St. Croix,County,Other,Various Parties,807,1.8,44821,Republican
+2008,Wisconsin,WI,St. Croix,County,Other,Other,807,1.8,44821,Republican
 2008,Wisconsin,WI,Sauk,County,Barack Obama,Democratic,18617,60.79,30626,Democratic
 2008,Wisconsin,WI,Sauk,County,John McCain,Republican,11562,37.75,30626,Democratic
-2008,Wisconsin,WI,Sauk,County,Other,Various Parties,447,1.46,30626,Democratic
+2008,Wisconsin,WI,Sauk,County,Other,Other,447,1.46,30626,Democratic
 2008,Wisconsin,WI,Sawyer,County,Barack Obama,Democratic,4765,52.45,9085,Democratic
 2008,Wisconsin,WI,Sawyer,County,John McCain,Republican,4199,46.22,9085,Democratic
-2008,Wisconsin,WI,Sawyer,County,Other,Various Parties,121,1.33,9085,Democratic
+2008,Wisconsin,WI,Sawyer,County,Other,Other,121,1.33,9085,Democratic
 2008,Wisconsin,WI,Shawano,County,Barack Obama,Democratic,10259,51.07,20089,Democratic
 2008,Wisconsin,WI,Shawano,County,John McCain,Republican,9538,47.48,20089,Democratic
-2008,Wisconsin,WI,Shawano,County,Other,Various Parties,292,1.45,20089,Democratic
+2008,Wisconsin,WI,Shawano,County,Other,Other,292,1.45,20089,Democratic
 2008,Wisconsin,WI,Sheboygan,County,Barack Obama,Democratic,30395,48.94,62107,Republican
 2008,Wisconsin,WI,Sheboygan,County,John McCain,Republican,30801,49.59,62107,Republican
-2008,Wisconsin,WI,Sheboygan,County,Other,Various Parties,911,1.47,62107,Republican
+2008,Wisconsin,WI,Sheboygan,County,Other,Other,911,1.47,62107,Republican
 2008,Wisconsin,WI,Taylor,County,Barack Obama,Democratic,4563,48.82,9346,Republican
 2008,Wisconsin,WI,Taylor,County,John McCain,Republican,4586,49.07,9346,Republican
-2008,Wisconsin,WI,Taylor,County,Other,Various Parties,197,2.11,9346,Republican
+2008,Wisconsin,WI,Taylor,County,Other,Other,197,2.11,9346,Republican
 2008,Wisconsin,WI,Trempealeau,County,Barack Obama,Democratic,8321,62.5,13314,Democratic
 2008,Wisconsin,WI,Trempealeau,County,John McCain,Republican,4808,36.11,13314,Democratic
-2008,Wisconsin,WI,Trempealeau,County,Other,Various Parties,185,1.39,13314,Democratic
+2008,Wisconsin,WI,Trempealeau,County,Other,Other,185,1.39,13314,Democratic
 2008,Wisconsin,WI,Vernon,County,Barack Obama,Democratic,8463,60.13,14075,Democratic
 2008,Wisconsin,WI,Vernon,County,John McCain,Republican,5367,38.13,14075,Democratic
-2008,Wisconsin,WI,Vernon,County,Other,Various Parties,245,1.74,14075,Democratic
+2008,Wisconsin,WI,Vernon,County,Other,Other,245,1.74,14075,Democratic
 2008,Wisconsin,WI,Vilas,County,Barack Obama,Democratic,6491,47.21,13750,Republican
 2008,Wisconsin,WI,Vilas,County,John McCain,Republican,7055,51.31,13750,Republican
-2008,Wisconsin,WI,Vilas,County,Other,Various Parties,204,1.48,13750,Republican
+2008,Wisconsin,WI,Vilas,County,Other,Other,204,1.48,13750,Republican
 2008,Wisconsin,WI,Walworth,County,Barack Obama,Democratic,24177,47.95,50422,Republican
 2008,Wisconsin,WI,Walworth,County,John McCain,Republican,25485,50.54,50422,Republican
-2008,Wisconsin,WI,Walworth,County,Other,Various Parties,760,1.51,50422,Republican
+2008,Wisconsin,WI,Walworth,County,Other,Other,760,1.51,50422,Republican
 2008,Wisconsin,WI,Washburn,County,Barack Obama,Democratic,4693,51.5,9112,Democratic
 2008,Wisconsin,WI,Washburn,County,John McCain,Republican,4303,47.22,9112,Democratic
-2008,Wisconsin,WI,Washburn,County,Other,Various Parties,116,1.28,9112,Democratic
+2008,Wisconsin,WI,Washburn,County,Other,Other,116,1.28,9112,Democratic
 2008,Wisconsin,WI,Washington,County,Barack Obama,Democratic,25719,34.56,74411,Republican
 2008,Wisconsin,WI,Washington,County,John McCain,Republican,47729,64.14,74411,Republican
-2008,Wisconsin,WI,Washington,County,Other,Various Parties,963,1.3,74411,Republican
+2008,Wisconsin,WI,Washington,County,Other,Other,963,1.3,74411,Republican
 2008,Wisconsin,WI,Waukesha,County,Barack Obama,Democratic,85339,36.64,232897,Republican
 2008,Wisconsin,WI,Waukesha,County,John McCain,Republican,145152,62.32,232897,Republican
-2008,Wisconsin,WI,Waukesha,County,Other,Various Parties,2406,1.04,232897,Republican
+2008,Wisconsin,WI,Waukesha,County,Other,Other,2406,1.04,232897,Republican
 2008,Wisconsin,WI,Waupaca,County,Barack Obama,Democratic,12952,50.77,25511,Democratic
 2008,Wisconsin,WI,Waupaca,County,John McCain,Republican,12232,47.95,25511,Democratic
-2008,Wisconsin,WI,Waupaca,County,Other,Various Parties,327,1.28,25511,Democratic
+2008,Wisconsin,WI,Waupaca,County,Other,Other,327,1.28,25511,Democratic
 2008,Wisconsin,WI,Waushara,County,Barack Obama,Democratic,5868,49.52,11849,Democratic
 2008,Wisconsin,WI,Waushara,County,John McCain,Republican,5770,48.7,11849,Democratic
-2008,Wisconsin,WI,Waushara,County,Other,Various Parties,211,1.78,11849,Democratic
+2008,Wisconsin,WI,Waushara,County,Other,Other,211,1.78,11849,Democratic
 2008,Wisconsin,WI,Winnebago,County,Barack Obama,Democratic,48167,54.94,87677,Democratic
 2008,Wisconsin,WI,Winnebago,County,John McCain,Republican,37946,43.28,87677,Democratic
-2008,Wisconsin,WI,Winnebago,County,Other,Various Parties,1564,1.78,87677,Democratic
+2008,Wisconsin,WI,Winnebago,County,Other,Other,1564,1.78,87677,Democratic
 2008,Wisconsin,WI,Wood,County,Barack Obama,Democratic,21710,55.59,39052,Democratic
 2008,Wisconsin,WI,Wood,County,John McCain,Republican,16581,42.46,39052,Democratic
-2008,Wisconsin,WI,Wood,County,Other,Various Parties,761,1.95,39052,Democratic
+2008,Wisconsin,WI,Wood,County,Other,Other,761,1.95,39052,Democratic
 2008,Wyoming,WY,Albany,County,John McCain,Republican,7936,46.36,17117,Democratic
 2008,Wyoming,WY,Albany,County,Barack Obama,Democratic,8644,50.5,17117,Democratic
-2008,Wyoming,WY,Albany,County,Other,Various Parties,537,3.14,17117,Democratic
+2008,Wyoming,WY,Albany,County,Other,Other,537,3.14,17117,Democratic
 2008,Wyoming,WY,Big Horn,County,John McCain,Republican,4045,76.18,5310,Republican
 2008,Wyoming,WY,Big Horn,County,Barack Obama,Democratic,1108,20.87,5310,Republican
-2008,Wyoming,WY,Big Horn,County,Other,Various Parties,157,2.96,5310,Republican
+2008,Wyoming,WY,Big Horn,County,Other,Other,157,2.96,5310,Republican
 2008,Wyoming,WY,Campbell,County,John McCain,Republican,13011,79.72,16320,Republican
 2008,Wyoming,WY,Campbell,County,Barack Obama,Democratic,2990,18.32,16320,Republican
-2008,Wyoming,WY,Campbell,County,Other,Various Parties,319,1.95,16320,Republican
+2008,Wyoming,WY,Campbell,County,Other,Other,319,1.95,16320,Republican
 2008,Wyoming,WY,Carbon,County,John McCain,Republican,4331,63.19,6854,Republican
 2008,Wyoming,WY,Carbon,County,Barack Obama,Democratic,2336,34.08,6854,Republican
-2008,Wyoming,WY,Carbon,County,Other,Various Parties,187,2.73,6854,Republican
+2008,Wyoming,WY,Carbon,County,Other,Other,187,2.73,6854,Republican
 2008,Wyoming,WY,Converse,County,John McCain,Republican,4922,76.3,6451,Republican
 2008,Wyoming,WY,Converse,County,Barack Obama,Democratic,1380,21.39,6451,Republican
-2008,Wyoming,WY,Converse,County,Other,Various Parties,149,2.31,6451,Republican
+2008,Wyoming,WY,Converse,County,Other,Other,149,2.31,6451,Republican
 2008,Wyoming,WY,Crook,County,John McCain,Republican,2967,80.56,3683,Republican
 2008,Wyoming,WY,Crook,County,Barack Obama,Democratic,612,16.62,3683,Republican
-2008,Wyoming,WY,Crook,County,Other,Various Parties,104,2.82,3683,Republican
+2008,Wyoming,WY,Crook,County,Other,Other,104,2.82,3683,Republican
 2008,Wyoming,WY,Fremont,County,John McCain,Republican,11083,63.0,17592,Republican
 2008,Wyoming,WY,Fremont,County,Barack Obama,Democratic,6016,34.2,17592,Republican
-2008,Wyoming,WY,Fremont,County,Other,Various Parties,493,2.8,17592,Republican
+2008,Wyoming,WY,Fremont,County,Other,Other,493,2.8,17592,Republican
 2008,Wyoming,WY,Goshen,County,John McCain,Republican,3942,66.68,5912,Republican
 2008,Wyoming,WY,Goshen,County,Barack Obama,Democratic,1832,30.99,5912,Republican
-2008,Wyoming,WY,Goshen,County,Other,Various Parties,138,2.33,5912,Republican
+2008,Wyoming,WY,Goshen,County,Other,Other,138,2.33,5912,Republican
 2008,Wyoming,WY,Hot Springs,County,John McCain,Republican,1834,72.03,2546,Republican
 2008,Wyoming,WY,Hot Springs,County,Barack Obama,Democratic,619,24.31,2546,Republican
-2008,Wyoming,WY,Hot Springs,County,Other,Various Parties,93,3.65,2546,Republican
+2008,Wyoming,WY,Hot Springs,County,Other,Other,93,3.65,2546,Republican
 2008,Wyoming,WY,Johnson,County,John McCain,Republican,3334,76.57,4354,Republican
 2008,Wyoming,WY,Johnson,County,Barack Obama,Democratic,908,20.85,4354,Republican
-2008,Wyoming,WY,Johnson,County,Other,Various Parties,112,2.57,4354,Republican
+2008,Wyoming,WY,Johnson,County,Other,Other,112,2.57,4354,Republican
 2008,Wyoming,WY,Laramie,County,John McCain,Republican,24549,58.98,41625,Republican
 2008,Wyoming,WY,Laramie,County,Barack Obama,Democratic,16072,38.61,41625,Republican
-2008,Wyoming,WY,Laramie,County,Other,Various Parties,1004,2.41,41625,Republican
+2008,Wyoming,WY,Laramie,County,Other,Other,1004,2.41,41625,Republican
 2008,Wyoming,WY,Lincoln,County,John McCain,Republican,6485,75.69,8568,Republican
 2008,Wyoming,WY,Lincoln,County,Barack Obama,Democratic,1823,21.28,8568,Republican
-2008,Wyoming,WY,Lincoln,County,Other,Various Parties,260,3.03,8568,Republican
+2008,Wyoming,WY,Lincoln,County,Other,Other,260,3.03,8568,Republican
 2008,Wyoming,WY,Natrona,County,John McCain,Republican,21906,65.85,33267,Republican
 2008,Wyoming,WY,Natrona,County,Barack Obama,Democratic,10475,31.49,33267,Republican
-2008,Wyoming,WY,Natrona,County,Other,Various Parties,886,2.66,33267,Republican
+2008,Wyoming,WY,Natrona,County,Other,Other,886,2.66,33267,Republican
 2008,Wyoming,WY,Niobrara,County,John McCain,Republican,1017,78.65,1293,Republican
 2008,Wyoming,WY,Niobrara,County,Barack Obama,Democratic,244,18.87,1293,Republican
-2008,Wyoming,WY,Niobrara,County,Other,Various Parties,32,2.47,1293,Republican
+2008,Wyoming,WY,Niobrara,County,Other,Other,32,2.47,1293,Republican
 2008,Wyoming,WY,Park,County,John McCain,Republican,10839,72.33,14985,Republican
 2008,Wyoming,WY,Park,County,Barack Obama,Democratic,3757,25.07,14985,Republican
-2008,Wyoming,WY,Park,County,Other,Various Parties,389,2.6,14985,Republican
+2008,Wyoming,WY,Park,County,Other,Other,389,2.6,14985,Republican
 2008,Wyoming,WY,Platte,County,John McCain,Republican,3002,65.83,4560,Republican
 2008,Wyoming,WY,Platte,County,Barack Obama,Democratic,1407,30.86,4560,Republican
-2008,Wyoming,WY,Platte,County,Other,Various Parties,151,3.31,4560,Republican
+2008,Wyoming,WY,Platte,County,Other,Other,151,3.31,4560,Republican
 2008,Wyoming,WY,Sheridan,County,John McCain,Republican,10177,67.93,14981,Republican
 2008,Wyoming,WY,Sheridan,County,Barack Obama,Democratic,4458,29.76,14981,Republican
-2008,Wyoming,WY,Sheridan,County,Other,Various Parties,346,2.31,14981,Republican
+2008,Wyoming,WY,Sheridan,County,Other,Other,346,2.31,14981,Republican
 2008,Wyoming,WY,Sublette,County,John McCain,Republican,3316,76.12,4356,Republican
 2008,Wyoming,WY,Sublette,County,Barack Obama,Democratic,936,21.49,4356,Republican
-2008,Wyoming,WY,Sublette,County,Other,Various Parties,104,2.39,4356,Republican
+2008,Wyoming,WY,Sublette,County,Other,Other,104,2.39,4356,Republican
 2008,Wyoming,WY,Sweetwater,County,John McCain,Republican,10360,62.02,16703,Republican
 2008,Wyoming,WY,Sweetwater,County,Barack Obama,Democratic,5762,34.5,16703,Republican
-2008,Wyoming,WY,Sweetwater,County,Other,Various Parties,581,3.48,16703,Republican
+2008,Wyoming,WY,Sweetwater,County,Other,Other,581,3.48,16703,Republican
 2008,Wyoming,WY,Teton,County,John McCain,Republican,4565,37.07,12316,Democratic
 2008,Wyoming,WY,Teton,County,Barack Obama,Democratic,7472,60.67,12316,Democratic
-2008,Wyoming,WY,Teton,County,Other,Various Parties,279,2.27,12316,Democratic
+2008,Wyoming,WY,Teton,County,Other,Other,279,2.27,12316,Democratic
 2008,Wyoming,WY,Uinta,County,John McCain,Republican,5763,68.75,8383,Republican
 2008,Wyoming,WY,Uinta,County,Barack Obama,Democratic,2317,27.64,8383,Republican
-2008,Wyoming,WY,Uinta,County,Other,Various Parties,303,3.61,8383,Republican
+2008,Wyoming,WY,Uinta,County,Other,Other,303,3.61,8383,Republican
 2008,Wyoming,WY,Washakie,County,John McCain,Republican,2956,72.29,4089,Republican
 2008,Wyoming,WY,Washakie,County,Barack Obama,Democratic,1042,25.48,4089,Republican
-2008,Wyoming,WY,Washakie,County,Other,Various Parties,91,2.23,4089,Republican
+2008,Wyoming,WY,Washakie,County,Other,Other,91,2.23,4089,Republican
 2008,Wyoming,WY,Weston,County,John McCain,Republican,2618,77.16,3393,Republican
 2008,Wyoming,WY,Weston,County,Barack Obama,Democratic,658,19.39,3393,Republican
-2008,Wyoming,WY,Weston,County,Other,Various Parties,117,3.45,3393,Republican
+2008,Wyoming,WY,Weston,County,Other,Other,117,3.45,3393,Republican
 2008,District of Columbia,DC,Ward 1,Ward,Barack Obama,Democratic,28977,93.39,31029,Democratic
 2008,District of Columbia,DC,Ward 1,Ward,John McCain,Republican,1599,5.15,31029,Democratic
 2008,District of Columbia,DC,Ward 1,Ward,Other,Various Parties,453,1.46,31029,Democratic

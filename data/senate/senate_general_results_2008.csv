@@ -19,9 +19,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2008,Colorado,2008 United States Senate election in Colorado,General,Candidate,False,Bob Kinsey,Green Party (United States),"50,008",2.14%
 2008,Colorado,2008 United States Senate election in Colorado,General,Write-in,False,,,135,0.01%
 2008,Colorado,2008 United States Senate election in Colorado,General,Total,False,,,"2,331,712",100.00%
-2008,Delaware,2008 United States Senate election in Delaware,General,Winning,True,Joe Biden,Democratic Party (United States),"257,539",64.69%
-2008,Delaware,2008 United States Senate election in Delaware,General,Candidate,False,Christine O'Donnell,Republican Party (United States),"140,595",35.31%
-2008,Delaware,2008 United States Senate election in Delaware,General,Total,False,,,"398,134",100%
+2008,Delaware,2008 United States Senate election in Delaware,General,Winning,True,Joe Biden,Democratic Party (United States),"257,539",64.69
+2008,Delaware,2008 United States Senate election in Delaware,General,Candidate,False,Christine O'Donnell,Republican Party (United States),"140,595",35.31
+2008,Delaware,2008 United States Senate election in Delaware,General,Total,False,,,"398,134",100.00
 2008,Georgia,2008 United States Senate general election in Georgia,General,Winning,True,Saxby Chambliss,Republican Party (United States),"1,867,097",49.76%
 2008,Georgia,2008 United States Senate general election in Georgia,General,Winning,False,Jim Martin,Democratic Party (United States),"1,757,393",46.83%
 2008,Georgia,2008 United States Senate general election in Georgia,General,Candidate,False,Allen Buckley,Libertarian Party (United States),"127,923",3.41%

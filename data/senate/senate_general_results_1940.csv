@@ -22,6 +22,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1940,Florida,1940 Democratic U.S. Senate runoff,General,Total,False,,,"449,934",100.00%
 1940,Florida,General election results,General,Winning,True,Democratic Party (United States),Charles O. Andrews,"323,216",100.00%
 1940,Florida,General election results,General,Total,False,,,"323,216",100.00%
+1940,Idaho (special),1940 United States Senate special election in Idaho,General,Winning,True,Republican Party (US),John Thomas,"124,535",52.96
+1940,Idaho (special),1940 United States Senate special election in Idaho,General,Candidate,False,Democratic Party (US),Glen H. Taylor,"110,614",47.04
 1940,Illinois (special),1940 United States Senate special election in Illinois,General,Winning,False,Republican Party (United States),C. Wayland Brooks,"2,045,924",50.07
 1940,Illinois (special),1940 United States Senate special election in Illinois,General,Candidate,True,Democratic Party (United States),James M. Slattery,"2,025,097",49.56
 1940,Illinois (special),1940 United States Senate special election in Illinois,General,Candidate,False,Prohibition Party,Enoch A. Holtwick,"3,844",0.21
@@ -32,6 +34,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1940,Indiana,1940 U.S. Senate election in Indiana,General,Candidate,False,Prohibition Party (United States),Carl W. Thompson,"5,621",0.32%
 1940,Indiana,1940 U.S. Senate election in Indiana,General,Candidate,False,Socialist Party USA,John H. Kingsbury,"1,751",0.10%
 1940,Indiana,1940 U.S. Senate election in Indiana,General,Total,False,,,"1,760,245",100.00%
+1940,Kentucky (special),1940 U.S. Senate election in Kentucky,General,Winning,True,Democratic Party (US),Happy Chandler,"561,151",58.27%
+1940,Kentucky (special),1940 U.S. Senate election in Kentucky,General,Candidate,False,Republican Party (US),Walter B. Smith,"401,812",41.73%
+1940,Kentucky (special),1940 U.S. Senate election in Kentucky,General,Total,False,,,"962,963",100.00%
 1940,Maine,1940 U.S. Senate election in Maine,General,Winning,False,Republican Party (United States),Owen Brewster,"150,149",58.61%
 1940,Maine,1940 U.S. Senate election in Maine,General,Candidate,False,Democratic Party (United States),Louis J. Brann,"105,740",41.27%
 1940,Maine,1940 U.S. Senate election in Maine,General,Candidate,False,Independent (politician),Lewis Gordon,305,0.12%
@@ -76,6 +81,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1940,Nebraska,1940 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (United States),Robert Leroy Cochran,"247,659",41.49%
 1940,Nebraska,1940 United States Senate election in Nebraska,General,Candidate,False,Independent (politician),Albert F. Ruthven,"8,982",1.50%
 1940,Nebraska,1940 United States Senate election in Nebraska,General,Total,False,,,"596,891",100.00%
+1940,Nevada,1940 United States Senate election in Nevada,General,Winning,True,Democratic Party (US),Key Pittman,"31,351",60.48
+1940,Nevada,1940 United States Senate election in Nevada,General,Candidate,False,Republican Party (US),Samuel Platt,"20,488",39.52
 1940,New Jersey,1940 United States Senate election in New Jersey,General,Winning,True,Republican Party (US),W. Warren Barbour,"1,029,331",55.11%
 1940,New Jersey,1940 United States Senate election in New Jersey,General,Candidate,False,Democratic Party (US),James H. R. Cromwell,"823,893",44.11%
 1940,New Jersey,1940 United States Senate election in New Jersey,General,Candidate,False,Socialist Party of America,McAlister Coleman,"8,836",0.47%
@@ -84,6 +91,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1940,New Jersey,1940 United States Senate election in New Jersey,General,Candidate,False,Prohibition Party (US),Edson R. Leach,645,0.03%
 1940,New Jersey,1940 United States Senate election in New Jersey,General,Candidate,False,Socialist Labor Party (US),Harry Santhouse,464,0.02%
 1940,New Jersey,1940 United States Senate election in New Jersey,General,Candidate,False,Socialist Workers Party (US),George Breitman,303,0.02%
+1940,New York,1940 U.S. Senate election in New York,General,Winning,True,Democratic Party (US),James M. Mead,"2,893,407",47.06%
+1940,New York,1940 U.S. Senate election in New York,General,Candidate,True,American Labor Party,James M. Mead,"381,359",6.20%
+1940,New York,1940 U.S. Senate election in New York,General,Candidate,False,Republican Party (US),Bruce Barton,"2,842,942",46.66%
+1940,New York,1940 U.S. Senate election in New York,General,Candidate,False,Prohibition Party (US),Stephen W. Paine,"4,944",0.08%
+1940,New York,1940 U.S. Senate election in New York,General,Total,False,,,"6,148,562",100.00%
 1940,North Dakota,1940 United States Senate election in North Dakota,General,Winning,False,Republican Party (United States),William Langer,"100,647",38.11%
 1940,North Dakota,1940 United States Senate election in North Dakota,General,Candidate,False,Independent (politician),William Lemke,"92,593",35.06%
 1940,North Dakota,1940 United States Senate election in North Dakota,General,Candidate,False,Democratic Party (United States),Charles J. Vogel,"69,847",26.45%
@@ -91,6 +103,13 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1940,Ohio,1940 U.S. Senate election in Ohio,General,Winning,False,Republican Party (United States),Harold Hitz Burton,"1,602,498",52.37%
 1940,Ohio,1940 U.S. Senate election in Ohio,General,Candidate,False,Democratic Party (United States),John McSweeney,"1,457,304",47.63%
 1940,Ohio,1940 U.S. Senate election in Ohio,General,Total,False,,,"3,059,802",100.00%
+1940,Pennsylvania,General election results,General,Winning,False,Democratic Party (US),Joseph F. Guffey (inc.),"2,069,980",51.79%
+1940,Pennsylvania,General election results,General,Candidate,False,Republican Party (US),Jay Cooke,"1,893,104",47.36%
+1940,Pennsylvania,General election results,General,Candidate,False,Socialist Party USA,David H.H. Felix,"15,449",0.39%
+1940,Pennsylvania,General election results,General,Candidate,False,Prohibition Party (United States),H. B. Mansell,"11,113",0.28%
+1940,Pennsylvania,General election results,General,Candidate,False,Communist Party USA,Carl Reeve,"4,761",0.12%
+1940,Pennsylvania,General election results,General,Candidate,False,Socialist Labor Party of America,Frank Knotek,"2,503",0.06%
+1940,Pennsylvania,General election results,General,Write-in,False,,,110,0.00%
 1940,Tennessee,1940 U.S. Senate election in Tennessee,General,Winning,True,Democratic Party (United States),Kenneth McKellar,"295,440",70.80%
 1940,Tennessee,1940 U.S. Senate election in Tennessee,General,Candidate,False,Republican Party (United States),Howard Baker Sr.,"121,790",29.19%
 1940,Tennessee,1940 U.S. Senate election in Tennessee,General,Candidate,False,Independent (politician),John Randolph Neal Jr.,35,0.01%

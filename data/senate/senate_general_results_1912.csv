@@ -1,0 +1,19 @@
+Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
+1912,Arizona,1912 United States Senate election in Arizona (Class 1),General,Winning,False,Democratic Party (US),Henry F. Ashurst,"10,872",49.99%
+1912,Arizona,1912 United States Senate election in Arizona (Class 1),General,Candidate,False,Republican Party (US),Ralph H. Cameron,"9,640",44.33%
+1912,Arizona,1912 United States Senate election in Arizona (Class 1),General,Candidate,False,Socialist Party (US),E. Johnson,"1,234",5.68%
+1912,Arizona,1912 United States Senate election in Arizona (Class 3),General,Winning,False,Democratic Party (US),Marcus A. Smith,"10,598",50.35%
+1912,Arizona,1912 United States Senate election in Arizona (Class 3),General,Candidate,False,Republican Party (US),Hoval A. Smith,"9,228",43.85%
+1912,Arizona,1912 United States Senate election in Arizona (Class 3),General,Candidate,False,Socialist Party (US),E. B. Simonton,"1,221",5.80%
+1912,Kentucky,1912 United States Senate election in Kentucky (first Senate ballot),General,Winning,False,Democratic Party (United States),Ollie Murray James,31,88.6
+1912,Kentucky,1912 United States Senate election in Kentucky (first Senate ballot),General,Candidate,False,Republican Party (United States),Edwin P. Morrow,4,11.4
+1912,Kentucky,1912 United States Senate election in Kentucky (first Senate ballot),General,Total,False,,,35,100.0
+1912,Kentucky,1912 United States Senate election in Kentucky (first House ballot),General,Winning,False,Democratic Party (United States),Ollie Murray James,75,75.8
+1912,Kentucky,1912 United States Senate election in Kentucky (first House ballot),General,Candidate,False,Republican Party (United States),Edwin P. Morrow,24,24.2
+1912,Kentucky,1912 United States Senate election in Kentucky (first House ballot),General,Total,False,,,99,100.0
+1912,Kentucky,1912 United States Senate election in Kentucky (Senate),General,Winning,False,Democratic Party (United States),Ollie Murray James,31,83.8
+1912,Kentucky,1912 United States Senate election in Kentucky (Senate),General,Candidate,False,Republican Party (United States),Edwin P. Morrow,6,16.2
+1912,Kentucky,1912 United States Senate election in Kentucky (Senate),General,Total,False,,,37,100.0
+1912,Kentucky,1912 United States Senate election in Kentucky (House of Representatives),General,Winning,False,Democratic Party (United States),Ollie Murray James,74,76.3
+1912,Kentucky,1912 United States Senate election in Kentucky (House of Representatives),General,Candidate,False,Republican Party (United States),Edwin P. Morrow,23,23.7
+1912,Kentucky,1912 United States Senate election in Kentucky (House of Representatives),General,Total,False,,,97,100.0

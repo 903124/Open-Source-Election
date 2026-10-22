@@ -12,7 +12,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1972,Indiana,IN,governor,Republican nomination results,Winning,Otis Bowen,Republican,1243.0,59.7,True,False
 1972,Indiana,IN,governor,Republican nomination results,Candidate,William Sharp,Republican,364.0,17.48,False,False
 1972,Indiana,IN,governor,Republican nomination results,Candidate,Phil Gutman,Republican,354.0,17.0,False,False
-1972,Indiana,IN,governor,Republican nomination results,Candidate,W.W. 'Dub' Hill,Republican,108.0,5.19,False,False
+1972,Indiana,IN,governor,Republican nomination results,Candidate,"W.W. ""Dub"" Hill",Republican,108.0,5.19,False,False
 1972,Indiana,IN,governor,Republican nomination results,Candidate,N/A,,13.0,0.62,False,False
 1972,Indiana,IN,governor,Republican nomination results,Total,,,2082.0,100.0,False,False
 1972,Kansas,KS,governor,Republican primary results,Winning,Morris Kay,Republican,138815.0,46.59,True,False
@@ -26,11 +26,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1972,Montana,MT,governor,Democratic Party primary results,Candidate,Dallas E. Howard,Democratic,4255.0,3.36,False,False
 1972,Montana,MT,governor,Democratic Party primary results,Candidate,David E. Burnham,Democratic,2276.0,1.8,False,False
 1972,Montana,MT,governor,Democratic Party primary results,Total,,,126794.0,100.0,False,False
-1972,Montana,MT,governor,Republican Primary results,Winning,Ed Smith,Republican,39552.0,40.65,True,False
-1972,Montana,MT,governor,Republican Primary results,Candidate,Frank Dunkle,Republican,37375.0,38.41,False,False
-1972,Montana,MT,governor,Republican Primary results,Candidate,Tom A. Selstad,Republican,18046.0,18.55,False,False
-1972,Montana,MT,governor,Republican Primary results,Candidate,Warren McMillan,Republican,2331.0,2.4,False,False
-1972,Montana,MT,governor,Republican Primary results,Total,,,97304.0,100.0,False,False
+1972,Montana,MT,governor,Republican primary results,Winning,Ed Smith,Republican,39552.0,40.65,True,False
+1972,Montana,MT,governor,Republican primary results,Candidate,Frank Dunkle,Republican,37375.0,38.41,False,False
+1972,Montana,MT,governor,Republican primary results,Candidate,Tom A. Selstad,Republican,18046.0,18.55,False,False
+1972,Montana,MT,governor,Republican primary results,Candidate,Warren McMillan,Republican,2331.0,2.4,False,False
+1972,Montana,MT,governor,Republican primary results,Total,,,97304.0,100.0,False,False
 1972,New Hampshire,NH,governor,Democratic primary results,Winning,Roger J. Crowley,Democratic,29326.0,61.37,True,False
 1972,New Hampshire,NH,governor,Democratic primary results,Candidate,Robert E. Raiche,Democratic,16216.0,33.94,False,False
 1972,New Hampshire,NH,governor,Democratic primary results,Candidate,Write-ins,Democratic,1298.0,2.72,False,False

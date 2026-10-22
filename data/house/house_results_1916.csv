@@ -1,0 +1,1032 @@
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+1916,house,Alabama,AL,1,,Oscar L. Gray,Democratic,,100.0,True,True,False
+1916,house,Alabama,AL,2,,S. Hubert Dent Jr.,Democratic,,97.63,True,True,False
+1916,house,Alabama,AL,2,,E. H. Titus,Socialist,,2.37,False,False,False
+1916,house,Alabama,AL,3,,Henry B. Steagall,Democratic,,100.0,True,True,False
+1916,house,Alabama,AL,4,,Fred L. Blackmon,Democratic,,67.56,True,True,False
+1916,house,Alabama,AL,4,,J. B. Atkinson,Republican,,32.45,False,False,False
+1916,house,Alabama,AL,5,,J. Thomas Heflin,Democratic,,81.37,True,True,False
+1916,house,Alabama,AL,5,,W. D. Harwell,Republican,,18.63,False,False,False
+1916,house,Alabama,AL,6,,William B. Oliver,Democratic,,100.0,True,True,False
+1916,house,Alabama,AL,7,,John L. Burnett,Democratic,,60.1,True,True,False
+1916,house,Alabama,AL,7,,T. H. Davidson,Republican,,39.9,False,False,False
+1916,house,Alabama,AL,8,,Edward B. Almon,Democratic,,85.2,True,True,False
+1916,house,Alabama,AL,8,,W. R. Hutchens,Republican,,13.01,False,False,False
+1916,house,Alabama,AL,8,,T. G. Waddell,Socialist,,1.79,False,False,False
+1916,house,Alabama,AL,9,,George Huddleston,Democratic,,86.08,True,True,False
+1916,house,Alabama,AL,9,,Francis Latady,Republican,,12.09,False,False,False
+1916,house,Alabama,AL,9,,H. O. Hardin,Socialist,,1.83,False,False,False
+1916,house,Alabama,AL,10,,William B. Bankhead,Democratic,,54.29,True,False,True
+1916,house,Alabama,AL,10,,Newman H. Freeman,Republican,,45.71,False,False,True
+1916,house,Arizona,AZ,AL,52344,Carl Hayden,Democratic,34377,60.4,True,True,False
+1916,house,Arizona,AZ,AL,52344,Thomas Maddock,Republican,,37.9,False,False,False
+1916,house,Arizona,AZ,AL,52344,Peter Robertson,Socialist,,1.7,False,False,False
+1916,house,Arkansas,AR,1,,Thaddeus H. Caraway,Democratic,,100.0,True,True,False
+1916,house,Arkansas,AR,2,,William A. Oldfield,Democratic,,73.55,True,True,False
+1916,house,Arkansas,AR,2,,G. W. Wells,Republican,,26.45,False,False,False
+1916,house,Arkansas,AR,3,,John N. Tillman,Democratic,,62.37,True,True,False
+1916,house,Arkansas,AR,3,,A. J. Russell,Republican,,37.63,False,False,False
+1916,house,Arkansas,AR,4,,Otis Wingo,Democratic,,100.0,True,True,False
+1916,house,Arkansas,AR,5,,Henderson M. Jacoway,Democratic,,74.24,True,True,False
+1916,house,Arkansas,AR,5,,George A. McConnell,Republican,,25.76,False,False,False
+1916,house,Arkansas,AR,6,,Samuel M. Taylor,Democratic,,100.0,True,True,False
+1916,house,Arkansas,AR,7,,William S. Goodwin,Democratic,,71.91,True,True,False
+1916,house,Arkansas,AR,7,,J. G. Brown,Republican,,28.1,False,False,False
+1916,house,California,CA,1,67231,Clarence F. Lea,Democratic,32797,48.8,True,False,True
+1916,house,California,CA,1,67231,Edward H. Hart,Republican,28769,42.8,False,False,True
+1916,house,California,CA,1,67231,Mary M. Morgan,Socialist,3730,5.5,False,False,True
+1916,house,California,CA,1,67231,Jay Scott Ryder,Prohibition,1935,2.9,False,False,True
+1916,house,California,CA,2,42324,John E. Raker,Democratic,30042,71.0,True,True,False
+1916,house,California,CA,2,42324,James T. Matlock,Republican,,29.0,False,False,False
+1916,house,California,CA,3,72242,Charles F. Curry,Republican,48193,66.7,True,True,False
+1916,house,California,CA,3,72242,O. W. Kennedy,Democratic,16900,23.4,False,False,False
+1916,house,California,CA,3,72242,Ben Cooper,Socialist,4455,6.2,False,False,False
+1916,house,California,CA,3,72242,Edwin F. Van Vlear,Prohibition,2694,3.7,False,False,False
+1916,house,California,CA,4,67303,Julius Kahn,Republican,51968,77.2,True,True,False
+1916,house,California,CA,4,67303,J. M. Fernald,Democratic,10579,15.7,False,False,False
+1916,house,California,CA,4,67303,Allen K. Gifford,Socialist,3775,5.6,False,False,False
+1916,house,California,CA,4,67303,Henry W. Hutchinson,Prohibition,981,1.5,False,False,False
+1916,house,California,CA,5,70087,John I. Nolan,Republican,59333,84.7,True,True,False
+1916,house,California,CA,5,70087,Charles A. Preston,Socialist,6708,9.6,False,False,False
+1916,house,California,CA,5,70087,Frederick Head,Prohibition,4046,5.8,False,False,False
+1916,house,California,CA,6,87500,John A. Elston,"Progressive Party (US, 1912)",56520,64.6,True,True,False
+1916,house,California,CA,6,87500,H. Avery Whitney,Democratic,19787,22.6,False,False,False
+1916,house,California,CA,6,87500,Luella Twining,Socialist,7588,8.7,False,False,False
+1916,house,California,CA,6,87500,Harlow E. Wolcott,Prohibition,3605,4.1,False,False,False
+1916,house,California,CA,7,75997,Denver S. Church,Democratic,38787,51.0,True,True,False
+1916,house,California,CA,7,75997,W. W. Phillips,Republican,27676,36.4,False,False,False
+1916,house,California,CA,7,75997,Harry M. McKee,Socialist,5492,7.2,False,False,False
+1916,house,California,CA,7,75997,J. F. Butler,Prohibition,4042,5.3,False,False,False
+1916,house,California,CA,8,73799,Everis A. Hayes,Republican,50659,68.6,True,True,False
+1916,house,California,CA,8,73799,George S. Walker,Fusion,17576,23.8,False,False,False
+1916,house,California,CA,8,73799,Cora Pattleton Wilson,Socialist,5564,7.5,False,False,False
+1916,house,California,CA,9,101757,Charles H. Randall,Prohibition,58826,57.8,True,True,False
+1916,house,California,CA,9,101757,Charles W. Bell,Independent,33270,32.7,False,False,False
+1916,house,California,CA,9,101757,Ralph L. Criswell,Socialist,9661,9.5,False,False,False
+1916,house,California,CA,10,129224,Henry Z. Osborne,Republican,63913,49.5,True,False,True
+1916,house,California,CA,10,129224,Rufus V. Bowden,Democratic,,25.7,False,False,True
+1916,house,California,CA,10,129224,Henry S. Benedict,"Progressive Party (US, 1912)",,11.1,False,False,True
+1916,house,California,CA,10,129224,James H. Ryckman,Socialist,9000,7.0,False,False,True
+1916,house,California,CA,10,129224,Henry Clay Needham,Prohibition,8781,6.8,False,False,True
+1916,house,California,CA,11,94488,William Kettner,Democratic,42051,44.5,True,True,False
+1916,house,California,CA,11,94488,Robert C. Harbison,Republican,33765,35.7,False,False,False
+1916,house,California,CA,11,94488,James S. Edwards,Prohibition,14759,15.6,False,False,False
+1916,house,California,CA,11,94488,Marcus W. Robbins,Socialist,3913,4.1,False,False,False
+1916,house,Colorado,CO,1,,Benjamin Hilliard,Democratic,,48.5,True,True,False
+1916,house,Colorado,CO,1,,William N. Vaile,Republican,,42.1,False,False,False
+1916,house,Colorado,CO,1,,George J. Kindel,Independent,,5.3,False,False,False
+1916,house,Colorado,CO,1,,Charles A. Ahlstrom,Socialist,,4.1,False,False,False
+1916,house,Colorado,CO,2,,Charles B. Timberlake,Republican,,55.9,True,True,False
+1916,house,Colorado,CO,2,,R. E. Jones,Democratic,,38.4,False,False,False
+1916,house,Colorado,CO,2,,J. Edward Johnson,Socialist,,5.1,False,False,False
+1916,house,Colorado,CO,2,,Ralph R. Drennen,"Progressive Party (US, 1912)",,0.7,False,False,False
+1916,house,Colorado,CO,3,,Edward Keating,Democratic,,53.8,True,True,False
+1916,house,Colorado,CO,3,,George E. McClelland,Republican,,41.7,False,False,False
+1916,house,Colorado,CO,3,,David P. McGrew,Socialist,,3.3,False,False,False
+1916,house,Colorado,CO,3,,William G. Francis,"Progressive Party (US, 1912)",,0.6,False,False,False
+1916,house,Colorado,CO,3,,William H. Steele,Socialist Labor,,0.6,False,False,False
+1916,house,Colorado,CO,4,,Edward T. Taylor,Democratic,,65.8,True,True,False
+1916,house,Colorado,CO,4,,Henry J. Baird,Republican,,28.5,False,False,False
+1916,house,Colorado,CO,4,,Emery D. Cox,Socialist,,5.7,False,False,False
+1916,house,Connecticut,CT,1,,Augustine Lonergan,Democratic,,49.58,True,False,False
+1916,house,Connecticut,CT,1,,Peter D. Oakley,Republican,,46.17,False,False,False
+1916,house,Connecticut,CT,1,,John M. Klein,Socialist,,2.53,False,False,False
+1916,house,Connecticut,CT,1,,Charles J. Fancher,Prohibition,,1.37,False,False,False
+1916,house,Connecticut,CT,1,,Frederick Fellerman,Socialist Labor,,0.35,False,False,False
+1916,house,Connecticut,CT,2,,Richard P. Freeman,Republican,,52.75,True,True,False
+1916,house,Connecticut,CT,2,,Daniel P. Dunn,Democratic,,44.55,False,False,False
+1916,house,Connecticut,CT,2,,Albert Boardman,Socialist,,1.55,False,False,False
+1916,house,Connecticut,CT,2,,Frederick L. Hall,Prohibition,,0.94,False,False,False
+1916,house,Connecticut,CT,2,,Charles H. Funk,Socialist Labor,,0.22,False,False,False
+1916,house,Connecticut,CT,3,,John Q. Tilson,Republican,,48.52,True,True,False
+1916,house,Connecticut,CT,3,,Thomas L. Reilly,Democratic,,47.15,False,False,False
+1916,house,Connecticut,CT,3,,William E. White,Socialist,,3.3,False,False,False
+1916,house,Connecticut,CT,3,,Edwin Beardsley,Prohibition,,0.68,False,False,False
+1916,house,Connecticut,CT,3,,John P. Johnson,Socialist Labor,,0.36,False,False,False
+1916,house,Connecticut,CT,4,,Ebenezer J. Hill,Republican,,53.79,True,True,False
+1916,house,Connecticut,CT,4,,Jeremiah Donovan,Democratic,,42.96,False,False,False
+1916,house,Connecticut,CT,4,,George Moffatt,Socialist,,2.37,False,False,False
+1916,house,Connecticut,CT,4,,Alfred P. Engstrom,Prohibition,,0.61,False,False,False
+1916,house,Connecticut,CT,4,,Edward Pryor,Socialist Labor,,0.27,False,False,False
+1916,house,Connecticut,CT,5,,James P. Glynn,Republican,,49.79,True,True,False
+1916,house,Connecticut,CT,5,,William Kennedy,Democratic,,46.97,False,False,False
+1916,house,Connecticut,CT,5,,Michael Conton,Socialist,,2.52,False,False,False
+1916,house,Connecticut,CT,5,,Joseph B. Reid,Prohibition,,0.61,False,False,False
+1916,house,Connecticut,CT,5,,Hokan Larsson,Socialist Labor,,0.22,False,False,False
+1916,house,Delaware,DE,AL,,Albert F. Polk,Democratic,,47.64,True,False,False
+1916,house,Delaware,DE,AL,,Thomas W. Miller,Republican,,47.26,False,True,False
+1916,house,Delaware,DE,AL,,Edward G. Bradford,"Progressive Party (US, 1912)",,4.16,False,False,False
+1916,house,Delaware,DE,AL,,Frederick K. Miller,Socialist,,0.95,False,False,False
+1916,house,Florida,FL,1,,Herbert J. Drane,Democratic,,82.21,True,False,True
+1916,house,Florida,FL,1,,H. W. Bishop,Republican,,11.59,False,False,True
+1916,house,Florida,FL,1,,Frank L. Sullivan,Socialist,,6.2,False,False,True
+1916,house,Florida,FL,2,,Frank Clark,Democratic,,79.93,True,True,False
+1916,house,Florida,FL,2,,W. H. Gober,Republican,,10.88,False,False,False
+1916,house,Florida,FL,2,,Frances P. Coffin,Prohibition,,9.2,False,False,False
+1916,house,Florida,FL,3,,Walter Kehoe,Democratic,,83.65,True,False,False
+1916,house,Florida,FL,3,,Peter H. Miller,Republican,,16.35,False,False,False
+1916,house,Florida,FL,4,,William J. Sears,Democratic,,68.88,True,True,False
+1916,house,Florida,FL,4,,D. T. Gerow,Republican,,23.68,False,False,False
+1916,house,Florida,FL,4,,A. N. Jackson,Socialist,,7.44,False,False,False
+1916,house,Georgia,GA,1,,James W. Overstreet,Democratic,,100.0,True,False,True
+1916,house,Georgia,GA,2,,Frank Park,Democratic,,100.0,True,True,False
+1916,house,Georgia,GA,3,,Charles R. Crisp,Democratic,,100.0,True,True,False
+1916,house,Georgia,GA,4,,William C. Adamson,Democratic,,100.0,True,True,False
+1916,house,Georgia,GA,5,,William S. Howard,Democratic,,88.83,True,True,False
+1916,house,Georgia,GA,5,,Charles J. Moore,Republican,,11.17,False,False,False
+1916,house,Georgia,GA,6,,James W. Wise,Democratic,,100.0,True,True,False
+1916,house,Georgia,GA,7,,Gordon Lee,Democratic,,77.85,True,True,False
+1916,house,Georgia,GA,7,,Walter Akerman,Republican,,20.52,False,False,False
+1916,house,Georgia,GA,7,,S. H. Bearden,Unknown,,1.63,False,False,False
+1916,house,Georgia,GA,8,,Samuel J. Tribble,Democratic,,100.0,True,True,False
+1916,house,Georgia,GA,9,,Thomas M. Bell,Democratic,,88.86,True,True,False
+1916,house,Georgia,GA,9,,J. E. Adams,Republican,,11.14,False,False,False
+1916,house,Georgia,GA,10,,Carl Vinson,Democratic,,100.0,True,True,False
+1916,house,Georgia,GA,11,,John R. Walker,Democratic,,100.0,True,True,False
+1916,house,Georgia,GA,12,,William W. Larsen,Democratic,,95.8,True,False,False
+1916,house,Idaho,ID,AL,,Burton L. French,Republican,,25.38,True,False,False
+1916,house,Idaho,ID,AL,,Addison T. Smith,Republican,,25.05,True,False,False
+1916,house,Idaho,ID,AL,,Marion J. Kerr,Democratic,,21.91,False,False,False
+1916,house,Idaho,ID,AL,,John V. Stanley,Democratic,,21.34,False,False,False
+1916,house,Idaho,ID,AL,,A. B. Clark,Socialist,,3.17,False,False,False
+1916,house,Idaho,ID,AL,,Sam G. Gilleland,Socialist,,3.15,False,False,False
+1916,house,Illinois,IL,1,,Martin B. Madden,Republican,,59.06,True,True,False
+1916,house,Illinois,IL,1,,William J. Hennessey,Democratic,,38.77,False,False,False
+1916,house,Illinois,IL,1,,G. J. Carlisle,Socialist,,2.17,False,False,False
+1916,house,Illinois,IL,2,,James R. Mann,Republican,,62.95,True,True,False
+1916,house,Illinois,IL,2,,Philip H. Treacy,Democratic,,32.39,False,False,False
+1916,house,Illinois,IL,2,,James W. Lafferty,Socialist,,4.66,False,False,False
+1916,house,Illinois,IL,3,,William W. Wilson,Republican,,55.67,True,True,False
+1916,house,Illinois,IL,3,,Bernard McMahon,Democratic,,40.27,False,False,False
+1916,house,Illinois,IL,3,,John D. Dobelman,Socialist,,4.06,False,False,False
+1916,house,Illinois,IL,4,,Charles Martin,Democratic,,58.45,True,False,True
+1916,house,Illinois,IL,4,,John Golombiewski,Republican,,36.82,False,False,True
+1916,house,Illinois,IL,4,,Carl G. Hoffman,Socialist,,4.73,False,False,True
+1916,house,Illinois,IL,5,,Adolph J. Sabath,Democratic,,60.68,True,True,False
+1916,house,Illinois,IL,5,,David T. Alexander,Republican,,32.26,False,False,False
+1916,house,Illinois,IL,5,,Charles Toepper,Socialist,,7.06,False,False,False
+1916,house,Illinois,IL,6,,James McAndrews,Democratic,,48.54,True,True,False
+1916,house,Illinois,IL,6,,Arthur W. Fulton,Republican,,45.6,False,False,False
+1916,house,Illinois,IL,6,,Charles H. Hair,Socialist,,5.6,False,False,False
+1916,house,Illinois,IL,6,,J. W. Treager,Independent,,0.26,False,False,False
+1916,house,Illinois,IL,7,,Niels Juul,Republican,,50.9,True,False,False
+1916,house,Illinois,IL,7,,Frank Buchanan,Democratic,,40.13,False,True,False
+1916,house,Illinois,IL,7,,Carl D. Thompson,Socialist,,8.97,False,False,False
+1916,house,Illinois,IL,8,,Thomas Gallagher,Democratic,,63.42,True,True,False
+1916,house,Illinois,IL,8,,Frank Sullivan,Republican,,36.58,False,False,False
+1916,house,Illinois,IL,9,,Frederick A. Britten,Republican,,59.23,True,True,False
+1916,house,Illinois,IL,9,,James H. Poage,Democratic,,35.34,False,False,False
+1916,house,Illinois,IL,9,,Andrew Lafin,Socialist,,5.44,False,False,False
+1916,house,Illinois,IL,10,,George E. Foss,Republican,,59.35,True,True,False
+1916,house,Illinois,IL,10,,Samuel C. Herren,Democratic,,29.7,False,False,False
+1916,house,Illinois,IL,10,,Carl Hjalmar Lundquist,Independent,,6.13,False,False,False
+1916,house,Illinois,IL,10,,Herbert S. Racine,Socialist,,4.82,False,False,False
+1916,house,Illinois,IL,11,,Ira C. Copley,Republican,,69.03,True,True,False
+1916,house,Illinois,IL,11,,William C. Mooney,Democratic,,28.24,False,False,False
+1916,house,Illinois,IL,11,,William C. Langhorst,Socialist,,2.35,False,False,False
+1916,house,Illinois,IL,11,,R. C. Copley,"Progressive Party (US, 1912)",,0.38,False,False,False
+1916,house,Illinois,IL,12,,Charles Eugene Fuller,Republican,,65.96,True,True,False
+1916,house,Illinois,IL,12,,Walter Panneck,Democratic,,29.59,False,False,False
+1916,house,Illinois,IL,12,,Joseph B. Hoffman,Socialist,,4.3,False,False,False
+1916,house,Illinois,IL,12,,J. Frank Deuel,"Progressive Party (US, 1912)",,0.15,False,False,False
+1916,house,Illinois,IL,13,,John C. McKenzie,Republican,,68.12,True,True,False
+1916,house,Illinois,IL,13,,F. P. Dudley,Democratic,,30.12,False,False,False
+1916,house,Illinois,IL,13,,Xavier F. Gehant,Socialist,,1.76,False,False,False
+1916,house,Illinois,IL,14,,William J. Graham,Republican,,48.48,True,False,False
+1916,house,Illinois,IL,14,,Clyde H. Tavenner,Democratic,,47.42,False,True,False
+1916,house,Illinois,IL,14,,Nick S. Dexter,Socialist,,3.91,False,False,False
+1916,house,Illinois,IL,14,,Cloyd E. Kaufman,"Progressive Party (US, 1912)",,0.19,False,False,False
+1916,house,Illinois,IL,15,,Edward John King,Republican,,54.53,True,True,False
+1916,house,Illinois,IL,15,,Edward P. Allen,Democratic,,41.86,False,False,False
+1916,house,Illinois,IL,15,,Conrad F. Nystrom,Socialist,,3.62,False,False,False
+1916,house,Illinois,IL,16,,Clifford C. Ireland,Republican,,49.93,True,False,False
+1916,house,Illinois,IL,16,,Claude U. Stone,Democratic,,41.55,False,True,False
+1916,house,Illinois,IL,16,,Frank P. Elzer,Socialist,,1.81,False,False,False
+1916,house,Illinois,IL,17,,John A. Sterling,Republican,,56.64,True,True,False
+1916,house,Illinois,IL,17,,S. A. Rathbun,Democratic,,41.55,False,False,False
+1916,house,Illinois,IL,17,,John A. Bruell,Socialist,,1.81,False,False,False
+1916,house,Illinois,IL,18,,Joseph G. Cannon,Republican,,54.18,True,True,False
+1916,house,Illinois,IL,18,,Armand E. Smith,Democratic,,43.74,False,False,False
+1916,house,Illinois,IL,18,,Edward M. Methe,Socialist,,1.41,False,False,False
+1916,house,Illinois,IL,18,,William H. Dunn,"Progressive Party (US, 1912)",,0.67,False,False,False
+1916,house,Illinois,IL,19,,William B. McKinley,Republican,,52.65,True,True,False
+1916,house,Illinois,IL,19,,Franklin R. Dove,Democratic,,45.84,False,False,False
+1916,house,Illinois,IL,19,,Charles Peebles,Socialist,,1.51,False,False,False
+1916,house,Illinois,IL,20,,Henry T. Rainey,Democratic,,55.56,True,True,False
+1916,house,Illinois,IL,20,,Walter B. Sayler,Republican,,43.37,False,False,False
+1916,house,Illinois,IL,20,,Frank Hoover,Socialist,,1.08,False,False,False
+1916,house,Illinois,IL,21,,Loren E. Wheeler,Republican,,49.98,True,True,False
+1916,house,Illinois,IL,21,,Thomas Rees,Democratic,,45.37,False,False,False
+1916,house,Illinois,IL,21,,Edward A. Wieck,Socialist,,4.22,False,False,False
+1916,house,Illinois,IL,21,,William A. Fuson,"Progressive Party (US, 1912)",,0.42,False,False,False
+1916,house,Illinois,IL,22,,William A. Rodenberg,Republican,,50.4,True,True,False
+1916,house,Illinois,IL,22,,D. H. Mudge,Democratic,,46.45,False,False,False
+1916,house,Illinois,IL,22,,Earl G. Galloway,Socialist,,2.95,False,False,False
+1916,house,Illinois,IL,22,,Charles F. Steizel,"Progressive Party (US, 1912)",,0.2,False,False,False
+1916,house,Illinois,IL,23,,Martin D. Foster,Democratic,,52.91,True,True,False
+1916,house,Illinois,IL,23,,Harry C. Ferriman,Republican,,44.68,False,False,False
+1916,house,Illinois,IL,23,,John C. Weibel,Socialist,,2.0,False,False,False
+1916,house,Illinois,IL,23,,B. F. Moore,"Progressive Party (US, 1912)",,0.41,False,False,False
+1916,house,Illinois,IL,24,,Thomas Sutler Williams,Republican,,54.99,True,True,False
+1916,house,Illinois,IL,24,,Louis W. Goetzman,Democratic,,42.89,False,False,False
+1916,house,Illinois,IL,24,,J. H. Evans,Socialist,,2.12,False,False,False
+1916,house,Illinois,IL,25,,Edward E. Denison,Republican,,52.16,True,True,False
+1916,house,Illinois,IL,25,,Andrew J. Rendleman,Democratic,,44.93,False,False,False
+1916,house,Illinois,IL,25,,R. E. Baty,Socialist,,2.87,False,False,False
+1916,house,Illinois,IL,AL,,Medill McCormick,Republican,,27.21,True,False,True
+1916,house,Illinois,IL,AL,,William E. Mason,Republican,,26.42,True,False,True
+1916,house,Illinois,IL,AL,,William E. Williams,Democratic,,21.01,False,False,True
+1916,house,Illinois,IL,AL,,Joseph O. Kostner,Democratic,,20.71,False,False,True
+1916,house,Illinois,IL,AL,,J. Louis Engdahl,Socialist,,1.92,False,False,True
+1916,house,Illinois,IL,AL,,Walter Huggins,Socialist,,1.88,False,False,True
+1916,house,Illinois,IL,AL,,Charles W. Williams,Prohibition,,0.37,False,False,True
+1916,house,Illinois,IL,AL,,Clay Freeman Gaumer,Prohibition,,0.36,False,False,True
+1916,house,Illinois,IL,AL,,Frank Hosking,Socialist Labor,,0.07,False,False,True
+1916,house,Illinois,IL,AL,,John Kowatzek,Socialist Labor,,0.07,False,False,True
+1916,house,Indiana,IN,1,,George K. Denton,Democratic,,48.11,True,False,True
+1916,house,Indiana,IN,1,,S. Wallace Cook,Republican,,47.44,False,False,True
+1916,house,Indiana,IN,1,,Benjamin S. Reese,Prohibition,,2.57,False,False,True
+1916,house,Indiana,IN,1,,William Crecileus,Socialist,,1.29,False,False,True
+1916,house,Indiana,IN,1,,William E. McElderry,"Progressive Party (US, 1912)",,0.59,False,False,True
+1916,house,Indiana,IN,2,,Oscar E. Bland,Republican,,47.34,True,False,False
+1916,house,Indiana,IN,2,,William A. Cullop,Democratic,,45.42,False,True,False
+1916,house,Indiana,IN,2,,Zimn M. Garten,Socialist,,5.47,False,False,False
+1916,house,Indiana,IN,2,,H. J. Beddinger,Prohibition,,1.19,False,False,False
+1916,house,Indiana,IN,2,,Stephen A. Burton,"Progressive Party (US, 1912)",,0.58,False,False,False
+1916,house,Indiana,IN,3,,William E. Cox,Democratic,,52.09,True,True,False
+1916,house,Indiana,IN,3,,John H. Edwards,Republican,,45.97,False,False,False
+1916,house,Indiana,IN,3,,Alice P. Oglie,Prohibition,,1.08,False,False,False
+1916,house,Indiana,IN,3,,William D. Bartle,Socialist,,0.58,False,False,False
+1916,house,Indiana,IN,3,,William Wagoner,"Progressive Party (US, 1912)",,0.28,False,False,False
+1916,house,Indiana,IN,4,,Lincoln Dixon,Democratic,,51.5,True,True,False
+1916,house,Indiana,IN,4,,Manley D. Wilson,Republican,,46.96,False,False,False
+1916,house,Indiana,IN,4,,Floyd N. Kissel,"Progressive Party (US, 1912)",,1.4,False,False,False
+1916,house,Indiana,IN,4,,William Carmichael,Socialist,,0.14,False,False,False
+1916,house,Indiana,IN,5,,Everett Sanders,Republican,,40.62,True,False,False
+1916,house,Indiana,IN,5,,Ralph W. Moss,Democratic,,39.25,False,True,False
+1916,house,Indiana,IN,5,,Eugene V. Debs,Socialist,,17.17,False,False,False
+1916,house,Indiana,IN,5,,Dayton F. Hanworth,"Progressive Party (US, 1912)",,2.97,False,False,False
+1916,house,Indiana,IN,6,,Daniel W. Comstock,Republican,,48.61,True,False,False
+1916,house,Indiana,IN,6,,Finly H. Gray,Democratic,,46.61,False,True,False
+1916,house,Indiana,IN,6,,Ralph Gest,Prohibition,,2.44,False,False,False
+1916,house,Indiana,IN,6,,Cuthbert L. Simmerson,Socialist,,1.64,False,False,False
+1916,house,Indiana,IN,6,,George R. Carter,"Progressive Party (US, 1912)",,0.7,False,False,False
+1916,house,Indiana,IN,7,,Merrill Moores,Republican,,51.83,True,True,False
+1916,house,Indiana,IN,7,,Chalmer Schlosser,Democratic,,44.06,False,False,False
+1916,house,Indiana,IN,7,,Joseph A. Leonard,Prohibition,,2.87,False,False,False
+1916,house,Indiana,IN,7,,Edward W. Clark,Socialist,,0.96,False,False,False
+1916,house,Indiana,IN,7,,Edward F. Jones,"Progressive Party (US, 1912)",,0.29,False,False,False
+1916,house,Indiana,IN,8,,Albert H. Vestal,Republican,,48.02,True,False,True
+1916,house,Indiana,IN,8,,Jacob F. Denny,Democratic,,43.83,False,False,True
+1916,house,Indiana,IN,8,,W. S. Whiting,Prohibition,,4.31,False,False,True
+1916,house,Indiana,IN,8,,Fred S. Hurlburt,Socialist,,3.22,False,False,True
+1916,house,Indiana,IN,8,,Carl W. Thompson,"Progressive Party (US, 1912)",,0.61,False,False,True
+1916,house,Indiana,IN,9,,Fred S. Purnell,Republican,,50.35,True,False,True
+1916,house,Indiana,IN,9,,David F. Maish,Democratic,,44.6,False,False,True
+1916,house,Indiana,IN,9,,G. Stanley West,"Progressive Party (US, 1912)",,2.59,False,False,True
+1916,house,Indiana,IN,9,,Jonathan C. Kahlenbeck,Socialist,,2.39,False,False,True
+1916,house,Indiana,IN,9,,Johnathan W. Whicken,Prohibition,,0.08,False,False,True
+1916,house,Indiana,IN,10,,William R. Wood,Republican,,56.85,True,True,False
+1916,house,Indiana,IN,10,,George E. Hershman,Democratic,,41.13,False,False,False
+1916,house,Indiana,IN,10,,Isaac S. Wade,Socialist,,1.11,False,False,False
+1916,house,Indiana,IN,10,,Jonathan G. Brown,"Progressive Party (US, 1912)",,0.84,False,False,False
+1916,house,Indiana,IN,10,,Ervin S. Whitmen,Prohibition,,0.07,False,False,False
+1916,house,Indiana,IN,11,,Milton Kraus,Republican,,46.3,True,False,False
+1916,house,Indiana,IN,11,,George W. Rauch,Democratic,,45.51,False,True,False
+1916,house,Indiana,IN,11,,Layman H. Jachman,"Progressive Party (US, 1912)",,4.35,False,False,False
+1916,house,Indiana,IN,11,,Walen J. Conarty,Prohibition,,3.84,False,False,False
+1916,house,Indiana,IN,12,,Louis W. Fairfield,Republican,,51.19,True,False,False
+1916,house,Indiana,IN,12,,Cyrus Cline,Democratic,,44.19,False,True,False
+1916,house,Indiana,IN,12,,L. Lloyd Armstrong,Prohibition,,2.6,False,False,False
+1916,house,Indiana,IN,12,,William O. Bailey,"Progressive Party (US, 1912)",,2.02,False,False,False
+1916,house,Indiana,IN,13,,Henry A. Barnhart,Democratic,,47.65,True,True,False
+1916,house,Indiana,IN,13,,Andrew J. Hickey,Republican,,47.2,False,False,False
+1916,house,Indiana,IN,13,,William C. Alexander,Socialist,,2.85,False,False,False
+1916,house,Indiana,IN,13,,Jonathan M. Jolly,"Progressive Party (US, 1912)",,2.3,False,False,False
+1916,house,Iowa,IA,1,,Charles A. Kennedy,Republican,,58.62,True,True,False
+1916,house,Iowa,IA,1,,F. B. Whittaker,Democratic,,40.98,False,False,False
+1916,house,Iowa,IA,1,,Lee W. Mix,Prohibition,,0.4,False,False,False
+1916,house,Iowa,IA,2,,Harry E. Hull,Republican,,55.34,True,True,False
+1916,house,Iowa,IA,2,,M. F. Cronin,Democratic,,40.27,False,False,False
+1916,house,Iowa,IA,2,,J. B. Miller,Socialist,,3.72,False,False,False
+1916,house,Iowa,IA,2,,James McDowell,"Progressive Party (US, 1912)",,0.4,False,False,False
+1916,house,Iowa,IA,2,,Otis W. Babcock,Prohibition,,0.28,False,False,False
+1916,house,Iowa,IA,3,,Burton E. Sweet,Republican,,66.95,True,True,False
+1916,house,Iowa,IA,3,,James C. Murtagh,Democratic,,31.44,False,False,False
+1916,house,Iowa,IA,3,,Fred Splin,Socialist,,1.43,False,False,False
+1916,house,Iowa,IA,3,,A. J. Adkins,Prohibition,,0.18,False,False,False
+1916,house,Iowa,IA,4,,Gilbert N. Haugen,Republican,,57.89,True,True,False
+1916,house,Iowa,IA,4,,Earl Evans,Democratic,,40.77,False,False,False
+1916,house,Iowa,IA,4,,A. E. Bufkin,Socialist,,1.03,False,False,False
+1916,house,Iowa,IA,4,,Frank Betzer,Prohibition,,0.32,False,False,False
+1916,house,Iowa,IA,5,,James W. Good,Republican,,64.08,True,True,False
+1916,house,Iowa,IA,5,,Robert M. Peet,Democratic,,34.22,False,False,False
+1916,house,Iowa,IA,5,,Myron F. Wiltse,Socialist,,1.18,False,False,False
+1916,house,Iowa,IA,5,,James W. Lee,Prohibition,,0.39,False,False,False
+1916,house,Iowa,IA,5,,Lindley M. Osborne,"Progressive Party (US, 1912)",,0.14,False,False,False
+1916,house,Iowa,IA,6,,C. William Ramseyer,Republican,,57.27,True,True,False
+1916,house,Iowa,IA,6,,Sanford Kirkpatrick,Democratic,,39.29,False,False,False
+1916,house,Iowa,IA,6,,George W. Morrill,Socialist,,3.44,False,False,False
+1916,house,Iowa,IA,7,,Cassius C. Dowell,Republican,,61.66,True,True,False
+1916,house,Iowa,IA,7,,H. C. Evans,Democratic,,34.82,False,False,False
+1916,house,Iowa,IA,7,,W. M. Whitenack,Socialist,,2.53,False,False,False
+1916,house,Iowa,IA,7,,J. F. Steele,"Progressive Party (US, 1912)",,1.0,False,False,False
+1916,house,Iowa,IA,8,,Horace M. Towner,Republican,,58.97,True,True,False
+1916,house,Iowa,IA,8,,H. B. Bracewell,Democratic,,38.85,False,False,False
+1916,house,Iowa,IA,8,,William James,"Progressive Party (US, 1912)",,2.17,False,False,False
+1916,house,Iowa,IA,9,,William R. Green,Republican,,55.39,True,True,False
+1916,house,Iowa,IA,9,,John C. Pryor,Democratic,,44.28,False,False,False
+1916,house,Iowa,IA,9,,E. R. Mitchell,Prohibition,,0.22,False,False,False
+1916,house,Iowa,IA,9,,J. Sizer,"Progressive Party (US, 1912)",,0.11,False,False,False
+1916,house,Iowa,IA,10,,Frank P. Woods,Republican,,63.63,True,True,False
+1916,house,Iowa,IA,10,,J. R. Files,Democratic,,34.04,False,False,False
+1916,house,Iowa,IA,10,,John Z. Hughes,Socialist,,1.43,False,False,False
+1916,house,Iowa,IA,10,,A. B. Quarton,"Progressive Party (US, 1912)",,0.48,False,False,False
+1916,house,Iowa,IA,10,,Charles F. Lusk,Prohibition,,0.42,False,False,False
+1916,house,Iowa,IA,11,,George Cromwell Scott,Republican,,49.64,True,False,False
+1916,house,Iowa,IA,11,,Thomas J. Steele,Democratic,,49.39,False,True,False
+1916,house,Iowa,IA,11,,J. E. North,Socialist,,0.83,False,False,False
+1916,house,Iowa,IA,11,,Edward H. Crane,"Progressive Party (US, 1912)",,0.15,False,False,False
+1916,house,Kansas,KS,1,,Daniel R. Anthony Jr.,Republican,,55.75,True,True,False
+1916,house,Kansas,KS,1,,Herbert J. Corwine,Democratic,,34.41,False,False,False
+1916,house,Kansas,KS,1,,Eva Harding,Independent,,7.61,False,False,False
+1916,house,Kansas,KS,1,,Charles A. Richardson,Socialist,,2.23,False,False,False
+1916,house,Kansas,KS,2,,Edward C. Little,Republican,,50.38,True,False,False
+1916,house,Kansas,KS,2,,Joseph Taggart,Democratic,,45.71,False,True,False
+1916,house,Kansas,KS,2,,J. B. Stevens,Socialist,,3.92,False,False,False
+1916,house,Kansas,KS,3,,Philip P. Campbell,Republican,,47.8,True,True,False
+1916,house,Kansas,KS,3,,William S. Hyatt,Democratic,,38.98,False,False,False
+1916,house,Kansas,KS,3,,T. P. Laughlin,Socialist,,10.89,False,False,False
+1916,house,Kansas,KS,3,,J. N. Chapman,Prohibition,,2.33,False,False,False
+1916,house,Kansas,KS,4,,Dudley Doolittle,Democratic,,52.46,True,True,False
+1916,house,Kansas,KS,4,,Clyde W. Miller,Republican,,47.01,False,False,False
+1916,house,Kansas,KS,4,,E. B. Greene,Prohibition,,1.53,False,False,False
+1916,house,Kansas,KS,5,,Guy T. Helvering,Democratic,,50.43,True,True,False
+1916,house,Kansas,KS,5,,Charles M. Harger,Republican,,46.77,False,False,False
+1916,house,Kansas,KS,5,,O. Van Osdol,Socialist,,2.79,False,False,False
+1916,house,Kansas,KS,6,,John R. Connelly,Democratic,,56.46,True,True,False
+1916,house,Kansas,KS,6,,Otis L. Benton,Republican,,39.99,False,False,False
+1916,house,Kansas,KS,6,,A. Bennie,Socialist,,3.55,False,False,False
+1916,house,Kansas,KS,7,,Jouett Shouse,Democratic,,43.89,True,True,False
+1916,house,Kansas,KS,7,,John S. Simmons,Republican,,36.43,False,False,False
+1916,house,Kansas,KS,7,,Howard E. Kershner,Prohibition,,15.63,False,False,False
+1916,house,Kansas,KS,7,,L. U. Keckler,Socialist,,4.05,False,False,False
+1916,house,Kansas,KS,8,,William A. Ayres,Democratic,,50.99,True,True,False
+1916,house,Kansas,KS,8,,Thomas C. Wilson,Republican,,45.76,False,False,False
+1916,house,Kansas,KS,8,,J. Hayden Kershner,Prohibition,,3.25,False,False,False
+1916,house,Maine,ME,1,,Louis B. Goodall,Republican,,100.0,True,False,True
+1916,house,Maine,ME,2,,Wallace H. White,Republican,,100.0,True,False,False
+1916,house,Maine,ME,3,,John A. Peters,Republican,,100.0,True,True,False
+1916,house,Maine,ME,4,,Ira G. Hersey,Republican,,100.0,True,False,True
+1916,house,Maryland,MD,1,,Jesse Price,Democratic,,48.6,True,True,False
+1916,house,Maryland,MD,1,,Robert F. Duer,Republican,,48.4,False,False,False
+1916,house,Maryland,MD,1,,James T. Anthony,Prohibition,,3.0,False,False,False
+1916,house,Maryland,MD,2,,J. Frederick C. Talbott,Democratic,,50.5,True,True,False
+1916,house,Maryland,MD,2,,William H. Lawrence,Republican,,41.5,False,False,False
+1916,house,Maryland,MD,2,,John S. Green,Prohibition,,7.1,False,False,False
+1916,house,Maryland,MD,2,,William H. Champlin,Socialist,,0.9,False,False,False
+1916,house,Maryland,MD,3,,Charles Pearce Coady,Democratic,,52.5,True,True,False
+1916,house,Maryland,MD,3,,Charles W. Main,Republican,,45.0,False,False,False
+1916,house,Maryland,MD,3,,Ferdinand Bracklein,Socialist,,2.3,False,False,False
+1916,house,Maryland,MD,3,,Harry S. Johnson,Prohibition,,1.1,False,False,False
+1916,house,Maryland,MD,4,,J. Charles Linthicum,Democratic,,52.5,True,True,False
+1916,house,Maryland,MD,4,,J. Frank Fox,Republican,,45.2,False,False,False
+1916,house,Maryland,MD,4,,Daniel Shipley,Prohibition,,1.3,False,False,False
+1916,house,Maryland,MD,4,,Franklin F. Warthen,Socialist,,1.1,False,False,False
+1916,house,Maryland,MD,5,,Sydney Emanuel Mudd II,Republican,,53.9,True,True,False
+1916,house,Maryland,MD,5,,Jackson H. Ralston,Democratic,,43.0,False,False,False
+1916,house,Maryland,MD,5,,James L. Smiley,Socialist,,1.7,False,False,False
+1916,house,Maryland,MD,5,,John E. Wetherald,Prohibition,,1.4,False,False,False
+1916,house,Maryland,MD,6,,Frederick N. Zihlman,Republican,,51.1,True,False,True
+1916,house,Maryland,MD,6,,Henry Dorsey Etchison,Democratic,,44.1,False,False,True
+1916,house,Maryland,MD,6,,Ross V. Ayres,Socialist,,2.7,False,False,True
+1916,house,Maryland,MD,6,,Wiliam A. Walker,Prohibition,,2.1,False,False,True
+1916,house,Massachusetts,MA,1,,Allen T. Treadway,Republican,,60.16,True,True,False
+1916,house,Massachusetts,MA,1,,Timothy C. Childs,Democratic,,36.08,False,False,False
+1916,house,Massachusetts,MA,1,,Walter S. Hutchins,Socialist,,3.75,False,False,False
+1916,house,Massachusetts,MA,2,,Frederick H. Gillett,Republican,,60.25,True,True,False
+1916,house,Massachusetts,MA,2,,Theobald M. Connor,Democratic,,35.72,False,False,False
+1916,house,Massachusetts,MA,2,,George W. Wrenn,Socialist,,4.03,False,False,False
+1916,house,Massachusetts,MA,3,,Calvin Paige,Republican,,66.17,True,True,False
+1916,house,Massachusetts,MA,3,,Michael A. Scanlon,Democratic,,33.83,False,False,False
+1916,house,Massachusetts,MA,4,,Samuel Winslow,Republican,,55.56,True,True,False
+1916,house,Massachusetts,MA,4,,John H. Hunt,Democratic,,41.92,False,False,False
+1916,house,Massachusetts,MA,4,,Richard D. Murphy,Prohibition,,2.53,False,False,False
+1916,house,Massachusetts,MA,5,,John Jacob Rogers,Republican,,64.71,True,True,False
+1916,house,Massachusetts,MA,5,,Roger S. Hoar,Democratic,,35.29,False,False,False
+1916,house,Massachusetts,MA,6,,Augustus P. Gardner,Republican,,67.34,True,True,False
+1916,house,Massachusetts,MA,6,,Arthur Howard,Democratic,,26.36,False,False,False
+1916,house,Massachusetts,MA,6,,Charles W. Fitzgerald,Socialist,,6.3,False,False,False
+1916,house,Massachusetts,MA,7,,Michael Francis Phelan,Democratic,,51.11,True,True,False
+1916,house,Massachusetts,MA,7,,Charles N. Barney,Republican,,44.32,False,False,False
+1916,house,Massachusetts,MA,7,,Samuel Branhall,Socialist,,3.32,False,False,False
+1916,house,Massachusetts,MA,7,,Freeman H. Newhall,Prohibition,,1.25,False,False,False
+1916,house,Massachusetts,MA,8,,Frederick W. Dallinger,Republican,,59.68,True,True,False
+1916,house,Massachusetts,MA,8,,Frederick S. Deitrick,Democratic,,40.32,False,False,False
+1916,house,Massachusetts,MA,9,,Alvan T. Fuller,Independent,,50.46,True,False,False
+1916,house,Massachusetts,MA,9,,Ernest W. Roberts,Republican,,49.54,False,True,False
+1916,house,Massachusetts,MA,10,,Peter Tague,Democratic,,78.74,True,True,False
+1916,house,Massachusetts,MA,10,,James L. Hourihan,Republican,,21.26,False,False,False
+1916,house,Massachusetts,MA,11,,George H. Tinkham,Republican,,60.08,True,True,False
+1916,house,Massachusetts,MA,11,,Francis J. Hogan,Democratic,,39.92,False,False,False
+1916,house,Massachusetts,MA,12,,James A. Gallivan,Democratic,,67.57,True,True,False
+1916,house,Massachusetts,MA,12,,Charles H. Robinson,Republican,,32.44,False,False,False
+1916,house,Massachusetts,MA,13,,William Henry Carter,Republican,,66.28,True,True,False
+1916,house,Massachusetts,MA,13,,William H. Murphy,Democratic,,33.72,False,False,False
+1916,house,Massachusetts,MA,14,,Richard Olney II,Democratic,,53.17,True,True,False
+1916,house,Massachusetts,MA,14,,Henry L. Kincaide,Republican,,43.36,False,False,False
+1916,house,Massachusetts,MA,14,,John McCarty,Socialist,,3.48,False,False,False
+1916,house,Massachusetts,MA,15,,William S. Greene,Republican,,63.18,True,True,False
+1916,house,Massachusetts,MA,15,,Arthur J. B. Cartier,Democratic,,36.83,False,False,False
+1916,house,Massachusetts,MA,16,,Joseph Walsh,Republican,,68.8,True,True,False
+1916,house,Massachusetts,MA,16,,Ralph W. Crosby,Democratic,,31.2,False,False,False
+1916,house,Michigan,MI,1,,Frank E. Doremus,Democratic,,100.0,True,True,False
+1916,house,Michigan,MI,2,,Mark R. Bacon,Republican,,100.0,True,False,False
+1916,house,Michigan,MI,3,,John M. C. Smith,Republican,,100.0,True,True,False
+1916,house,Michigan,MI,4,,Edward L. Hamilton,Republican,,100.0,True,True,False
+1916,house,Michigan,MI,5,,Carl E. Mapes,Republican,,100.0,True,True,False
+1916,house,Michigan,MI,6,,Patrick H. Kelley,Republican,,100.0,True,True,False
+1916,house,Michigan,MI,7,,Louis C. Cramton,Republican,,100.0,True,True,False
+1916,house,Michigan,MI,8,,Joseph W. Fordney,Republican,,100.0,True,True,False
+1916,house,Michigan,MI,9,,James C. McLaughlin,Republican,,100.0,True,True,False
+1916,house,Michigan,MI,10,,Gilbert A. Currie,Republican,,100.0,True,False,False
+1916,house,Michigan,MI,11,,Frank D. Scott,Republican,,100.0,True,True,False
+1916,house,Michigan,MI,12,,W. Frank James,Republican,,100.0,True,True,False
+1916,house,Michigan,MI,13,,Charles Archibald Nichols,Republican,,100.0,True,True,False
+1916,house,Minnesota,MN,1,,Sydney Anderson,Republican,,65.5,True,True,False
+1916,house,Minnesota,MN,1,,Henry M. Lamberton,Democratic,,34.5,False,False,False
+1916,house,Minnesota,MN,2,,Franklin Ellsworth,Republican,,100.0,True,True,False
+1916,house,Minnesota,MN,3,,Charles R. Davis,Republican,,71.1,True,True,False
+1916,house,Minnesota,MN,3,,Edward F. Kelly,Democratic,,28.9,False,False,False
+1916,house,Minnesota,MN,4,,Carl Van Dyke,Democratic,,61.2,True,True,False
+1916,house,Minnesota,MN,4,,Darius F. Reese,Republican,,30.6,False,False,False
+1916,house,Minnesota,MN,4,,Hermon Phillips,Socialist,,4.8,False,False,False
+1916,house,Minnesota,MN,4,,Hjalmar O. Petersen,Prohibition,,1.7,False,False,False
+1916,house,Minnesota,MN,5,,Ernest Lundeen,Republican,,42.4,True,False,False
+1916,house,Minnesota,MN,5,,Madison C. Bowler,Democratic,,26.3,False,False,False
+1916,house,Minnesota,MN,5,,Thomas Latimer,Socialist,,16.7,False,False,False
+1916,house,Minnesota,MN,5,,Arthur L. Markve,Prohibition,,14.6,False,False,False
+1916,house,Minnesota,MN,6,,Harold Knutson,Republican,,56.8,True,False,True
+1916,house,Minnesota,MN,6,,William F. Donohue,Democratic,,35.7,False,False,True
+1916,house,Minnesota,MN,6,,John Knutsen,Prohibition,,7.5,False,False,True
+1916,house,Minnesota,MN,7,,Andrew Volstead,Republican,,53.5,True,True,False
+1916,house,Minnesota,MN,7,,Engebret E. Lobeck,Prohibition,,30.1,False,False,False
+1916,house,Minnesota,MN,7,,Irve Townsend,Democratic,,16.4,False,False,False
+1916,house,Minnesota,MN,8,,Clarence B. Miller,Republican,,51.6,True,True,False
+1916,house,Minnesota,MN,8,,Juls J. Anderson,Socialist,,26.3,False,False,False
+1916,house,Minnesota,MN,8,,Bert N. Wheeler,Prohibition,,22.1,False,False,False
+1916,house,Minnesota,MN,9,,Halvor Steenerson,Republican,,66.8,True,True,False
+1916,house,Minnesota,MN,9,,Carl Swanson,Democratic,,21.8,False,False,False
+1916,house,Minnesota,MN,9,,Timothy A. Thompson,Socialist,,11.4,False,False,False
+1916,house,Minnesota,MN,10,,Thomas D. Schall,"Progressive Party (US, 1912)",,45.0,True,True,False
+1916,house,Minnesota,MN,10,,Lowell E. Jepson,Republican,,30.1,False,False,False
+1916,house,Minnesota,MN,10,,Neil Cronin,Democratic,,16.3,False,False,False
+1916,house,Minnesota,MN,10,,John Gabriel Soltis,Socialist,,8.6,False,False,False
+1916,house,Mississippi,MS,1,,Ezekiel S. Candler Jr.,Democratic,,100.0,True,True,False
+1916,house,Mississippi,MS,2,,Hubert D. Stephens,Democratic,,97.56,True,True,False
+1916,house,Mississippi,MS,2,,J. G. Adams,Socialist,,2.44,False,False,False
+1916,house,Mississippi,MS,3,,Benjamin G. Humphreys II,Democratic,,100.0,True,True,False
+1916,house,Mississippi,MS,4,,Thomas U. Sisson,Democratic,,100.0,True,True,False
+1916,house,Mississippi,MS,5,,William W. Venable,Democratic,,94.62,True,True,False
+1916,house,Mississippi,MS,5,,C. C Evans,Socialist,,5.38,False,False,False
+1916,house,Mississippi,MS,6,,Pat Harrison,Democratic,,94.65,True,True,False
+1916,house,Mississippi,MS,6,,F. T. Maxwell,Socialist,,5.35,False,False,False
+1916,house,Mississippi,MS,7,,Percy Quin,Democratic,,100.0,True,True,False
+1916,house,Mississippi,MS,8,,James Collier,Democratic,,97.56,True,True,False
+1916,house,Mississippi,MS,8,,R. N. Smith,Unknown,,2.44,False,False,False
+1916,house,Missouri,MO,1,,Milton A. Romjue,Democratic,,54.38,True,False,True
+1916,house,Missouri,MO,1,,Edward S. Brown,Republican,,44.2,False,False,True
+1916,house,Missouri,MO,1,,M. L. Ferguson,Socialist,,1.42,False,False,True
+1916,house,Missouri,MO,2,,William W. Rucker,Democratic,,57.72,True,True,False
+1916,house,Missouri,MO,2,,O. A. Pickett,Republican,,41.47,False,False,False
+1916,house,Missouri,MO,2,,Edwin A. Hill,Socialist,,0.82,False,False,False
+1916,house,Missouri,MO,3,,Joshua W. Alexander,Democratic,,54.22,True,True,False
+1916,house,Missouri,MO,3,,Levi T. Moulton,Republican,,44.49,False,False,False
+1916,house,Missouri,MO,3,,Julius C. Hughes,Prohibition,,0.75,False,False,False
+1916,house,Missouri,MO,3,,George Miller,Socialist,,0.55,False,False,False
+1916,house,Missouri,MO,4,,Charles F. Booher,Democratic,,53.58,True,True,False
+1916,house,Missouri,MO,4,,Jacob Geiger,Republican,,45.06,False,False,False
+1916,house,Missouri,MO,4,,Joseph Kunzelman,Socialist,,0.84,False,False,False
+1916,house,Missouri,MO,4,,A. B. Wray,Prohibition,,0.51,False,False,False
+1916,house,Missouri,MO,5,,William P. Borland,Democratic,,58.68,True,True,False
+1916,house,Missouri,MO,5,,Isaac B. Kimbrell,Republican,,39.86,False,False,False
+1916,house,Missouri,MO,5,,Edward D. Wilcox,Socialist,,1.35,False,False,False
+1916,house,Missouri,MO,5,,Karl Oberheu,Socialist Labor,,0.11,False,False,False
+1916,house,Missouri,MO,6,,Clement C. Dickinson,Democratic,,54.2,True,True,False
+1916,house,Missouri,MO,6,,R. O. Crawford,Republican,,45.81,False,False,False
+1916,house,Missouri,MO,7,,Courtney W. Hamlin,Democratic,,50.47,True,True,False
+1916,house,Missouri,MO,7,,Sherman P. Houston,Republican,,48.94,False,False,False
+1916,house,Missouri,MO,7,,Samuel H. McElvain,Prohibition,,0.59,False,False,False
+1916,house,Missouri,MO,8,,Dorsey W. Shackleford,Democratic,,51.99,True,True,False
+1916,house,Missouri,MO,8,,North Todd Gentry,Republican,,48.02,False,False,False
+1916,house,Missouri,MO,9,,Champ Clark,Democratic,,100.0,True,True,False
+1916,house,Missouri,MO,10,,Jacob Edwin Meeker,Republican,,100.0,True,True,False
+1916,house,Missouri,MO,11,,William L. Igoe,Democratic,,100.0,True,True,False
+1916,house,Missouri,MO,12,,Leonidas C. Dyer,Republican,,100.0,True,True,False
+1916,house,Missouri,MO,13,,Walter Lewis Hensley,Democratic,,100.0,True,True,False
+1916,house,Missouri,MO,14,,Joseph J. Russell,Democratic,,100.0,True,True,False
+1916,house,Missouri,MO,15,,Perl D. Decker,Democratic,,100.0,True,True,False
+1916,house,Missouri,MO,16,,Thomas L. Rubey,Democratic,,100.0,True,True,False
+1916,house,Montana,MT,AL,,John M. Evans,Democratic,,26.7,True,True,True
+1916,house,Montana,MT,AL,,Jeannette Rankin,Republican,,24.3,True,False,True
+1916,house,Montana,MT,AL,,Harry B. Mitchell,Democratic,,22.3,False,False,True
+1916,house,Montana,MT,AL,,George W. Farr,Republican,,21.2,False,False,True
+1916,house,Montana,MT,AL,,John McGuffey,Socialist,,2.8,False,False,True
+1916,house,Montana,MT,AL,,Albert F. Meissner,Socialist,,2.7,False,False,True
+1916,house,Nebraska,NE,1,,C. Frank Reavis,Republican,,54.45,True,True,False
+1916,house,Nebraska,NE,1,,John A. Maguire,Democratic,,43.76,False,False,False
+1916,house,Nebraska,NE,1,,Glen H. Abel,Socialist,,1.8,False,False,False
+1916,house,Nebraska,NE,2,,Charles O. Lobeck,Democratic,,55.55,True,True,False
+1916,house,Nebraska,NE,2,,Benjamin S. Baker,Republican,,38.12,False,False,False
+1916,house,Nebraska,NE,2,,G. C. Porter,Socialist,,6.34,False,False,False
+1916,house,Nebraska,NE,3,,Dan V. Stephens,Democratic,,51.63,True,True,False
+1916,house,Nebraska,NE,3,,William P. Warner,Republican,,47.0,False,False,False
+1916,house,Nebraska,NE,3,,James M. Woodcock,Socialist,,1.38,False,False,False
+1916,house,Nebraska,NE,4,,Charles H. Sloan,Republican,,55.26,True,True,False
+1916,house,Nebraska,NE,4,,William L. Stark,Democratic,,43.18,False,False,False
+1916,house,Nebraska,NE,4,,John Itner,Socialist,,1.56,False,False,False
+1916,house,Nebraska,NE,5,,Ashton C. Shallenberger,Democratic,,53.96,True,True,False
+1916,house,Nebraska,NE,5,,Silas R. Barton,Republican,,43.51,False,False,False
+1916,house,Nebraska,NE,5,,W. C. Elliott,Socialist,,2.53,False,False,False
+1916,house,Nebraska,NE,6,,Moses Kinkaid,Republican,,57.35,True,True,False
+1916,house,Nebraska,NE,6,,Ed B. McDermott,Democratic,,38.14,False,False,False
+1916,house,Nebraska,NE,6,,John Canright,Socialist,,3.71,False,False,False
+1916,house,Nebraska,NE,6,,Lucien Stebbins,Independent,,0.81,False,False,False
+1916,house,Nevada,NV,AL,,Edwin E. Roberts,Republican,,43.6,True,True,False
+1916,house,Nevada,NV,AL,,Edwin E. Caine,Democratic,,40.5,False,False,False
+1916,house,Nevada,NV,AL,,Martin J. Scanlan,Socialist,,15.9,False,False,False
+1916,house,New Hampshire,NH,1,,Cyrus A. Sulloway,Republican,,51.52,True,True,False
+1916,house,New Hampshire,NH,1,,Gordon Woodbury,Democratic,,46.75,False,False,False
+1916,house,New Hampshire,NH,1,,Lorenz Kierdof,Socialist,,1.4,False,False,False
+1916,house,New Hampshire,NH,1,,Elijah Newell,Prohibition,,0.34,False,False,False
+1916,house,New Hampshire,NH,2,,Edward Hills Wason,Republican,,51.72,True,True,False
+1916,house,New Hampshire,NH,2,,Raymond B. Stevens,Democratic,,46.67,False,False,False
+1916,house,New Hampshire,NH,2,,Ernest Kunberger,Socialist,,1.32,False,False,False
+1916,house,New Hampshire,NH,2,,Arthur B. Simonds,Prohibition,,0.29,False,False,False
+1916,house,New Jersey,NJ,1,,William J. Browning,Republican,,100.0,True,True,False
+1916,house,New Jersey,NJ,2,,Isaac Bacharach,Republican,,100.0,True,True,False
+1916,house,New Jersey,NJ,3,,Thomas J. Scully,Republican,,100.0,True,True,False
+1916,house,New Jersey,NJ,4,,Elijah C. Hutchinson,Republican,,100.0,True,True,False
+1916,house,New Jersey,NJ,5,,John H. Capstick,Republican,,100.0,True,True,False
+1916,house,New Jersey,NJ,6,,John R. Ramsey,Republican,,100.0,True,False,True
+1916,house,New Jersey,NJ,7,,Dow H. Drukker,Republican,,100.0,True,True,False
+1916,house,New Jersey,NJ,8,,Edward W. Gray,Republican,,100.0,True,True,False
+1916,house,New Jersey,NJ,9,,Richard W. Parker,Republican,,100.0,True,True,False
+1916,house,New Jersey,NJ,10,,Frederick R. Lehlbach,Republican,,100.0,True,True,False
+1916,house,New Jersey,NJ,11,,John J. Eagan,Democratic,,100.0,True,True,False
+1916,house,New Jersey,NJ,12,,James A. Hamill,Democratic,,100.0,True,True,False
+1916,house,New Mexico,NM,AL,,William B. Walton,Democratic,,48.88,True,False,False
+1916,house,New Mexico,NM,AL,,Benigno C. Hernández,Republican,,48.05,False,True,False
+1916,house,New Mexico,NM,AL,,Andrew J. Eggum,Socialist,,3.07,False,False,False
+1916,house,North Carolina,NC,1,,John H. Small,Democratic,,72.17,True,True,False
+1916,house,North Carolina,NC,1,,Leslie E. Jones,Republican,,27.83,False,False,False
+1916,house,North Carolina,NC,2,,Claude Kitchin,Democratic,,86.9,True,True,False
+1916,house,North Carolina,NC,2,,W. O. Dixon,Republican,,13.1,False,False,False
+1916,house,North Carolina,NC,3,,George E. Hood,Democratic,,57.99,True,True,False
+1916,house,North Carolina,NC,3,,George E. Butler,Republican,,42.01,False,False,False
+1916,house,North Carolina,NC,4,,Edward W. Pou,Democratic,,64.34,True,True,False
+1916,house,North Carolina,NC,4,,Joseph J. Jenkins,Republican,,35.66,False,False,False
+1916,house,North Carolina,NC,5,,Charles Manly Stedman,Democratic,,52.46,True,True,False
+1916,house,North Carolina,NC,5,,Gilliam Grissom,Republican,,46.97,False,False,False
+1916,house,North Carolina,NC,5,,George F. Wilson,Socialist,,0.57,False,False,False
+1916,house,North Carolina,NC,6,,Hannibal L. Godwin,Democratic,,63.94,True,True,False
+1916,house,North Carolina,NC,6,,Alexander L. McCaskill,Republican,,36.06,False,False,False
+1916,house,North Carolina,NC,7,,Leonidas D. Robinson,Democratic,,54.66,True,False,True
+1916,house,North Carolina,NC,7,,Presley E. Brown,Republican,,45.34,False,False,True
+1916,house,North Carolina,NC,8,,Robert L. Doughton,Democratic,,52.81,True,True,False
+1916,house,North Carolina,NC,8,,H. Sinclair Williams,Republican,,47.19,False,False,False
+1916,house,North Carolina,NC,9,,Edwin Y. Webb,Democratic,,53.51,True,True,False
+1916,house,North Carolina,NC,9,,Charles E. Greene,Republican,,46.49,False,False,False
+1916,house,North Carolina,NC,10,,Zebulon Weaver,Democratic,,50.01,True,False,False
+1916,house,North Carolina,NC,10,,James Jefferson Britt,Republican,,49.99,False,True,False
+1916,house,North Dakota,ND,1,,Henry T. Helgesen,Republican,,59.9,True,True,False
+1916,house,North Dakota,ND,1,,George A. Bangs,Democratic,,38.3,False,False,False
+1916,house,North Dakota,ND,1,,V. Gram,Socialist,,1.8,False,False,False
+1916,house,North Dakota,ND,2,,George M. Young,Republican,,71.7,True,True,False
+1916,house,North Dakota,ND,2,,Hugh McDonald,Democratic,,24.6,False,False,False
+1916,house,North Dakota,ND,2,,Samuel O. Olson,Socialist,,3.7,False,False,False
+1916,house,North Dakota,ND,3,,Patrick Norton,Republican,,65.2,True,True,False
+1916,house,North Dakota,ND,3,,Charles Simon,Democratic,,26.5,False,False,False
+1916,house,North Dakota,ND,3,,Anton Klemmens,Socialist,,8.3,False,False,False
+1916,house,Ohio,OH,1,,Nicholas Longworth,Republican,,100.0,True,True,False
+1916,house,Ohio,OH,2,,Victor Heintz,Republican,,100.0,True,False,True
+1916,house,Ohio,OH,3,,Warren Gard,Democratic,,100.0,True,True,False
+1916,house,Ohio,OH,4,,Benjamin F. Welty,Democratic,,100.0,True,False,False
+1916,house,Ohio,OH,5,,John S. Snook,Democratic,,100.0,True,False,False
+1916,house,Ohio,OH,6,,Charles Cyrus Kearns,Republican,,100.0,True,True,False
+1916,house,Ohio,OH,7,,Simeon D. Fess,Republican,,100.0,True,True,False
+1916,house,Ohio,OH,8,,John A. Key,Democratic,,100.0,True,True,False
+1916,house,Ohio,OH,9,,Isaac R. Sherwood,Democratic,,100.0,True,True,False
+1916,house,Ohio,OH,10,,Robert M. Switzer,Republican,,100.0,True,True,False
+1916,house,Ohio,OH,11,,Horatio C. Claypool,Democratic,,100.0,True,False,False
+1916,house,Ohio,OH,12,,Clement Laird Brumbaugh,Democratic,,100.0,True,True,False
+1916,house,Ohio,OH,13,,Arthur W. Overmyer,Democratic,,100.0,True,True,False
+1916,house,Ohio,OH,14,,Ellsworth Raymond Bathrick,Democratic,,100.0,True,False,False
+1916,house,Ohio,OH,15,,George White,Democratic,,100.0,True,False,False
+1916,house,Ohio,OH,16,,Roscoe C. McCulloch,Republican,,100.0,True,True,False
+1916,house,Ohio,OH,17,,William A. Ashbrook,Democratic,,100.0,True,True,False
+1916,house,Ohio,OH,18,,David Hollingsworth,Republican,,100.0,True,True,False
+1916,house,Ohio,OH,19,,John G. Cooper,Republican,,100.0,True,True,False
+1916,house,Ohio,OH,20,,William Gordon,Democratic,,100.0,True,True,False
+1916,house,Ohio,OH,21,,Robert Crosser,Democratic,,100.0,True,True,False
+1916,house,Ohio,OH,22,,Henry I. Emerson,Republican,,100.0,True,True,False
+1916,house,Oklahoma,OK,1,,Thomas A. Chandler,Republican,,45.5,True,False,False
+1916,house,Oklahoma,OK,1,,James S. Davenport,Democratic,,44.8,False,True,False
+1916,house,Oklahoma,OK,1,,J. H. Reese,Socialist,,9.2,False,False,False
+1916,house,Oklahoma,OK,1,,F. E. Braden,Prohibition,,0.5,False,False,False
+1916,house,Oklahoma,OK,2,,William W. Hastings,Democratic,,52.5,True,True,False
+1916,house,Oklahoma,OK,2,,Henry Ward,Republican,,35.4,False,False,False
+1916,house,Oklahoma,OK,2,,J. A. Lewis,Socialist,,12.1,False,False,False
+1916,house,Oklahoma,OK,3,,Charles D. Carter,Democratic,,55.1,True,True,False
+1916,house,Oklahoma,OK,3,,Gratton C. McVay,Republican,,27.0,False,False,False
+1916,house,Oklahoma,OK,3,,H. M. Shelton,Socialist,,17.9,False,False,False
+1916,house,Oklahoma,OK,4,,Tom D. McKeown,Democratic,,48.3,True,False,False
+1916,house,Oklahoma,OK,4,,James E. Gresham,Republican,,31.4,False,False,False
+1916,house,Oklahoma,OK,4,,Allen C. Adams,Socialist,,20.3,False,False,False
+1916,house,Oklahoma,OK,5,,Joseph B. Thompson,Democratic,,49.5,True,True,False
+1916,house,Oklahoma,OK,5,,George H. Dodson,Republican,,35.3,False,False,False
+1916,house,Oklahoma,OK,5,,Robert L. Allen,Socialist,,14.7,False,False,False
+1916,house,Oklahoma,OK,5,,Amos Phifer,Prohibition,,0.6,False,False,False
+1916,house,Oklahoma,OK,6,,Scott Ferris,Democratic,,50.8,True,True,False
+1916,house,Oklahoma,OK,6,,Horace H. Hinkle,Republican,,30.5,False,False,False
+1916,house,Oklahoma,OK,6,,O. M. Morris,Socialist,,18.7,False,False,False
+1916,house,Oklahoma,OK,7,,James V. McClintic,Democratic,,53.8,True,True,False
+1916,house,Oklahoma,OK,7,,H. H. Stallard,Socialist,,24.6,False,False,False
+1916,house,Oklahoma,OK,7,,T. W. Jones,Republican,,21.2,False,False,False
+1916,house,Oklahoma,OK,7,,E. B. Hackley,Prohibition,,0.4,False,False,False
+1916,house,Oklahoma,OK,8,,Dick T. Morgan,Republican,,45.1,True,True,False
+1916,house,Oklahoma,OK,8,,Zach A. Harris,Democratic,,40.0,False,False,False
+1916,house,Oklahoma,OK,8,,Joseph Ottl,Socialist,,13.9,False,False,False
+1916,house,Oklahoma,OK,8,,G. M. Henson,Prohibition,,1.0,False,False,False
+1916,house,Oregon,OR,1,,Willis C. Hawley,Republican,,56.64,True,True,False
+1916,house,Oregon,OR,1,,Mark V. Weatherford,Democratic,,36.59,False,False,False
+1916,house,Oregon,OR,1,,W. S. Richards,Socialist,,6.78,False,False,False
+1916,house,Oregon,OR,2,,Nicholas J. Sinnott,Republican,,84.58,True,True,False
+1916,house,Oregon,OR,2,,James H. Barkley,Socialist,,14.14,False,False,False
+1916,house,Oregon,OR,3,,Clifton N. McArthur,Republican,,47.56,True,True,False
+1916,house,Oregon,OR,3,,Walter Lafferty,"Progressive Party (US, 1912)",,36.7,False,False,False
+1916,house,Oregon,OR,3,,John A. Jeffrey,Democratic,,13.04,False,False,False
+1916,house,Oregon,OR,3,,Albert Streiff,Socialist,,2.7,False,False,False
+1916,house,Pennsylvania,PA,1,,William S. Vare,Republican,,71.68,True,True,False
+1916,house,Pennsylvania,PA,1,,Lawrence E. McCrossin,Democratic,,26.33,False,False,False
+1916,house,Pennsylvania,PA,1,,John L. Silvey,Socialist,,1.99,False,False,False
+1916,house,Pennsylvania,PA,2,,George S. Graham,Republican,,75.97,True,True,False
+1916,house,Pennsylvania,PA,2,,Thomas E. Shea,Democratic,,22.6,False,False,False
+1916,house,Pennsylvania,PA,2,,Harry A. Goldberg,Socialist,,1.43,False,False,False
+1916,house,Pennsylvania,PA,3,,J. Hampton Moore,Republican,,73.59,True,True,False
+1916,house,Pennsylvania,PA,3,,Joseph Hagerty,Democratic,,23.58,False,False,False
+1916,house,Pennsylvania,PA,3,,Emanuel Kline,Socialist,,1.55,False,False,False
+1916,house,Pennsylvania,PA,3,,Abraham L. Weinstock,"Progressive Party (US, 1912)",,1.28,False,False,False
+1916,house,Pennsylvania,PA,4,,George W. Edmonds,Republican,,68.17,True,True,False
+1916,house,Pennsylvania,PA,4,,Patrick H. Lynch,Democratic,,28.97,False,False,False
+1916,house,Pennsylvania,PA,4,,Jacob H. Root,Socialist,,2.36,False,False,False
+1916,house,Pennsylvania,PA,4,,John Stay,Prohibition,,0.5,False,False,False
+1916,house,Pennsylvania,PA,5,,Peter E. Costello,Republican,,59.32,True,True,False
+1916,house,Pennsylvania,PA,5,,Michael Donohoe,Democratic,,34.12,False,False,False
+1916,house,Pennsylvania,PA,5,,Clarence O. Pratt,Prohibition,,4.46,False,False,False
+1916,house,Pennsylvania,PA,5,,John N. Landberg,Socialist,,2.04,False,False,False
+1916,house,Pennsylvania,PA,5,,Oliver Wingert,Single Tax,,0.05,False,False,False
+1916,house,Pennsylvania,PA,6,,George P. Darrow,Republican,,67.59,True,True,False
+1916,house,Pennsylvania,PA,6,,J. Washington Logue,Democratic,,30.86,False,False,False
+1916,house,Pennsylvania,PA,6,,Robert A. Mays,Socialist,,1.55,False,False,False
+1916,house,Pennsylvania,PA,7,,Thomas S. Butler,Republican,,62.99,True,True,False
+1916,house,Pennsylvania,PA,7,,Edward B. Cassatt,Democratic,,34.12,False,False,False
+1916,house,Pennsylvania,PA,7,,Joseph H. Paschall,Prohibition,,1.92,False,False,False
+1916,house,Pennsylvania,PA,7,,Walter N. Lodge,Socialist,,0.97,False,False,False
+1916,house,Pennsylvania,PA,8,,Henry W. Watson,Republican,,56.99,True,True,False
+1916,house,Pennsylvania,PA,8,,Joseph Heacock,Democratic,,39.96,False,False,False
+1916,house,Pennsylvania,PA,8,,Frank R. Whiteside,Socialist,,1.88,False,False,False
+1916,house,Pennsylvania,PA,8,,Charles N. Rambo,Prohibition,,0.92,False,False,False
+1916,house,Pennsylvania,PA,8,,James H. Dix,Single Tax,,0.25,False,False,False
+1916,house,Pennsylvania,PA,9,,William W. Griest,Republican,,64.19,True,True,False
+1916,house,Pennsylvania,PA,9,,Henry F. Myers,Democratic,,30.42,False,False,False
+1916,house,Pennsylvania,PA,9,,S. S. Watts,Prohibition,,3.57,False,False,False
+1916,house,Pennsylvania,PA,9,,E. W. Stoner,Socialist,,1.82,False,False,False
+1916,house,Pennsylvania,PA,10,,John R. Farr,Republican,,53.05,True,True,False
+1916,house,Pennsylvania,PA,10,,Victor Burschel,Democratic,,43.74,False,False,False
+1916,house,Pennsylvania,PA,10,,Giles Clark,Prohibition,,1.8,False,False,False
+1916,house,Pennsylvania,PA,10,,Lee B. Woodcock,Socialist,,1.41,False,False,False
+1916,house,Pennsylvania,PA,11,,Thomas W. Templeton,Republican,,53.44,True,False,False
+1916,house,Pennsylvania,PA,11,,John J. Casey,Democratic,,42.3,False,True,False
+1916,house,Pennsylvania,PA,11,,Earl W. Husted,Socialist,,2.39,False,False,False
+1916,house,Pennsylvania,PA,11,,Jonathan R. Davis,Prohibition,,1.86,False,False,False
+1916,house,Pennsylvania,PA,12,,Robert D. Heaton,Republican,,61.06,True,True,False
+1916,house,Pennsylvania,PA,12,,Robert E. Lee,Democratic,,36.12,False,False,False
+1916,house,Pennsylvania,PA,12,,W. J. McDonald,Socialist,,2.83,False,False,False
+1916,house,Pennsylvania,PA,13,,Arthur G. Dewalt,Democratic,,49.86,True,True,False
+1916,house,Pennsylvania,PA,13,,Horace W. Shantz,Republican,,41.26,False,False,False
+1916,house,Pennsylvania,PA,13,,Elwood W. Leffler,Socialist,,7.94,False,False,False
+1916,house,Pennsylvania,PA,13,,G. A. Loose,Prohibition,,0.94,False,False,False
+1916,house,Pennsylvania,PA,14,,Louis T. McFadden,Republican,,55.6,True,True,False
+1916,house,Pennsylvania,PA,14,,John D. Brennan,Democratic,,36.21,False,False,False
+1916,house,Pennsylvania,PA,14,,William S. Heermans,Prohibition,,5.21,False,False,False
+1916,house,Pennsylvania,PA,14,,Frank E. Wood,"Progressive Party (US, 1912)",,1.75,False,False,False
+1916,house,Pennsylvania,PA,14,,Worthy Arthur,Socialist,,1.23,False,False,False
+1916,house,Pennsylvania,PA,15,,Edgar R. Kiess,Republican,,59.54,True,True,False
+1916,house,Pennsylvania,PA,15,,Chester H. Ashton,Democratic,,34.69,False,False,False
+1916,house,Pennsylvania,PA,15,,Patrick A. McGowan,Socialist,,5.77,False,False,False
+1916,house,Pennsylvania,PA,16,,John V. Lesher,Democratic,,51.81,True,True,False
+1916,house,Pennsylvania,PA,16,,I. Clinton Kline,Republican,,44.47,False,False,False
+1916,house,Pennsylvania,PA,16,,William B. Koch,Socialist,,3.73,False,False,False
+1916,house,Pennsylvania,PA,17,,Benjamin K. Focht,Republican,,50.43,True,True,False
+1916,house,Pennsylvania,PA,17,,George A. Harris,Democratic,,47.05,False,False,False
+1916,house,Pennsylvania,PA,17,,Frank Thompson,Socialist,,2.52,False,False,False
+1916,house,Pennsylvania,PA,18,,Aaron S. Kreider,Republican,,51.65,True,True,False
+1916,house,Pennsylvania,PA,18,,Harry B. Saussaman,Democratic,,42.66,False,False,False
+1916,house,Pennsylvania,PA,18,,George A. Steiner,Socialist,,2.99,False,False,False
+1916,house,Pennsylvania,PA,18,,J. A. Sprenkel,Prohibition,,2.71,False,False,False
+1916,house,Pennsylvania,PA,19,,John M. Rose,Republican,,50.44,True,False,False
+1916,house,Pennsylvania,PA,19,,Warren W. Bailey,Democratic,,46.78,False,True,False
+1916,house,Pennsylvania,PA,19,,Daniel W. Murphy,Socialist,,2.79,False,False,False
+1916,house,Pennsylvania,PA,20,,Andrew R. Brodbeck,Democratic,,50.22,True,False,True
+1916,house,Pennsylvania,PA,20,,Samuel K. McCall,Republican,,44.34,False,False,True
+1916,house,Pennsylvania,PA,20,,Henry H. Trumpfheller,Prohibition,,3.2,False,False,True
+1916,house,Pennsylvania,PA,20,,William H. Dehoff,Socialist,,2.24,False,False,True
+1916,house,Pennsylvania,PA,21,,Charles H. Rowland,Republican,,47.65,True,True,False
+1916,house,Pennsylvania,PA,21,,William E. Tobias,Democratic,,46.95,False,False,False
+1916,house,Pennsylvania,PA,21,,George W. Fox,Socialist,,5.4,False,False,False
+1916,house,Pennsylvania,PA,22,,Edward E. Robbins,Republican,,48.44,True,False,False
+1916,house,Pennsylvania,PA,22,,Silas A. Kline,Democratic,,39.2,False,False,False
+1916,house,Pennsylvania,PA,22,,Charles Cunningham,Socialist,,7.14,False,False,False
+1916,house,Pennsylvania,PA,22,,R. S. Irwin,Prohibition,,5.22,False,False,False
+1916,house,Pennsylvania,PA,23,,Bruce F. Sterling,Democratic,,48.15,True,False,False
+1916,house,Pennsylvania,PA,23,,Robert F. Hopwood,Republican,,45.67,False,True,False
+1916,house,Pennsylvania,PA,23,,William H. Ream,Socialist,,3.9,False,False,False
+1916,house,Pennsylvania,PA,23,,Daniel Sturgeon,Prohibition,,2.28,False,False,False
+1916,house,Pennsylvania,PA,24,,Henry W. Temple,Republican,,54.35,True,True,False
+1916,house,Pennsylvania,PA,24,,William J. Mellon,Democratic,,34.93,False,False,False
+1916,house,Pennsylvania,PA,24,,W. K. Ramsey,Socialist,,6.76,False,False,False
+1916,house,Pennsylvania,PA,24,,J. B. Smith,Prohibition,,3.96,False,False,False
+1916,house,Pennsylvania,PA,25,,Henry A. Clark,Republican,,43.14,True,False,True
+1916,house,Pennsylvania,PA,25,,Charles N. Crosby,Democratic,,41.94,False,False,True
+1916,house,Pennsylvania,PA,25,,William W. Kinclaid,Prohibition,,9.75,False,False,True
+1916,house,Pennsylvania,PA,25,,Ralph W. Tillotson,Socialist,,5.17,False,False,True
+1916,house,Pennsylvania,PA,26,,Henry J. Steele,Democratic,,53.46,True,True,False
+1916,house,Pennsylvania,PA,26,,Winfred D. Lewis,Republican,,43.23,False,False,False
+1916,house,Pennsylvania,PA,26,,Elmer E. Field,Prohibition,,3.01,False,False,False
+1916,house,Pennsylvania,PA,27,,Nathan L. Strong,Republican,,55.91,True,False,False
+1916,house,Pennsylvania,PA,27,,Harry C. Golden,Democratic,,33.96,False,False,False
+1916,house,Pennsylvania,PA,27,,John B. DeSantis,Prohibition,,5.66,False,False,False
+1916,house,Pennsylvania,PA,27,,Reuben Einstein,Socialist,,4.47,False,False,False
+1916,house,Pennsylvania,PA,28,,Orrin D. Bleakley,Republican,,47.68,True,False,True
+1916,house,Pennsylvania,PA,28,,Earl H. Beshlin,Democratic,,35.97,False,False,True
+1916,house,Pennsylvania,PA,28,,A. R. Rich,Prohibition,,10.06,False,False,True
+1916,house,Pennsylvania,PA,28,,William E. Ashe,Socialist,,6.09,False,False,True
+1916,house,Pennsylvania,PA,29,,Stephen G. Porter,Republican,,67.83,True,True,False
+1916,house,Pennsylvania,PA,29,,A. M. Thompson,Democratic,,24.14,False,False,False
+1916,house,Pennsylvania,PA,29,,Karl C. Jursek,Socialist,,6.0,False,False,False
+1916,house,Pennsylvania,PA,29,,Robert J. Smith,Prohibition,,2.03,False,False,False
+1916,house,Pennsylvania,PA,30,,M. Clyde Kelly,"Progressive Party (US, 1912)",,47.58,True,False,False
+1916,house,Pennsylvania,PA,30,,William H. Coleman,Republican,,46.94,False,True,False
+1916,house,Pennsylvania,PA,30,,William Adams,Socialist,,5.48,False,False,False
+1916,house,Pennsylvania,PA,31,,John M. Morin,Republican,,87.2,True,True,False
+1916,house,Pennsylvania,PA,31,,Fred C. Brittain,Prohibition,,6.4,False,False,False
+1916,house,Pennsylvania,PA,31,,James Devlin,Socialist,,6.4,False,False,False
+1916,house,Pennsylvania,PA,32,,Guy E. Campbell,Democratic,,45.84,True,False,False
+1916,house,Pennsylvania,PA,32,,Andrew J. Barchfeld,Republican,,45.72,False,True,False
+1916,house,Pennsylvania,PA,32,,William W. Nooning,Socialist,,6.48,False,False,False
+1916,house,Pennsylvania,PA,32,,George E. Briggs,Prohibition,,1.96,False,False,False
+1916,house,Pennsylvania,PA,AL,,Thomas S. Crago,Republican,,14.15,True,False,True
+1916,house,Pennsylvania,PA,AL,,John R. K. Scott,Republican,,14.01,True,True,True
+1916,house,Pennsylvania,PA,AL,,Mahlon M. Garland,Republican,,13.93,True,False,True
+1916,house,Pennsylvania,PA,AL,,Joseph McLaughlin,Republican,,12.82,True,False,True
+1916,house,Pennsylvania,PA,AL,,Thomas Ross,Democratic,,9.98,False,False,True
+1916,house,Pennsylvania,PA,AL,,John J. Moore,Democratic,,9.31,False,False,True
+1916,house,Pennsylvania,PA,AL,,Joseph T. Kinsley,Democratic,,9.31,False,False,True
+1916,house,Pennsylvania,PA,AL,,Jacob B. Waidelich,Democratic,,9.05,False,False,True
+1916,house,Pennsylvania,PA,AL,,William A. Prosser,Socialist,,0.99,False,False,True
+1916,house,Pennsylvania,PA,AL,,Elizabeth N. Blair,Socialist,,0.96,False,False,True
+1916,house,Pennsylvania,PA,AL,,John W. Slayton,Socialist,,0.96,False,False,True
+1916,house,Pennsylvania,PA,AL,,Fred W. Whiteside,Socialist,,0.96,False,False,True
+1916,house,Pennsylvania,PA,AL,,Fred Goff,Prohibition,,0.63,False,False,True
+1916,house,Pennsylvania,PA,AL,,Robert C. Bair,"Progressive Party (US, 1912)",,0.59,False,False,True
+1916,house,Pennsylvania,PA,AL,,Arthur Graham,"Progressive Party (US, 1912)",,0.58,False,False,True
+1916,house,Pennsylvania,PA,AL,,Frank L. Morton,Prohibition,,0.56,False,False,True
+1916,house,Pennsylvania,PA,AL,,Butler C. McGrew,Prohibition,,0.55,False,False,True
+1916,house,Pennsylvania,PA,AL,,J. Calvin Rummel,Prohibition,,0.53,False,False,True
+1916,house,Rhode Island,RI,1,,George F. O'Shaunessy,Democratic,,53.94,True,True,False
+1916,house,Rhode Island,RI,1,,Ezra Dixon,Republican,,44.17,False,False,False
+1916,house,Rhode Island,RI,1,,Walter E. Myers,Socialist,,1.89,False,False,False
+1916,house,Rhode Island,RI,2,,Walter R. Stiness,Republican,,55.27,True,True,False
+1916,house,Rhode Island,RI,2,,Sumner Mowry,Democratic,,42.04,False,False,False
+1916,house,Rhode Island,RI,2,,Ernest Sherwood,Socialist,,2.69,False,False,False
+1916,house,Rhode Island,RI,3,,Ambrose Kennedy,Republican,,50.41,True,True,False
+1916,house,Rhode Island,RI,3,,Joseph McDonald,Democratic,,47.08,False,False,False
+1916,house,Rhode Island,RI,3,,Thomas C. Jones,Socialist,,2.51,False,False,False
+1916,house,South Carolina,SC,1,5239,Richard S. Whaley,Democratic,4999,95.4,True,True,False
+1916,house,South Carolina,SC,1,5239,J. O. Ladd,Republican,240,4.6,False,False,False
+1916,house,South Carolina,SC,2,7801,James F. Byrnes,Democratic,7681,98.5,True,True,False
+1916,house,South Carolina,SC,2,7801,Isaac Myers,Republican,120,1.5,False,False,False
+1916,house,South Carolina,SC,3,9448,Frederick H. Dominick,Democratic,9447,100.0,True,False,False
+1916,house,South Carolina,SC,4,11386,Samuel J. Nicholls,Democratic,11312,99.4,True,True,False
+1916,house,South Carolina,SC,4,11386,G. F. Mills,Republican,74,0.6,False,False,False
+1916,house,South Carolina,SC,5,8846,David E. Finley,Democratic,8846,100.0,True,True,False
+1916,house,South Carolina,SC,6,9854,J. Willard Ragsdale,Democratic,9767,99.1,True,True,False
+1916,house,South Carolina,SC,6,9854,W. L. McFarlan,Republican,87,0.9,False,False,False
+1916,house,South Carolina,SC,7,10500,A. Frank Lever,Democratic,,93.5,True,True,False
+1916,house,South Carolina,SC,7,10500,I. S. Leevy,Republican,683,6.5,False,False,False
+1916,house,South Dakota,SD,1,,Charles H. Dillon,Republican,,58.1,True,True,False
+1916,house,South Dakota,SD,1,,O. D. Anderson,Democratic,,40.2,False,False,False
+1916,house,South Dakota,SD,1,,H. W. Fenner,Socialist,,1.7,False,False,False
+1916,house,South Dakota,SD,2,,Royal C. Johnson,Republican,,60.1,True,True,False
+1916,house,South Dakota,SD,2,,J. J. Batterton,Democratic,,34.7,False,False,False
+1916,house,South Dakota,SD,2,,E. Francis Atwood,Socialist,,3.4,False,False,False
+1916,house,South Dakota,SD,2,,R. Clendening,Prohibition,,1.8,False,False,False
+1916,house,South Dakota,SD,3,,Harry Gandy,Democratic,,55.6,True,True,False
+1916,house,South Dakota,SD,3,,John G. Bartine,Republican,,40.9,False,False,False
+1916,house,South Dakota,SD,3,,B. M. Mulcahy,Socialist,,3.4,False,False,False
+1916,house,Tennessee,TN,1,,Sam R. Sells,Republican,,96.85,True,True,False
+1916,house,Tennessee,TN,1,,Artie Isenberg,Democratic,,3.15,False,False,False
+1916,house,Tennessee,TN,2,,Richard W. Austin,Republican,,90.02,True,True,False
+1916,house,Tennessee,TN,2,,J. S. Fitzgerald,Democratic,,5.42,False,False,False
+1916,house,Tennessee,TN,2,,T. J. Rowland,Socialist,,4.56,False,False,False
+1916,house,Tennessee,TN,3,,John A. Moon,Democratic,,53.85,True,True,False
+1916,house,Tennessee,TN,3,,Jessie M. Littleton,Republican,,45.31,False,False,False
+1916,house,Tennessee,TN,3,,W. R. Hipp,Socialist,,0.84,False,False,False
+1916,house,Tennessee,TN,4,,Cordell Hull,Democratic,,60.19,True,True,False
+1916,house,Tennessee,TN,4,,J. F. Benson,Republican,,39.57,False,False,False
+1916,house,Tennessee,TN,4,,G. W. Hatfield,Socialist,,0.24,False,False,False
+1916,house,Tennessee,TN,5,,William C. Houston,Democratic,,86.42,True,True,False
+1916,house,Tennessee,TN,5,,Sid Houston,Republican,,13.58,False,False,False
+1916,house,Tennessee,TN,6,,Jo Byrns,Democratic,,84.07,True,True,False
+1916,house,Tennessee,TN,6,,C. E. Tippens,Republican,,14.36,False,False,False
+1916,house,Tennessee,TN,6,,J. M. Lindsley,Socialist,,1.57,False,False,False
+1916,house,Tennessee,TN,7,,Lemuel P. Padgett,Democratic,,62.98,True,True,False
+1916,house,Tennessee,TN,7,,G. A. Yost,Republican,,36.83,False,False,False
+1916,house,Tennessee,TN,7,,F. W. Porter,Socialist,,0.2,False,False,False
+1916,house,Tennessee,TN,8,,Thetus W. Sims,Democratic,,50.35,True,True,False
+1916,house,Tennessee,TN,8,,L. M. Rhodes,Republican,,49.52,False,False,False
+1916,house,Tennessee,TN,8,,G. L. Burkhead,Socialist,,0.13,False,False,False
+1916,house,Tennessee,TN,9,,Finis J. Garrett,Democratic,,75.4,True,True,False
+1916,house,Tennessee,TN,9,,W. N. Beasley,Republican,,24.6,False,False,False
+1916,house,Tennessee,TN,10,,Hubert Fisher,Democratic,,67.95,True,False,True
+1916,house,Tennessee,TN,10,,Wayman Wilkerson,Republican,,17.94,False,False,True
+1916,house,Tennessee,TN,10,,Jonathan W. Farley,Republican,,10.19,False,False,True
+1916,house,Tennessee,TN,10,,W. A. Weatherall,Socialist,,3.92,False,False,True
+1916,house,Texas,TX,1,,Eugene Black,Democratic,,83.3,True,True,False
+1916,house,Texas,TX,1,,David H. Morris,Republican,,11.0,False,False,False
+1916,house,Texas,TX,1,,J. C. Thompson,Socialist,,5.7,False,False,False
+1916,house,Texas,TX,2,,Martin Dies Sr.,Democratic,,86.1,True,True,False
+1916,house,Texas,TX,2,,J. B. Truitt,Socialist,,7.4,False,False,False
+1916,house,Texas,TX,2,,A. E. Sweatland,Republican,,6.4,False,False,False
+1916,house,Texas,TX,3,,James Young,Democratic,,88.3,True,True,False
+1916,house,Texas,TX,3,,J. L. Scroggin,Socialist,,11.7,False,False,False
+1916,house,Texas,TX,4,,Sam Rayburn,Democratic,,83.5,True,True,False
+1916,house,Texas,TX,4,,G. J. Barlow,Republican,,9.6,False,False,False
+1916,house,Texas,TX,4,,W. J. Lennon,Socialist,,6.9,False,False,False
+1916,house,Texas,TX,5,,Hatton W. Sumners,Democratic,,88.2,True,True,False
+1916,house,Texas,TX,5,,B. F. Crews,Republican,,10.2,False,False,False
+1916,house,Texas,TX,5,,W. G. Brewer,Socialist,,1.6,False,False,False
+1916,house,Texas,TX,6,,Rufus Hardy,Democratic,,95.3,True,True,False
+1916,house,Texas,TX,6,,W. H. Wilson,Socialist,,4.7,False,False,False
+1916,house,Texas,TX,7,,Alexander W. Gregg,Democratic,,79.4,True,True,False
+1916,house,Texas,TX,7,,Theodore F. Heiger,Republican,,11.3,False,False,False
+1916,house,Texas,TX,7,,Willis Kendall,Republican,,5.1,False,False,False
+1916,house,Texas,TX,7,,T. E. Foster,Socialist,,4.1,False,False,False
+1916,house,Texas,TX,8,,Joe H. Eagle,Democratic,,82.2,True,True,False
+1916,house,Texas,TX,8,,Ira P. Jones,Republican,,14.2,False,False,False
+1916,house,Texas,TX,8,,John W. Conner,Socialist,,3.6,False,False,False
+1916,house,Texas,TX,9,,Joseph J. Mansfield,Democratic,,76.4,True,False,True
+1916,house,Texas,TX,9,,C. M. Hughes,Republican,,19.3,False,False,True
+1916,house,Texas,TX,9,,B. F. Wright,Socialist,,4.4,False,False,True
+1916,house,Texas,TX,10,,James P. Buchanan,Democratic,,86.7,True,True,False
+1916,house,Texas,TX,10,,Robert A. Brooks,Republican,,13.3,False,False,False
+1916,house,Texas,TX,11,,Tom Connally,Democratic,,87.7,True,False,True
+1916,house,Texas,TX,11,,John L. Vaughn,Republican,,8.6,False,False,True
+1916,house,Texas,TX,11,,T. M. DeLoach,Socialist,,3.7,False,False,True
+1916,house,Texas,TX,12,,James C. Wilson,Democratic,,85.7,True,False,False
+1916,house,Texas,TX,12,,Henry F. Zweifel,Republican,,7.8,False,False,False
+1916,house,Texas,TX,12,,Leeland G. Baker,Socialist,,6.5,False,False,False
+1916,house,Texas,TX,13,,J. Marvin Jones,Democratic,,85.8,True,False,False
+1916,house,Texas,TX,13,,J. L. Van Natta,Republican,,7.9,False,False,False
+1916,house,Texas,TX,13,,J. A. Pressly,Socialist,,6.3,False,False,False
+1916,house,Texas,TX,14,,James L. Slayden,Democratic,,79.4,True,True,False
+1916,house,Texas,TX,14,,D. F. Johnson,Republican,,20.6,False,False,False
+1916,house,Texas,TX,15,,John N. Garner,Democratic,,73.4,True,True,False
+1916,house,Texas,TX,15,,Harry M. Wurzbach,Republican,,24.1,False,False,False
+1916,house,Texas,TX,15,,John H. Greer,Socialist,,2.5,False,False,False
+1916,house,Texas,TX,16,,Thomas L. Blanton,Democratic,,85.0,True,False,False
+1916,house,Texas,TX,16,,T. B. Holiday,Socialist,,7.9,False,False,False
+1916,house,Texas,TX,16,,C. O. Harris,Republican,,7.1,False,False,False
+1916,house,Texas,TX,AL,,A. Jeff McLemore,Democratic,,41.0,True,False,False
+1916,house,Texas,TX,AL,,Daniel E. Garrett,Democratic,,40.8,True,False,False
+1916,house,Texas,TX,AL,,Charles A. Warnken,Republican,,6.4,False,False,False
+1916,house,Texas,TX,AL,,M. A. Taylor,Republican,,6.3,False,False,False
+1916,house,Texas,TX,AL,,Arch Lingan,Socialist,,2.5,False,False,False
+1916,house,Texas,TX,AL,,William D. Simpson,Socialist,,2.5,False,False,False
+1916,house,Texas,TX,AL,,I. E. Teague,Prohibition,,0.2,False,False,False
+1916,house,Texas,TX,AL,,E. G. Cook,Prohibition,,0.2,False,False,False
+1916,house,Utah,UT,1,,Milton H. Welling,Democratic,,55.55,True,False,True
+1916,house,Utah,UT,1,,Timothy C. Hoyt,Republican,,41.49,False,False,True
+1916,house,Utah,UT,1,,Daniel Konald,Socialist,,2.96,False,False,True
+1916,house,Utah,UT,2,,James H. Mays,Democratic,,56.87,True,True,False
+1916,house,Utah,UT,2,,Charles R. Mabey,Republican,,39.65,False,False,False
+1916,house,Utah,UT,2,,Murray E. King,Socialist,,3.48,False,False,False
+1916,house,Vermont,VT,1,,Frank L. Greene,Republican,,71.06,True,True,False
+1916,house,Vermont,VT,1,,Emmett B. Daley,Democratic,,25.71,False,False,False
+1916,house,Vermont,VT,1,,Warren S. Newton,Prohibition,,1.96,False,False,False
+1916,house,Vermont,VT,1,,John Spargo,Socialist,,1.26,False,False,False
+1916,house,Vermont,VT,2,,Porter H. Dale,Republican,,72.19,True,True,False
+1916,house,Vermont,VT,2,,George H. Pape,Democratic,,25.39,False,False,False
+1916,house,Vermont,VT,2,,John P. Marsh,Socialist,,2.42,False,False,False
+1916,house,Virginia,VA,1,,William A. Jones,Democratic,,76.5,True,True,False
+1916,house,Virginia,VA,1,,William W. Butzner,Republican,,22.1,False,False,False
+1916,house,Virginia,VA,1,,C. Campbell,Socialist,,0.8,False,False,False
+1916,house,Virginia,VA,1,,John Bader,Socialist Labor,,0.6,False,False,False
+1916,house,Virginia,VA,2,,Edward E. Holland,Democratic,,82.4,True,True,False
+1916,house,Virginia,VA,2,,Luther B. Way,Republican,,15.8,False,False,False
+1916,house,Virginia,VA,2,,Robert D. McElvary,Socialist,,1.0,False,False,False
+1916,house,Virginia,VA,2,,B. D. Downey,Socialist Labor,,0.8,False,False,False
+1916,house,Virginia,VA,3,,Andrew J. Montague,Democratic,,93.6,True,True,False
+1916,house,Virginia,VA,3,,F. E. Maxey,Socialist,,6.4,False,False,False
+1916,house,Virginia,VA,4,,Walter A. Watson,Democratic,,90.8,True,True,False
+1916,house,Virginia,VA,4,,W. B. Alfred,Republican,,4.8,False,False,False
+1916,house,Virginia,VA,4,,Fred Herzig,Socialist,,4.5,False,False,False
+1916,house,Virginia,VA,5,,Edward W. Saunders,Democratic,,57.8,True,True,False
+1916,house,Virginia,VA,5,,Beverly A. Davis,Republican,,41.4,False,False,False
+1916,house,Virginia,VA,5,,Robert D. Boswell,Independent,,0.8,False,False,False
+1916,house,Virginia,VA,6,,Carter Glass,Democratic,,73.6,True,True,False
+1916,house,Virginia,VA,6,,George W. Wilson,Republican,,23.6,False,False,False
+1916,house,Virginia,VA,6,,B. F. Ginther,Socialist,,2.8,False,False,False
+1916,house,Virginia,VA,7,,Thomas W. Harrison,Democratic,,61.8,True,False,True
+1916,house,Virginia,VA,7,,John Paul Jr.,Republican,,37.3,False,False,True
+1916,house,Virginia,VA,7,,E. C. Garrison,Independent,,0.9,False,False,True
+1916,house,Virginia,VA,8,,Charles C. Carlin,Democratic,,71.8,True,True,False
+1916,house,Virginia,VA,8,,Joseph L. Crupper,Republican,,27.0,False,False,False
+1916,house,Virginia,VA,8,,Frank E. Manning,Independent,,0.6,False,False,False
+1916,house,Virginia,VA,8,,William H. Hamilton,Independent,,0.5,False,False,False
+1916,house,Virginia,VA,9,,C. Bascom Slemp,Republican,,51.9,True,True,False
+1916,house,Virginia,VA,9,,Elbert L. Trinkle,Democratic,,47.8,False,False,False
+1916,house,Virginia,VA,9,,B. M. Dutton,Socialist,,0.3,False,False,False
+1916,house,Virginia,VA,10,,Henry D. Flood,Democratic,,69.9,True,True,False
+1916,house,Virginia,VA,10,,C. P. Nair,Republican,,28.4,False,False,False
+1916,house,Virginia,VA,10,,F. D. Lowe,Independent,,1.7,False,False,False
+1916,house,Washington,WA,1,,John F. Miller,Republican,,50.27,True,False,True
+1916,house,Washington,WA,1,,George F. Cotterill,Democratic,,46.31,False,False,True
+1916,house,Washington,WA,1,,E. B. Tryon,Socialist,,3.42,False,False,True
+1916,house,Washington,WA,2,,Lindley H. Hadley,Republican,,47.06,True,True,False
+1916,house,Washington,WA,2,,Frances C. Axtell,Democratic,,41.74,False,False,False
+1916,house,Washington,WA,2,,R. J. Olinger,Socialist,,11.21,False,False,False
+1916,house,Washington,WA,3,,Albert Johnson,Republican,,57.11,True,True,False
+1916,house,Washington,WA,3,,George P. Fishburne,Democratic,,36.07,False,False,False
+1916,house,Washington,WA,3,,W. F. Ferguson,Socialist,,6.82,False,False,False
+1916,house,Washington,WA,4,,William La Follette,Republican,,58.78,True,True,False
+1916,house,Washington,WA,4,,Charles W. Masterson,Democratic,,36.66,False,False,False
+1916,house,Washington,WA,4,,Walter Price,Socialist,,4.56,False,False,False
+1916,house,Washington,WA,5,,Clarence Dill,Democratic,,51.53,True,True,False
+1916,house,Washington,WA,5,,Thomas Corkery,Republican,,44.41,False,False,False
+1916,house,Washington,WA,5,,John M. Powers,Socialist,,4.06,False,False,False
+1916,house,West Virginia,WV,1,,Matthew M. Neely,Democratic,,50.65,True,True,False
+1916,house,West Virginia,WV,1,,J. W. Fleming,Republican,,49.36,False,False,False
+1916,house,West Virginia,WV,2,,George M. Bowers,Republican,,50.91,True,True,False
+1916,house,West Virginia,WV,2,,Samuel V. Woods,Democratic,,49.09,False,False,False
+1916,house,West Virginia,WV,3,,Stuart F. Reed,Republican,,50.74,True,False,True
+1916,house,West Virginia,WV,3,,Fleming N. Alderson,Democratic,,49.26,False,False,True
+1916,house,West Virginia,WV,4,,Harry C. Woodyard,Republican,,50.31,True,False,True
+1916,house,West Virginia,WV,4,,T. A. Null,Democratic,,49.69,False,False,True
+1916,house,West Virginia,WV,5,,Edward Cooper,Republican,,51.72,True,True,False
+1916,house,West Virginia,WV,5,,G. R. Wiles,Democratic,,48.28,False,False,False
+1916,house,West Virginia,WV,6,,Adam B. Littlepage,Democratic,,51.54,True,False,True
+1916,house,West Virginia,WV,6,,M. V. Godbey,Republican,,48.46,False,False,True
+1916,house,Wisconsin,WI,1,,Henry A. Cooper,Republican,,61.6,True,True,False
+1916,house,Wisconsin,WI,1,,Jay W. Page,Democratic,,31.2,False,False,False
+1916,house,Wisconsin,WI,1,,William J. Hensche,Prohibition,,3.7,False,False,False
+1916,house,Wisconsin,WI,1,,Michael Yabs,Social Democratic,,3.6,False,False,False
+1916,house,Wisconsin,WI,2,,Edward Voigt,Republican,,51.3,True,False,False
+1916,house,Wisconsin,WI,2,,Michael E. Burke,Democratic,,45.9,False,True,False
+1916,house,Wisconsin,WI,2,,John Bauerfeind,Social Democratic,,2.8,False,False,False
+1916,house,Wisconsin,WI,3,,John M. Nelson,Republican,,61.8,True,True,False
+1916,house,Wisconsin,WI,3,,M. J. Briggs,Democratic,,35.1,False,False,False
+1916,house,Wisconsin,WI,3,,David L. Dobson,Prohibition,,2.2,False,False,False
+1916,house,Wisconsin,WI,3,,Emil Orne,Social Democratic,,0.9,False,False,False
+1916,house,Wisconsin,WI,4,,William J. Cary,Republican,,35.5,True,True,False
+1916,house,Wisconsin,WI,4,,Winfield Gaylord,Social Democratic,,32.7,False,False,False
+1916,house,Wisconsin,WI,4,,Anthony Szczerbinski,Democratic,,30.9,False,False,False
+1916,house,Wisconsin,WI,4,,Winfred D. Cox,Prohibition,,1.0,False,False,False
+1916,house,Wisconsin,WI,5,,William H. Stafford,Republican,,45.4,True,True,False
+1916,house,Wisconsin,WI,5,,Victor L. Berger,Social Democratic,,36.9,False,False,False
+1916,house,Wisconsin,WI,5,,Lyman H. Browne,Democratic,,17.2,False,False,False
+1916,house,Wisconsin,WI,5,,Wallace R. Drought,Prohibition,,0.5,False,False,False
+1916,house,Wisconsin,WI,6,,James H. Davidson,Republican,,52.3,True,False,False
+1916,house,Wisconsin,WI,6,,Michael Reilly,Democratic,,44.0,False,True,False
+1916,house,Wisconsin,WI,6,,Robert Zingler,Social Democratic,,2.4,False,False,False
+1916,house,Wisconsin,WI,6,,Clarence O. Tinkham,Prohibition,,1.3,False,False,False
+1916,house,Wisconsin,WI,7,,John J. Esch,Republican,,68.2,True,True,False
+1916,house,Wisconsin,WI,7,,Herman Grotophorst,Democratic,,27.0,False,False,False
+1916,house,Wisconsin,WI,7,,C. L. Clifford,Prohibition,,2.8,False,False,False
+1916,house,Wisconsin,WI,7,,Charles A. Noetzelman,Social Democratic,,2.1,False,False,False
+1916,house,Wisconsin,WI,8,,Edward E. Browne,Republican,,67.5,True,True,False
+1916,house,Wisconsin,WI,8,,John Kalmes,Democratic,,29.5,False,False,False
+1916,house,Wisconsin,WI,8,,Charles Kiesner,Social Democratic,,3.0,False,False,False
+1916,house,Wisconsin,WI,9,,David G. Classon,Republican,,52.5,True,False,False
+1916,house,Wisconsin,WI,9,,Thomas F. Konop,Democratic,,46.0,False,True,False
+1916,house,Wisconsin,WI,9,,Frederick Nanman,Social Democratic,,1.5,False,False,False
+1916,house,Wisconsin,WI,10,,James A. Frear,Republican,,69.6,True,True,False
+1916,house,Wisconsin,WI,10,,Andrew Sutherland,Democratic,,28.0,False,False,False
+1916,house,Wisconsin,WI,10,,John Waldal,Prohibition,,2.4,False,False,False
+1916,house,Wisconsin,WI,11,,Irvine Lenroot,Republican,,67.4,True,True,False
+1916,house,Wisconsin,WI,11,,George C. Cooper,Democratic,,25.9,False,False,False
+1916,house,Wisconsin,WI,11,,Henry M. Parks,Social Democratic,,6.7,False,False,False
+1916,house,Wyoming,WY,AL,,Frank W. Mondell,Republican,,49.02,True,True,False
+1916,house,Wyoming,WY,AL,,John D. Clark,Democratic,,47.96,False,False,False
+1916,house,Wyoming,WY,AL,,George E. Bateman,Socialist,,2.59,False,False,False

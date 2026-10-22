@@ -133,6 +133,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1940,Nebraska,Republican primary results,Primary,Candidate,False,Republican Party (United States),Adam McMullen,"16,359",9.84%
 1940,Nebraska,Republican primary results,Primary,Candidate,False,Republican Party (United States),Albert W. Jefferis,"14,765",8.88%
 1940,Nebraska,Republican primary results,Primary,Total,False,,,"166,227",100.00%
+1940,Nevada,Republican primary results,Primary,Winning,False,Republican Party (United States),Samuel Platt,"3,970",40.19
+1940,Nevada,Republican primary results,Primary,Candidate,False,Republican Party (United States),Harry H. Atkinson,"3,304",33.45
+1940,Nevada,Republican primary results,Primary,Candidate,False,Republican Party (United States),Clarence R. Pugh,"1,504",15.23
+1940,Nevada,Republican primary results,Primary,Candidate,False,Republican Party (United States),Clyde D. Souter,"1,099",11.13
+1940,Nevada,Republican primary results,Primary,Total,False,,,"9,877",
 1940,New Jersey,1940 Republican Senate special primary,Primary,Winning,True,Republican Party (US),William Warren Barbour,"390,155",86.17%
 1940,New Jersey,1940 Republican Senate special primary,Primary,Candidate,False,Republican Party (US),George O. Pullen,"32,633",7.21%
 1940,New Jersey,1940 Republican Senate special primary,Primary,Candidate,False,Republican Party (US),C. Dan Coskey,"29,991",6.62%

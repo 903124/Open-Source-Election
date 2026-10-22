@@ -16,8 +16,8 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1984,North Carolina,NC,governor,1984 NC Governor election results,Candidate,Rufus L. Edmisten,Democratic,1011209,45.41,False,False
 1984,North Carolina,NC,governor,1984 NC Governor election results,Candidate,H. Fritz Prochnaw,Libertarian,4610,0.21,False,False
 1984,North Carolina,NC,governor,1984 NC Governor election results,Candidate,Gregory McCartan,Workers,2740,0.12,False,False
-1984,North Dakota,ND,governor,"North Dakota gubernatorial election, 1984",Winning,George A. Sinner/Ruth Meiers,North Dakota Democratic-npl,173922,55.32,True,False
-1984,North Dakota,ND,governor,"North Dakota gubernatorial election, 1984",Candidate,Allen I. Olson (inc.)/Ernest Sands,Republican,140460,44.68,False,False
+1984,North Dakota,ND,governor,"North Dakota gubernatorial election, 1984",Winning,George A. Sinner,North Dakota Democratic-npl,173922,55.32,True,False
+1984,North Dakota,ND,governor,"North Dakota gubernatorial election, 1984",Candidate,Allen I. Olson (inc.),Republican,140460,44.68,False,False
 1984,North Dakota,ND,governor,"North Dakota gubernatorial election, 1984",Total,,,314382,100.0,False,False
 1984,Rhode Island,RI,governor,1984 Rhode Island gubernatorial election,Winning,Edward D. DiPrete,Republican,245059,60.01,True,False
 1984,Rhode Island,RI,governor,1984 Rhode Island gubernatorial election,Candidate,Anthony J. Solomon,Democratic,163311,39.99,False,False

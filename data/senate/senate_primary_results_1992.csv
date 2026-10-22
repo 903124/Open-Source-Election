@@ -169,6 +169,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1992,Oregon,"Republican primary for the United States Senate from Oregon, 1992",Primary,Candidate,False,Valentine Christian,Republican Party (United States),"10,501",3.51%
 1992,Oregon,"Republican primary for the United States Senate from Oregon, 1992",Primary,Candidate,False,Miscellaneous,Republican Party (United States),"3,397",1.14%
 1992,Oregon,"Republican primary for the United States Senate from Oregon, 1992",Primary,Total,False,,,"299,411",100.00%
+1992,South Carolina,Republican primary results,Primary,Winning,False,Thomas F. Hartnett,Republican Party (United States),"123,572",76.8%
+1992,South Carolina,Republican primary results,Primary,Candidate,False,Charlie E. Thompson,Republican Party (United States),"37,352",23.2%
 1992,Vermont,Democratic primary results,Primary,Winning,True,Patrick Leahy,Democratic Party (United States),"24,721",97.59%
 1992,Vermont,Democratic primary results,Primary,Candidate,False,Write-ins,Democratic Party (United States),610,2.41%
 1992,Vermont,Democratic primary results,Primary,Total,False,,,"25,331",100.00%

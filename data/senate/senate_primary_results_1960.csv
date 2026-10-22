@@ -1,15 +1,13 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
 1960,Alabama,1960 Democratic U.S. Senate primary,Primary,Winning,True,Democratic Party (United States),John Sparkman,"335,722",83.08%
-1960,Alabama,1960 Democratic U.S. Senate primary,Primary,Winning,True,Democratic Party (United States),John Sparkman,"389,196",70.24%
 1960,Alabama,1960 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),John G. Crommelin,"51,591",12.77%
 1960,Alabama,1960 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Zeke Calhoun,"16,792",4.16%
-1960,Alabama,1960 Democratic U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),Julian Elgin,"164,868",29.76%
 1960,Alabama,1960 Democratic U.S. Senate primary,Primary,Total,False,,,"404,105",100.00%
-1960,Alabama,1960 Democratic U.S. Senate primary,Primary,Total,False,,,"554,072",100.00%
 1960,Alaska,1960 Republican U.S. Senate primary,Primary,Winning,False,Republican Party (United States),Lee McKinley,"8,867",68.22%
 1960,Alaska,1960 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),Lawrence M. Brayton,"4,131",31.78%
 1960,Alaska,1960 Republican U.S. Senate primary,Primary,Total,False,,,"12,998",100.00%
 1960,Arkansas,1960 Democratic U.S. Senate primary,Primary,Winning,True,Democratic Party (United States),John L. McClellan,,unopposed
+1960,Georgia,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Richard Russell Jr.,"560,256",100.00
 1960,Idaho,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Gregg Potvin,"16,524",23.73
 1960,Idaho,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Bob McLaughlin,"14,694",21.10
 1960,Idaho,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Compton I. White Jr.,"14,515",20.84
@@ -89,7 +87,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1960,Montana,Republican Primary results,Primary,Candidate,False,Republican Party (United States),Fred J. Martin,"2,804",4.19%
 1960,Montana,Republican Primary results,Primary,Candidate,False,Republican Party (United States),L. A. Wilson,"1,482",2.22%
 1960,Montana,Republican Primary results,Primary,Total,False,,,"66,905",100.00%
-1960,Nebraska,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Ralph G. Brooks,"41,777",42.34%
+1960,Nebraska,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Ralph Brooks,"41,777",42.34%
 1960,Nebraska,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Clair A. Callan,"34,052",34.51%
 1960,Nebraska,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Albert J. Baker,"14,355",14.55%
 1960,Nebraska,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Mike F. Kracher,"8,424",8.54%
@@ -133,27 +131,6 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1960,Oklahoma,Republican primary,Primary,Winning,False,Republican Party (United States),B. Hayden Crawford,"37,508",70.44%
 1960,Oklahoma,Republican primary,Primary,Candidate,False,Republican Party (United States),Herbert K. Hyde,"15,743",29.56%
 1960,Oklahoma,Republican primary,Primary,Total,False,,,"53,251",100.00%
-1960,Oregon (special),Democratic primary results,Primary,Winning,False,Democratic Party (United States),Maurine Neuberger,"211,961",77.88%
-1960,Oregon (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Harry C. Fowler,"28,032",10.30%
-1960,Oregon (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),William B. Murphy,"16,245",5.97%
-1960,Oregon (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Roscoe Imrie Conn,"7,164",2.63%
-1960,Oregon (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Fred O. Like,"5,352",1.97%
-1960,Oregon (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Daniel N. Cox,"3,142",1.15%
-1960,Oregon (special),Democratic primary results,Primary,Write-in,False,,,283,0.10%
-1960,Oregon (special),Democratic primary results,Primary,Total,False,,,"272,179",
-1960,Oregon (special),Democratic primary results,Primary,Winning,False,Democratic Party (United States),Maurine Neuberger,"244,865",99.49%
-1960,Oregon (special),Democratic primary results,Primary,Write-in,False,,,"1,249",0.51%
-1960,Oregon (special),Democratic primary results,Primary,Total,False,,,"246,114",
-1960,Oregon (special),Republican primary results,Primary,Winning,False,Republican Party (United States),Elmo Smith,"179,575",76.53%
-1960,Oregon (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),George Altvater,"20,438",8.71%
-1960,Oregon (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),R. F. Cook,"19,443",8.29%
-1960,Oregon (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),Thomas Killam,"14,490",6.18%
-1960,Oregon (special),Republican primary results,Primary,Write-in,False,,,701,0.30%
-1960,Oregon (special),Republican primary results,Primary,Total,False,,,"234,647",
-1960,Oregon (special),Republican primary results,Primary,Winning,False,Republican Party (United States),Elmo Smith,"201,024",85.52%
-1960,Oregon (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),George Altvater,"33,022",14.05%
-1960,Oregon (special),Republican primary results,Primary,Write-in,False,,,"1,013",0.43%
-1960,Oregon (special),Republican primary results,Primary,Total,False,,,"235,059",
 1960,Oregon,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Maurine Neuberger,"211,961",77.88%
 1960,Oregon,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Harry C. Fowler,"28,032",10.30%
 1960,Oregon,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),William B. Murphy,"16,245",5.97%
@@ -162,19 +139,19 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1960,Oregon,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Daniel N. Cox,"3,142",1.15%
 1960,Oregon,Democratic primary results,Primary,Write-in,False,,,283,0.10%
 1960,Oregon,Democratic primary results,Primary,Total,False,,,"272,179",
-1960,Oregon,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Maurine Neuberger,"244,865",99.49%
-1960,Oregon,Democratic primary results,Primary,Write-in,False,,,"1,249",0.51%
-1960,Oregon,Democratic primary results,Primary,Total,False,,,"246,114",
+1960,Oregon (special),Democratic primary results (special),Primary,Winning,False,Democratic Party (United States),Maurine Neuberger,"244,865",99.49%
+1960,Oregon (special),Democratic primary results (special),Primary,Write-in,False,,,"1,249",0.51%
+1960,Oregon (special),Democratic primary results (special),Primary,Total,False,,,"246,114",
 1960,Oregon,Republican primary results,Primary,Winning,False,Republican Party (United States),Elmo Smith,"179,575",76.53%
 1960,Oregon,Republican primary results,Primary,Candidate,False,Republican Party (United States),George Altvater,"20,438",8.71%
 1960,Oregon,Republican primary results,Primary,Candidate,False,Republican Party (United States),R. F. Cook,"19,443",8.29%
 1960,Oregon,Republican primary results,Primary,Candidate,False,Republican Party (United States),Thomas Killam,"14,490",6.18%
 1960,Oregon,Republican primary results,Primary,Write-in,False,,,701,0.30%
 1960,Oregon,Republican primary results,Primary,Total,False,,,"234,647",
-1960,Oregon,Republican primary results,Primary,Winning,False,Republican Party (United States),Elmo Smith,"201,024",85.52%
-1960,Oregon,Republican primary results,Primary,Candidate,False,Republican Party (United States),George Altvater,"33,022",14.05%
-1960,Oregon,Republican primary results,Primary,Write-in,False,,,"1,013",0.43%
-1960,Oregon,Republican primary results,Primary,Total,False,,,"235,059",
+1960,Oregon (special),Republican primary results (special),Primary,Winning,False,Republican Party (United States),Elmo Smith,"201,024",85.52%
+1960,Oregon (special),Republican primary results (special),Primary,Candidate,False,Republican Party (United States),George Altvater,"33,022",14.05%
+1960,Oregon (special),Republican primary results (special),Primary,Write-in,False,,,"1,013",0.43%
+1960,Oregon (special),Republican primary results (special),Primary,Total,False,,,"235,059",
 1960,Rhode Island,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Claiborne Pell,"83,184",61.33%
 1960,Rhode Island,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Dennis J. Roberts,"44,924",33.12%
 1960,Rhode Island,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),J. Howard McGrath,"7,535",5.56%

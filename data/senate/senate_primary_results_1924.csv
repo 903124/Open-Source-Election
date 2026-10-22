@@ -109,6 +109,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1924,Oklahoma,Farmer–Labor primary,Primary,Winning,False,George Wilson,Farmer–Labor Party,187,93.50%
 1924,Oklahoma,Farmer–Labor primary,Primary,Candidate,False,William L. Loe,Farmer–Labor Party,13,6.50%
 1924,Oklahoma,Farmer–Labor primary,Primary,Total,False,,,200,100.00%
+1924,South Carolina,Democratic Primary results,Primary,Winning,False,Coleman Livingston Blease,Democratic Party (United States),"83,738",41.8
+1924,South Carolina,Democratic Primary results,Primary,Candidate,False,James F. Byrnes,Democratic Party (United States),"67,727",33.8
+1924,South Carolina,Democratic Primary results,Primary,Candidate,True,Nathaniel B. Dial,Democratic Party (United States),"44,425",22.2
+1924,South Carolina,Democratic Primary results,Primary,Candidate,False,John J. McMahan,Democratic Party (United States),"4,530",2.2
+1924,South Carolina,Democratic Primary Runoff results,Primary,Winning,False,Coleman Livingston Blease,Democratic Party (United States),"100,738",50.6
+1924,South Carolina,Democratic Primary Runoff results,Primary,Candidate,False,James F. Byrnes,Democratic Party (United States),"98,467",49.4
 1924,South Dakota,Democratic primary,Primary,Winning,False,Ulysses Simpson Grant Cherry,Democratic Party (United States),"7,103",68.44%
 1924,South Dakota,Democratic primary,Primary,Candidate,False,Mark P. Bates,Democratic Party (United States),"3,276",31.56%
 1924,South Dakota,Democratic primary,Primary,Total,False,,,"10,379",100.00%

@@ -412,7 +412,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 1942,house,Montana,MT,2,,F. F. Haynes,Republican,,46.4,False,False,False
 1942,house,Montana,MT,2,,Earl McConnell,Socialist,,1.6,False,False,False
 1942,house,Nebraska,NE,1,,Carl Curtis,Republican,,66.6,True,False,False
-1942,house,Nebraska,NE,1,,Ralph G. Brooks,Democratic,,30.0,False,False,False
+1942,house,Nebraska,NE,1,,Ralph Brooks,Democratic,,30.0,False,False,False
 1942,house,Nebraska,NE,1,,Claude C. Earley,Independent,,3.4,False,False,False
 1942,house,Nebraska,NE,2,,Howard Buffett,Republican,,53.2,True,False,False
 1942,house,Nebraska,NE,2,,Charles F. McLaughlin,Democratic,,46.8,False,True,False

@@ -3,15 +3,21 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1946,Arizona,"United States Senate election in Arizona, 1946",General,Winning,True,Democratic Party (United States),Ernest McFarland,"80,415",69.18%
 1946,Arizona,"United States Senate election in Arizona, 1946",General,Candidate,False,Republican Party (United States),Ward S. Powers,"35,022",30.13%
 1946,Arizona,"United States Senate election in Arizona, 1946",General,Candidate,False,Communist Party (United States),Morris Graham,802,0.69%
+1946,California,General election results,General,Winning,False,Republican Party (United States),William F. Knowland (inc.),"1,428,067",54.10%
+1946,California,General election results,General,Candidate,False,Democratic Party (United States),Will Rogers Jr.,"1,167,161",44.22%
+1946,California,General election results,General,Candidate,False,Prohibition Party (US),Douglas Corrigan,"42,683",1.62%
+1946,California,General election results,General,Candidate,False,Socialist Labor Party (US),Herbert Steiner (write-in),156,0.01%
+1946,California,General election results,General,Total,False,,,"2,639,465",100.00%
+1946,California (special),1946 U.S. Senate special election in California,General,Total,False,,,"572,321",100.00%
 1946,Connecticut (special),1946 U.S. Senate special election in Connecticut,General,Winning,False,Republican Party (US),Raymond E. Baldwin,"378,707",55.77%
 1946,Connecticut (special),1946 U.S. Senate special election in Connecticut,General,Candidate,False,Democratic Party (US),Wilbur L. Cross,"278,188",40.97%
 1946,Connecticut (special),1946 U.S. Senate special election in Connecticut,General,Candidate,False,Socialist Party of America,Frederick C. Smedley,"22,164",3.26%
 1946,Connecticut (special),1946 U.S. Senate special election in Connecticut,General,Total,False,,,"679,059",100.00%
-1946,Connecticut (special),1946 U.S. Senate election in Connecticut,General,Winning,False,Republican Party (US),Raymond E. Baldwin,"381,328",55.84%
-1946,Connecticut (special),1946 U.S. Senate election in Connecticut,General,Candidate,False,Democratic Party (US),Joseph M. Tone,"276,424",40.48%
-1946,Connecticut (special),1946 U.S. Senate election in Connecticut,General,Candidate,False,Socialist Party of America,Frederick C. Smedley,"22,012",3.22%
-1946,Connecticut (special),1946 U.S. Senate election in Connecticut,General,Candidate,False,Socialist Labor Party of America,John W. Aiken,3.156,0.46%
-1946,Connecticut (special),1946 U.S. Senate election in Connecticut,General,Total,False,,,"682,920",100.00%
+1946,Connecticut,1946 U.S. Senate election in Connecticut,General,Winning,False,Republican Party (US),Raymond E. Baldwin,"381,328",55.84%
+1946,Connecticut,1946 U.S. Senate election in Connecticut,General,Candidate,False,Democratic Party (US),Joseph M. Tone,"276,424",40.48%
+1946,Connecticut,1946 U.S. Senate election in Connecticut,General,Candidate,False,Socialist Party of America,Frederick C. Smedley,"22,012",3.22%
+1946,Connecticut,1946 U.S. Senate election in Connecticut,General,Candidate,False,Socialist Labor Party of America,John W. Aiken,3.156,0.46%
+1946,Connecticut,1946 U.S. Senate election in Connecticut,General,Total,False,,,"682,920",100.00%
 1946,Delaware,1946 U.S. Senate election in Delaware,General,Winning,False,Republican Party (United States),John J. Williams,"62,603",55.15%
 1946,Delaware,1946 U.S. Senate election in Delaware,General,Candidate,True,Democratic Party (United States),James M. Tunnell,"50,910",44.85%
 1946,Delaware,1946 U.S. Senate election in Delaware,General,Total,False,,,"113,513",100.00%
@@ -69,6 +75,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1946,Nebraska,1946 United States Senate election in Nebraska,General,Winning,False,Republican Party (United States),Hugh A. Butler (inc.),"271,208",70.82%
 1946,Nebraska,1946 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (United States),John E. Mekota,"111,751",29.18%
 1946,Nebraska,1946 United States Senate election in Nebraska,General,Total,False,,,"382,958",100.00%
+1946,Nevada,1946 United States Senate election in Nevada,General,Winning,False,Republican Party (US),George W. Malone,"27,801",55.21
+1946,Nevada,1946 United States Senate election in Nevada,General,Candidate,False,Democratic Party (US),Berkeley L. Bunker,"22,553",44.79
 1946,New Jersey,1946 United States Senate election in New Jersey,General,Winning,True,Republican Party (US),H. Alexander Smith,"799,808",58.50%
 1946,New Jersey,1946 United States Senate election in New Jersey,General,Candidate,False,Democratic Party (US),George E. Brunner,"548,458",40.12%
 1946,New Jersey,1946 United States Senate election in New Jersey,General,Candidate,False,Socialist Labor Party of America,John C. Butterworth,"7,675",0.56%
@@ -87,20 +95,17 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1946,North Dakota (special),1946 United States Senate special election in North Dakota,General,Candidate,False,Democratic Party (United States),"P. W. ""Bill"" Lanier","37,507",27.41%
 1946,North Dakota (special),1946 United States Senate special election in North Dakota,General,Candidate,False,Independent (politician),Gerald Nye,"20,848",15.24%
 1946,North Dakota (special),1946 United States Senate special election in North Dakota,General,Candidate,False,Independent (politician),E. A. Johansson,"2,473",1.81%
-1946,Ohio (special),1946 U.S. Senate election in Ohio,General,Winning,False,Republican Party (United States),John W. Bricker,"1,275,774",57.02%
-1946,Ohio (special),1946 U.S. Senate election in Ohio,General,Candidate,True,Democratic Party (United States),James W. Huffman,"947,610",42.36%
-1946,Ohio (special),1946 U.S. Senate election in Ohio,General,Candidate,False,Socialist Party (United States),William Farkas,"13,885",0.62%
-1946,Ohio (special),1946 U.S. Senate election in Ohio,General,Total,False,,,"2,237,269",100.00%
-1946,Ohio (special),1946 U.S. Senate special election in Ohio,General,Winning,False,Republican Party (United States),Kingsley Taft,"1,193,852",56.22%
-1946,Ohio (special),1946 U.S. Senate special election in Ohio,General,Candidate,False,Democratic Party (United States),Henry P. Webber,"929,584",43.78%
-1946,Ohio (special),1946 U.S. Senate special election in Ohio,General,Total,False,,,"2,123,436",100.00%
 1946,Ohio,1946 U.S. Senate election in Ohio,General,Winning,False,Republican Party (United States),John W. Bricker,"1,275,774",57.02%
 1946,Ohio,1946 U.S. Senate election in Ohio,General,Candidate,True,Democratic Party (United States),James W. Huffman,"947,610",42.36%
 1946,Ohio,1946 U.S. Senate election in Ohio,General,Candidate,False,Socialist Party (United States),William Farkas,"13,885",0.62%
 1946,Ohio,1946 U.S. Senate election in Ohio,General,Total,False,,,"2,237,269",100.00%
-1946,Ohio,1946 U.S. Senate special election in Ohio,General,Winning,False,Republican Party (United States),Kingsley Taft,"1,193,852",56.22%
-1946,Ohio,1946 U.S. Senate special election in Ohio,General,Candidate,False,Democratic Party (United States),Henry P. Webber,"929,584",43.78%
-1946,Ohio,1946 U.S. Senate special election in Ohio,General,Total,False,,,"2,123,436",100.00%
+1946,Ohio (special),1946 U.S. Senate special election in Ohio,General,Winning,False,Republican Party (United States),Kingsley Taft,"1,193,852",56.22%
+1946,Ohio (special),1946 U.S. Senate special election in Ohio,General,Candidate,False,Democratic Party (United States),Henry P. Webber,"929,584",43.78%
+1946,Ohio (special),1946 U.S. Senate special election in Ohio,General,Total,False,,,"2,123,436",100.00%
+1946,Pennsylvania,General election results,General,Winning,False,Republican Party (US),Edward Martin,"1,853,458",59.26%
+1946,Pennsylvania,General election results,General,Candidate,False,Democratic Party (US),Joseph F. Guffey (inc.),"1,245,338",39.81%
+1946,Pennsylvania,General election results,General,Candidate,False,Prohibition Party (United States),Dale H. Learn,"17,451",0.56%
+1946,Pennsylvania,General election results,General,Candidate,False,Socialist Labor Party of America,Frank Knotek,"11,613",0.37%
 1946,Tennessee,1946 U.S. Senate election in Tennessee,General,Winning,True,Democratic Party (United States),Kenneth McKellar,"145,654",66.60%
 1946,Tennessee,1946 U.S. Senate election in Tennessee,General,Candidate,False,Republican Party (United States),William B. Ladd,"57,237",26.17%
 1946,Tennessee,1946 U.S. Senate election in Tennessee,General,Candidate,False,Independent (politician),John Randolph Neal Jr.,"11,516",5.27%

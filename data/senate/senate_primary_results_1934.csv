@@ -82,6 +82,38 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1934,Montana (special),Republican Primary results,Primary,Candidate,False,Republican Party (United States),Leonard C. Young,"6,202",11.45%
 1934,Montana (special),Republican Primary results,Primary,Candidate,False,Republican Party (United States),James A. Jergenson,"4,344",8.02%
 1934,Montana (special),Republican Primary results,Primary,Total,False,,,"54,175",100.00%
+1934,Nebraska,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Edward R. Burke,"123,833",61.35%
+1934,Nebraska,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Charles W. Bryan,"52,385",25.95%
+1934,Nebraska,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Willis E. Reed,"11,817",5.85%
+1934,Nebraska,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Floyd L. Bollen,"9,652",4.78%
+1934,Nebraska,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Anthony T. Monahan,"4,161",2.06%
+1934,Nebraska,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Scattering,14,0.01%
+1934,Nebraska,Democratic primary results,Primary,Total,False,,,"201,862",100.00%
+1934,Nebraska (special),Democratic special primary results,Primary,Winning,True,Democratic Party (United States),Richard C. Hunter,"99,426",67.41%
+1934,Nebraska (special),Democratic special primary results,Primary,Candidate,False,Democratic Party (United States),Albert W. Weichel,"48,050",32.58%
+1934,Nebraska (special),Democratic special primary results,Primary,Candidate,False,Democratic Party (United States),Scattering,10,0.01%
+1934,Nebraska (special),Democratic special primary results,Primary,Total,False,,,"147,486",100.00%
+1934,Nebraska,Republican primary,Primary,Winning,False,Republican Party (United States),Robert G. Simmons,"77,841",46.31%
+1934,Nebraska,Republican primary,Primary,Candidate,False,Republican Party (United States),Kenneth S. Wherry,"41,777",24.85%
+1934,Nebraska,Republican primary,Primary,Candidate,False,Republican Party (United States),Robert Smith,"34,067",20.27%
+1934,Nebraska,Republican primary,Primary,Candidate,False,Republican Party (United States),Barton Green,"10,683",6.36%
+1934,Nebraska,Republican primary,Primary,Candidate,False,Republican Party (United States),U. S. Renne,"3,718",2.21%
+1934,Nebraska,Republican primary,Primary,Candidate,False,Republican Party (United States),Scattering,15,0.01%
+1934,Nebraska,Republican primary,Primary,Total,False,,,"168,101",100.00%
+1934,Nebraska (special),Republican primary (special),Primary,Winning,False,Republican Party (United States),J. H. Kemp,"58,551",44.63%
+1934,Nebraska (special),Republican primary (special),Primary,Candidate,False,Republican Party (United States),Dana Van Dusen,"36,543",27.86%
+1934,Nebraska (special),Republican primary (special),Primary,Candidate,False,Republican Party (United States),J. S. Kroh,"23,926",18.24%
+1934,Nebraska (special),Republican primary (special),Primary,Candidate,False,Republican Party (United States),A. A. Rezac,"12,154",9.27%
+1934,Nebraska (special),Republican primary (special),Primary,Candidate,False,Republican Party (United States),Scattering,6,0.00%
+1934,Nebraska (special),Republican primary (special),Primary,Total,False,,,"131,180",100.00%
+1934,Nevada,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Key Pittman,"13,474",71.44
+1934,Nevada,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),H. R. Cooke,"4,334",22.98
+1934,Nevada,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Bob Moore,"1,053",5.58
+1934,Nevada,Democratic primary results,Primary,Total,False,,,"18,861",
+1934,Nevada,Republican primary results,Primary,Winning,False,Republican Party (United States),George W. Malone,"5,907",51.62
+1934,Nevada,Republican primary results,Primary,Candidate,False,Republican Party (United States),August C. Frolich,"2,806",24.52
+1934,Nevada,Republican primary results,Primary,Candidate,False,Republican Party (United States),Clyde D. Souter,"2,730",23.86
+1934,Nevada,Republican primary results,Primary,Total,False,,,"11,443",
 1934,New Jersey,1934 Republican U.S. Senate primary,Primary,Winning,False,Republican Party (US),Hamilton Fish Kean (inc.),"321,890",73.36%
 1934,New Jersey,1934 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (US),James Blauvelt,"116,886",26.64%
 1934,New Jersey,1934 Republican U.S. Senate primary,Primary,Total,False,,,"438,776",100.00%
@@ -136,3 +168,15 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1934,Wisconsin,1934 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),William D. Carroll,"29,137",14.53%
 1934,Wisconsin,1934 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Gertrude Bowler,"25,785",12.86%
 1934,Wisconsin,1934 Democratic U.S. Senate primary,Primary,Total,False,,,"200,492",100.00%
+1934,Wyoming,Democratic primary,Primary,Winning,False,Democratic Party (United States),Joseph C. O'Mahoney (inc.),"25,012",100.00%
+1934,Wyoming,Democratic primary,Primary,Total,False,,,"25,012",100.00%
+1934,Wyoming (special),Special Democratic primary,Primary,Winning,False,Democratic Party (United States),Joseph C. O'Mahoney (inc.),"25,088",100.00%
+1934,Wyoming (special),Special Democratic primary,Primary,Total,False,,,"25,088",100.00%
+1934,Wyoming,Republican primary,Primary,Winning,False,Republican Party (United States),Vincent Carter,"19,842",57.58%
+1934,Wyoming,Republican primary,Primary,Candidate,False,Republican Party (United States),J. Elmer Brock,"6,844",19.86%
+1934,Wyoming,Republican primary,Primary,Candidate,False,Republican Party (United States),Harry P. Ilsley,"6,683",19.39%
+1934,Wyoming,Republican primary,Primary,Candidate,False,Republican Party (United States),M. A. Underwood,"1,093",3.17%
+1934,Wyoming,Republican primary,Primary,Total,False,,,"34,462",100.00%
+1934,Wyoming (special),Special Republican primary,Primary,Winning,False,Republican Party (United States),Vincent Carter,"23,112",70.38%
+1934,Wyoming (special),Special Republican primary,Primary,Candidate,False,Republican Party (United States),J. Elmer Brock,"9,728",29.62%
+1934,Wyoming (special),Special Republican primary,Primary,Total,False,,,"32,840",100.00%

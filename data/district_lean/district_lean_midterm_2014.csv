@@ -11,15 +11,15 @@ year,map_vintage,state,state_code,district,district_note,at_large,statewide_base
 2014,2010s,Arkansas,AR,AR-02,,False,False,2,senate; governor,1,1,0,686289,949248,60560,1696097,41.96,58.04,48.42,-4.24,R+4.2,-0.87,-5.62,-6.22,0.334,0.333,0.333,house+statewide+senate
 2014,2010s,Arkansas,AR,AR-03,,False,True,2,senate; governor,1,1,0,686289,949248,60560,1696097,41.96,58.04,48.42,-5.92,R+5.9,,-5.62,-6.22,0.0,0.5,0.5,statewide+senate
 2014,2010s,Arkansas,AR,AR-04,,False,False,2,senate; governor,1,1,0,686289,949248,60560,1696097,41.96,58.04,48.42,-4.72,R+4.7,-2.33,-5.62,-6.22,0.334,0.333,0.333,house+statewide+senate
-2014,2010s,Arizona,AZ,AZ-01,,False,False,48,governor; state senate; state house,0,1,47,1791447,2574108,103173,4468728,41.04,58.96,48.42,-0.65,R+0.6,6.09,-7.39,,0.5,0.5,0.0,house+statewide
-2014,2010s,Arizona,AZ,AZ-02,,False,False,48,governor; state senate; state house,0,1,47,1791447,2574108,103173,4468728,41.04,58.96,48.42,-1.97,R+2.0,3.44,-7.39,,0.5,0.5,0.0,house+statewide
-2014,2010s,Arizona,AZ,AZ-03,,False,False,48,governor; state senate; state house,0,1,47,1791447,2574108,103173,4468728,41.04,58.96,48.42,0.9,D+0.9,9.19,-7.39,,0.5,0.5,0.0,house+statewide
-2014,2010s,Arizona,AZ,AZ-04,,False,False,48,governor; state senate; state house,0,1,47,1791447,2574108,103173,4468728,41.04,58.96,48.42,-13.48,R+13.5,-19.58,-7.39,,0.5,0.5,0.0,house+statewide
-2014,2010s,Arizona,AZ,AZ-05,,False,False,48,governor; state senate; state house,0,1,47,1791447,2574108,103173,4468728,41.04,58.96,48.42,-11.74,R+11.7,-16.1,-7.39,,0.5,0.5,0.0,house+statewide
-2014,2010s,Arizona,AZ,AZ-06,,False,False,48,governor; state senate; state house,0,1,47,1791447,2574108,103173,4468728,41.04,58.96,48.42,-9.4,R+9.4,-11.41,-7.39,,0.5,0.5,0.0,house+statewide
-2014,2010s,Arizona,AZ,AZ-07,,False,True,48,governor; state senate; state house,0,1,47,1791447,2574108,103173,4468728,41.04,58.96,48.42,-7.39,R+7.4,,-7.39,,0.0,1.0,0.0,statewide
-2014,2010s,Arizona,AZ,AZ-08,,False,True,48,governor; state senate; state house,0,1,47,1791447,2574108,103173,4468728,41.04,58.96,48.42,-7.39,R+7.4,,-7.39,,0.0,1.0,0.0,statewide
-2014,2010s,Arizona,AZ,AZ-09,,False,False,48,governor; state senate; state house,0,1,47,1791447,2574108,103173,4468728,41.04,58.96,48.42,1.36,D+1.4,10.12,-7.39,,0.5,0.5,0.0,house+statewide
+2014,2010s,Arizona,AZ,AZ-01,,False,False,48,governor; state senate; state house,0,1,47,1791447,2574065,103216,4468728,41.04,58.96,48.42,-0.65,R+0.6,6.09,-7.39,,0.5,0.5,0.0,house+statewide
+2014,2010s,Arizona,AZ,AZ-02,,False,False,48,governor; state senate; state house,0,1,47,1791447,2574065,103216,4468728,41.04,58.96,48.42,-1.97,R+2.0,3.44,-7.39,,0.5,0.5,0.0,house+statewide
+2014,2010s,Arizona,AZ,AZ-03,,False,False,48,governor; state senate; state house,0,1,47,1791447,2574065,103216,4468728,41.04,58.96,48.42,0.9,D+0.9,9.19,-7.39,,0.5,0.5,0.0,house+statewide
+2014,2010s,Arizona,AZ,AZ-04,,False,False,48,governor; state senate; state house,0,1,47,1791447,2574065,103216,4468728,41.04,58.96,48.42,-13.48,R+13.5,-19.58,-7.39,,0.5,0.5,0.0,house+statewide
+2014,2010s,Arizona,AZ,AZ-05,,False,False,48,governor; state senate; state house,0,1,47,1791447,2574065,103216,4468728,41.04,58.96,48.42,-11.74,R+11.7,-16.1,-7.39,,0.5,0.5,0.0,house+statewide
+2014,2010s,Arizona,AZ,AZ-06,,False,False,48,governor; state senate; state house,0,1,47,1791447,2574065,103216,4468728,41.04,58.96,48.42,-9.4,R+9.4,-11.41,-7.39,,0.5,0.5,0.0,house+statewide
+2014,2010s,Arizona,AZ,AZ-07,,False,True,48,governor; state senate; state house,0,1,47,1791447,2574065,103216,4468728,41.04,58.96,48.42,-7.39,R+7.4,,-7.39,,0.0,1.0,0.0,statewide
+2014,2010s,Arizona,AZ,AZ-08,,False,True,48,governor; state senate; state house,0,1,47,1791447,2574065,103216,4468728,41.04,58.96,48.42,-7.39,R+7.4,,-7.39,,0.0,1.0,0.0,statewide
+2014,2010s,Arizona,AZ,AZ-09,,False,False,48,governor; state senate; state house,0,1,47,1791447,2574065,103216,4468728,41.04,58.96,48.42,1.36,D+1.4,10.12,-7.39,,0.5,0.5,0.0,house+statewide
 2014,2010s,California,CA,CA-01,,False,False,1,governor,0,1,0,4388368,2929213,0,7317581,59.97,40.03,48.42,2.0,D+2.0,-7.55,11.55,,0.5,0.5,0.0,house+statewide
 2014,2010s,California,CA,CA-02,,False,False,1,governor,0,1,0,4388368,2929213,0,7317581,59.97,40.03,48.42,20.01,D+20.0,28.48,11.55,,0.5,0.5,0.0,house+statewide
 2014,2010s,California,CA,CA-03,,False,False,1,governor,0,1,0,4388368,2929213,0,7317581,59.97,40.03,48.42,8.87,D+8.9,6.2,11.55,,0.5,0.5,0.0,house+statewide
@@ -165,7 +165,7 @@ year,map_vintage,state,state_code,district,district_note,at_large,statewide_base
 2014,2010s,Indiana,IN,IN-09,,False,False,0,,0,0,0,0,0,0,0,,,48.42,-11.39,R+11.4,-11.39,,,1.0,0.0,0.0,house
 2014,2010s,Kansas,KS,KS-01,,False,False,1,governor,0,1,0,401100,433196,35206,869502,48.08,51.92,48.42,-7.42,R+7.4,-14.49,-0.35,,0.5,0.5,0.0,house+statewide
 2014,2010s,Kansas,KS,KS-02,,False,False,1,governor,0,1,0,401100,433196,35206,869502,48.08,51.92,48.42,-3.25,R+3.3,-6.15,-0.35,,0.5,0.5,0.0,house+statewide
-2014,2010s,Kansas,KS,KS-03,,False,False,1,governor,0,1,0,401100,433196,35206,869502,48.08,51.92,48.42,-3.44,R+3.4,-6.54,-0.35,,0.5,0.5,0.0,house+statewide
+2014,2010s,Kansas,KS,KS-03,,False,False,1,governor,0,1,0,401100,433196,35206,869502,48.08,51.92,48.42,-3.45,R+3.4,-6.54,-0.35,,0.5,0.5,0.0,house+statewide
 2014,2010s,Kansas,KS,KS-04,,False,False,1,governor,0,1,0,401100,433196,35206,869502,48.08,51.92,48.42,-6.77,R+6.8,-13.18,-0.35,,0.5,0.5,0.0,house+statewide
 2014,2010s,Kentucky,KY,KY-01,,False,False,62,senate; state senate; state house,1,0,61,1111610,1385065,48927,2545602,44.52,55.48,48.42,-8.56,R+8.6,-19.63,-0.75,-5.31,0.334,0.333,0.333,house+statewide+senate
 2014,2010s,Kentucky,KY,KY-02,,False,False,62,senate; state senate; state house,1,0,61,1111610,1385065,48927,2545602,44.52,55.48,48.42,-7.25,R+7.3,-15.71,-0.75,-5.31,0.334,0.333,0.333,house+statewide+senate

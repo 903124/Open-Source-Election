@@ -3,15 +3,15 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,Alabama,AL,governor,1974 Alabama gubernatorial election,Candidate,Elvin McCary,Republican,88381,14.77,False,False
 1974,Alabama,AL,governor,1974 Alabama gubernatorial election,Candidate,Jim Partain,Prohibition,12350,2.06,False,False
 1974,Alabama,AL,governor,1974 Alabama gubernatorial election,Total,,,598305,100.0,False,False
-1974,Alaska,AK,governor,Open Primary Result,Winning,Jay Hammond,Republican,28602,34.47,True,False
-1974,Alaska,AK,governor,Open Primary Result,Winning,Bill Egan (inc.),Democratic,20356,24.53,True,False
-1974,Alaska,AK,governor,Open Primary Result,Candidate,Wally Hickel,Republican,20728,24.98,False,False
-1974,Alaska,AK,governor,Open Primary Result,Candidate,Keith Harvey Miller,Republican,10864,13.09,False,False
-1974,Alaska,AK,governor,Open Primary Result,Candidate,Don Wright,Democratic,1063,1.28,False,False
-1974,Alaska,AK,governor,Open Primary Result,Candidate,Eben Hopson,Democratic,951,1.15,False,False
-1974,Alaska,AK,governor,Open Primary Result,Candidate,Donn Hopkins,Republican,269,0.32,False,False
-1974,Alaska,AK,governor,Open Primary Result,Candidate,James R. Russell,Republican,144,0.17,False,False
-1974,Alaska,AK,governor,Open Primary Result,Total,,,82977,100.0,False,False
+1974,Alaska,AK,governor,Open primary result,Winning,Jay Hammond,Republican,28602,34.47,True,False
+1974,Alaska,AK,governor,Open primary result,Winning,Bill Egan (inc.),Democratic,20356,24.53,True,False
+1974,Alaska,AK,governor,Open primary result,Candidate,Wally Hickel,Republican,20728,24.98,False,False
+1974,Alaska,AK,governor,Open primary result,Candidate,Keith Harvey Miller,Republican,10864,13.09,False,False
+1974,Alaska,AK,governor,Open primary result,Candidate,Don Wright,Democratic,1063,1.28,False,False
+1974,Alaska,AK,governor,Open primary result,Candidate,Eben Hopson,Democratic,951,1.15,False,False
+1974,Alaska,AK,governor,Open primary result,Candidate,Donn Hopkins,Republican,269,0.32,False,False
+1974,Alaska,AK,governor,Open primary result,Candidate,James R. Russell,Republican,144,0.17,False,False
+1974,Alaska,AK,governor,Open primary result,Total,,,82977,100.0,False,False
 1974,Alaska,AK,governor,1974 Alaska gubernatorial election,Winning,Jay Hammond,Republican,45840,47.67,True,False
 1974,Alaska,AK,governor,1974 Alaska gubernatorial election,Candidate,Bill Egan (inc.),Democratic,45553,47.37,False,False
 1974,Alaska,AK,governor,1974 Alaska gubernatorial election,Candidate,Joe Vogler,Independence,4770,4.96,False,False
@@ -23,7 +23,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,Arkansas,AR,governor,1974 Arkansas gubernatorial election,Winning,David Pryor,Democratic,358018,65.57,True,False
 1974,Arkansas,AR,governor,1974 Arkansas gubernatorial election,Candidate,Ken Coon,Republican,187872,34.41,False,False
 1974,Arkansas,AR,governor,1974 Arkansas gubernatorial election,Candidate,Joseph H. Weston,Write-in,84,0.02,False,False
-1974,California,CA,governor,1974 California gubernatorial election,Winning,Edmund G. Brown Jr.,Democratic,3131648,50.12,True,False
+1974,California,CA,governor,1974 California gubernatorial election,Winning,Jerry Brown,Democratic,3131648,50.12,True,False
 1974,California,CA,governor,1974 California gubernatorial election,Candidate,Houston I. Flournoy,Republican,2952954,47.26,False,False
 1974,California,CA,governor,1974 California gubernatorial election,Candidate,Edmon V. Kaiser,Independent,83869,1.34,False,False
 1974,California,CA,governor,1974 California gubernatorial election,Candidate,Elizabeth Keathley,Freedom,75004,1.2,False,False
@@ -109,7 +109,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,New York,NY,governor,"New York gubernatorial election, 1974",Candidate,Wayne S. Amato,Courage,12459,0.24,False,False
 1974,New York,NY,governor,"New York gubernatorial election, 1974",Candidate,Jerome Tuccille,Libertarian,10503,0.2,False,False
 1974,New York,NY,governor,"New York gubernatorial election, 1974",Candidate,Derrick Morrison,Workers,8857,0.17,False,False
-1974,New York,NY,governor,"New York gubernatorial election, 1974",Candidate,Jose A. Ristorrucci,Communist Party Usa,5232,0.24,False,False
+1974,New York,NY,governor,"New York gubernatorial election, 1974",Candidate,Jose A. Ristorrucci,Communist Party Usa,5232,0.1,False,False
 1974,New York,NY,governor,"New York gubernatorial election, 1974",Candidate,John Emanuel,Labor,4574,0.09,False,False
 1974,New York,NY,governor,"New York gubernatorial election, 1974",Candidate,Anton Chaitkin,U.s. Labor,3151,0.06,False,False
 1974,Ohio,OH,governor,1974 Ohio gubernatorial election,Winning,Jim Rhodes,Republican,1493679,48.62,True,False
@@ -124,10 +124,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,Oregon,OR,governor,1974 Oregon gubernatorial election,Total,,,770574,100.0,False,False
 1974,Rhode Island,RI,governor,1974 Rhode Island gubernatorial election,Winning,Philip Noel,Democratic,252436,78.48,True,True
 1974,Rhode Island,RI,governor,1974 Rhode Island gubernatorial election,Candidate,James W. Nugent,Republican,69224,21.52,False,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Winning,James B. Edwards,Republican,266338,50.34,True,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,W.J. Bryan Dorn,Democratic,248861,47.04,False,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,Peggy Jennings,Independent,8313,1.57,False,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,Write-Ins,No,5528,1.05,False,False
+1974,South Carolina,SC,governor,"South Carolina gubernatorial election, 1974",Winning,James B. Edwards,Republican,266338,50.34,True,False
+1974,South Carolina,SC,governor,"South Carolina gubernatorial election, 1974",Candidate,W.J. Bryan Dorn,Democratic,248861,47.04,False,False
+1974,South Carolina,SC,governor,"South Carolina gubernatorial election, 1974",Candidate,Peggy Jennings,Independent,8313,1.57,False,False
+1974,South Carolina,SC,governor,"South Carolina gubernatorial election, 1974",Candidate,Write-Ins,No,5528,1.05,False,False
 1974,South Dakota,SD,governor,"South Dakota gubernatorial election, 1974",Winning,Richard F. Kneip (inc.),Democratic,149151,53.61,True,False
 1974,South Dakota,SD,governor,"South Dakota gubernatorial election, 1974",Candidate,John E. Olson,Republican,129077,46.39,False,False
 1974,South Dakota,SD,governor,"South Dakota gubernatorial election, 1974",Total,,,278228,100.0,False,False
@@ -139,12 +139,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,Tennessee,TN,governor,1974 Tennessee gubernatorial election,Candidate,Hubert David Patty,Independent,845,0.08,False,False
 1974,Tennessee,TN,governor,1974 Tennessee gubernatorial election,Candidate,Arnold Joseph Zandi,Independent,784,0.08,False,False
 1974,Tennessee,TN,governor,1974 Tennessee gubernatorial election,Write-in,Write-in,Write-in,30,0.0,False,False
-1974,Texas,TX,governor,General Election Results,Winning,Dolph Briscoe (Inc.),Democratic,1016334,61.41,True,False
-1974,Texas,TX,governor,General Election Results,Candidate,Jim Granberry,Republican,514725,31.07,False,False
-1974,Texas,TX,governor,General Election Results,Candidate,Ramsey Muniz,Unida,93295,5.63,False,False
-1974,Texas,TX,governor,General Election Results,Candidate,S. W. McDonnell,Independent,22208,1.34,False,False
-1974,Texas,TX,governor,General Election Results,Candidate,Sherry Smith,Workers,8171,0.49,False,False
-1974,Texas,TX,governor,General Election Results,Total,,,1654984,100.0,False,False
+1974,Texas,TX,governor,General election results,Winning,Dolph Briscoe (Inc.),Democratic,1016334,61.41,True,False
+1974,Texas,TX,governor,General election results,Candidate,Jim Granberry,Republican,514725,31.07,False,False
+1974,Texas,TX,governor,General election results,Candidate,Ramsey Muniz,Unida,93295,5.63,False,False
+1974,Texas,TX,governor,General election results,Candidate,S. W. McDonnell,Independent,22208,1.34,False,False
+1974,Texas,TX,governor,General election results,Candidate,Sherry Smith,Workers,8171,0.49,False,False
+1974,Texas,TX,governor,General election results,Total,,,1654984,100.0,False,False
 1974,Vermont,VT,governor,1974 Vermont gubernatorial election,Candidate,Thomas P. Salmon,Democratic,77254,54.7,False,False
 1974,Vermont,VT,governor,1974 Vermont gubernatorial election,Candidate,Thomas P. Salmon (inc.),Total,79842,56.5,False,False
 1974,Vermont,VT,governor,1974 Vermont gubernatorial election,Candidate,Walter L. Kennedy,Republican,53672,38.1,False,False

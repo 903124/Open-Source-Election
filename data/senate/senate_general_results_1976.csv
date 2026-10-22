@@ -97,10 +97,20 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1976,Ohio,General election results,General,Candidate,False,Independent (United States),John O'Neill,"53,657",1.37%
 1976,Ohio,General election results,General,Candidate,False,Independent (United States),Emma Lila Fundaburk,"33,285",0.85%
 1976,Ohio,General election results,General,Candidate,False,Socialist Workers Party (United States),Melissa Singler,"31,805",0.81%
+1976,Pennsylvania,1976 U.S. Senate election in Pennsylvania,General,Winning,False,Republican Party (United States),H. John Heinz III,"2,381,891",52.39%
+1976,Pennsylvania,1976 U.S. Senate election in Pennsylvania,General,Candidate,False,Democratic Party (United States),William J. Green III,"2,126,977",46.79%
+1976,Pennsylvania,1976 U.S. Senate election in Pennsylvania,General,Candidate,False,Constitution Party (United States),Andrew J. Watson,"26,028",0.57%
+1976,Pennsylvania,1976 U.S. Senate election in Pennsylvania,General,Candidate,False,Socialist Workers Party (United States),Frederick W. Stanton,"5,484",0.12%
+1976,Pennsylvania,1976 U.S. Senate election in Pennsylvania,General,Total,False,,,"4,546,353",100.00%
 1976,Rhode Island,General election results,General,Winning,False,Republican Party (United States),John Chafee,"230,329",57.74
 1976,Rhode Island,General election results,General,Candidate,False,Democratic Party (United States),Richard P. Lorber,"167,665",42.03
 1976,Rhode Island,General election results,General,Candidate,False,Communist Party USA,Margaret Cann,912,0.23
 1976,Rhode Island,General election results,General,Total,False,,,"398,906",100.00
+1976,Tennessee,General election results,General,Winning,False,Democratic Party (US),James Sasser,"751,180",52.46
+1976,Tennessee,General election results,General,Candidate,True,Republican Party (US),Bill Brock,"673,231",47.01
+1976,Tennessee,General election results,General,Candidate,False,Independent (politician),Mark Clark Bates,"5,137",0.36
+1976,Tennessee,General election results,General,Candidate,False,Independent (politician),Willie C. Jacox,"1,406",0.10
+1976,Tennessee,General election results,General,Candidate,False,Independent (politician),Arnold Joseph Zandie,"1,061",0.07
 1976,Texas,General election results,General,Winning,True,Democratic Party (United States),Lloyd Bentsen,"2,199,956",56.78%
 1976,Texas,General election results,General,Candidate,False,Republican Party (United States),Alan Steelman,"1,636,370",42.24%
 1976,Texas,General election results,General,Candidate,False,Socialist Workers Party (United States),Pedro Vasquez,"20,549",0.53%

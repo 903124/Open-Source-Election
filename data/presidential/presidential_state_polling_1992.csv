@@ -1,0 +1,8 @@
+Year,Scope,State,State_Code,Matchup,Poll_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+1992,State,Texas,TX,,General,The Dallas Morning News,1992-10-19 to 1992-10-22,1992-10-19,1992-10-22,"1,071 LV",3.5,George Bush,R,38%,False,"October 19–22, 1992"
+1992,State,Texas,TX,,General,Houston Chronicle,1992-10-20 to 1992-10-22,1992-10-20,1992-10-22,703 RV,4.0,George Bush,R,31%,False,"October 20–22, 1992"
+1992,State,Texas,TX,,General,The Dallas Morning News,1992-10-19 to 1992-10-22,1992-10-19,1992-10-22,"1,071 LV",3.5,Bill Clinton,D,36%,False,"October 19–22, 1992"
+1992,State,Texas,TX,,General,Houston Chronicle,1992-10-20 to 1992-10-22,1992-10-20,1992-10-22,703 RV,4.0,Bill Clinton,D,39%,False,"October 20–22, 1992"
+1992,State,Texas,TX,,General,The Dallas Morning News,1992-10-19 to 1992-10-22,1992-10-19,1992-10-22,"1,071 LV",3.5,Ross Perot,I,20%,False,"October 19–22, 1992"
+1992,State,Texas,TX,,General,Houston Chronicle,1992-10-20 to 1992-10-22,1992-10-20,1992-10-22,703 RV,4.0,Ross Perot,I,15%,False,"October 20–22, 1992"
+1992,State,Texas,TX,,General,Houston Chronicle,1992-10-20 to 1992-10-22,1992-10-20,1992-10-22,703 RV,4.0,Andre Marrou,L,1%,False,"October 20–22, 1992"

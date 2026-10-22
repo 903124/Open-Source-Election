@@ -63,6 +63,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1948,Nebraska,1948 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (United States),Terry Carpenter,"204,320",43.27%
 1948,Nebraska,1948 United States Senate election in Nebraska,General,Write-in,False,,,261,0.06%
 1948,Nebraska,1948 United States Senate election in Nebraska,General,Total,False,,,"472,156",100.00%
+1948,New Hampshire,1948 U.S. Senate election in New Hampshire,General,Winning,True,Republican Party (US),Styles Bridges,"129,600",58.14%
+1948,New Hampshire,1948 U.S. Senate election in New Hampshire,General,Candidate,False,Democratic Party (US),Alfred E. Fortin,"91,760",41.17%
+1948,New Hampshire,1948 U.S. Senate election in New Hampshire,General,Candidate,False,"Progressive Party (United States, 1948)",John G. Rideout,"1,538",0.69%
+1948,New Hampshire,1948 U.S. Senate election in New Hampshire,General,Total,False,,,"222,898",100.00%
 1948,New Jersey,1948 United States Senate election in New Jersey,General,Winning,False,Republican Party (US),Robert C. Hendrickson,"934,720",49.99%
 1948,New Jersey,1948 United States Senate election in New Jersey,General,Candidate,False,Democratic Party (US),Archibald S. Alexander,"884,414",47.30%
 1948,New Jersey,1948 United States Senate election in New Jersey,General,Candidate,False,"Progressive Party (US, 1948)",James Imbrie,"22,658",1.21%
@@ -70,6 +74,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1948,New Jersey,1948 United States Senate election in New Jersey,General,Candidate,False,Socialist Workers Party (US),George Breitman,"8,076",0.43%
 1948,New Jersey,1948 United States Senate election in New Jersey,General,Candidate,False,Prohibition Party (US),George W. Rideout,"4,656",0.25%
 1948,New Jersey,1948 United States Senate election in New Jersey,General,Candidate,False,Socialist Labor Party of America,George E. Bopp,"3,908",0.21%
+1948,North Carolina (special),1948 United States Senate Special election in North Carolina,General,Winning,False,Democratic Party (US),J. Melville Broughton,"534,917",100.00
+1948,North Carolina,1948 United States Senate election in North Carolina,General,Winning,False,Democratic Party (US),J. Melville Broughton,"540,762",70.73
+1948,North Carolina,1948 United States Senate election in North Carolina,General,Candidate,False,Republican Party (US),John A. Wilkinson,"220,307",28.81
+1948,North Carolina,1948 United States Senate election in North Carolina,General,Candidate,False,"Progressive Party (United States, 1948–1955)",William T. Brown,"3,490",0.46
 1948,Oklahoma,1948 United States Senate election in Oklahoma,General,Winning,False,Democratic Party (United States),Robert S. Kerr,"441,654",62.30%
 1948,Oklahoma,1948 United States Senate election in Oklahoma,General,Candidate,False,Republican Party (United States),Ross Rizley,"265,169",37.40%
 1948,Oklahoma,1948 United States Senate election in Oklahoma,General,Candidate,False,Independent (politician),W. O. Pratt,"2,108",0.30%

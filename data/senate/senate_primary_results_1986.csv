@@ -126,6 +126,20 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1986,New Hampshire,Republican primary results,Primary,Winning,False,Warren Rudman (inc.),Republican Party (United States),"52,003",97.89%
 1986,New Hampshire,Republican primary results,Primary,Candidate,False,Write-ins,Republican Party (United States),"1,121",2.11%
 1986,New Hampshire,Republican primary results,Primary,Total,False,,,"53,124",100.00%
+1986,North Carolina,Democratic primary results,Primary,Winning,False,Terry Sanford,Democratic Party (United States),"409,394",60.25%
+1986,North Carolina,Democratic primary results,Primary,Candidate,False,John Ingram,Democratic Party (United States),"111,557",16.42%
+1986,North Carolina,Democratic primary results,Primary,Candidate,False,Fountain Odom,Democratic Party (United States),"49,689",7.31%
+1986,North Carolina,Democratic primary results,Primary,Candidate,False,William Belk,Democratic Party (United States),"33,821",4.98%
+1986,North Carolina,Democratic primary results,Primary,Candidate,False,Theodore Kinney,Democratic Party (United States),"27,228",4.01%
+1986,North Carolina,Democratic primary results,Primary,Candidate,False,Betty Wallace,Democratic Party (United States),"17,001",2.50%
+1986,North Carolina,Democratic primary results,Primary,Candidate,False,Katherine Harper,Democratic Party (United States),"12,998",1.91%
+1986,North Carolina,Democratic primary results,Primary,Candidate,False,Walt Atkins,Democratic Party (United States),"8,306",1.22%
+1986,North Carolina,Democratic primary results,Primary,Candidate,False,Others,Democratic Party (United States),"9,493",1.40%
+1986,North Carolina,Democratic primary results,Primary,Total,False,,,"679,487",100.00%
+1986,North Carolina,Republican primary results,Primary,Winning,True,Jim Broyhill,Republican Party (United States),"139,570",66.52%
+1986,North Carolina,Republican primary results,Primary,Candidate,False,David Funderburk,Republican Party (United States),"63,593",30.31%
+1986,North Carolina,Republican primary results,Primary,Candidate,False,Glenn Miller,Republican Party (United States),"6,662",3.18%
+1986,North Carolina,Republican primary results,Primary,Total,False,,,"148,574",100.00%
 1986,Oklahoma,Democratic primary,Primary,Winning,False,James R. Jones,Democratic Party (United States),"324,907",67.40
 1986,Oklahoma,Democratic primary,Primary,Candidate,False,George Gentry,Democratic Party (United States),"157,141",32.60
 1986,Oklahoma,Democratic primary,Primary,Total,False,,,"482,048",100
@@ -139,6 +153,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1986,Oregon,"Republican primary for the United States Senate from Oregon, 1986",Primary,Candidate,False,Joe Lutz,Republican Party (United States),"126,315",42.32%
 1986,Oregon,"Republican primary for the United States Senate from Oregon, 1986",Primary,Candidate,False,miscellaneous,Republican Party (United States),166,0.06%
 1986,Oregon,"Republican primary for the United States Senate from Oregon, 1986",Primary,Total,False,,,"298,466",100.00%
+1986,South Carolina,Republican Primary results,Primary,Winning,False,Henry McMaster,Republican Party (United States),"27,695",53.4%
+1986,South Carolina,Republican Primary results,Primary,Candidate,False,Henry Jordan,Republican Party (United States),"24,164",46.6%
 1986,South Dakota,Republican primary results,Primary,Winning,True,James Abdnor,Republican Party (United States),"63,414",54.51%
 1986,South Dakota,Republican primary results,Primary,Candidate,False,Bill Janklow,Republican Party (United States),"52,924",45.49%
 1986,South Dakota,Republican primary results,Primary,Total,False,,,"116,338",100.00%

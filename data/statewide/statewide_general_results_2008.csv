@@ -27,6 +27,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2008,North Dakota,ND,governor,"North Dakota gubernatorial election, 2008",Winning,John Hoeven,Republican,235009,74.44,True,True
 2008,North Dakota,ND,governor,"North Dakota gubernatorial election, 2008",Candidate,Tim Mathern,North Dakota Democratic-npl,74279,23.53,False,False
 2008,North Dakota,ND,governor,"North Dakota gubernatorial election, 2008",Candidate,DuWayne Hendrickson,Independent,6404,2.03,False,False
+2008,North Dakota,ND,governor,"North Dakota gubernatorial election, 2008",Total,,,315692,100.0,False,False
 2008,Utah,UT,governor,2008 Utah gubernatorial election,Winning,Jon Huntsman Jr.,Republican,735049,77.63,True,True
 2008,Utah,UT,governor,2008 Utah gubernatorial election,Candidate,Bob Springmeyer,Democratic,186503,19.72,False,False
 2008,Utah,UT,governor,2008 Utah gubernatorial election,Candidate,Dell Schanze,Libertarian,24820,2.62,False,False

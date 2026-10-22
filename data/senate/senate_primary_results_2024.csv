@@ -9,6 +9,49 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2024,Arizona,Green primary results,Primary,Candidate,False,Mike Norton,Green Party of the United States,180,31.58%
 2024,Arizona,Green primary results,Primary,Candidate,False,Arturo Hernandez,Green Party of the United States,108,18.95%
 2024,Arizona,Green primary results,Primary,Total,False,,,570,100.0%
+2024,California,Regular blanket primary results,Primary,Winning,False,Adam Schiff,Democratic Party (United States),"2,304,829",31.57%
+2024,California,Regular blanket primary results,Primary,Winning,False,Steve Garvey,Republican Party (United States),"2,301,351",31.52%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Katie Porter,Democratic Party (United States),"1,118,429",15.32%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Barbara Lee,Democratic Party (United States),"717,129",9.82%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Eric Early,Republican Party (United States),"242,055",3.32%
+2024,California,Regular blanket primary results,Primary,Candidate,False,James Bradley,Republican Party (United States),"98,778",1.35%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Christina Pascucci,Democratic Party (United States),"61,998",0.85%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Sharleta Bassett,Republican Party (United States),"54,884",0.75%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Sarah Sun Liew,Republican Party (United States),"38,718",0.53%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Laura Garza,No party preference,"34,529",0.47%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Jonathan Reiss,Republican Party (United States),"34,400",0.47%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Sepi Gilani,Democratic Party (United States),"34,316",0.47%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Gail Lightfoot,Libertarian Party (United States),"33,295",0.46%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Denice Gary-Pandol,Republican Party (United States),"25,649",0.35%
+2024,California,Regular blanket primary results,Primary,Candidate,False,James Macauley,Republican Party (United States),"23,296",0.32%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Harmesh Kumar,Democratic Party (United States),"21,624",0.30%
+2024,California,Regular blanket primary results,Primary,Candidate,False,David Peterson,Democratic Party (United States),"21,170",0.29%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Douglas Pierce,Democratic Party (United States),"19,458",0.27%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Major Singh,No party preference,"17,092",0.23%
+2024,California,Regular blanket primary results,Primary,Candidate,False,John Rose,Democratic Party (United States),"14,627",0.20%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Perry Pound,Democratic Party (United States),"14,195",0.19%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Raji Rab,Democratic Party (United States),"13,640",0.19%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Mark Ruzon,No party preference,"13,488",0.18%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Forrest Jones,American Independent Party,"13,140",0.18%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Stefan Simchowitz,Republican Party (United States),"12,773",0.17%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Martin Veprauskas,Republican Party (United States),"9,795",0.13%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Don Grundmann,No party preference,"6,641",0.09%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Michael Dilger (write-in),No party preference,7,0.00%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Carlos Guillermo Tapia (write-in),Republican Party (United States),5,0.00%
+2024,California,Regular blanket primary results,Primary,Candidate,False,John Dowell (write-in),No party preference,3,0.00%
+2024,California,Regular blanket primary results,Primary,Candidate,False,Danny Fabricant (write-in),Republican Party (United States),3,0.00%
+2024,California,Regular blanket primary results,Primary,Total,False,,,"7,301,317",100.0%
+2024,California (special),Special blanket primary results,Primary,Winning,False,Steve Garvey,Republican Party (United States),"2,455,115",33.25%
+2024,California (special),Special blanket primary results,Primary,Winning,False,Adam Schiff,Democratic Party (United States),"2,160,171",29.25%
+2024,California (special),Special blanket primary results,Primary,Candidate,False,Katie Porter,Democratic Party (United States),"1,272,684",17.24%
+2024,California (special),Special blanket primary results,Primary,Candidate,False,Barbara Lee,Democratic Party (United States),"866,551",11.74%
+2024,California (special),Special blanket primary results,Primary,Candidate,False,Eric Early,Republican Party (United States),"451,274",6.11%
+2024,California (special),Special blanket primary results,Primary,Candidate,False,Christina Pascucci,Democratic Party (United States),"109,867",1.49%
+2024,California (special),Special blanket primary results,Primary,Candidate,False,Sepi Gilani,Democratic Party (United States),"68,497",0.93%
+2024,California (special),Special blanket primary results,Primary,Candidate,False,Michael Dilger (write-in),No party preference,27,0.00%
+2024,California (special),Special blanket primary results,Primary,Total,False,,,"7,384,186",100.0%
+2024,Connecticut,Democratic primary results,Primary,Winning,True,Chris Murphy,Democratic Party (United States),,
+2024,Connecticut,Democratic primary results,Primary,Total,False,,,,
 2024,Connecticut,Republican primary results,Primary,Winning,False,Matthew Corey,Republican Party (US),"19,228",54.74%
 2024,Connecticut,Republican primary results,Primary,Candidate,False,Gerry Smith,Republican Party (US),"15,900",45.26%
 2024,Connecticut,Republican primary results,Primary,Total,False,,,"35,128",100.00%

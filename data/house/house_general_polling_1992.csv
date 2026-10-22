@@ -1,0 +1,4 @@
+Year,State,State_Code,District,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+1992,Vermont,VT,AL,General,Political/Media Research,1992-09-15,1992-09-15,1992-09-15,610 (LV),4.0,Tim Philbin,Unknown,22%,False,"September 15, 1992"
+1992,Vermont,VT,AL,General,Political/Media Research,1992-09-15,1992-09-15,1992-09-15,610 (LV),4.0,Bernie Sanders,Unknown,43%,False,"September 15, 1992"
+1992,Vermont,VT,AL,General,Political/Media Research,1992-09-15,1992-09-15,1992-09-15,610 (LV),4.0,Lewis E. Young,Unknown,9%,False,"September 15, 1992"

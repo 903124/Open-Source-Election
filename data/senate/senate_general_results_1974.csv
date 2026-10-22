@@ -7,6 +7,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1974,Alaska,1974 United States Senate election in Alaska,General,Total,False,,,"93,275",100.00%
 1974,Arizona,"United States Senate election in Arizona, 1974",General,Winning,True,Republican Party (United States),Barry Goldwater,"320,396",58.26%
 1974,Arizona,"United States Senate election in Arizona, 1974",General,Candidate,False,Democratic Party (United States),Jonathan Marshall,"229,523",41.74%
+1974,Arkansas,1974 United States Senate election in Arkansas,General,Winning,False,Democratic Party (US),Dale Bumpers,"461,056",84.90
+1974,Arkansas,1974 United States Senate election in Arkansas,General,Candidate,False,Republican Party (US),John H. Jones,"82,026",15.10
+1974,Arkansas,1974 United States Senate election in Arkansas,General,Total,False,,,"543,082",100.00
 1974,California,1974 United States Senate election in California,General,Winning,True,Democratic Party (United States),Alan Cranston,"3,693,160",60.52%
 1974,California,1974 United States Senate election in California,General,Candidate,False,Republican Party (United States),H. L. Richardson,"2,210,267",36.22%
 1974,California,1974 United States Senate election in California,General,Candidate,False,American Independent Party,Jack McCoy,"101,145",1.66%
@@ -72,6 +75,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1974,Nevada,General election results,General,Winning,False,Republican Party (United States),Paul Laxalt,"79,605",46.97%
 1974,Nevada,General election results,General,Candidate,False,Democratic Party (United States),Harry Reid,"78,981",46.60%
 1974,Nevada,General election results,General,Candidate,False,Independent American Party (Nevada),Jack C. Doyle,"10,887",6.42%
+1974,New Hampshire,"1974 New Hampshire United States Senate election, second recount",General,Winning,False,Republican Party (United States),Louis C. Wyman,"110,926",49.662%
+1974,New Hampshire,"1974 New Hampshire United States Senate election, second recount",General,Candidate,False,Democratic Party (United States),John A. Durkin,"110,924",49.661%
+1974,New Hampshire,"1974 New Hampshire United States Senate election, second recount",General,Candidate,False,American Independent Party,Carmen C. Chimento,"1,513",0.677%
+1974,New Hampshire (special),1975 United States senate Special election in New Hampshire,General,Winning,False,Democratic Party (United States),John A. Durkin,"140,778",53.62%
+1974,New Hampshire (special),1975 United States senate Special election in New Hampshire,General,Candidate,False,Republican Party (United States),Louis C. Wyman,"113,007",43.04%
+1974,New Hampshire (special),1975 United States senate Special election in New Hampshire,General,Candidate,False,American Independent Party,Carmen C. Chimento,"8,787",3.35%
 1974,New York,Democratic Party Convention results,General,Winning,False,Democratic Party (United States),Lee Alexander,,58.70%
 1974,New York,Democratic Party Convention results,General,Candidate,False,Democratic Party (United States),Allard K. Lowenstein,,39.90%
 1974,New York,Democratic Party Convention results,General,Candidate,False,Democratic Party (United States),Ramsey Clark,,< 1.00%
@@ -110,13 +119,15 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1974,Oregon,"United States Senate election in Oregon, 1974",General,Winning,True,Republican Party (US),Bob Packwood,"420,984",54.93%
 1974,Oregon,"United States Senate election in Oregon, 1974",General,Candidate,False,Democratic Party (US),Betty Roberts,"338,591",44.18%
 1974,Oregon,"United States Senate election in Oregon, 1974",General,Total,False,,,"766,414",100.00%
-1974,Pennsylvania,"Pennsylvania United States Senate Election, 1974",General,Winning,True,Republican Party (United States),Richard Schweiker,"1,843,317",53.00%
-1974,Pennsylvania,"Pennsylvania United States Senate Election, 1974",General,Candidate,False,Democratic Party (United States),Peter F. Flaherty,"1,596,121",45.89%
-1974,Pennsylvania,"Pennsylvania United States Senate Election, 1974",General,Candidate,False,Constitution Party (United States),George W. Shankey,"38,004",1.09%
-1974,Pennsylvania,"Pennsylvania United States Senate Election, 1974",General,Write-in,False,,,370,0.01%
-1974,South Carolina,"South Carolina U.S. Senate Election, 1974",General,Winning,True,Democratic Party (United States),Fritz Hollings,"355,107",69.44%
-1974,South Carolina,"South Carolina U.S. Senate Election, 1974",General,Candidate,False,Republican Party (United States),Gwen Bush,"146,649",28.68%
-1974,South Carolina,"South Carolina U.S. Senate Election, 1974",General,Candidate,False,Independent (United States),Harold Hough,"9,624",1.88%
+1974,Pennsylvania,"Pennsylvania United States Senate election, 1974",General,Winning,True,Republican Party (United States),Richard Schweiker,"1,843,317",53.00%
+1974,Pennsylvania,"Pennsylvania United States Senate election, 1974",General,Candidate,False,Democratic Party (United States),Peter F. Flaherty,"1,596,121",45.89%
+1974,Pennsylvania,"Pennsylvania United States Senate election, 1974",General,Candidate,False,Constitution Party (United States),George W. Shankey,"38,004",1.09%
+1974,Pennsylvania,"Pennsylvania United States Senate election, 1974",General,Write-in,False,,,370,0.01%
+1974,South Carolina,"South Carolina U.S. Senate election, 1974",General,Winning,True,Democratic Party (United States),Fritz Hollings,"355,107",69.44%
+1974,South Carolina,"South Carolina U.S. Senate election, 1974",General,Candidate,False,Republican Party (United States),Gwen Bush,"146,649",28.68%
+1974,South Carolina,"South Carolina U.S. Senate election, 1974",General,Candidate,False,Independent (United States),Harold Hough,"9,624",1.88%
+1974,South Dakota,1974 United States Senate election in South Dakota,General,Winning,True,Democratic Party (US),George McGovern,"147,929",53.04
+1974,South Dakota,1974 United States Senate election in South Dakota,General,Candidate,False,Republican Party (US),Leo K. Thorsness,"130,955",46.96
 1974,Utah,"Democratic convention, 12 to 13 July 1974",General,Winning,False,Democratic Party (United States),Wayne Owens,"1,088",70.4%
 1974,Utah,"Democratic convention, 12 to 13 July 1974",General,Candidate,False,Democratic Party (United States),Donald L. Holbrook,458,29.6%
 1974,Utah,"Democratic convention, 12 to 13 July 1974",General,Total,False,,,"1,546",
@@ -125,10 +136,18 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1974,Utah,"Republican convention, 27 July 1974",General,Candidate,False,Republican Party (United States),Byron Rampton,81,4.1%
 1974,Utah,"Republican convention, 27 July 1974",General,Candidate,False,Republican Party (United States),Paul S. Knowlton,3,0.2%
 1974,Utah,"Republican convention, 27 July 1974",General,Total,False,,,"1,987",
+1974,Utah,1974 United States Senate election in Utah,General,Winning,False,Republican Party (US),Jake Garn,"210,299",49.99
+1974,Utah,1974 United States Senate election in Utah,General,Candidate,False,Democratic Party (US),Wayne Owens,"185,377",44.07
+1974,Utah,1974 United States Senate election in Utah,General,Candidate,False,American Party (1969),Bruce Bangerter,"24,966",5.94
 1974,Vermont,1974 United States Senate election in Vermont,General,Winning,False,Democratic Party (United States),Patrick Leahy,"70,629",49.47%
 1974,Vermont,1974 United States Senate election in Vermont,General,Candidate,False,Republican Party (United States),Richard W. Mallary,"66,223",46.38%
 1974,Vermont,1974 United States Senate election in Vermont,General,Candidate,False,Liberty Union Party,Bernie Sanders,"5,901",4.13%
 1974,Vermont,1974 United States Senate election in Vermont,General,Write-in,False,,,19,0.01%
 1974,Vermont,1974 United States Senate election in Vermont,General,Total,False,,,"142,772",100.00%
+1974,Washington,1974 United States Senate election in Washington,General,Winning,True,Democratic Party (US),Warren Magnuson,"611,811",60.70
+1974,Washington,1974 United States Senate election in Washington,General,Candidate,False,Republican Party (US),Jack Metcalf,"363,626",36.08
+1974,Washington,1974 United States Senate election in Washington,General,Candidate,False,American Independent Party,Gene Goosman,"19,871",1.97
+1974,Washington,1974 United States Senate election in Washington,General,Candidate,False,Socialist Workers Party (US),Clare Fraenzl,"8,176",0.81
+1974,Washington,1974 United States Senate election in Washington,General,Candidate,False,U.S. Labor Party,Pat Ruckert,"4,363",0.43
 1974,Wisconsin,General election results,General,Winning,True,Democratic Party (United States),Gaylord Nelson,"740,700",61.75%
 1974,Wisconsin,General election results,General,Candidate,False,Republican Party (United States),Tom Petri,"429,327",35.79%

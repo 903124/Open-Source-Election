@@ -83,11 +83,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2010,Kansas,KS,governor,2010 Kansas gubernatorial election,Candidate,Andrew P. Gray,Libertarian,22460.0,2.68,False,False
 2010,Kansas,KS,governor,2010 Kansas gubernatorial election,Candidate,Kenneth W. Cannon,Reform,15397.0,1.84,False,False
 2010,Kansas,KS,governor,2010 Kansas gubernatorial election,Write-in,Write-ins,Write-ins,7.0,0.0,False,False
-2010,Maine,ME,governor,"2010 Gubernatorial Election, Maine",Winning,Paul LePage,Republican,218065.0,37.56,True,False
-2010,Maine,ME,governor,"2010 Gubernatorial Election, Maine",Candidate,Eliot Cutler,Independent,208270.0,35.88,False,False
-2010,Maine,ME,governor,"2010 Gubernatorial Election, Maine",Candidate,Libby Mitchell,Democratic,109387.0,18.84,False,False
-2010,Maine,ME,governor,"2010 Gubernatorial Election, Maine",Candidate,Shawn Moody,Independent,28756.0,4.95,False,False
-2010,Maine,ME,governor,"2010 Gubernatorial Election, Maine",Candidate,Kevin Scott,Independent,5664.0,0.98,False,False
+2010,Maine,ME,governor,"2010 gubernatorial election, Maine",Winning,Paul LePage,Republican,218065.0,37.56,True,False
+2010,Maine,ME,governor,"2010 gubernatorial election, Maine",Candidate,Eliot Cutler,Independent,208270.0,35.88,False,False
+2010,Maine,ME,governor,"2010 gubernatorial election, Maine",Candidate,Libby Mitchell,Democratic,109387.0,18.84,False,False
+2010,Maine,ME,governor,"2010 gubernatorial election, Maine",Candidate,Shawn Moody,Independent,28756.0,4.95,False,False
+2010,Maine,ME,governor,"2010 gubernatorial election, Maine",Candidate,Kevin Scott,Independent,5664.0,0.98,False,False
 2010,Maryland,MD,governor,2010 Maryland gubernatorial election,Winning,Martin O'Malley,Democratic,1044961.0,56.24,True,True
 2010,Maryland,MD,governor,2010 Maryland gubernatorial election,Candidate,Bob Ehrlich,Republican,776319.0,41.79,False,False
 2010,Maryland,MD,governor,2010 Maryland gubernatorial election,Candidate,Susan Gaztanaga,Libertarian,14137.0,0.76,False,False

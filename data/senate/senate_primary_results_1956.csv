@@ -25,6 +25,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1956,Florida,Democratic Party primary results,Primary,Winning,True,George Smathers,Democratic Party (United States),"614,663",87.54%
 1956,Florida,Democratic Party primary results,Primary,Candidate,False,Erle L. Griffis,Democratic Party (United States),"87,525",12.46%
 1956,Florida,Democratic Party primary results,Primary,Total,False,,,"702,188",
+1956,Georgia,Democratic primary results,Primary,Winning,False,Herman Talmadge,Democratic Party (United States),"498,327",80.31
+1956,Georgia,Democratic primary results,Primary,Candidate,False,Melvin E. Thompson,Democratic Party (United States),"122,152",19.69
+1956,Georgia,Democratic primary results,Primary,Candidate,False,Write-ins,Democratic Party (United States),13,0.00
 1956,Idaho,Democratic primary results,Primary,Winning,False,Frank Church,Democratic Party (United States),"27,942",37.75
 1956,Idaho,Democratic primary results,Primary,Candidate,False,Glen H. Taylor,Democratic Party (United States),"27,742",37.48
 1956,Idaho,Democratic primary results,Primary,Candidate,False,Claude J. Burtenshaw,Democratic Party (United States),"11,738",15.86

@@ -58,7 +58,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1916,Minnesota,Republican primary election results,Primary,Candidate,True,Republican Party of Minnesota,Moses E. Clapp,"27,668",15.16%
 1916,Minnesota,Republican primary election results,Primary,Candidate,False,Republican Party of Minnesota,Charles A. Lindbergh,"26,094",14.30%
 1916,Minnesota,Republican primary election results,Primary,Total,False,,,"182,470",100.00%
-1916,Missouri,1916 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (United States),James A. Reed,"152,968",78.75%
+1916,Missouri,1916 Democratic U.S. Senate primary,Primary,Winning,True,Democratic Party (United States),James A. Reed,"152,968",78.75%
 1916,Missouri,1916 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Lawrence A. Martin,"41,287",21.25%
 1916,Missouri,1916 Democratic U.S. Senate primary,Primary,Total,False,,,"194,255",100.00%
 1916,Missouri,1916 Republican U.S. Senate primary,Primary,Winning,False,Republican Party (United States),Walter S. Dickey,"97,130",51.30%

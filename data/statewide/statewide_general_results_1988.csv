@@ -12,8 +12,8 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1988,Montana,MT,governor,"Montana gubernatorial election, 1988",Candidate,William Dee Morris,Libertarian,7104,1.94,False,False
 1988,North Carolina,NC,governor,1988 NC Governor Election Results,Winning,James G. Martin,Republican,1222258,55.06,True,True
 1988,North Carolina,NC,governor,1988 NC Governor Election Results,Candidate,Robert B. Jordan,Democratic,997408,44.94,False,False
-1988,North Dakota,ND,governor,"North Dakota gubernatorial election, 1988",Winning,George A. Sinner (inc.)/Lloyd Omdahl,North Dakota Democratic-npl,179094,59.88,True,False
-1988,North Dakota,ND,governor,"North Dakota gubernatorial election, 1988",Candidate,Leon Mallberg/Donna Nalewaja,Republican,119986,40.12,False,False
+1988,North Dakota,ND,governor,"North Dakota gubernatorial election, 1988",Winning,George A. Sinner (inc.),North Dakota Democratic-npl,179094,59.88,True,False
+1988,North Dakota,ND,governor,"North Dakota gubernatorial election, 1988",Candidate,Leon Mallberg,Republican,119986,40.12,False,False
 1988,North Dakota,ND,governor,"North Dakota gubernatorial election, 1988",Total,,,299080,100.0,False,False
 1988,Rhode Island,RI,governor,1988 Rhode Island gubernatorial election,Winning,Edward D. DiPrete,Republican,203550,50.83,True,True
 1988,Rhode Island,RI,governor,1988 Rhode Island gubernatorial election,Candidate,Bruce Sundlun,Democratic,196925,49.17,False,False

@@ -17,6 +17,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1974,Arizona,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),George Oglesby,"36,262",24.5%
 1974,Arizona,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),William Mathews Feighan,"32,449",21.9%
 1974,Arizona,Democratic primary results,Primary,Total,False,,,"147,936",100.0
+1974,Arkansas,Democratic primary results,Primary,Winning,False,Democratic Party (US),Dale Bumpers,"380,748",65.04
+1974,Arkansas,Democratic primary results,Primary,Candidate,True,Democratic Party (US),J. William Fulbright,"204,630",34.96
+1974,Arkansas,Democratic primary results,Primary,Total,False,,,"585,378",100.00
 1974,California,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Alan Cranston,"2,262,574",83.54
 1974,California,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Howard L. Gifford,"318,080",11.75
 1974,California,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Frank Kacsinta,"127,149",4.70%
@@ -92,10 +95,25 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1974,Missouri,Republican primary results,Primary,Candidate,False,Republican Party (United States),Paul M. Robinett,"16,882",10.13
 1974,Missouri,Republican primary results,Primary,Candidate,False,Republican Party (United States),Gregory Hansman,"13,285",7.97
 1974,Missouri,Republican primary results,Primary,Total,False,,,"166,614",100.00
-1974,New York,Democratic Party Primary results,Primary,Winning,False,Democratic Party (United States),Ramsey Clark,"414,327",47.97%
-1974,New York,Democratic Party Primary results,Primary,Candidate,False,Democratic Party (United States),Lee Alexander,"255,250",29.56%
-1974,New York,Democratic Party Primary results,Primary,Candidate,False,Democratic Party (United States),Abraham Hirschfeld,"194,076",22.47%
-1974,New York,Democratic Party Primary results,Primary,Total,False,,,"863,653",100.00%
+1974,New Hampshire,1974 Republican U.S. Senate primary,Primary,Winning,False,Republican Party (US),Louis Wyman,"66,749",82.64%
+1974,New Hampshire,1974 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (US),Leslie R. Babb,"13,670",16.92%
+1974,New Hampshire,1974 Republican U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),John A. Durkin,161,0.20%
+1974,New Hampshire,1974 Republican U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Laurence Radway,84,0.10%
+1974,New Hampshire,1974 Republican U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Dennis J. Sullivan,7,0.00%
+1974,New Hampshire,1974 Republican U.S. Senate primary,Primary,Write-in,False,,,103,0.13%
+1974,New Hampshire,1974 Republican U.S. Senate primary,Primary,Total,False,,,"80,774",100.00%
+1974,New Hampshire,1974 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (US),John A. Durkin,"22,258",49.81%
+1974,New Hampshire,1974 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Laurence Radway,"14,646",32.78%
+1974,New Hampshire,1974 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Dennis J. Sullivan,"6,330",14.17%
+1974,New Hampshire,1974 Democratic U.S. Senate primary,Primary,Candidate,False,American Independent Party,Carmen Chimento,"1,285",2.88%
+1974,New Hampshire,1974 Democratic U.S. Senate primary,Primary,Candidate,False,Republican Party (US),Louis Wyman,99,0.22%
+1974,New Hampshire,1974 Democratic U.S. Senate primary,Primary,Candidate,False,Republican Party (US),Leslie R. Babb,3,0.00%
+1974,New Hampshire,1974 Democratic U.S. Senate primary,Primary,Write-in,False,,,61,0.14%
+1974,New Hampshire,1974 Democratic U.S. Senate primary,Primary,Total,False,,,"44,682",100.00%
+1974,New York,Democratic Party primary results,Primary,Winning,False,Democratic Party (United States),Ramsey Clark,"414,327",47.97%
+1974,New York,Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),Lee Alexander,"255,250",29.56%
+1974,New York,Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),Abraham Hirschfeld,"194,076",22.47%
+1974,New York,Democratic Party primary results,Primary,Total,False,,,"863,653",100.00%
 1974,North Carolina,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Robert B. Morgan,"294,986",50.40%
 1974,North Carolina,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Nick Galifianakis,"189,815",32.43%
 1974,North Carolina,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Henry Wilson,"67,247",11.49%
@@ -114,7 +132,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1974,Oregon,"Democratic primary for the United States Senate from Oregon, 1974",Primary,Candidate,False,Democratic Party (US),Jason Boe,"125,055",39.33%
 1974,Oregon,"Democratic primary for the United States Senate from Oregon, 1974",Primary,Candidate,False,Democratic Party (US),Robert T. Daly,"21,881",6.88%
 1974,Oregon,"Democratic primary for the United States Senate from Oregon, 1974",Primary,Candidate,False,Democratic Party (US),Robert E. O'Connor,"14,984",4.71%
-1974,Oregon,"Democratic primary for the United States Senate from Oregon, 1974",Primary,Candidate,False,Democratic Party (US),miscellaneous,319,0.10%
+1974,Oregon,"Democratic primary for the United States Senate from Oregon, 1974",Primary,Candidate,False,Democratic Party (US),Miscellaneous,319,0.10%
 1974,Oregon,"Democratic primary for the United States Senate from Oregon, 1974",Primary,Total,False,,,"396,204",100.00%
 1974,South Dakota,Democratic primary results,Primary,Winning,True,Democratic Party (United States),George McGovern,unopposed,
 1974,South Dakota,Republican primary results,Primary,Winning,False,Republican Party (United States),Leo K. Thorsness,"49,716",52.35%

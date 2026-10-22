@@ -14,6 +14,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1936,Florida (Class 1) (special),Democratic primary results,Primary,Winning,False,Democratic Party (United States),Charles O. Andrews,"67,387",51.87%
 1936,Florida (Class 1) (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Doyle E. Carlton,"62,530",48.13%
 1936,Florida (Class 1) (special),Democratic primary results,Primary,Total,False,,,"129,917",100.00%
+1936,Georgia,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Richard Russell Jr.,"165,111",65.54
+1936,Georgia,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Eugene Talmadge,"86,203",34.46
 1936,Idaho,Democratic primary results,Primary,Winning,False,Democratic Party (United States),C. Ben Ross,"29,471",56.39
 1936,Idaho,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),John A. Carver,"22,788",43.61
 1936,Idaho,Democratic primary results,Primary,Total,False,,,"52,259",
@@ -151,6 +153,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1936,Oklahoma,Republican primary,Primary,Total,False,,,"72,599",100.00%
 1936,Oklahoma,Republican primary runoff,Primary,Winning,False,Republican Party (United States),Herbert K. Hyde,"43,272",100.00%
 1936,Oklahoma,Republican primary runoff,Primary,Total,False,,,"43,272",100.00%
+1936,South Carolina,Democratic Primary results,Primary,Winning,False,Democratic Party (United States),James F. Byrnes,"257,247",87.1
+1936,South Carolina,Democratic Primary results,Primary,Candidate,False,Democratic Party (United States),Thomas Porcher Stoney,"25,627",8.7
+1936,South Carolina,Democratic Primary results,Primary,Candidate,False,Democratic Party (United States),William Curry Harllee,"12,551",4.2
 1936,South Dakota,Republican primary,Primary,Winning,False,Republican Party (United States),Chan Gurney,"61,528",64.60%
 1936,South Dakota,Republican primary,Primary,Candidate,False,Republican Party (United States),C. A. Christopherson,"33,720",35.40%
 1936,South Dakota,Republican primary,Primary,Total,False,,,"95,248",100.00%

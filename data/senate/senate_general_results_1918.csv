@@ -3,9 +3,16 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1918,Colorado,1918 United States Senate election in Colorado,General,Candidate,False,John F. Shafroth (inc.),Democratic Party (United States),"104,347",47.94%
 1918,Colorado,1918 United States Senate election in Colorado,General,Candidate,False,P. A. Richardson,Prohibition Party (United States),"5,606",2.58%
 1918,Colorado,1918 United States Senate election in Colorado,General,Total,False,,,"217,679",100.00%
+1918,Idaho,1918 United States Senate election in Idaho,General,Winning,True,William Borah,Republican Party (US),"63,587",67.21
+1918,Idaho,1918 United States Senate election in Idaho,General,Candidate,False,Frank L. Moore,Democratic Party (US),"31,018",32.79
 1918,Idaho (special),1918 United States Senate election in Idaho,General,Winning,True,John F. Nugent,Democratic Party (US),"48,467",50.51
 1918,Idaho (special),1918 United States Senate election in Idaho,General,Candidate,False,Frank R. Gooding,Republican Party (US),"47,497",49.49
-1918,Iowa,1918 U.S. Senate election in Iowa,General,Winning,False,William S. Kenyon,Republican Party (United States),"230,264",65.40%
+1918,Illinois,1918 United States Senate election in Illinois,General,Winning,False,Medill McCormick,Republican Party (United States),"479,967",50.50
+1918,Illinois,1918 United States Senate election in Illinois,General,Candidate,True,James Hamilton Lewis,Democratic Party (United States),"426,943",44.92
+1918,Illinois,1918 United States Senate election in Illinois,General,Candidate,False,William Bross Lloyd,Socialist Party of America,"37,167",3.91
+1918,Illinois,1918 United States Senate election in Illinois,General,Candidate,False,John M. Francis,Socialist Labor Party (United States),"3,268",0.34
+1918,Illinois,1918 United States Senate election in Illinois,General,Candidate,False,Frank B. Vennum,Prohibition Party,"3,151",0.33
+1918,Iowa,1918 U.S. Senate election in Iowa,General,Winning,True,William S. Kenyon,Republican Party (United States),"230,264",65.40%
 1918,Iowa,1918 U.S. Senate election in Iowa,General,Candidate,False,Charles Rollin Keyes,Democratic Party (United States),"121,830",34.60%
 1918,Iowa,1918 U.S. Senate election in Iowa,General,Total,False,,,"352,094",100.00%
 1918,Kansas,1918 United States Senate election in Kansas,General,Winning,False,Arthur Capper,Republican Party (United States),"281,931",63.69%
@@ -13,6 +20,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1918,Kansas,1918 United States Senate election in Kansas,General,Candidate,False,Eva Harding,Socialist Party of America,"11,429",2.58%
 1918,Kansas,1918 United States Senate election in Kansas,General,Write-in,False,,,4,0.00%
 1918,Kansas,1918 United States Senate election in Kansas,General,Total,False,,,"442,664",100.00%
+1918,Kentucky,1918 U.S. Senate election in Kentucky,General,Winning,False,Augustus Owsley Stanley,Democratic Party (US),"184,385",50.77%
+1918,Kentucky,1918 U.S. Senate election in Kentucky,General,Candidate,False,Frederic M. Sackett,Republican Party (US),"178,797",49.23%
+1918,Kentucky,1918 U.S. Senate election in Kentucky,General,Total,False,,,"363,182",100.00%
 1918,Maine,1918 U.S. Senate election in Maine,General,Winning,False,Bert Fernald (inc.),Republican Party (United States),"67,431",55.40%
 1918,Maine,1918 U.S. Senate election in Maine,General,Candidate,False,Elmer E. Newbert,Democratic Party (United States),"54,289",44.60%
 1918,Maine,1918 U.S. Senate election in Maine,General,Total,False,,,"121,720",100.00%
@@ -39,6 +49,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1918,Mississippi,1918 U.S. Senate election in Mississippi,General,Winning,False,Pat Harrison,Democratic Party (United States),"30,055",95.04%
 1918,Mississippi,1918 U.S. Senate election in Mississippi,General,Candidate,False,Sumner W. Rose,Socialist Party (United States),"1,569",4.96%
 1918,Mississippi,1918 U.S. Senate election in Mississippi,General,Total,False,,,"31,624",100.00%
+1918,Missouri (special),1918 United States Senate election in Missouri,General,Winning,False,Selden P. Spencer,Republican Party (US),"302,680",52.39%
+1918,Missouri (special),1918 United States Senate election in Missouri,General,Candidate,False,Joseph W. Folk,Democratic Party (US),"267,397",46.29%
+1918,Missouri (special),1918 United States Senate election in Missouri,General,Candidate,False,Caleb Lipscomb,Socialist Party of America,"6,725",1.16%
+1918,Missouri (special),1918 United States Senate election in Missouri,General,Candidate,False,William Wesley Cox,Socialist Labor Party of America,904,0.16%
 1918,Montana,1918 United States Senate election in Montana,General,Winning,True,Thomas J. Walsh,Democratic Party (United States),"46,160",41.07%
 1918,Montana,1918 United States Senate election in Montana,General,Candidate,False,Oscar M. Lanstrum,Republican Party (United States),"40,229",35.79%
 1918,Montana,1918 United States Senate election in Montana,General,Candidate,False,Jeannette Rankin,National Party (United States),"26,013",23.14%

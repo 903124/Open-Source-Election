@@ -24,3 +24,6 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1957,Texas (special),"Minor candidates |state=autocollapse""",General,Candidate,False,H. Frank Connally,Walter S. McNutt,500,0.05%
 1957,Texas (special),"Minor candidates |state=autocollapse""",General,Candidate,False,Clyde R. Oms,Democratic Party (US),356,0.04%
 1957,Texas (special),"Minor candidates |state=autocollapse""",General,Total,False,,,"17,300",1.81%
+1957,Wisconsin (special),1957 United States Senate special election in Wisconsin,General,Winning,False,William Proxmire,Democratic Party (US),"435,985",56.43
+1957,Wisconsin (special),1957 United States Senate special election in Wisconsin,General,Candidate,False,Walter J. Kohler Jr.,Republican Party (US),"312,931",40.50
+1957,Wisconsin (special),1957 United States Senate special election in Wisconsin,General,Candidate,False,Georgia Cozzini,Socialist Labor Party of America,704,0.09

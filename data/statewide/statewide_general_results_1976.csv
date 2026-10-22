@@ -36,6 +36,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1976,North Dakota,ND,governor,1976 North Dakota gubernatorial election,Winning,Arthur A. Link (inc.),North Dakota Democratic-npl,153309,51.58,True,False
 1976,North Dakota,ND,governor,1976 North Dakota gubernatorial election,Candidate,Richard Elkin,Republican,138321,46.53,False,False
 1976,North Dakota,ND,governor,1976 North Dakota gubernatorial election,Candidate,Martin K. Vaaler,American Party (1969),5619,1.89,False,False
+1976,North Dakota,ND,governor,1976 North Dakota gubernatorial election,Total,,,297249,100.0,False,False
 1976,Rhode Island,RI,governor,1976 Rhode Island gubernatorial election,Winning,J. Joseph Garrahy,Democratic,218561,54.82,True,False
 1976,Rhode Island,RI,governor,1976 Rhode Island gubernatorial election,Candidate,James L. Taft Jr.,Republican,178254,44.71,False,False
 1976,Rhode Island,RI,governor,1976 Rhode Island gubernatorial election,Candidate,John C. Swift,Independent,1267,0.32,False,False

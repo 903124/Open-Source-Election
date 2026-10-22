@@ -97,23 +97,23 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1930,Oklahoma,Republican primary,Primary,Candidate,False,Charles J. Benson,Republican Party (United States),"10,922",15.55%
 1930,Oklahoma,Republican primary,Primary,Candidate,False,J. J. Bebout,Republican Party (United States),"4,395",6.26%
 1930,Oklahoma,Republican primary,Primary,Total,False,,,"70,232",100.00%
+1930,South Carolina,Democratic Primary results,Primary,Winning,False,Coleman Livingston Blease,Democratic Party (United States),"111,989",46.0
+1930,South Carolina,Democratic Primary results,Primary,Candidate,False,James F. Byrnes,Democratic Party (United States),"92,242",37.8
+1930,South Carolina,Democratic Primary results,Primary,Candidate,False,Leon W. Harris,Democratic Party (United States),"39,512",16.2
+1930,South Carolina,Democratic Primary Runoff results,Primary,Winning,False,James F. Byrnes,Democratic Party (United States),"120,755",50.9
+1930,South Carolina,Democratic Primary Runoff results,Primary,Candidate,False,Coleman Livingston Blease,Democratic Party (United States),"116,264",49.1
 1930,South Dakota,Democratic primary,Primary,Winning,False,William J. Bulow,Democratic Party (United States),"16,520",73.88%
 1930,South Dakota,Democratic primary,Primary,Candidate,False,James McNamara,Democratic Party (United States),"5,840",26.12%
 1930,South Dakota,Democratic primary,Primary,Total,False,,,"22,360",100.00%
 1930,South Dakota,Republican primary,Primary,Winning,False,William H. McMaster (inc.),Republican Party (United States),"64,331",55.92%
 1930,South Dakota,Republican primary,Primary,Candidate,False,George J. Danforth,Republican Party (United States),"50,717",44.08%
 1930,South Dakota,Republican primary,Primary,Total,False,,,"115,048",100.00%
+1930,Tennessee (special),"Special Democratic primary (August 7, 1930)",Primary,Winning,True,William E. Brock,Democratic Party (US),"113,492",70.67
+1930,Tennessee (special),"Special Democratic primary (August 7, 1930)",Primary,Candidate,False,John Randolph Neal Jr.,Democratic Party (US),"47,110",29.33
 1930,Texas,1930 United States Senate Republican primary in Texas,Primary,Winning,False,Doran John Haesly,Republican Party (United States),"3,645",40.51%
 1930,Texas,1930 United States Senate Republican primary in Texas,Primary,Candidate,False,C. O. Harris,Republican Party (United States),"2,784",30.94%
 1930,Texas,1930 United States Senate Republican primary in Texas,Primary,Candidate,False,Harve H. Haines,Republican Party (United States),"2,568",28.54%
 1930,Texas,1930 United States Senate Republican primary in Texas,Primary,Total,False,,,"8,997",100.00%
-1930,Wyoming (special),Democratic primary,Primary,Winning,False,Harry Schwartz,Democratic Party (United States),"9,716",100.00%
-1930,Wyoming (special),Democratic primary,Primary,Total,False,,,"9,716",100.00%
-1930,Wyoming (special),Republican primary,Primary,Winning,False,Robert D. Carey,Republican Party (United States),"19,237",45.75%
-1930,Wyoming (special),Republican primary,Primary,Candidate,False,Charles E. Winter,Republican Party (United States),"14,707",34.97%
-1930,Wyoming (special),Republican primary,Primary,Candidate,False,William C. Deming,Republican Party (United States),"5,036",11.98%
-1930,Wyoming (special),Republican primary,Primary,Candidate,False,William L. Walls,Republican Party (United States),"3,071",7.30%
-1930,Wyoming (special),Republican primary,Primary,Total,False,,,"42,051",100.00%
 1930,Wyoming,Democratic primary,Primary,Winning,False,Harry Schwartz,Democratic Party (United States),"9,716",100.00%
 1930,Wyoming,Democratic primary,Primary,Total,False,,,"9,716",100.00%
 1930,Wyoming,Republican primary,Primary,Winning,False,Robert D. Carey,Republican Party (United States),"19,237",45.75%

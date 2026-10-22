@@ -181,6 +181,17 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2006,Virginia,Democratic primary results,Primary,Winning,False,Jim Webb,Democratic Party (United States),"83,298",53.47
 2006,Virginia,Democratic primary results,Primary,Candidate,False,Harris Miller,Democratic Party (United States),"72,486",46.53
 2006,Virginia,Democratic primary results,Primary,Total,False,,,"155,784",100.00
+2006,Washington,Democratic primary results,Primary,Winning,True,Maria Cantwell,Democratic Party (United States),"568,935",90.7636%
+2006,Washington,Democratic primary results,Primary,Candidate,False,Hong Tran,Democratic Party (United States),"33,097",5.2682%
+2006,Washington,Democratic primary results,Primary,Candidate,False,Mike The Mover,Democratic Party (United States),"11,213",1.7931%
+2006,Washington,Democratic primary results,Primary,Candidate,False,Michael Goodspaceguy Nelson,Democratic Party (United States),"9,389",1.5036%
+2006,Washington,Democratic primary results,Primary,Candidate,False,Mohammad H. Said,Democratic Party (United States),"4,214",0.6715%
+2006,Washington,Republican primary results,Primary,Winning,False,Mike McGavick,Republican Party (United States),"395,614",85.8780%
+2006,Washington,Republican primary results,Primary,Candidate,False,Brad Klippert,Republican Party (United States),"32,073",6.9590%
+2006,Washington,Republican primary results,Primary,Candidate,False,Warren E. Hanson,Republican Party (United States),"17,756",3.8629%
+2006,Washington,Republican primary results,Primary,Candidate,False,B. Barry Massoudi,Republican Party (United States),"6,370",1.3848%
+2006,Washington,Republican primary results,Primary,Candidate,False,Gordon Allen Pross,Republican Party (United States),"5,165",1.1225%
+2006,Washington,Republican primary results,Primary,Candidate,False,William Edward Chovil,Republican Party (United States),"3,642",0.7928%
 2006,West Virginia,2006 West Virginia United States Senate Election Democratic Primary,Primary,Winning,True,Robert Byrd,Democratic Party (United States),"159,154",85.7%
 2006,West Virginia,2006 West Virginia United States Senate Election Democratic Primary,Primary,Candidate,False,"Billy Hendricks, Jr.",Democratic Party (United States),"26,609",14.3%
 2006,West Virginia,2006 West Virginia United States Senate Election Republican Primary,Primary,Winning,False,John Raese,Republican Party (United States),"47,408",58.3%

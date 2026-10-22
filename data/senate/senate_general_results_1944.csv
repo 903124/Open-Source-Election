@@ -1,4 +1,7 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
+1944,Alabama,1944 U.S. Senate election in Alabama,General,Winning,True,Democratic Party (US),J. Lister Hill,"202,604",81.78%
+1944,Alabama,1944 U.S. Senate election in Alabama,General,Candidate,False,Republican Party (US),John A. Posey,"41,983",16.95%
+1944,Alabama,1944 U.S. Senate election in Alabama,General,Candidate,False,Prohibition Party,Hollis B. Parrish,"3,162",1.28%
 1944,Arizona,"United States Senate election in Arizona, 1944",General,Winning,True,Democratic Party (United States),Carl T. Hayden,"90,335",69.37%
 1944,Arizona,"United States Senate election in Arizona, 1944",General,Candidate,False,Republican Party (United States),Fred Wildon Fickett Jr.,"39,891",30.63%
 1944,Arkansas,1944 U.S. Senate election in Arkansas,General,Winning,False,Democratic Party (United States),J. William Fulbright,"182,499",85.10%
@@ -14,11 +17,24 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1944,Connecticut,1944 U.S. Senate election in Connecticut,General,Candidate,True,Republican Party (US),John A. Danaher,"391,748",47.28%
 1944,Connecticut,1944 U.S. Senate election in Connecticut,General,Candidate,False,Socialist Party (US),Anthony R. Martino,"6,033",0.73%
 1944,Connecticut,1944 U.S. Senate election in Connecticut,General,Total,False,,,"828,497",100.0%
+1944,Florida,General Election results,General,Winning,True,Democratic Party (US),Claude Pepper,"335,685",71.28%
+1944,Florida,General Election results,General,Candidate,False,Republican Party (US),Miles H. Draper,"135,258",28.72%
+1944,Idaho,1944 United States Senate election in Idaho,General,Winning,False,Democratic Party (US),Glen H. Taylor,"107,096",51.13
+1944,Idaho,1944 United States Senate election in Idaho,General,Candidate,False,Republican Party (US),C. A. Bottolfsen,"102,373",48.87
 1944,Illinois,General election,General,Winning,True,Democratic Party (United States),Scott W. Lucas,"2,059,023",52.61
 1944,Illinois,General election,General,Candidate,False,Republican Party (United States),Richard J. Lyons,"1,841,793",47.06
 1944,Illinois,General election,General,Candidate,False,Socialist Labor Party of America,Frank Schnur,"7,312",0.19
 1944,Illinois,General election,General,Candidate,False,Prohibition Party,Enoch A. Holtwick,"5,798",0.15
 1944,Illinois,General election,General,Total,False,,,"3,913,926",100
+1944,Indiana,1944 United States Senate election in Indiana,General,Winning,False,Republican Party (United States),Homer Capehart,"829,489",50.23%
+1944,Indiana,1944 United States Senate election in Indiana,General,Candidate,False,Democratic Party (United States),Henry F. Schricker,"807,766",48.91%
+1944,Indiana,1944 United States Senate election in Indiana,General,Candidate,False,Prohibition Party (United States),Lester N. Abel,"12,213",0.74%
+1944,Indiana,1944 United States Senate election in Indiana,General,Candidate,False,Socialist Party (United States),Marid B. Tomish,"1,917",0.12%
+1944,Indiana,1944 United States Senate election in Indiana,General,Total,False,,,"1,651,385",100.00%
+1944,Indiana (special),1944 United States Senate special election in Indiana,General,Winning,False,Republican Party (United States),William E. Jenner,"844,303",52.11%
+1944,Indiana (special),1944 United States Senate special election in Indiana,General,Candidate,False,Democratic Party (United States),Cornelius O'Brien,"775,417",47.14%
+1944,Indiana (special),1944 United States Senate special election in Indiana,General,Candidate,False,Prohibition Party (United States),Carl W. Thompson,"12,349",0.75%
+1944,Indiana (special),1944 United States Senate special election in Indiana,General,Total,False,,,"1,632,069",100.00%
 1944,Iowa,1944 U.S. Senate election in Iowa,General,Winning,False,Republican Party (United States),Bourke B. Hickenlooper,"523,963",51.28%
 1944,Iowa,1944 U.S. Senate election in Iowa,General,Candidate,True,Democratic Party (United States),Guy M. Gillette,"494,229",48.37%
 1944,Iowa,1944 U.S. Senate election in Iowa,General,Candidate,False,Prohibition Party (US),W.S. Bowden,"2,751",0.27%
@@ -44,6 +60,15 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1944,Massachusetts (special),General election,General,Candidate,False,Socialist Labor Party of America,Bernard G. Kelly,"12,296",0.64%
 1944,Massachusetts (special),General election,General,Candidate,False,Prohibition Party,E. Tallmadge Root,"3,269",0.17%
 1944,Massachusetts (special),General election,General,Total,False,,,"1,911,405",100.00%
+1944,Missouri,1944 United States Senate election in Missouri,General,Winning,False,Republican Party (US),Forrest C. Donnell,"778,778",49.95%
+1944,Missouri,1944 United States Senate election in Missouri,General,Candidate,False,Democratic Party (US),Roy McKittrick,"776,790",49.82%
+1944,Missouri,1944 United States Senate election in Missouri,General,Candidate,False,Socialist Party of America,D. B. Preisler,"3,320",0.21%
+1944,Missouri,1944 United States Senate election in Missouri,General,Candidate,False,Socialist Labor Party of America,William Wesley Cox,215,0.01%
+1944,Nevada,1944 United States Senate election in Nevada,General,Winning,True,Democratic Party (US),Pat McCarran,"30,595",58.38
+1944,Nevada,1944 United States Senate election in Nevada,General,Candidate,False,Republican Party (US),George W. Malone,"21,816",41.62
+1944,New Hampshire,1944 U.S. Senate election in New Hampshire,General,Winning,True,Republican Party (US),Charles W. Tobey,"110,549",50.93%
+1944,New Hampshire,1944 U.S. Senate election in New Hampshire,General,Candidate,False,Democratic Party (US),Joseph J. Betley,"106,508",49.07%
+1944,New Hampshire,1944 U.S. Senate election in New Hampshire,General,Total,False,,,"217,057",100.00%
 1944,New Jersey (special),1944 U.S. Senate special election in New Jersey,General,Winning,False,Republican Party (United States),Howard Alexander Smith,"940,051",50.44%
 1944,New Jersey (special),1944 U.S. Senate special election in New Jersey,General,Candidate,False,Democratic Party (United States),Elmer H. Wene,"910,096",48.84%
 1944,New Jersey (special),1944 U.S. Senate special election in New Jersey,General,Candidate,False,Prohibition Party (United States),George W. Ridout,"9,873",0.53%

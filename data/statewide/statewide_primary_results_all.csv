@@ -53,7 +53,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1972,Indiana,IN,governor,Republican nomination results,Winning,Otis Bowen,Republican,1243.0,59.7,True,False
 1972,Indiana,IN,governor,Republican nomination results,Candidate,William Sharp,Republican,364.0,17.48,False,False
 1972,Indiana,IN,governor,Republican nomination results,Candidate,Phil Gutman,Republican,354.0,17.0,False,False
-1972,Indiana,IN,governor,Republican nomination results,Candidate,W.W. 'Dub' Hill,Republican,108.0,5.19,False,False
+1972,Indiana,IN,governor,Republican nomination results,Candidate,"W.W. ""Dub"" Hill",Republican,108.0,5.19,False,False
 1972,Indiana,IN,governor,Republican nomination results,Candidate,N/A,,13.0,0.62,False,False
 1972,Indiana,IN,governor,Republican nomination results,Total,,,2082.0,100.0,False,False
 1972,Kansas,KS,governor,Republican primary results,Winning,Morris Kay,Republican,138815.0,46.59,True,False
@@ -67,11 +67,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1972,Montana,MT,governor,Democratic Party primary results,Candidate,Dallas E. Howard,Democratic,4255.0,3.36,False,False
 1972,Montana,MT,governor,Democratic Party primary results,Candidate,David E. Burnham,Democratic,2276.0,1.8,False,False
 1972,Montana,MT,governor,Democratic Party primary results,Total,,,126794.0,100.0,False,False
-1972,Montana,MT,governor,Republican Primary results,Winning,Ed Smith,Republican,39552.0,40.65,True,False
-1972,Montana,MT,governor,Republican Primary results,Candidate,Frank Dunkle,Republican,37375.0,38.41,False,False
-1972,Montana,MT,governor,Republican Primary results,Candidate,Tom A. Selstad,Republican,18046.0,18.55,False,False
-1972,Montana,MT,governor,Republican Primary results,Candidate,Warren McMillan,Republican,2331.0,2.4,False,False
-1972,Montana,MT,governor,Republican Primary results,Total,,,97304.0,100.0,False,False
+1972,Montana,MT,governor,Republican primary results,Winning,Ed Smith,Republican,39552.0,40.65,True,False
+1972,Montana,MT,governor,Republican primary results,Candidate,Frank Dunkle,Republican,37375.0,38.41,False,False
+1972,Montana,MT,governor,Republican primary results,Candidate,Tom A. Selstad,Republican,18046.0,18.55,False,False
+1972,Montana,MT,governor,Republican primary results,Candidate,Warren McMillan,Republican,2331.0,2.4,False,False
+1972,Montana,MT,governor,Republican primary results,Total,,,97304.0,100.0,False,False
 1972,New Hampshire,NH,governor,Democratic primary results,Winning,Roger J. Crowley,Democratic,29326.0,61.37,True,False
 1972,New Hampshire,NH,governor,Democratic primary results,Candidate,Robert E. Raiche,Democratic,16216.0,33.94,False,False
 1972,New Hampshire,NH,governor,Democratic primary results,Candidate,Write-ins,Democratic,1298.0,2.72,False,False
@@ -195,7 +195,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,California,CA,governor,Republican primary results,Candidate,William Nelson,Republican,22597.0,1.22,False,False
 1974,California,CA,governor,Republican primary results,Candidate,Scattering,Republican,8355.0,0.45,False,False
 1974,California,CA,governor,Republican primary results,Total,,,1848825.0,100.0,False,False
-1974,California,CA,governor,Democratic primary results,Winning,Edmund G. Brown Jr.,Democratic,1085752.0,37.86,True,False
+1974,California,CA,governor,Democratic primary results,Winning,Jerry Brown,Democratic,1085752.0,37.86,True,False
 1974,California,CA,governor,Democratic primary results,Candidate,Joseph Alioto,Democratic,544007.0,18.97,False,False
 1974,California,CA,governor,Democratic primary results,Candidate,Bob Moretti,Democratic,478469.0,16.68,False,False
 1974,California,CA,governor,Democratic primary results,Candidate,William M. Roth,Democratic,293686.0,10.24,False,False
@@ -337,12 +337,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,New Mexico,NM,governor,Republican primary results,Candidate,Walter E. Bruce,Republican,2913.0,5.72,False,False
 1974,New Mexico,NM,governor,Republican primary results,Candidate,Scattering,Republican,26.0,0.05,False,False
 1974,New Mexico,NM,governor,Republican primary results,Total,,,50927.0,100.0,False,False
-1974,New York,NY,governor,Democratic primary results,Winning,Hugh Carey,Democratic,600283.0,60.78,True,False
-1974,New York,NY,governor,Democratic primary results,Candidate,Howard J. Samuels,Democratic,387369.0,39.22,False,False
-1974,New York,NY,governor,Democratic primary results,Total,,,987652.0,100.0,False,False
 1974,New York,NY,governor,Conservative convention results,Winning,Malcolm Wilson,Conservative,21279.0,59.79,True,True
 1974,New York,NY,governor,Conservative convention results,Candidate,T. David Bullard,Conservative,14312.0,40.21,False,False
 1974,New York,NY,governor,Conservative convention results,Total,,,35591.0,100.0,False,False
+1974,New York,NY,governor,Democratic primary results,Winning,Hugh Carey,Democratic,600283.0,60.78,True,False
+1974,New York,NY,governor,Democratic primary results,Candidate,Howard J. Samuels,Democratic,387369.0,39.22,False,False
+1974,New York,NY,governor,Democratic primary results,Total,,,987652.0,100.0,False,False
 1974,Ohio,OH,governor,Democratic primary results,Winning,John J. Gilligan,Democratic,713488.0,70.58,True,True
 1974,Ohio,OH,governor,Democratic primary results,Candidate,James D. Nolan,Democratic,297244.0,29.41,False,False
 1974,Ohio,OH,governor,Democratic primary results,Total,,,1010853.0,100.0,False,False
@@ -2602,12 +2602,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Alaska,AK,governor,1998 open primary for lieutenant governor,Candidate,Don Smith,Republican,8230.0,7.75,False,False
 1998,Alaska,AK,governor,1998 open primary for lieutenant governor,Candidate,Doyle Holmes,Republican,5764.0,5.43,False,False
 1998,Alaska,AK,governor,1998 open primary for lieutenant governor,Total,,,106244.0,100.0,False,False
-1998,Arizona,AZ,governor,Democratic Primary results,Winning,Paul Johnson,Democratic,109044.0,100.0,True,False
-1998,Arizona,AZ,governor,Democratic Primary results,Total,,,109044.0,100.0,False,False
 1998,Arizona,AZ,governor,Republican primary results,Winning,Jane Dee Hull,Republican,177324.0,76.52,True,True
 1998,Arizona,AZ,governor,Republican primary results,Candidate,Jim Howl,Republican,30699.0,13.25,False,False
 1998,Arizona,AZ,governor,Republican primary results,Candidate,Charles Brown,Republican,23710.0,10.23,False,False
 1998,Arizona,AZ,governor,Republican primary results,Total,,,231733.0,100.0,False,False
+1998,Arizona,AZ,governor,Democratic Primary results,Winning,Paul Johnson,Democratic,109044.0,100.0,True,False
+1998,Arizona,AZ,governor,Democratic Primary results,Total,,,109044.0,100.0,False,False
 1998,Arizona,AZ,governor,Libertarian primary results,Winning,Katherine Gallant,Libertarian,855.0,51.82,True,False
 1998,Arizona,AZ,governor,Libertarian primary results,Candidate,Tom Rawles,Libertarian,795.0,48.18,False,False
 1998,Arizona,AZ,governor,Libertarian primary results,Total,,,1650.0,100.0,False,False
@@ -4496,7 +4496,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2014,Illinois,IL,governor,Republican primary results,Total,,,819624.0,100.0,False,False
 2014,Iowa,IA,governor,Republican primary results,Winning,Terry Branstad,Republican,129712.0,83.0,True,True
 2014,Iowa,IA,governor,Republican primary results,Candidate,Tom Hoefling,Republican,26284.0,16.82,False,False
-2014,Iowa,IA,governor,Republican primary results,Candidate,Write-In,Republican,279.0,0.18,False,False
+2014,Iowa,IA,governor,Republican primary results,Candidate,Write-in,Republican,279.0,0.18,False,False
 2014,Iowa,IA,governor,Republican primary results,Total,,,156275.0,100.0,False,False
 2014,Iowa,IA,governor,Democratic primary results,Winning,Jack Hatch,Democratic,60404.0,99.26,True,False
 2014,Iowa,IA,governor,Democratic primary results,Candidate,Write-in,Democratic,448.0,0.74,False,False

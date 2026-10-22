@@ -1,4 +1,9 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
+1972,Alabama,1972 United States Senate election in Alabama,General,Winning,True,Democratic Party (US),John Sparkman,"654,491",62.27
+1972,Alabama,1972 United States Senate election in Alabama,General,Candidate,False,Republican Party (US),Winton Blount,"347,523",33.06
+1972,Alabama,1972 United States Senate election in Alabama,General,Candidate,False,Prohibition Party (US),Jerome Couch,"10,826",1.03
+1972,Alabama,1972 United States Senate election in Alabama,General,Candidate,False,Conservative Party (US),Herbert W. Stone,"6,838",0.65
+1972,Alabama,1972 United States Senate election in Alabama,General,Total,False,,,"1,051,099",100.00
 1972,Alaska,General election results,General,Winning,False,Republican Party (United States),Ted Stevens (inc.),"74,216",77.30%
 1972,Alaska,General election results,General,Candidate,False,Democratic Party (United States),Gene Guess,"21,791",22.70%
 1972,Alaska,General election results,General,Total,False,,,"96,007",100.00%
@@ -23,10 +28,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1972,Georgia (special),1972 United States Senate special election in Georgia,General,Candidate,False,Independent,Alice Conner,"7,587",0.97%
 1972,Georgia (special),1972 United States Senate special election in Georgia,General,Candidate,False,Independent,George E. Schmidt,"3,932",0.51%
 1972,Georgia (special),1972 United States Senate special election in Georgia,General,Total,False,,,"778,910",100.00%
-1972,Georgia (special),1972 United States Senate election in Georgia,General,Winning,False,Democratic Party (United States),Sam Nunn,"636,060",53.96%
-1972,Georgia (special),1972 United States Senate election in Georgia,General,Candidate,False,Republican Party (United States),Fletcher Thompson,"542,291",46.01%
-1972,Georgia (special),1972 United States Senate election in Georgia,General,Write-in,False,,,391,0.03%
-1972,Georgia (special),1972 United States Senate election in Georgia,General,Total,False,,,"1,178,742",100.00%
+1972,Georgia,1972 United States Senate election in Georgia,General,Winning,False,Democratic Party (United States),Sam Nunn,"636,060",53.96%
+1972,Georgia,1972 United States Senate election in Georgia,General,Candidate,False,Republican Party (United States),Fletcher Thompson,"542,291",46.01%
+1972,Georgia,1972 United States Senate election in Georgia,General,Write-in,False,,,391,0.03%
+1972,Georgia,1972 United States Senate election in Georgia,General,Total,False,,,"1,178,742",100.00%
 1972,Idaho,General election results,General,Winning,False,Republican Party (United States),Jim McClure,"161,804",52.26%
 1972,Idaho,General election results,General,Candidate,False,Democratic Party (United States),Bud Davis,"140,915",45.52%
 1972,Idaho,General election results,General,Candidate,False,American Party (1969),Jean L. Stoddard,"6,885",2.22%
@@ -42,6 +47,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1972,Iowa,General election results,General,Candidate,False,Independent (politician),Fred R. Benton,"1,203",0.10%
 1972,Iowa,General election results,General,Write-in,False,,,14,0.00%
 1972,Iowa,General election results,General,Total,False,,,"1,203,333",100.00%
+1972,Kansas,1972 United States Senate election in Kansas,General,Winning,True,Republican Party (US),James B. Pearson,"622,591",71.42
+1972,Kansas,1972 United States Senate election in Kansas,General,Candidate,False,Democratic Party (US),Archibald O. Tetzlaff,"200,764",23.03
+1972,Kansas,1972 United States Senate election in Kansas,General,Candidate,False,Conservative Party (US),Gene F. Miller,"35,510",4.07
+1972,Kansas,1972 United States Senate election in Kansas,General,Candidate,False,Prohibition Party,Howard Hadin,"12,857",1.48
 1972,Kentucky,General election results,General,Winning,False,Democratic Party (United States),Walter Dee Huddleston,"528,550",50.93%
 1972,Kentucky,General election results,General,Candidate,False,Republican Party (United States),Louie Nunn,"494,337",47.63%
 1972,Kentucky,General election results,General,Candidate,False,American Party (1969),Helen Breeden,"8,707",0.84%
@@ -84,6 +93,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1972,Nebraska,1972 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (United States),Terry Carpenter,"265,922",46.77%
 1972,Nebraska,1972 United States Senate election in Nebraska,General,Write-in,False,,,817,0.14%
 1972,Nebraska,1972 United States Senate election in Nebraska,General,Total,False,,,"568,580",100.00%
+1972,New Hampshire,1972 United States Senate election in New Hampshire,General,Winning,True,Democratic Party (US),Thomas J. McIntyre,"184,495",56.88
+1972,New Hampshire,1972 United States Senate election in New Hampshire,General,Candidate,False,Republican Party (US),Wesley Powell,"139,852",43.12
 1972,New Jersey,1972 United States Senate election in New Jersey,General,Winning,True,Republican Party (United States),Clifford P. Case,"1,743,854",62.46%
 1972,New Jersey,1972 United States Senate election in New Jersey,General,Candidate,False,Democratic Party (United States),Paul J. Krebs,"963,573",34.51%
 1972,New Jersey,1972 United States Senate election in New Jersey,General,Candidate,False,American Party (1969),A. Howard Freund,"40,980",1.47%
@@ -103,6 +114,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1972,Oklahoma,1972 United States Senate election in Oklahoma,General,Candidate,False,American Party (1969),William G. Roach,"5,769",0.57%
 1972,Oklahoma,1972 United States Senate election in Oklahoma,General,Candidate,False,Independent (politician),Joe C. Phillips,"2,264",0.23%
 1972,Oklahoma,1972 United States Senate election in Oklahoma,General,Candidate,False,Independent (politician),Paul E. Trent,"1,969",0.20%
+1972,Oregon,1972 United States Senate election in Oregon,General,Winning,True,Republican Party (US),Mark Hatfield,"494,671",53.72
+1972,Oregon,1972 United States Senate election in Oregon,General,Candidate,False,Democratic Party (US),Wayne Morse,"425,036",46.16
 1972,Rhode Island,General election results,General,Winning,True,Democratic Party (US),Claiborne Pell,"221,942",53.68%
 1972,Rhode Island,General election results,General,Candidate,False,Republican Party (US),John Chafee,"188,990",45.71%
 1972,Rhode Island,General election results,General,Candidate,False,Independent (politician),John Quattrocchi,"2,041",0.49%
@@ -112,6 +125,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1972,South Carolina,"South Carolina U.S. Senate election, 1972",General,Candidate,False,Democratic Party (United States),Eugene N. Zeigler,"241,056",36.69%
 1972,South Carolina,"South Carolina U.S. Senate election, 1972",General,Write-in,False,,,172,0.02%
 1972,South Carolina,"South Carolina U.S. Senate election, 1972",General,Total,False,,,"657,034",100.00%
+1972,South Dakota,1972 United States Senate election in South Dakota,General,Winning,False,Democratic Party (US),James Abourezk,"174,773",57.04
+1972,South Dakota,1972 United States Senate election in South Dakota,General,Candidate,False,Republican Party (US),Robert W. Hirsch,"131,613",42.96
 1972,Tennessee,1972 United States Senate election in Tennessee,General,Winning,True,Republican Party (United States),Howard Baker,"716,539",61.55%
 1972,Tennessee,1972 United States Senate election in Tennessee,General,Candidate,False,Democratic Party (United States),Ray Blanton,"440,599",37.85%
 1972,Tennessee,1972 United States Senate election in Tennessee,General,Candidate,False,Independent politician,Dan East,"7,026",0.60%

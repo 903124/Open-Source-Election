@@ -15,6 +15,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1966,Arkansas,1966 Democratic U.S. Senate primary results,Primary,Winning,False,Democratic Party (United States),John L. McClellan (inc.),"220,588",77.19%
 1966,Arkansas,1966 Democratic U.S. Senate primary results,Primary,Candidate,False,Democratic Party (United States),Foster Johnson,"91,746",22.81%
 1966,Arkansas,1966 Democratic U.S. Senate primary results,Primary,Total,False,,,"402,272",100.00%
+1966,Georgia,1966 Senate Democratic primary,Primary,Winning,True,Democratic Party (United States),Richard Russell Jr.,"596,209",90.59%
+1966,Georgia,1966 Senate Democratic primary,Primary,Candidate,False,Democratic Party (United States),Harry Hyde,"61,922",9.41%
+1966,Georgia,1966 Senate Democratic primary,Primary,Total,False,,,"666,910",100.00
 1966,Illinois,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Paul H. Douglas,"840,936",100
 1966,Illinois,Democratic primary results,Primary,Write-in,False,,,3,0.00
 1966,Illinois,Democratic primary results,Primary,Total,False,,,"840,939",100
@@ -65,6 +68,20 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1966,Massachusetts,1966 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),John F. Collins,"265,016",41.85%
 1966,Massachusetts,1966 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Thomas Boylston Adams,"51,435",8.07%
 1966,Massachusetts,1966 Democratic U.S. Senate primary,Primary,Total,False,,,"637,418",100.00%
+1966,Michigan,1966 U.S. Senate Democratic primary in Michigan (full term),Primary,Winning,False,Democratic Party (United States),G. Mennen Williams,"437,438",60.10%
+1966,Michigan,1966 U.S. Senate Democratic primary in Michigan (full term),Primary,Candidate,False,Democratic Party (United States),Jerome P. Cavanagh,"290,465",39.90%
+1966,Michigan,1966 U.S. Senate Democratic primary in Michigan (full term),Primary,Write-in,False,,,2,0.00%
+1966,Michigan,1966 U.S. Senate Democratic primary in Michigan (full term),Primary,Total,False,,,"727,905",100.00%
+1966,Michigan,1966 U.S. Senate Democratic primary in Michigan (partial term),Primary,Winning,False,Democratic Party (United States),G. Mennen Williams,"381,496",59.57%
+1966,Michigan,1966 U.S. Senate Democratic primary in Michigan (partial term),Primary,Candidate,False,Democratic Party (United States),Jerome P. Cavanagh,"258,822",40.42%
+1966,Michigan,1966 U.S. Senate Democratic primary in Michigan (partial term),Primary,Write-in,False,,,6,0.00%
+1966,Michigan,1966 U.S. Senate Democratic primary in Michigan (partial term),Primary,Total,False,,,"640,324",100.00%
+1966,Michigan,1966 U.S. Senate Republican primary in Michigan (full term),Primary,Winning,True,Republican Party (United States),Robert P. Griffin,387892,99.99%
+1966,Michigan,1966 U.S. Senate Republican primary in Michigan (full term),Primary,Write-in,False,,,31,0.00%
+1966,Michigan,1966 U.S. Senate Republican primary in Michigan (full term),Primary,Total,False,,,387923,100.00%
+1966,Michigan,1966 U.S. Senate Republican primary in Michigan (partial term),Primary,Winning,True,Republican Party (United States),Robert P. Griffin,"356,700",99.99%
+1966,Michigan,1966 U.S. Senate Republican primary in Michigan (partial term),Primary,Write-in,False,,,32,0.00%
+1966,Michigan,1966 U.S. Senate Republican primary in Michigan (partial term),Primary,Total,False,,,"356,732",100.00%
 1966,Minnesota,Democratic primary election results,Primary,Winning,True,Minnesota Democratic–Farmer–Labor Party,Walter Mondale,"410,841",90.97%
 1966,Minnesota,Democratic primary election results,Primary,Candidate,False,Minnesota Democratic–Farmer–Labor Party,Ralph E. Franklin,"40,785",9.03%
 1966,Minnesota,Democratic primary election results,Primary,Total,False,,,"451,626",100.00%
@@ -135,6 +152,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1966,South Carolina,Democratic Primary,Primary,Winning,False,Democratic Party (United States),Bradley Morrah,"167,401",55.94%
 1966,South Carolina,Democratic Primary,Primary,Candidate,False,Democratic Party (United States),John Bolt Culbertson,"131,870",44.06%
 1966,South Carolina,Democratic Primary,Primary,Total,False,,,"299,271",100.00%
+1966,South Carolina (special),Democratic Primary results,Primary,Winning,False,Democratic Party (United States),Fritz Hollings,"196,405",60.8%
+1966,South Carolina (special),Democratic Primary results,Primary,Candidate,True,Democratic Party (United States),Donald S. Russell,"126,595",39.2%
 1966,South Dakota,Republican primary,Primary,Winning,False,Republican Party (United States),Karl E. Mundt (inc.),"66,758",82.06%
 1966,South Dakota,Republican primary,Primary,Candidate,False,Republican Party (United States),Richard B. Murphy,"14,593",17.94%
 1966,South Dakota,Republican primary,Primary,Total,False,,,"81,351",100.00%

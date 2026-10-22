@@ -79,27 +79,27 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1970,New York,1970 Conservative Party United States Senate ballot,General,Candidate,False,Conservative Party of New York State,Kevin P. McGovern,35.8,8.42%
 1970,New York,1970 Conservative Party United States Senate ballot,General,Candidate,False,Conservative Party of New York State,Abstention,10.4,2.45%
 1970,New York,1970 Conservative Party United States Senate ballot,General,Total,False,,,425.3,100.00%
-1970,New York,1970 Democratic Party United States Senate ballot,General,Winning,False,Democratic Party (United States),Ted Sorensen,,≈62.00%
-1970,New York,1970 Democratic Party United States Senate ballot,General,Candidate,False,Democratic Party (United States),Paul O'Dwyer,,~25.00%
-1970,New York,1970 Democratic Party United States Senate ballot,General,Candidate,False,Democratic Party (United States),Richard Ottinger,,≈12.00%
-1970,New York,1970 Democratic Party United States Senate ballot,General,Total,False,,,345,100.00%
+1970,New York,1970 Republican Party United States Senate ballot,General,Winning,True,Republican Party (United States),Charles Goodell,311,86.39%
+1970,New York,1970 Republican Party United States Senate ballot,General,Candidate,False,Republican Party (United States),Abstain,49,13.61%
+1970,New York,1970 Republican Party United States Senate ballot,General,Total,False,,,360,100.00%
 1970,New York,1970 Liberal Party United States Senate ballot,General,Winning,True,Liberal Party of New York,Charles Goodell,,67.00%
 1970,New York,1970 Liberal Party United States Senate ballot,General,Candidate,False,Liberal Party of New York,Paul O'Dwyer,,16.00%
 1970,New York,1970 Liberal Party United States Senate ballot,General,Candidate,False,Liberal Party of New York,Richard D. McCarthy,,11.00%
 1970,New York,1970 Liberal Party United States Senate ballot,General,Candidate,False,Liberal Party of New York,Richard Ottinger,,4.00%
 1970,New York,1970 Liberal Party United States Senate ballot,General,Candidate,False,Liberal Party of New York,Ted Sorensen,,2.00%
 1970,New York,1970 Liberal Party United States Senate ballot,General,Total,False,,,,100.00%
-1970,New York,1970 Republican Party United States Senate ballot,General,Winning,True,Republican Party (United States),Charles Goodell,311,86.39%
-1970,New York,1970 Republican Party United States Senate ballot,General,Candidate,False,Republican Party (United States),Abstain,49,13.61%
-1970,New York,1970 Republican Party United States Senate ballot,General,Total,False,,,360,100.00%
-1970,New York,1970 New York United States Senate election,General,Winning,False,Conservative Party of New York State,James L. Buckley,"2,179,640",36.91%
-1970,New York,1970 New York United States Senate election,General,Candidate,False,Democratic Party (United States),Richard Ottinger,"2,171,232",36.77%
-1970,New York,1970 New York United States Senate election,General,Candidate,True,Republican Party (United States),Charles Goodell,"1,178,679",19.96%
-1970,New York,1970 New York United States Senate election,General,Candidate,True,Liberal Party of New York,Charles Goodell,"225,793",3.82%
-1970,New York,1970 New York United States Senate election,General,Candidate,False,Communist Party USA,Arnold Johnson,"4,097",0.07%
-1970,New York,1970 New York United States Senate election,General,Candidate,False,Socialist Workers Party (United States),Kipp Dawson,"3,549",0.06%
-1970,New York,1970 New York United States Senate election,General,Candidate,False,Socialist Labor Party of America,John Emanuel,"3,204",0.05%
-1970,New York,1970 New York United States Senate election,General,Total,False,,,"5,904,744",100.00%
+1970,New York,1970 Democratic Party United States Senate ballot,General,Winning,False,Democratic Party (United States),Ted Sorensen,,≈62.00%
+1970,New York,1970 Democratic Party United States Senate ballot,General,Candidate,False,Democratic Party (United States),Paul O'Dwyer,,~25.00%
+1970,New York,1970 Democratic Party United States Senate ballot,General,Candidate,False,Democratic Party (United States),Richard Ottinger,,≈12.00%
+1970,New York,1970 Democratic Party United States Senate ballot,General,Total,False,,,345,100.00%
+1970,New York,1970 U.S. Senate election in New York,General,Winning,False,Conservative Party of New York State,James L. Buckley,"2,179,640",36.91%
+1970,New York,1970 U.S. Senate election in New York,General,Candidate,False,Democratic Party (United States),Richard Ottinger,"2,171,232",36.77%
+1970,New York,1970 U.S. Senate election in New York,General,Candidate,True,Republican Party (United States),Charles Goodell,"1,178,679",19.96%
+1970,New York,1970 U.S. Senate election in New York,General,Candidate,True,Liberal Party of New York,Charles Goodell,"225,793",3.82%
+1970,New York,1970 U.S. Senate election in New York,General,Candidate,False,Communist Party USA,Arnold Johnson,"4,097",0.07%
+1970,New York,1970 U.S. Senate election in New York,General,Candidate,False,Socialist Workers Party (United States),Kipp Dawson,"3,549",0.06%
+1970,New York,1970 U.S. Senate election in New York,General,Candidate,False,Socialist Labor Party of America,John Emanuel,"3,204",0.05%
+1970,New York,1970 U.S. Senate election in New York,General,Total,False,,,"5,904,744",100.00%
 1970,North Dakota,1970 United States Senate election in North Dakota,General,Winning,True,North Dakota Democratic–Nonpartisan League Party,Quentin Burdick,"134,519",61.27
 1970,North Dakota,1970 United States Senate election in North Dakota,General,Candidate,False,Republican Party (United States),Thomas S. Kleppe,"82,996",37.80
 1970,North Dakota,1970 United States Senate election in North Dakota,General,Candidate,False,Independent (United States),Russell Kleppe,"2,045",0.93
@@ -119,6 +119,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1970,Rhode Island,General election results,General,Candidate,False,Peace and Freedom Party,David N. Fenton,"2,406",0.71
 1970,Rhode Island,General election results,General,Candidate,False,Socialist Workers Party (United States),Daniel B. Fein,996,0.29
 1970,Rhode Island,General election results,General,Total,False,,,"341,222",100.00
+1970,Tennessee,1970 United States Senate election in Tennessee,General,Winning,False,Republican Party (US),Bill Brock,"562,645",51.29
+1970,Tennessee,1970 United States Senate election in Tennessee,General,Candidate,True,Democratic Party (US),Albert Gore Sr.,"519,858",47.39
+1970,Tennessee,1970 United States Senate election in Tennessee,General,Candidate,False,American Independent Party,Cecil Pitard,"8,691",0.79
+1970,Tennessee,1970 United States Senate election in Tennessee,General,Candidate,False,Independent (US),Dan R. East,"5,845",0.53
 1970,Texas,General election results,General,Winning,False,Democratic Party (United States),Lloyd Bentsen,"1,194,069",53.55%
 1970,Texas,General election results,General,Candidate,False,Republican Party (United States),George H. W. Bush,"1,035,794",46.45%
 1970,Texas,General election results,General,Total,False,,,"2,229,863",100.0%

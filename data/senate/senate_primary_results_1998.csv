@@ -32,7 +32,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1998,Colorado,Democratic primary results,Primary,Winning,False,Dottie Lamm,Democratic Party (United States),"84,929",57.98%
 1998,Colorado,Democratic primary results,Primary,Candidate,False,Gil Romero,Democratic Party (United States),"61,548",42.02%
 1998,Colorado,Democratic primary results,Primary,Total,False,,,"146,477",100.00%
-1998,Colorado,Republican primary results,Primary,Winning,True,Ben Nighthorse Campbell,Republican Party (United States),"154,702",70.62%
+1998,Colorado,Republican primary results,Primary,Winning,False,Ben Nighthorse Campbell (inc.),Republican Party (United States),"154,702",70.62%
 1998,Colorado,Republican primary results,Primary,Candidate,False,Bill Eggert,Republican Party (United States),"64,347",29.38%
 1998,Colorado,Republican primary results,Primary,Total,False,,,"219,049",100.00%
 1998,Florida,Democratic primary results,Primary,Winning,True,Bob Graham,Democratic Party (United States),"909,349",100.00%
@@ -55,17 +55,17 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1998,Illinois,Reform primary results,Primary,Winning,False,Don A. Torgersen,Reform Party (United States),403,53.52%
 1998,Illinois,Reform primary results,Primary,Candidate,False,Steve Denari,Reform Party (United States),350,46.48%
 1998,Illinois,Reform primary results,Primary,Total,False,,,753,100.00%
-1998,Iowa,Democratic primary results,Primary,Winning,False,David Osterberg,Democratic Party (United States),"86,064",99.45%
-1998,Iowa,Democratic primary results,Primary,Candidate,False,Write-ins,Democratic Party (United States),476,0.55%
-1998,Iowa,Democratic primary results,Primary,Total,False,,,"86,540",100.00%
 1998,Iowa,Republican primary results,Primary,Winning,True,Chuck Grassley,Republican Party (United States),"149,943",99.72%
 1998,Iowa,Republican primary results,Primary,Candidate,False,Write-ins,Republican Party (United States),419,0.28%
 1998,Iowa,Republican primary results,Primary,Total,False,,,"150,362",100.00%
+1998,Iowa,Democratic primary results,Primary,Winning,False,David Osterberg,Democratic Party (United States),"86,064",99.45%
+1998,Iowa,Democratic primary results,Primary,Candidate,False,Write-ins,Democratic Party (United States),476,0.55%
+1998,Iowa,Democratic primary results,Primary,Total,False,,,"86,540",100.00%
+1998,Kansas,Republican Party primary results,Primary,Winning,True,Sam Brownback,Republican Party (United States),"255,747",100.00%
+1998,Kansas,Republican Party primary results,Primary,Total,False,,,"255,747",100.00%
 1998,Kansas,Democratic primary results,Primary,Winning,False,Paul Feleciano,Democratic Party (United States),"58,097",58.73%
 1998,Kansas,Democratic primary results,Primary,Candidate,False,Todd Covault,Democratic Party (United States),"40,825",41.27%
 1998,Kansas,Democratic primary results,Primary,Total,False,,,"98,922",100.00%
-1998,Kansas,Republican Party primary results,Primary,Winning,True,Sam Brownback,Republican Party (United States),"255,747",100.00%
-1998,Kansas,Republican Party primary results,Primary,Total,False,,,"255,747",100.00%
 1998,Kentucky,Democratic Primary results,Primary,Winning,False,Scotty Baesler,Democratic Party (United States),"194,125",34.16%
 1998,Kentucky,Democratic Primary results,Primary,Candidate,False,Charlie Owen,Democratic Party (United States),"166,472",29.29%
 1998,Kentucky,Democratic Primary results,Primary,Candidate,False,Steve Henry,Democratic Party (United States),"156,576",27.55%
@@ -106,8 +106,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1998,New York,1998 U.S. Senate Democratic primary,Primary,Candidate,False,Geraldine Ferraro,Democratic Party (United States),"201,625",26.37%
 1998,New York,1998 U.S. Senate Democratic primary,Primary,Candidate,False,Mark Green,Democratic Party (United States),"145,819",19.07%
 1998,New York,1998 U.S. Senate Democratic primary,Primary,Candidate,False,Eric Ruano-Melendez,Democratic Party (United States),"28,493",3.73%
-1998,New York,Independence Party primary for the 1998 United States Senate election in New York,Primary,Winning,False,Chuck Schumer,Independence Party (New York),"2,562",58.04%
-1998,New York,Independence Party primary for the 1998 United States Senate election in New York,Primary,Candidate,False,Mark Green,Independence Party (New York),"1,852",41.96%
+1998,New York,1998 Independence Party U.S. Senate primary,Primary,Winning,False,Chuck Schumer,Independence Party (New York),"2,562",58.04%
+1998,New York,1998 Independence Party U.S. Senate primary,Primary,Candidate,False,Mark Green,Independence Party (New York),"1,852",41.96%
 1998,North Carolina,1998 Democratic U.S. Senate primary,Primary,Winning,False,John Edwards,Democratic Party (US),"277,468",51.38%
 1998,North Carolina,1998 Democratic U.S. Senate primary,Primary,Candidate,False,D. G. Martin,Democratic Party (US),"149,049",27.60%
 1998,North Carolina,1998 Democratic U.S. Senate primary,Primary,Candidate,False,Ella Scarborough,Democratic Party (US),"55,486",10.28%
@@ -135,9 +135,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1998,Pennsylvania,Democratic primary results,Primary,Candidate,False,Richard J. Cusick,Democratic Party (United States),118684,24.86
 1998,Pennsylvania,Democratic primary results,Primary,Write-in,False,,Democratic Party (United States),571,0.12
 1998,Pennsylvania,Democratic primary results,Primary,Total,False,,,477359,100.00
-1998,South Carolina,"South Carolina U.S. Senate Election Primary, 1998",Primary,Winning,False,Bob Inglis,Republican Party (United States),"115,029",74.6%
-1998,South Carolina,"South Carolina U.S. Senate Election Primary, 1998",Primary,Candidate,False,Stephen Brown,Republican Party (United States),"33,530",21.7%
-1998,South Carolina,"South Carolina U.S. Senate Election Primary, 1998",Primary,Candidate,False,Elton Legrand,Republican Party (United States),"5,634",3.7%
+1998,South Carolina,1998 U.S. Senate Republican primary,Primary,Winning,False,Bob Inglis,Republican Party (United States),"115,029",74.6%
+1998,South Carolina,1998 U.S. Senate Republican primary,Primary,Candidate,False,Stephen Brown,Republican Party (United States),"33,530",21.7%
+1998,South Carolina,1998 U.S. Senate Republican primary,Primary,Candidate,False,Elton Legrand,Republican Party (United States),"5,634",3.7%
 1998,South Dakota,Republican primary results,Primary,Winning,False,Ron Schmidt,Republican Party (United States),"26,540",52.01%
 1998,South Dakota,Republican primary results,Primary,Candidate,False,Alan Aker,Republican Party (United States),"19,200",37.62%
 1998,South Dakota,Republican primary results,Primary,Candidate,False,John M. Sanders,Republican Party (United States),"5,292",10.37%

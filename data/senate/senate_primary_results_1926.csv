@@ -30,17 +30,6 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1926,Illinois,Progressive primary,Primary,Winning,False,"Progressive Party (US, 1924)",Parley Parker Christensen,495,99.20
 1926,Illinois,Progressive primary,Primary,Candidate,False,Write-in,Others,4,0.80
 1926,Illinois,Progressive primary,Primary,Total,False,,,499,100
-1926,Iowa (special),1926 Republican U.S. Senate primary,Primary,Winning,False,Republican Party (United States),Smith W. Brookhart,"208,894",50.66%
-1926,Iowa (special),1926 Republican U.S. Senate primary,Primary,Candidate,True,Republican Party (United States),Albert B. Cummins,"137,367",33.31%
-1926,Iowa (special),1926 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),Howard J. Clark,"54,392",13.19%
-1926,Iowa (special),1926 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),Dan B. Reardon,"6,037",1.46%
-1926,Iowa (special),1926 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),L.E. Eickelberg,"5,643",1.37%
-1926,Iowa (special),1926 Republican U.S. Senate primary,Primary,Total,False,,,"412,333",100.00%
-1926,Iowa (special),1926 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (United States),Claude Porter,"28,077",48.85%
-1926,Iowa (special),1926 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),James C. Murtaugh,"12,881",22.41%
-1926,Iowa (special),1926 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),J. R. Files,"11,922",20.74%
-1926,Iowa (special),1926 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),George Finch,"4,601",8.00%
-1926,Iowa (special),1926 Democratic U.S. Senate primary,Primary,Total,False,,,"57,481",100.00%
 1926,Iowa,1926 Republican U.S. Senate primary,Primary,Winning,False,Republican Party (United States),Smith W. Brookhart,"208,894",50.66%
 1926,Iowa,1926 Republican U.S. Senate primary,Primary,Candidate,True,Republican Party (United States),Albert B. Cummins,"137,367",33.31%
 1926,Iowa,1926 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),Howard J. Clark,"54,392",13.19%
@@ -89,6 +78,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1926,Missouri,"Socialist primary August 3, 1926",Primary,Total,False,,,72,100
 1926,Missouri,"Socialist Labor primary August 3, 1926",Primary,Winning,False,Socialist Labor Party of America,William Wesley Cox,32,100
 1926,Missouri,"Socialist Labor primary August 3, 1926",Primary,Total,False,,,32,100
+1926,Nevada,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Raymond T. Baker,"4,732",49.86
+1926,Nevada,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Pat McCarran,"2,755",29.03
+1926,Nevada,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),C. H. McIntosh,"1,153",12.15
+1926,Nevada,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),William H. Brennan,850,8.96
+1926,Nevada,Democratic primary results,Primary,Total,False,,,"9,490",
+1926,Nevada,Republican primary results,Primary,Winning,True,Republican Party (United States),Tasker Oddie,"8,512",68.57
+1926,Nevada,Republican primary results,Primary,Candidate,False,Republican Party (United States),Edwin E. Roberts,"3,902",31.43
+1926,Nevada,Republican primary results,Primary,Total,False,,,"12,414",
 1926,New Hampshire,1926 Republican U.S. Senate primary,Primary,Winning,True,Republican Party (US),George H. Moses,"37,655",66.70%
 1926,New Hampshire,1926 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (US),Robert P. Bass,"17,654",31.27%
 1926,New Hampshire,1926 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (US),James G. Remick,"1,147",2.03%
@@ -144,11 +141,16 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1926,Pennsylvania,1926 Prohibition U.S. Senate primary,Primary,Candidate,False,Prohibition Party (US),Gifford Pinchot,"2,036",38.76%
 1926,Pennsylvania,1926 Prohibition U.S. Senate primary,Primary,Write-in,False,,,309,5.88%
 1926,Pennsylvania,1926 Prohibition U.S. Senate primary,Primary,Total,False,,,"5,253",100.00%
-1926,Pennsylvania,1926 Socialist U.S. Senate primary,Primary,Winning,False,Socialist Party (US),Cora Bixler,"1,761",86.03%
+1926,Pennsylvania,1926 Socialist U.S. Senate primary,Primary,Winning,False,Socialist Party of America,Cora Bixler,"1,761",86.03%
 1926,Pennsylvania,1926 Socialist U.S. Senate primary,Primary,Write-in,False,,,286,13.97%
 1926,Pennsylvania,1926 Socialist U.S. Senate primary,Primary,Total,False,,,"2,047",100.00%
 1926,Pennsylvania,1926 Labor U.S. Senate primary,Primary,Write-in,False,,,39,3.79%
 1926,Pennsylvania,1926 Labor U.S. Senate primary,Primary,Total,False,,,"1,028",100.00%
+1926,South Carolina,Democratic Primary results,Primary,Winning,False,Democratic Party (United States),Ellison D. Smith,"72,015",42.0
+1926,South Carolina,Democratic Primary results,Primary,Candidate,False,Democratic Party (United States),Edgar Allan Brown,"65,331",38.1
+1926,South Carolina,Democratic Primary results,Primary,Candidate,False,Democratic Party (United States),Nathaniel B. Dial,"34,144",19.9
+1926,South Carolina,Democratic Primary Runoff results,Primary,Winning,False,Democratic Party (United States),Ellison D. Smith,"82,783",51.6
+1926,South Carolina,Democratic Primary Runoff results,Primary,Candidate,False,Democratic Party (United States),Edgar Allan Brown,"77,559",48.4
 1926,South Dakota,Republican primary,Primary,Winning,False,Republican Party (United States),Peter Norbeck (inc.),"52,937",68.56%
 1926,South Dakota,Republican primary,Primary,Candidate,False,Republican Party (United States),George J. Danforth,"24,271",31.44%
 1926,South Dakota,Republican primary,Primary,Total,False,,,"77,208",100.00%

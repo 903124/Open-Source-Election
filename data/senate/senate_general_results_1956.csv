@@ -24,6 +24,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1956,Georgia,1956 U.S. Senate election in Georgia,General,Winning,False,Herman Talmadge,Democratic Party (United States),"541,094",99.97%
 1956,Georgia,1956 U.S. Senate election in Georgia,General,Write-in,False,,,173,0.03%
 1956,Georgia,1956 U.S. Senate election in Georgia,General,Total,False,,,"541,267",100.00%
+1956,Idaho,1956 United States Senate election in Idaho,General,Winning,False,Frank Church,Democratic Party (US),"149,096",56.20
+1956,Idaho,1956 United States Senate election in Idaho,General,Candidate,True,Herman Welker,Republican Party (US),"102,781",38.74
 1956,Illinois,General election,General,Winning,True,Everett McKinley Dirksen,Republican Party (United States),"2,307,552",54.11
 1956,Illinois,General election,General,Candidate,False,Richard Stengel,Democratic Party (United States),"1,949,883",45.72
 1956,Illinois,General election,General,Candidate,False,Louis Fisher,Socialist Labor Party of America,"7,587",0.18
@@ -44,12 +46,18 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1956,Kentucky (special),1956 U.S. Senate election in Kentucky,General,Winning,False,John Sherman Cooper,Republican Party (United States),"538,505",53.23%
 1956,Kentucky (special),1956 U.S. Senate election in Kentucky,General,Candidate,False,Lawrence Wetherby,Democratic Party (United States),"473,140",46.77%
 1956,Kentucky (special),1956 U.S. Senate election in Kentucky,General,Total,False,,,"1,011,645",100.00%
+1956,Kentucky,1956 United States Senate election in Kentucky,General,Winning,False,Thruston B. Morton,Republican Party (US),"506,903",50.35
+1956,Kentucky,1956 United States Senate election in Kentucky,General,Candidate,True,Earle Clements,Democratic Party (US),"499,922",49.65
 1956,Louisiana,1956 United States Senate election in Louisiana,General,Winning,True,Russell B. Long,Democratic Party (US),"335,564",100.00%
 1956,Maryland,1956 U.S. Senate election in Maryland,General,Winning,False,John Marshall Butler (inc.),Republican Party (United States),"473,059",52.96%
 1956,Maryland,1956 U.S. Senate election in Maryland,General,Candidate,False,George P. Mahoney,Democratic Party (United States),"420,108",47.04%
 1956,Maryland,1956 U.S. Senate election in Maryland,General,Total,False,,,"893,167",100.00%
 1956,Missouri,1956 United States Senate election in Missouri,General,Winning,True,Thomas C. Hennings Jr.,Democratic Party (United States),"1,015,936",56.41
 1956,Missouri,1956 United States Senate election in Missouri,General,Candidate,False,Herbert Douglas,Republican Party (United States),"785,048",43.59
+1956,Nevada,1956 U.S. Senate election in Nevada,General,Winning,True,Alan Bible,Democratic Party (US),"50,677",52.58%
+1956,Nevada,1956 U.S. Senate election in Nevada,General,Candidate,False,Cliff Young,Republican Party (US),"45,712",47.42%
+1956,New Hampshire,1956 United States Senate election in New Hampshire,General,Winning,True,Norris Cotton,Republican Party (US),"161,424",64.07
+1956,New Hampshire,1956 United States Senate election in New Hampshire,General,Candidate,False,Laurence M. Pickett,Democratic Party (US),"90,519",35.93
 1956,New York,1956 United States Senate election in New York,General,Winning,False,Jacob K. Javits,Republican Party (United States),"3,723,933",53.27%
 1956,New York,1956 United States Senate election in New York,General,Candidate,False,Robert F. Wagner Jr.,Democratic Party (United States),"2,964,511",42.42%
 1956,New York,1956 United States Senate election in New York,General,Candidate,False,Robert F. Wagner Jr.,Liberal Party of New York,"300,648",4.30%
@@ -79,9 +87,15 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1956,South Carolina (special),"South Carolina U.S. Senate Special Election, 1956",General,Winning,False,Strom Thurmond,Democratic Party (United States),"245,371",100.00%
 1956,South Dakota,1956 United States Senate election in South Dakota,General,Winning,False,Francis H. Case (inc.),Republican Party (United States),"147,621",50.79%
 1956,South Dakota,1956 United States Senate election in South Dakota,General,Candidate,False,Kenneth Holum,Democratic Party (United States),"143,001",49.21%
+1956,Utah,1956 United States Senate election in Utah,General,Winning,True,Wallace F. Bennett,Republican Party (US),"178,261",53.96
+1956,Utah,1956 United States Senate election in Utah,General,Candidate,False,Alonzo F. Hopkin,Democratic Party (US),"152,120",46.04
 1956,Vermont,"United States Senate election in Vermont, 1956",General,Winning,False,George Aiken (inc.),Republican Party (United States),"103,101",66.39%
 1956,Vermont,"United States Senate election in Vermont, 1956",General,Candidate,False,Bernard G. O'Shea,Democratic Party (United States),"52,184",33.61%
 1956,Vermont,"United States Senate election in Vermont, 1956",General,Total,False,,,"155,289",100.00%
+1956,Washington,1956 United States Senate election in Washington,General,Winning,True,Warren G. Magnuson,Democratic Party (US),"685,565",61.09
+1956,Washington,1956 United States Senate election in Washington,General,Candidate,False,Arthur B. Langlie,Republican Party (US),"436,652",38.91
+1956,West Virginia (special),1956 United States Senate special election in West Virginia,General,Winning,False,Chapman Revercomb,Republican Party (US),"432,123",53.67
+1956,West Virginia (special),1956 United States Senate special election in West Virginia,General,Candidate,False,William C. Marland,Democratic Party (US),"373,051",46.33
 1956,Wisconsin,1956 U.S. Senate election in Wisconsin,General,Winning,True,Alexander Wiley,Republican Party (United States),"892,473",58.59%
 1956,Wisconsin,1956 U.S. Senate election in Wisconsin,General,Candidate,False,Henry Maier,Democratic Party (United States),"627,903",41.22%
 1956,Wisconsin,1956 U.S. Senate election in Wisconsin,General,Candidate,False,Walter Semrau,Independent (politician),"2,745",0.18%

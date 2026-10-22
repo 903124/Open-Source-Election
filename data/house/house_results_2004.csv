@@ -572,7 +572,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2004,house,Mississippi,MS,4,280382,Tracella Hill,Reform,,1.3,False,False,False
 2004,house,Missouri,MO,1,,Lacy Clay,Democratic,,75.3,True,True,False
 2004,house,Missouri,MO,1,,Leslie L. Farr II,Republican,,22.8,False,False,False
-2004,house,Missouri,MO,1,,Terry Chadwick]],Libertarian,,1.4,False,False,False
+2004,house,Missouri,MO,1,,Terry Chadwick,Libertarian,,1.4,False,False,False
 2004,house,Missouri,MO,1,,Robert Rehbein,Constitution,,0.5,False,False,False
 2004,house,Missouri,MO,2,,Todd Akin,Republican,,65.4,True,True,False
 2004,house,Missouri,MO,2,,George D. Weber,Democratic,,33.0,False,False,False

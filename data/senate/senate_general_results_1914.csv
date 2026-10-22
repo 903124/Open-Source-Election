@@ -31,6 +31,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1914,Connecticut,1914 U.S. Senate election in Connecticut,General,Candidate,False,Frederick Platt,Prohibition Party,"1,356",0.75%
 1914,Connecticut,1914 U.S. Senate election in Connecticut,General,Candidate,False,Clarence Warner,Socialist Labor Party of America,650,0.36%
 1914,Connecticut,1914 U.S. Senate election in Connecticut,General,Total,False,,,"180,813",100.00%
+1914,Idaho,1914 United States Senate election in Idaho,General,Winning,True,James H. Brady,Republican Party (US),"47,486",43.89
+1914,Idaho,1914 United States Senate election in Idaho,General,Candidate,False,James H. Hawley,Democratic Party (US),"41,266",38.14
+1914,Idaho,1914 United States Senate election in Idaho,General,Candidate,False,Paul Clagstone,"Progressive Party (US, 1912)","10,321",9.54
+1914,Idaho,1914 United States Senate election in Idaho,General,Candidate,False,Calistus W. Cooper,Socialist Party of America,"7,888",7.29
+1914,Idaho,1914 United States Senate election in Idaho,General,Candidate,False,William M. Duthie,Prohibition Party,"1,237",1.14
+1914,Idaho,1914 United States Senate election in Idaho,General,Total,False,,,"108,198",
 1914,Illinois,1914 United States Senate election in Illinois,General,Winning,True,Lawrence Y. Sherman,Republican Party (United States),"390,661",38.46
 1914,Illinois,1914 United States Senate election in Illinois,General,Candidate,False,Roger C. Sullivan,Democratic Party (United States),"373,403",36.76
 1914,Illinois,1914 United States Senate election in Illinois,General,Candidate,False,Raymond Robins,"Progressive Party (United States, 1912)","203,027",19.99
@@ -57,6 +63,16 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1914,Kansas,1914 United States Senate election in Kansas,General,Candidate,False,Christian Balsac Hoffman,Socialist Party of America,"24,502",4.81%
 1914,Kansas,1914 United States Senate election in Kansas,General,Candidate,False,Earle R. DeLay,Prohibition Party,"9,885",1.94%
 1914,Kansas,1914 United States Senate election in Kansas,General,Total,False,,,"508,894",100.00%
+1914,Kentucky (special),1914 U.S. Senate special election in Kentucky,General,Winning,True,Johnson N. Camden Jr.,Democratic Party (US),"177,797",53.99%
+1914,Kentucky (special),1914 U.S. Senate special election in Kentucky,General,Candidate,False,William Marshall Bullitt,Republican Party (US),"133,139",40.43%
+1914,Kentucky (special),1914 U.S. Senate special election in Kentucky,General,Candidate,False,George Nicholas,"Progressive Party (US, 1912)","13,641",4.14%
+1914,Kentucky (special),1914 U.S. Senate special election in Kentucky,General,Candidate,False,Frank E. Seeds,Socialist Party of America,"4,770",1.45%
+1914,Kentucky (special),1914 U.S. Senate special election in Kentucky,General,Total,False,,,"329,347",100.00
+1914,Kentucky,1914 U.S. Senate election in Kentucky,General,Winning,False,J. C. W. Beckham,Democratic Party (US),"176,605",51.89%
+1914,Kentucky,1914 U.S. Senate election in Kentucky,General,Candidate,False,Augustus E. Willson,Republican Party (US),"144,758",42.53%
+1914,Kentucky,1914 U.S. Senate election in Kentucky,General,Candidate,False,Burton Vance,"Progressive Party (US, 1912)","14,108",4.15%
+1914,Kentucky,1914 U.S. Senate election in Kentucky,General,Candidate,False,H. J. Robertson,Socialist Party of America,"4,890",1.44%
+1914,Kentucky,1914 U.S. Senate election in Kentucky,General,Total,False,,,"340,361",100.00
 1914,Maryland,1914 U.S. Senate election in Maryland,General,Winning,False,John Walter Smith (inc.),Democratic Party (United States),"110,204",50.99%
 1914,Maryland,1914 U.S. Senate election in Maryland,General,Candidate,False,"Edward C. Carrington, Jr.",Republican Party (United States),"94,864",43.89%
 1914,Maryland,1914 U.S. Senate election in Maryland,General,Candidate,False,V. Milton Reichard,"Progressive Party (United States, 1912)","3,697",1.71%
@@ -92,6 +108,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1914,North Dakota,1914 United States Senate election in North Dakota,General,Candidate,False,W. H. Brown,Socialist Party (United States),"6,231",7.14%
 1914,North Dakota,1914 United States Senate election in North Dakota,General,Candidate,False,Sever Serumgard,Independent (politician),"2,707",3.10%
 1914,North Dakota,1914 United States Senate election in North Dakota,General,Total,False,,,"87,310",100.00%
+1914,Ohio,"Ohio United States Senate election, 1914",General,Winning,False,Warren G. Harding,Republican Party (US),"526,115",49.16%
+1914,Ohio,"Ohio United States Senate election, 1914",General,Candidate,False,Timothy S. Hogan,Democratic Party (US),"423,742",39.60%
+1914,Ohio,"Ohio United States Senate election, 1914",General,Candidate,False,Arthur L. Garford,"Progressive Party (US, 1912)","67,509",6.31%
+1914,Ohio,"Ohio United States Senate election, 1914",General,Candidate,False,E.K. Hitchens,Socialist Party of America,"52,803",4.93%
 1914,Oklahoma,1914 United States Senate election in Oklahoma,General,Winning,False,Thomas Gore (inc.),Democratic Party (United States),"119,442",47.98%
 1914,Oklahoma,1914 United States Senate election in Oklahoma,General,Candidate,False,John H. Burford,Republican Party (United States),"73,292",29.44%
 1914,Oklahoma,1914 United States Senate election in Oklahoma,General,Candidate,False,Patrick S. Nagle,Socialist Party (United States),"52,229",20.98%

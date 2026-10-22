@@ -128,6 +128,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1914,North Dakota,Republican primary,Primary,Candidate,False,Andrew Miller,Republican Party (United States),"13,588",23.32%
 1914,North Dakota,Republican primary,Primary,Candidate,False,Herman N. Midtbo,Republican Party (United States),"2,305",3.96%
 1914,North Dakota,Republican primary,Primary,Total,False,,,"58,272",100.00%
+1914,Ohio,"Ohio United States Senate Republican Primary, 1914",Primary,Winning,False,Warren G. Harding,Republican Party (US),"88,540",40.69%
+1914,Ohio,"Ohio United States Senate Republican Primary, 1914",Primary,Candidate,False,Joseph B. Foraker,Republican Party (US),"76,817",35.30%
+1914,Ohio,"Ohio United States Senate Republican Primary, 1914",Primary,Candidate,False,Ralph D. Cole,Republican Party (US),"52,237",24.01%
 1914,Oklahoma,Democratic primary,Primary,Winning,False,Thomas Gore (inc.),Democratic Party (United States),"86,957",75.06%
 1914,Oklahoma,Democratic primary,Primary,Candidate,False,Samuel W. Hayes,Democratic Party (United States),"28,891",24.94%
 1914,Oklahoma,Democratic primary,Primary,Total,False,,,"115,848",100.00%

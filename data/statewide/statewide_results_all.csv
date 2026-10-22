@@ -1038,7 +1038,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 1958,Minnesota,MN,governor,Orville Freeman,Minnesota Democratic-farmer-labor,56.8,True,True
 1958,Minnesota,MN,governor,George MacKinnon,Republican,42.3,False,False
 1958,Minnesota,MN,governor,Arne Anderson,Independent,0.94,False,False
-1958,Nebraska,NE,governor,Ralph G. Brooks,Democratic,50.19,True,False
+1958,Nebraska,NE,governor,Ralph Brooks,Democratic,50.19,True,False
 1958,Nebraska,NE,governor,Victor Anderson,Republican,49.8,False,True
 1958,Nevada,NV,governor,Grant Sawyer,Democratic,59.9,True,False
 1958,Nevada,NV,governor,Charles H. Russell,Republican,,False,True

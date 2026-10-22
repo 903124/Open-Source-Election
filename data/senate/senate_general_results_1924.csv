@@ -14,6 +14,17 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1924,Colorado,1924 United States Senate election in Colorado,General,Candidate,False,Morton Alexander,Farmer–Labor Party,"16,039",5.04%
 1924,Colorado,1924 United States Senate election in Colorado,General,Candidate,False,Elwood Hills,Socialist Party (United States),"1,575",0.50%
 1924,Colorado,1924 United States Senate election in Colorado,General,Candidate,False,James Albert Ayres,Workers Party of America,"1,197",0.38%
+1924,Georgia,1924 United States Senate election in Georgia,General,Winning,True,William J. Harris,Democratic Party (US),"155,497",100.00%
+1924,Idaho,1924 United States Senate election in Idaho,General,Winning,True,William Borah,Republican Party (US),"99,846",79.50
+1924,Idaho,1924 United States Senate election in Idaho,General,Candidate,False,Frank Martin,Democratic Party (US),"25,199",20.06
+1924,Idaho,1924 United States Senate election in Idaho,General,Candidate,False,Eugene F. Gary,Socialist Party of America,554,0.44
+1924,Illinois,1924 United States Senate election in Illinois,General,Winning,False,Charles S. Deneen,Republican Party (United States),"1,449,180",63.54
+1924,Illinois,1924 United States Senate election in Illinois,General,Candidate,False,Albert A. Sprague,Democratic Party (United States),"806,702",35.37
+1924,Illinois,1924 United States Senate election in Illinois,General,Candidate,False,George Koop,Socialist Party of America,"18,708",0.82
+1924,Illinois,1924 United States Senate election in Illinois,General,Candidate,False,Albert Wirth,Socialist Labor Party of America,"2,966",0.13
+1924,Illinois,1924 United States Senate election in Illinois,General,Candidate,False,J. Louis Engdahl,Workers Party of America,"2,518",0.11
+1924,Illinois,1924 United States Senate election in Illinois,General,Candidate,False,Lewis D. Spaulding,Commonwealth Land Party (United States),391,0.02
+1924,Illinois,1924 United States Senate election in Illinois,General,Candidate,False,Parke Longworth,Independent politician,382,0.02
 1924,Iowa,1924 U.S. Senate election in Iowa,General,Winning,True,Smith W. Brookhart,Republican Party (United States),"447,706",49.95%
 1924,Iowa,1924 U.S. Senate election in Iowa,General,Candidate,False,Daniel F. Steck,Democratic Party (United States),"446,951",49.87%
 1924,Iowa,1924 U.S. Senate election in Iowa,General,Candidate,False,Luther Brewer,Independent Republican (United States),"1,124",0.13%
@@ -24,6 +35,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1924,Kansas,1924 United States Senate election in Kansas,General,Candidate,False,Fred J. Fraley,Independent (politician),"23,266",3.81%
 1924,Kansas,1924 United States Senate election in Kansas,General,Candidate,False,S. O. Coble,Socialist Party of America,"5,340",0.87%
 1924,Kansas,1924 United States Senate election in Kansas,General,Total,False,,,"611,290",100.00%
+1924,Kentucky,1924 U.S. Senate election in Kentucky,General,Winning,False,Frederic M. Sackett,Republican Party (US),"406,121",51.56%
+1924,Kentucky,1924 U.S. Senate election in Kentucky,General,Candidate,True,Augustus Owsley Stanley,Democratic Party (US),"381,605",48.44%
+1924,Kentucky,1924 U.S. Senate election in Kentucky,General,Total,False,,,"787,726",100.00%
 1924,Maine,1924 U.S. Senate election in Maine,General,Winning,False,Bert Fernald (inc.),Republican Party (United States),"148,783",60.43%
 1924,Maine,1924 U.S. Senate election in Maine,General,Candidate,False,Fulton J. Redman,Democratic Party (United States),"97,428",39.57%
 1924,Maine,1924 U.S. Senate election in Maine,General,Total,False,,,"246,211",100.00%
@@ -37,13 +51,13 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1924,Michigan,1924 U.S. Senate election in Michigan,General,Candidate,False,Logan M. Cunningham,Socialist Labor Party of America,"3,080",0.27%
 1924,Michigan,1924 U.S. Senate election in Michigan,General,Candidate,False,Albert L. Day,Socialist Party (United States),"1,619",0.14%
 1924,Michigan,1924 U.S. Senate election in Michigan,General,Total,False,,,"1,156,572",100.00%
-1924,Michigan,1924 U.S. Senate election in Michigan,General,Winning,True,James J. Couzens,Republican Party (US),"839,569",75.04%
-1924,Michigan,1924 U.S. Senate election in Michigan,General,Candidate,False,Mortimer Elwyn Cooley,Democratic Party (US),"266,851",23.85%
-1924,Michigan,1924 U.S. Senate election in Michigan,General,Candidate,False,Frank E. Titus,Prohibition Party (United States),"7,452",0.67%
-1924,Michigan,1924 U.S. Senate election in Michigan,General,Candidate,False,Logan M. Cunningham,Socialist Labor Party of America,"3,360",0.30%
-1924,Michigan,1924 U.S. Senate election in Michigan,General,Candidate,False,Albert L. Day,Socialist Party (United States),"1,555",0.14%
-1924,Michigan,1924 U.S. Senate election in Michigan,General,Write-in,False,,,16,0.00%
-1924,Michigan,1924 U.S. Senate election in Michigan,General,Total,False,,,"1,118,803",100.00%
+1924,Michigan,1924 U.S. Senate election in Michigan (special),General,Winning,True,James J. Couzens,Republican Party (US),"839,569",75.04%
+1924,Michigan,1924 U.S. Senate election in Michigan (special),General,Candidate,False,Mortimer Elwyn Cooley,Democratic Party (US),"266,851",23.85%
+1924,Michigan,1924 U.S. Senate election in Michigan (special),General,Candidate,False,Frank E. Titus,Prohibition Party (United States),"7,452",0.67%
+1924,Michigan,1924 U.S. Senate election in Michigan (special),General,Candidate,False,Logan M. Cunningham,Socialist Labor Party of America,"3,360",0.30%
+1924,Michigan,1924 U.S. Senate election in Michigan (special),General,Candidate,False,Albert L. Day,Socialist Party (United States),"1,555",0.14%
+1924,Michigan,1924 U.S. Senate election in Michigan (special),General,Write-in,False,,,16,0.00%
+1924,Michigan,1924 U.S. Senate election in Michigan (special),General,Total,False,,,"1,118,803",100.00%
 1924,Minnesota,General election results,General,Winning,False,Thomas D. Schall,Republican Party of Minnesota,"388,594",46.45%
 1924,Minnesota,General election results,General,Candidate,True,Magnus Johnson,Farmer–Labor Party,"380,646",45.50%
 1924,Minnesota,General election results,General,Candidate,False,John J. Farrell,Democratic Party of Minnesota,"53,709",6.42%
@@ -84,6 +98,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1924,South Dakota,1924 United States Senate election in South Dakota,General,Candidate,False,C. H. Dillon,Independent (politician),"3,835",1.88%
 1924,South Dakota,1924 United States Senate election in South Dakota,General,Candidate,False,H. L. Loucks,Independent (politician),"1,378",0.68%
 1924,South Dakota,1924 United States Senate election in South Dakota,General,Candidate,False,Don Livingston,Independent (politician),"1,138",0.56%
+1924,Tennessee,General election results,General,Winning,False,Lawrence Tyson,Democratic Party (US),"147,871",57.32%
+1924,Tennessee,General election results,General,Candidate,False,Hugh B. Lindsay,Republican Party (US),"109,859",42.59%
+1924,Tennessee,General election results,General,Candidate,False,S. B. Williams,Independent (US),242,0.09%
 1924,Texas,1924 United States Senate election in Texas,General,Winning,True,Morris Sheppard,Democratic Party (United States),"591,913",85.40%
 1924,Texas,1924 United States Senate election in Texas,General,Candidate,False,T. M. Kennerly,Republican Party (United States),"101,208",14.60%
 1924,Texas,1924 United States Senate election in Texas,General,Total,False,,,"693,121",100.00%

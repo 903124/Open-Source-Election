@@ -70,13 +70,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Maryland,MD,governor,"Maryland gubernatorial election, 1998",Winning,Parris Glendening (inc.),Democratic,846972,55.14,True,False
 1998,Maryland,MD,governor,"Maryland gubernatorial election, 1998",Candidate,Ellen Sauerbrey,Republican,688357,44.82,False,False
 1998,Maryland,MD,governor,"Maryland gubernatorial election, 1998",Write-in,Write-ins,Write-ins,649,0.04,False,False
-1998,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 1998",Winning,Paul Cellucci (acting),Republican,967160,50.87,True,False
+1998,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 1998",Winning,Paul Cellucci,Republican,967160,50.87,True,True
 1998,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 1998",Candidate,Scott Harshbarger,Democratic,901843,47.44,False,False
 1998,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 1998",Candidate,Dean Cook,Libertarian,32184,1.69,False,False
 1998,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 1998",Candidate,Blank votes,N/a,31941,1.65,False,False
 1998,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 1998",Write-in,,,2149,0.11,False,False
 1998,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 1998",Total,,,1901187,51.19,False,False
-1998,Michigan,MI,governor,1998 Michigan gubernatorial election,Winning,John Engler (inc.),Republican,1883005,62.2,True,False
+1998,Michigan,MI,governor,1998 Michigan gubernatorial election,Winning,John Engler,Republican,1883005,62.2,True,True
 1998,Michigan,MI,governor,1998 Michigan gubernatorial election,Candidate,Geoffrey Fieger,Democratic,1143574,37.78,False,False
 1998,Michigan,MI,governor,1998 Michigan gubernatorial election,Candidate,Terry Link (write-in),,399,0.01,False,False
 1998,Michigan,MI,governor,1998 Michigan gubernatorial election,Candidate,Carl Humphrey (write-in),,36,0.0,False,False

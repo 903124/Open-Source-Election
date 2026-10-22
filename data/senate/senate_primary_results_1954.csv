@@ -22,6 +22,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1954,Colorado,1954 U.S. Senate Democratic primary,Primary,Winning,False,Democratic Party (United States),John A. Carroll,"82,360",60.19%
 1954,Colorado,1954 U.S. Senate Democratic primary,Primary,Candidate,False,Democratic Party (United States),J. Quigg Newton,"54,467",39.81%
 1954,Colorado,1954 U.S. Senate Democratic primary,Primary,Total,False,,,"136,827",100.00%
+1954,Georgia,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Richard Russell Jr.,"619,129",100.00
 1954,Idaho,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Glen H. Taylor,"26,591",41.32
 1954,Idaho,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Claude J. Burtenshaw,"24,094",37.44
 1954,Idaho,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Alvin McCormack,"13,673",21.25
@@ -84,6 +85,20 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1954,Nebraska (special),Republican primary,Primary,Winning,False,Republican Party (United States),Roman Hruska,"118,084",99.77%
 1954,Nebraska (special),Republican primary,Primary,Candidate,False,Republican Party (United States),Scattering,272,0.23%
 1954,Nebraska (special),Republican primary,Primary,Total,False,,,"118,356",100.00%
+1954,Nebraska,Democratic primary,Primary,Winning,False,Democratic Party (United States),Keith Neville,"38,114",52.83%
+1954,Nebraska,Democratic primary,Primary,Candidate,False,Democratic Party (United States),Joseph V. Benesch,"17,992",24.94%
+1954,Nebraska,Democratic primary,Primary,Candidate,False,Democratic Party (United States),Edward A. Dosek,"15,920",22.07%
+1954,Nebraska,Democratic primary,Primary,Candidate,False,Democratic Party (United States),Scattering,116,0.16%
+1954,Nebraska,Democratic primary,Primary,Total,False,,,"72,142",100.00%
+1954,Nebraska,Republican primary,Primary,Winning,False,Republican Party (United States),Carl Curtis,"64,410",39.42%
+1954,Nebraska,Republican primary,Primary,Candidate,False,Republican Party (United States),Robert B. Crosby,"43,580",26.67%
+1954,Nebraska,Republican primary,Primary,Candidate,False,Republican Party (United States),Terry Carpenter,"30,767",18.83%
+1954,Nebraska,Republican primary,Primary,Candidate,False,Republican Party (United States),David Martin,"18,283",11.19%
+1954,Nebraska,Republican primary,Primary,Candidate,False,Republican Party (United States),James L. Harrison,"2,782",1.70%
+1954,Nebraska,Republican primary,Primary,Candidate,False,Republican Party (United States),Walter A. Nielsen,"2,592",1.59%
+1954,Nebraska,Republican primary,Primary,Candidate,False,Republican Party (United States),John P. Overgaard,954,0.58%
+1954,Nebraska,Republican primary,Primary,Candidate,False,Republican Party (United States),Scattering,20,0.01%
+1954,Nebraska,Republican primary,Primary,Total,False,,,"163,388",100.00%
 1954,New Hampshire,1954 Republican U.S. Senate primary,Primary,Winning,True,Republican Party (United States),Styles Bridges,"62,524",100.00%
 1954,New Hampshire,1954 Republican U.S. Senate primary,Primary,Total,False,,,"62,524",100.00%
 1954,New Hampshire,1954 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (United States),Gerald L. Morin,"9,839",40.01%
@@ -156,3 +171,18 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1954,West Virginia,Republican primary results,Primary,Winning,False,Republican Party (United States),Thomas Sweeney,"72,891",66.06
 1954,West Virginia,Republican primary results,Primary,Candidate,False,Republican Party (United States),Latelle M. LaFollette,"37,449",33.94
 1954,West Virginia,Republican primary results,Primary,Total,False,,,"110,340",100.00
+1954,Wyoming,Democratic primary,Primary,Winning,False,Democratic Party (United States),Joseph C. O'Mahoney,"29,676",88.16%
+1954,Wyoming,Democratic primary,Primary,Candidate,False,Democratic Party (United States),Carl A. Johnson,"3,985",11.84%
+1954,Wyoming,Democratic primary,Primary,Total,False,,,"33,661",100.00%
+1954,Wyoming (special),Special Democratic primary,Primary,Winning,False,Democratic Party (United States),Joseph C. O'Mahoney,"31,549",100.00%
+1954,Wyoming (special),Special Democratic primary,Primary,Total,False,,,"31,549",100.00%
+1954,Wyoming,Republican primary,Primary,Winning,False,Republican Party (United States),William Henry Harrison III,"23,119",51.55%
+1954,Wyoming,Republican primary,Primary,Candidate,False,Republican Party (United States),Sam C. Hyatt,"10,643",23.73%
+1954,Wyoming,Republican primary,Primary,Candidate,False,Republican Party (United States),Ewing T. Kerr,"10,374",23.13%
+1954,Wyoming,Republican primary,Primary,Candidate,False,Republican Party (United States),William J. Taber,709,1.58%
+1954,Wyoming,Republican primary,Primary,Total,False,,,"44,845",100.00%
+1954,Wyoming (special),Republican primary (special),Primary,Winning,False,Republican Party (United States),William Henry Harrison III,"22,257",49.98%
+1954,Wyoming (special),Republican primary (special),Primary,Candidate,False,Republican Party (United States),Sam C. Hyatt,"10,832",24.32%
+1954,Wyoming (special),Republican primary (special),Primary,Candidate,False,Republican Party (United States),Ewing T. Kerr,"10,601",23.81%
+1954,Wyoming (special),Republican primary (special),Primary,Candidate,False,Republican Party (United States),William J. Taber,841,1.89%
+1954,Wyoming (special),Republican primary (special),Primary,Total,False,,,"44,531",100.00%

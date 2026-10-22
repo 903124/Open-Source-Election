@@ -12,18 +12,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1922,Connecticut,1922 U.S. Senate election in Connecticut,General,Candidate,False,Isadore Polsky,Farmer–Labor Party,887,0.27%
 1922,Connecticut,1922 U.S. Senate election in Connecticut,General,Candidate,False,George E. Carey,Independent (politician),945,0.29%
 1922,Connecticut,1922 U.S. Senate election in Connecticut,General,Total,False,,,"323,906",100.00%
-1922,Delaware (special),1922 U.S. Senate election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (United States),"37,304",49.81%
-1922,Delaware (special),1922 U.S. Senate election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (United States),"36,979",49.38%
-1922,Delaware (special),1922 U.S. Senate election in Delaware,General,Total,False,,,"74,891",100.00%
-1922,Delaware (special),1922 U.S. Senate special election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (United States),"36,954",49.65%
-1922,Delaware (special),1922 U.S. Senate special election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (United States),"36,894",49.57%
-1922,Delaware (special),1922 U.S. Senate special election in Delaware,General,Total,False,,,"74,429",100.00%
 1922,Delaware,1922 U.S. Senate election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (United States),"37,304",49.81%
 1922,Delaware,1922 U.S. Senate election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (United States),"36,979",49.38%
 1922,Delaware,1922 U.S. Senate election in Delaware,General,Total,False,,,"74,891",100.00%
-1922,Delaware,1922 U.S. Senate special election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (United States),"36,954",49.65%
-1922,Delaware,1922 U.S. Senate special election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (United States),"36,894",49.57%
-1922,Delaware,1922 U.S. Senate special election in Delaware,General,Total,False,,,"74,429",100.00%
+1922,Delaware (special),1922 U.S. Senate special election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (United States),"36,954",49.65%
+1922,Delaware (special),1922 U.S. Senate special election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (United States),"36,894",49.57%
+1922,Delaware (special),1922 U.S. Senate special election in Delaware,General,Total,False,,,"74,429",100.00%
 1922,Florida,1922 U.S. Senate election in Florida,General,Winning,True,Park Trammell,Democratic Party (United States),"45,707",88.27%
 1922,Florida,1922 U.S. Senate election in Florida,General,Candidate,False,W. C. Lawson,Independent Republican (United States),"6,074",11.73%
 1922,Florida,1922 U.S. Senate election in Florida,General,Total,False,,,"51,781",100.00%

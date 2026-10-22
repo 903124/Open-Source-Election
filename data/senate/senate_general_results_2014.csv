@@ -1,7 +1,7 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,percentage
-2014,Alabama,"United States Senate election in Alabama, 2014",General,Winning,True,Jeff Sessions,Republican Party (United States),"795,606",97.25%
-2014,Alabama,"United States Senate election in Alabama, 2014",General,Write-in,False,,,"22,484",2.75%
-2014,Alabama,"United States Senate election in Alabama, 2014",General,Total,False,,,"818,090",100.00%
+2014,Alabama,2014 United States Senate election in Alabama,General,Winning,True,Jeff Sessions,Republican Party (United States),"795,606",97.25%
+2014,Alabama,2014 United States Senate election in Alabama,General,Write-in,False,,,"22,484",2.75%
+2014,Alabama,2014 United States Senate election in Alabama,General,Total,False,,,"818,090",100.00%
 2014,Alaska,2014 United States Senate election in Alaska,General,Winning,False,Dan Sullivan,Republican Party (United States),"135,445",47.96%
 2014,Alaska,2014 United States Senate election in Alaska,General,Candidate,True,Mark Begich,Democratic Party (United States),"129,431",45.83%
 2014,Alaska,2014 United States Senate election in Alaska,General,Candidate,False,Mark Fish,Alaska Libertarian Party,"10,512",3.72%

@@ -10,6 +10,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1950,Florida,Democratic primary results,Primary,Winning,False,Democratic Party (United States),George Smathers,"387,315",54.78
 1950,Florida,Democratic primary results,Primary,Candidate,True,Democratic Party (United States),Claude Pepper,"319,754",45.22
 1950,Florida,Democratic primary results,Primary,Total,False,,,"707,069",100
+1950,Georgia,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Walter F. George,"470,156",82.50
+1950,Georgia,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Alex McLennan,"79,886",14.02
+1950,Georgia,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Harry L. Hyde,"19,852",3.48
 1950,Idaho (special),Democratic primary results,Primary,Winning,False,Democratic Party (United States),Claude J. Burtenshaw,"17,690",27.94
 1950,Idaho (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Edwin M. Holden,"14,006",22.13
 1950,Idaho (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Robert L. Summerfield,"13,759",21.73
@@ -47,43 +50,20 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1950,Iowa,1950 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),W.M. Shaw,"4,479",4.52%
 1950,Iowa,1950 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Ernest J. Seemann,"4,225",4.27%
 1950,Iowa,1950 Democratic U.S. Senate primary,Primary,Total,False,,,"99,070",100.00%
-1950,Kansas (special),Democratic primary results,Primary,Winning,False,Democratic Party (United States),Paul Aiken,"54,857",57.15%
-1950,Kansas (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Carl V. Rice,"41,135",42.85%
-1950,Kansas (special),Democratic primary results,Primary,Total,False,,,"95,992",100.00%
-1950,Kansas (special),Democratic primary results,Primary,Winning,False,Democratic Party (United States),Paul Aiken,"47,975",57.75%
-1950,Kansas (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Carl V. Rice,"35,103",42.25%
-1950,Kansas (special),Democratic primary results,Primary,Total,False,,,"83,078",100.00%
-1950,Kansas (special),Republican primary results,Primary,Winning,False,Republican Party (United States),Frank Carlson,"140,798",58.61%
-1950,Kansas (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),Harry W. Colmery,"99,418",41.39%
-1950,Kansas (special),Republican primary results,Primary,Total,False,,,"240,216",100.00%
-1950,Kansas (special),Republican primary results,Primary,Winning,False,Republican Party (United States),Frank Carlson,"121,020",57.37%
-1950,Kansas (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),Harry W. Colmery,"89,921",42.63%
-1950,Kansas (special),Republican primary results,Primary,Total,False,,,"210,941",100.00%
-1950,Kansas (special),Prohibition primary results,Primary,Winning,False,Prohibition Party,Floyd M. Gurley,379,100.00%
-1950,Kansas (special),Prohibition primary results,Primary,Total,False,,,379,100.00%
 1950,Kansas,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Paul Aiken,"54,857",57.15%
 1950,Kansas,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Carl V. Rice,"41,135",42.85%
 1950,Kansas,Democratic primary results,Primary,Total,False,,,"95,992",100.00%
-1950,Kansas,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Paul Aiken,"47,975",57.75%
-1950,Kansas,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Carl V. Rice,"35,103",42.25%
-1950,Kansas,Democratic primary results,Primary,Total,False,,,"83,078",100.00%
+1950,Kansas (special),Democratic primary results (special),Primary,Winning,False,Democratic Party (United States),Paul Aiken,"47,975",57.75%
+1950,Kansas (special),Democratic primary results (special),Primary,Candidate,False,Democratic Party (United States),Carl V. Rice,"35,103",42.25%
+1950,Kansas (special),Democratic primary results (special),Primary,Total,False,,,"83,078",100.00%
 1950,Kansas,Republican primary results,Primary,Winning,False,Republican Party (United States),Frank Carlson,"140,798",58.61%
 1950,Kansas,Republican primary results,Primary,Candidate,False,Republican Party (United States),Harry W. Colmery,"99,418",41.39%
 1950,Kansas,Republican primary results,Primary,Total,False,,,"240,216",100.00%
-1950,Kansas,Republican primary results,Primary,Winning,False,Republican Party (United States),Frank Carlson,"121,020",57.37%
-1950,Kansas,Republican primary results,Primary,Candidate,False,Republican Party (United States),Harry W. Colmery,"89,921",42.63%
-1950,Kansas,Republican primary results,Primary,Total,False,,,"210,941",100.00%
+1950,Kansas (special),Republican primary results (special),Primary,Winning,False,Republican Party (United States),Frank Carlson,"121,020",57.37%
+1950,Kansas (special),Republican primary results (special),Primary,Candidate,False,Republican Party (United States),Harry W. Colmery,"89,921",42.63%
+1950,Kansas (special),Republican primary results (special),Primary,Total,False,,,"210,941",100.00%
 1950,Kansas,Prohibition primary results,Primary,Winning,False,Prohibition Party,Floyd M. Gurley,379,100.00%
 1950,Kansas,Prohibition primary results,Primary,Total,False,,,379,100.00%
-1950,Kentucky (special),Democratic primary results,Primary,Winning,True,Democratic Party (United States),Earle Clements,114482,70.88
-1950,Kentucky (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),George G. Hatcher,38010,23.53
-1950,Kentucky (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Dennis E. McQueary,4874,3.02
-1950,Kentucky (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),James L. Delk,4156,2.57
-1950,Kentucky (special),Democratic primary results,Primary,Total,False,,,161522,100.00
-1950,Kentucky (special),Republican primary results,Primary,Winning,False,Republican Party (United States),Charles I. Dawson,36461,76.07
-1950,Kentucky (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),James W. Brown,5763,12.02
-1950,Kentucky (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),Charles E. Whittle,5710,11.91
-1950,Kentucky (special),Republican primary results,Primary,Total,False,,,47934,100.00
 1950,Kentucky,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Earle Clements,114482,70.88
 1950,Kentucky,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),George G. Hatcher,38010,23.53
 1950,Kentucky,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Dennis E. McQueary,4874,3.02
@@ -153,6 +133,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1950,Oklahoma,Republican primary,Primary,Candidate,False,Republican Party (United States),George T. Balch,"4,746",8.18%
 1950,Oklahoma,Republican primary,Primary,Candidate,False,Republican Party (United States),Forrest Van Pelt,"2,220",3.83%
 1950,Oklahoma,Republican primary,Primary,Total,False,,,"58,079",100.00%
+1950,South Carolina,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Olin D. Johnston,"186,180",54.0
+1950,South Carolina,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Strom Thurmond,"158,904",46.0
 1950,South Dakota,Democratic primary,Primary,Winning,False,Democratic Party (United States),John A. Engel,"18,944",59.11%
 1950,South Dakota,Democratic primary,Primary,Candidate,False,Democratic Party (United States),John S. Tschetter,"13,104",40.89%
 1950,South Dakota,Democratic primary,Primary,Total,False,,,"32,048",100.00%

@@ -193,9 +193,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2008,Tennessee,Democratic Party primary results,Primary,Candidate,False,Kenneth Eaton,Democratic Party (United States),"14,702",8.02%
 2008,Tennessee,Democratic Party primary results,Primary,Candidate,False,Leonard D. Ladner,Democratic Party (United States),"4,697",2.55%
 2008,Tennessee,Democratic Party primary results,Primary,Total,False,,,"183,348",100.00%
-2008,Texas,Republican Primary,Primary,Winning,True,John Cornyn,Republican Party (United States),"997,216",81.48%
-2008,Texas,Republican Primary,Primary,Candidate,False,Larry Kilgore,Republican Party (United States),"226,649",18.52%
-2008,Texas,Republican Primary,Primary,Total,False,,,"1,223,865",100.00%
+2008,Texas,Republican primary,Primary,Winning,True,John Cornyn,Republican Party (United States),"997,216",81.48%
+2008,Texas,Republican primary,Primary,Candidate,False,Larry Kilgore,Republican Party (United States),"226,649",18.52%
+2008,Texas,Republican primary,Primary,Total,False,,,"1,223,865",100.00%
 2008,Texas,Democratic primary,Primary,Winning,False,Rick Noriega,Democratic Party (United States),"1,110,579",51.01%
 2008,Texas,Democratic primary,Primary,Candidate,False,Gene Kelly,Democratic Party (United States),"584,966",26.87%
 2008,Texas,Democratic primary,Primary,Candidate,False,Ray McMurrey,Democratic Party (United States),"269,402",12.37%

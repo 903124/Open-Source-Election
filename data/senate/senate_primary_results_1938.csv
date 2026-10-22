@@ -1,7 +1,4 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
-1938,Alabama,"Alabama special Democratic primary, January 4, 1938",Primary,Winning,False,Democratic Party (US),J. Lister Hill,"90,601",61.81%
-1938,Alabama,"Alabama special Democratic primary, January 4, 1938",Primary,Candidate,False,Democratic Party (US),James Thomas Heflin,"50,189",34.24%
-1938,Alabama,"Alabama special Democratic primary, January 4, 1938",Primary,Candidate,False,Democratic Party (US),Charles W. Williams,"5,783",3.95%
 1938,Arizona,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Carl T. Hayden,"68,328",65.48%
 1938,Arizona,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Robert E. Miller,"22,154",21.23%
 1938,Arizona,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Whit I. Hughes,"13,867",13.29%
@@ -101,6 +98,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1938,Missouri,"Republican primary August 2, 1938",Primary,Winning,False,Republican Party (United States),Henry S. Caulfield,"168,312",85.97
 1938,Missouri,"Republican primary August 2, 1938",Primary,Candidate,False,Republican Party (United States),Ray E. White,"27,470",14.03
 1938,Missouri,"Republican primary August 2, 1938",Primary,Total,False,,,"195,782",100
+1938,Nevada,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Pat McCarran,"17,921",74.34
+1938,Nevada,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Albert Hilliard,"5,329",22.11
+1938,Nevada,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),John E. Worden,857,3.55
+1938,Nevada,Democratic primary results,Primary,Total,False,,,"24,107",
 1938,New Jersey (special),1938 Democratic U.S. Senate special primary,Primary,Winning,False,Democratic Party (US),William H. J. Ely,"286,625",100.0%
 1938,New Jersey (special),1938 Democratic U.S. Senate special primary,Primary,Total,False,,,"286,625",100.0%
 1938,New Jersey (special),1938 Republican Senate special primary,Primary,Winning,False,Republican Party (US),William Warren Barbour,"309,967",89.83%
@@ -130,6 +131,17 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1938,Oklahoma,Prohibition primary,Primary,Winning,False,Prohibition Party (United States),P. C. Nelson,91,54.49%
 1938,Oklahoma,Prohibition primary,Primary,Candidate,False,Prohibition Party (United States),A. B. Lamb,76,45.51%
 1938,Oklahoma,Prohibition primary,Primary,Total,False,,,167,100.00%
+1938,South Carolina,Democratic Primary results,Primary,Winning,False,Democratic Party (United States),Ellison D. Smith,"186,579",55.4
+1938,South Carolina,Democratic Primary results,Primary,Candidate,False,Democratic Party (United States),Olin D. Johnston,"150,437",44.6
+1938,South Dakota,Democratic primary,Primary,Winning,False,Democratic Party (United States),Tom Berry,"46,292",63.04%
+1938,South Dakota,Democratic primary,Primary,Candidate,False,Democratic Party (United States),Fred Hildebrandt,"17,391",23.68%
+1938,South Dakota,Democratic primary,Primary,Candidate,False,Democratic Party (United States),Herbert Hitchcock (inc.),"9,750",13.28%
+1938,South Dakota,Democratic primary,Primary,Total,False,,,"73,433",100.00%
+1938,South Dakota,Republican primary,Primary,Winning,False,Republican Party (United States),Chan Gurney,"49,371",46.75%
+1938,South Dakota,Republican primary,Primary,Candidate,False,Republican Party (United States),Leslie Jensen,"40,917",38.75%
+1938,South Dakota,Republican primary,Primary,Candidate,False,Republican Party (United States),George J. Danforth,"8,883",8.41%
+1938,South Dakota,Republican primary,Primary,Candidate,False,Republican Party (United States),Paul E. Bellamy,"6,434",6.09%
+1938,South Dakota,Republican primary,Primary,Total,False,,,"105,605",100.00%
 1938,Tennessee (special),Democratic Party primary results,Primary,Winning,False,Democratic Party (United States),Tom Stewart,"174,940",49.26%
 1938,Tennessee (special),Democratic Party primary results,Primary,Candidate,True,Democratic Party (United States),George L. Berry,"101,966",28.71%
 1938,Tennessee (special),Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),John Ridley Mitchell,"70,393",19.82%

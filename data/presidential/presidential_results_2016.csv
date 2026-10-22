@@ -838,44 +838,28 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2016,Colorado,CO,Yuma,County,Other,Other,215,4.49,4791,Republican
 2016,Connecticut,CT,Fairfield,County,Hillary Clinton,Democratic,243852,57.89,421209,Democratic
 2016,Connecticut,CT,Fairfield,County,Donald Trump,Republican,160077,38.0,421209,Democratic
-2016,Connecticut,CT,Fairfield,County,Gary Johnson,Libertarian,11691,2.78,421209,Democratic
-2016,Connecticut,CT,Fairfield,County,Jill Stein,Green,4866,1.16,421209,Democratic
-2016,Connecticut,CT,Fairfield,County,Other,Other,723,0.18,421209,Democratic
+2016,Connecticut,CT,Fairfield,County,Other,Other,17280,4.11,421209,Democratic
 2016,Connecticut,CT,Hartford,County,Hillary Clinton,Democratic,240403,59.09,406864,Democratic
 2016,Connecticut,CT,Hartford,County,Donald Trump,Republican,148173,36.42,406864,Democratic
-2016,Connecticut,CT,Hartford,County,Gary Johnson,Libertarian,11997,2.95,406864,Democratic
-2016,Connecticut,CT,Hartford,County,Jill Stein,Green,5680,1.4,406864,Democratic
-2016,Connecticut,CT,Hartford,County,Other,Other,611,0.15,406864,Democratic
+2016,Connecticut,CT,Hartford,County,Other,Other,18288,4.49,406864,Democratic
 2016,Connecticut,CT,Litchfield,County,Hillary Clinton,Democratic,39775,40.82,97442,Republican
 2016,Connecticut,CT,Litchfield,County,Donald Trump,Republican,53051,54.44,97442,Republican
-2016,Connecticut,CT,Litchfield,County,Gary Johnson,Libertarian,3004,3.08,97442,Republican
-2016,Connecticut,CT,Litchfield,County,Jill Stein,Green,1441,1.48,97442,Republican
-2016,Connecticut,CT,Litchfield,County,Other,Other,171,0.17,97442,Republican
+2016,Connecticut,CT,Litchfield,County,Other,Other,4616,4.74,97442,Republican
 2016,Connecticut,CT,Middlesex,County,Hillary Clinton,Democratic,45357,51.18,88624,Democratic
 2016,Connecticut,CT,Middlesex,County,Donald Trump,Republican,38867,43.86,88624,Democratic
-2016,Connecticut,CT,Middlesex,County,Gary Johnson,Libertarian,2760,3.11,88624,Democratic
-2016,Connecticut,CT,Middlesex,County,Jill Stein,Green,1497,1.69,88624,Democratic
-2016,Connecticut,CT,Middlesex,County,Other,Other,143,0.16,88624,Democratic
+2016,Connecticut,CT,Middlesex,County,Other,Other,4400,4.96,88624,Democratic
 2016,Connecticut,CT,New Haven,County,Hillary Clinton,Democratic,205609,54.25,379006,Democratic
 2016,Connecticut,CT,New Haven,County,Donald Trump,Republican,159048,41.96,379006,Democratic
-2016,Connecticut,CT,New Haven,County,Gary Johnson,Libertarian,9119,2.41,379006,Democratic
-2016,Connecticut,CT,New Haven,County,Jill Stein,Green,4757,1.26,379006,Democratic
-2016,Connecticut,CT,New Haven,County,Other,Other,473,0.13,379006,Democratic
+2016,Connecticut,CT,New Haven,County,Other,Other,14349,3.79,379006,Democratic
 2016,Connecticut,CT,New London,County,Hillary Clinton,Democratic,62278,50.42,123528,Democratic
 2016,Connecticut,CT,New London,County,Donald Trump,Republican,54058,43.76,123528,Democratic
-2016,Connecticut,CT,New London,County,Gary Johnson,Libertarian,4744,3.84,123528,Democratic
-2016,Connecticut,CT,New London,County,Jill Stein,Green,2220,1.8,123528,Democratic
-2016,Connecticut,CT,New London,County,Other,Other,228,0.19,123528,Democratic
+2016,Connecticut,CT,New London,County,Other,Other,7192,5.82,123528,Democratic
 2016,Connecticut,CT,Tolland,County,Hillary Clinton,Democratic,38506,49.73,77424,Democratic
 2016,Connecticut,CT,Tolland,County,Donald Trump,Republican,34194,44.16,77424,Democratic
-2016,Connecticut,CT,Tolland,County,Gary Johnson,Libertarian,3181,4.11,77424,Democratic
-2016,Connecticut,CT,Tolland,County,Jill Stein,Green,1370,1.77,77424,Democratic
-2016,Connecticut,CT,Tolland,County,Other,Other,173,0.23,77424,Democratic
+2016,Connecticut,CT,Tolland,County,Other,Other,4724,6.11,77424,Democratic
 2016,Connecticut,CT,Windham,County,Hillary Clinton,Democratic,21792,42.88,50823,Republican
 2016,Connecticut,CT,Windham,County,Donald Trump,Republican,25747,50.66,50823,Republican
-2016,Connecticut,CT,Windham,County,Gary Johnson,Libertarian,2180,4.29,50823,Republican
-2016,Connecticut,CT,Windham,County,Jill Stein,Green,1010,1.99,50823,Republican
-2016,Connecticut,CT,Windham,County,Other,Other,94,0.18,50823,Republican
+2016,Connecticut,CT,Windham,County,Other,Other,3284,6.46,50823,Republican
 2016,Delaware,DE,Kent,County,Hillary Clinton,Democratic,33351,44.63,74729,Republican
 2016,Delaware,DE,Kent,County,Donald Trump,Republican,36991,49.5,74729,Republican
 2016,Delaware,DE,Kent,County,Other,Other,4387,5.87,74729,Republican
@@ -9726,289 +9710,289 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2016,West Virginia,WV,Wyoming,County,Other,Other,271,3.44,7880,Republican
 2016,Wisconsin,WI,Adams,County,Donald Trump,Republican,5966,58.89,10130,Republican
 2016,Wisconsin,WI,Adams,County,Hillary Clinton,Democratic,3745,36.97,10130,Republican
-2016,Wisconsin,WI,Adams,County,Other,Various Parties,419,4.14,10130,Republican
+2016,Wisconsin,WI,Adams,County,Other,Other,419,4.14,10130,Republican
 2016,Wisconsin,WI,Ashland,County,Donald Trump,Republican,3303,41.12,8032,Democratic
 2016,Wisconsin,WI,Ashland,County,Hillary Clinton,Democratic,4226,52.61,8032,Democratic
-2016,Wisconsin,WI,Ashland,County,Other,Various Parties,503,6.27,8032,Democratic
+2016,Wisconsin,WI,Ashland,County,Other,Other,503,6.27,8032,Democratic
 2016,Wisconsin,WI,Barron,County,Donald Trump,Republican,13614,60.05,22671,Republican
 2016,Wisconsin,WI,Barron,County,Hillary Clinton,Democratic,7889,34.8,22671,Republican
-2016,Wisconsin,WI,Barron,County,Other,Various Parties,1168,5.15,22671,Republican
+2016,Wisconsin,WI,Barron,County,Other,Other,1168,5.15,22671,Republican
 2016,Wisconsin,WI,Bayfield,County,Donald Trump,Republican,4124,42.9,9612,Democratic
 2016,Wisconsin,WI,Bayfield,County,Hillary Clinton,Democratic,4953,51.53,9612,Democratic
-2016,Wisconsin,WI,Bayfield,County,Other,Various Parties,535,5.57,9612,Democratic
+2016,Wisconsin,WI,Bayfield,County,Other,Other,535,5.57,9612,Democratic
 2016,Wisconsin,WI,Brown,County,Donald Trump,Republican,67210,52.1,129011,Republican
 2016,Wisconsin,WI,Brown,County,Hillary Clinton,Democratic,53382,41.38,129011,Republican
-2016,Wisconsin,WI,Brown,County,Other,Various Parties,8419,6.52,129011,Republican
+2016,Wisconsin,WI,Brown,County,Other,Other,8419,6.52,129011,Republican
 2016,Wisconsin,WI,Buffalo,County,Donald Trump,Republican,4048,57.99,6981,Republican
 2016,Wisconsin,WI,Buffalo,County,Hillary Clinton,Democratic,2525,36.17,6981,Republican
-2016,Wisconsin,WI,Buffalo,County,Other,Various Parties,408,5.84,6981,Republican
+2016,Wisconsin,WI,Buffalo,County,Other,Other,408,5.84,6981,Republican
 2016,Wisconsin,WI,Burnett,County,Donald Trump,Republican,5410,61.91,8738,Republican
 2016,Wisconsin,WI,Burnett,County,Hillary Clinton,Democratic,2949,33.75,8738,Republican
-2016,Wisconsin,WI,Burnett,County,Other,Various Parties,379,4.34,8738,Republican
+2016,Wisconsin,WI,Burnett,County,Other,Other,379,4.34,8738,Republican
 2016,Wisconsin,WI,Calumet,County,Donald Trump,Republican,15367,57.78,26595,Republican
 2016,Wisconsin,WI,Calumet,County,Hillary Clinton,Democratic,9642,36.25,26595,Republican
-2016,Wisconsin,WI,Calumet,County,Other,Various Parties,1586,5.97,26595,Republican
+2016,Wisconsin,WI,Calumet,County,Other,Other,1586,5.97,26595,Republican
 2016,Wisconsin,WI,Chippewa,County,Donald Trump,Republican,17916,56.75,31568,Republican
 2016,Wisconsin,WI,Chippewa,County,Hillary Clinton,Democratic,11887,37.66,31568,Republican
-2016,Wisconsin,WI,Chippewa,County,Other,Various Parties,1765,5.59,31568,Republican
+2016,Wisconsin,WI,Chippewa,County,Other,Other,1765,5.59,31568,Republican
 2016,Wisconsin,WI,Clark,County,Donald Trump,Republican,8652,63.28,13673,Republican
 2016,Wisconsin,WI,Clark,County,Hillary Clinton,Democratic,4221,30.87,13673,Republican
-2016,Wisconsin,WI,Clark,County,Other,Various Parties,800,5.85,13673,Republican
+2016,Wisconsin,WI,Clark,County,Other,Other,800,5.85,13673,Republican
 2016,Wisconsin,WI,Columbia,County,Donald Trump,Republican,14163,47.69,29698,Republican
 2016,Wisconsin,WI,Columbia,County,Hillary Clinton,Democratic,13528,45.55,29698,Republican
-2016,Wisconsin,WI,Columbia,County,Other,Various Parties,2007,6.76,29698,Republican
+2016,Wisconsin,WI,Columbia,County,Other,Other,2007,6.76,29698,Republican
 2016,Wisconsin,WI,Crawford,County,Donald Trump,Republican,3836,49.64,7728,Republican
 2016,Wisconsin,WI,Crawford,County,Hillary Clinton,Democratic,3419,44.24,7728,Republican
-2016,Wisconsin,WI,Crawford,County,Other,Various Parties,473,6.12,7728,Republican
+2016,Wisconsin,WI,Crawford,County,Other,Other,473,6.12,7728,Republican
 2016,Wisconsin,WI,Dane,County,Donald Trump,Republican,71275,23.04,309354,Democratic
 2016,Wisconsin,WI,Dane,County,Hillary Clinton,Democratic,217697,70.37,309354,Democratic
-2016,Wisconsin,WI,Dane,County,Other,Various Parties,20382,6.59,309354,Democratic
+2016,Wisconsin,WI,Dane,County,Other,Other,20382,6.59,309354,Democratic
 2016,Wisconsin,WI,Dodge,County,Donald Trump,Republican,26635,61.83,43078,Republican
 2016,Wisconsin,WI,Dodge,County,Hillary Clinton,Democratic,13968,32.42,43078,Republican
-2016,Wisconsin,WI,Dodge,County,Other,Various Parties,2475,5.75,43078,Republican
+2016,Wisconsin,WI,Dodge,County,Other,Other,2475,5.75,43078,Republican
 2016,Wisconsin,WI,Door,County,Donald Trump,Republican,8580,48.77,17592,Republican
 2016,Wisconsin,WI,Door,County,Hillary Clinton,Democratic,8014,45.55,17592,Republican
-2016,Wisconsin,WI,Door,County,Other,Various Parties,998,5.68,17592,Republican
+2016,Wisconsin,WI,Door,County,Other,Other,998,5.68,17592,Republican
 2016,Wisconsin,WI,Douglas,County,Donald Trump,Republican,9661,42.87,22536,Democratic
 2016,Wisconsin,WI,Douglas,County,Hillary Clinton,Democratic,11357,50.39,22536,Democratic
-2016,Wisconsin,WI,Douglas,County,Other,Various Parties,1518,6.74,22536,Democratic
+2016,Wisconsin,WI,Douglas,County,Other,Other,1518,6.74,22536,Democratic
 2016,Wisconsin,WI,Dunn,County,Donald Trump,Republican,11486,51.96,22106,Republican
 2016,Wisconsin,WI,Dunn,County,Hillary Clinton,Democratic,9034,40.87,22106,Republican
-2016,Wisconsin,WI,Dunn,County,Other,Various Parties,1586,7.17,22106,Republican
+2016,Wisconsin,WI,Dunn,County,Other,Other,1586,7.17,22106,Republican
 2016,Wisconsin,WI,Eau Claire,County,Donald Trump,Republican,23331,42.4,55025,Democratic
 2016,Wisconsin,WI,Eau Claire,County,Hillary Clinton,Democratic,27340,49.69,55025,Democratic
-2016,Wisconsin,WI,Eau Claire,County,Other,Various Parties,4354,7.91,55025,Democratic
+2016,Wisconsin,WI,Eau Claire,County,Other,Other,4354,7.91,55025,Democratic
 2016,Wisconsin,WI,Florence,County,Donald Trump,Republican,1898,71.46,2656,Republican
 2016,Wisconsin,WI,Florence,County,Hillary Clinton,Democratic,665,25.04,2656,Republican
-2016,Wisconsin,WI,Florence,County,Other,Various Parties,93,3.5,2656,Republican
+2016,Wisconsin,WI,Florence,County,Other,Other,93,3.5,2656,Republican
 2016,Wisconsin,WI,Fond du Lac,County,Donald Trump,Republican,31022,59.89,51796,Republican
 2016,Wisconsin,WI,Fond du Lac,County,Hillary Clinton,Democratic,17387,33.57,51796,Republican
-2016,Wisconsin,WI,Fond du Lac,County,Other,Various Parties,3387,6.54,51796,Republican
+2016,Wisconsin,WI,Fond du Lac,County,Other,Other,3387,6.54,51796,Republican
 2016,Wisconsin,WI,Forest,County,Donald Trump,Republican,2787,61.32,4545,Republican
 2016,Wisconsin,WI,Forest,County,Hillary Clinton,Democratic,1579,34.74,4545,Republican
-2016,Wisconsin,WI,Forest,County,Other,Various Parties,179,3.94,4545,Republican
+2016,Wisconsin,WI,Forest,County,Other,Other,179,3.94,4545,Republican
 2016,Wisconsin,WI,Grant,County,Donald Trump,Republican,12350,50.68,24368,Republican
 2016,Wisconsin,WI,Grant,County,Hillary Clinton,Democratic,10051,41.25,24368,Republican
-2016,Wisconsin,WI,Grant,County,Other,Various Parties,1967,8.07,24368,Republican
+2016,Wisconsin,WI,Grant,County,Other,Other,1967,8.07,24368,Republican
 2016,Wisconsin,WI,Green,County,Donald Trump,Republican,8693,45.79,18985,Democratic
 2016,Wisconsin,WI,Green,County,Hillary Clinton,Democratic,9122,48.05,18985,Democratic
-2016,Wisconsin,WI,Green,County,Other,Various Parties,1170,6.16,18985,Democratic
+2016,Wisconsin,WI,Green,County,Other,Other,1170,6.16,18985,Democratic
 2016,Wisconsin,WI,Green Lake,County,Donald Trump,Republican,6216,66.02,9416,Republican
 2016,Wisconsin,WI,Green Lake,County,Hillary Clinton,Democratic,2693,28.6,9416,Republican
-2016,Wisconsin,WI,Green Lake,County,Other,Various Parties,507,5.38,9416,Republican
+2016,Wisconsin,WI,Green Lake,County,Other,Other,507,5.38,9416,Republican
 2016,Wisconsin,WI,Iowa,County,Donald Trump,Republican,4809,39.18,12275,Democratic
 2016,Wisconsin,WI,Iowa,County,Hillary Clinton,Democratic,6669,54.33,12275,Democratic
-2016,Wisconsin,WI,Iowa,County,Other,Various Parties,797,6.49,12275,Democratic
+2016,Wisconsin,WI,Iowa,County,Other,Other,797,6.49,12275,Democratic
 2016,Wisconsin,WI,Iron,County,Donald Trump,Republican,2081,59.24,3513,Republican
 2016,Wisconsin,WI,Iron,County,Hillary Clinton,Democratic,1275,36.29,3513,Republican
-2016,Wisconsin,WI,Iron,County,Other,Various Parties,157,4.47,3513,Republican
+2016,Wisconsin,WI,Iron,County,Other,Other,157,4.47,3513,Republican
 2016,Wisconsin,WI,Jackson,County,Donald Trump,Republican,4906,52.94,9267,Republican
 2016,Wisconsin,WI,Jackson,County,Hillary Clinton,Democratic,3818,41.2,9267,Republican
-2016,Wisconsin,WI,Jackson,County,Other,Various Parties,543,5.86,9267,Republican
+2016,Wisconsin,WI,Jackson,County,Other,Other,543,5.86,9267,Republican
 2016,Wisconsin,WI,Jefferson,County,Donald Trump,Republican,23417,54.32,43109,Republican
 2016,Wisconsin,WI,Jefferson,County,Hillary Clinton,Democratic,16569,38.44,43109,Republican
-2016,Wisconsin,WI,Jefferson,County,Other,Various Parties,3123,7.24,43109,Republican
+2016,Wisconsin,WI,Jefferson,County,Other,Other,3123,7.24,43109,Republican
 2016,Wisconsin,WI,Juneau,County,Donald Trump,Republican,7130,60.76,11735,Republican
 2016,Wisconsin,WI,Juneau,County,Hillary Clinton,Democratic,4073,34.71,11735,Republican
-2016,Wisconsin,WI,Juneau,County,Other,Various Parties,532,4.53,11735,Republican
+2016,Wisconsin,WI,Juneau,County,Other,Other,532,4.53,11735,Republican
 2016,Wisconsin,WI,Kenosha,County,Donald Trump,Republican,36037,47.23,76304,Republican
 2016,Wisconsin,WI,Kenosha,County,Hillary Clinton,Democratic,35799,46.92,76304,Republican
-2016,Wisconsin,WI,Kenosha,County,Other,Various Parties,4468,5.85,76304,Republican
+2016,Wisconsin,WI,Kenosha,County,Other,Other,4468,5.85,76304,Republican
 2016,Wisconsin,WI,Kewaunee,County,Donald Trump,Republican,6618,61.47,10767,Republican
 2016,Wisconsin,WI,Kewaunee,County,Hillary Clinton,Democratic,3627,33.69,10767,Republican
-2016,Wisconsin,WI,Kewaunee,County,Other,Various Parties,522,4.84,10767,Republican
+2016,Wisconsin,WI,Kewaunee,County,Other,Other,522,4.84,10767,Republican
 2016,Wisconsin,WI,La Crosse,County,Donald Trump,Republican,26378,41.43,63674,Democratic
 2016,Wisconsin,WI,La Crosse,County,Hillary Clinton,Democratic,32406,50.89,63674,Democratic
-2016,Wisconsin,WI,La Crosse,County,Other,Various Parties,4890,7.68,63674,Democratic
+2016,Wisconsin,WI,La Crosse,County,Other,Other,4890,7.68,63674,Democratic
 2016,Wisconsin,WI,Lafayette,County,Donald Trump,Republican,3977,51.91,7662,Republican
 2016,Wisconsin,WI,Lafayette,County,Hillary Clinton,Democratic,3288,42.91,7662,Republican
-2016,Wisconsin,WI,Lafayette,County,Other,Various Parties,397,5.18,7662,Republican
+2016,Wisconsin,WI,Lafayette,County,Other,Other,397,5.18,7662,Republican
 2016,Wisconsin,WI,Langlade,County,Donald Trump,Republican,6478,63.6,10186,Republican
 2016,Wisconsin,WI,Langlade,County,Hillary Clinton,Democratic,3250,31.91,10186,Republican
-2016,Wisconsin,WI,Langlade,County,Other,Various Parties,458,4.49,10186,Republican
+2016,Wisconsin,WI,Langlade,County,Other,Other,458,4.49,10186,Republican
 2016,Wisconsin,WI,Lincoln,County,Donald Trump,Republican,8401,57.1,14712,Republican
 2016,Wisconsin,WI,Lincoln,County,Hillary Clinton,Democratic,5371,36.51,14712,Republican
-2016,Wisconsin,WI,Lincoln,County,Other,Various Parties,940,6.39,14712,Republican
+2016,Wisconsin,WI,Lincoln,County,Other,Other,940,6.39,14712,Republican
 2016,Wisconsin,WI,Manitowoc,County,Donald Trump,Republican,23244,56.99,40786,Republican
 2016,Wisconsin,WI,Manitowoc,County,Hillary Clinton,Democratic,14538,35.64,40786,Republican
-2016,Wisconsin,WI,Manitowoc,County,Other,Various Parties,3004,7.37,40786,Republican
+2016,Wisconsin,WI,Manitowoc,County,Other,Other,3004,7.37,40786,Republican
 2016,Wisconsin,WI,Marathon,County,Donald Trump,Republican,39014,56.12,69518,Republican
 2016,Wisconsin,WI,Marathon,County,Hillary Clinton,Democratic,26481,38.09,69518,Republican
-2016,Wisconsin,WI,Marathon,County,Other,Various Parties,4023,5.79,69518,Republican
+2016,Wisconsin,WI,Marathon,County,Other,Other,4023,5.79,69518,Republican
 2016,Wisconsin,WI,Marinette,County,Donald Trump,Republican,13122,64.5,20343,Republican
 2016,Wisconsin,WI,Marinette,County,Hillary Clinton,Democratic,6409,31.5,20343,Republican
-2016,Wisconsin,WI,Marinette,County,Other,Various Parties,812,4.0,20343,Republican
+2016,Wisconsin,WI,Marinette,County,Other,Other,812,4.0,20343,Republican
 2016,Wisconsin,WI,Marquette,County,Donald Trump,Republican,4709,59.68,7891,Republican
 2016,Wisconsin,WI,Marquette,County,Hillary Clinton,Democratic,2808,35.58,7891,Republican
-2016,Wisconsin,WI,Marquette,County,Other,Various Parties,374,4.74,7891,Republican
+2016,Wisconsin,WI,Marquette,County,Other,Other,374,4.74,7891,Republican
 2016,Wisconsin,WI,Menominee,County,Donald Trump,Republican,267,20.41,1308,Democratic
 2016,Wisconsin,WI,Menominee,County,Hillary Clinton,Democratic,1002,76.61,1308,Democratic
-2016,Wisconsin,WI,Menominee,County,Other,Various Parties,39,2.98,1308,Democratic
+2016,Wisconsin,WI,Menominee,County,Other,Other,39,2.98,1308,Democratic
 2016,Wisconsin,WI,Milwaukee,County,Donald Trump,Republican,126069,28.58,441053,Democratic
 2016,Wisconsin,WI,Milwaukee,County,Hillary Clinton,Democratic,288822,65.48,441053,Democratic
-2016,Wisconsin,WI,Milwaukee,County,Other,Various Parties,26162,5.94,441053,Democratic
+2016,Wisconsin,WI,Milwaukee,County,Other,Other,26162,5.94,441053,Democratic
 2016,Wisconsin,WI,Monroe,County,Donald Trump,Republican,11356,57.65,19699,Republican
 2016,Wisconsin,WI,Monroe,County,Hillary Clinton,Democratic,7052,35.8,19699,Republican
-2016,Wisconsin,WI,Monroe,County,Other,Various Parties,1291,6.55,19699,Republican
+2016,Wisconsin,WI,Monroe,County,Other,Other,1291,6.55,19699,Republican
 2016,Wisconsin,WI,Oconto,County,Donald Trump,Republican,13345,66.04,20206,Republican
 2016,Wisconsin,WI,Oconto,County,Hillary Clinton,Democratic,5940,29.4,20206,Republican
-2016,Wisconsin,WI,Oconto,County,Other,Various Parties,921,4.56,20206,Republican
+2016,Wisconsin,WI,Oconto,County,Other,Other,921,4.56,20206,Republican
 2016,Wisconsin,WI,Oneida,County,Donald Trump,Republican,12132,56.35,21531,Republican
 2016,Wisconsin,WI,Oneida,County,Hillary Clinton,Democratic,8109,37.66,21531,Republican
-2016,Wisconsin,WI,Oneida,County,Other,Various Parties,1290,5.99,21531,Republican
+2016,Wisconsin,WI,Oneida,County,Other,Other,1290,5.99,21531,Republican
 2016,Wisconsin,WI,Outagamie,County,Donald Trump,Republican,49879,53.1,93933,Republican
 2016,Wisconsin,WI,Outagamie,County,Hillary Clinton,Democratic,38068,40.53,93933,Republican
-2016,Wisconsin,WI,Outagamie,County,Other,Various Parties,5986,6.37,93933,Republican
+2016,Wisconsin,WI,Outagamie,County,Other,Other,5986,6.37,93933,Republican
 2016,Wisconsin,WI,Ozaukee,County,Donald Trump,Republican,30464,55.84,54560,Republican
 2016,Wisconsin,WI,Ozaukee,County,Hillary Clinton,Democratic,20170,36.97,54560,Republican
-2016,Wisconsin,WI,Ozaukee,County,Other,Various Parties,3926,7.19,54560,Republican
+2016,Wisconsin,WI,Ozaukee,County,Other,Other,3926,7.19,54560,Republican
 2016,Wisconsin,WI,Pepin,County,Donald Trump,Republican,2206,59.06,3735,Republican
 2016,Wisconsin,WI,Pepin,County,Hillary Clinton,Democratic,1344,35.98,3735,Republican
-2016,Wisconsin,WI,Pepin,County,Other,Various Parties,185,4.96,3735,Republican
+2016,Wisconsin,WI,Pepin,County,Other,Other,185,4.96,3735,Republican
 2016,Wisconsin,WI,Pierce,County,Donald Trump,Republican,11272,52.73,21376,Republican
 2016,Wisconsin,WI,Pierce,County,Hillary Clinton,Democratic,8399,39.29,21376,Republican
-2016,Wisconsin,WI,Pierce,County,Other,Various Parties,1705,7.98,21376,Republican
+2016,Wisconsin,WI,Pierce,County,Other,Other,1705,7.98,21376,Republican
 2016,Wisconsin,WI,Polk,County,Donald Trump,Republican,13810,60.72,22745,Republican
 2016,Wisconsin,WI,Polk,County,Hillary Clinton,Democratic,7565,33.26,22745,Republican
-2016,Wisconsin,WI,Polk,County,Other,Various Parties,1370,6.02,22745,Republican
+2016,Wisconsin,WI,Polk,County,Other,Other,1370,6.02,22745,Republican
 2016,Wisconsin,WI,Portage,County,Donald Trump,Republican,17305,44.84,38589,Democratic
 2016,Wisconsin,WI,Portage,County,Hillary Clinton,Democratic,18529,48.02,38589,Democratic
-2016,Wisconsin,WI,Portage,County,Other,Various Parties,2755,7.14,38589,Democratic
+2016,Wisconsin,WI,Portage,County,Other,Other,2755,7.14,38589,Democratic
 2016,Wisconsin,WI,Price,County,Donald Trump,Republican,4559,60.24,7568,Republican
 2016,Wisconsin,WI,Price,County,Hillary Clinton,Democratic,2667,35.24,7568,Republican
-2016,Wisconsin,WI,Price,County,Other,Various Parties,342,4.52,7568,Republican
+2016,Wisconsin,WI,Price,County,Other,Other,342,4.52,7568,Republican
 2016,Wisconsin,WI,Racine,County,Donald Trump,Republican,46681,49.5,94302,Republican
 2016,Wisconsin,WI,Racine,County,Hillary Clinton,Democratic,42641,45.22,94302,Republican
-2016,Wisconsin,WI,Racine,County,Other,Various Parties,4980,5.28,94302,Republican
+2016,Wisconsin,WI,Racine,County,Other,Other,4980,5.28,94302,Republican
 2016,Wisconsin,WI,Richland,County,Donald Trump,Republican,4013,49.73,8069,Republican
 2016,Wisconsin,WI,Richland,County,Hillary Clinton,Democratic,3569,44.23,8069,Republican
-2016,Wisconsin,WI,Richland,County,Other,Various Parties,487,6.04,8069,Republican
+2016,Wisconsin,WI,Richland,County,Other,Other,487,6.04,8069,Republican
 2016,Wisconsin,WI,Rock,County,Donald Trump,Republican,31493,41.4,76074,Democratic
 2016,Wisconsin,WI,Rock,County,Hillary Clinton,Democratic,39339,51.71,76074,Democratic
-2016,Wisconsin,WI,Rock,County,Other,Various Parties,5242,6.89,76074,Democratic
+2016,Wisconsin,WI,Rock,County,Other,Other,5242,6.89,76074,Democratic
 2016,Wisconsin,WI,Rusk,County,Donald Trump,Republican,4564,64.39,7088,Republican
 2016,Wisconsin,WI,Rusk,County,Hillary Clinton,Democratic,2171,30.63,7088,Republican
-2016,Wisconsin,WI,Rusk,County,Other,Various Parties,353,4.98,7088,Republican
+2016,Wisconsin,WI,Rusk,County,Other,Other,353,4.98,7088,Republican
 2016,Wisconsin,WI,Sauk,County,Donald Trump,Republican,14799,47.2,31357,Republican
 2016,Wisconsin,WI,Sauk,County,Hillary Clinton,Democratic,14690,46.85,31357,Republican
-2016,Wisconsin,WI,Sauk,County,Other,Various Parties,1868,5.95,31357,Republican
+2016,Wisconsin,WI,Sauk,County,Other,Other,1868,5.95,31357,Republican
 2016,Wisconsin,WI,Sawyer,County,Donald Trump,Republican,5185,56.75,9137,Republican
 2016,Wisconsin,WI,Sawyer,County,Hillary Clinton,Democratic,3503,38.34,9137,Republican
-2016,Wisconsin,WI,Sawyer,County,Other,Various Parties,449,4.91,9137,Republican
+2016,Wisconsin,WI,Sawyer,County,Other,Other,449,4.91,9137,Republican
 2016,Wisconsin,WI,Shawano,County,Donald Trump,Republican,12769,64.46,19810,Republican
 2016,Wisconsin,WI,Shawano,County,Hillary Clinton,Democratic,6068,30.63,19810,Republican
-2016,Wisconsin,WI,Shawano,County,Other,Various Parties,973,4.91,19810,Republican
+2016,Wisconsin,WI,Shawano,County,Other,Other,973,4.91,19810,Republican
 2016,Wisconsin,WI,Sheboygan,County,Donald Trump,Republican,32514,54.4,59766,Republican
 2016,Wisconsin,WI,Sheboygan,County,Hillary Clinton,Democratic,23000,38.48,59766,Republican
-2016,Wisconsin,WI,Sheboygan,County,Other,Various Parties,4252,7.12,59766,Republican
+2016,Wisconsin,WI,Sheboygan,County,Other,Other,4252,7.12,59766,Republican
 2016,Wisconsin,WI,St. Croix,County,Donald Trump,Republican,26222,55.19,47508,Republican
 2016,Wisconsin,WI,St. Croix,County,Hillary Clinton,Democratic,17482,36.8,47508,Republican
-2016,Wisconsin,WI,St. Croix,County,Other,Various Parties,3804,8.01,47508,Republican
+2016,Wisconsin,WI,St. Croix,County,Other,Other,3804,8.01,47508,Republican
 2016,Wisconsin,WI,Taylor,County,Donald Trump,Republican,6579,69.46,9471,Republican
 2016,Wisconsin,WI,Taylor,County,Hillary Clinton,Democratic,2393,25.27,9471,Republican
-2016,Wisconsin,WI,Taylor,County,Other,Various Parties,499,5.27,9471,Republican
+2016,Wisconsin,WI,Taylor,County,Other,Other,499,5.27,9471,Republican
 2016,Wisconsin,WI,Trempealeau,County,Donald Trump,Republican,7366,53.82,13687,Republican
 2016,Wisconsin,WI,Trempealeau,County,Hillary Clinton,Democratic,5636,41.18,13687,Republican
-2016,Wisconsin,WI,Trempealeau,County,Other,Various Parties,685,5.0,13687,Republican
+2016,Wisconsin,WI,Trempealeau,County,Other,Other,685,5.0,13687,Republican
 2016,Wisconsin,WI,Vernon,County,Donald Trump,Republican,7004,49.06,14275,Republican
 2016,Wisconsin,WI,Vernon,County,Hillary Clinton,Democratic,6371,44.63,14275,Republican
-2016,Wisconsin,WI,Vernon,County,Other,Various Parties,900,6.31,14275,Republican
+2016,Wisconsin,WI,Vernon,County,Other,Other,900,6.31,14275,Republican
 2016,Wisconsin,WI,Vilas,County,Donald Trump,Republican,8166,60.0,13611,Republican
 2016,Wisconsin,WI,Vilas,County,Hillary Clinton,Democratic,4770,35.05,13611,Republican
-2016,Wisconsin,WI,Vilas,County,Other,Various Parties,675,4.95,13611,Republican
+2016,Wisconsin,WI,Vilas,County,Other,Other,675,4.95,13611,Republican
 2016,Wisconsin,WI,Walworth,County,Donald Trump,Republican,28863,56.16,51391,Republican
 2016,Wisconsin,WI,Walworth,County,Hillary Clinton,Democratic,18710,36.41,51391,Republican
-2016,Wisconsin,WI,Walworth,County,Other,Various Parties,3818,7.43,51391,Republican
+2016,Wisconsin,WI,Walworth,County,Other,Other,3818,7.43,51391,Republican
 2016,Wisconsin,WI,Washburn,County,Donald Trump,Republican,5436,59.13,9193,Republican
 2016,Wisconsin,WI,Washburn,County,Hillary Clinton,Democratic,3282,35.7,9193,Republican
-2016,Wisconsin,WI,Washburn,County,Other,Various Parties,475,5.17,9193,Republican
+2016,Wisconsin,WI,Washburn,County,Other,Other,475,5.17,9193,Republican
 2016,Wisconsin,WI,Washington,County,Donald Trump,Republican,51740,67.41,76757,Republican
 2016,Wisconsin,WI,Washington,County,Hillary Clinton,Democratic,20852,27.17,76757,Republican
-2016,Wisconsin,WI,Washington,County,Other,Various Parties,4165,5.42,76757,Republican
+2016,Wisconsin,WI,Washington,County,Other,Other,4165,5.42,76757,Republican
 2016,Wisconsin,WI,Waukesha,County,Donald Trump,Republican,142543,59.99,237593,Republican
 2016,Wisconsin,WI,Waukesha,County,Hillary Clinton,Democratic,79224,33.34,237593,Republican
-2016,Wisconsin,WI,Waukesha,County,Other,Various Parties,15826,6.67,237593,Republican
+2016,Wisconsin,WI,Waukesha,County,Other,Other,15826,6.67,237593,Republican
 2016,Wisconsin,WI,Waupaca,County,Donald Trump,Republican,16209,62.12,26095,Republican
 2016,Wisconsin,WI,Waupaca,County,Hillary Clinton,Democratic,8451,32.39,26095,Republican
-2016,Wisconsin,WI,Waupaca,County,Other,Various Parties,1435,5.49,26095,Republican
+2016,Wisconsin,WI,Waupaca,County,Other,Other,1435,5.49,26095,Republican
 2016,Wisconsin,WI,Waushara,County,Donald Trump,Republican,7667,63.5,12074,Republican
 2016,Wisconsin,WI,Waushara,County,Hillary Clinton,Democratic,3791,31.4,12074,Republican
-2016,Wisconsin,WI,Waushara,County,Other,Various Parties,616,5.1,12074,Republican
+2016,Wisconsin,WI,Waushara,County,Other,Other,616,5.1,12074,Republican
 2016,Wisconsin,WI,Winnebago,County,Donald Trump,Republican,43445,49.86,87135,Republican
 2016,Wisconsin,WI,Winnebago,County,Hillary Clinton,Democratic,37047,42.52,87135,Republican
-2016,Wisconsin,WI,Winnebago,County,Other,Various Parties,6643,7.62,87135,Republican
+2016,Wisconsin,WI,Winnebago,County,Other,Other,6643,7.62,87135,Republican
 2016,Wisconsin,WI,Wood,County,Donald Trump,Republican,21498,56.85,37818,Republican
 2016,Wisconsin,WI,Wood,County,Hillary Clinton,Democratic,14225,37.61,37818,Republican
-2016,Wisconsin,WI,Wood,County,Other,Various Parties,2095,5.54,37818,Republican
+2016,Wisconsin,WI,Wood,County,Other,Other,2095,5.54,37818,Republican
 2016,Wyoming,WY,Albany,County,Donald Trump,Republican,7602,44.56,17060,Republican
 2016,Wyoming,WY,Albany,County,Hillary Clinton,Democratic,6890,40.39,17060,Republican
-2016,Wyoming,WY,Albany,County,Other,Various Parties,2568,15.05,17060,Republican
+2016,Wyoming,WY,Albany,County,Other,Other,2568,15.05,17060,Republican
 2016,Wyoming,WY,Big Horn,County,Donald Trump,Republican,4067,76.49,5317,Republican
 2016,Wyoming,WY,Big Horn,County,Hillary Clinton,Democratic,604,11.36,5317,Republican
-2016,Wyoming,WY,Big Horn,County,Other,Various Parties,646,12.15,5317,Republican
+2016,Wyoming,WY,Big Horn,County,Other,Other,646,12.15,5317,Republican
 2016,Wyoming,WY,Campbell,County,Donald Trump,Republican,15778,86.7,18199,Republican
 2016,Wyoming,WY,Campbell,County,Hillary Clinton,Democratic,1324,7.28,18199,Republican
-2016,Wyoming,WY,Campbell,County,Other,Various Parties,1097,6.03,18199,Republican
+2016,Wyoming,WY,Campbell,County,Other,Other,1097,6.03,18199,Republican
 2016,Wyoming,WY,Carbon,County,Donald Trump,Republican,4409,69.17,6374,Republican
 2016,Wyoming,WY,Carbon,County,Hillary Clinton,Democratic,1279,20.07,6374,Republican
-2016,Wyoming,WY,Carbon,County,Other,Various Parties,686,10.76,6374,Republican
+2016,Wyoming,WY,Carbon,County,Other,Other,686,10.76,6374,Republican
 2016,Wyoming,WY,Converse,County,Donald Trump,Republican,5520,82.96,6654,Republican
 2016,Wyoming,WY,Converse,County,Hillary Clinton,Democratic,668,10.04,6654,Republican
-2016,Wyoming,WY,Converse,County,Other,Various Parties,466,7.0,6654,Republican
+2016,Wyoming,WY,Converse,County,Other,Other,466,7.0,6654,Republican
 2016,Wyoming,WY,Crook,County,Donald Trump,Republican,3348,87.51,3826,Republican
 2016,Wyoming,WY,Crook,County,Hillary Clinton,Democratic,273,7.14,3826,Republican
-2016,Wyoming,WY,Crook,County,Other,Various Parties,205,5.36,3826,Republican
+2016,Wyoming,WY,Crook,County,Other,Other,205,5.36,3826,Republican
 2016,Wyoming,WY,Fremont,County,Donald Trump,Republican,11167,65.6,17023,Republican
 2016,Wyoming,WY,Fremont,County,Hillary Clinton,Democratic,4200,24.67,17023,Republican
-2016,Wyoming,WY,Fremont,County,Other,Various Parties,1656,9.73,17023,Republican
+2016,Wyoming,WY,Fremont,County,Other,Other,1656,9.73,17023,Republican
 2016,Wyoming,WY,Goshen,County,Donald Trump,Republican,4418,76.22,5796,Republican
 2016,Wyoming,WY,Goshen,County,Hillary Clinton,Democratic,924,15.94,5796,Republican
-2016,Wyoming,WY,Goshen,County,Other,Various Parties,454,7.83,5796,Republican
+2016,Wyoming,WY,Goshen,County,Other,Other,454,7.83,5796,Republican
 2016,Wyoming,WY,Hot Springs,County,Donald Trump,Republican,1939,74.98,2586,Republican
 2016,Wyoming,WY,Hot Springs,County,Hillary Clinton,Democratic,400,15.47,2586,Republican
-2016,Wyoming,WY,Hot Springs,County,Other,Various Parties,247,9.55,2586,Republican
+2016,Wyoming,WY,Hot Springs,County,Other,Other,247,9.55,2586,Republican
 2016,Wyoming,WY,Johnson,County,Donald Trump,Republican,3477,78.72,4417,Republican
 2016,Wyoming,WY,Johnson,County,Hillary Clinton,Democratic,638,14.44,4417,Republican
-2016,Wyoming,WY,Johnson,County,Other,Various Parties,302,6.84,4417,Republican
+2016,Wyoming,WY,Johnson,County,Other,Other,302,6.84,4417,Republican
 2016,Wyoming,WY,Laramie,County,Donald Trump,Republican,24847,60.65,40969,Republican
 2016,Wyoming,WY,Laramie,County,Hillary Clinton,Democratic,11573,28.25,40969,Republican
-2016,Wyoming,WY,Laramie,County,Other,Various Parties,4549,11.1,40969,Republican
+2016,Wyoming,WY,Laramie,County,Other,Other,4549,11.1,40969,Republican
 2016,Wyoming,WY,Lincoln,County,Donald Trump,Republican,6779,76.38,8875,Republican
 2016,Wyoming,WY,Lincoln,County,Hillary Clinton,Democratic,1105,12.45,8875,Republican
-2016,Wyoming,WY,Lincoln,County,Other,Various Parties,991,11.17,8875,Republican
+2016,Wyoming,WY,Lincoln,County,Other,Other,991,11.17,8875,Republican
 2016,Wyoming,WY,Natrona,County,Donald Trump,Republican,23552,70.62,33348,Republican
 2016,Wyoming,WY,Natrona,County,Hillary Clinton,Democratic,6577,19.72,33348,Republican
-2016,Wyoming,WY,Natrona,County,Other,Various Parties,3219,9.65,33348,Republican
+2016,Wyoming,WY,Natrona,County,Other,Other,3219,9.65,33348,Republican
 2016,Wyoming,WY,Niobrara,County,Donald Trump,Republican,1116,84.93,1314,Republican
 2016,Wyoming,WY,Niobrara,County,Hillary Clinton,Democratic,115,8.75,1314,Republican
-2016,Wyoming,WY,Niobrara,County,Other,Various Parties,83,6.32,1314,Republican
+2016,Wyoming,WY,Niobrara,County,Other,Other,83,6.32,1314,Republican
 2016,Wyoming,WY,Park,County,Donald Trump,Republican,11115,73.63,15095,Republican
 2016,Wyoming,WY,Park,County,Hillary Clinton,Democratic,2535,16.79,15095,Republican
-2016,Wyoming,WY,Park,County,Other,Various Parties,1445,9.57,15095,Republican
+2016,Wyoming,WY,Park,County,Other,Other,1445,9.57,15095,Republican
 2016,Wyoming,WY,Platte,County,Donald Trump,Republican,3437,75.89,4529,Republican
 2016,Wyoming,WY,Platte,County,Hillary Clinton,Democratic,719,15.88,4529,Republican
-2016,Wyoming,WY,Platte,County,Other,Various Parties,373,8.24,4529,Republican
+2016,Wyoming,WY,Platte,County,Other,Other,373,8.24,4529,Republican
 2016,Wyoming,WY,Sheridan,County,Donald Trump,Republican,10266,70.75,14510,Republican
 2016,Wyoming,WY,Sheridan,County,Hillary Clinton,Democratic,2927,20.17,14510,Republican
-2016,Wyoming,WY,Sheridan,County,Other,Various Parties,1317,9.08,14510,Republican
+2016,Wyoming,WY,Sheridan,County,Other,Other,1317,9.08,14510,Republican
 2016,Wyoming,WY,Sublette,County,Donald Trump,Republican,3409,77.65,4390,Republican
 2016,Wyoming,WY,Sublette,County,Hillary Clinton,Democratic,644,14.67,4390,Republican
-2016,Wyoming,WY,Sublette,County,Other,Various Parties,337,7.68,4390,Republican
+2016,Wyoming,WY,Sublette,County,Other,Other,337,7.68,4390,Republican
 2016,Wyoming,WY,Sweetwater,County,Donald Trump,Republican,12154,70.95,17130,Republican
 2016,Wyoming,WY,Sweetwater,County,Hillary Clinton,Democratic,3231,18.86,17130,Republican
-2016,Wyoming,WY,Sweetwater,County,Other,Various Parties,1745,10.19,17130,Republican
+2016,Wyoming,WY,Sweetwater,County,Other,Other,1745,10.19,17130,Republican
 2016,Wyoming,WY,Teton,County,Donald Trump,Republican,3921,31.05,12627,Democratic
 2016,Wyoming,WY,Teton,County,Hillary Clinton,Democratic,7314,57.92,12627,Democratic
-2016,Wyoming,WY,Teton,County,Other,Various Parties,1392,11.02,12627,Democratic
+2016,Wyoming,WY,Teton,County,Other,Other,1392,11.02,12627,Democratic
 2016,Wyoming,WY,Uinta,County,Donald Trump,Republican,6154,72.66,8470,Republican
 2016,Wyoming,WY,Uinta,County,Hillary Clinton,Democratic,1202,14.19,8470,Republican
-2016,Wyoming,WY,Uinta,County,Other,Various Parties,1114,13.15,8470,Republican
+2016,Wyoming,WY,Uinta,County,Other,Other,1114,13.15,8470,Republican
 2016,Wyoming,WY,Washakie,County,Donald Trump,Republican,2911,76.32,3814,Republican
 2016,Wyoming,WY,Washakie,County,Hillary Clinton,Democratic,532,13.95,3814,Republican
-2016,Wyoming,WY,Washakie,County,Other,Various Parties,371,9.73,3814,Republican
+2016,Wyoming,WY,Washakie,County,Other,Other,371,9.73,3814,Republican
 2016,Wyoming,WY,Weston,County,Donald Trump,Republican,3033,86.02,3526,Republican
 2016,Wyoming,WY,Weston,County,Hillary Clinton,Democratic,299,8.48,3526,Republican
-2016,Wyoming,WY,Weston,County,Other,Various Parties,194,5.5,3526,Republican
+2016,Wyoming,WY,Weston,County,Other,Other,194,5.5,3526,Republican
 2016,District of Columbia,DC,Ward 1,Ward,Hillary Clinton,Democratic,37490,92.5,40529,Democratic
 2016,District of Columbia,DC,Ward 1,Ward,Donald Trump,Republican,1066,2.63,40529,Democratic
 2016,District of Columbia,DC,Ward 1,Ward,Other,Various Parties,1973,4.87,40529,Democratic

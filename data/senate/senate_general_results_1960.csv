@@ -1,4 +1,7 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
+1960,Alabama,General election results,General,Winning,True,Democratic Party (United States),John Sparkman,"389,196",70.24%
+1960,Alabama,General election results,General,Candidate,False,Republican Party (United States),Julian Elgin,"164,868",29.76%
+1960,Alabama,General election results,General,Total,False,,,"554,072",100.00%
 1960,Alaska,General election results,General,Winning,False,Democratic Party (United States),Bob Bartlett (inc.),"38,041",63.43%
 1960,Alaska,General election results,General,Candidate,False,Republican Party (United States),Lee McKinley,"21,937",36.58%
 1960,Alaska,General election results,General,Total,False,,,"59,978",100.00%
@@ -11,15 +14,23 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1960,Delaware,General election results,General,Candidate,False,Democratic Party (United States),J. Allen Frear Jr. (inc.),"96,090",49.29%
 1960,Delaware,General election results,General,Total,False,,,"164,531",100.00%
 1960,Georgia,1960 U.S. Senate election in Georgia,General,Winning,True,Democratic Party (United States),Richard Russell Jr.,"576,140",99.94%
+1960,Idaho,1960 United States Senate election in Idaho,General,Winning,True,Republican Party (US),Henry Dworshak,"152,648",52.26
+1960,Idaho,1960 United States Senate election in Idaho,General,Candidate,False,Democratic Party (US),R. F. McLaughlin,"139,448",47.74
 1960,Illinois,"United States Senate election in Illinois, 1966",General,Winning,True,Democratic Party (US),Paul H. Douglas,"2,530,943",54.63%
 1960,Illinois,"United States Senate election in Illinois, 1966",General,Candidate,False,Republican Party (US),Samuel W. Witwer,"2,093,846",45.20%
 1960,Illinois,"United States Senate election in Illinois, 1966",General,Candidate,False,Socialist Labor Party of America,Louis Fisher,"8,007",0.17%
 1960,Iowa,1960 U.S. Senate election in Iowa,General,Winning,False,Republican Party (United States),Jack Miller,"642,643",51.92%
 1960,Iowa,1960 U.S. Senate election in Iowa,General,Candidate,False,Democratic Party (United States),Herschel Loveless,"595,119",48.08%
 1960,Iowa,1960 U.S. Senate election in Iowa,General,Total,False,,,"1,237,762",100.00%
+1960,Kansas,1960 United States Senate election in Kansas,General,Winning,True,Republican Party (US),Andrew Frank Schoeppel,"485,499",54.64
+1960,Kansas,1960 United States Senate election in Kansas,General,Candidate,False,Democratic Party (US),Frank Theis,"388,895",43.77
+1960,Kansas,1960 United States Senate election in Kansas,General,Candidate,False,Prohibition Party (US),C. E. Cowen,"14,198",1.60
 1960,Kentucky,1960 U.S. Senate election in Kentucky,General,Winning,True,Republican Party (United States),John Sherman Cooper,"644,087",59.15%
 1960,Kentucky,1960 U.S. Senate election in Kentucky,General,Candidate,False,Democratic Party (United States),Keen Johnson,"444,830",40.85%
 1960,Kentucky,1960 U.S. Senate election in Kentucky,General,Total,False,,,"1,088,917",100.00%
+1960,Louisiana,1960 United States Senate election in Louisiana,General,Winning,True,Democratic Party (US),Allen J. Ellender,"432,228",79.76
+1960,Louisiana,1960 United States Senate election in Louisiana,General,Candidate,False,Republican Party (US),George W. Reese Jr.,"109,698",20.24
+1960,Louisiana,1960 United States Senate election in Louisiana,General,Write-in,False,,,2,0.00
 1960,Maine,1960 U.S. Senate election in Maine,General,Winning,True,Republican Party (United States),Margaret Chase Smith,"256,890",61.65%
 1960,Maine,1960 U.S. Senate election in Maine,General,Candidate,False,Democratic Party (United States),Lucia Cormier,"159,809",38.35%
 1960,Maine,1960 U.S. Senate election in Maine,General,Total,False,,,"416,699",100.00%
@@ -53,11 +64,16 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1960,Nebraska,1960 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (United States),Robert B. Conrad,"245,837",41.06%
 1960,Nebraska,1960 United States Senate election in Nebraska,General,Write-in,False,,,158,0.03%
 1960,Nebraska,1960 United States Senate election in Nebraska,General,Total,False,,,"598,743",100.00%
+1960,New Hampshire,1960 United States Senate election in New Hampshire,General,Winning,True,Republican Party (US),Styles Bridges,"173,521",60.35%
+1960,New Hampshire,1960 United States Senate election in New Hampshire,General,Candidate,False,Democratic Party (US),Herbert W. Hill,"114,024",39.65%
+1960,New Hampshire,1960 United States Senate election in New Hampshire,General,Total,False,,,"287,545",100.00%
 1960,New Jersey,1960 United States Senate election in New Jersey,General,Winning,True,Republican Party (United States),Clifford P. Case,"1,483,832",55.69%
 1960,New Jersey,1960 United States Senate election in New Jersey,General,Candidate,False,Democratic Party (United States),Thorn Lord,"1,151,385",43.21%
 1960,New Jersey,1960 United States Senate election in New Jersey,General,Candidate,False,New Jersey Conservative Party,Winifred O. Perry,"13,756",0.52%
 1960,New Jersey,1960 United States Senate election in New Jersey,General,Candidate,False,Socialist Workers Party (United States),Gladys Grauer,"11,784",0.44%
 1960,New Jersey,1960 United States Senate election in New Jersey,General,Candidate,False,Socialist Labor Party of America,Albert Ronis,"3,599",0.14%
+1960,New Mexico,1960 United States Senate election in New Mexico,General,Winning,True,Democratic Party (US),Clinton Anderson,"190,654",63.43
+1960,New Mexico,1960 United States Senate election in New Mexico,General,Candidate,False,Republican Party (US),William Colwes,"109,897",36.57
 1960,North Carolina,1960 U.S. Senate election in North Carolina,General,Winning,True,Democratic Party (United States),B. Everett Jordan,"793,521",61.44
 1960,North Carolina,1960 U.S. Senate election in North Carolina,General,Candidate,False,Republican Party (United States),R. Kyle Hayes,"497,964",38.56
 1960,North Carolina,1960 U.S. Senate election in North Carolina,General,Total,False,,,"1,291,485",100.00%
@@ -68,18 +84,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1960,Oklahoma,1960 United States Senate election in Oklahoma,General,Winning,False,Democratic Party (United States),Robert S. Kerr (inc.),"474,116",54.84%
 1960,Oklahoma,1960 United States Senate election in Oklahoma,General,Candidate,False,Republican Party (United States),B. Hayden Crawford,"385,646",44.61%
 1960,Oklahoma,1960 United States Senate election in Oklahoma,General,Candidate,False,Independent (politician),Billy E. Brown,"4,713",0.55%
-1960,Oregon (special),1960 United States Senate election in Oregon,General,Winning,False,Democratic Party (United States),Maurine Neuberger,"412,757",54.61%
-1960,Oregon (special),1960 United States Senate election in Oregon,General,Candidate,False,Republican Party (United States),Elmo Smith,"343,009",45.38%
-1960,Oregon (special),1960 United States Senate election in Oregon,General,Write-in,False,,,109,0.01%
-1960,Oregon (special),1960 United States Senate special election in Oregon,General,Winning,False,Democratic Party (United States),Maurine Neuberger,"422,024",54.98%
-1960,Oregon (special),1960 United States Senate special election in Oregon,General,Candidate,False,Republican Party (United States),Elmo Smith,"345,464",45.01%
-1960,Oregon (special),1960 United States Senate special election in Oregon,General,Write-in,False,,,93,0.01%
 1960,Oregon,1960 United States Senate election in Oregon,General,Winning,False,Democratic Party (United States),Maurine Neuberger,"412,757",54.61%
 1960,Oregon,1960 United States Senate election in Oregon,General,Candidate,False,Republican Party (United States),Elmo Smith,"343,009",45.38%
 1960,Oregon,1960 United States Senate election in Oregon,General,Write-in,False,,,109,0.01%
-1960,Oregon,1960 United States Senate special election in Oregon,General,Winning,False,Democratic Party (United States),Maurine Neuberger,"422,024",54.98%
-1960,Oregon,1960 United States Senate special election in Oregon,General,Candidate,False,Republican Party (United States),Elmo Smith,"345,464",45.01%
-1960,Oregon,1960 United States Senate special election in Oregon,General,Write-in,False,,,93,0.01%
+1960,Oregon (special),1960 United States Senate special election in Oregon,General,Winning,False,Democratic Party (United States),Maurine Neuberger,"422,024",54.98%
+1960,Oregon (special),1960 United States Senate special election in Oregon,General,Candidate,False,Republican Party (United States),Elmo Smith,"345,464",45.01%
+1960,Oregon (special),1960 United States Senate special election in Oregon,General,Write-in,False,,,93,0.01%
 1960,Rhode Island,General election results,General,Winning,False,Democratic Party (US),Claiborne Pell,"275,575",68.90
 1960,Rhode Island,General election results,General,Candidate,False,Republican Party (US),Raoul Archambault Jr.,"124,408",31.10
 1960,South Carolina,"South Carolina U.S. Senate Election, 1960",General,Winning,True,Democratic Party (United States),Strom Thurmond,"330,167",99.97%

@@ -227,28 +227,28 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 1998,house,Colorado,CO,6,,Tom Tancredo,Republican,,55.9,True,False,True
 1998,house,Colorado,CO,6,,Henry Strauss,Democratic,,41.5,False,False,True
 1998,house,Colorado,CO,6,,George Newman,Natural Law,,2.6,False,False,True
-1998,house,Connecticut,CT,1,,John B. Larson,Democratic,,58.0,True,False,True
-1998,house,Connecticut,CT,1,,Kevin O'Connor,Republican,,41.4,False,False,True
-1998,house,Connecticut,CT,1,,Jay E. Palmieri IV,Term Limits,,5.0,False,False,True
-1998,house,Connecticut,CT,2,,Sam Gejdenson,Democratic,,61.0,True,True,False
-1998,house,Connecticut,CT,2,,Gary Koval,Republican,,35.5,False,False,False
-1998,house,Connecticut,CT,2,,Dianne G. Ondusko,Independence,,3.1,False,False,False
-1998,house,Connecticut,CT,2,,Paul W. Cook,Term Limits,,0.4,False,False,False
-1998,house,Connecticut,CT,3,,Rosa DeLauro,Democratic,,71.3,True,True,False
-1998,house,Connecticut,CT,3,,Martin Reust,Republican,,27.4,False,False,False
-1998,house,Connecticut,CT,3,,Kristen J. Abbatiello,Term Limits,,0.5,False,False,False
-1998,house,Connecticut,CT,3,,David Cole,Reform,,0.4,False,False,False
-1998,house,Connecticut,CT,3,,Gail J. Dalby,Natural Law,,0.4,False,False,False
-1998,house,Connecticut,CT,4,,Chris Shays,Republican,,69.0,True,True,False
-1998,house,Connecticut,CT,4,,Jonathan Kantrowitz,Democratic,,29.9,False,False,False
-1998,house,Connecticut,CT,4,,Marshall C. Harrison,Libertarian,,1.1,False,False,False
-1998,house,Connecticut,CT,5,,Jim Maloney,Democratic,,49.9,True,False,False
-1998,house,Connecticut,CT,5,,Mark Nielsen,Republican,,48.4,False,False,False
-1998,house,Connecticut,CT,5,,Robert Strasdauskas,Concerned Citizens,,1.7,False,False,False
-1998,house,Connecticut,CT,6,,Nancy Johnson,Republican,,58.1,True,True,False
-1998,house,Connecticut,CT,6,,Charlotte Koskoff,Democratic,,39.6,False,False,False
-1998,house,Connecticut,CT,6,,Timothy A. Knibbs,Concerned Citizens,,1.8,False,False,False
-1998,house,Connecticut,CT,6,,Mark J. Polon,Term Limits,,0.4,False,False,False
+1998,house,Connecticut,CT,1,168264,John B. Larson,Democratic,97681,58.0,True,False,True
+1998,house,Connecticut,CT,1,168264,Kevin O'Connor,Republican,69668,41.4,False,False,True
+1998,house,Connecticut,CT,1,168264,Jay E. Palmieri IV,Term Limits,915,5.0,False,False,True
+1998,house,Connecticut,CT,2,163201,Sam Gejdenson,Democratic,99567,61.0,True,True,False
+1998,house,Connecticut,CT,2,163201,Gary Koval,Republican,,35.5,False,False,False
+1998,house,Connecticut,CT,2,163201,Dianne G. Ondusko,Independence,5116,3.1,False,False,False
+1998,house,Connecticut,CT,2,163201,Paul W. Cook,Term Limits,658,0.4,False,False,False
+1998,house,Connecticut,CT,3,153851,Rosa DeLauro,Democratic,109726,71.3,True,True,False
+1998,house,Connecticut,CT,3,153851,Martin Reust,Republican,,27.4,False,False,False
+1998,house,Connecticut,CT,3,153851,Kristen J. Abbatiello,Term Limits,,0.5,False,False,False
+1998,house,Connecticut,CT,3,153851,David Cole,Reform,,0.4,False,False,False
+1998,house,Connecticut,CT,3,153851,Gail J. Dalby,Natural Law,,0.4,False,False,False
+1998,house,Connecticut,CT,4,137204,Chris Shays,Republican,,69.0,True,True,False
+1998,house,Connecticut,CT,4,137204,Jonathan Kantrowitz,Democratic,,29.9,False,False,False
+1998,house,Connecticut,CT,4,137204,Marshall C. Harrison,Libertarian,,1.1,False,False,False
+1998,house,Connecticut,CT,5,157157,Jim Maloney,Democratic,78394,49.9,True,False,False
+1998,house,Connecticut,CT,5,157157,Mark Nielsen,Republican,76051,48.4,False,False,False
+1998,house,Connecticut,CT,5,157157,Robert Strasdauskas,Concerned Citizens,,1.7,False,False,False
+1998,house,Connecticut,CT,6,174781,Nancy Johnson,Republican,101630,58.1,True,True,False
+1998,house,Connecticut,CT,6,174781,Charlotte Koskoff,Democratic,69201,39.6,False,False,False
+1998,house,Connecticut,CT,6,174781,Timothy A. Knibbs,Concerned Citizens,3217,1.8,False,False,False
+1998,house,Connecticut,CT,6,174781,Mark J. Polon,Term Limits,,0.4,False,False,False
 1998,house,Delaware,DE,AL,,Mike Castle,Republican,,66.4,True,True,False
 1998,house,Delaware,DE,AL,,Dennis E. Williams,Democratic,,31.8,False,False,False
 1998,house,Delaware,DE,AL,,James P. Webster,US Taxpayers,,1.3,False,False,False

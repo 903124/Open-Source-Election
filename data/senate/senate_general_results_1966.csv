@@ -6,9 +6,16 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1966,Alaska,General election results,General,Winning,False,Democratic Party (United States),Bob Bartlett (inc.),"49,289",75.54%
 1966,Alaska,General election results,General,Candidate,False,Republican Party (United States),Lee McKinley,"15,961",24.46%
 1966,Alaska,General election results,General,Total,False,,,"65,250",100.00%
+1966,Colorado,General election results,General,Winning,True,Republican Party (US),Gordon Allott,"368,307",58.02%
+1966,Colorado,General election results,General,Candidate,False,Democratic Party (US),Roy Romer,"266,198",41.93%
+1966,Colorado,General election results,General,Candidate,False,Independent (US),Walter Cranson (write-in),332,0.05%
+1966,Colorado,General election results,General,Total,False,,,"634,837",100.00%
 1966,Delaware,General election results,General,Winning,True,Republican Party (United States),J. Caleb Boggs,"97,268",59.12%
 1966,Delaware,General election results,General,Candidate,False,Democratic Party (United States),James M. Tunnell Jr.,"67,263",40.88%
 1966,Delaware,General election results,General,Total,False,,,"164,531",100.00%
+1966,Georgia,1966 United States Senate election,General,Winning,True,Democratic Party (United States),Richard Russell Jr.,"631,002",99.95%
+1966,Georgia,1966 United States Senate election,General,Write-in,False,,,328,0.05%
+1966,Georgia,1966 United States Senate election,General,Total,False,,,"631,330",100.00%
 1966,Idaho,General election results,General,Winning,True,Republican Party (United States),Len Jordan,"139,819",55.38%
 1966,Idaho,General election results,General,Candidate,False,Democratic Party (United States),Ralph Harding,"112,637",44.62%
 1966,Idaho,General election results,General,Total,False,,,"252,456",100.00%
@@ -21,6 +28,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1966,Iowa,General election results,General,Candidate,False,Democratic Party (United States),E.B. Smith,"324,114",37.80%
 1966,Iowa,General election results,General,Candidate,False,Write-in,All others,1,0.00%
 1966,Iowa,General election results,General,Total,False,,,"857,496",100.00%
+1966,Kansas,1966 United States Senate election in Kansas,General,Winning,True,Republican Party (US),James B. Pearson,"350,077",52.15
+1966,Kansas,1966 United States Senate election in Kansas,General,Candidate,False,Democratic Party (US),James Floyd Breeding,"303,223",45.17
+1966,Kansas,1966 United States Senate election in Kansas,General,Candidate,False,Prohibition Party,Earl F. Dodge,"9,364",1.39
+1966,Kansas,1966 United States Senate election in Kansas,General,Candidate,False,Conservative Party (US),George W. Snell,"7,103",1.06
 1966,Kentucky,1966 U.S. Senate election in Kentucky,General,Winning,True,Republican Party (United States),John Sherman Cooper,"483,805",64.52%
 1966,Kentucky,1966 U.S. Senate election in Kentucky,General,Candidate,False,Democratic Party (United States),John Y. Brown Sr.,"266,079",35.48%
 1966,Kentucky,1966 U.S. Senate election in Kentucky,General,Total,False,,,"749,884",100.00%
@@ -38,18 +49,16 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1966,Massachusetts,General election,General,Candidate,False,Socialist Labor Party of America,Lawrence Gilfedder,"6,790",0.34%
 1966,Massachusetts,General election,General,Candidate,False,Prohibition Party,Mark R. Shaw,"4,833",0.24%
 1966,Massachusetts,General election,General,Total,False,,,"1,999,857",100.00%
-1966,Michigan,1966 U.S. Senate election in Michigan,General,Winning,False,Democratic Party (United States),G. Mennen Williams,"437,438",60.10%
-1966,Michigan,1966 U.S. Senate election in Michigan,General,Candidate,False,Democratic Party (United States),Jerome P. Cavanagh,"290,465",39.90%
-1966,Michigan,1966 U.S. Senate election in Michigan,General,Write-in,False,,,2,0.00%
-1966,Michigan,1966 U.S. Senate election in Michigan,General,Total,False,,,"727,905",100.00%
-1966,Michigan,1966 U.S. Senate election in Michigan,General,Winning,True,Republican Party (United States),Robert P. Griffin,"1,363,530",55.90%
-1966,Michigan,1966 U.S. Senate election in Michigan,General,Candidate,False,Democratic Party (United States),G. Mennen Williams,"1,069,484",43.85%
-1966,Michigan,1966 U.S. Senate election in Michigan,General,Candidate,False,Socialist Labor Party (US),James Sim,"6,166",0.25%
-1966,Michigan,1966 U.S. Senate election in Michigan,General,Total,False,,,"2,439,180",100.00%
-1966,Michigan,1966 U.S. Senate special election in Michigan,General,Winning,True,Republican Party (United States),Robert P. Griffin,"1,321,222",56.01%
-1966,Michigan,1966 U.S. Senate special election in Michigan,General,Candidate,False,Democratic Party (United States),G. Mennen Williams,"1,031,138",43.71%
-1966,Michigan,1966 U.S. Senate special election in Michigan,General,Candidate,False,Socialist Labor Party (US),James Sim,"6,444",0.27%
-1966,Michigan,1966 U.S. Senate special election in Michigan,General,Total,False,,,"2,358,804",100.00%
+1966,Michigan,1966 U.S. Senate election in Michigan,General,Winning,True,Republican Party (United States),Robert P. Griffin,"1,363,530",55.89%
+1966,Michigan,1966 U.S. Senate election in Michigan,General,Candidate,False,Democratic Party (United States),G. Mennen Williams,"1,069,484",43.84%
+1966,Michigan,1966 U.S. Senate election in Michigan,General,Candidate,False,Socialist Labor Party (US),Ralph W. Muncy,"6,166",0.25%
+1966,Michigan,1966 U.S. Senate election in Michigan,General,Write-in,False,,,185,0.00%
+1966,Michigan,1966 U.S. Senate election in Michigan,General,Total,False,,,"2,439,365",100.00%
+1966,Michigan,1966 U.S. Senate special election in Michigan,General,Winning,True,Republican Party (United States),Robert P. Griffin,"1,321,222",56.00%
+1966,Michigan,1966 U.S. Senate special election in Michigan,General,Candidate,False,Democratic Party (United States),G. Mennen Williams,"1,031,138",43.70%
+1966,Michigan,1966 U.S. Senate special election in Michigan,General,Candidate,False,Socialist Labor Party (US),Ralph W. Muncy,"6,444",0.27%
+1966,Michigan,1966 U.S. Senate special election in Michigan,General,Write-in,False,,,296,0.01%
+1966,Michigan,1966 U.S. Senate special election in Michigan,General,Total,False,,,"2,359,100",100.00%
 1966,Minnesota,General election results,General,Winning,True,Minnesota Democratic–Farmer–Labor Party,Walter Mondale,"685,840",53.94%
 1966,Minnesota,General election results,General,Candidate,False,Republican Party of Minnesota,Robert A. Forsythe,"574,868",45.21%
 1966,Minnesota,General election results,General,Candidate,False,Socialist Workers Party (United States),Joseph Johnson,"5,487",0.43%
@@ -65,6 +74,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1966,Nebraska,1966 United States Senate election in Nebraska,General,Candidate,False,Independent (politician),Tom Rehorn,830,0.17%
 1966,Nebraska,1966 United States Senate election in Nebraska,General,Write-in,False,,,205,0.04%
 1966,Nebraska,1966 United States Senate election in Nebraska,General,Total,False,,,"485,101",100.00%
+1966,New Hampshire,1966 United States Senate election in New Hampshire,General,Winning,True,Democratic Party (US),Thomas J. McIntyre,"123,888",54.03
+1966,New Hampshire,1966 United States Senate election in New Hampshire,General,Candidate,False,Republican Party (US),Harrison R. Thyng,"105,241",45.90
 1966,New Jersey,1966 United States Senate election in New Jersey,General,Winning,True,Republican Party (United States),Clifford P. Case,"1,278,843",60.02%
 1966,New Jersey,1966 United States Senate election in New Jersey,General,Candidate,False,Democratic Party (United States),Warren W. Wilentz,"788,021",36.98%
 1966,New Jersey,1966 United States Senate election in New Jersey,General,Candidate,False,Independent politician,Robert Lee Schlachter,"53,605",2.52%
@@ -91,6 +102,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1966,South Carolina (special),"South Carolina U.S. Senate Special Election, 1966",General,Candidate,False,Republican Party (United States),Marshall Parker,"212,032",48.65%
 1966,South Dakota,1966 United States Senate election in South Dakota,General,Winning,False,Republican Party (United States),Karl E. Mundt (inc.),"150,517",66.28%
 1966,South Dakota,1966 United States Senate election in South Dakota,General,Candidate,False,Democratic Party (United States),Donn H. Wright,"76,653",33.72%
+1966,Tennessee,General election,General,Winning,False,Republican Party (US),Howard Baker,"483,063",55.72%
+1966,Tennessee,General election,General,Candidate,False,Democratic Party (US),Frank G. Clement,"383,843",44.27%
 1966,Texas,1966 United States Senate election in Texas,General,Winning,True,Republican Party (US),John Tower,"841,501",56.39%
 1966,Texas,1966 United States Senate election in Texas,General,Candidate,False,Democratic Party (US),Waggoner Carr,"643,855",43.15%
 1966,Texas,1966 United States Senate election in Texas,General,Write-in,False,,,45,0.00%

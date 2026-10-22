@@ -42,6 +42,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1972,North Carolina,NC,governor,1972 North Carolina gubernatorial election,Candidate,Arlis F. Pettyjohn,American Party (1969),8211,0.55,False,False
 1972,North Dakota,ND,governor,1972 North Dakota gubernatorial election,Winning,Arthur A. Link,North Dakota Democratic-npl,143899,51.04,True,False
 1972,North Dakota,ND,governor,1972 North Dakota gubernatorial election,Candidate,Richard F. Larsen,Republican,138032,48.96,False,False
+1972,North Dakota,ND,governor,1972 North Dakota gubernatorial election,Total,,,281931,100.0,False,False
 1972,Rhode Island,RI,governor,1972 Rhode Island gubernatorial election,Winning,Philip Noel,Democratic,216953,52.55,True,False
 1972,Rhode Island,RI,governor,1972 Rhode Island gubernatorial election,Candidate,Herbert F. DeSimone,Republican,194315,47.07,False,False
 1972,Rhode Island,RI,governor,1972 Rhode Island gubernatorial election,Candidate,Adam J. Varone,Independent,1597,0.39,False,False

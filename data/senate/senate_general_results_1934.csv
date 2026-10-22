@@ -74,6 +74,19 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1934,Montana (special),"United States Senate special election in Montana, 1934",General,Winning,False,Democratic Party (United States),James E. Murray,"116,965",59.66%
 1934,Montana (special),"United States Senate special election in Montana, 1934",General,Candidate,False,Republican Party (United States),Scott Leavitt,"77,307",39.43%
 1934,Montana (special),"United States Senate special election in Montana, 1934",General,Candidate,False,Socialist Party (United States),John F. Duffy,"1,779",0.91%
+1934,Nebraska,1934 United States Senate election in Nebraska,General,Winning,False,Democratic Party (United States),Edward R. Burke,"305,958",55.30%
+1934,Nebraska,1934 United States Senate election in Nebraska,General,Candidate,False,Republican Party (United States),Robert G. Simmons,"237,126",42.86%
+1934,Nebraska,1934 United States Senate election in Nebraska,General,Candidate,False,Independent (politician),Henry Hoffman,"7,670",1.39%
+1934,Nebraska,1934 United States Senate election in Nebraska,General,Candidate,False,Independent (politician),E. D. O'Sullivan (write-in),"2,501",0.45%
+1934,Nebraska,1934 United States Senate election in Nebraska,General,Write-in,False,,,44,0.01%
+1934,Nebraska,1934 United States Senate election in Nebraska,General,Total,False,,,"553,299",100.00%
+1934,Nebraska (special),1934 United States Senate special election in Nebraska,General,Winning,True,Democratic Party (United States),Richard C. Hunter,"281,421",56.45%
+1934,Nebraska (special),1934 United States Senate special election in Nebraska,General,Candidate,False,Republican Party (United States),J. H. Kemp,"217,106",43.55%
+1934,Nebraska (special),1934 United States Senate special election in Nebraska,General,Write-in,False,,,24,0.00%
+1934,Nebraska (special),1934 United States Senate special election in Nebraska,General,Total,False,,,"498,551",100.00%
+1934,Nevada,1934 United States Senate election in Nevada,General,Winning,True,Democratic Party (US),Key Pittman,"27,581",64.51
+1934,Nevada,1934 United States Senate election in Nevada,General,Candidate,False,Republican Party (US),George W. Malone,"14,273",33.38
+1934,Nevada,1934 United States Senate election in Nevada,General,Candidate,False,Independent,John P. Reynolds,901,2.11
 1934,New Jersey,1934 United States Senate election in New Jersey,General,Winning,False,Democratic Party (US),A. Harry Moore,"785,971",57.90%
 1934,New Jersey,1934 United States Senate election in New Jersey,General,Candidate,True,Republican Party (US),Hamilton Fish Kean,"554,483",40.85%
 1934,New Jersey,1934 United States Senate election in New Jersey,General,Candidate,False,Socialist Party (US),John S. Martin,"9,721",0.72%
@@ -89,10 +102,18 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1934,Ohio,1934 U.S. Senate election in Ohio,General,Candidate,False,Communist Party (United States),William C. Sandberg,"13,546",0.64%
 1934,Ohio,1934 U.S. Senate election in Ohio,General,Write-in,False,,,23,0.00%
 1934,Ohio,1934 U.S. Senate election in Ohio,General,Total,False,,,"2,128,820",100.00%
+1934,Pennsylvania,1934 U.S. Senate election in Pennsylvania,General,Winning,False,Democratic Party (US),Joseph F. Guffey,"1,494,010",50.78%
+1934,Pennsylvania,1934 U.S. Senate election in Pennsylvania,General,Candidate,False,Republican Party (US),David A. Reed (inc.),"1,366,872",46.46%
+1934,Pennsylvania,1934 U.S. Senate election in Pennsylvania,General,Candidate,False,Socialist Party USA,James H. Maurer,"50,444",0.39%
+1934,Pennsylvania,1934 U.S. Senate election in Pennsylvania,General,Candidate,False,Prohibition Party (United States),Edwin J. Fithian,"19,985",0.68%
+1934,Pennsylvania,1934 U.S. Senate election in Pennsylvania,General,Candidate,False,Communist Party USA,Harry M. Wicks,"6,170",0.21%
+1934,Pennsylvania,1934 U.S. Senate election in Pennsylvania,General,Candidate,False,Socialist Labor Party of America,George W. Ohls,"4,665",0.16%
 1934,Tennessee,1934 U.S. Senate election in Tennessee,General,Winning,True,Democratic Party (United States),Kenneth McKellar,"195,430",63.40%
 1934,Tennessee,1934 U.S. Senate election in Tennessee,General,Candidate,False,Republican Party (United States),Ben W. Hooper,"110,401",35.81%
 1934,Tennessee,1934 U.S. Senate election in Tennessee,General,Candidate,False,Independent (politician),C. W. Hoisington,"2,443",0.79%
 1934,Tennessee,1934 U.S. Senate election in Tennessee,General,Total,False,,,"308,274",100.00%
+1934,Tennessee (special),General election results,General,Winning,True,Democratic Party (US),Nathan L. Bachman,"200,249",80.09%
+1934,Tennessee (special),General election results,General,Candidate,False,Independent (US),John Randolph Neal Jr.,49773,19.91%
 1934,Texas,1934 United States Senate election in Texas,General,Winning,True,Democratic Party (United States),Tom Connally,"439,375",96.69%
 1934,Texas,1934 United States Senate election in Texas,General,Candidate,False,Republican Party (United States),Ulysses S. Goen,"12,895",2.84%
 1934,Texas,1934 United States Senate election in Texas,General,Candidate,False,Socialist Party (United States),William Burr Starr,"1,828",0.40%
@@ -128,3 +149,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1934,Wisconsin,1934 U.S. Senate election in Wisconsin,General,Candidate,False,Prohibition Party (United States),Theodore Lee,826,0.09%
 1934,Wisconsin,1934 U.S. Senate election in Wisconsin,General,Write-in,False,,,23,0.00%
 1934,Wisconsin,1934 U.S. Senate election in Wisconsin,General,Total,False,,,"921,949",100.00%
+1934,Wyoming,1934 United States Senate election in Wyoming,General,Winning,False,Democratic Party (United States),Joseph C. O'Mahoney (inc.),"53,806",56.62%
+1934,Wyoming,1934 United States Senate election in Wyoming,General,Candidate,False,Republican Party (United States),Vincent Carter,"40,819",42.96%
+1934,Wyoming,1934 United States Senate election in Wyoming,General,Candidate,False,Socialist Party (United States),Joseph N. Lunn,401,0.42%
+1934,Wyoming (special),1934 United States Senate special election in Wyoming,General,Winning,False,Democratic Party (United States),Joseph C. O'Mahoney (inc.),"53,859",56.88%
+1934,Wyoming (special),1934 United States Senate special election in Wyoming,General,Candidate,False,Republican Party (United States),Vincent Carter,"40,825",43.12%

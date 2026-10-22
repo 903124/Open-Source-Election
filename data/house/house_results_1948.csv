@@ -223,7 +223,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 1948,house,Indiana,IN,10,,Ralph Harvey,Republican,,52.5,True,True,False
 1948,house,Indiana,IN,10,,Robert C. Oliver,Democratic,,46.3,False,False,False
 1948,house,Indiana,IN,10,,LeRoy Mills,Prohibition,,1.2,False,False,False
-1948,house,Indiana,IN,11,,Andrew Jacobs,Democratic,,50.6,True,False,True
+1948,house,Indiana,IN,11,,Andrew Jacobs Sr.,Democratic,,50.6,True,False,True
 1948,house,Indiana,IN,11,,George L. Denny,Republican,,48.4,False,False,True
 1948,house,Indiana,IN,11,,Willard B. Benson,Progressive,,0.5,False,False,True
 1948,house,Indiana,IN,11,,Alston E. Wrentmore,Prohibition,,0.5,False,False,True

@@ -16,6 +16,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1942,Colorado (special),1942 United States Senate election in Colorado,General,Candidate,False,Socialist Party (United States),Edgar P. Sherman,"1,664",0.49%
 1942,Georgia,1942 U.S. Senate election in Georgia,General,Winning,True,Democratic Party (United States),Richard Russell Jr.,"59,870",96.94%
 1942,Georgia,1942 U.S. Senate election in Georgia,General,Candidate,False,Independent (politician),Mrs. LeVert Dwyer Shivers,"1,892",3.06%
+1942,Idaho,1942 United States Senate election in Idaho,General,Winning,True,Republican Party (US),John Thomas,"73,353",51.53
+1942,Idaho,1942 United States Senate election in Idaho,General,Candidate,False,Democratic Party (US),Glen H. Taylor,"68,989",48.47
 1942,Illinois,1942 United States Senate election in Illinois,General,Winning,True,Republican Party (United States),Charles W. Brooks,"1,582,887",53.24
 1942,Illinois,1942 United States Senate election in Illinois,General,Candidate,False,Democratic Party (United States),Raymond S. McKeough,"1,380,011",46.41
 1942,Illinois,1942 United States Senate election in Illinois,General,Candidate,False,Prohibition Party,Enoch A. Holtwick,"10,331",0.35
@@ -28,6 +30,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1942,Kansas,1942 United States Senate election in Kansas,General,Candidate,False,Democratic Party (United States),George McGill,"200,437",40.30%
 1942,Kansas,1942 United States Senate election in Kansas,General,Candidate,False,Prohibition Party,C. Floyd Hester,"12,863",2.59%
 1942,Kansas,1942 United States Senate election in Kansas,General,Total,False,,,"497,359",100.00%
+1942,Kentucky,1942 U.S. Senate election in Kentucky,General,Winning,True,Democratic Party (US),Happy Chandler,"216,958",55.34%
+1942,Kentucky,1942 U.S. Senate election in Kentucky,General,Candidate,False,Republican Party (US),Richard J. Colbert,"175,081",44.66%
+1942,Kentucky,1942 U.S. Senate election in Kentucky,General,Total,False,,,"392,039",100.00%
 1942,Maine,1942 U.S. Senate election in Maine,General,Winning,False,Republican Party (United States),Wallace H. White Jr. (inc.),"111,520",66.67%
 1942,Maine,1942 U.S. Senate election in Maine,General,Candidate,False,Democratic Party (United States),Fulton J. Redman,"55,754",33.33%
 1942,Maine,1942 U.S. Senate election in Maine,General,Total,False,,,"167,274",100.00%
@@ -65,6 +70,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1942,Nebraska,1942 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (United States),Foster May,"108,391",22.03%
 1942,Nebraska,1942 United States Senate election in Nebraska,General,Candidate,False,Independent (politician),Albert F. Ruthven,"1,348",0.35%
 1942,Nebraska,1942 United States Senate election in Nebraska,General,Total,False,,,"380,169",100.00%
+1942,Nevada (special),1942 United States Senate special election in Nevada,General,Winning,False,Democratic Party (US),James G. Scrugham,"23,805",58.72
+1942,Nevada (special),1942 United States Senate special election in Nevada,General,Candidate,False,Republican Party (US),Cecil W. Creel,"16,735",41.28
+1942,New Hampshire,1942 U.S. Senate election in New Hampshire,General,Winning,True,Republican Party (US),Styles Bridges,"88,601",54.60%
+1942,New Hampshire,1942 U.S. Senate election in New Hampshire,General,Candidate,False,Democratic Party (US),Francis P. Murphy,"73,656",45.40%
+1942,New Hampshire,1942 U.S. Senate election in New Hampshire,General,Total,False,,,"162,257",100.00%
 1942,New Jersey,1942 United States Senate election in New Jersey,General,Winning,False,Republican Party (US),Albert W. Hawkes,"648,855",53.09%
 1942,New Jersey,1942 United States Senate election in New Jersey,General,Candidate,True,Democratic Party (US),William H. Smathers,"559,851",45.81%
 1942,New Jersey,1942 United States Senate election in New Jersey,General,Candidate,False,Socialist Party USA,William L. Becker,"6,775",0.55%
@@ -78,6 +88,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1942,South Carolina,"South Carolina U.S. Senate Election, 1942",General,Winning,True,Democratic Party (United States),Burnet R. Maybank,"22,556",99.99%
 1942,South Dakota,1942 United States Senate election in South Dakota,General,Winning,False,Republican Party (United States),Harlan J. Bushfield,"106,704",58.74%
 1942,South Dakota,1942 United States Senate election in South Dakota,General,Candidate,False,Democratic Party (United States),Tom Berry,"74,945",41.26%
+1942,Tennessee,General election results,General,Winning,True,Democratic Party (US),Tom Stewart,"109,881",68.88%
+1942,Tennessee,General election results,General,Candidate,False,Republican Party (US),F. Todd Meacham,"34,324",21.52%
+1942,Tennessee,General election results,General,Candidate,False,Independent (US),John Randolph Neal Jr.,"15,317",9.60%
 1942,Texas,1942 Democratic U.S. Senate runoff,General,Winning,True,Democratic Party (United States),Pappy O'Daniel,"451,359",51.03%
 1942,Texas,1942 Democratic U.S. Senate runoff,General,Candidate,False,Democratic Party (United States),James Burr V Allred,"433,203",48.97%
 1942,Texas,1942 Democratic U.S. Senate runoff,General,Total,False,,,"884,562",100.00%

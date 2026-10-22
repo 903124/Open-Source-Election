@@ -11,22 +11,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1932,California,1932 United States Senate election in California,General,Candidate,False,Prohibition Party (United States),Robert P. Shuler,"560,088",25.77%
 1932,California,1932 United States Senate election in California,General,Candidate,False,Socialist Party USA,George Ross Kirkpatrick (write-in),466,0.02%
 1932,California,1932 United States Senate election in California,General,Total,False,,,"1,061,727",100.00%
-1932,Colorado (special),1932 United States Senate election in Colorado,General,Winning,False,Democratic Party (United States),Alva B. Adams,"226,516",51.91%
-1932,Colorado (special),1932 United States Senate election in Colorado,General,Candidate,False,Republican Party (United States),Karl C. Schuyler,"198,519",45.50%
-1932,Colorado (special),1932 United States Senate election in Colorado,General,Candidate,False,Socialist Party (United States),Carle Whitehead,"8,632",1.98%
-1932,Colorado (special),1932 United States Senate election in Colorado,General,Candidate,False,Farmer-Labor Party,H. H. Marrs,"1,814",0.42%
-1932,Colorado (special),1932 United States Senate election in Colorado,General,Candidate,False,Communist Party USA,Raymond D. D. Richardson,858,0.20%
-1932,Colorado (special),1932 United States Senate special election in Colorado,General,Winning,False,Republican Party (United States),Karl C. Schuyler,"207,540",48.76%
-1932,Colorado (special),1932 United States Senate special election in Colorado,General,Candidate,True,Democratic Party (United States),Walter Walker,"206,475",48.51%
-1932,Colorado (special),1932 United States Senate special election in Colorado,General,Candidate,False,Socialist Party (United States),Carle Whitehead,"11,619",2.73%
 1932,Colorado,1932 United States Senate election in Colorado,General,Winning,False,Democratic Party (United States),Alva B. Adams,"226,516",51.91%
 1932,Colorado,1932 United States Senate election in Colorado,General,Candidate,False,Republican Party (United States),Karl C. Schuyler,"198,519",45.50%
 1932,Colorado,1932 United States Senate election in Colorado,General,Candidate,False,Socialist Party (United States),Carle Whitehead,"8,632",1.98%
 1932,Colorado,1932 United States Senate election in Colorado,General,Candidate,False,Farmer-Labor Party,H. H. Marrs,"1,814",0.42%
 1932,Colorado,1932 United States Senate election in Colorado,General,Candidate,False,Communist Party USA,Raymond D. D. Richardson,858,0.20%
-1932,Colorado,1932 United States Senate special election in Colorado,General,Winning,False,Republican Party (United States),Karl C. Schuyler,"207,540",48.76%
-1932,Colorado,1932 United States Senate special election in Colorado,General,Candidate,True,Democratic Party (United States),Walter Walker,"206,475",48.51%
-1932,Colorado,1932 United States Senate special election in Colorado,General,Candidate,False,Socialist Party (United States),Carle Whitehead,"11,619",2.73%
+1932,Colorado (special),1932 United States Senate special election in Colorado,General,Winning,False,Republican Party (United States),Karl C. Schuyler,"207,540",48.76%
+1932,Colorado (special),1932 United States Senate special election in Colorado,General,Candidate,True,Democratic Party (United States),Walter Walker,"206,475",48.51%
+1932,Colorado (special),1932 United States Senate special election in Colorado,General,Candidate,False,Socialist Party (United States),Carle Whitehead,"11,619",2.73%
 1932,Connecticut,1932 U.S. Senate election in Connecticut,General,Winning,False,Democratic Party (US),Augustine Lonergan,"282,327",47.50%
 1932,Connecticut,1932 U.S. Senate election in Connecticut,General,Candidate,True,Republican Party (US),Hiram Bingham III,"278,061",46.78%
 1932,Connecticut,1932 U.S. Senate election in Connecticut,General,Candidate,False,Socialist Party (US),Devere Allen,"19,774",3.33%
@@ -78,6 +70,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1932,Maryland,1932 U.S. Senate election in Maryland,General,Candidate,False,Socialist Labor Party (United States),Noah S. Twigg,"1,859",0.42%
 1932,Maryland,1932 U.S. Senate election in Maryland,General,Candidate,False,Communist Party (United States),Carl Bradley,"1,449",0.33%
 1932,Maryland,1932 U.S. Senate election in Maryland,General,Total,False,,,"443,338",100.00%
+1932,Missouri,1932 United States Senate election in Missouri,General,Winning,True,Democratic Party (US),Bennett Champ Clark,"1,017,046",63.26%
+1932,Missouri,1932 United States Senate election in Missouri,General,Candidate,False,Republican Party (US),Henry Kiel,"575,174",35.77%
+1932,Missouri,1932 United States Senate election in Missouri,General,Candidate,False,Socialist Party of America,J. G. Hodges,"11,441",0.71%
+1932,Missouri,1932 United States Senate election in Missouri,General,Candidate,False,Prohibition Party (US),Herman P. Faris,"3,147",0.20%
+1932,Missouri,1932 United States Senate election in Missouri,General,Candidate,False,Communist Party USA,Julius Pollack,533,0.03%
+1932,Missouri,1932 United States Senate election in Missouri,General,Candidate,False,Socialist Labor Party of America,Karl L. Oberhue,417,0.03%
+1932,Nevada,1932 United States Senate election in Nevada,General,Winning,False,Democratic Party (US),Pat McCarran,"21,398",52.06
+1932,Nevada,1932 United States Senate election in Nevada,General,Candidate,True,Republican Party (US),Tasker Oddie,"19,706",47.94
 1932,New Hampshire,1932 U.S. Senate election in New Hampshire,General,Winning,False,Democratic Party (US),Fred H. Brown,"98,766",50.35%
 1932,New Hampshire,1932 U.S. Senate election in New Hampshire,General,Candidate,True,Republican Party (US),George H. Moses,"96,649",49.27%
 1932,New Hampshire,1932 U.S. Senate election in New Hampshire,General,Candidate,False,Independent politician,Charles W. Greene,533,0.27%

@@ -22,6 +22,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2004,North Dakota,ND,governor,"North Dakota gubernatorial election, 2004",Winning,John Hoeven,Republican,220803,71.26,True,True
 2004,North Dakota,ND,governor,"North Dakota gubernatorial election, 2004",Candidate,Joe Satrom,North Dakota Democratic-npl,84877,27.39,False,False
 2004,North Dakota,ND,governor,"North Dakota gubernatorial election, 2004",Candidate,Roland Riemers,Libertarian,4193,1.35,False,False
+2004,North Dakota,ND,governor,"North Dakota gubernatorial election, 2004",Total,,,309873,100.0,False,False
 2004,Utah,UT,governor,2004 Utah gubernatorial election,Winning,Jon Huntsman Jr.,Republican,531190,57.74,True,False
 2004,Utah,UT,governor,2004 Utah gubernatorial election,Candidate,Scott Matheson Jr.,Democratic,380359,41.35,False,False
 2004,Utah,UT,governor,2004 Utah gubernatorial election,Candidate,Ken Larsen,Choice,8399,0.91,False,False

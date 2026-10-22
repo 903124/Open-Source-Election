@@ -110,14 +110,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2000,Rhode Island,Republican Party primary results,Primary,Winning,True,Lincoln Chafee,Republican Party (United States),"2,221",100.00
 2000,Rhode Island,Republican Party primary results,Primary,Total,False,,,"2,221",100.00
 2000,Tennessee,Republican primary results,Primary,Winning,True,Bill Frist,Republican Party (US),"186,882",100.00%
-2000,Tennessee,Republican primary results,Primary,Winning,False,Jeff Clark,Democratic Party (United States),"64,851",34.23%
-2000,Tennessee,Republican primary results,Primary,Candidate,False,John Jay Hooker,Democratic Party (United States),"64,041",33.81%
-2000,Tennessee,Republican primary results,Primary,Candidate,False,Mary Taylor-Shelby,Democratic Party (United States),"28,604",15.10%
-2000,Tennessee,Republican primary results,Primary,Candidate,False,Shannon Wood,Democratic Party (United States),"25,372",13.39%
-2000,Tennessee,Republican primary results,Primary,Candidate,False,James Looney,Democratic Party (United States),"6,354",3.35%
-2000,Tennessee,Republican primary results,Primary,Candidate,False,Write-ins,Democratic Party (United States),218,0.12%
 2000,Tennessee,Republican primary results,Primary,Total,False,,,"186,882",100.00%
-2000,Tennessee,Republican primary results,Primary,Total,False,,,"189,440",100.00%
+2000,Tennessee,Democratic primary results,Primary,Winning,False,Jeff Clark,Democratic Party (United States),"64,851",34.23%
+2000,Tennessee,Democratic primary results,Primary,Candidate,False,John Jay Hooker,Democratic Party (United States),"64,041",33.81%
+2000,Tennessee,Democratic primary results,Primary,Candidate,False,Mary Taylor-Shelby,Democratic Party (United States),"28,604",15.10%
+2000,Tennessee,Democratic primary results,Primary,Candidate,False,Shannon Wood,Democratic Party (United States),"25,372",13.39%
+2000,Tennessee,Democratic primary results,Primary,Candidate,False,James Looney,Democratic Party (United States),"6,354",3.35%
+2000,Tennessee,Democratic primary results,Primary,Candidate,False,Write-ins,Democratic Party (United States),218,0.12%
+2000,Tennessee,Democratic primary results,Primary,Total,False,,,"189,440",100.00%
 2000,Texas,Republican primary results,Primary,Winning,True,Kay Bailey Hutchison,Republican Party (United States),"955,033",100.00%
 2000,Texas,Republican primary results,Primary,Total,False,,,"955,033",100.00%
 2000,Texas,Democratic primary results,Primary,Winning,False,Gene Kelly,Texas Democratic Party,"220,531",35.68%

@@ -1,5 +1,4 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
-1938,Alabama,"Alabama special election, April 26, 1938",General,Winning,True,Democratic Party (US),J. Lister Hill,"49,429",100.00%
 1938,Alabama,Alabama election,General,Winning,True,Democratic Party (US),J. Lister Hill,"113,413",86.38%
 1938,Alabama,Alabama election,General,Candidate,False,Republican Party (US),J. M. Pennington,"17,885",13.62%
 1938,Arizona,"United States Senate election in Arizona, 1938",General,Winning,True,Democratic Party (United States),Carl T. Hayden,"82,714",76.52%
@@ -61,12 +60,28 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1938,Maryland,1938 U.S. Senate election in Maryland,General,Candidate,False,Communist Party (United States),Harry Straw,"1,301",0.25%
 1938,Maryland,1938 U.S. Senate election in Maryland,General,Candidate,False,Democratic Party (United States),David John Lewis (write-in),12,0.00%
 1938,Maryland,1938 U.S. Senate election in Maryland,General,Total,False,,,"523,238",100.00%
+1938,Missouri,1938 United States Senate election in Missouri,General,Winning,True,Democratic Party (US),Bennett Champ Clark,"757,587",60.69%
+1938,Missouri,1938 United States Senate election in Missouri,General,Candidate,False,Republican Party (US),Henry S. Caulfield,"488,687",39.15%
+1938,Missouri,1938 United States Senate election in Missouri,General,Candidate,False,Socialist Party of America,J. G. Hodges,"1,712",0.14%
+1938,Missouri,1938 United States Senate election in Missouri,General,Candidate,False,Socialist Labor Party of America,Karl L. Oberhue,292,0.02%
+1938,Nevada,1938 United States Senate election in Nevada,General,Winning,True,Democratic Party (United States),Pat McCarran,"27,406",58.96
+1938,Nevada,1938 United States Senate election in Nevada,General,Candidate,False,Republican Party (United States),Tasker Oddie,"19,078",41.04
+1938,New Hampshire,1938 U.S. Senate election in New Hampshire,General,Winning,False,Republican Party (US),Charles W. Tobey,"100,633",54.23%
+1938,New Hampshire,1938 U.S. Senate election in New Hampshire,General,Candidate,True,Democratic Party (US),Fred H. Brown,"84,920",45.77%
+1938,New Hampshire,1938 U.S. Senate election in New Hampshire,General,Total,False,,,"217,057",100.00%
 1938,New Jersey (special),1938 United States Senate special election in New Jersey,General,Winning,False,Republican Party (US),William Warren Barbour,"816,667",52.98%
 1938,New Jersey (special),1938 United States Senate special election in New Jersey,General,Candidate,False,Democratic Party (US),William H. J. Ely,"704,159",45.68%
 1938,New Jersey (special),1938 United States Senate special election in New Jersey,General,Candidate,False,Prohibition Party (US),Louis H. Kelley,"8,201",0.53%
 1938,New Jersey (special),1938 United States Senate special election in New Jersey,General,Candidate,False,Socialist Party USA,John Palangio,"3,671",0.24%
 1938,New Jersey (special),1938 United States Senate special election in New Jersey,General,Candidate,False,Communist Party USA,William Norman,"3,515",0.23%
 1938,New Jersey (special),1938 United States Senate special election in New Jersey,General,Candidate,False,Socialist Labor Party of America,John C. Butterworth,"1,873",0.12%
+1938,New York,1938 United States Senate election in New York,General,Winning,True,Democratic Party (US),Robert F. Wagner,"2,098,919",45.80%
+1938,New York,1938 United States Senate election in New York,General,Candidate,True,American Labor Party,Robert F. Wagner,"398,410",8.69%
+1938,New York,1938 United States Senate election in New York,General,Candidate,False,Republican Party (US),John Lord O'Brian,"2,046,794",44.66%
+1938,New York,1938 United States Senate election in New York,General,Candidate,False,Independent Progressive,John Lord O'Brian,"11,821",0.26%
+1938,New York,1938 United States Senate election in New York,General,Candidate,False,Socialist Party of America,Herman J. Hahn,"23,553",0.51%
+1938,New York,1938 United States Senate election in New York,General,Candidate,False,Socialist Labor Party of America,O. Martin Olson,"3,851",0.08%
+1938,New York,1938 United States Senate election in New York,General,Total,False,,,"4,583,048",100.00%
 1938,New York (special),"United States Senate Special election in New York, 1938",General,Candidate,False,Democratic Party (United States),James M. Mead,"2,060,875",45.57%
 1938,New York (special),"United States Senate Special election in New York, 1938",General,Candidate,False,American Labor Party,James M. Mead,"378,028",8.36%
 1938,New York (special),"United States Senate Special election in New York, 1938",General,Winning,False,Republican Party (United States),Edward F. Corsi,"2,066,631",45.60%
@@ -85,8 +100,19 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1938,Oklahoma,1938 United States Senate election in Oklahoma,General,Candidate,False,Prohibition Party (United States),P.C. Nelson,"2,220",0.47%
 1938,Oklahoma,1938 United States Senate election in Oklahoma,General,Candidate,False,Independent (politician),Raymond Burton Clark,603,0.13%
 1938,Oklahoma,1938 United States Senate election in Oklahoma,General,Candidate,False,Independent (politician),Herndon J. Thompson,573,0.12%
+1938,Pennsylvania,1938 U.S. Senate election in Pennsylvania,General,Winning,True,Republican Party (US),James J. Davis,"2,086,931",54.70%
+1938,Pennsylvania,1938 U.S. Senate election in Pennsylvania,General,Candidate,False,Democratic Party (US),George Howard Earle III,"1,694,367",44.41%
+1938,Pennsylvania,1938 U.S. Senate election in Pennsylvania,General,Candidate,False,Socialist Party USA,David H.H. Felix,"20,155",0.53%
+1938,Pennsylvania,1938 U.S. Senate election in Pennsylvania,General,Candidate,False,Prohibition Party,Furest S. Van Valin,"9,327",0.24%
+1938,Pennsylvania,1938 U.S. Senate election in Pennsylvania,General,Candidate,False,Communist Party USA,Pat Toohey,"1,530",0.04%
+1938,Pennsylvania,1938 U.S. Senate election in Pennsylvania,General,Write-in,False,,,104,0.00%
+1938,Pennsylvania,1938 U.S. Senate election in Pennsylvania,General,Total,False,,,"3,814,922",100.00%
 1938,South Carolina,"South Carolina U.S. Senate Election, 1938",General,Winning,True,Democratic Party (United States),Ellison D. Smith,"45,351",98.89%
 1938,South Carolina,"South Carolina U.S. Senate Election, 1938",General,Candidate,False,Republican Party (United States),J.D.E. Meyer,508,1.11%
+1938,South Dakota,1938 United States Senate election in South Dakota,General,Winning,False,Republican Party (United States),Chan Gurney,"146,813",52.46%
+1938,South Dakota,1938 United States Senate election in South Dakota,General,Candidate,False,Democratic Party (United States),Tom Berry,"133,064",47.54%
+1938,South Dakota (special),1938 United States Senate special election in South Dakota,General,Winning,False,Republican Party (United States),Gladys Pyle,"155,292",58.06%
+1938,South Dakota (special),1938 United States Senate special election in South Dakota,General,Candidate,False,Democratic Party (United States),John T. McCullen,"112,177",41.94%
 1938,Tennessee (special),General election results,General,Winning,False,Democratic Party (US),Tom Stewart,"194,028",70.50%
 1938,Tennessee (special),General election results,General,Candidate,False,Republican Party (US),Harley G. Fowler,"72,098",26.20%
 1938,Tennessee (special),General election results,General,Candidate,False,Independent (US),John Randolph Neal Jr.,"9,106",3.31%

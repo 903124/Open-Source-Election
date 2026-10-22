@@ -61,12 +61,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,Colorado,Democratic primary results,Primary,Winning,True,Michael Bennet,Democratic Party (United States),"184,714",54.15%
 2010,Colorado,Democratic primary results,Primary,Candidate,False,Andrew Romanoff,Democratic Party (United States),"156,419",45.85%
 2010,Colorado,Democratic primary results,Primary,Total,False,,,"341,133",100.0%
-2010,Colorado,Republican Primary results,Primary,Winning,False,Ken Buck,Republican Party (United States),"211,099",51.57%
-2010,Colorado,Republican Primary results,Primary,Candidate,False,Jane Norton,Republican Party (United States),"198,231",48.43%
-2010,Colorado,Republican Primary results,Primary,Total,False,,,"409,330",100.0%
-2010,Colorado,Libertarian Primary results,Primary,Winning,False,Mac Stringer,Libertarian Party (United States),"1,186",52.45%
-2010,Colorado,Libertarian Primary results,Primary,Candidate,False,John Finger,Libertarian Party (United States),"1,075",47.55%
-2010,Colorado,Libertarian Primary results,Primary,Total,False,,,"2,261",100.0%
+2010,Colorado,Republican primary results,Primary,Winning,False,Ken Buck,Republican Party (United States),"211,099",51.57%
+2010,Colorado,Republican primary results,Primary,Candidate,False,Jane Norton,Republican Party (United States),"198,231",48.43%
+2010,Colorado,Republican primary results,Primary,Total,False,,,"409,330",100.0%
+2010,Colorado,Libertarian primary results,Primary,Winning,False,Mac Stringer,Libertarian Party (United States),"1,186",52.45%
+2010,Colorado,Libertarian primary results,Primary,Candidate,False,John Finger,Libertarian Party (United States),"1,075",47.55%
+2010,Colorado,Libertarian primary results,Primary,Total,False,,,"2,261",100.0%
 2010,Connecticut,Republican primary results,Primary,Winning,False,Linda McMahon,Republican Party (United States),"60,479",49.44%
 2010,Connecticut,Republican primary results,Primary,Candidate,False,Rob Simmons*,Republican Party (United States),"34,011",27.80%
 2010,Connecticut,Republican primary results,Primary,Candidate,False,Peter Schiff**,Republican Party (United States),"27,831",22.75%
@@ -101,12 +101,28 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,Idaho,Democratic Primary results,Primary,Winning,False,Tom Sullivan,Democratic Party (United States),"18,340",74.7%
 2010,Idaho,Democratic Primary results,Primary,Candidate,False,William Bryk,Democratic Party (United States),"6,227",25.3%
 2010,Idaho,Democratic Primary results,Primary,Total,False,,,"24,567",100.0%
-2010,Indiana,Republican Primary results,Primary,Winning,False,Dan Coats,Republican Party (United States),"217,225",39.5%
-2010,Indiana,Republican Primary results,Primary,Candidate,False,Marlin Stutzman,Republican Party (United States),"160,981",29.2%
-2010,Indiana,Republican Primary results,Primary,Candidate,False,John Hostettler,Republican Party (United States),"124,494",22.6%
-2010,Indiana,Republican Primary results,Primary,Candidate,False,Don Bates Jr.,Republican Party (United States),"24,664",4.5%
-2010,Indiana,Republican Primary results,Primary,Candidate,False,Richard Behney,Republican Party (United States),"23,005",4.2%
-2010,Indiana,Republican Primary results,Primary,Total,False,,,"550,369",100.0%
+2010,Illinois,Democratic primary results,Primary,Winning,False,Alexi Giannoulias,Democratic Party (United States),"351,120",38.9%
+2010,Illinois,Democratic primary results,Primary,Candidate,False,David Hoffman,Democratic Party (United States),"303,719",33.7%
+2010,Illinois,Democratic primary results,Primary,Candidate,False,Cheryle Jackson,Democratic Party (United States),"178,941",19.8%
+2010,Illinois,Democratic primary results,Primary,Candidate,False,Robert Marshall,Democratic Party (United States),"51,606",5.7%
+2010,Illinois,Democratic primary results,Primary,Candidate,False,Jacob Meister,Democratic Party (United States),"16,232",1.8%
+2010,Illinois,Democratic primary results,Primary,Total,False,,,"901,618",100.0%
+2010,Illinois,Republican Primary results,Primary,Winning,False,Mark Kirk,Republican Party (United States),"420,373",56.6
+2010,Illinois,Republican Primary results,Primary,Candidate,False,Patrick Hughes,Republican Party (United States),"142,928",19.3
+2010,Illinois,Republican Primary results,Primary,Candidate,False,Donald Lowery,Republican Party (United States),"66,357",8.9
+2010,Illinois,Republican Primary results,Primary,Candidate,False,Kathleen Thomas,Republican Party (United States),"54,038",7.3
+2010,Illinois,Republican Primary results,Primary,Candidate,False,Andy Martin,Republican Party (United States),"37,480",5.0
+2010,Illinois,Republican Primary results,Primary,Candidate,False,John Arrington,Republican Party (United States),"21,090",2.8
+2010,Illinois,Republican Primary results,Primary,Candidate,False,Patricia Beard,Republican Party (United States),2,.0003
+2010,Illinois,Republican Primary results,Primary,Total,False,,,"742,268",100.0%
+2010,Illinois,Green Primary results,Primary,Winning,False,LeAlan Jones,Green Party (United States),"5,161",100
+2010,Illinois,Green Primary results,Primary,Total,False,,,"5,161",100%
+2010,Indiana,Republican primary results,Primary,Winning,False,Dan Coats,Republican Party (United States),"217,225",39.5%
+2010,Indiana,Republican primary results,Primary,Candidate,False,Marlin Stutzman,Republican Party (United States),"160,981",29.2%
+2010,Indiana,Republican primary results,Primary,Candidate,False,John Hostettler,Republican Party (United States),"124,494",22.6%
+2010,Indiana,Republican primary results,Primary,Candidate,False,Don Bates Jr.,Republican Party (United States),"24,664",4.5%
+2010,Indiana,Republican primary results,Primary,Candidate,False,Richard Behney,Republican Party (United States),"23,005",4.2%
+2010,Indiana,Republican primary results,Primary,Total,False,,,"550,369",100.0%
 2010,Iowa,Republican primary results,Primary,Winning,True,Chuck Grassley,Republican Party (United States),"197,194",98.0%
 2010,Iowa,Republican primary results,Primary,Candidate,False,Write-ins,Republican Party (United States),"3,926",2.0%
 2010,Iowa,Republican primary results,Primary,Total,False,,,"201,120",100.0%
@@ -333,7 +349,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,West Virginia (special),Republican Primary results,Primary,Candidate,False,Daniel Scott Rebich,Republican Party (United States),450,0.8
 2010,West Virginia (special),Republican Primary results,Primary,Candidate,False,Albert Howard,Republican Party (United States),176,0.3
 2010,West Virginia (special),Republican Primary results,Primary,Total,False,,,"53,400",100
-2010,Wisconsin,Republican Primary results,Primary,Winning,False,Ron Johnson,Republican Party (United States),"500,821",84.7%
-2010,Wisconsin,Republican Primary results,Primary,Candidate,False,David Westlake,Republican Party (United States),"61,287",10.4%
-2010,Wisconsin,Republican Primary results,Primary,Candidate,False,Stephen M. Finn,Republican Party (United States),"29,002",4.9%
-2010,Wisconsin,Republican Primary results,Primary,Total,False,,,"591,107",100.0%
+2010,Wisconsin,Republican primary results,Primary,Winning,False,Ron Johnson,Republican Party (United States),"500,821",84.7%
+2010,Wisconsin,Republican primary results,Primary,Candidate,False,David Westlake,Republican Party (United States),"61,287",10.4%
+2010,Wisconsin,Republican primary results,Primary,Candidate,False,Stephen M. Finn,Republican Party (United States),"29,002",4.9%
+2010,Wisconsin,Republican primary results,Primary,Total,False,,,"591,107",100.0%

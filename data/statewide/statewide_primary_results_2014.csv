@@ -148,7 +148,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2014,Illinois,IL,governor,Republican primary results,Total,,,819624.0,100.0,False,False
 2014,Iowa,IA,governor,Republican primary results,Winning,Terry Branstad,Republican,129712.0,83.0,True,True
 2014,Iowa,IA,governor,Republican primary results,Candidate,Tom Hoefling,Republican,26284.0,16.82,False,False
-2014,Iowa,IA,governor,Republican primary results,Candidate,Write-In,Republican,279.0,0.18,False,False
+2014,Iowa,IA,governor,Republican primary results,Candidate,Write-in,Republican,279.0,0.18,False,False
 2014,Iowa,IA,governor,Republican primary results,Total,,,156275.0,100.0,False,False
 2014,Iowa,IA,governor,Democratic primary results,Winning,Jack Hatch,Democratic,60404.0,99.26,True,False
 2014,Iowa,IA,governor,Democratic primary results,Candidate,Write-in,Democratic,448.0,0.74,False,False

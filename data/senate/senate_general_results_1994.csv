@@ -101,6 +101,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1994,Oklahoma (special),General election results,General,Winning,False,Jim Inhofe,Republican Party (United States),"542,390",55.21%
 1994,Oklahoma (special),General election results,General,Candidate,False,Dave McCurdy,Democratic Party (United States),"392,488",39.95%
 1994,Oklahoma (special),General election results,General,Candidate,False,Danny Corn,Independent (United States),"47,552",4.84%
+1994,Pennsylvania,1994 United States Senate election in Pennsylvania,General,Winning,False,Rick Santorum,Republican Party (United States),"1,735,691",49.40
+1994,Pennsylvania,1994 United States Senate election in Pennsylvania,General,Candidate,True,Harris Wofford,Democratic Party (United States),"1,648,481",46.92
+1994,Pennsylvania,1994 United States Senate election in Pennsylvania,General,Candidate,False,Donald Ernsberger,Libertarian Party (United States),"59,115",1.68
+1994,Pennsylvania,1994 United States Senate election in Pennsylvania,General,Write-in,False,,,249,0.01
 1994,Rhode Island,General election results,General,Winning,True,John Chafee,Republican Party (United States),"222,856",64.52%
 1994,Rhode Island,General election results,General,Candidate,False,Linda Kushner,Democratic Party (United States),"122,532",35.48%
 1994,Tennessee,General election results,General,Winning,False,Bill Frist,Republican Party (United States),"834,226",56.35

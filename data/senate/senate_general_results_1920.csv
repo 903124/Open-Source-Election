@@ -54,6 +54,15 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1920,Maryland,1920 U.S. Senate election in Maryland,General,Candidate,False,Socialist Party (US),William A. Toole,"6,559",1.68%
 1920,Maryland,1920 U.S. Senate election in Maryland,General,Candidate,False,Independent (politician),William Ashbie Hawkins,"6,538",1.67%
 1920,Maryland,1920 U.S. Senate election in Maryland,General,Total,False,,,"339,764",100.00%
+1920,Missouri,1920 United States Senate election in Missouri,General,Winning,True,Republican Party (US),Selden P. Spencer,"711,161",53.65%
+1920,Missouri,1920 United States Senate election in Missouri,General,Candidate,False,Democratic Party (US),Breckinridge Long,"589,498",44.47%
+1920,Missouri,1920 United States Senate election in Missouri,General,Candidate,False,Socialist Party of America,Elias F. Hodges,"1,807",0.18%
+1920,Missouri,1920 United States Senate election in Missouri,General,Candidate,False,Farmer–Worker Party,W. J. Mallett,"3,158",0.24%
+1920,Missouri,1920 United States Senate election in Missouri,General,Candidate,False,Socialist Labor Party of America,Andrew Trudell,"1,675",0.13%
+1920,Nevada,1920 United States Senate election in Nevada,General,Winning,False,Republican Party (US),Tasker Oddie,"11,550",42.11
+1920,Nevada,1920 United States Senate election in Nevada,General,Candidate,True,Democratic Party (US),Charles B. Henderson,"10,402",37.93
+1920,Nevada,1920 United States Senate election in Nevada,General,Candidate,False,Independent,Anne Henrietta Martin,"4,981",18.16
+1920,Nevada,1920 United States Senate election in Nevada,General,Candidate,False,Socialist Party of America,James Jepson,494,1.80
 1920,New Hampshire,1920 United States Senate election in New Hampshire,General,Winning,False,Republican Party (United States),George H. Moses (inc.),"90,173",57.72%
 1920,New Hampshire,1920 United States Senate election in New Hampshire,General,Candidate,False,Democratic Party (United States),Raymond B. Stevens,"65,035",41.63%
 1920,New Hampshire,1920 United States Senate election in New Hampshire,General,Candidate,False,Socialist Party (United States),William H. Wilkins,"1,004",0.64%

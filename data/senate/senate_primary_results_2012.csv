@@ -219,19 +219,19 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2012,Rhode Island,Republican primary results,Primary,Winning,False,Barry Hinckley,Republican Party (United States),"6,890",100.00%
 2012,Rhode Island,Republican primary results,Primary,Total,False,,,"6,890",100.00%
 2012,Tennessee,Tennessee Republican primary,Primary,Winning,True,Bob Corker,Republican Party (US),"389,483",85.25%
-2012,Tennessee,Tennessee Republican primary,Primary,Winning,False,Mark E. Clayton,Democratic Party (United States),"48,126",29.99%
 2012,Tennessee,Tennessee Republican primary,Primary,Candidate,False,Zach Poskevich,Republican Party (US),"28,299",6.19%
 2012,Tennessee,Tennessee Republican primary,Primary,Candidate,False,Fred Anderson,Republican Party (US),"15,942",3.49%
 2012,Tennessee,Tennessee Republican primary,Primary,Candidate,False,Mark Twain Clemens,Republican Party (US),"11,788",2.58%
 2012,Tennessee,Tennessee Republican primary,Primary,Candidate,False,Brenda Lenard,Republican Party (US),"11,378",2.49%
-2012,Tennessee,Tennessee Republican primary,Primary,Candidate,False,Gary Gene Davis,Democratic Party (United States),"24,789",15.45%
-2012,Tennessee,Tennessee Republican primary,Primary,Candidate,False,Park Overall,Democratic Party (United States),"24,263",15.12%
-2012,Tennessee,Tennessee Republican primary,Primary,Candidate,False,Larry Crim,Democratic Party (United States),"17,383",10.83%
-2012,Tennessee,Tennessee Republican primary,Primary,Candidate,False,Benjamin Roberts,Democratic Party (United States),"16,369",10.20%
-2012,Tennessee,Tennessee Republican primary,Primary,Candidate,False,David Hancock,Democratic Party (United States),"16,167",10.08
-2012,Tennessee,Tennessee Republican primary,Primary,Candidate,False,Thomas Owens,Democratic Party (United States),"13,366",8.33
 2012,Tennessee,Tennessee Republican primary,Primary,Total,False,,,"456,890",100.00%
-2012,Tennessee,Tennessee Republican primary,Primary,Total,False,,,"160,463",100.00
+2012,Tennessee,Democratic primary results,Primary,Winning,False,Mark E. Clayton,Democratic Party (United States),"48,126",29.99%
+2012,Tennessee,Democratic primary results,Primary,Candidate,False,Gary Gene Davis,Democratic Party (United States),"24,789",15.45%
+2012,Tennessee,Democratic primary results,Primary,Candidate,False,Park Overall,Democratic Party (United States),"24,263",15.12%
+2012,Tennessee,Democratic primary results,Primary,Candidate,False,Larry Crim,Democratic Party (United States),"17,383",10.83%
+2012,Tennessee,Democratic primary results,Primary,Candidate,False,Benjamin Roberts,Democratic Party (United States),"16,369",10.20%
+2012,Tennessee,Democratic primary results,Primary,Candidate,False,David Hancock,Democratic Party (United States),"16,167",10.08
+2012,Tennessee,Democratic primary results,Primary,Candidate,False,Thomas Owens,Democratic Party (United States),"13,366",8.33
+2012,Tennessee,Democratic primary results,Primary,Total,False,,,"160,463",100.00
 2012,Texas,Republican primary results,Primary,Winning,False,David Dewhurst,Republican Party (United States),"627,731",44.63
 2012,Texas,Republican primary results,Primary,Winning,False,Ted Cruz,Republican Party (United States),"480,558",34.16
 2012,Texas,Republican primary results,Primary,Candidate,False,Tom Leppert,Republican Party (United States),"187,900",13.36

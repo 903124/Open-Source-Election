@@ -81,6 +81,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1986,New York,1986 U.S. Senate election in New York,General,Candidate,False,Fred Newman,New Alliance Party,"10,559",0.24%
 1986,New York,1986 U.S. Senate election in New York,General,Candidate,False,Michael Shur,Socialist Workers Party (United States),"7,376",0.16%
 1986,New York,1986 U.S. Senate election in New York,General,Total,False,,,"4,484,859",100.00%
+1986,North Carolina,1986 United States Senate election in North Carolina,General,Winning,False,Terry Sanford,Democratic Party (United States),"823,662",51.76%
+1986,North Carolina,1986 United States Senate election in North Carolina,General,Candidate,True,Jim Broyhill,Republican Party (United States),"767,668",48.24%
+1986,North Carolina,1986 United States Senate election in North Carolina,General,Total,False,,,"1,591,330",100.00%
+1986,North Carolina (special),1986 North Carolina U.S. Senate election – Special election,General,Winning,False,Terry Sanford,Democratic Party (United States),"780,967",50.88%
+1986,North Carolina (special),1986 North Carolina U.S. Senate election – Special election,General,Candidate,True,Jim Broyhill,Republican Party (United States),"753,881",49.12%
+1986,North Carolina (special),1986 North Carolina U.S. Senate election – Special election,General,Total,False,,,"1,534,875",100.00%
 1986,North Dakota,General election results,General,Winning,False,Kent Conrad,North Dakota Democratic-NPL Party,"143,932",49.80%
 1986,North Dakota,General election results,General,Candidate,True,Mark Andrews,Republican Party (United States),"141,812",49.07%
 1986,North Dakota,General election results,General,Candidate,False,Anna B. Bourgois,Independent (United States),"3,269",1.13%

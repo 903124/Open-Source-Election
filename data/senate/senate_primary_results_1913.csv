@@ -1,0 +1,19 @@
+Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,percentage
+1913,Illinois,Democratic primary,Primary,Winning,False,J. Hamilton Lewis,Democratic Party (United States),"228,872",100
+1913,Illinois,Democratic primary,Primary,Total,False,,,"228,872",100
+1913,Illinois,Republican primary,Primary,Winning,False,Lawrence Y. Sherman,Republican Party (United States),"178,063",46.16
+1913,Illinois,Republican primary,Primary,Candidate,True,Shelby Moore Cullom,Republican Party (United States),"129,375",33.54
+1913,Illinois,Republican primary,Primary,Candidate,False,Hugh S. Magill,Republican Party (United States),"78,344",20.31
+1913,Illinois,Republican primary,Primary,Total,False,,,"385,782",100
+1913,Illinois,Prohibition primary,Primary,Winning,False,Alonzo E. Wilson,Prohibition Party,"3,786",100
+1913,Illinois,Prohibition primary,Primary,Total,False,,,"3,786",100
+1913,New Jersey,1912 Republican U.S. Senate primary,Primary,Winning,True,Frank O. Briggs,Republican Party (US),"68,903",94.70%
+1913,New Jersey,1912 Republican U.S. Senate primary,Primary,Candidate,False,Wescott,Republican Party (US),"3,859",5.30%
+1913,New Jersey,1912 Republican U.S. Senate primary,Primary,Total,False,,,"72,762",100.00%
+1913,New Jersey,1912 Democratic U.S. Senate primary,Primary,Winning,False,William Hughes,Democratic Party (US),"62,532",61.72%
+1913,New Jersey,1912 Democratic U.S. Senate primary,Primary,Candidate,False,James Smith Jr.,Democratic Party (US),"33,490",33.06%
+1913,New Jersey,1912 Democratic U.S. Senate primary,Primary,Candidate,False,John McDermitt,Democratic Party (US),"5,291",5.22%
+1913,New Jersey,1912 Democratic U.S. Senate primary,Primary,Total,False,,,"101,313",100.00%
+1913,South Carolina,Democratic Primary results,Primary,Winning,True,Benjamin Tillman,Democratic Party (United States),"73,148",52.7
+1913,South Carolina,Democratic Primary results,Primary,Candidate,False,W. Jasper Talbert,Democratic Party (United States),"37,141",26.8
+1913,South Carolina,Democratic Primary results,Primary,Candidate,False,Nathaniel B. Dial,Democratic Party (United States),"28,476",20.5

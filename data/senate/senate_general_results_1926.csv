@@ -13,6 +13,19 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1926,Connecticut,1926 U.S. Senate election in Connecticut,General,Candidate,False,Democratic Party (US),Rollin U. Tyler,"107,753",35.64%
 1926,Connecticut,1926 U.S. Senate election in Connecticut,General,Candidate,False,Socialist Party (US),Morris Rice,"3,173",1.05%
 1926,Connecticut,1926 U.S. Senate election in Connecticut,General,Total,False,,,"302,327",100.0%
+1926,Idaho,1926 United States Senate election in Idaho,General,Winning,True,Republican Party (US),Frank R. Gooding,"56,847",45.41
+1926,Idaho,1926 United States Senate election in Idaho,General,Candidate,False,"Progressive Party (US, 1924)",H. F. Samuels,"37,047",29.60
+1926,Idaho,1926 United States Senate election in Idaho,General,Candidate,False,Democratic Party (US),John F. Nugent,"31,285",24.99
+1926,Illinois,1926 United States Senate election in Illinois,General,Winning,False,Republican Party (United States),Frank L. Smith,"842,273",46.86%
+1926,Illinois,1926 United States Senate election in Illinois,General,Candidate,False,Democratic Party (United States),George E. Brennan,"774,943",43.12%
+1926,Illinois,1926 United States Senate election in Illinois,General,Candidate,False,Independent politician,Hugh S. Magill,"156,245",8.69%
+1926,Illinois,1926 United States Senate election in Illinois,General,Candidate,False,"Progressive Party (US, 1924)",Parley P. Christensen,"6,526",0.36%
+1926,Illinois,1926 United States Senate election in Illinois,General,Candidate,False,Independent Democrat,James H. Kirby,"4,203",0.23%
+1926,Illinois,1926 United States Senate election in Illinois,General,Candidate,False,Socialist Party of America,John T. Whitlock,"2,998",0.17%
+1926,Illinois,1926 United States Senate election in Illinois,General,Candidate,False,Socialist Labor Party of America,G. A. Jenning,"1,977",0.11%
+1926,Illinois,1926 United States Senate election in Illinois,General,Candidate,False,Workers (Communist) Party,J. Louis Engdahl,"1,309",0.07%
+1926,Illinois,1926 United States Senate election in Illinois,General,Candidate,False,Independent politician,Samuel C. Irving,701,0.04%
+1926,Illinois,1926 United States Senate election in Illinois,General,Candidate,False,Commonwealth Land Party (United States),Morris Lynchenheim,427,0.02%
 1926,Indiana (special),1926 U.S. Senate special election in Indiana,General,Winning,True,Republican Party (United States),Arthur R. Robinson,"519,401",50.62%
 1926,Indiana (special),1926 U.S. Senate special election in Indiana,General,Candidate,False,Democratic Party (United States),Evans Woollen,"496,540",48.40%
 1926,Indiana (special),1926 U.S. Senate special election in Indiana,General,Candidate,False,Prohibition Party (United States),Albert Stanley,"5,205",0.51%
@@ -25,11 +38,6 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1926,Indiana,1926 United States Senate election in Indiana,General,Total,False,,,"1,044,817",100.00%
 1926,Iowa (special),1926 U.S. Senate special election in Iowa,General,Winning,True,Republican Party (US),David W. Stewart,"336,410",100.00%
 1926,Iowa (special),1926 U.S. Senate special election in Iowa,General,Total,False,,,"336,410",100.00%
-1926,Iowa (special),1926 U.S. Senate election in Iowa,General,Winning,False,Republican Party (United States),Smith W. Brookhart,"323,409",56.61%
-1926,Iowa (special),1926 U.S. Senate election in Iowa,General,Candidate,False,Democratic Party (United States),Claude Porter,"247,869",43.39%
-1926,Iowa (special),1926 U.S. Senate election in Iowa,General,Total,False,,,"571,278",100.00%
-1926,Iowa,1926 U.S. Senate special election in Iowa,General,Winning,True,Republican Party (US),David W. Stewart,"336,410",100.00%
-1926,Iowa,1926 U.S. Senate special election in Iowa,General,Total,False,,,"336,410",100.00%
 1926,Iowa,1926 U.S. Senate election in Iowa,General,Winning,False,Republican Party (United States),Smith W. Brookhart,"323,409",56.61%
 1926,Iowa,1926 U.S. Senate election in Iowa,General,Candidate,False,Democratic Party (United States),Claude Porter,"247,869",43.39%
 1926,Iowa,1926 U.S. Senate election in Iowa,General,Total,False,,,"571,278",100.00%
@@ -52,6 +60,16 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1926,Massachusetts (special),"United States Senate election in Massachusetts, 1926",General,Candidate,False,Communist Party USA,John J. Ballam,"5,167",0.51%
 1926,Massachusetts (special),"United States Senate election in Massachusetts, 1926",General,Candidate,False,Socialist Party of America,Alfred Baker Lewis,"4,730",0.47%
 1926,Massachusetts (special),"United States Senate election in Massachusetts, 1926",General,Total,False,,,"1,009,955",100.0%
+1926,Missouri (special),1926 United States Senate special election in Missouri,General,Winning,False,Democratic Party (US),Harry B. Hawes,"514,389",52.09%
+1926,Missouri (special),1926 United States Senate special election in Missouri,General,Candidate,True,Republican Party (US),George Howard Williams,"473,068",47.91%
+1926,Missouri,1926 United States Senate election in Missouri,General,Winning,False,Democratic Party (US),Harry B. Hawes,"506,015",51.30%
+1926,Missouri,1926 United States Senate election in Missouri,General,Candidate,True,Republican Party (US),George Howard Williams,"470,654",47.71%
+1926,Missouri,1926 United States Senate election in Missouri,General,Candidate,False,Prohibition Party,Herman P. Faris,"7,540",0.76%
+1926,Missouri,1926 United States Senate election in Missouri,General,Candidate,False,Socialist Party of America,Robert D. Morrison,"1,807",0.18%
+1926,Missouri,1926 United States Senate election in Missouri,General,Candidate,False,Socialist Labor Party of America,William Wesley Cox,464,0.05%
+1926,Nevada,1926 United States Senate election in Nevada,General,Winning,True,Republican Party (US),Tasker Oddie,"17,430",55.78
+1926,Nevada,1926 United States Senate election in Nevada,General,Candidate,False,Democratic Party (US),Raymond T. Baker,"13,273",42.48
+1926,Nevada,1926 United States Senate election in Nevada,General,Candidate,False,Independent,George A. Bice,543,1.74
 1926,New Hampshire,1926 U.S. Senate election in New Hampshire,General,Winning,True,Republican Party (US),George H. Moses,"79,279",62.32%
 1926,New Hampshire,1926 U.S. Senate election in New Hampshire,General,Candidate,False,Democratic Party (US),Robert C. Murchie,"47,935",37.68%
 1926,New Hampshire,1926 U.S. Senate election in New Hampshire,General,Total,False,,,"127,214",100.00%

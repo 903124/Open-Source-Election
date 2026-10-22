@@ -66,9 +66,6 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1964,New Mexico,General election results,General,Winning,False,Democratic Party (US),Joseph Montoya,"178,209",54.70
 1964,New Mexico,General election results,General,Candidate,False,Republican Party (US),Edwin L. Mechem (inc.),"147,562",45.30
 1964,New Mexico,General election results,General,Total,False,,,"325,771",100.00
-1964,New Mexico (special),General election results,General,Winning,False,Democratic Party (US),Joseph Montoya,"178,209",54.70
-1964,New Mexico (special),General election results,General,Candidate,False,Republican Party (US),Edwin L. Mechem (inc.),"147,562",45.30
-1964,New Mexico (special),General election results,General,Total,False,,,"325,771",100.00
 1964,New York,1964 New York United States Senate election,General,Winning,False,Democratic Party (United States),Robert F. Kennedy,"3,539,103",49.49%
 1964,New York,1964 New York United States Senate election,General,Candidate,False,Liberal Party of New York,Robert F. Kennedy,"284,646",4.00%
 1964,New York,1964 New York United States Senate election,General,Candidate,True,Republican Party (United States),Kenneth Keating,"3,104,056",43.40%
@@ -76,6 +73,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1964,New York,1964 New York United States Senate election,General,Candidate,False,Socialist Labor Party of America,John Emanuel,"7,358",0.1%
 1964,New York,1964 New York United States Senate election,General,Candidate,False,Socialist Workers Party (United States),Richard Garza,"4,202",0.06%
 1964,New York,1964 New York United States Senate election,General,Total,False,,,"7,151,581",100.00%
+1964,North Dakota,1964 United States Senate election in North Dakota,General,Winning,True,North Dakota Democratic–Nonpartisan League Party,Quentin Burdick,"149,264",57.64
+1964,North Dakota,1964 United States Senate election in North Dakota,General,Candidate,False,Republican Party (US),Thomas S. Kleppe,"109,681",42.36
 1964,Ohio,1964 U.S. Senate election in Ohio,General,Winning,True,Democratic Party (United States),Stephen M. Young,"1,923,608",50.22%
 1964,Ohio,1964 U.S. Senate election in Ohio,General,Candidate,False,Republican Party (United States),Robert Taft Jr.,"1,906,781",49.78%
 1964,Ohio,1964 U.S. Senate election in Ohio,General,Total,False,,,"3,830,389",
@@ -91,11 +90,15 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1964,Tennessee,1964 U.S. Senate election in Tennessee,General,Winning,True,Democratic Party (United States),Albert Gore Sr.,"570,542",53.62%
 1964,Tennessee,1964 U.S. Senate election in Tennessee,General,Candidate,False,Republican Party (United States),Dan Kuykendall,"493,475",46.38%
 1964,Tennessee,1964 U.S. Senate election in Tennessee,General,Total,False,,,"1,064,017",100.00%
+1964,Tennessee (special),General election results,General,Winning,False,Democratic Party (US),Ross Bass,"568,905",52.14%
+1964,Tennessee (special),General election results,General,Candidate,False,Republican Party (US),Howard Baker,"517,330",47.41%
+1964,Tennessee (special),General election results,General,Candidate,False,Independent (US),Melvin Babcock Morgan,"4,853",0.44%
 1964,Texas,1964 Republican U.S. Senate runoff,General,Winning,False,Republican Party (United States),George H. W. Bush,"49,751",62.12%
 1964,Texas,1964 Republican U.S. Senate runoff,General,Candidate,False,Republican Party (United States),Jack Cox,"30,333",37.88%
 1964,Texas,1964 Republican U.S. Senate runoff,General,Total,False,,,"80,084",100.00%
 1964,Texas,1964 United States Senate election in Texas,General,Winning,True,Democratic Party (United States),Ralph Yarborough,"1,463,958",56.22%
 1964,Texas,1964 United States Senate election in Texas,General,Candidate,False,Republican Party (United States),George H. W. Bush,"1,134,337",43.56%
+1964,Texas,1964 United States Senate election in Texas,General,Candidate,False,"Constitution Party (United States, 1952)",Jack Carswell,"5,542",0.21%
 1964,Texas,1964 United States Senate election in Texas,General,Total,False,,,"2,603,837",100.0%
 1964,Utah,1964 U.S. Senate election in Utah,General,Winning,True,Democratic Party (United States),Frank Moss,"227,822",57.33%
 1964,Utah,1964 U.S. Senate election in Utah,General,Candidate,False,Republican Party (United States),Ernest L. Wilkinson,"169,562",42.67%

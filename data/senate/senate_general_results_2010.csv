@@ -84,6 +84,18 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,Idaho,"United States Senate election in Idaho, 2010",General,Candidate,False,Randy Bergquist,Constitution Party (United States),"17,429",3.88%
 2010,Idaho,"United States Senate election in Idaho, 2010",General,Write-in,False,,,91,0.02%
 2010,Idaho,"United States Senate election in Idaho, 2010",General,Total,False,,,"449,530",100.00%
+2010,Illinois (special),"United States Senate special election in Illinois, 2010",General,Winning,False,Mark Kirk,Republican Party (United States),"1,677,729",47.31%
+2010,Illinois (special),"United States Senate special election in Illinois, 2010",General,Candidate,False,Alexi Giannoulias,Democratic Party (United States),"1,641,486",46.29%
+2010,Illinois (special),"United States Senate special election in Illinois, 2010",General,Candidate,False,LeAlan Jones,Green Party (United States),"129,571",3.65%
+2010,Illinois (special),"United States Senate special election in Illinois, 2010",General,Candidate,False,Michael Labno,Libertarian Party (United States),"95,762",2.70%
+2010,Illinois (special),"United States Senate special election in Illinois, 2010",General,Write-in,False,,,"1,436",0.04%
+2010,Illinois (special),"United States Senate special election in Illinois, 2010",General,Total,False,,,"3,545,984",100.00%
+2010,Illinois,"United States Senate election in Illinois, 2010",General,Winning,False,Mark Kirk,Republican Party (United States),"1,778,698",48.01%
+2010,Illinois,"United States Senate election in Illinois, 2010",General,Candidate,False,Alexi Giannoulias,Democratic Party (United States),"1,719,478",46.42%
+2010,Illinois,"United States Senate election in Illinois, 2010",General,Candidate,False,LeAlan Jones,Green Party (United States),"117,914",3.18%
+2010,Illinois,"United States Senate election in Illinois, 2010",General,Candidate,False,Michael Labno,Libertarian Party (United States),"87,247",2.36%
+2010,Illinois,"United States Senate election in Illinois, 2010",General,Write-in,False,,,"1,136",0.03%
+2010,Illinois,"United States Senate election in Illinois, 2010",General,Total,False,,,"3,704,473",100.00%
 2010,Indiana,2010 United States Senate election in Indiana,General,Winning,False,Dan Coats,Republican Party (United States),"952,116",54.58%
 2010,Indiana,2010 United States Senate election in Indiana,General,Candidate,False,Brad Ellsworth,Democratic Party (United States),"697,775",40.00%
 2010,Indiana,2010 United States Senate election in Indiana,General,Candidate,False,Rebecca Sink-Burris,Libertarian Party (United States),"94,330",5.41%
@@ -154,15 +166,15 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,New York,"United States Senate election in New York, 2010",General,Candidate,False,Colia Clark,Green Party (United States),"42,340",0.92%
 2010,New York,"United States Senate election in New York, 2010",General,Candidate,False,Randy Credico,Libertarian Party (United States),"24,863",0.54%
 2010,New York,"United States Senate election in New York, 2010",General,Total,False,,,"4,595,375",100.00%
-2010,New York (special),"United States Senate special election in New York, 2010",General,Winning,True,Kirsten Gillibrand,Democratic Party (United States),"2,478,163",55.00%
+2010,New York (special),"United States Senate special election in New York, 2010",General,Winning,True,Kirsten Gillibrand,Democratic Party (United States),"2,478,163",54.99%
 2010,New York (special),"United States Senate special election in New York, 2010",General,Candidate,True,Kirsten Gillibrand,Working Families Party,"182,624",4.05%
 2010,New York (special),"United States Senate special election in New York, 2010",General,Candidate,True,Kirsten Gillibrand,Independence Party of New York,"175,574",3.90%
-2010,New York (special),"United States Senate special election in New York, 2010",General,Candidate,False,Joe DioGuardi,Republican Party (United States),"1,337,514",29.69%
+2010,New York (special),"United States Senate special election in New York, 2010",General,Candidate,False,Joe DioGuardi,Republican Party (United States),"1,337,514",29.68%
 2010,New York (special),"United States Senate special election in New York, 2010",General,Candidate,False,Joe DioGuardi,Conservative Party of New York State,"244,320",5.42%
 2010,New York (special),"United States Senate special election in New York, 2010",General,Candidate,False,Cecile A. Lawrence,Green Party of the United States,"35,497",0.79%
 2010,New York (special),"United States Senate special election in New York, 2010",General,Candidate,False,John Clifton,Libertarian Party (United States),"18,407",0.41%
 2010,New York (special),"United States Senate special election in New York, 2010",General,Candidate,False,Joseph Huff,Rent Is Too Damn High Party,"17,021",0.38%
-2010,New York (special),"United States Senate special election in New York, 2010",General,Total,False,,,"4,505,415",100.0%
+2010,New York (special),"United States Senate special election in New York, 2010",General,Total,False,,,"4,506,626",100.00%
 2010,North Carolina,2010 United States Senate election in North Carolina,General,Winning,True,Richard Burr,Republican Party (United States),"1,458,046",54.81%
 2010,North Carolina,2010 United States Senate election in North Carolina,General,Candidate,False,Elaine Marshall,Democratic Party (United States),"1,145,074",43.05%
 2010,North Carolina,2010 United States Senate election in North Carolina,General,Candidate,False,Mike Beitler,Libertarian Party (United States),"55,682",2.09%

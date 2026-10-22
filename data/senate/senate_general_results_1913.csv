@@ -1,0 +1,47 @@
+Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,percentage
+1913,Illinois (special),"Illinois special legislative vote, class 3 (March 26, 1913)",General,Winning,False,Lawrence Y. Sherman,Republican Party (US),143,73.33%
+1913,Illinois (special),"Illinois special legislative vote, class 3 (March 26, 1913)",General,Candidate,False,Charles Boeschenstein,Democratic Party (US),25,12.82%
+1913,Illinois (special),"Illinois special legislative vote, class 3 (March 26, 1913)",General,Candidate,False,Frank H. Funk,"Progressive Party (US, 1912)",22,11.28%
+1913,Illinois (special),"Illinois special legislative vote, class 3 (March 26, 1913)",General,Candidate,False,McDonald,Socialist Party (US),4,2.05%
+1913,Illinois (special),"Illinois special legislative vote, class 3 (March 26, 1913)",General,Candidate,False,John Fitzpatrick,Democratic Party (US),1,0.51%
+1913,Maryland (special),1913 Maryland U.S. Senate special election,General,Winning,False,Blair Lee I,Democratic Party (US),"112,485",
+1913,Maryland (special),1913 Maryland U.S. Senate special election,General,Candidate,False,Thomas Parran Sr.,Republican Party (US),"73,300",
+1913,Maryland (special),1913 Maryland U.S. Senate special election,General,Candidate,False,George Wellington,"Progressive Party (United States, 1912)","7,033",
+1913,Maryland (special),1913 Maryland U.S. Senate special election,General,Candidate,False,Robert Fields,Socialist Party,"2,982",
+1913,Maryland (special),1913 Maryland U.S. Senate special election,General,Candidate,False,Finley Hendrickson,Prohibition Party,"2,405",
+1913,Maryland (special),1913 Maryland U.S. Senate special election,General,Total,False,,,"198,205",100.00%
+1913,Massachusetts,1913 Republican nominating caucus,General,Winning,False,John W. Weeks,Republican Party (US),97,60.25%
+1913,Massachusetts,1913 Republican nominating caucus,General,Candidate,False,Samuel Walker McCall,Republican Party (US),57,35.40%
+1913,Massachusetts,1913 Republican nominating caucus,General,Candidate,False,Curtis Guild Jr.,Republican Party (US),5,3.11%
+1913,Massachusetts,1913 Republican nominating caucus,General,Candidate,False,George P. Lawrence,Republican Party (US),1,0.62%
+1913,Massachusetts,1913 Republican nominating caucus,General,Candidate,False,Robert Luce,Republican Party (US),1,0.62%
+1913,Massachusetts,1913 Republican nominating caucus,General,Total,False,,,161,100.00%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts Senate),General,Winning,False,John W. Weeks,Republican Party (US),26,66.67%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts Senate),General,Candidate,False,Sherman L. Whipple,Democratic Party (US),11,28.21%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts Senate),General,Candidate,False,John A. Keliher,Democratic Party (US),1,2.56%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts Senate),General,Candidate,False,Joseph C. Pelletier,Democratic Party (US),1,2.56%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Winning,False,John W. Weeks,Republican Party (US),134,57.51%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,Sherman L. Whipple,Democratic Party (US),69,29.61%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,John Graham Brooks,"Progressive Party (US, 1912)",5,2.15%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,John F. Meaney,Democratic Party (US),3,1.29%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,James B. Carroll,Democratic Party (US),3,1.29%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,Charles A. DeCourey,Democratic Party (US),3,1.29%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,Charles Sumner Hamlin,Democratic Party (US),2,0.86%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,John A. Thayer,Democratic Party (US),2,0.86%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,John F. Fitzgerald,Democratic Party (US),2,0.86%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,Curtis Guild Jr.,Republican Party (US),1,0.43%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,Robert Luce,Republican Party (US),1,0.43%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,Philip J. O'Connell,Democratic Party (US),1,0.43%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,Richard Olney II,Democratic Party (US),1,0.43%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,Joseph Henry O'Neil,Democratic Party (US),1,0.43%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,Andrew J. Peters,Democratic Party (US),1,0.43%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,Harvey H. Pratt,Democratic Party (US),1,0.43%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,Roland D. Sawyer,Socialist Party (US),1,0.43%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,John P. Sweeney,Democratic Party (US),1,0.43%
+1913,Massachusetts,Massachusetts legislative vote (in Massachusetts House of Representatives),General,Candidate,False,George Fred Williams,Democratic Party (US),1,0.43%
+1913,New Jersey,1913 U.S. Senate election in the New Jersey Senate,General,Winning,False,William Hughes,Democratic Party (US),12,57.14%
+1913,New Jersey,1913 U.S. Senate election in the New Jersey Senate,General,Candidate,True,Frank O. Briggs,Republican Party (US),9,42.86%
+1913,New Jersey,1913 U.S. Senate election in the New Jersey Senate,General,Total,False,,,21,100.00%
+1913,New Jersey,1913 U.S. Senate election in the New Jersey General Assembly,General,Winning,False,William Hughes,Democratic Party (US),51,86.44%
+1913,New Jersey,1913 U.S. Senate election in the New Jersey General Assembly,General,Candidate,True,Frank O. Briggs,Republican Party (US),8,13.56%
+1913,New Jersey,1913 U.S. Senate election in the New Jersey General Assembly,General,Total,False,,,59,100.00%

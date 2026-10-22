@@ -13,6 +13,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1942,Colorado (special),Democratic primary results,Primary,Total,False,,,"54,606",100.00
 1942,Colorado (special),Republican primary results,Primary,Winning,False,Eugene D. Millikin (inc.),Republican Party (United States),"41,660",100.00
 1942,Colorado (special),Republican primary results,Primary,Total,False,,,"41,660",100.00
+1942,Georgia,Democratic primary results,Primary,Winning,False,Richard Russell Jr.,Democratic Party (United States),"232,084",80.60
+1942,Georgia,Democratic primary results,Primary,Candidate,False,William D. Upshaw,Democratic Party (United States),"55,845",19.40
 1942,Idaho,Democratic primary results,Primary,Winning,False,Glen H. Taylor,Democratic Party (United States),"10,249",31.93
 1942,Idaho,Democratic primary results,Primary,Candidate,False,Charles C. Gossett,Democratic Party (United States),"8,197",25.54
 1942,Idaho,Democratic primary results,Primary,Candidate,False,James R. Bothwell,Democratic Party (United States),"7,396",23.04
@@ -124,6 +126,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1942,Nebraska,Democratic primary results,Primary,Candidate,False,George W. Olsen,Democratic Party (United States),"1,105",1.24%
 1942,Nebraska,Democratic primary results,Primary,Candidate,False,Lawrence W. Moore,Democratic Party (United States),784,0.88%
 1942,Nebraska,Democratic primary results,Primary,Total,False,,,"89,263",100.00%
+1942,Nevada (special),Democratic primary results,Primary,Winning,False,James G. Scrugham,Democratic Party (United States),"11,461",52.63
+1942,Nevada (special),Democratic primary results,Primary,Candidate,True,Berkeley L. Bunker,Democratic Party (United States),"10,315",47.37
+1942,Nevada (special),Democratic primary results,Primary,Total,False,,,"21,776",
 1942,New Hampshire,1942 Republican U.S. Senate primary,Primary,Winning,True,Styles Bridges,Republican Party (United States),"37,045",92.42%
 1942,New Hampshire,1942 Republican U.S. Senate primary,Primary,Candidate,False,Alfred J. Gruenlin,Republican Party (United States),"3,040",7.58%
 1942,New Hampshire,1942 Republican U.S. Senate primary,Primary,Total,False,,,"40,085",100.00%
@@ -154,6 +159,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1942,Oklahoma,Republican primary,Primary,Candidate,False,S. M. Stauffer,Republican Party (United States),"4,536",12.58%
 1942,Oklahoma,Republican primary,Primary,Candidate,False,Frank A. Anderson,Republican Party (United States),"3,703",10.27%
 1942,Oklahoma,Republican primary,Primary,Total,False,,,"36,056",100.00%
+1942,South Carolina,Democratic Primary results,Primary,Winning,False,Burnet R. Maybank,Democratic Party (United States),"120,731",51.4
+1942,South Carolina,Democratic Primary results,Primary,Candidate,False,Eugene S. Blease,Democratic Party (United States),"114,241",48.6
 1942,South Dakota,Democratic primary,Primary,Winning,False,Tom Berry,Democratic Party (United States),"25,454",64.60%
 1942,South Dakota,Democratic primary,Primary,Candidate,False,William J. Bulow (inc.),Democratic Party (United States),"10,956",27.80%
 1942,South Dakota,Democratic primary,Primary,Candidate,False,Edward Prchal,Democratic Party (United States),"2,994",7.60%

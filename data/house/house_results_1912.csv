@@ -1,0 +1,1613 @@
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+1912,house,Alabama,AL,1,,George W. Taylor,Democratic,,97.2,True,True,False
+1912,house,Alabama,AL,1,,W. M. Doyle,Socialist,,2.8,False,False,False
+1912,house,Alabama,AL,2,,S. Hubert Dent Jr.,Democratic,,100.0,True,True,False
+1912,house,Alabama,AL,3,,Henry D. Clayton Jr.,Democratic,,100.0,True,True,False
+1912,house,Alabama,AL,4,,Fred L. Blackmon,Democratic,,67.4,True,True,False
+1912,house,Alabama,AL,4,,Adolphus P. Longshore,"Progressive Party (US, 1912)",,26.6,False,False,False
+1912,house,Alabama,AL,4,,W. H. Sturdivant,Republican,,6.0,False,False,False
+1912,house,Alabama,AL,5,,J. Thomas Heflin,Democratic,,100.0,True,True,False
+1912,house,Alabama,AL,6,,Richmond P. Hobson,Democratic,,82.0,True,True,False
+1912,house,Alabama,AL,6,,Charles P. Lunsford,Republican,,18.0,False,False,False
+1912,house,Alabama,AL,7,,John L. Burnett,Democratic,,54.4,True,True,False
+1912,house,Alabama,AL,7,,Sumter Cogswell,"Progressive Party (US, 1912)",,30.4,False,False,False
+1912,house,Alabama,AL,7,,John J. Stephens,Republican,,15.1,False,False,False
+1912,house,Alabama,AL,8,,William N. Richardson,Democratic,,88.4,True,True,False
+1912,house,Alabama,AL,8,,William E. Hotchkiss,Republican,,9.5,False,False,False
+1912,house,Alabama,AL,8,,W. L. Conner,Socialist,,2.0,False,False,False
+1912,house,Alabama,AL,9,,Oscar Underwood,Democratic,,88.7,True,True,False
+1912,house,Alabama,AL,9,,Frederick B. Parker,Republican,,11.3,False,False,False
+1912,house,Alabama,AL,AL,,John Abercrombie,Democratic,,87.8,True,False,True
+1912,house,Alabama,AL,AL,,Asa E. Stratton,Republican,,9.6,False,False,True
+1912,house,Alabama,AL,AL,,J. C. Maxwell,Socialist,,2.5,False,False,True
+1912,house,Arizona,AZ,AL,21381,Carl Hayden,Democratic,11389,48.37,True,True,False
+1912,house,Arizona,AZ,AL,21381,Robert S. Fisher,"Progressive Party (US, 1912)",5819,24.71,False,False,False
+1912,house,Arizona,AZ,AL,21381,Thomas Edward Campbell,Republican,3110,13.21,False,False,False
+1912,house,Arizona,AZ,AL,21381,A. Charles Smith,Socialist,3034,12.89,False,False,False
+1912,house,Arizona,AZ,AL,21381,O. Gibson,Prohibition,,0.82,False,False,False
+1912,house,Arkansas,AR,1,,Thaddeus H. Caraway,Democratic,,100.0,True,False,False
+1912,house,Arkansas,AR,2,,William A. Oldfield,Democratic,,73.0,True,True,False
+1912,house,Arkansas,AR,2,,G. W. Wells,Republican,,27.0,False,False,False
+1912,house,Arkansas,AR,3,,John C. Floyd,Democratic,,64.57,True,True,False
+1912,house,Arkansas,AR,3,,J. F. Carlton,Republican,,35.43,False,False,False
+1912,house,Arkansas,AR,4,,Otis Wingo,Democratic,,67.59,True,False,True
+1912,house,Arkansas,AR,4,,James O. Livesay,Republican,,32.41,False,False,True
+1912,house,Arkansas,AR,5,,Henderson M. Jacoway,Democratic,,70.29,True,True,False
+1912,house,Arkansas,AR,5,,A. C. Remmel,Republican,,29.71,False,False,False
+1912,house,Arkansas,AR,6,,Samuel M. Taylor,Democratic,,100.0,True,False,True
+1912,house,Arkansas,AR,7,,William S. Goodwin,Democratic,,69.43,True,True,False
+1912,house,Arkansas,AR,7,,Pat McNalley,Republican,,30.57,False,False,False
+1912,house,California,CA,1,54574,William Kent,Independent,20341,37.3,True,False,False
+1912,house,California,CA,1,54574,I. G. Zumwalt,Democratic,18756,34.4,False,False,False
+1912,house,California,CA,1,54574,Edward H. Hart,Republican,10585,19.4,False,False,False
+1912,house,California,CA,1,54574,Joseph Bredsteen,Socialist,4892,9.0,False,False,False
+1912,house,California,CA,2,37463,John E. Raker,Democratic,23467,62.64,True,False,False
+1912,house,California,CA,2,37463,Frank M. Rutherford,Republican,10178,27.17,False,False,False
+1912,house,California,CA,2,37463,J. C. Williams,Socialist,3818,10.19,False,False,False
+1912,house,California,CA,3,52779,Charles F. Curry,Republican,31060,58.8,True,False,True
+1912,house,California,CA,3,52779,Gilbert McMillan Ross,Democratic,,28.8,False,False,True
+1912,house,California,CA,3,52779,William L. Wilson,Socialist,6522,12.4,False,False,True
+1912,house,California,CA,4,45489,Julius Kahn,Republican,25515,56.1,True,True,False
+1912,house,California,CA,4,45489,Bert Schlesinger,Democratic,14884,32.7,False,False,False
+1912,house,California,CA,4,45489,Norman W. Pendleton,Socialist,5090,11.2,False,False,False
+1912,house,California,CA,5,53380,John I. Nolan,Republican,27902,52.3,True,False,True
+1912,house,California,CA,5,53380,Stephen V. Costello,Democratic,18516,34.7,False,False,True
+1912,house,California,CA,5,53380,E. L. Reguin,Socialist,,13.0,False,False,True
+1912,house,California,CA,6,65588,Joseph R. Knowland,Republican,35219,53.7,True,False,False
+1912,house,California,CA,6,65588,J. Stitt Wilson,Socialist,26234,40.0,False,False,False
+1912,house,California,CA,6,65588,Hiram A Luttrell,Democratic,4135,6.3,False,False,False
+1912,house,California,CA,7,53917,Denver S. Church,Democratic,23752,44.1,True,False,False
+1912,house,California,CA,7,53917,James C. Needham,Republican,22994,42.6,False,False,False
+1912,house,California,CA,7,53917,J. S. Cato,Socialist,7171,13.3,False,False,False
+1912,house,California,CA,8,58606,Everis A. Hayes,Republican,29861,51.0,True,False,False
+1912,house,California,CA,8,58606,James B. Holohan,Democratic,20620,35.2,False,False,False
+1912,house,California,CA,8,58606,Robert Whitaker,Socialist,8125,13.9,False,False,False
+1912,house,California,CA,9,61049,Charles W. Bell,"Progressive Party (US, 1912)",28845,47.2,True,False,True
+1912,house,California,CA,9,61049,Thomas H. Kirk,Democratic,14571,23.9,False,False,True
+1912,house,California,CA,9,61049,Ralph L. Criswell,Socialist,11123,18.2,False,False,True
+1912,house,California,CA,9,61049,George S. Yarnall,Prohibition,6510,10.7,False,False,True
+1912,house,California,CA,10,81648,William Stephens,"Progressive Party (US, 1912)",43637,53.4,True,False,False
+1912,house,California,CA,10,81648,George Ringo,Democratic,17890,21.9,False,False,False
+1912,house,California,CA,10,81648,Fred C. Wheeler,Socialist,17126,21.0,False,False,False
+1912,house,California,CA,10,81648,Emory D. Martindale,Prohibition,2995,3.7,False,False,False
+1912,house,California,CA,11,46248,William Kettner,Democratic,24822,42.7,True,False,True
+1912,house,California,CA,11,46248,Samuel C. Evans,Republican,21426,36.8,False,False,True
+1912,house,California,CA,11,46248,Noble A. Richardson,Socialist,7059,12.1,False,False,True
+1912,house,California,CA,11,46248,Helen M. Stoddard,Prohibition,4842,8.3,False,False,True
+1912,house,Colorado,CO,1,,George Kindel,Democratic,,45.8,True,False,False
+1912,house,Colorado,CO,1,,W. J. Crank,"Progressive Party (US, 1912)",,25.3,False,False,False
+1912,house,Colorado,CO,1,,Rice W. Means,Republican,,20.9,False,False,False
+1912,house,Colorado,CO,1,,John W. Martin,Socialist,,5.7,False,False,False
+1912,house,Colorado,CO,1,,Otto A. Reinhardt,Prohibition,,2.2,False,False,False
+1912,house,Colorado,CO,2,,Harry H. Seldomridge,Democratic,,44.3,True,False,True
+1912,house,Colorado,CO,2,,Charles A. Ballreich,Republican,,28.7,False,False,True
+1912,house,Colorado,CO,2,,Neil N. McLean,"Progressive Party (US, 1912)",,19.6,False,False,True
+1912,house,Colorado,CO,2,,S. A. Van Buskirk,Socialist,,7.0,False,False,True
+1912,house,Colorado,CO,AL,,Edward T. Taylor,Democratic,,22.5,True,False,True
+1912,house,Colorado,CO,AL,,Edward Keating,Democratic,,21.6,True,False,True
+1912,house,Colorado,CO,AL,,Clarence P. Dodge,"Progressive Party (US, 1912)",,12.6,False,False,True
+1912,house,Colorado,CO,AL,,Samuel H. Kinsley,Republican,,12.4,False,False,True
+1912,house,Colorado,CO,AL,,Jesse J. Laton,Republican,,12.1,False,False,True
+1912,house,Colorado,CO,AL,,Charles E. Fisher,"Progressive Party (US, 1912)",,11.5,False,False,True
+1912,house,Colorado,CO,AL,,F. W. Brainard,Socialist,,3.1,False,False,True
+1912,house,Colorado,CO,AL,,Samuel S. Stutzman,Prohibition,,1.1,False,False,True
+1912,house,Connecticut,CT,1,,Augustine Lonergan,Democratic,,40.0,True,False,True
+1912,house,Connecticut,CT,1,,Charles C. Bissell,Republican,,38.7,False,False,True
+1912,house,Connecticut,CT,1,,Joseph W. Alsop,"Progressive Party (US, 1912)",,14.9,False,False,True
+1912,house,Connecticut,CT,1,,Arthur B. Beers,Socialist,,4.7,False,False,True
+1912,house,Connecticut,CT,1,,Duane N. Griffin,Prohibition,,1.0,False,False,True
+1912,house,Connecticut,CT,1,,Alvis Kumpitsch,Socialist Labor,,0.6,False,False,True
+1912,house,Connecticut,CT,2,,Bryan F. Mahan,Democratic,,41.8,True,False,True
+1912,house,Connecticut,CT,2,,William A. King,Republican,,40.3,False,False,True
+1912,house,Connecticut,CT,2,,G. Warren Davis,"Progressive Party (US, 1912)",,13.3,False,False,True
+1912,house,Connecticut,CT,2,,William M. Kellas,Socialist,,3.0,False,False,True
+1912,house,Connecticut,CT,2,,Charles M. Reed,Prohibition,,1.3,False,False,True
+1912,house,Connecticut,CT,2,,Otto Ruckser,Socialist Labor,,0.4,False,False,True
+1912,house,Connecticut,CT,3,,Thomas L. Reilly,Democratic,,42.7,True,False,True
+1912,house,Connecticut,CT,3,,John Q. Tilson,Republican,,34.1,False,False,True
+1912,house,Connecticut,CT,3,,Yandell Henderson,"Progressive Party (US, 1912)",,14.4,False,False,True
+1912,house,Connecticut,CT,3,,William A. Applegate,Socialist,,7.0,False,False,True
+1912,house,Connecticut,CT,3,,Edward A. Richards,Prohibition,,1.1,False,False,True
+1912,house,Connecticut,CT,3,,Christian Frosch,Socialist Labor,,0.9,False,False,True
+1912,house,Connecticut,CT,4,,Jeremiah Donovan,Democratic,,37.6,True,False,False
+1912,house,Connecticut,CT,4,,Ebenezer J. Hill,Republican,,34.1,False,True,False
+1912,house,Connecticut,CT,4,,Samuel E. Vincent,"Progressive Party (US, 1912)",,19.9,False,False,False
+1912,house,Connecticut,CT,4,,Robert Hunter,Socialist,,6.9,False,False,False
+1912,house,Connecticut,CT,4,,G. Whitfield Simonson,Prohibition,,1.0,False,False,False
+1912,house,Connecticut,CT,4,,Harold Pederson,Socialist Labor,,0.6,False,False,False
+1912,house,Connecticut,CT,5,,William Kennedy,Democratic,,39.2,True,False,True
+1912,house,Connecticut,CT,5,,Thomas D. Bradstreet,Republican,,38.0,False,False,True
+1912,house,Connecticut,CT,5,,Horace G. Hoadley,"Progressive Party (US, 1912)",,15.6,False,False,True
+1912,house,Connecticut,CT,5,,Ernest D. Hull,Socialist,,6.2,False,False,True
+1912,house,Connecticut,CT,5,,John B. Davidson,Prohibition,,1.0,False,False,True
+1912,house,Delaware,DE,AL,,Franklin Brockson,Democratic,,46.16,True,False,True
+1912,house,Delaware,DE,AL,,George Hall,Republican,,34.37,False,False,True
+1912,house,Delaware,DE,AL,,Hiram R. Burton,"Progressive Party (US, 1912)",,11.29,False,False,True
+1912,house,Delaware,DE,AL,,Louis A. Drexler,"Progressive Party (US, 1912)",,5.8,False,False,True
+1912,house,Delaware,DE,AL,,John H. Kelly,Prohibition,,1.23,False,False,True
+1912,house,Delaware,DE,AL,,Edward Norton,Socialist,,1.16,False,False,True
+1912,house,Florida,FL,1,,Stephen M. Sparkman,Democratic,,78.5,True,True,False
+1912,house,Florida,FL,1,,C. C. Allen,Socialist,,12.0,False,False,False
+1912,house,Florida,FL,1,,George W. Beall,Republican,,4.9,False,False,False
+1912,house,Florida,FL,1,,J. D. Hazzard,"Progressive Party (US, 1912)",,3.0,False,False,False
+1912,house,Florida,FL,1,,George C. Kelley,Prohibition,,1.6,False,False,False
+1912,house,Florida,FL,2,,Frank Clark,Democratic,,81.1,True,True,False
+1912,house,Florida,FL,2,,J. J. Collins,Socialist,,7.3,False,False,False
+1912,house,Florida,FL,2,,John W. Howell,Republican,,6.7,False,False,False
+1912,house,Florida,FL,2,,C. E. Speir,"Progressive Party (US, 1912)",,4.9,False,False,False
+1912,house,Florida,FL,3,,Emmett Wilson,Democratic,,86.4,True,False,False
+1912,house,Florida,FL,3,,W. M. Lamberry,Socialist,,6.3,False,False,False
+1912,house,Florida,FL,3,,Thomas F. McGourin,Republican,,4.7,False,False,False
+1912,house,Florida,FL,3,,John T. Poder,"Progressive Party (US, 1912)",,2.7,False,False,False
+1912,house,Florida,FL,AL,,Claude L'Engle,Democratic,,77.4,True,False,True
+1912,house,Florida,FL,AL,,A. N. Jackson,Socialist,,8.2,False,False,True
+1912,house,Florida,FL,AL,,George W. Allen,Republican,,6.6,False,False,True
+1912,house,Florida,FL,AL,,E. R. Gunby,"Progressive Party (US, 1912)",,6.0,False,False,True
+1912,house,Florida,FL,AL,,Frances P. Coffin,Prohibition,,1.8,False,False,True
+1912,house,Georgia,GA,1,,Charles G. Edwards,Democratic,,95.71,True,True,False
+1912,house,Georgia,GA,1,,E. J. Seymour,Republican,,4.29,False,False,False
+1912,house,Georgia,GA,2,,Seaborn Roddenbery,Democratic,,100.0,True,True,False
+1912,house,Georgia,GA,3,,Charles R. Crisp,Democratic,,100.0,True,False,False
+1912,house,Georgia,GA,4,,William C. Adamson,Democratic,,100.0,True,True,False
+1912,house,Georgia,GA,5,,William S. Howard,Democratic,,100.0,True,True,False
+1912,house,Georgia,GA,6,,Charles L. Bartlett,Democratic,,100.0,True,True,False
+1912,house,Georgia,GA,7,,Gordon Lee,Democratic,,100.0,True,True,False
+1912,house,Georgia,GA,8,,Samuel J. Tribble,Democratic,,100.0,True,True,False
+1912,house,Georgia,GA,9,,Thomas M. Bell,Democratic,,100.0,True,True,False
+1912,house,Georgia,GA,10,,Thomas W. Hardwick,Democratic,,100.0,True,True,False
+1912,house,Georgia,GA,11,,John R. Walker,Democratic,,100.0,True,False,True
+1912,house,Georgia,GA,12,,Dudley M. Hughes,Democratic,,100.0,True,False,True
+1912,house,Idaho,ID,AL,,Burton L. French,Republican,,27.52,True,True,True
+1912,house,Idaho,ID,AL,,Addison T. Smith,Republican,,22.4,True,False,True
+1912,house,Idaho,ID,AL,,Perry W. Mitchell,Democratic,,15.51,False,False,True
+1912,house,Idaho,ID,AL,,Edward M. Pugmire,Democratic,,15.45,False,False,True
+1912,house,Idaho,ID,AL,,P. Monroe Smock,"Progressive Party (US, 1912)",,6.2,False,False,True
+1912,house,Idaho,ID,AL,,G. W. Belloit,Socialist,,5.86,False,False,True
+1912,house,Idaho,ID,AL,,Edward L. Rigg,Socialist,,5.86,False,False,True
+1912,house,Idaho,ID,AL,,John Tucker,Prohibition,,0.61,False,False,True
+1912,house,Idaho,ID,AL,,Jonathan G. Carrick,Prohibition,,0.6,False,False,True
+1912,house,Illinois,IL,1,,Martin B. Madden,Republican,,52.2,True,True,False
+1912,house,Illinois,IL,1,,Andrew Donovan,Democratic,,38.2,False,False,False
+1912,house,Illinois,IL,1,,William F. Barnard,Socialist,,8.5,False,False,False
+1912,house,Illinois,IL,1,,W. H. Rogers,Prohibition,,1.2,False,False,False
+1912,house,Illinois,IL,2,,James Robert Mann,Republican,,37.37,True,True,False
+1912,house,Illinois,IL,2,,John Charles Vaughan,Democratic,,27.8,False,False,False
+1912,house,Illinois,IL,2,,Thomas D. Knight,"Progressive Party (US, 1912)",,26.3,False,False,False
+1912,house,Illinois,IL,2,,John C. Flora,Socialist,,8.1,False,False,False
+1912,house,Illinois,IL,2,,Edgar T. Lee,Prohibition,,0.6,False,False,False
+1912,house,Illinois,IL,3,,George E. Gorman,Democratic,,33.2,True,False,False
+1912,house,Illinois,IL,3,,William W. Wilson,Republican,,28.8,False,True,False
+1912,house,Illinois,IL,3,,Franklin P. Simons,"Progressive Party (US, 1912)",,26.6,False,False,False
+1912,house,Illinois,IL,3,,George H. Gibson,Socialist,,10.4,False,False,False
+1912,house,Illinois,IL,3,,William H. Dietz,Prohibition,,1.0,False,False,False
+1912,house,Illinois,IL,4,,James T. McDermott,Democratic,,57.5,True,True,False
+1912,house,Illinois,IL,4,,Charles J. Tomkiewicz,Republican,,24.6,False,False,False
+1912,house,Illinois,IL,4,,Carl F. Gauger,Socialist,,18.1,False,False,False
+1912,house,Illinois,IL,5,,Adolph J. Sabath,Democratic,,51.8,True,True,False
+1912,house,Illinois,IL,5,,Jacob Gartenstein,Republican,,19.5,False,False,False
+1912,house,Illinois,IL,5,,Charles Toepper,Socialist,,15.6,False,False,False
+1912,house,Illinois,IL,5,,Louis H. Clusmann,"Progressive Party (US, 1912)",,13.1,False,False,False
+1912,house,Illinois,IL,6,,James McAndrews,Democratic,,45.3,True,False,False
+1912,house,Illinois,IL,6,,Arthur W. Fulton,Republican,,38.2,False,False,False
+1912,house,Illinois,IL,6,,John Will,Socialist,,15.6,False,False,False
+1912,house,Illinois,IL,6,,J. W. Troeger,Prohibition,,0.9,False,False,False
+1912,house,Illinois,IL,7,,Frank Buchanan,Democratic,,28.19,True,True,False
+1912,house,Illinois,IL,7,,Elton C. Armitage,"Progressive Party (US, 1912)",,27.3,False,False,False
+1912,house,Illinois,IL,7,,Niels Juul,Republican,,22.1,False,False,False
+1912,house,Illinois,IL,7,,Otto C. Christensen,Socialist,,21.8,False,False,False
+1912,house,Illinois,IL,7,,E. H. Parkinson,Prohibition,,0.6,False,False,False
+1912,house,Illinois,IL,8,,Thomas Gallagher,Democratic,,52.4,True,True,False
+1912,house,Illinois,IL,8,,William G. Herrmann,Republican,,29.0,False,False,False
+1912,house,Illinois,IL,8,,N. F. Holm,Socialist,,17.6,False,False,False
+1912,house,Illinois,IL,8,,John Nelson,Prohibition,,1.0,False,False,False
+1912,house,Illinois,IL,9,,Frederick A. Britten,Republican,,34.6,True,False,False
+1912,house,Illinois,IL,9,,Lynden Evans,Democratic,,30.3,False,True,False
+1912,house,Illinois,IL,9,,C. O. Ludlow,"Progressive Party (US, 1912)",,22.5,False,False,False
+1912,house,Illinois,IL,9,,Frank Shiflersmith,Socialist,,11.8,False,False,False
+1912,house,Illinois,IL,9,,Herbert V. Lyon,Prohibition,,0.7,False,False,False
+1912,house,Illinois,IL,9,,Hugh F. McGovern,Independent,,0.2,False,False,False
+1912,house,Illinois,IL,10,,Charles M. Thomson,"Progressive Party (US, 1912)",,35.2,True,False,False
+1912,house,Illinois,IL,10,,George E. Foss,Republican,,29.0,False,True,False
+1912,house,Illinois,IL,10,,Frank L. Fowler,Democratic,,26.0,False,False,False
+1912,house,Illinois,IL,10,,Charles E. Larson,Socialist,,8.9,False,False,False
+1912,house,Illinois,IL,10,,Dudley Grant Hays,Prohibition,,0.8,False,False,False
+1912,house,Illinois,IL,11,,Ira C. Copley,Republican,,61.1,True,True,False
+1912,house,Illinois,IL,11,,Thomas H. Riley,Democratic,,34.0,False,False,False
+1912,house,Illinois,IL,11,,P. H. Murray,Socialist,,2.8,False,False,False
+1912,house,Illinois,IL,11,,William P. Lea,Prohibition,,2.1,False,False,False
+1912,house,Illinois,IL,12,,William H. Hinebaugh,"Progressive Party (US, 1912)",,36.4,True,False,False
+1912,house,Illinois,IL,12,,Charles E. Fuller,Republican,,33.6,False,True,False
+1912,house,Illinois,IL,12,,Jacob W. Rausch,Democratic,,24.3,False,False,False
+1912,house,Illinois,IL,12,,Joseph McCabe,Socialist,,4.3,False,False,False
+1912,house,Illinois,IL,12,,C. W. Earl,Prohibition,,1.4,False,False,False
+1912,house,Illinois,IL,13,,John C. McKenzie,Republican,,36.5,True,True,False
+1912,house,Illinois,IL,13,,I. F. Edwards,"Progressive Party (US, 1912)",,30.1,False,False,False
+1912,house,Illinois,IL,13,,Ray Rariden,Democratic,,29.7,False,False,False
+1912,house,Illinois,IL,13,,William Beers,Prohibition,,2.1,False,False,False
+1912,house,Illinois,IL,13,,Clarence C. Brooks,Socialist,,1.6,False,False,False
+1912,house,Illinois,IL,14,,Clyde H. Tavenner,Democratic,,47.3,True,False,True
+1912,house,Illinois,IL,14,,Charles J. Searle,Republican,,44.0,False,False,True
+1912,house,Illinois,IL,14,,Charles Block,Socialist,,6.9,False,False,True
+1912,house,Illinois,IL,14,,Parkhurst W. Cutler,Prohibition,,1.9,False,False,True
+1912,house,Illinois,IL,15,,Stephen A. Hoxworth,Democratic,,35.8,True,False,False
+1912,house,Illinois,IL,15,,Charles F. Kincheloe,"Progressive Party (US, 1912)",,31.7,False,False,False
+1912,house,Illinois,IL,15,,George W. Prince,Republican,,25.1,False,True,False
+1912,house,Illinois,IL,15,,John C. Sjodin,Socialist,,5.5,False,False,False
+1912,house,Illinois,IL,15,,Paul D. Ransom,Prohibition,,1.9,False,False,False
+1912,house,Illinois,IL,16,,Claude U. Stone,Democratic,,45.7,True,True,False
+1912,house,Illinois,IL,16,,William E. Cadmus,"Progressive Party (US, 1912)",,27.6,False,False,False
+1912,house,Illinois,IL,16,,Frederick H. Smith,Republican,,20.3,False,False,False
+1912,house,Illinois,IL,16,,Rudolf Pfeiffer,Socialist,,5.4,False,False,False
+1912,house,Illinois,IL,16,,George W. Warner,Prohibition,,1.1,False,False,False
+1912,house,Illinois,IL,17,,Louis FitzHenry,Democratic,,38.0,True,False,False
+1912,house,Illinois,IL,17,,John A. Sterling,Republican,,34.5,False,True,False
+1912,house,Illinois,IL,17,,George E. Stump,"Progressive Party (US, 1912)",,23.6,False,False,False
+1912,house,Illinois,IL,17,,E. J. Brais,Socialist,,2.1,False,False,False
+1912,house,Illinois,IL,17,,Robert Means,Prohibition,,1.8,False,False,False
+1912,house,Illinois,IL,18,,Frank T. O'Hair,Democratic,,38.9,True,False,False
+1912,house,Illinois,IL,18,,Joseph G. Cannon,Republican,,37.3,False,True,False
+1912,house,Illinois,IL,18,,E. F. Royse,"Progressive Party (US, 1912)",,19.0,False,False,False
+1912,house,Illinois,IL,18,,Clay Freeman Gaumer,Prohibition,,2.6,False,False,False
+1912,house,Illinois,IL,18,,John H. Walker,Socialist,,2.3,False,False,False
+1912,house,Illinois,IL,19,,Charles M. Borchers,Democratic,,40.2,True,False,False
+1912,house,Illinois,IL,19,,William B. McKinley,Republican,,37.4,False,True,False
+1912,house,Illinois,IL,19,,John H. Chadwick,"Progressive Party (US, 1912)",,19.5,False,False,False
+1912,house,Illinois,IL,19,,Charles E. Peebles,Socialist,,1.5,False,False,False
+1912,house,Illinois,IL,19,,Thomas C. Eiler,Prohibition,,1.4,False,False,False
+1912,house,Illinois,IL,20,,Henry T. Rainey,Democratic,,54.1,True,True,False
+1912,house,Illinois,IL,20,,E. E. Brass,Republican,,24.2,False,False,False
+1912,house,Illinois,IL,20,,B. O. Aylesworth,"Progressive Party (US, 1912)",,17.9,False,False,False
+1912,house,Illinois,IL,20,,Jesse Morgan,Socialist,,2.0,False,False,False
+1912,house,Illinois,IL,20,,Charles P. Corson,Prohibition,,1.8,False,False,False
+1912,house,Illinois,IL,21,,James M. Graham,Democratic,,46.8,True,True,False
+1912,house,Illinois,IL,21,,H. Clay Wilson,Republican,,29.7,False,False,False
+1912,house,Illinois,IL,21,,Robert Johns,"Progressive Party (US, 1912)",,16.0,False,False,False
+1912,house,Illinois,IL,21,,Herman Rahm,Socialist,,5.6,False,False,False
+1912,house,Illinois,IL,21,,Lewis F. Denton,Prohibition,,1.9,False,False,False
+1912,house,Illinois,IL,22,,William N. Baltz,Democratic,,43.5,True,False,False
+1912,house,Illinois,IL,22,,William A. Rodenberg,Republican,,36.6,False,True,False
+1912,house,Illinois,IL,22,,Utten S. Nixon,"Progressive Party (US, 1912)",,10.6,False,False,False
+1912,house,Illinois,IL,22,,William C. Pierce,Socialist,,8.1,False,False,False
+1912,house,Illinois,IL,22,,Andrew J. Meek,Prohibition,,1.3,False,False,False
+1912,house,Illinois,IL,23,,Martin D. Foster,Democratic,,52.4,True,True,False
+1912,house,Illinois,IL,23,,Robert B. Clark,Republican,,25.0,False,False,False
+1912,house,Illinois,IL,23,,George W. Jones,"Progressive Party (US, 1912)",,17.7,False,False,False
+1912,house,Illinois,IL,23,,John L. McKittrick,Socialist,,2.8,False,False,False
+1912,house,Illinois,IL,23,,John W. Honey,Prohibition,,2.2,False,False,False
+1912,house,Illinois,IL,24,,H. Robert Fowler,Democratic,,47.7,True,True,False
+1912,house,Illinois,IL,24,,James B. Blackman,Republican,,36.1,False,False,False
+1912,house,Illinois,IL,24,,A. J. Gibbons,"Progressive Party (US, 1912)",,12.3,False,False,False
+1912,house,Illinois,IL,24,,T. C. Mason,Socialist,,2.3,False,False,False
+1912,house,Illinois,IL,24,,Thomas J. Scott,Prohibition,,1.6,False,False,False
+1912,house,Illinois,IL,25,,Robert P. Hill,Democratic,,43.3,True,False,False
+1912,house,Illinois,IL,25,,Napoleon B. Thistlewood,Republican,,36.2,False,True,False
+1912,house,Illinois,IL,25,,Robert T. Cook,"Progressive Party (US, 1912)",,14.2,False,False,False
+1912,house,Illinois,IL,25,,Paul H. Castle,Socialist,,4.5,False,False,False
+1912,house,Illinois,IL,25,,Charles F. Stalker,Prohibition,,1.9,False,False,False
+1912,house,Illinois,IL,AL,,Lawrence B. Stringer,Democratic,,18.4,True,False,True
+1912,house,Illinois,IL,AL,,William E. Williams,Democratic,,17.8,True,False,True
+1912,house,Illinois,IL,AL,,William E. Mason,Republican,,13.9,False,False,True
+1912,house,Illinois,IL,AL,,Lawrence P. Boyle,"Progressive Party (US, 1912)",,13.8,False,False,True
+1912,house,Illinois,IL,AL,,B. M. Maxey,"Progressive Party (US, 1912)",,13.5,False,False,True
+1912,house,Illinois,IL,AL,,Walter Huggins,Socialist,,3.7,False,False,True
+1912,house,Illinois,IL,AL,,D. L. Thomas,Socialist,,3.7,False,False,True
+1912,house,Illinois,IL,AL,,Walter H. Harris,Prohibition,,0.7,False,False,True
+1912,house,Illinois,IL,AL,,James H. Shaw,Prohibition,,0.7,False,False,True
+1912,house,Illinois,IL,AL,,George Martin,Socialist Labor,,0.2,False,False,True
+1912,house,Illinois,IL,AL,,Joseph Fenyves,Socialist Labor,,0.2,False,False,True
+1912,house,Indiana,IN,1,,Charles Lieb,Democratic,,45.65,True,False,True
+1912,house,Indiana,IN,1,,D. H. Ortmeyer,Republican,,30.01,False,False,True
+1912,house,Indiana,IN,1,,Humphrey C. Heldt,"Progressive Party (US, 1912)",,13.74,False,False,True
+1912,house,Indiana,IN,1,,William H. Rainey,Socialist,,8.52,False,False,True
+1912,house,Indiana,IN,1,,George E. Flanagan,Prohibition,,2.08,False,False,True
+1912,house,Indiana,IN,2,,William A. Cullop,Democratic,,45.34,True,True,False
+1912,house,Indiana,IN,2,,Oscar E. Bland,Republican,,32.56,False,False,False
+1912,house,Indiana,IN,2,,John N. Dyer,"Progressive Party (US, 1912)",,12.32,False,False,False
+1912,house,Indiana,IN,2,,John L. Shepherd,Socialist,,7.98,False,False,False
+1912,house,Indiana,IN,2,,Isaac C. Overman,Prohibition,,1.79,False,False,False
+1912,house,Indiana,IN,3,,William E. Cox,Democratic,,51.52,True,True,False
+1912,house,Indiana,IN,3,,William D. Barnes,Republican,,22.36,False,False,False
+1912,house,Indiana,IN,3,,S. G. Wilkinson,"Progressive Party (US, 1912)",,22.27,False,False,False
+1912,house,Indiana,IN,3,,John Zahnd,Socialist,,2.65,False,False,False
+1912,house,Indiana,IN,3,,H. W. White,Prohibition,,1.2,False,False,False
+1912,house,Indiana,IN,4,,Lincoln Dixon,Democratic,,52.42,True,True,False
+1912,house,Indiana,IN,4,,Rollin A. Turner,Republican,,26.88,False,False,False
+1912,house,Indiana,IN,4,,Charles Zoller,"Progressive Party (US, 1912)",,16.3,False,False,False
+1912,house,Indiana,IN,4,,Henry A. Thompson,Prohibition,,2.24,False,False,False
+1912,house,Indiana,IN,4,,William Carmichael,Socialist,,2.16,False,False,False
+1912,house,Indiana,IN,5,,Ralph W. Moss,Democratic,,45.16,True,True,False
+1912,house,Indiana,IN,5,,F. W. Blankenlaker,Republican,,26.25,False,False,False
+1912,house,Indiana,IN,5,,Joseph W. Amis,Socialist,,18.1,False,False,False
+1912,house,Indiana,IN,5,,William Houston,"Progressive Party (US, 1912)",,7.33,False,False,False
+1912,house,Indiana,IN,5,,John Myers,Prohibition,,3.16,False,False,False
+1912,house,Indiana,IN,6,,Finly H. Gray,Democratic,,43.9,True,True,False
+1912,house,Indiana,IN,6,,William L. Risk,Republican,,24.69,False,False,False
+1912,house,Indiana,IN,6,,Gierluf Jansen,"Progressive Party (US, 1912)",,23.71,False,False,False
+1912,house,Indiana,IN,6,,R. Foster Van Voorhis,Socialist,,4.68,False,False,False
+1912,house,Indiana,IN,6,,Mercer Brown,Prohibition,,3.03,False,False,False
+1912,house,Indiana,IN,7,,Charles A. Korbly,Democratic,,42.81,True,True,False
+1912,house,Indiana,IN,7,,Joseph V. Zartman,"Progressive Party (US, 1912)",,27.26,False,False,False
+1912,house,Indiana,IN,7,,Thomas R. Shipp,Republican,,19.73,False,False,False
+1912,house,Indiana,IN,7,,Frank J. Hays,Socialist,,8.15,False,False,False
+1912,house,Indiana,IN,7,,Albert Stanley,Prohibition,,2.05,False,False,False
+1912,house,Indiana,IN,8,,John A. M. Adair,Democratic,,46.48,True,True,False
+1912,house,Indiana,IN,8,,Edward C. Toner,"Progressive Party (US, 1912)",,25.99,False,False,False
+1912,house,Indiana,IN,8,,J. P. Watts,Republican,,16.39,False,False,False
+1912,house,Indiana,IN,8,,Hunter McDonald,Socialist,,7.13,False,False,False
+1912,house,Indiana,IN,8,,Jacob Walter Gibson,Prohibition,,4.02,False,False,False
+1912,house,Indiana,IN,9,,Martin A. Morrison,Democratic,,45.12,True,True,False
+1912,house,Indiana,IN,9,,J. P. Watts,Republican,,30.43,False,False,False
+1912,house,Indiana,IN,9,,John F. Neil,"Progressive Party (US, 1912)",,17.62,False,False,False
+1912,house,Indiana,IN,9,,George N. Keller,Socialist,,3.85,False,False,False
+1912,house,Indiana,IN,9,,A. W. Ewing,Prohibition,,2.99,False,False,False
+1912,house,Indiana,IN,10,,John B. Peterson,Democratic,,38.78,True,False,False
+1912,house,Indiana,IN,10,,Edgar D. Crumpacker,Republican,,36.45,False,True,False
+1912,house,Indiana,IN,10,,John O. Bowers,"Progressive Party (US, 1912)",,20.64,False,False,False
+1912,house,Indiana,IN,10,,A. K. Mark,Socialist,,2.89,False,False,False
+1912,house,Indiana,IN,10,,William R. Harkrider,Prohibition,,1.25,False,False,False
+1912,house,Indiana,IN,11,,George W. Rauch,Democratic,,43.8,True,True,False
+1912,house,Indiana,IN,11,,John W. Stewart,Republican,,24.44,False,False,False
+1912,house,Indiana,IN,11,,Edgar M. Baldwin,"Progressive Party (US, 1912)",,21.67,False,False,False
+1912,house,Indiana,IN,11,,Ernest Malott,Socialist,,5.63,False,False,False
+1912,house,Indiana,IN,11,,Edward H. Kennedy,Prohibition,,4.47,False,False,False
+1912,house,Indiana,IN,12,,Cyrus Cline,Democratic,,46.89,True,True,False
+1912,house,Indiana,IN,12,,Charles R. Lane,Republican,,37.92,False,False,False
+1912,house,Indiana,IN,12,,H. M. Widney,"Progressive Party (US, 1912)",,10.02,False,False,False
+1912,house,Indiana,IN,12,,William Dibble,Socialist,,3.19,False,False,False
+1912,house,Indiana,IN,12,,Jacob G. Wise,Prohibition,,1.99,False,False,False
+1912,house,Indiana,IN,13,,Henry A. Barnhart,Democratic,,43.91,True,True,False
+1912,house,Indiana,IN,13,,R. Clarence Stephens,"Progressive Party (US, 1912)",,24.31,False,False,False
+1912,house,Indiana,IN,13,,Charles A. Carlisle,Republican,,24.25,False,False,False
+1912,house,Indiana,IN,13,,Ervin H. Cady,Socialist,,5.17,False,False,False
+1912,house,Indiana,IN,13,,William Warner,Prohibition,,2.36,False,False,False
+1912,house,Iowa,IA,1,,Charles A. Kennedy,Republican,,42.14,True,True,False
+1912,house,Iowa,IA,1,,Joshua F. Elder,Democratic,,36.03,False,False,False
+1912,house,Iowa,IA,1,,Joe Crail,"Progressive Party (US, 1912)",,19.21,False,False,False
+1912,house,Iowa,IA,1,,Frank Kubisch,Socialist,,2.62,False,False,False
+1912,house,Iowa,IA,2,,Irvin S. Pepper,Democratic,,85.71,True,True,False
+1912,house,Iowa,IA,2,,Michael T. Kennedy,Socialist,,10.99,False,False,False
+1912,house,Iowa,IA,3,,Maurice Connolly,Democratic,,42.34,True,False,False
+1912,house,Iowa,IA,3,,Charles E. Pickett,Republican,,39.55,False,True,False
+1912,house,Iowa,IA,3,,Robert E. Leach,"Progressive Party (US, 1912)",,14.46,False,False,False
+1912,house,Iowa,IA,3,,D. S. Cameron,Socialist,,2.07,False,False,False
+1912,house,Iowa,IA,3,,S. D. Kennedy,Prohibition,,1.58,False,False,False
+1912,house,Iowa,IA,4,,Gilbert N. Haugen,Republican,,52.61,True,True,False
+1912,house,Iowa,IA,4,,G. A. Meyer,Democratic,,44.48,False,False,False
+1912,house,Iowa,IA,4,,James S. Mott,Socialist,,1.89,False,False,False
+1912,house,Iowa,IA,4,,Thomas McElroy,Prohibition,,1.01,False,False,False
+1912,house,Iowa,IA,5,,James W. Good,Republican,,47.7,True,False,False
+1912,house,Iowa,IA,5,,S. C. Huber,Democratic,,44.2,False,False,False
+1912,house,Iowa,IA,5,,Fred A. Niles,"Progressive Party (US, 1912)",,4.69,False,False,False
+1912,house,Iowa,IA,5,,Louis N. Nock,Socialist,,2.11,False,False,False
+1912,house,Iowa,IA,5,,F. J. Thomas,Prohibition,,1.31,False,False,False
+1912,house,Iowa,IA,6,,Sanford Kirkpatrick,Democratic,,42.47,True,False,False
+1912,house,Iowa,IA,6,,M. A. McCord,Republican,,39.28,False,False,False
+1912,house,Iowa,IA,6,,John H. Patton,"Progressive Party (US, 1912)",,12.39,False,False,False
+1912,house,Iowa,IA,6,,Andrew Engle,Socialist,,5.87,False,False,False
+1912,house,Iowa,IA,7,,Solomon F. Prouty,Republican,,43.16,True,True,False
+1912,house,Iowa,IA,7,,Clint L. Price,Democratic,,34.78,False,False,False
+1912,house,Iowa,IA,7,,George C. White,"Progressive Party (US, 1912)",,14.69,False,False,False
+1912,house,Iowa,IA,7,,Andy Swanson,Socialist,,4.84,False,False,False
+1912,house,Iowa,IA,7,,Ira D. Kellogg,Prohibition,,2.54,False,False,False
+1912,house,Iowa,IA,8,,Horace M. Towner,Republican,,49.21,True,True,False
+1912,house,Iowa,IA,8,,V. R. McGinnis,Democratic,,41.26,False,False,False
+1912,house,Iowa,IA,8,,Lawrence W. Laughlin,"Progressive Party (US, 1912)",,7.21,False,False,False
+1912,house,Iowa,IA,8,,S. D. Mercer,Socialist,,2.32,False,False,False
+1912,house,Iowa,IA,9,,William R. Green,Republican,,53.26,True,True,False
+1912,house,Iowa,IA,9,,Orris Mosher,Democratic,,43.53,False,False,False
+1912,house,Iowa,IA,9,,Arthur C. Kelly,Socialist,,2.34,False,False,False
+1912,house,Iowa,IA,9,,W. B. Crewdson,Prohibition,,88.0,False,False,False
+1912,house,Iowa,IA,10,,Frank P. Woods,Republican,,53.92,True,True,False
+1912,house,Iowa,IA,10,,Nelson L. Rood,Democratic,,32.53,False,False,False
+1912,house,Iowa,IA,10,,Sheppard B. Philpot,"Progressive Party (US, 1912)",,11.21,False,False,False
+1912,house,Iowa,IA,10,,A. E. Moxley,Socialist,,2.34,False,False,False
+1912,house,Iowa,IA,11,,George Cromwell Scott,Republican,,40.09,True,False,True
+1912,house,Iowa,IA,11,,Anthony Van Wagenen,Democratic,,34.9,False,False,True
+1912,house,Iowa,IA,11,,Joseph W. Hallam,"Progressive Party (US, 1912)",,22.46,False,False,True
+1912,house,Iowa,IA,11,,John W. Bennett,Socialist,,1.75,False,False,True
+1912,house,Iowa,IA,11,,A. Jamieson,Prohibition,,0.8,False,False,True
+1912,house,Kansas,KS,1,,Daniel R. Anthony Jr.,Republican,,51.76,True,True,False
+1912,house,Kansas,KS,1,,J. B. Chapman,Democratic,,46.51,False,False,False
+1912,house,Kansas,KS,1,,H. B. Conwell,Socialist,,1.73,False,False,False
+1912,house,Kansas,KS,2,,Joseph Taggart,Democratic,,50.13,True,True,False
+1912,house,Kansas,KS,2,,J. L. Brady,Republican,,42.68,False,False,False
+1912,house,Kansas,KS,2,,R. S. Thomas,Socialist,,7.19,False,False,False
+1912,house,Kansas,KS,3,,Philip P. Campbell,Republican,,38.95,True,True,False
+1912,house,Kansas,KS,3,,Francis M. Brady,Democratic,,37.41,False,False,False
+1912,house,Kansas,KS,3,,George D. Brewer,Socialist,,23.65,False,False,False
+1912,house,Kansas,KS,4,,Dudley Doolittle,Democratic,,48.55,True,False,False
+1912,house,Kansas,KS,4,,Fred S. Jackson,Republican,,47.07,False,True,False
+1912,house,Kansas,KS,4,,S. W. Beach,Socialist,,4.38,False,False,False
+1912,house,Kansas,KS,5,,Guy T. Helvering,Democratic,,49.76,True,False,False
+1912,house,Kansas,KS,5,,Rollin R. Rees,Republican,,45.91,False,True,False
+1912,house,Kansas,KS,5,,Grant Chapin,Socialist,,4.33,False,False,False
+1912,house,Kansas,KS,6,,John R. Connelly,Democratic,,47.99,True,False,False
+1912,house,Kansas,KS,6,,Isaac D. Young,Republican,,45.63,False,True,False
+1912,house,Kansas,KS,6,,Daniel W. Stoner,Socialist,,5.03,False,False,False
+1912,house,Kansas,KS,6,,James K. Land,Prohibition,,1.35,False,False,False
+1912,house,Kansas,KS,7,,George A. Neeley,Democratic,,51.26,True,True,False
+1912,house,Kansas,KS,7,,Gordon L. Finley,Republican,,42.53,False,False,False
+1912,house,Kansas,KS,7,,N. L. Amos,Socialist,,5.55,False,False,False
+1912,house,Kansas,KS,7,,Harry R. Ross,Prohibition,,0.66,False,False,False
+1912,house,Kansas,KS,8,,Victor Murdock,Republican,,53.37,True,True,False
+1912,house,Kansas,KS,8,,John I. Saunders,Democratic,,43.06,False,False,False
+1912,house,Kansas,KS,8,,George Burnett,Socialist,,3.57,False,False,False
+1912,house,Kentucky,KY,1,,Alben W. Barkley,Democratic,,64.47,True,False,True
+1912,house,Kentucky,KY,1,,Charles Furgeson,Republican,,30.43,False,False,True
+1912,house,Kentucky,KY,1,,I. O. Ford,Socialist,,5.1,False,False,True
+1912,house,Kentucky,KY,2,,Augustus O. Stanley,Democratic,,71.26,True,True,False
+1912,house,Kentucky,KY,2,,L. R. Fox,"Progressive Party (US, 1912)",,23.47,False,False,False
+1912,house,Kentucky,KY,2,,Carr Hawkins,Socialist,,5.28,False,False,False
+1912,house,Kentucky,KY,3,,Robert Y. Thomas Jr.,Democratic,,47.91,True,True,False
+1912,house,Kentucky,KY,3,,Thurman B. Dixon,Republican,,29.4,False,False,False
+1912,house,Kentucky,KY,3,,J. D. Duncan,"Progressive Party (US, 1912)",,19.55,False,False,False
+1912,house,Kentucky,KY,3,,E. L. Davenport,Socialist,,3.13,False,False,False
+1912,house,Kentucky,KY,4,,Ben Johnson,Democratic,,53.22,True,True,False
+1912,house,Kentucky,KY,4,,E. R. Bassett,"Progressive Party (US, 1912)",,28.59,False,False,False
+1912,house,Kentucky,KY,4,,John C. Thompson,Republican,,16.12,False,False,False
+1912,house,Kentucky,KY,4,,A. Logsdon,Socialist,,2.07,False,False,False
+1912,house,Kentucky,KY,5,,J. Swagar Sherley,Democratic,,46.15,True,True,False
+1912,house,Kentucky,KY,5,,Henry I. Fox,"Progressive Party (US, 1912)",,43.02,False,False,False
+1912,house,Kentucky,KY,5,,E. J. Ashcraft,Republican,,7.12,False,False,False
+1912,house,Kentucky,KY,5,,Charles Dobbs,Socialist,,2.78,False,False,False
+1912,house,Kentucky,KY,5,,John H. Arnold,Socialist Labor,,0.94,False,False,False
+1912,house,Kentucky,KY,6,,Arthur B. Rouse,Democratic,,57.26,True,True,False
+1912,house,Kentucky,KY,6,,D. B. Wallace,Republican,,20.08,False,False,False
+1912,house,Kentucky,KY,6,,J. G. Blackburn,"Progressive Party (US, 1912)",,15.78,False,False,False
+1912,house,Kentucky,KY,6,,M. A. Brinkman,Socialist,,6.89,False,False,False
+1912,house,Kentucky,KY,7,,J. Campbell Cantrill,Democratic,,80.82,True,True,False
+1912,house,Kentucky,KY,7,,J. G. Blackburn,"Progressive Party (US, 1912)",,19.18,False,False,False
+1912,house,Kentucky,KY,8,,Harvey Helm,Democratic,,71.01,True,True,False
+1912,house,Kentucky,KY,8,,J. W. Dinsmore,"Progressive Party (US, 1912)",,28.99,False,False,False
+1912,house,Kentucky,KY,9,,William J. Fields,Democratic,,50.7,True,True,False
+1912,house,Kentucky,KY,9,,Harry Bailey,Republican,,30.71,False,False,False
+1912,house,Kentucky,KY,9,,E. S. Hutchins,"Progressive Party (US, 1912)",,16.46,False,False,False
+1912,house,Kentucky,KY,9,,James A. Williams,Socialist,,2.12,False,False,False
+1912,house,Kentucky,KY,10,,John W. Langley,Republican,,69.77,True,True,False
+1912,house,Kentucky,KY,10,,W. T. Stafford,"Progressive Party (US, 1912)",,30.23,False,False,False
+1912,house,Kentucky,KY,11,,Caleb Powers,Republican,,46.43,True,True,False
+1912,house,Kentucky,KY,11,,Ben V. Smith,Democratic,,29.47,False,False,False
+1912,house,Kentucky,KY,11,,H. Seavey,"Progressive Party (US, 1912)",,22.66,False,False,False
+1912,house,Kentucky,KY,11,,M. O. Jackson,Socialist,,1.45,False,False,False
+1912,house,Louisiana,LA,1,,Albert Estopinal,Democratic,,100.0,True,True,False
+1912,house,Louisiana,LA,2,,H. Garland Dupré,Democratic,,100.0,True,True,False
+1912,house,Louisiana,LA,3,,Robert F. Broussard,Democratic,,100.0,True,True,False
+1912,house,Louisiana,LA,4,,John T. Watkins,Democratic,,93.53,True,True,False
+1912,house,Louisiana,LA,4,,Lee Norris,Socialist,,6.47,False,False,False
+1912,house,Louisiana,LA,5,,James Walter Elder,Democratic,,100.0,True,False,True
+1912,house,Louisiana,LA,6,,Lewis L. Morgan,Democratic,,100.0,True,True,False
+1912,house,Louisiana,LA,7,,Ladislas Lazaro,Democratic,,87.39,True,False,True
+1912,house,Louisiana,LA,7,,Otis Putnam,Socialist,,12.61,False,False,True
+1912,house,Louisiana,LA,8,,James B. Aswell,Democratic,,77.68,True,False,True
+1912,house,Louisiana,LA,8,,J. R. Jones,Socialist,,22.33,False,False,True
+1912,house,Maine,ME,1,,Asher Hinds,Republican,,51.72,True,True,False
+1912,house,Maine,ME,1,,Michael T. O'Brien,Democratic,,45.69,False,False,False
+1912,house,Maine,ME,1,,Israel Albert,Socialist,,1.36,False,False,False
+1912,house,Maine,ME,2,,Daniel J. McGillicuddy,Democratic,,50.37,True,True,False
+1912,house,Maine,ME,2,,W. B. Skelton,Republican,,46.8,False,False,False
+1912,house,Maine,ME,2,,Walter R. Barlow,Socialist,,2.14,False,False,False
+1912,house,Maine,ME,3,,Forrest Goodwin,Republican,,49.88,True,False,False
+1912,house,Maine,ME,3,,Samuel W. Gould,Democratic,,47.83,False,True,False
+1912,house,Maine,ME,3,,Zenas L. Putnam,Socialist,,1.66,False,False,False
+1912,house,Maine,ME,3,,Samuel F. Emerson,Prohibition,,0.62,False,False,False
+1912,house,Maine,ME,4,,Frank E. Guernsey,Republican,,54.36,True,True,False
+1912,house,Maine,ME,4,,Charles Mullen,Democratic,,45.01,False,False,False
+1912,house,Maine,ME,4,,William A. Rideout,Prohibition,,0.63,False,False,False
+1912,house,Maryland,MD,1,,J. Harry Covington,Democratic,,85.2,True,False,False
+1912,house,Maryland,MD,1,,Robert D. Grier,"Progressive Party (US, 1912)",,11.2,False,False,False
+1912,house,Maryland,MD,1,,Charles M. Elderdice,Prohibition,,3.6,False,False,False
+1912,house,Maryland,MD,2,,J. Frederick C. Talbott,Democratic,,59.9,True,True,False
+1912,house,Maryland,MD,2,,Laban Sparks,Republican,,37.2,False,False,False
+1912,house,Maryland,MD,2,,Basil W. Bowman,Prohibition,,1.8,False,False,False
+1912,house,Maryland,MD,2,,Martin O. Huttman,Socialist,,1.2,False,False,False
+1912,house,Maryland,MD,3,,George Konig,Democratic,,54.7,True,True,False
+1912,house,Maryland,MD,3,,Charles W. Main,Republican,,39.9,False,False,False
+1912,house,Maryland,MD,3,,Charles F. Krant,Socialist,,3.5,False,False,False
+1912,house,Maryland,MD,3,,Edwin B. Fenby,Prohibition,,2.0,False,False,False
+1912,house,Maryland,MD,4,,J. Charles Linthicum,Democratic,,60.8,True,True,False
+1912,house,Maryland,MD,4,,Jacob F. Murbach,Republican,,35.9,False,False,False
+1912,house,Maryland,MD,4,,Charles E. Develin,Socialist,,1.9,False,False,False
+1912,house,Maryland,MD,4,,Alfred S. Day,Prohibition,,1.3,False,False,False
+1912,house,Maryland,MD,5,,Frank Owens Smith,Democratic,,48.9,True,False,False
+1912,house,Maryland,MD,5,,Thomas Parran,Republican,,45.5,False,True,False
+1912,house,Maryland,MD,5,,Mark Jackson,Socialist,,4.2,False,False,False
+1912,house,Maryland,MD,5,,Holin D. Todd,Prohibition,,1.4,False,False,False
+1912,house,Maryland,MD,6,,David John Lewis,Democratic,,56.0,True,True,False
+1912,house,Maryland,MD,6,,Charles D. Wagaman,Republican,,38.8,False,False,False
+1912,house,Maryland,MD,6,,Sylvester L. V. Young,Socialist,,3.6,False,False,False
+1912,house,Maryland,MD,6,,William L. Purdum,Prohibition,,1.6,False,False,False
+1912,house,Massachusetts,MA,1,,Allen T. Treadway,Republican,,42.8,True,False,True
+1912,house,Massachusetts,MA,1,,Richard J. Morrissey,Democratic,,40.0,False,False,True
+1912,house,Massachusetts,MA,1,,Samuel P. Blagden,"Progressive Party (US, 1912)",,12.9,False,False,True
+1912,house,Massachusetts,MA,1,,Edward A. Buckland,Socialist,,4.3,False,False,True
+1912,house,Massachusetts,MA,2,,Frederick H. Gillett,Republican,,42.8,True,True,False
+1912,house,Massachusetts,MA,2,,William G. McKechnie,Democratic,,38.1,False,False,False
+1912,house,Massachusetts,MA,2,,Thomas L. Hisgen,"Progressive Party (US, 1912)",,18.9,False,False,False
+1912,house,Massachusetts,MA,3,,William Wilder,Republican,,45.0,True,True,False
+1912,house,Massachusetts,MA,3,,M. Fred O'Connell,Democratic,,33.8,False,False,False
+1912,house,Massachusetts,MA,3,,Stephen M. Marshall,"Progressive Party (US, 1912)",,18.4,False,False,False
+1912,house,Massachusetts,MA,3,,Leon B. Stoddard,Socialist,,2.8,False,False,False
+1912,house,Massachusetts,MA,4,,Samuel Winslow,Republican,,49.6,True,False,False
+1912,house,Massachusetts,MA,4,,John A. Thayer,Democratic,,36.7,False,True,False
+1912,house,Massachusetts,MA,4,,Burton W. Potter,"Progressive Party (US, 1912)",,11.9,False,False,False
+1912,house,Massachusetts,MA,4,,Thomas Paine Abbott,Socialist,,1.8,False,False,False
+1912,house,Massachusetts,MA,5,,John Jacob Rogers,Republican,,44.8,True,False,True
+1912,house,Massachusetts,MA,5,,Humphrey O'Sullivan,Democratic,,38.5,False,False,True
+1912,house,Massachusetts,MA,5,,William N. Osgood,"Progressive Party (US, 1912)",,14.7,False,False,True
+1912,house,Massachusetts,MA,5,,William J. Carroll,Socialist,,2.1,False,False,True
+1912,house,Massachusetts,MA,6,,Augustus P. Gardner,Republican,,49.8,True,True,False
+1912,house,Massachusetts,MA,6,,George A. Schofield,Democratic,,28.6,False,False,False
+1912,house,Massachusetts,MA,6,,Arthur L. Nason,"Progressive Party (US, 1912)",,21.6,False,False,False
+1912,house,Massachusetts,MA,7,,Michael F. Phelan,Democratic,,45.9,True,False,True
+1912,house,Massachusetts,MA,7,,Frank P. Bennett Jr.,Republican,,31.7,False,False,True
+1912,house,Massachusetts,MA,7,,Lynn M. Ranger,"Progressive Party (US, 1912)",,18.0,False,False,True
+1912,house,Massachusetts,MA,7,,William W. McNally,Socialist,,4.5,False,False,True
+1912,house,Massachusetts,MA,8,,Frederick S. Deitrick,Democratic,,40.5,True,False,True
+1912,house,Massachusetts,MA,8,,Frederick W. Dallinger,Republican,,36.4,False,False,True
+1912,house,Massachusetts,MA,8,,Henry C. Long,"Progressive Party (US, 1912)",,21.6,False,False,True
+1912,house,Massachusetts,MA,8,,Saul Beaumont,Socialist,,1.5,False,False,True
+1912,house,Massachusetts,MA,9,,Ernest W. Roberts,Republican,,45.1,True,True,False
+1912,house,Massachusetts,MA,9,,Henry C. Rowland,Democratic,,28.1,False,False,False
+1912,house,Massachusetts,MA,9,,John Herbert,"Progressive Party (US, 1912)",,23.7,False,False,False
+1912,house,Massachusetts,MA,9,,Squire E. Putney,Socialist,,3.1,False,False,False
+1912,house,Massachusetts,MA,10,,William F. Murray,Democratic,,64.0,True,False,False
+1912,house,Massachusetts,MA,10,,Daniel T. Callahan,"Progressive Party (US, 1912)",,19.7,False,False,False
+1912,house,Massachusetts,MA,10,,Loyal L. Jenkins,Republican,,12.9,False,False,False
+1912,house,Massachusetts,MA,10,,Warren A. Carpenter,Socialist,,3.4,False,False,False
+1912,house,Massachusetts,MA,11,,Andrew J. Peters,Democratic,,64.0,True,True,False
+1912,house,Massachusetts,MA,11,,Sherwin L. Cook,Republican,,31.5,False,False,False
+1912,house,Massachusetts,MA,11,,Charles F. Claus,Socialist,,4.5,False,False,False
+1912,house,Massachusetts,MA,12,,James Michael Curley,Democratic,,48.8,True,True,False
+1912,house,Massachusetts,MA,12,,James Brendan Connolly,"Progressive Party (US, 1912)",,29.5,False,False,False
+1912,house,Massachusetts,MA,12,,Charles H. Robinson,Republican,,19.1,False,False,False
+1912,house,Massachusetts,MA,12,,Thomas G. Connolly,Socialist,,2.6,False,False,False
+1912,house,Massachusetts,MA,13,,John W. Weeks,Republican,,45.0,True,True,False
+1912,house,Massachusetts,MA,13,,John Joseph Mitchell,Democratic,,38.4,False,False,False
+1912,house,Massachusetts,MA,13,,George A. Fiel,"Progressive Party (US, 1912)",,16.6,False,False,False
+1912,house,Massachusetts,MA,14,,Edward Gilmore,Democratic,,33.9,True,False,False
+1912,house,Massachusetts,MA,14,,Henry L. Kincaide,"Progressive Party (US, 1912)",,32.2,False,False,False
+1912,house,Massachusetts,MA,14,,Robert O. Harris,Republican,,28.3,False,True,False
+1912,house,Massachusetts,MA,14,,John McCarty,Socialist,,5.7,False,False,False
+1912,house,Massachusetts,MA,15,,William S. Greene,Republican,,45.1,True,True,False
+1912,house,Massachusetts,MA,15,,John W. Coughlin,Democratic,,36.1,False,False,False
+1912,house,Massachusetts,MA,15,,Alvin G. Weeks,"Progressive Party (US, 1912)",,16.8,False,False,False
+1912,house,Massachusetts,MA,15,,George Frederick W. Wright,Socialist,,1.9,False,False,False
+1912,house,Massachusetts,MA,16,,Thomas Chandler Thacher,Democratic,,40.2,True,False,True
+1912,house,Massachusetts,MA,16,,William L. Bullock,Republican,,31.5,False,False,True
+1912,house,Massachusetts,MA,16,,Thomas Thompson,"Progressive Party (US, 1912)",,25.1,False,False,True
+1912,house,Massachusetts,MA,16,,Joseph Palme,Socialist,,3.2,False,False,True
+1912,house,Michigan,MI,1,,Frank E. Doremus,Democratic,,38.33,True,True,False
+1912,house,Michigan,MI,1,,James H. Pound,"Progressive Party (US, 1912)",,28.53,False,False,False
+1912,house,Michigan,MI,1,,Ezra P. Beechler,Republican,,28.33,False,False,False
+1912,house,Michigan,MI,1,,Milam F. Martin,Socialist,,4.11,False,False,False
+1912,house,Michigan,MI,2,,Samuel Beakes,Democratic,,35.0,True,False,False
+1912,house,Michigan,MI,2,,William Wedemeyer,Republican,,34.77,False,True,False
+1912,house,Michigan,MI,2,,Hubert F. Probert,"Progressive Party (US, 1912)",,28.53,False,False,False
+1912,house,Michigan,MI,2,,John P. Foster,Socialist,,1.7,False,False,False
+1912,house,Michigan,MI,3,,John M. C. Smith,Republican,,32.65,True,True,False
+1912,house,Michigan,MI,3,,Claude S. Carney,Democratic,,32.37,False,False,False
+1912,house,Michigan,MI,3,,Edward N. Dingley,"Progressive Party (US, 1912)",,28.85,False,False,False
+1912,house,Michigan,MI,3,,Levant L. Rogers,Socialist,,6.14,False,False,False
+1912,house,Michigan,MI,4,,Edward L. Hamilton,Republican,,34.16,True,True,False
+1912,house,Michigan,MI,4,,Albert E. Beebe,Democratic,,33.23,False,False,False
+1912,house,Michigan,MI,4,,George M. Valentine,"Progressive Party (US, 1912)",,29.37,False,False,False
+1912,house,Michigan,MI,4,,H. L. Gifford,Socialist,,3.24,False,False,False
+1912,house,Michigan,MI,5,,Carl E. Mapes,Republican,,35.25,True,False,False
+1912,house,Michigan,MI,5,,Edwin F. Sweet,Democratic,,33.98,False,True,False
+1912,house,Michigan,MI,5,,Suel A. Sheldon,"Progressive Party (US, 1912)",,24.72,False,False,False
+1912,house,Michigan,MI,5,,Edward A. Kosten,Socialist,,4.64,False,False,False
+1912,house,Michigan,MI,5,,Amherst B. Cheney,Prohibition,,1.41,False,False,False
+1912,house,Michigan,MI,6,,Samuel W. Smith,Republican,,36.46,True,True,False
+1912,house,Michigan,MI,6,,Alva M. Cummins,Democratic,,31.54,False,False,False
+1912,house,Michigan,MI,6,,William S. Kellogg,"Progressive Party (US, 1912)",,31.1,False,False,False
+1912,house,Michigan,MI,7,,Louis C. Cramton,Republican,,36.96,True,False,True
+1912,house,Michigan,MI,7,,Loren A. Sherman,"Progressive Party (US, 1912)",,30.84,False,False,True
+1912,house,Michigan,MI,7,,John J. Bell,Democratic,,29.39,False,False,True
+1912,house,Michigan,MI,7,,Henry C. Kaumeier,Socialist,,1.67,False,False,True
+1912,house,Michigan,MI,7,,George E. Ackerman,Prohibition,,1.15,False,False,True
+1912,house,Michigan,MI,8,,Joseph W. Fordney,Republican,,34.36,True,True,False
+1912,house,Michigan,MI,8,,Albert L. Chandler,"Progressive Party (US, 1912)",,30.14,False,False,False
+1912,house,Michigan,MI,8,,Miles J. Purcell,Democratic,,29.97,False,False,False
+1912,house,Michigan,MI,8,,George L. Seiferlein,Socialist,,4.05,False,False,False
+1912,house,Michigan,MI,8,,David S. Woolman,Prohibition,,1.48,False,False,False
+1912,house,Michigan,MI,9,,James C. McLaughlin,Republican,,39.1,True,True,False
+1912,house,Michigan,MI,9,,William H. Sears,"Progressive Party (US, 1912)",,34.7,False,False,False
+1912,house,Michigan,MI,9,,Herman R. O'Connor,Democratic,,26.21,False,False,False
+1912,house,Michigan,MI,10,,Roy O. Woodruff,"Progressive Party (US, 1912)",,35.11,True,False,False
+1912,house,Michigan,MI,10,,George A. Loud,Republican,,33.09,False,True,False
+1912,house,Michigan,MI,10,,Lewis P. Coumans,Democratic,,27.61,False,False,False
+1912,house,Michigan,MI,10,,Miles W. Gaffney,Socialist,,4.2,False,False,False
+1912,house,Michigan,MI,11,,Francis O. Lindquist,Republican,,48.24,True,False,False
+1912,house,Michigan,MI,11,,Archie McCall,Democratic,,23.4,False,False,False
+1912,house,Michigan,MI,11,,John W. Patchin,"Progressive Party (US, 1912)",,23.07,False,False,False
+1912,house,Michigan,MI,11,,Harry N. McLean,Socialist,,3.68,False,False,False
+1912,house,Michigan,MI,11,,George A. Chatterton,Prohibition,,1.61,False,False,False
+1912,house,Michigan,MI,12,,William J. MacDonald,"Progressive Party (US, 1912)",,39.27,True,False,False
+1912,house,Michigan,MI,12,,H. Olin Young,Republican,,38.75,False,True,False
+1912,house,Michigan,MI,12,,John Powers,Democratic,,21.99,False,False,False
+1912,house,Michigan,MI,AL,,Patrick H. Kelley,Republican,,36.2,True,False,True
+1912,house,Michigan,MI,AL,,William H. Hill,"Progressive Party (US, 1912)",,34.1,False,False,True
+1912,house,Michigan,MI,AL,,Edward Frensdorf,Democratic,,29.7,False,False,True
+1912,house,Minnesota,MN,1,,Sydney Anderson,Republican,,69.6,True,True,False
+1912,house,Minnesota,MN,1,,Clinton J. Robinson,Democratic,,30.4,False,False,False
+1912,house,Minnesota,MN,2,,Winfield Scott Hammond,Democratic,,50.3,True,True,False
+1912,house,Minnesota,MN,2,,Franklin Fowler Ellsworth,Republican,,44.7,False,False,False
+1912,house,Minnesota,MN,2,,John R. Hollister,Public Ownership,,5.1,False,False,False
+1912,house,Minnesota,MN,3,,Charles Russell Davis,Republican,,61.3,True,True,False
+1912,house,Minnesota,MN,3,,Clinton J. Robinson,Democratic,,32.3,False,False,False
+1912,house,Minnesota,MN,3,,Frank F. Marzahn,Prohibition,,6.4,False,False,False
+1912,house,Minnesota,MN,4,,Frederick Stevens,Republican,,36.8,True,True,False
+1912,house,Minnesota,MN,4,,James J. Regan,Democratic,,27.0,False,False,False
+1912,house,Minnesota,MN,4,,Hugh T. Halbert,"Progressive Party (US, 1912)",,21.9,False,False,False
+1912,house,Minnesota,MN,4,,Albert Rosenquist,Public Ownership,,14.3,False,False,False
+1912,house,Minnesota,MN,5,,George R. Smith,Republican,,44.3,True,False,True
+1912,house,Minnesota,MN,5,,Thomas David Schall,"Progressive Party (US, 1912)",,21.3,False,False,True
+1912,house,Minnesota,MN,5,,Thomas P. Dwyer,Democratic,,17.3,False,False,True
+1912,house,Minnesota,MN,5,,Thomas E. Latimer,Public Ownership,,17.2,False,False,True
+1912,house,Minnesota,MN,6,,Charles Lindbergh,Republican,,62.5,True,True,False
+1912,house,Minnesota,MN,6,,Andrew J. Gilkinson,Democratic,,29.1,False,False,False
+1912,house,Minnesota,MN,6,,Alfred W. Uhl,Public Ownership,,8.3,False,False,False
+1912,house,Minnesota,MN,7,,Andrew Volstead,Republican,,100.0,True,True,False
+1912,house,Minnesota,MN,8,,Clarence B. Miller,Republican,,50.8,True,True,False
+1912,house,Minnesota,MN,8,,John Jenswold,Democratic,,30.9,False,False,False
+1912,house,Minnesota,MN,8,,Morris Kaplan,Public Ownership,,18.3,False,False,False
+1912,house,Minnesota,MN,9,,Halvor Steenerson,Republican,,66.7,True,True,False
+1912,house,Minnesota,MN,9,,Michael A. Brattland,Public Ownership,,33.3,False,False,False
+1912,house,Minnesota,MN,AL,,James Manahan,Republican,,55.1,True,False,True
+1912,house,Minnesota,MN,AL,,Carl Johnson Buell,Democratic,,24.9,False,False,True
+1912,house,Minnesota,MN,AL,,James S. Ingalls,Public Ownership,,10.7,False,False,True
+1912,house,Minnesota,MN,AL,,William G. Calderwood,Prohibition,,9.2,False,False,True
+1912,house,Mississippi,MS,1,,Ezekiel S. Candler Jr.,Democratic,,100.0,True,True,False
+1912,house,Mississippi,MS,2,,Hubert D. Stephens,Democratic,,100.0,True,True,False
+1912,house,Mississippi,MS,3,,Benjamin G. Humphreys II,Democratic,,91.26,True,True,False
+1912,house,Mississippi,MS,3,,F. F. Clark,Unknown,,8.74,False,False,False
+1912,house,Mississippi,MS,4,,Thomas U. Sisson,Democratic,,100.0,True,True,False
+1912,house,Mississippi,MS,5,,Samuel A. Witherspoon,Democratic,,100.0,True,True,False
+1912,house,Mississippi,MS,6,,Pat Harrison,Democratic,,100.0,True,True,False
+1912,house,Mississippi,MS,7,,Percy Quin,Democratic,,100.0,True,False,True
+1912,house,Mississippi,MS,8,,James Collier,Democratic,,100.0,True,True,False
+1912,house,Missouri,MO,1,,James T. Lloyd,Democratic,,53.93,True,True,False
+1912,house,Missouri,MO,1,,Beverly L. Benfoey,Republican,,31.38,False,False,False
+1912,house,Missouri,MO,1,,Arthur B. Warner,"Progressive Party (US, 1912)",,14.69,False,False,False
+1912,house,Missouri,MO,2,,William W. Rucker,Democratic,,57.33,True,True,False
+1912,house,Missouri,MO,2,,Edward F. Haley,Republican,,25.49,False,False,False
+1912,house,Missouri,MO,2,,R. H. Williams,"Progressive Party (US, 1912)",,17.05,False,False,False
+1912,house,Missouri,MO,2,,Clarence E. Campbell,Socialist,,0.13,False,False,False
+1912,house,Missouri,MO,3,,Joshua W. Alexander,Democratic,,52.85,True,True,False
+1912,house,Missouri,MO,3,,James H. Morroway,Republican,,29.31,False,False,False
+1912,house,Missouri,MO,3,,W. Sam Wightman,"Progressive Party (US, 1912)",,17.84,False,False,False
+1912,house,Missouri,MO,4,,Charles F. Booher,Democratic,,53.76,True,True,False
+1912,house,Missouri,MO,4,,Claude V. Hickman,Republican,,29.98,False,False,False
+1912,house,Missouri,MO,4,,Fred P. Robinson,"Progressive Party (US, 1912)",,14.21,False,False,False
+1912,house,Missouri,MO,4,,Edward D. Wilcox,Socialist,,2.05,False,False,False
+1912,house,Missouri,MO,5,,William P. Borland,Democratic,,52.86,True,True,False
+1912,house,Missouri,MO,5,,Charles A. Sumner,"Progressive Party (US, 1912)",,34.61,False,False,False
+1912,house,Missouri,MO,5,,Isaac B. Kimbrell,Republican,,9.12,False,False,False
+1912,house,Missouri,MO,5,,Charles F. Streckhahn,Socialist,,2.57,False,False,False
+1912,house,Missouri,MO,5,,Orange J. Hill,Prohibition,,0.58,False,False,False
+1912,house,Missouri,MO,5,,Karl Oberheu,Socialist Labor,,0.26,False,False,False
+1912,house,Missouri,MO,6,,Clement C. Dickinson,Democratic,,52.24,True,True,False
+1912,house,Missouri,MO,6,,Louis T. Dunaway,Republican,,26.6,False,False,False
+1912,house,Missouri,MO,6,,G. A. Theilmann,"Progressive Party (US, 1912)",,19.86,False,False,False
+1912,house,Missouri,MO,6,,Herman P. Faris,Prohibition,,1.31,False,False,False
+1912,house,Missouri,MO,7,,Courtney W. Hamlin,Democratic,,48.89,True,True,False
+1912,house,Missouri,MO,7,,Theodore C. Owen,Republican,,33.09,False,False,False
+1912,house,Missouri,MO,7,,William W. Blain,"Progressive Party (US, 1912)",,15.41,False,False,False
+1912,house,Missouri,MO,7,,H. N. Schurman,Socialist,,2.61,False,False,False
+1912,house,Missouri,MO,8,,Dorsey W. Shackleford,Democratic,,53.05,True,True,False
+1912,house,Missouri,MO,8,,David W. Peters,Republican,,39.13,False,False,False
+1912,house,Missouri,MO,8,,Morton H. Pemberton,"Progressive Party (US, 1912)",,7.82,False,False,False
+1912,house,Missouri,MO,9,,Champ Clark,Democratic,,56.47,True,True,False
+1912,house,Missouri,MO,9,,William L. Cole,Republican,,42.21,False,False,False
+1912,house,Missouri,MO,9,,George Strattman,Socialist,,1.1,False,False,False
+1912,house,Missouri,MO,9,,Leopold Kolkmeier,Socialist Labor,,0.22,False,False,False
+1912,house,Missouri,MO,10,,Richard Bartholdt,Republican,,37.57,True,True,False
+1912,house,Missouri,MO,10,,William L. Cole,Democratic,,35.29,False,False,False
+1912,house,Missouri,MO,10,,August Siebert,"Progressive Party (US, 1912)",,18.56,False,False,False
+1912,house,Missouri,MO,10,,George Strattman,Socialist,,8.09,False,False,False
+1912,house,Missouri,MO,10,,Leopold Kolkmeier,Socialist Labor,,0.5,False,False,False
+1912,house,Missouri,MO,11,,William L. Igoe,Democratic,,50.41,True,False,False
+1912,house,Missouri,MO,11,,Theron E. Catlin,Republican,,31.93,False,False,False
+1912,house,Missouri,MO,11,,John W. Ward,"Progressive Party (US, 1912)",,12.34,False,False,False
+1912,house,Missouri,MO,11,,Philip H. Mueller,Socialist,,4.97,False,False,False
+1912,house,Missouri,MO,11,,Joseph Scheidler,Socialist Labor,,0.34,False,False,False
+1912,house,Missouri,MO,12,,Michael J. Gill,Democratic,,50.73,True,False,False
+1912,house,Missouri,MO,12,,Leonidas C. Dyer,Republican,,49.27,False,True,False
+1912,house,Missouri,MO,13,,Walter L. Hensley,Democratic,,52.11,True,True,False
+1912,house,Missouri,MO,13,,Simon G. Nipper,Republican,,43.44,False,False,False
+1912,house,Missouri,MO,13,,George W. O'Dam,Socialist,,4.45,False,False,False
+1912,house,Missouri,MO,14,,Joseph J. Russell,Democratic,,46.49,True,True,False
+1912,house,Missouri,MO,14,,George R. Curry,Republican,,44.68,False,False,False
+1912,house,Missouri,MO,14,,Albert F. Bumpas,Socialist,,8.84,False,False,False
+1912,house,Missouri,MO,15,,Perl D. Decker,Democratic,,46.01,True,False,False
+1912,house,Missouri,MO,15,,Isaac V. McPherson,Republican,,28.16,False,False,False
+1912,house,Missouri,MO,15,,Henry H. Gregg,"Progressive Party (US, 1912)",,17.08,False,False,False
+1912,house,Missouri,MO,15,,W. J. Bedingfield,Socialist,,7.02,False,False,False
+1912,house,Missouri,MO,15,,William H. Dalton,Prohibition,,1.31,False,False,False
+1912,house,Missouri,MO,15,,Arthur E. Holbrook,Socialist Labor,,0.42,False,False,False
+1912,house,Missouri,MO,16,,Thomas L. Rubey,Democratic,,52.33,True,True,False
+1912,house,Missouri,MO,16,,James P. O'Bannon,Republican,,35.57,False,False,False
+1912,house,Missouri,MO,16,,Columbus Bradford,"Progressive Party (US, 1912)",,12.1,False,False,False
+1912,house,Montana,MT,AL,,Tom Stout,Democratic,,17.8,True,False,True
+1912,house,Montana,MT,AL,,John M. Evans,Democratic,,16.8,True,False,True
+1912,house,Montana,MT,AL,,Charles N. Pray,Republican,,16.1,False,True,True
+1912,house,Montana,MT,AL,,William Allen,Republican,,13.5,False,False,True
+1912,house,Montana,MT,AL,,Thomas M. Everett,"Progressive Party (US, 1912)",,11.4,False,False,True
+1912,house,Montana,MT,AL,,George A. Horkan,"Progressive Party (US, 1912)",,10.5,False,False,True
+1912,house,Montana,MT,AL,,Henri Labeau,Socialist,,7.0,False,False,True
+1912,house,Montana,MT,AL,,J. Frank Mabie,Socialist,,6.9,False,False,True
+1912,house,Nebraska,NE,1,,John A. Maguire,Democratic,,50.52,True,True,False
+1912,house,Nebraska,NE,1,,Paul F. Clark,Republican,,45.57,False,False,False
+1912,house,Nebraska,NE,1,,C. R. Oyler,Socialist,,2.52,False,False,False
+1912,house,Nebraska,NE,1,,N. A. Carraker,Prohibition,,1.4,False,False,False
+1912,house,Nebraska,NE,2,,Charles O. Lobeck,Democratic,,47.44,True,True,False
+1912,house,Nebraska,NE,2,,Howard H. Baldrige,Republican,,46.22,False,False,False
+1912,house,Nebraska,NE,2,,J. N. Carter,Socialist,,6.33,False,False,False
+1912,house,Nebraska,NE,3,,Dan V. Stephens,Democratic,,53.14,True,True,False
+1912,house,Nebraska,NE,3,,Joseph C. Cook,Republican,,43.92,False,False,False
+1912,house,Nebraska,NE,3,,N. H. Nye,Socialist,,1.85,False,False,False
+1912,house,Nebraska,NE,3,,Henry F. Hockenberger,Prohibition,,1.09,False,False,False
+1912,house,Nebraska,NE,4,,Charles H. Sloan,Republican,,52.98,True,True,False
+1912,house,Nebraska,NE,4,,Charles M. Skiles,Democratic,,43.44,False,False,False
+1912,house,Nebraska,NE,4,,E. E. Olmstead,Socialist,,2.26,False,False,False
+1912,house,Nebraska,NE,4,,L. A. White,Prohibition,,1.32,False,False,False
+1912,house,Nebraska,NE,5,,Silas R. Barton,Republican,,49.04,True,False,True
+1912,house,Nebraska,NE,5,,Roderick D. Sutherland,Democratic,,45.67,False,False,True
+1912,house,Nebraska,NE,5,,W. C. Elliott,Socialist,,3.7,False,False,True
+1912,house,Nebraska,NE,5,,George W. Porter,Prohibition,,1.59,False,False,True
+1912,house,Nebraska,NE,6,,Moses Kinkaid,Republican,,47.51,True,True,False
+1912,house,Nebraska,NE,6,,William J. Taylor,Democratic,,35.54,False,False,False
+1912,house,Nebraska,NE,6,,Florence Armstrong,Prohibition,,9.59,False,False,False
+1912,house,Nebraska,NE,6,,Fred J. Warren,Socialist,,7.21,False,False,False
+1912,house,Nebraska,NE,6,,Lucien Stebbins,"Progressive Party (US, 1912)",,0.16,False,False,False
+1912,house,Nevada,NV,AL,,Edwin E. Roberts,Republican,,37.32,True,True,False
+1912,house,Nevada,NV,AL,,Clay Tallman,Democratic,,36.97,False,False,False
+1912,house,Nevada,NV,AL,,John E. Worden,Socialist,,15.23,False,False,False
+1912,house,Nevada,NV,AL,,George Springmeyer,"Progressive Party (US, 1912)",,10.48,False,False,False
+1912,house,New Hampshire,NH,1,,Eugene E. Reed,Democratic,,45.38,True,False,False
+1912,house,New Hampshire,NH,1,,Cyrus A. Sulloway,Republican,,41.72,False,True,False
+1912,house,New Hampshire,NH,1,,Samuel O. Titus,"Progressive Party (US, 1912)",,10.35,False,False,False
+1912,house,New Hampshire,NH,1,,Michael B. Roth,Socialist,,2.06,False,False,False
+1912,house,New Hampshire,NH,2,,Raymond B. Stevens,Democratic,,53.61,True,False,False
+1912,house,New Hampshire,NH,2,,Frank D. Currier,Republican,,44.18,False,True,False
+1912,house,New Hampshire,NH,2,,Horace W. Spokesfield,Socialist,,1.78,False,False,False
+1912,house,New Jersey,NJ,1,,William J. Browning,Republican,,39.27,True,True,False
+1912,house,New Jersey,NJ,1,,O. Stewart Craven,Democratic,,35.64,False,False,False
+1912,house,New Jersey,NJ,1,,Frank B. Jess,"Progressive Party (US, 1912)",,15.94,False,False,False
+1912,house,New Jersey,NJ,1,,William P. Shrouds,Socialist,,4.95,False,False,False
+1912,house,New Jersey,NJ,1,,George D. Chenoweth,"Progressive Party (US, 1912)",,2.75,False,False,False
+1912,house,New Jersey,NJ,1,,Joseph L. Surtees,Prohibition,,1.45,False,False,False
+1912,house,New Jersey,NJ,2,,J. Thompson Baker,Democratic,,43.13,True,False,False
+1912,house,New Jersey,NJ,2,,John J. Gardner,Republican,,32.97,False,True,False
+1912,house,New Jersey,NJ,2,,Francis D. Potter,"Progressive Party (US, 1912)",,19.74,False,False,False
+1912,house,New Jersey,NJ,2,,Lewis L. Eavenson,Prohibition,,2.16,False,False,False
+1912,house,New Jersey,NJ,2,,G. A. McKeon,Socialist,,2.0,False,False,False
+1912,house,New Jersey,NJ,3,,Thomas J. Scully,Democratic,,56.92,True,True,False
+1912,house,New Jersey,NJ,3,,Benjamin F. Brown,Republican,,39.69,False,False,False
+1912,house,New Jersey,NJ,3,,Thomas J. Scott,Prohibition,,2.0,False,False,False
+1912,house,New Jersey,NJ,3,,Murray S. Schloss,Socialist,,1.4,False,False,False
+1912,house,New Jersey,NJ,4,,Allan B. Walsh,Democratic,,44.96,True,False,True
+1912,house,New Jersey,NJ,4,,William Blackman,Republican,,29.27,False,False,True
+1912,house,New Jersey,NJ,4,,John E. Gill,"Progressive Party (US, 1912)",,22.73,False,False,True
+1912,house,New Jersey,NJ,4,,Frank Gilbert,Socialist,,1.88,False,False,True
+1912,house,New Jersey,NJ,4,,William Lunger,Prohibition,,0.97,False,False,True
+1912,house,New Jersey,NJ,4,,George Yardley,Socialist Labor,,0.19,False,False,True
+1912,house,New Jersey,NJ,5,,William E. Tuttle Jr.,Democratic,,40.07,True,True,False
+1912,house,New Jersey,NJ,5,,William N. Runyon,Republican,,31.34,False,False,False
+1912,house,New Jersey,NJ,5,,Charles W. Ennis,"Progressive Party (US, 1912)",,21.28,False,False,False
+1912,house,New Jersey,NJ,5,,William Amarian Matthews,Socialist,,5.95,False,False,False
+1912,house,New Jersey,NJ,5,,Charles K. Ely,Prohibition,,1.11,False,False,False
+1912,house,New Jersey,NJ,5,,Charles Sandberg,Socialist Labor,,0.25,False,False,False
+1912,house,New Jersey,NJ,6,,Lewis J. Martin,Democratic,,46.48,True,False,True
+1912,house,New Jersey,NJ,6,,Stephen Wood McClave,Republican,,25.57,False,False,True
+1912,house,New Jersey,NJ,6,,Leverett Sage,"Progressive Party (US, 1912)",,21.4,False,False,True
+1912,house,New Jersey,NJ,6,,Frederick Krafft,Socialist,,4.03,False,False,True
+1912,house,New Jersey,NJ,6,,Will D. Martin,Prohibition,,2.52,False,False,True
+1912,house,New Jersey,NJ,7,,Robert G. Bremner,Democratic,,42.19,True,False,True
+1912,house,New Jersey,NJ,7,,Alvin Smith,Republican,,28.15,False,False,True
+1912,house,New Jersey,NJ,7,,Henry Marelli,"Progressive Party (US, 1912)",,20.04,False,False,True
+1912,house,New Jersey,NJ,7,,John Luthringer,Socialist,,6.96,False,False,True
+1912,house,New Jersey,NJ,7,,Rudolph Katz,Socialist Labor,,2.03,False,False,True
+1912,house,New Jersey,NJ,7,,Charles Rowland,Prohibition,,0.63,False,False,True
+1912,house,New Jersey,NJ,8,,Eugene F. Kinkead,Democratic,,52.29,True,False,False
+1912,house,New Jersey,NJ,8,,Harold Bouton,Republican,,35.44,False,False,False
+1912,house,New Jersey,NJ,8,,Robert S. Tew,Independent Republican,,8.44,False,False,False
+1912,house,New Jersey,NJ,8,,George Headley,Socialist,,3.4,False,False,False
+1912,house,New Jersey,NJ,8,,Donald MacMillan,Prohibition,,0.44,False,False,False
+1912,house,New Jersey,NJ,9,,Walter I. McCoy,Democratic,,42.41,True,False,False
+1912,house,New Jersey,NJ,9,,Herman P. Walker,"Progressive Party (US, 1912)",,26.63,False,False,False
+1912,house,New Jersey,NJ,9,,Richard W. Parker,Republican,,24.2,False,False,False
+1912,house,New Jersey,NJ,9,,William E. Bohm,Socialist,,6.05,False,False,False
+1912,house,New Jersey,NJ,9,,John Berryman,Prohibition,,0.72,False,False,False
+1912,house,New Jersey,NJ,10,,Edward W. Townsend,Democratic,,39.57,True,False,False
+1912,house,New Jersey,NJ,10,,William F. Morgan,"Progressive Party (US, 1912)",,28.61,False,False,False
+1912,house,New Jersey,NJ,10,,A. Lincoln Adams,Republican,,25.92,False,False,False
+1912,house,New Jersey,NJ,10,,Alexander Cairns,Socialist,,5.52,False,False,False
+1912,house,New Jersey,NJ,10,,Charles P. Gould,Prohibition,,0.38,False,False,False
+1912,house,New Jersey,NJ,11,,John J. Eagan,Democratic,,62.25,True,False,True
+1912,house,New Jersey,NJ,11,,Harlan Besson,Republican,,30.75,False,False,True
+1912,house,New Jersey,NJ,11,,James M. Reilly,Socialist,,6.26,False,False,True
+1912,house,New Jersey,NJ,11,,John Sweeney,Socialist Labor,,0.42,False,False,True
+1912,house,New Jersey,NJ,11,,Charles P. Gould,Prohibition,,0.32,False,False,True
+1912,house,New Jersey,NJ,12,,James A. Hamill,Democratic,,67.47,True,False,False
+1912,house,New Jersey,NJ,12,,George L. Record,Republican,,30.35,False,False,False
+1912,house,New Jersey,NJ,12,,James Parker,Prohibition,,1.58,False,False,False
+1912,house,New Jersey,NJ,12,,Edward H. Mead,Independent,,0.6,False,False,False
+1912,house,New Mexico,NM,AL,,Harvey B. Fergusson,Democratic,,45.6,True,True,True
+1912,house,New Mexico,NM,AL,,Nathan Jaffa,Republican,,36.9,False,False,True
+1912,house,New Mexico,NM,AL,,Andrew J. Eggum,Socialist,,12.1,False,False,True
+1912,house,New Mexico,NM,AL,,Marcos DeBaca,"Progressive Party (US, 1912)",,5.5,False,False,True
+1912,house,New York,NY,1,,Lathrop Brown,Democratic,,40.74,True,False,True
+1912,house,New York,NY,1,,Frederick C. Hicks,Republican,,29.01,False,False,True
+1912,house,New York,NY,1,,William Bourke Cockran,"Progressive Party (US, 1912)",,27.91,False,False,True
+1912,house,New York,NY,1,,Smith A. Sands,Prohibition,,1.12,False,False,True
+1912,house,New York,NY,1,,Harry W. Paine,Socialist,,0.96,False,False,True
+1912,house,New York,NY,1,,William S. Hotline,Independence,,0.26,False,False,True
+1912,house,New York,NY,2,,Denis O'Leary,Democratic,,57.03,True,False,True
+1912,house,New York,NY,2,,Frank E. Hopkins,Republican,,17.15,False,False,True
+1912,house,New York,NY,2,,Felix Fritsche,"Progressive Party (US, 1912)",,17.72,False,False,True
+1912,house,New York,NY,2,,William Danmar,Socialist,,7.21,False,False,True
+1912,house,New York,NY,2,,George Traeger,Independence,,0.76,False,False,True
+1912,house,New York,NY,2,,George H. Miller,Prohibition,,0.11,False,False,True
+1912,house,New York,NY,3,,Frank E. Wilson,Democratic,,47.98,True,False,False
+1912,house,New York,NY,3,,Frank F. Schulz,Republican,,25.14,False,False,False
+1912,house,New York,NY,3,,Westervelt Prentice,"Progressive Party (US, 1912)",,18.64,False,False,False
+1912,house,New York,NY,3,,John J. Jennings,Socialist,,6.83,False,False,False
+1912,house,New York,NY,3,,David Hunter,Independence,,1.23,False,False,False
+1912,house,New York,NY,3,,James B. Davie,Prohibition,,0.18,False,False,False
+1912,house,New York,NY,4,,Harry H. Dale,Democratic,,47.07,True,False,True
+1912,house,New York,NY,4,,William Liebermann,Republican,,18.57,False,False,True
+1912,house,New York,NY,4,,Samuel Greenblatt,"Progressive Party (US, 1912)",,26.7,False,False,True
+1912,house,New York,NY,4,,Robert J. Nolan,Socialist,,7.49,False,False,True
+1912,house,New York,NY,4,,Conrad H. Palmateer,Prohibition,,0.17,False,False,True
+1912,house,New York,NY,5,,James P. Maher,Democratic,,45.98,True,False,True
+1912,house,New York,NY,5,,John S. Gaynor,Republican,,28.23,False,False,True
+1912,house,New York,NY,5,,Charles J. Ryan,"Progressive Party (US, 1912)",,21.31,False,False,True
+1912,house,New York,NY,5,,Hugh O'Malley,Socialist,,3.39,False,False,True
+1912,house,New York,NY,5,,William N. Morrison,Independence,,0.88,False,False,True
+1912,house,New York,NY,5,,Preston E. Terry,Prohibition,,0.22,False,False,True
+1912,house,New York,NY,6,,William M. Calder,Republican,,47.94,True,True,False
+1912,house,New York,NY,6,,Robert H. Roy,Democratic,,29.38,False,False,False
+1912,house,New York,NY,6,,Jesse Fuller,"Progressive Party (US, 1912)",,20.58,False,False,False
+1912,house,New York,NY,6,,Browne C. Hammond,Socialist,,1.85,False,False,False
+1912,house,New York,NY,6,,John Berry,Prohibition,,0.25,False,False,False
+1912,house,New York,NY,7,,John J. Fitzgerald,Democratic,,59.12,True,True,False
+1912,house,New York,NY,7,,Michael A. Fitzgerald,Independence,,20.27,False,False,False
+1912,house,New York,NY,7,,John E. Brady,Republican,,18.46,False,False,False
+1912,house,New York,NY,7,,Henry Crygier,Socialist,,1.92,False,False,False
+1912,house,New York,NY,7,,John McKee,Prohibition,,0.24,False,False,False
+1912,house,New York,NY,8,,Daniel J. Griffin,Democratic,,59.12,True,False,True
+1912,house,New York,NY,8,,Albert H. T. Banzhaf,"Progressive Party (US, 1912)",,26.49,False,False,True
+1912,house,New York,NY,8,,Ernest P. Seelman,Republican,,18.0,False,False,True
+1912,house,New York,NY,8,,Fred L. Lackemacher,Socialist,,3.22,False,False,True
+1912,house,New York,NY,8,,Frank C. Foster,Prohibition,,0.3,False,False,True
+1912,house,New York,NY,9,,James H. O'Brien,Democratic,,40.95,True,False,True
+1912,house,New York,NY,9,,John F. Kennedy,"Progressive Party (US, 1912)",,26.69,False,False,True
+1912,house,New York,NY,9,,Oscar W. Swift,Republican,,26.07,False,False,True
+1912,house,New York,NY,9,,William Koenig,Socialist,,5.22,False,False,True
+1912,house,New York,NY,9,,Robert Strahl,Independence,,1.07,False,False,True
+1912,house,New York,NY,10,,Herman A. Metz,Democratic,,36.64,True,False,True
+1912,house,New York,NY,10,,Jacob L. Holtzmann,"Progressive Party (US, 1912)",,28.93,False,False,True
+1912,house,New York,NY,10,,Reuben L. Haskell,Republican,,25.42,False,False,True
+1912,house,New York,NY,10,,Barnet Wolff,Socialist,,8.77,False,False,True
+1912,house,New York,NY,10,,George M. Davison,Prohibition,,0.17,False,False,True
+1912,house,New York,NY,10,,John O. Nelson,Workingmen's,,0.07,False,False,True
+1912,house,New York,NY,11,,Daniel J. Riordan,Democratic,,60.1,True,False,True
+1912,house,New York,NY,11,,William Wirt Mills,"Progressive Party (US, 1912)",,21.71,False,False,True
+1912,house,New York,NY,11,,William G. Rose,Republican,,15.9,False,False,True
+1912,house,New York,NY,11,,John H. W. Nagle,Socialist,,1.7,False,False,True
+1912,house,New York,NY,11,,William T. Magrath,Prohibition,,0.59,False,False,True
+1912,house,New York,NY,12,,Henry M. Goldfogle,Democratic,,39.32,True,False,False
+1912,house,New York,NY,12,,Meyer London,Socialist,,31.22,False,False,False
+1912,house,New York,NY,12,,Henry Moskowitz,"Progressive Party (US, 1912)",,22.28,False,False,False
+1912,house,New York,NY,12,,Alexander Wolf,Republican,,7.18,False,False,False
+1912,house,New York,NY,13,,Timothy Sullivan,Democratic,,50.59,True,False,True
+1912,house,New York,NY,13,,Sigmund S. Rotter,"Progressive Party (US, 1912)",,32.1,False,False,True
+1912,house,New York,NY,13,,John B.G. Rinehart,Republican,,10.22,False,False,True
+1912,house,New York,NY,13,,Joshua Wanhope,Socialist,,7.02,False,False,True
+1912,house,New York,NY,13,,Richard Granville Green,Prohibition,,0.07,False,False,True
+1912,house,New York,NY,14,,Jefferson M. Levy,Democratic,,49.39,True,False,True
+1912,house,New York,NY,14,,Abraham Goodman,"Progressive Party (US, 1912)",,24.59,False,False,True
+1912,house,New York,NY,14,,E. Crosby Kindleberger,Republican,,19.14,False,False,True
+1912,house,New York,NY,14,,Marie MacDonald,Socialist,,5.29,False,False,True
+1912,house,New York,NY,14,,James W. Conners,Independence,,1.12,False,False,True
+1912,house,New York,NY,14,,Henry B. Martin,Other,,0.4,False,False,True
+1912,house,New York,NY,14,,Charles H. Simmons,Prohibition,,0.08,False,False,True
+1912,house,New York,NY,15,,Michael F. Conry,Democratic,,61.71,True,False,False
+1912,house,New York,NY,15,,James H. Hickey,"Progressive Party (US, 1912)",,17.61,False,False,False
+1912,house,New York,NY,15,,Francis A. O'Neill,Republican,,17.35,False,False,False
+1912,house,New York,NY,15,,John Mullen,Socialist,,2.32,False,False,False
+1912,house,New York,NY,16,,Peter J. Dooling,Democratic,,56.31,True,False,True
+1912,house,New York,NY,16,,Francis C. Dale,Republican,,22.2,False,False,True
+1912,house,New York,NY,16,,Timothy Healy,"Progressive Party (US, 1912)",,18.8,False,False,True
+1912,house,New York,NY,16,,Thomas O'Byrne,Socialist,,2.55,False,False,True
+1912,house,New York,NY,16,,Charles Manierre,Prohibition,,0.15,False,False,True
+1912,house,New York,NY,17,,John F. Carew,Democratic,,51.78,True,False,True
+1912,house,New York,NY,17,,Lindon Bates Jr.,"Progressive Party (US, 1912)",,23.13,False,False,True
+1912,house,New York,NY,17,,Ogden L. Mills,Republican,,20.51,False,False,True
+1912,house,New York,NY,17,,John A. Wall,Socialist,,4.5,False,False,True
+1912,house,New York,NY,17,,John B. Stark,Prohibition,,0.08,False,False,True
+1912,house,New York,NY,18,,Thomas G. Patten,Democratic,,50.02,True,False,False
+1912,house,New York,NY,18,,Amos Pinchot,"Progressive Party (US, 1912)",,24.25,False,False,False
+1912,house,New York,NY,18,,S. Walter Kaufman,Republican,,18.04,False,False,False
+1912,house,New York,NY,18,,Algernon Lee,Socialist,,7.61,False,False,False
+1912,house,New York,NY,18,,Elzey E. Meacham,Prohibition,,0.08,False,False,False
+1912,house,New York,NY,19,,Walter M. Chandler,"Progressive Party (US, 1912)",,39.18,True,False,True
+1912,house,New York,NY,19,,"Franklin Leonard, Jr.",Democratic,,38.34,False,False,True
+1912,house,New York,NY,19,,Alexander Brough,Republican,,19.9,False,False,True
+1912,house,New York,NY,19,,Jeremiah C. Frost,Socialist,,2.45,False,False,True
+1912,house,New York,NY,19,,John G. Tait,Prohibition,,0.13,False,False,True
+1912,house,New York,NY,20,,Francis Burton Harrison,Democratic,,41.72,True,False,True
+1912,house,New York,NY,20,,Julius H. Reiter,"Progressive Party (US, 1912)",,37.51,False,False,True
+1912,house,New York,NY,20,,Abram Goodman,Republican,,12.75,False,False,True
+1912,house,New York,NY,20,,Nicholas Aleinikoff,Socialist,,7.96,False,False,True
+1912,house,New York,NY,20,,Herbert D. Burnham,Prohibition,,0.06,False,False,True
+1912,house,New York,NY,21,,Henry George Jr.,Democratic,,47.04,True,False,True
+1912,house,New York,NY,21,,Jerome F. Reilly,"Progressive Party (US, 1912)",,29.9,False,False,True
+1912,house,New York,NY,21,,Martin C. Ansorge,Republican,,18.78,False,False,True
+1912,house,New York,NY,21,,Miles B. Bartholemew,Socialist,,4.15,False,False,True
+1912,house,New York,NY,21,,Edward A. Packer,Prohibition,,0.13,False,False,True
+1912,house,New York,NY,22,,Henry Bruckner,Democratic,,47.68,True,False,True
+1912,house,New York,NY,22,,Irving M. Crane,"Progressive Party (US, 1912)",,28.4,False,False,True
+1912,house,New York,NY,22,,Rufus P. Johnson,Republican,,18.3,False,False,True
+1912,house,New York,NY,22,,Charles Gall,Socialist,,5.51,False,False,True
+1912,house,New York,NY,22,,William M. Hess,Prohibition,,0.12,False,False,True
+1912,house,New York,NY,23,,Joseph A. Goulden,Democratic,,44.25,True,False,False
+1912,house,New York,NY,23,,Edward J. Raldiris,"Progressive Party (US, 1912)",,30.12,False,False,False
+1912,house,New York,NY,23,,Peter Wynne,Republican,,20.11,False,False,False
+1912,house,New York,NY,23,,Frederick Paulitsch,Socialist,,5.38,False,False,False
+1912,house,New York,NY,23,,Hans P. Freece,Prohibition,,0.15,False,False,False
+1912,house,New York,NY,24,,Woodson R. Oglesby,Democratic,,44.05,True,False,True
+1912,house,New York,NY,24,,Alfred E. Smith,"Progressive Party (US, 1912)",,30.92,False,False,True
+1912,house,New York,NY,24,,Barton E. Kingman,Republican,,20.34,False,False,True
+1912,house,New York,NY,24,,Allan L. Benson,Socialist,,4.37,False,False,True
+1912,house,New York,NY,24,,Peter Lindemann,Prohibition,,0.32,False,False,True
+1912,house,New York,NY,25,,Benjamin I. Taylor,Democratic,,42.16,True,False,False
+1912,house,New York,NY,25,,James W. Husted,Republican,,32.65,False,False,False
+1912,house,New York,NY,25,,John C. Bucher,"Progressive Party (US, 1912)",,22.32,False,False,False
+1912,house,New York,NY,25,,Herman Kobbe,Socialist,,2.05,False,False,False
+1912,house,New York,NY,25,,Louis W. Elliott,Prohibition,,0.83,False,False,False
+1912,house,New York,NY,26,,Edmund Platt,Republican,,44.49,True,False,True
+1912,house,New York,NY,26,,John K. Sague,Democratic,,43.57,False,False,True
+1912,house,New York,NY,26,,Augustus B. Gray,"Progressive Party (US, 1912)",,9.53,False,False,True
+1912,house,New York,NY,26,,Mitchell Downing,Prohibition,,1.1,False,False,True
+1912,house,New York,NY,26,,Harry Schefer,Socialist,,1.04,False,False,True
+1912,house,New York,NY,26,,Luther Brooks,Independence,,0.26,False,False,True
+1912,house,New York,NY,27,,George McClellan,Democratic,,48.3,True,False,True
+1912,house,New York,NY,27,,Charles B. Ward,Republican,,38.9,False,False,True
+1912,house,New York,NY,27,,Horatio Seymour Manning,"Progressive Party (US, 1912)",,9.72,False,False,True
+1912,house,New York,NY,27,,Platt N. Chase,Prohibition,,2.16,False,False,True
+1912,house,New York,NY,27,,Eugene Daurner,Socialist,,0.92,False,False,True
+1912,house,New York,NY,28,,Peter G. Ten Eyck,Democratic,,44.1,True,False,True
+1912,house,New York,NY,28,,Daniel H. Prior,Republican,,43.88,False,False,True
+1912,house,New York,NY,28,,Joseph F. McLaughlin,"Progressive Party (US, 1912)",,9.35,False,False,True
+1912,house,New York,NY,28,,Fred L. Arland,Socialist,,1.5,False,False,True
+1912,house,New York,NY,28,,Jay W. Forrest,Independent,,0.77,False,False,True
+1912,house,New York,NY,28,,Abram J. Negus,Prohibition,,0.41,False,False,True
+1912,house,New York,NY,29,,James S. Parker,Republican,,43.99,True,False,True
+1912,house,New York,NY,29,,Milton K. Huppuch,Democratic,,35.78,False,False,True
+1912,house,New York,NY,29,,"Frederick E. Draper, Jr.","Progressive Party (US, 1912)",,16.07,False,False,True
+1912,house,New York,NY,29,,John Q. Reynolds,Socialist,,2.4,False,False,True
+1912,house,New York,NY,29,,George H. Northrup,Prohibition,,1.77,False,False,True
+1912,house,New York,NY,30,,Samuel Wallin,Republican,,33.08,True,False,True
+1912,house,New York,NY,30,,"R. E. ""Lee"" Reynolds",Democratic,,32.35,False,False,True
+1912,house,New York,NY,30,,George R. Lunn,Socialist,,22.07,False,False,True
+1912,house,New York,NY,30,,Edward Everett Hale,"Progressive Party (US, 1912)",,11.0,False,False,True
+1912,house,New York,NY,30,,Lyman B. Thompson,Prohibition,,1.5,False,False,True
+1912,house,New York,NY,31,,Edwin A. Merritt,Republican,,46.82,True,False,False
+1912,house,New York,NY,31,,Dennis B. Lucey,Democratic,,32.96,False,False,False
+1912,house,New York,NY,31,,John R. Burnham,"Progressive Party (US, 1912)",,20.22,False,False,False
+1912,house,New York,NY,32,,Luther W. Mott,Republican,,45.57,True,False,False
+1912,house,New York,NY,32,,Robert E. Gregg,Democratic,,33.42,False,False,False
+1912,house,New York,NY,32,,William W. Kelley,"Progressive Party (US, 1912)",,18.83,False,False,False
+1912,house,New York,NY,32,,Oliver Curtis,Socialist,,2.18,False,False,False
+1912,house,New York,NY,33,,Charles A. Talcott,Democratic,,38.04,True,False,False
+1912,house,New York,NY,33,,Homer P. Snyder,Republican,,35.58,False,False,False
+1912,house,New York,NY,33,,Benjamin Thorne Gilbert,"Progressive Party (US, 1912)",,21.44,False,False,False
+1912,house,New York,NY,33,,Arthur L. Byron-Curtiss,Socialist,,3.58,False,False,False
+1912,house,New York,NY,33,,Frank B. Severance,Prohibition,,1.36,False,False,False
+1912,house,New York,NY,34,,George W. Fairchild,Republican,,43.78,True,False,False
+1912,house,New York,NY,34,,"James J. Bayard, Jr.",Democratic,,40.31,False,False,False
+1912,house,New York,NY,34,,Jared C. Estleow,"Progressive Party (US, 1912)",,11.05,False,False,False
+1912,house,New York,NY,34,,Frank Dewitt Reese,Prohibition,,3.27,False,False,False
+1912,house,New York,NY,34,,John Evans Scudder,Socialist,,1.59,False,False,False
+1912,house,New York,NY,35,,John R. Clancy,Democratic,,35.35,True,False,False
+1912,house,New York,NY,35,,Michael E. Driscoll,Republican,,35.08,False,False,False
+1912,house,New York,NY,35,,Giles H. Stilwell,"Progressive Party (US, 1912)",,22.82,False,False,False
+1912,house,New York,NY,35,,Fred Sander,Socialist,,4.76,False,False,False
+1912,house,New York,NY,35,,John Richards,Prohibition,,1.99,False,False,False
+1912,house,New York,NY,36,,Sereno E. Payne,Republican,,42.21,True,False,False
+1912,house,New York,NY,36,,Richard C. Drummond,Democratic,,36.67,False,False,False
+1912,house,New York,NY,36,,Wilson M. Gould,"Progressive Party (US, 1912)",,16.7,False,False,False
+1912,house,New York,NY,36,,J. J. Tillapaugh,Prohibition,,2.31,False,False,False
+1912,house,New York,NY,36,,John H. Vander Bosch,Socialist,,2.1,False,False,False
+1912,house,New York,NY,37,,Edwin S. Underhill,Democratic,,39.92,True,False,False
+1912,house,New York,NY,37,,Thomas F. Fennell,Republican,,37.48,False,False,False
+1912,house,New York,NY,37,,Wiley W. Capron,"Progressive Party (US, 1912)",,16.13,False,False,False
+1912,house,New York,NY,37,,Martin A. Tuttle,Prohibition,,3.93,False,False,False
+1912,house,New York,NY,37,,Joseph P. Burris,Socialist,,2.54,False,False,False
+1912,house,New York,NY,38,,Thomas B. Dunn,Republican,,35.42,True,False,True
+1912,house,New York,NY,38,,George P. Decker,Democratic,,32.42,False,False,True
+1912,house,New York,NY,38,,A. Emerson Babcock,"Progressive Party (US, 1912)",,25.15,False,False,True
+1912,house,New York,NY,38,,Kendrick P. Shedd,Socialist,,5.97,False,False,True
+1912,house,New York,NY,38,,D. Marvin Filkins,Prohibition,,1.05,False,False,True
+1912,house,New York,NY,39,,Henry G. Danforth,Republican,,39.06,True,False,False
+1912,house,New York,NY,39,,Charles Ward,Democratic,,33.93,False,False,False
+1912,house,New York,NY,39,,Silas L. Strivings,"Progressive Party (US, 1912)",,22.76,False,False,False
+1912,house,New York,NY,39,,Perry A. Carpenter,Prohibition,,2.24,False,False,False
+1912,house,New York,NY,39,,John E. O'Rourke,Socialist,,2.02,False,False,False
+1912,house,New York,NY,40,,Robert H. Gittins,Democratic,,37.51,True,False,False
+1912,house,New York,NY,40,,James S. Simmons,Republican,,33.74,False,False,False
+1912,house,New York,NY,40,,Frank C. Ferguson,"Progressive Party (US, 1912)",,23.09,False,False,False
+1912,house,New York,NY,40,,James F. Ryan,Socialist,,4.23,False,False,False
+1912,house,New York,NY,40,,William Van R. Blighton,Prohibition,,1.42,False,False,False
+1912,house,New York,NY,41,,Charles Bennett Smith,Democratic,,40.48,True,False,False
+1912,house,New York,NY,41,,George A. Davis,Republican,,26.08,False,False,False
+1912,house,New York,NY,41,,Henry Kobler,"Progressive Party (US, 1912)",,25.79,False,False,False
+1912,house,New York,NY,41,,"Edward Simon, Jr.",Socialist,,6.88,False,False,False
+1912,house,New York,NY,41,,James H. Allen,Prohibition,,0.78,False,False,False
+1912,house,New York,NY,42,,Daniel A. Driscoll,Democratic,,45.7,True,False,False
+1912,house,New York,NY,42,,Willard H. Ticknor,Republican,,26.5,False,False,False
+1912,house,New York,NY,42,,L. Bradley Dorr,"Progressive Party (US, 1912)",,22.04,False,False,False
+1912,house,New York,NY,42,,Samuel Leary,Socialist,,4.96,False,False,False
+1912,house,New York,NY,42,,Vernon M. Stone,Prohibition,,0.8,False,False,False
+1912,house,New York,NY,43,,Charles M. Hamilton,Republican,,37.91,True,False,True
+1912,house,New York,NY,43,,Manton M. Wyvell,Democratic,,27.27,False,False,True
+1912,house,New York,NY,43,,Samuel A. Carlson,"Progressive Party (US, 1912)",,25.59,False,False,True
+1912,house,New York,NY,43,,Fred T. Williams,Socialist,,4.69,False,False,True
+1912,house,New York,NY,43,,Charles E. Welch,Prohibition,,4.55,False,False,True
+1912,house,North Carolina,NC,1,,John H. Small,Democratic,,98.41,True,True,False
+1912,house,North Carolina,NC,1,,Marshall D. Leggitt,Republican,,1.59,False,False,False
+1912,house,North Carolina,NC,2,,Claude Kitchin,Democratic,,91.85,True,True,False
+1912,house,North Carolina,NC,2,,Thomas B. Brown,Republican,,8.13,False,False,False
+1912,house,North Carolina,NC,2,,A. J. Connor,Unknown,,0.02,False,False,False
+1912,house,North Carolina,NC,3,,John M. Faison,Democratic,,65.8,True,True,False
+1912,house,North Carolina,NC,3,,Thomas B. Brown,Republican,,34.2,False,False,False
+1912,house,North Carolina,NC,3,,Rodolph Duffy,Independent,,0.01,False,False,False
+1912,house,North Carolina,NC,4,,Edward W. Pou,Democratic,,79.49,True,True,False
+1912,house,North Carolina,NC,4,,John F. Mitchell,Republican,,20.5,False,False,False
+1912,house,North Carolina,NC,5,,Charles M. Stedman,Democratic,,56.13,True,True,False
+1912,house,North Carolina,NC,5,,C. W. Curry,Republican,,42.6,False,False,False
+1912,house,North Carolina,NC,5,,George R. Greene,Socialist,,1.25,False,False,False
+1912,house,North Carolina,NC,5,,David H. Blair,"Progressive Party (US, 1912)",,0.02,False,False,False
+1912,house,North Carolina,NC,6,,Hannibal L. Godwin,Democratic,,98.63,True,True,False
+1912,house,North Carolina,NC,6,,Thomas A. Norment,Independent Republican,,1.37,False,False,False
+1912,house,North Carolina,NC,7,,Robert N. Page,Democratic,,58.94,True,True,False
+1912,house,North Carolina,NC,7,,R. Don Laws,Republican,,41.05,False,False,False
+1912,house,North Carolina,NC,8,,Robert L. Doughton,Democratic,,55.59,True,True,False
+1912,house,North Carolina,NC,8,,George D.B. Reynolds,Republican,,44.23,False,False,False
+1912,house,North Carolina,NC,8,,W. H. Jenkins,Socialist,,0.11,False,False,False
+1912,house,North Carolina,NC,8,,E. P. Deal,Prohibition,,0.06,False,False,False
+1912,house,North Carolina,NC,9,,E. Yates Webb,Democratic,,62.66,True,True,False
+1912,house,North Carolina,NC,9,,John A. Smith,"Progressive Party (US, 1912)",,29.03,False,False,False
+1912,house,North Carolina,NC,9,,D. B. Paul,Republican,,8.3,False,False,False
+1912,house,North Carolina,NC,10,,James M. Gudger Jr.,Democratic,,53.05,True,True,False
+1912,house,North Carolina,NC,10,,R. Hilliard Staton,Republican,,46.67,False,False,False
+1912,house,North Carolina,NC,10,,James B. White,Socialist,,0.28,False,False,False
+1912,house,North Carolina,NC,10,,Pearson,Independent,,0.01,False,False,False
+1912,house,North Dakota,ND,1,,Henry T. Helgesen,Republican,,61.11,True,False,False
+1912,house,North Dakota,ND,1,,Verner E. Lovell,Democratic,,34.23,False,False,False
+1912,house,North Dakota,ND,1,,Leon Durocher,Socialist,,4.67,False,False,False
+1912,house,North Dakota,ND,2,,George M. Young,Republican,,64.4,True,False,True
+1912,house,North Dakota,ND,2,,J. A. Minckler,Democratic,,28.28,False,False,True
+1912,house,North Dakota,ND,2,,John A. Yoder,Socialist,,7.32,False,False,True
+1912,house,North Dakota,ND,3,,Patrick Norton,Republican,,50.74,True,False,True
+1912,house,North Dakota,ND,3,,Halvor L. Halvorson,Democratic,,28.66,False,False,True
+1912,house,North Dakota,ND,3,,Arthur LeSueur,Socialist,,20.61,False,False,True
+1912,house,Ohio,OH,1,,Stanley E. Bowdle,Democratic,,41.99,True,False,False
+1912,house,Ohio,OH,1,,Nicholas Longworth,Republican,,41.8,False,True,False
+1912,house,Ohio,OH,1,,Millard F. Andrew,"Progressive Party (US, 1912)",,10.85,False,False,False
+1912,house,Ohio,OH,1,,Lawrence A. Zitt,Socialist,,5.36,False,False,False
+1912,house,Ohio,OH,2,,Alfred G. Allen,Democratic,,46.6,True,True,False
+1912,house,Ohio,OH,2,,Otto J. Renner,Republican,,37.74,False,False,False
+1912,house,Ohio,OH,2,,William B. Hay,"Progressive Party (US, 1912)",,8.83,False,False,False
+1912,house,Ohio,OH,2,,R. S. Moore,Socialist,,6.83,False,False,False
+1912,house,Ohio,OH,3,,Warren Gard,Democratic,,42.94,True,False,True
+1912,house,Ohio,OH,3,,Bert B. Buckley,Republican,,24.66,False,False,True
+1912,house,Ohio,OH,3,,Frederick G. Strickland,Socialist,,20.53,False,False,True
+1912,house,Ohio,OH,3,,Alfred G. Pease,"Progressive Party (US, 1912)",,11.21,False,False,True
+1912,house,Ohio,OH,3,,Jasper Huffman,Prohibition,,0.66,False,False,True
+1912,house,Ohio,OH,4,,J. Henry Goeke,Democratic,,53.79,True,True,False
+1912,house,Ohio,OH,4,,John L. Cable,Republican,,25.67,False,False,False
+1912,house,Ohio,OH,4,,William E. Rudy,"Progressive Party (US, 1912)",,12.48,False,False,False
+1912,house,Ohio,OH,4,,Scott Williams,Socialist,,5.33,False,False,False
+1912,house,Ohio,OH,4,,W. Rollo Boehringer,Prohibition,,2.73,False,False,False
+1912,house,Ohio,OH,5,,Timothy T. Ansberry,Democratic,,64.01,True,True,False
+1912,house,Ohio,OH,5,,Edward Staley,Republican,,32.42,False,False,False
+1912,house,Ohio,OH,5,,George W. Kirk,Socialist,,3.57,False,False,False
+1912,house,Ohio,OH,6,,Simeon D. Fess,Republican,,49.19,True,False,True
+1912,house,Ohio,OH,6,,D. K. Hempstead,Democratic,,47.04,False,False,True
+1912,house,Ohio,OH,6,,G. D. Vandervort,Socialist,,3.76,False,False,True
+1912,house,Ohio,OH,7,,James D. Post,Democratic,,46.69,True,True,False
+1912,house,Ohio,OH,7,,R. M. Hughey,Republican,,44.99,False,False,False
+1912,house,Ohio,OH,7,,Winfield S. Tibbetts,Socialist,,7.26,False,False,False
+1912,house,Ohio,OH,7,,Gustavus P. Raup,Prohibition,,1.06,False,False,False
+1912,house,Ohio,OH,8,,Frank B. Willis,Republican,,43.84,True,True,False
+1912,house,Ohio,OH,8,,W. W. Durbin,Democratic,,40.64,False,False,False
+1912,house,Ohio,OH,8,,Lemuel G. Herbert,"Progressive Party (US, 1912)",,12.28,False,False,False
+1912,house,Ohio,OH,8,,Arthur G. Parthemer,Socialist,,3.24,False,False,False
+1912,house,Ohio,OH,9,,Isaac R. Sherwood,Democratic,,53.28,True,True,False
+1912,house,Ohio,OH,9,,Holland C. Webster,Republican,,35.13,False,False,False
+1912,house,Ohio,OH,9,,Thomas C. Devine,Socialist,,11.59,False,False,False
+1912,house,Ohio,OH,10,,Robert M. Switzer,Republican,,37.07,True,True,False
+1912,house,Ohio,OH,10,,Charles M. Caldwell,Democratic,,36.58,False,False,False
+1912,house,Ohio,OH,10,,William E. Pricer,"Progressive Party (US, 1912)",,19.32,False,False,False
+1912,house,Ohio,OH,10,,William Miller,Socialist,,7.03,False,False,False
+1912,house,Ohio,OH,11,,Horatio C. Claypool,Democratic,,49.12,True,True,False
+1912,house,Ohio,OH,11,,Albert Douglas,Republican,,42.83,False,False,False
+1912,house,Ohio,OH,11,,Albert Smith,Socialist,,8.05,False,False,False
+1912,house,Ohio,OH,12,,Clement L. Brumbaugh,Democratic,,52.27,True,False,False
+1912,house,Ohio,OH,12,,Edward L. Taylor Jr.,Republican,,31.53,False,True,False
+1912,house,Ohio,OH,12,,Jacob L. Bachman,Socialist,,15.24,False,False,False
+1912,house,Ohio,OH,12,,John R. Schmidt,Prohibition,,0.97,False,False,False
+1912,house,Ohio,OH,13,,John A. Key,Democratic,,50.31,True,False,True
+1912,house,Ohio,OH,13,,Miles H. McLaughlin,Republican,,24.82,False,False,True
+1912,house,Ohio,OH,13,,Benjamin F. Scheidler,"Progressive Party (US, 1912)",,12.92,False,False,True
+1912,house,Ohio,OH,13,,George P. Maxwell,Socialist,,11.96,False,False,True
+1912,house,Ohio,OH,14,,William G. Sharp,Democratic,,59.04,True,True,False
+1912,house,Ohio,OH,14,,Winfield S. Kerr,Republican,,32.71,False,False,False
+1912,house,Ohio,OH,14,,George A. Storck,Socialist,,8.26,False,False,False
+1912,house,Ohio,OH,15,,George White,Democratic,,43.91,True,True,False
+1912,house,Ohio,OH,15,,James Joyce,Republican,,35.47,False,False,False
+1912,house,Ohio,OH,15,,Howard E. Buker,"Progressive Party (US, 1912)",,12.01,False,False,False
+1912,house,Ohio,OH,15,,Frank B. Martin,Socialist,,7.33,False,False,False
+1912,house,Ohio,OH,15,,James T. Orr,Prohibition,,1.28,False,False,False
+1912,house,Ohio,OH,16,,William B. Francis,Democratic,,43.91,True,True,False
+1912,house,Ohio,OH,16,,David Hollingsworth,Republican,,35.47,False,False,False
+1912,house,Ohio,OH,16,,Robert Carson,"Progressive Party (US, 1912)",,12.01,False,False,False
+1912,house,Ohio,OH,17,,William A. Ashbrook,Democratic,,72.09,True,True,False
+1912,house,Ohio,OH,17,,Albert R. Milner,"Progressive Party (US, 1912)",,16.7,False,False,False
+1912,house,Ohio,OH,17,,Dan McCarton,Socialist,,11.21,False,False,False
+1912,house,Ohio,OH,18,,John J. Whitacre,Democratic,,43.6,True,True,False
+1912,house,Ohio,OH,18,,Roscoe C. McCullough,Republican,,42.53,False,False,False
+1912,house,Ohio,OH,18,,George F. Lelansky,Socialist,,13.87,False,False,False
+1912,house,Ohio,OH,19,,Ellsworth R. Bathrick,Democratic,,35.86,True,True,False
+1912,house,Ohio,OH,19,,W. S. Harris,"Progressive Party (US, 1912)",,28.4,False,False,False
+1912,house,Ohio,OH,19,,Hiram G. Starkey,Republican,,20.5,False,False,False
+1912,house,Ohio,OH,19,,C. E. Sheplin,Socialist,,13.82,False,False,False
+1912,house,Ohio,OH,19,,Nathan Johnson,Prohibition,,1.42,False,False,False
+1912,house,Ohio,OH,20,,William Gordon,Democratic,,40.27,True,False,False
+1912,house,Ohio,OH,20,,Frank W. Woods,"Progressive Party (US, 1912)",,30.05,False,False,False
+1912,house,Ohio,OH,20,,L. Paul Howland,Republican,,21.03,False,True,False
+1912,house,Ohio,OH,20,,John G. Willett,Socialist,,8.65,False,False,False
+1912,house,Ohio,OH,21,,Robert J. Bulkley,Democratic,,42.88,True,True,False
+1912,house,Ohio,OH,21,,Augustus R. Hatton,"Progressive Party (US, 1912)",,28.45,False,False,False
+1912,house,Ohio,OH,21,,Frederick L. Taft,Republican,,18.22,False,False,False
+1912,house,Ohio,OH,21,,Fred C. Ruppel,Socialist,,10.46,False,False,False
+1912,house,Oklahoma,OK,1,42260,Bird S. McGuire,Republican,19035,45.0,True,True,False
+1912,house,Oklahoma,OK,1,42260,John J. Davis,Democratic,18456,43.6,False,False,False
+1912,house,Oklahoma,OK,1,42260,Achilles W. Renshaw,Socialist,,10.5,False,False,False
+1912,house,Oklahoma,OK,1,42260,Thomas P. Hopley,Prohibition,322,0.7,False,False,False
+1912,house,Oklahoma,OK,2,50258,Dick T. Morgan,Republican,24349,43.8,True,True,False
+1912,house,Oklahoma,OK,2,50258,J. J. Carney,Democratic,18456,42.7,False,False,False
+1912,house,Oklahoma,OK,2,50258,P. D. McKenzie,Socialist,7453,13.4,False,False,False
+1912,house,Oklahoma,OK,3,54894,James S. Davenport,Democratic,27184,49.5,True,True,False
+1912,house,Oklahoma,OK,3,54894,R. T. Daniel,Republican,20884,38.0,False,False,False
+1912,house,Oklahoma,OK,3,54894,Lewis B. Irvin,Socialist,,11.7,False,False,False
+1912,house,Oklahoma,OK,3,54894,H. L. Storm,Independent,363,0.6,False,False,False
+1912,house,Oklahoma,OK,4,46729,Charles D. Carter,Democratic,23987,51.3,True,True,False
+1912,house,Oklahoma,OK,4,46729,E. N. Wright,Republican,11421,24.4,False,False,False
+1912,house,Oklahoma,OK,4,46729,Fred W. Holt,Socialist,,24.2,False,False,False
+1912,house,Oklahoma,OK,5,52594,Scott Ferris,Democratic,29574,56.2,True,True,False
+1912,house,Oklahoma,OK,5,52594,C. O. Clark,Republican,11987,22.7,False,False,False
+1912,house,Oklahoma,OK,5,52594,H. H. Stallard,Socialist,11033,20.9,False,False,False
+1912,house,Oklahoma,OK,AL,,William H. Murray,Democratic,,16.2,True,False,True
+1912,house,Oklahoma,OK,AL,,Claude Weaver,Democratic,,16.2,True,False,True
+1912,house,Oklahoma,OK,AL,,Joseph B. Thompson,Democratic,,16.1,True,False,True
+1912,house,Oklahoma,OK,AL,,Alvin D. Allen,Republican,,11.7,False,False,True
+1912,house,Oklahoma,OK,AL,,James L. Brown,Republican,,11.7,False,False,True
+1912,house,Oklahoma,OK,AL,,Emory Brownlee,Republican,,11.5,False,False,True
+1912,house,Oklahoma,OK,AL,,Oscar Ameringer,Socialist,,5.5,False,False,True
+1912,house,Oklahoma,OK,AL,,J. T. Cumbie,Socialist,,5.5,False,False,True
+1912,house,Oklahoma,OK,AL,,J. Luther Langston,Socialist,,5.5,False,False,True
+1912,house,Oregon,OR,1,,Willis C. Hawley,Republican,,43.1,True,True,False
+1912,house,Oregon,OR,1,,R. G. Smith,Democratic,,24.6,False,False,False
+1912,house,Oregon,OR,1,,John W. Campbell,"Progressive Party (US, 1912)",,13.9,False,False,False
+1912,house,Oregon,OR,1,,W. S. Richards,Socialist,,11.5,False,False,False
+1912,house,Oregon,OR,1,,O. A. Stillman,Prohibition,,6.9,False,False,False
+1912,house,Oregon,OR,2,,Nicholas J. Sinnott,Republican,,53.5,True,False,True
+1912,house,Oregon,OR,2,,James H. Graham,Democratic,,29.4,False,False,True
+1912,house,Oregon,OR,2,,C. H. Abercrombie,Socialist,,10.7,False,False,True
+1912,house,Oregon,OR,2,,George L. Cleaver,Prohibition,,6.4,False,False,True
+1912,house,Oregon,OR,3,,Walter Lafferty,Republican,,42.9,True,False,False
+1912,house,Oregon,OR,3,,M. G. Munly,Democratic,,29.6,False,False,False
+1912,house,Oregon,OR,3,,Thomas McCusker,Independent,,16.1,False,False,False
+1912,house,Oregon,OR,3,,Lee Campbell,Socialist,,7.8,False,False,False
+1912,house,Oregon,OR,3,,LeGrand M. Baldwin,Prohibition,,3.6,False,False,False
+1912,house,Pennsylvania,PA,1,,William Scott Vare,Republican,,68.67,True,True,False
+1912,house,Pennsylvania,PA,1,,John H. Hall,Democratic,,28.59,False,False,False
+1912,house,Pennsylvania,PA,1,,Harry Gantz,Socialist,,2.74,False,False,False
+1912,house,Pennsylvania,PA,2,,George S. Graham,Republican,,50.7,True,False,False
+1912,house,Pennsylvania,PA,2,,William Schlipf,Democratic,,26.05,False,False,False
+1912,house,Pennsylvania,PA,2,,Harry W. Lambrith,"Progressive Party (US, 1912)",,19.85,False,False,False
+1912,house,Pennsylvania,PA,2,,Harvey C. Parker,Socialist,,3.21,False,False,False
+1912,house,Pennsylvania,PA,2,,William S. Umstead,Prohibition,,0.19,False,False,False
+1912,house,Pennsylvania,PA,3,,J. Hampton Moore,Republican,,54.15,True,True,False
+1912,house,Pennsylvania,PA,3,,John H. Fow,Democratic,,21.71,False,False,False
+1912,house,Pennsylvania,PA,3,,Harry E. Walter,"Progressive Party (US, 1912)",,20.69,False,False,False
+1912,house,Pennsylvania,PA,3,,George Ruby,Socialist,,3.45,False,False,False
+1912,house,Pennsylvania,PA,4,,George W. Edmonds,Republican,,68.51,True,False,False
+1912,house,Pennsylvania,PA,4,,Thomas T. Nelson,Democratic,,26.74,False,False,False
+1912,house,Pennsylvania,PA,4,,Charles DeKyne,Socialist,,4.45,False,False,False
+1912,house,Pennsylvania,PA,4,,Henry C. Russell,Prohibition,,0.31,False,False,False
+1912,house,Pennsylvania,PA,5,,Michael Donohoe,Democratic,,55.17,True,True,False
+1912,house,Pennsylvania,PA,5,,Henry S. Borneman,Republican,,38.07,False,False,False
+1912,house,Pennsylvania,PA,5,,John Whitehead,Socialist,,6.53,False,False,False
+1912,house,Pennsylvania,PA,5,,E. A. Moore,Prohibition,,0.23,False,False,False
+1912,house,Pennsylvania,PA,6,,J. Washington Logue,Democratic,,34.88,True,False,True
+1912,house,Pennsylvania,PA,6,,Frederick S. Drake,"Progressive Party (US, 1912)",,31.01,False,False,True
+1912,house,Pennsylvania,PA,6,,Harry Arista Mackey,Republican,,30.46,False,False,True
+1912,house,Pennsylvania,PA,6,,Perry R. Long,Socialist,,3.15,False,False,True
+1912,house,Pennsylvania,PA,6,,William C. Letson,Prohibition,,0.42,False,False,True
+1912,house,Pennsylvania,PA,6,,Francis T. Tobin,Workingmen's,,0.09,False,False,True
+1912,house,Pennsylvania,PA,7,,Thomas S. Butler,Republican,,46.7,True,True,False
+1912,house,Pennsylvania,PA,7,,Eugene C. Bonniwell,Democratic,,31.24,False,False,False
+1912,house,Pennsylvania,PA,7,,Frederick A. Howard,"Progressive Party (US, 1912)",,19.54,False,False,False
+1912,house,Pennsylvania,PA,7,,Walter N. Lodge,Socialist,,1.56,False,False,False
+1912,house,Pennsylvania,PA,7,,Edwin P. Sellew,Prohibition,,0.97,False,False,False
+1912,house,Pennsylvania,PA,8,,Robert E. Difenderfer,Democratic,,38.19,True,True,False
+1912,house,Pennsylvania,PA,8,,Oscar O. Bean,Republican,,33.19,False,False,False
+1912,house,Pennsylvania,PA,8,,Thomas K. Ober,"Progressive Party (US, 1912)",,25.57,False,False,False
+1912,house,Pennsylvania,PA,8,,James C. Hogan,Socialist,,3.05,False,False,False
+1912,house,Pennsylvania,PA,9,,William Walton Griest,Republican,,42.71,True,True,False
+1912,house,Pennsylvania,PA,9,,John N. Hetrick,"Progressive Party (US, 1912)",,30.11,False,False,False
+1912,house,Pennsylvania,PA,9,,Richard M. Reilly,Democratic,,24.34,False,False,False
+1912,house,Pennsylvania,PA,9,,E. S. Musser,Socialist,,2.02,False,False,False
+1912,house,Pennsylvania,PA,9,,Daniel S. Von Neida,Prohibition,,0.82,False,False,False
+1912,house,Pennsylvania,PA,10,,John R. Farr,Republican,,49.64,True,True,False
+1912,house,Pennsylvania,PA,10,,Michael A. McGinley,Democratic,,42.46,False,False,False
+1912,house,Pennsylvania,PA,10,,Madison F. Larkin,Prohibition,,4.31,False,False,False
+1912,house,Pennsylvania,PA,10,,L. H. Gibbs,Socialist,,2.87,False,False,False
+1912,house,Pennsylvania,PA,10,,T. Ellsworth Davies,"Progressive Party (US, 1912)",,0.72,False,False,False
+1912,house,Pennsylvania,PA,11,,John J. Casey,Democratic,,34.88,True,False,False
+1912,house,Pennsylvania,PA,11,,Clarence D. Coughlin,"Progressive Party (US, 1912)",,31.01,False,False,False
+1912,house,Pennsylvania,PA,11,,Charles C. Bowman,Republican,,30.46,False,True,False
+1912,house,Pennsylvania,PA,11,,Charles F. Quinn,Socialist,,3.15,False,False,False
+1912,house,Pennsylvania,PA,12,,Robert Emmett Lee,Democratic,,50.41,True,True,False
+1912,house,Pennsylvania,PA,12,,Alfred B. Garner,Republican,,35.4,False,False,False
+1912,house,Pennsylvania,PA,12,,William W. Thorn,Bull Moose,,1.74,False,False,False
+1912,house,Pennsylvania,PA,12,,Cornelius F. Foley,Socialist,,11.72,False,False,False
+1912,house,Pennsylvania,PA,12,,H. F. Reber,Prohibition,,0.73,False,False,False
+1912,house,Pennsylvania,PA,13,,John H. Rothermel,Democratic,,50.61,True,True,False
+1912,house,Pennsylvania,PA,13,,Claude T. Reno,Republican,,39.16,False,False,False
+1912,house,Pennsylvania,PA,13,,Clarence T. Wixson,Socialist,,9.48,False,False,False
+1912,house,Pennsylvania,PA,13,,Oliver K. Mohr,Prohibition,,0.52,False,False,False
+1912,house,Pennsylvania,PA,13,,Harry A. Cyphers,Other,,0.16,False,False,False
+1912,house,Pennsylvania,PA,13,,Caleb Harrison,Other,,0.07,False,False,False
+1912,house,Pennsylvania,PA,14,,William D. B. Ainey,Republican,,61.07,True,True,False
+1912,house,Pennsylvania,PA,14,,Joel G. Hill,Democratic,,34.72,False,False,False
+1912,house,Pennsylvania,PA,14,,William S. Heermans,Prohibition,,2.92,False,False,False
+1912,house,Pennsylvania,PA,14,,Charles Welch,Socialist,,1.29,False,False,False
+1912,house,Pennsylvania,PA,15,,Edgar R. Kiess,Republican,,45.92,True,False,False
+1912,house,Pennsylvania,PA,15,,William B. Wilson,Democratic,,44.08,False,True,False
+1912,house,Pennsylvania,PA,15,,Aaron Noll,Socialist,,7.37,False,False,False
+1912,house,Pennsylvania,PA,15,,David Salmon,Prohibition,,2.63,False,False,False
+1912,house,Pennsylvania,PA,16,,John V. Lesher,Democratic,,47.08,True,False,True
+1912,house,Pennsylvania,PA,16,,I. Clinton Kline,Republican,,42.35,False,False,True
+1912,house,Pennsylvania,PA,16,,George W. Dornbach,Socialist,,9.07,False,False,True
+1912,house,Pennsylvania,PA,16,,T. P. Jepson,Prohibition,,1.5,False,False,True
+1912,house,Pennsylvania,PA,17,,Franklin Lewis Dershem,Democratic,,38.87,True,False,False
+1912,house,Pennsylvania,PA,17,,Benjamin K. Focht,Republican,,30.32,False,True,False
+1912,house,Pennsylvania,PA,17,,Frank B. Clayton,"Progressive Party (US, 1912)",,26.08,False,False,False
+1912,house,Pennsylvania,PA,17,,William G. Bowers,Socialist,,3.8,False,False,False
+1912,house,Pennsylvania,PA,17,,W. C. Bratton,Prohibition,,0.93,False,False,False
+1912,house,Pennsylvania,PA,18,,Aaron S. Kreider,Republican,,32.29,True,False,True
+1912,house,Pennsylvania,PA,18,,David L. Kaufman,Democratic,,31.39,False,False,True
+1912,house,Pennsylvania,PA,18,,Henry C. Demming,"Progressive Party (US, 1912)",,30.1,False,False,True
+1912,house,Pennsylvania,PA,18,,J. Milton Ibach,Socialist,,4.43,False,False,True
+1912,house,Pennsylvania,PA,18,,Edwin H. Molly,Prohibition,,1.79,False,False,True
+1912,house,Pennsylvania,PA,19,,Warren W. Bailey,Democratic,,31.78,True,False,False
+1912,house,Pennsylvania,PA,19,,Jesse L. Hartman,Republican,,29.56,False,True,False
+1912,house,Pennsylvania,PA,19,,Lynn A. Brua,"Progressive Party (US, 1912)",,29.46,False,False,False
+1912,house,Pennsylvania,PA,19,,Daniel W. Murphy,Socialist,,6.71,False,False,False
+1912,house,Pennsylvania,PA,19,,Adie A. Stevens,Prohibition,,1.35,False,False,False
+1912,house,Pennsylvania,PA,19,,John W. Blake,Other,,1.11,False,False,False
+1912,house,Pennsylvania,PA,20,,Andrew R. Brodbeck,Democratic,,31.78,True,False,False
+1912,house,Pennsylvania,PA,20,,Daniel F. Lafean,Republican,,29.56,False,True,False
+1912,house,Pennsylvania,PA,20,,Robert C. Blair,"Progressive Party (US, 1912)",,29.46,False,False,False
+1912,house,Pennsylvania,PA,20,,George W. Bacon,Socialist,,6.71,False,False,False
+1912,house,Pennsylvania,PA,20,,Henry H. Trumpfheller,Prohibition,,1.35,False,False,False
+1912,house,Pennsylvania,PA,21,,Charles E. Patton,Republican,,50.27,True,True,False
+1912,house,Pennsylvania,PA,21,,James A. Gleason,Democratic,,38.76,False,False,False
+1912,house,Pennsylvania,PA,21,,George W. Fox,Socialist,,7.47,False,False,False
+1912,house,Pennsylvania,PA,21,,W. H. Watt,Prohibition,,3.5,False,False,False
+1912,house,Pennsylvania,PA,22,,Abraham L. Keister,Republican,,41.56,True,False,False
+1912,house,Pennsylvania,PA,22,,Curtis H. Gregg,Democratic,,39.91,False,True,False
+1912,house,Pennsylvania,PA,22,,Charles Cunningham,Socialist,,12.65,False,False,False
+1912,house,Pennsylvania,PA,22,,Daniel K. Albright,Prohibition,,5.89,False,False,False
+1912,house,Pennsylvania,PA,23,,Wooda N. Carr,Democratic,,38.76,True,False,False
+1912,house,Pennsylvania,PA,23,,Thomas S. Crago,Republican,,24.87,False,True,False
+1912,house,Pennsylvania,PA,23,,Harvey L. Berkeley,"Progressive Party (US, 1912)",,24.09,False,False,False
+1912,house,Pennsylvania,PA,23,,Charles L. Gans,Socialist,,9.29,False,False,False
+1912,house,Pennsylvania,PA,23,,Bert S. Forsythe,Prohibition,,2.99,False,False,False
+1912,house,Pennsylvania,PA,24,,Henry W. Temple,"Progressive Party (US, 1912)",,30.8,True,False,False
+1912,house,Pennsylvania,PA,24,,Charles Matthews,Republican,,28.93,False,True,False
+1912,house,Pennsylvania,PA,24,,S. A. Lacock,Democratic,,23.0,False,False,False
+1912,house,Pennsylvania,PA,24,,George Frethey,Socialist,,13.62,False,False,False
+1912,house,Pennsylvania,PA,24,,James B. Peebles,Prohibition,,3.65,False,False,False
+1912,house,Pennsylvania,PA,25,,Milton W. Shreve,Republican,,47.57,True,False,True
+1912,house,Pennsylvania,PA,25,,Turner W. Shacklett,Democratic,,37.99,False,False,True
+1912,house,Pennsylvania,PA,25,,Sidney A. Schwartz,Socialist,,9.92,False,False,True
+1912,house,Pennsylvania,PA,25,,B. R. Pike,Prohibition,,4.52,False,False,True
+1912,house,Pennsylvania,PA,26,,A. Mitchell Palmer,Democratic,,53.41,True,True,False
+1912,house,Pennsylvania,PA,26,,Francis A. March,Republican,,42.41,False,False,False
+1912,house,Pennsylvania,PA,26,,George R. Miller,Socialist,,3.03,False,False,False
+1912,house,Pennsylvania,PA,26,,E. S. Wolfe,Prohibition,,1.15,False,False,False
+1912,house,Pennsylvania,PA,27,,J. N. Langham,Republican,,56.73,True,True,False
+1912,house,Pennsylvania,PA,27,,Foster M. Mohney,Democratic,,31.35,False,False,False
+1912,house,Pennsylvania,PA,27,,Thomas J. Fredericks,Socialist,,6.15,False,False,False
+1912,house,Pennsylvania,PA,27,,John Houk,Prohibition,,5.77,False,False,False
+1912,house,Pennsylvania,PA,28,,Willis J. Hulings,"Progressive Party (US, 1912)",,31.38,True,False,False
+1912,house,Pennsylvania,PA,28,,John P. Hines,Democratic,,29.49,False,False,False
+1912,house,Pennsylvania,PA,28,,Peter M. Speer,Republican,,21.61,False,True,False
+1912,house,Pennsylvania,PA,28,,John R. McKeown,Socialist,,12.4,False,False,False
+1912,house,Pennsylvania,PA,28,,J. W. Neilly,Prohibition,,5.12,False,False,False
+1912,house,Pennsylvania,PA,29,,Stephen G. Porter,Republican,,61.29,True,True,False
+1912,house,Pennsylvania,PA,29,,Joseph Gallagher,Democratic,,21.2,False,False,False
+1912,house,Pennsylvania,PA,29,,George T. McConnell,Socialist,,15.01,False,False,False
+1912,house,Pennsylvania,PA,29,,Robert J. Smith,Prohibition,,1.64,False,False,False
+1912,house,Pennsylvania,PA,29,,Charles F. Chubb,Other,,0.87,False,False,False
+1912,house,Pennsylvania,PA,30,,M. Clyde Kelly,Republican,,54.54,True,False,False
+1912,house,Pennsylvania,PA,30,,Fred H. Merrick,Socialist,,23.96,False,False,False
+1912,house,Pennsylvania,PA,30,,Delmont K. Ferree,Democratic,,21.24,False,False,False
+1912,house,Pennsylvania,PA,30,,J. A. Brought,Other,,0.26,False,False,False
+1912,house,Pennsylvania,PA,31,,James F. Burke,Republican,,51.06,True,True,False
+1912,house,Pennsylvania,PA,31,,William A. Prosser,Socialist,,24.39,False,False,False
+1912,house,Pennsylvania,PA,31,,Joseph F. Joyce,Democratic,,23.4,False,False,False
+1912,house,Pennsylvania,PA,31,,Fred C. Brittain,Prohibition,,1.16,False,False,False
+1912,house,Pennsylvania,PA,32,,Andrew J. Barchfeld,Republican,,40.76,True,True,False
+1912,house,Pennsylvania,PA,32,,Herman L. Hegner,Democratic,,26.54,False,False,False
+1912,house,Pennsylvania,PA,32,,Thomas F. Kennedy,Socialist,,18.85,False,False,False
+1912,house,Pennsylvania,PA,32,,William M. Shrodes,Other,,13.85,False,False,False
+1912,house,Pennsylvania,PA,AL,,Fred E. Lewis,Republican,,100.0,True,False,True
+1912,house,Rhode Island,RI,1,,George F. O'Shaunessy,Democratic,,50.26,True,True,False
+1912,house,Rhode Island,RI,1,,William Paine Sheffield Jr.,Republican,,37.2,False,False,False
+1912,house,Rhode Island,RI,1,,John E. Bolan,"Progressive Party (US, 1912)",,11.72,False,False,False
+1912,house,Rhode Island,RI,1,,Samuel B. Prentice,Prohibition,,0.82,False,False,False
+1912,house,Rhode Island,RI,2,,Peter G. Gerry,Democratic,,42.92,True,False,True
+1912,house,Rhode Island,RI,2,,Zenas W. Bliss,Republican,,41.35,False,False,True
+1912,house,Rhode Island,RI,2,,Claude C. Ball,"Progressive Party (US, 1912)",,14.57,False,False,True
+1912,house,Rhode Island,RI,2,,William G. Lawton,Prohibition,,1.16,False,False,True
+1912,house,Rhode Island,RI,3,,Ambrose Kennedy,Republican,,49.0,True,False,True
+1912,house,Rhode Island,RI,3,,F. X. Ruttey,Democratic,,41.15,False,False,True
+1912,house,Rhode Island,RI,3,,Edwin F. Tuttle,"Progressive Party (US, 1912)",,9.02,False,False,True
+1912,house,Rhode Island,RI,3,,Ernest L. Merry,Prohibition,,0.83,False,False,True
+1912,house,South Carolina,SC,1,4683,George Swinton Legaré,Democratic,,97.2,True,True,False
+1912,house,South Carolina,SC,1,4683,Aaron P. Prioleau,Republican,85,1.8,False,False,False
+1912,house,South Carolina,SC,1,4683,William Eberhard,Socialist,48,1.0,False,False,False
+1912,house,South Carolina,SC,2,6033,James F. Byrnes,Democratic,6033,100.0,True,True,False
+1912,house,South Carolina,SC,3,7459,Wyatt Aiken,Democratic,7458,100.0,True,True,False
+1912,house,South Carolina,SC,4,7244,Joseph T. Johnson,Democratic,7244,100.0,True,True,False
+1912,house,South Carolina,SC,5,7901,David E. Finley,Democratic,7901,100.0,True,True,False
+1912,house,South Carolina,SC,6,6447,J. Willard Ragsdale,Democratic,6446,100.0,True,False,False
+1912,house,South Carolina,SC,7,6765,A. Frank Lever,Democratic,,98.4,True,True,False
+1912,house,South Carolina,SC,7,6765,Alexander B. Dantzler,Republican,,1.6,False,False,False
+1912,house,South Dakota,SD,1,,Charles H. Dillon,Republican,,55.8,True,False,True
+1912,house,South Dakota,SD,1,,Robert E. Dowdell,Democratic,,39.5,False,False,True
+1912,house,South Dakota,SD,1,,C. V. Templeton,Prohibition,,2.6,False,False,True
+1912,house,South Dakota,SD,1,,E. M. Jacobsen,Socialist,,2.2,False,False,True
+1912,house,South Dakota,SD,2,,Charles H. Burke,Republican,,57.6,True,False,False
+1912,house,South Dakota,SD,2,,C. Boyd Barrett,Democratic,,35.5,False,False,False
+1912,house,South Dakota,SD,2,,E. Francis Atwood,Socialist,,3.9,False,False,False
+1912,house,South Dakota,SD,2,,W. J. Edgar,Prohibition,,2.9,False,False,False
+1912,house,South Dakota,SD,3,,Eben Martin,Republican,,52.5,True,False,False
+1912,house,South Dakota,SD,3,,Harry Gandy,Democratic,,42.1,False,False,False
+1912,house,South Dakota,SD,3,,J. E. Ballinger,Socialist,,5.4,False,False,False
+1912,house,Tennessee,TN,1,,Sam R. Sells,Republican,,50.87,True,True,False
+1912,house,Tennessee,TN,1,,Zachary D. Massey,"Progressive Party (US, 1912)",,49.02,False,False,False
+1912,house,Tennessee,TN,2,,Richard W. Austin,Republican,,47.62,True,True,False
+1912,house,Tennessee,TN,2,,W. H. Buttram,"Progressive Party (US, 1912)",,26.32,False,False,False
+1912,house,Tennessee,TN,2,,J. C. Williams,Democratic,,25.03,False,False,False
+1912,house,Tennessee,TN,2,,R. E. Miller,Socialist,,1.03,False,False,False
+1912,house,Tennessee,TN,3,,John A. Moon,Democratic,,67.36,True,True,False
+1912,house,Tennessee,TN,3,,C. S. Stewart,Republican,,23.56,False,False,False
+1912,house,Tennessee,TN,3,,J. W. Eastman,"Progressive Party (US, 1912)",,8.01,False,False,False
+1912,house,Tennessee,TN,3,,Daniel Shirley,Socialist,,1.07,False,False,False
+1912,house,Tennessee,TN,4,,Cordell Hull,Democratic,,64.92,True,True,False
+1912,house,Tennessee,TN,4,,I. J. Human,Republican,,34.84,False,False,False
+1912,house,Tennessee,TN,4,,John H. Compton,Socialist,,0.24,False,False,False
+1912,house,Tennessee,TN,5,,William C. Houston,Democratic,,54.28,True,True,False
+1912,house,Tennessee,TN,5,,J. C. Beasley,Democratic,,37.99,False,False,False
+1912,house,Tennessee,TN,5,,Doak Aydelott,Democratic,,7.59,False,False,False
+1912,house,Tennessee,TN,5,,N. Bartlett,Socialist,,0.14,False,False,False
+1912,house,Tennessee,TN,6,,Jo Byrns,Democratic,,82.03,True,True,False
+1912,house,Tennessee,TN,6,,J. A. Althauser,Republican,,15.3,False,False,False
+1912,house,Tennessee,TN,6,,L. A. Wiles,Socialist,,2.66,False,False,False
+1912,house,Tennessee,TN,7,,Lemuel P. Padgett,Democratic,,55.07,True,True,False
+1912,house,Tennessee,TN,7,,Clarence W. Turner,Democratic,,44.83,False,False,False
+1912,house,Tennessee,TN,7,,D. J. Bevis,Unknown,,0.1,False,False,False
+1912,house,Tennessee,TN,8,,Thetus W. Sims,Democratic,,54.15,True,True,False
+1912,house,Tennessee,TN,8,,J. W. Ross,Republican,,36.39,False,False,False
+1912,house,Tennessee,TN,8,,C. Grissam,"Progressive Party (US, 1912)",,8.77,False,False,False
+1912,house,Tennessee,TN,8,,B. W. Parker,Socialist,,0.69,False,False,False
+1912,house,Tennessee,TN,9,,Finis J. Garrett,Democratic,,79.02,True,True,False
+1912,house,Tennessee,TN,9,,B. C. Cochran,Republican,,20.65,False,False,False
+1912,house,Tennessee,TN,9,,D. E. McNeil,Socialist,,0.33,False,False,False
+1912,house,Tennessee,TN,10,,Kenneth McKellar,Democratic,,94.32,True,True,False
+1912,house,Tennessee,TN,10,,George Pardue,Socialist,,5.68,False,False,False
+1912,house,Texas,TX,1,,Horace W. Vaughan,Democratic,,85.93,True,False,True
+1912,house,Texas,TX,1,,S. L. Willyard,Socialist,,10.64,False,False,True
+1912,house,Texas,TX,1,,Josh Barker,Republican,,3.43,False,False,True
+1912,house,Texas,TX,2,,Martin Dies,Democratic,,80.28,True,True,False
+1912,house,Texas,TX,2,,J. A. Freeland,Socialist,,13.74,False,False,False
+1912,house,Texas,TX,2,,Howard M. Smith,Republican,,3.47,False,False,False
+1912,house,Texas,TX,2,,E. G. Christian,"Progressive Party (US, 1912)",,2.51,False,False,False
+1912,house,Texas,TX,3,,James Young,Democratic,,96.61,True,True,False
+1912,house,Texas,TX,3,,B. F. Bryant,Unknown,,3.39,False,False,False
+1912,house,Texas,TX,4,,Sam Rayburn,Democratic,,89.55,True,False,True
+1912,house,Texas,TX,4,,C. E. Obsuchain,Republican,,8.63,False,False,True
+1912,house,Texas,TX,4,,G. J. Barlow,Socialist,,1.82,False,False,True
+1912,house,Texas,TX,5,,James Andrew Beall,Democratic,,97.75,True,True,False
+1912,house,Texas,TX,5,,M. C. Scott,Unknown,,2.25,False,False,False
+1912,house,Texas,TX,6,,Rufus Hardy,Democratic,,95.97,True,True,False
+1912,house,Texas,TX,6,,W. H. Wilson,Socialist,,4.03,False,False,False
+1912,house,Texas,TX,7,,Alexander W. Gregg,Democratic,,100.0,True,True,False
+1912,house,Texas,TX,8,,Joe H. Eagle,Democratic,,83.25,True,False,True
+1912,house,Texas,TX,8,,Jeff N. Miller,Republican,,10.03,False,False,True
+1912,house,Texas,TX,8,,J. E. Curd,Socialist,,6.72,False,False,True
+1912,house,Texas,TX,9,,George F. Burgess,Democratic,,100.0,True,True,False
+1912,house,Texas,TX,10,,Albert S. Burleson,Democratic,,100.0,True,True,False
+1912,house,Texas,TX,11,,Robert L. Henry,Democratic,,98.15,True,True,False
+1912,house,Texas,TX,11,,C. G. Davidson,Socialist,,1.86,False,False,False
+1912,house,Texas,TX,12,,Oscar Callaway,Democratic,,97.62,True,True,False
+1912,house,Texas,TX,12,,Clarence Nugent,Socialist,,2.38,False,False,False
+1912,house,Texas,TX,13,,John H. Stephens,Democratic,,89.15,True,True,False
+1912,house,Texas,TX,13,,L. B. Lindsey,"Progressive Party (US, 1912)",,5.76,False,False,False
+1912,house,Texas,TX,13,,H. H. Cooper,Republican,,5.1,False,False,False
+1912,house,Texas,TX,14,,James L. Slayden,Democratic,,97.48,True,True,False
+1912,house,Texas,TX,14,,Julius Real,Republican,,1.32,False,False,False
+1912,house,Texas,TX,14,,A. D. Zucht,Unknown,,1.2,False,False,False
+1912,house,Texas,TX,15,,John Nance Garner,Democratic,,100.0,True,True,False
+1912,house,Texas,TX,16,,William R. Smith,Democratic,,100.0,True,True,False
+1912,house,Texas,TX,AL,,Daniel E. Garrett,Democratic,,100.0,True,False,True
+1912,house,Utah,UT,1,,Joseph Howell,Republican,,19.45,True,False,False
+1912,house,Utah,UT,1,,Jacob Johnson,Republican,,18.96,True,False,False
+1912,house,Utah,UT,1,,Mathonihah Thomas,Democratic,,16.77,False,False,False
+1912,house,Utah,UT,1,,Tillman D. Johnson,Democratic,,16.52,False,False,False
+1912,house,Utah,UT,1,,S. H. Love,"Progressive Party (US, 1912)",,10.08,False,False,False
+1912,house,Utah,UT,1,,Lewis Larson,"Progressive Party (US, 1912)",,9.89,False,False,False
+1912,house,Utah,UT,1,,Murray E. King,Socialist,,4.05,False,False,False
+1912,house,Utah,UT,1,,William M. Knerr,Socialist,,4.04,False,False,False
+1912,house,Utah,UT,1,,Elias Anderson,Socialist Labor,,0.23,False,False,False
+1912,house,Vermont,VT,1,,Frank L. Greene,Republican,,59.7,True,True,False
+1912,house,Vermont,VT,1,,Patrick M. Meldon,Democratic,,35.4,False,False,False
+1912,house,Vermont,VT,1,,George L. Story,Prohibition,,3.1,False,False,False
+1912,house,Vermont,VT,1,,John Spargo,Socialist,,1.8,False,False,False
+1912,house,Vermont,VT,2,,Frank Plumley,Republican,,57.9,True,True,False
+1912,house,Vermont,VT,2,,Otis C. Sawyer,Democratic,,36.0,False,False,False
+1912,house,Vermont,VT,2,,Chester E. Ordway,Socialist,,3.3,False,False,False
+1912,house,Vermont,VT,2,,Elmer E. Phillips,Prohibition,,2.3,False,False,False
+1912,house,Virginia,VA,1,,William A. Jones,Democratic,,91.0,True,True,False
+1912,house,Virginia,VA,1,,T. E. Coleman,Socialist,,6.6,False,False,False
+1912,house,Virginia,VA,1,,Godfrey Kinder,Socialist Labor,,2.4,False,False,False
+1912,house,Virginia,VA,2,,Edward E. Holland,Democratic,,89.1,True,True,False
+1912,house,Virginia,VA,2,,Nathaniel T. Green,"Progressive Party (US, 1912)",,9.9,False,False,False
+1912,house,Virginia,VA,2,,Isaiah A. Chesman,Unknown,,0.6,False,False,False
+1912,house,Virginia,VA,2,,B. D. Downey,Socialist Labor,,0.4,False,False,False
+1912,house,Virginia,VA,3,,Andrew J. Montague,Democratic,,97.6,True,False,True
+1912,house,Virginia,VA,3,,Chase A. Haight,Unknown,,1.4,False,False,True
+1912,house,Virginia,VA,3,,H. Adolph Muller,Socialist Labor,,1.0,False,False,True
+1912,house,Virginia,VA,4,,Walter A. Watson,Democratic,,96.4,True,False,False
+1912,house,Virginia,VA,4,,Fred Herzig,Socialist,,3.3,False,False,False
+1912,house,Virginia,VA,4,,Robert Turnbull,Independent,,0.3,False,True,False
+1912,house,Virginia,VA,5,,Edward W. Saunders,Democratic,,62.0,True,True,False
+1912,house,Virginia,VA,5,,A. B. Hamner,Republican,,35.7,False,False,False
+1912,house,Virginia,VA,5,,J. Celphas Shelton,Unknown,,2.3,False,False,False
+1912,house,Virginia,VA,6,,Carter Glass,Democratic,,72.8,True,True,False
+1912,house,Virginia,VA,6,,James S. Browning,"Progressive Party (US, 1912)",,20.6,False,False,False
+1912,house,Virginia,VA,6,,Adon A. Yoder,Unknown,,3.4,False,False,False
+1912,house,Virginia,VA,6,,Jacob Harvey,Unknown,,3.3,False,False,False
+1912,house,Virginia,VA,7,,James Hay,Democratic,,71.5,True,True,False
+1912,house,Virginia,VA,7,,George N. Earman,Republican,,25.3,False,False,False
+1912,house,Virginia,VA,7,,E. C. Garrison,Socialist,,3.2,False,False,False
+1912,house,Virginia,VA,8,,Charles C. Carlin,Democratic,,90.7,True,True,False
+1912,house,Virginia,VA,8,,F. T. Evans,Socialist,,6.3,False,False,False
+1912,house,Virginia,VA,8,,Milton Fling,Unknown,,3.0,False,False,False
+1912,house,Virginia,VA,9,,C. Bascom Slemp,Republican,,50.0,True,True,False
+1912,house,Virginia,VA,9,,R. A. Ayers,Democratic,,46.6,False,False,False
+1912,house,Virginia,VA,9,,Walter Graham,Unknown,,3.4,False,False,False
+1912,house,Virginia,VA,10,,Henry D. Flood,Democratic,,74.4,True,True,False
+1912,house,Virginia,VA,10,,E. J. McCulloch,"Progressive Party (US, 1912)",,19.0,False,False,False
+1912,house,Virginia,VA,10,,Nathan Parkins,Socialist,,6.5,False,False,False
+1912,house,Washington,WA,1,,William E. Humphrey,Republican,,31.0,True,True,False
+1912,house,Washington,WA,1,,Daniel Landon,"Progressive Party (US, 1912)",,30.4,False,False,False
+1912,house,Washington,WA,1,,Charles G. Heifner,Democratic,,23.7,False,False,False
+1912,house,Washington,WA,1,,Joseph Gilbert,Socialist,,14.9,False,False,False
+1912,house,Washington,WA,2,,Albert Johnson,Republican,,32.5,True,False,False
+1912,house,Washington,WA,2,,Stanton Warburton,"Progressive Party (US, 1912)",,30.9,False,True,False
+1912,house,Washington,WA,2,,James A. Munday,Democratic,,21.4,False,False,False
+1912,house,Washington,WA,2,,Leslie E. Aller,Socialist,,15.3,False,False,False
+1912,house,Washington,WA,3,,William La Follette,Republican,,33.1,True,True,False
+1912,house,Washington,WA,3,,Roscoe M. Drumheller,Democratic,,29.4,False,False,False
+1912,house,Washington,WA,3,,Frank Goodwin,"Progressive Party (US, 1912)",,28.0,False,False,False
+1912,house,Washington,WA,3,,Robert B. Martin,Socialist,,9.6,False,False,False
+1912,house,Washington,WA,AL,,Jacob Falconer,"Progressive Party (US, 1912)",,16.1,True,False,True
+1912,house,Washington,WA,AL,,James W. Bryan,"Progressive Party (US, 1912)",,15.3,True,False,True
+1912,house,Washington,WA,AL,,Henry B. Dewey,Republican,,14.8,False,False,True
+1912,house,Washington,WA,AL,,J. E. Frost,Republican,,14.6,False,False,True
+1912,house,Washington,WA,AL,,E. O. Connor,Democratic,,12.4,False,False,True
+1912,house,Washington,WA,AL,,Henry M. White,Democratic,,12.2,False,False,True
+1912,house,Washington,WA,AL,,M. E. Giles,Socialist,,6.7,False,False,True
+1912,house,Washington,WA,AL,,Alfred Wagenknecht,Socialist,,6.6,False,False,True
+1912,house,Washington,WA,AL,,N. A. Thompson,Prohibition,,1.4,False,False,True
+1912,house,West Virginia,WV,1,,John W. Davis,Democratic,,44.97,True,True,False
+1912,house,West Virginia,WV,1,,George A. Laughlin,Republican,,44.67,False,False,False
+1912,house,West Virginia,WV,1,,Mathew S. Holt,Socialist,,7.68,False,False,False
+1912,house,West Virginia,WV,1,,L. E. Peters,Prohibition,,2.69,False,False,False
+1912,house,West Virginia,WV,2,,William G. Brown Jr.,Democratic,,47.32,True,True,False
+1912,house,West Virginia,WV,2,,William G. Conley,Republican,,47.29,False,False,False
+1912,house,West Virginia,WV,2,,Edgar L. Smith,Socialist,,3.98,False,False,False
+1912,house,West Virginia,WV,2,,James C. Gibson,Prohibition,,1.41,False,False,False
+1912,house,West Virginia,WV,3,,Samuel B. Avis,Republican,,46.09,True,False,False
+1912,house,West Virginia,WV,3,,Adam Brown Littlepage,Democratic,,43.49,False,True,False
+1912,house,West Virginia,WV,3,,L. C. Rogers,Socialist,,9.14,False,False,False
+1912,house,West Virginia,WV,3,,J. L. Ryan,Prohibition,,1.29,False,False,False
+1912,house,West Virginia,WV,4,,Hunter H. Moss Jr.,Republican,,50.23,True,False,False
+1912,house,West Virginia,WV,4,,John M. Hamilton,Democratic,,47.53,False,True,False
+1912,house,West Virginia,WV,4,,Arthur Hank,Prohibition,,1.29,False,False,False
+1912,house,West Virginia,WV,4,,Herbert O. Davis,Socialist,,1.07,False,False,False
+1912,house,West Virginia,WV,5,,James A. Hughes,Republican,,51.92,True,True,False
+1912,house,West Virginia,WV,5,,James F. Beaver,Democratic,,43.41,False,False,False
+1912,house,West Virginia,WV,5,,G. W. Gillespie,Socialist,,3.87,False,False,False
+1912,house,West Virginia,WV,5,,B. H. White,Prohibition,,0.81,False,False,False
+1912,house,West Virginia,WV,AL,,Howard Sutherland,Republican,,49.73,True,False,True
+1912,house,West Virginia,WV,AL,,Ben H. Hiner,Democratic,,42.93,False,False,True
+1912,house,West Virginia,WV,AL,,William A. Peter,Socialist,,5.73,False,False,True
+1912,house,West Virginia,WV,AL,,Squire Halstead,Prohibition,,1.62,False,False,True
+1912,house,Wisconsin,WI,1,,Henry Allen Cooper,Republican,,53.2,True,True,False
+1912,house,Wisconsin,WI,1,,Calvin Stewart,Democratic,,38.8,False,False,False
+1912,house,Wisconsin,WI,1,,Joseph Orth,Social Democratic,,4.3,False,False,False
+1912,house,Wisconsin,WI,1,,Marcus S. Kellogg,Prohibition,,3.7,False,False,False
+1912,house,Wisconsin,WI,2,,Michael E. Burke,Democratic,,55.2,True,False,False
+1912,house,Wisconsin,WI,2,,Henry J. Grell,Republican,,39.3,False,False,False
+1912,house,Wisconsin,WI,2,,Edward D. Deuss,Social Democratic,,4.0,False,False,False
+1912,house,Wisconsin,WI,2,,Will Mack,Prohibition,,1.4,False,False,False
+1912,house,Wisconsin,WI,3,,John M. Nelson,Republican,,52.9,True,False,True
+1912,house,Wisconsin,WI,3,,Albert H. Long,Democratic,,43.0,False,False,True
+1912,house,Wisconsin,WI,3,,Charles H. Berryman,Prohibition,,2.9,False,False,True
+1912,house,Wisconsin,WI,3,,William E. Middleton,Social Democratic,,1.2,False,False,True
+1912,house,Wisconsin,WI,4,,William J. Cary,Democratic,,44.9,True,True,False
+1912,house,Wisconsin,WI,4,,Winfield Gaylord,Social Democratic,,32.6,False,False,False
+1912,house,Wisconsin,WI,4,,John M. Beffel,Republican,,20.9,False,False,False
+1912,house,Wisconsin,WI,4,,William R. Nethercut,Prohibition,,1.6,False,False,False
+1912,house,Wisconsin,WI,5,,William H. Stafford,Republican,,41.3,True,False,False
+1912,house,Wisconsin,WI,5,,Victor L. Berger,Social Democratic,,36.3,False,True,False
+1912,house,Wisconsin,WI,5,,James F. Trottman,Republican,,21.4,False,False,False
+1912,house,Wisconsin,WI,5,,Augustus C. Forster,Prohibition,,1.1,False,False,False
+1912,house,Wisconsin,WI,6,,Michael K. Reilly,Democratic,,48.7,True,False,False
+1912,house,Wisconsin,WI,6,,James H. Davidson,Republican,,45.1,False,False,False
+1912,house,Wisconsin,WI,6,,Martin Georgenson,Social Democratic,,4.8,False,False,False
+1912,house,Wisconsin,WI,6,,Frank L. Smith,Prohibition,,1.5,False,False,False
+1912,house,Wisconsin,WI,7,,John J. Esch,Republican,,61.0,True,True,False
+1912,house,Wisconsin,WI,7,,William Coffland,Democratic,,32.8,False,False,False
+1912,house,Wisconsin,WI,7,,Burton S. Hawley,Prohibition,,2.7,False,False,False
+1912,house,Wisconsin,WI,7,,C. A. Noetzelman,Social Democratic,,2.4,False,False,False
+1912,house,Wisconsin,WI,8,,Edward E. Browne,Republican,,54.6,True,False,True
+1912,house,Wisconsin,WI,8,,Arthur J. Plowman,Democratic,,39.2,False,False,True
+1912,house,Wisconsin,WI,8,,Curtis A. Boorman,Social Democratic,,4.0,False,False,True
+1912,house,Wisconsin,WI,8,,Adolph R. Bucknam,Prohibition,,2.2,False,False,True
+1912,house,Wisconsin,WI,9,,Thomas F. Konop,Democratic,,48.5,True,True,False
+1912,house,Wisconsin,WI,9,,Elmer A. Morse,Republican,,46.4,False,False,False
+1912,house,Wisconsin,WI,9,,James Oliver,Social Democratic,,3.3,False,False,False
+1912,house,Wisconsin,WI,9,,Jason L. Sizer,Prohibition,,1.8,False,False,False
+1912,house,Wisconsin,WI,10,,James A. Frear,Republican,,65.0,True,False,True
+1912,house,Wisconsin,WI,10,,Charles Donohue,Democratic,,28.7,False,False,True
+1912,house,Wisconsin,WI,10,,Albert Slaughter,Social Democratic,,3.4,False,False,True
+1912,house,Wisconsin,WI,10,,Beverly White,Prohibition,,2.8,False,False,True
+1912,house,Wisconsin,WI,11,,Irvine Lenroot,Republican,,59.6,True,True,False
+1912,house,Wisconsin,WI,11,,Henry A. Johnson,Democratic,,27.3,False,False,False
+1912,house,Wisconsin,WI,11,,Ellis B. Harris,Social Democratic,,10.7,False,False,False
+1912,house,Wisconsin,WI,11,,David W. Emerson,Prohibition,,2.5,False,False,False
+1912,house,Wyoming,WY,AL,,Frank W. Mondell,Republican,,46.43,True,True,False
+1912,house,Wyoming,WY,AL,,Thomas Fahey,Democratic,,35.73,False,False,False
+1912,house,Wyoming,WY,AL,,Charles E. Winter,"Progressive Party (US, 1912)",,11.72,False,False,False
+1912,house,Wyoming,WY,AL,,Anthony Carlson,Socialist,,5.41,False,False,False
+1912,house,Wyoming,WY,AL,,Lemuel L. Laughlin,Prohibition,,0.72,False,False,False
+1912,house,Alaska,AK,AL,,James Wickersham,"Progressive Party (US, 1912)",,40.57,True,True,False
+1912,house,Alaska,AK,AL,,William A. Gilmore,Republican,,21.02,False,False,False
+1912,house,Alaska,AK,AL,,Kazis Krauczunas,Socialist,,20.54,False,False,False
+1912,house,Alaska,AK,AL,,Robert W. Jennings,Democratic,,14.28,False,False,False
+1912,house,Hawaii,HI,AL,,Jonah Kūhiō Kalanianaʻole,Republican,,52.65,True,True,False
+1912,house,Hawaii,HI,AL,,Lincoln L. McCandless,Democratic,,43.25,False,False,False
+1912,house,Hawaii,HI,AL,,C. K. Notley,Home Rule Party (Hawaii),,2.59,False,False,False
+1912,house,Hawaii,HI,AL,,Clark,Socialist,,1.51,False,False,False

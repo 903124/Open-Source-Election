@@ -64,6 +64,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1972,North Carolina,NC,governor,1972 North Carolina gubernatorial election,Candidate,Arlis F. Pettyjohn,American Party (1969),8211,0.55,False,False
 1972,North Dakota,ND,governor,1972 North Dakota gubernatorial election,Winning,Arthur A. Link,North Dakota Democratic-npl,143899,51.04,True,False
 1972,North Dakota,ND,governor,1972 North Dakota gubernatorial election,Candidate,Richard F. Larsen,Republican,138032,48.96,False,False
+1972,North Dakota,ND,governor,1972 North Dakota gubernatorial election,Total,,,281931,100.0,False,False
 1972,Rhode Island,RI,governor,1972 Rhode Island gubernatorial election,Winning,Philip Noel,Democratic,216953,52.55,True,False
 1972,Rhode Island,RI,governor,1972 Rhode Island gubernatorial election,Candidate,Herbert F. DeSimone,Republican,194315,47.07,False,False
 1972,Rhode Island,RI,governor,1972 Rhode Island gubernatorial election,Candidate,Adam J. Varone,Independent,1597,0.39,False,False
@@ -112,15 +113,15 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,Alabama,AL,governor,1974 Alabama gubernatorial election,Candidate,Elvin McCary,Republican,88381,14.77,False,False
 1974,Alabama,AL,governor,1974 Alabama gubernatorial election,Candidate,Jim Partain,Prohibition,12350,2.06,False,False
 1974,Alabama,AL,governor,1974 Alabama gubernatorial election,Total,,,598305,100.0,False,False
-1974,Alaska,AK,governor,Open Primary Result,Winning,Jay Hammond,Republican,28602,34.47,True,False
-1974,Alaska,AK,governor,Open Primary Result,Winning,Bill Egan (inc.),Democratic,20356,24.53,True,False
-1974,Alaska,AK,governor,Open Primary Result,Candidate,Wally Hickel,Republican,20728,24.98,False,False
-1974,Alaska,AK,governor,Open Primary Result,Candidate,Keith Harvey Miller,Republican,10864,13.09,False,False
-1974,Alaska,AK,governor,Open Primary Result,Candidate,Don Wright,Democratic,1063,1.28,False,False
-1974,Alaska,AK,governor,Open Primary Result,Candidate,Eben Hopson,Democratic,951,1.15,False,False
-1974,Alaska,AK,governor,Open Primary Result,Candidate,Donn Hopkins,Republican,269,0.32,False,False
-1974,Alaska,AK,governor,Open Primary Result,Candidate,James R. Russell,Republican,144,0.17,False,False
-1974,Alaska,AK,governor,Open Primary Result,Total,,,82977,100.0,False,False
+1974,Alaska,AK,governor,Open primary result,Winning,Jay Hammond,Republican,28602,34.47,True,False
+1974,Alaska,AK,governor,Open primary result,Winning,Bill Egan (inc.),Democratic,20356,24.53,True,False
+1974,Alaska,AK,governor,Open primary result,Candidate,Wally Hickel,Republican,20728,24.98,False,False
+1974,Alaska,AK,governor,Open primary result,Candidate,Keith Harvey Miller,Republican,10864,13.09,False,False
+1974,Alaska,AK,governor,Open primary result,Candidate,Don Wright,Democratic,1063,1.28,False,False
+1974,Alaska,AK,governor,Open primary result,Candidate,Eben Hopson,Democratic,951,1.15,False,False
+1974,Alaska,AK,governor,Open primary result,Candidate,Donn Hopkins,Republican,269,0.32,False,False
+1974,Alaska,AK,governor,Open primary result,Candidate,James R. Russell,Republican,144,0.17,False,False
+1974,Alaska,AK,governor,Open primary result,Total,,,82977,100.0,False,False
 1974,Alaska,AK,governor,1974 Alaska gubernatorial election,Winning,Jay Hammond,Republican,45840,47.67,True,False
 1974,Alaska,AK,governor,1974 Alaska gubernatorial election,Candidate,Bill Egan (inc.),Democratic,45553,47.37,False,False
 1974,Alaska,AK,governor,1974 Alaska gubernatorial election,Candidate,Joe Vogler,Independence,4770,4.96,False,False
@@ -132,7 +133,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,Arkansas,AR,governor,1974 Arkansas gubernatorial election,Winning,David Pryor,Democratic,358018,65.57,True,False
 1974,Arkansas,AR,governor,1974 Arkansas gubernatorial election,Candidate,Ken Coon,Republican,187872,34.41,False,False
 1974,Arkansas,AR,governor,1974 Arkansas gubernatorial election,Candidate,Joseph H. Weston,Write-in,84,0.02,False,False
-1974,California,CA,governor,1974 California gubernatorial election,Winning,Edmund G. Brown Jr.,Democratic,3131648,50.12,True,False
+1974,California,CA,governor,1974 California gubernatorial election,Winning,Jerry Brown,Democratic,3131648,50.12,True,False
 1974,California,CA,governor,1974 California gubernatorial election,Candidate,Houston I. Flournoy,Republican,2952954,47.26,False,False
 1974,California,CA,governor,1974 California gubernatorial election,Candidate,Edmon V. Kaiser,Independent,83869,1.34,False,False
 1974,California,CA,governor,1974 California gubernatorial election,Candidate,Elizabeth Keathley,Freedom,75004,1.2,False,False
@@ -218,7 +219,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,New York,NY,governor,"New York gubernatorial election, 1974",Candidate,Wayne S. Amato,Courage,12459,0.24,False,False
 1974,New York,NY,governor,"New York gubernatorial election, 1974",Candidate,Jerome Tuccille,Libertarian,10503,0.2,False,False
 1974,New York,NY,governor,"New York gubernatorial election, 1974",Candidate,Derrick Morrison,Workers,8857,0.17,False,False
-1974,New York,NY,governor,"New York gubernatorial election, 1974",Candidate,Jose A. Ristorrucci,Communist Party Usa,5232,0.24,False,False
+1974,New York,NY,governor,"New York gubernatorial election, 1974",Candidate,Jose A. Ristorrucci,Communist Party Usa,5232,0.1,False,False
 1974,New York,NY,governor,"New York gubernatorial election, 1974",Candidate,John Emanuel,Labor,4574,0.09,False,False
 1974,New York,NY,governor,"New York gubernatorial election, 1974",Candidate,Anton Chaitkin,U.s. Labor,3151,0.06,False,False
 1974,Ohio,OH,governor,1974 Ohio gubernatorial election,Winning,Jim Rhodes,Republican,1493679,48.62,True,False
@@ -233,10 +234,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,Oregon,OR,governor,1974 Oregon gubernatorial election,Total,,,770574,100.0,False,False
 1974,Rhode Island,RI,governor,1974 Rhode Island gubernatorial election,Winning,Philip Noel,Democratic,252436,78.48,True,True
 1974,Rhode Island,RI,governor,1974 Rhode Island gubernatorial election,Candidate,James W. Nugent,Republican,69224,21.52,False,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Winning,James B. Edwards,Republican,266338,50.34,True,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,W.J. Bryan Dorn,Democratic,248861,47.04,False,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,Peggy Jennings,Independent,8313,1.57,False,False
-1974,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1974",Candidate,Write-Ins,No,5528,1.05,False,False
+1974,South Carolina,SC,governor,"South Carolina gubernatorial election, 1974",Winning,James B. Edwards,Republican,266338,50.34,True,False
+1974,South Carolina,SC,governor,"South Carolina gubernatorial election, 1974",Candidate,W.J. Bryan Dorn,Democratic,248861,47.04,False,False
+1974,South Carolina,SC,governor,"South Carolina gubernatorial election, 1974",Candidate,Peggy Jennings,Independent,8313,1.57,False,False
+1974,South Carolina,SC,governor,"South Carolina gubernatorial election, 1974",Candidate,Write-Ins,No,5528,1.05,False,False
 1974,South Dakota,SD,governor,"South Dakota gubernatorial election, 1974",Winning,Richard F. Kneip (inc.),Democratic,149151,53.61,True,False
 1974,South Dakota,SD,governor,"South Dakota gubernatorial election, 1974",Candidate,John E. Olson,Republican,129077,46.39,False,False
 1974,South Dakota,SD,governor,"South Dakota gubernatorial election, 1974",Total,,,278228,100.0,False,False
@@ -248,12 +249,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1974,Tennessee,TN,governor,1974 Tennessee gubernatorial election,Candidate,Hubert David Patty,Independent,845,0.08,False,False
 1974,Tennessee,TN,governor,1974 Tennessee gubernatorial election,Candidate,Arnold Joseph Zandi,Independent,784,0.08,False,False
 1974,Tennessee,TN,governor,1974 Tennessee gubernatorial election,Write-in,Write-in,Write-in,30,0.0,False,False
-1974,Texas,TX,governor,General Election Results,Winning,Dolph Briscoe (Inc.),Democratic,1016334,61.41,True,False
-1974,Texas,TX,governor,General Election Results,Candidate,Jim Granberry,Republican,514725,31.07,False,False
-1974,Texas,TX,governor,General Election Results,Candidate,Ramsey Muniz,Unida,93295,5.63,False,False
-1974,Texas,TX,governor,General Election Results,Candidate,S. W. McDonnell,Independent,22208,1.34,False,False
-1974,Texas,TX,governor,General Election Results,Candidate,Sherry Smith,Workers,8171,0.49,False,False
-1974,Texas,TX,governor,General Election Results,Total,,,1654984,100.0,False,False
+1974,Texas,TX,governor,General election results,Winning,Dolph Briscoe (Inc.),Democratic,1016334,61.41,True,False
+1974,Texas,TX,governor,General election results,Candidate,Jim Granberry,Republican,514725,31.07,False,False
+1974,Texas,TX,governor,General election results,Candidate,Ramsey Muniz,Unida,93295,5.63,False,False
+1974,Texas,TX,governor,General election results,Candidate,S. W. McDonnell,Independent,22208,1.34,False,False
+1974,Texas,TX,governor,General election results,Candidate,Sherry Smith,Workers,8171,0.49,False,False
+1974,Texas,TX,governor,General election results,Total,,,1654984,100.0,False,False
 1974,Vermont,VT,governor,1974 Vermont gubernatorial election,Candidate,Thomas P. Salmon,Democratic,77254,54.7,False,False
 1974,Vermont,VT,governor,1974 Vermont gubernatorial election,Candidate,Thomas P. Salmon (inc.),Total,79842,56.5,False,False
 1974,Vermont,VT,governor,1974 Vermont gubernatorial election,Candidate,Walter L. Kennedy,Republican,53672,38.1,False,False
@@ -322,6 +323,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1976,North Dakota,ND,governor,1976 North Dakota gubernatorial election,Winning,Arthur A. Link (inc.),North Dakota Democratic-npl,153309,51.58,True,False
 1976,North Dakota,ND,governor,1976 North Dakota gubernatorial election,Candidate,Richard Elkin,Republican,138321,46.53,False,False
 1976,North Dakota,ND,governor,1976 North Dakota gubernatorial election,Candidate,Martin K. Vaaler,American Party (1969),5619,1.89,False,False
+1976,North Dakota,ND,governor,1976 North Dakota gubernatorial election,Total,,,297249,100.0,False,False
 1976,Rhode Island,RI,governor,1976 Rhode Island gubernatorial election,Winning,J. Joseph Garrahy,Democratic,218561,54.82,True,False
 1976,Rhode Island,RI,governor,1976 Rhode Island gubernatorial election,Candidate,James L. Taft Jr.,Republican,178254,44.71,False,False
 1976,Rhode Island,RI,governor,1976 Rhode Island gubernatorial election,Candidate,John C. Swift,Independent,1267,0.32,False,False
@@ -771,8 +773,8 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1984,North Carolina,NC,governor,1984 NC Governor election results,Candidate,Rufus L. Edmisten,Democratic,1011209,45.41,False,False
 1984,North Carolina,NC,governor,1984 NC Governor election results,Candidate,H. Fritz Prochnaw,Libertarian,4610,0.21,False,False
 1984,North Carolina,NC,governor,1984 NC Governor election results,Candidate,Gregory McCartan,Workers,2740,0.12,False,False
-1984,North Dakota,ND,governor,"North Dakota gubernatorial election, 1984",Winning,George A. Sinner/Ruth Meiers,North Dakota Democratic-npl,173922,55.32,True,False
-1984,North Dakota,ND,governor,"North Dakota gubernatorial election, 1984",Candidate,Allen I. Olson (inc.)/Ernest Sands,Republican,140460,44.68,False,False
+1984,North Dakota,ND,governor,"North Dakota gubernatorial election, 1984",Winning,George A. Sinner,North Dakota Democratic-npl,173922,55.32,True,False
+1984,North Dakota,ND,governor,"North Dakota gubernatorial election, 1984",Candidate,Allen I. Olson (inc.),Republican,140460,44.68,False,False
 1984,North Dakota,ND,governor,"North Dakota gubernatorial election, 1984",Total,,,314382,100.0,False,False
 1984,Rhode Island,RI,governor,1984 Rhode Island gubernatorial election,Winning,Edward D. DiPrete,Republican,245059,60.01,True,False
 1984,Rhode Island,RI,governor,1984 Rhode Island gubernatorial election,Candidate,Anthony J. Solomon,Democratic,163311,39.99,False,False
@@ -959,8 +961,8 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1988,Montana,MT,governor,"Montana gubernatorial election, 1988",Candidate,William Dee Morris,Libertarian,7104,1.94,False,False
 1988,North Carolina,NC,governor,1988 NC Governor Election Results,Winning,James G. Martin,Republican,1222258,55.06,True,True
 1988,North Carolina,NC,governor,1988 NC Governor Election Results,Candidate,Robert B. Jordan,Democratic,997408,44.94,False,False
-1988,North Dakota,ND,governor,"North Dakota gubernatorial election, 1988",Winning,George A. Sinner (inc.)/Lloyd Omdahl,North Dakota Democratic-npl,179094,59.88,True,False
-1988,North Dakota,ND,governor,"North Dakota gubernatorial election, 1988",Candidate,Leon Mallberg/Donna Nalewaja,Republican,119986,40.12,False,False
+1988,North Dakota,ND,governor,"North Dakota gubernatorial election, 1988",Winning,George A. Sinner (inc.),North Dakota Democratic-npl,179094,59.88,True,False
+1988,North Dakota,ND,governor,"North Dakota gubernatorial election, 1988",Candidate,Leon Mallberg,Republican,119986,40.12,False,False
 1988,North Dakota,ND,governor,"North Dakota gubernatorial election, 1988",Total,,,299080,100.0,False,False
 1988,Rhode Island,RI,governor,1988 Rhode Island gubernatorial election,Winning,Edward D. DiPrete,Republican,203550,50.83,True,True
 1988,Rhode Island,RI,governor,1988 Rhode Island gubernatorial election,Candidate,Bruce Sundlun,Democratic,196925,49.17,False,False
@@ -1110,6 +1112,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1990,Rhode Island,RI,governor,1990 Rhode Island gubernatorial election,Winning,Bruce Sundlun,Democratic,264411,74.15,True,False
 1990,Rhode Island,RI,governor,1990 Rhode Island gubernatorial election,Candidate,Edward D. DiPrete,Republican,92177,25.85,False,True
 1990,Rhode Island,RI,governor,1990 Rhode Island gubernatorial election,Total,,,356672,100.0,False,False
+1990,South Carolina,SC,governor,1990 South Carolina gubernatorial election,Winning,"Carroll A. Campbell, Jr.",Republican,528831,69.49,True,True
+1990,South Carolina,SC,governor,1990 South Carolina gubernatorial election,Candidate,Theo Mitchell,Democratic,212048,27.86,False,False
+1990,South Carolina,SC,governor,1990 South Carolina gubernatorial election,Candidate,"John R. Peeples, Jr.",American,17263,2.3,False,False
+1990,South Carolina,SC,governor,1990 South Carolina gubernatorial election,Candidate,Write-Ins,No,2877,0.4,False,False
 1990,South Dakota,SD,governor,"South Dakota gubernatorial election, 1990",Winning,George S. Mickelson (inc.),Republican,151198,58.9,True,False
 1990,South Dakota,SD,governor,"South Dakota gubernatorial election, 1990",Candidate,Bob L. Samuelson,Democratic,105525,41.1,False,False
 1990,South Dakota,SD,governor,"South Dakota gubernatorial election, 1990",Total,,,256723,100.0,False,False
@@ -1554,13 +1560,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Maryland,MD,governor,"Maryland gubernatorial election, 1998",Winning,Parris Glendening (inc.),Democratic,846972,55.14,True,False
 1998,Maryland,MD,governor,"Maryland gubernatorial election, 1998",Candidate,Ellen Sauerbrey,Republican,688357,44.82,False,False
 1998,Maryland,MD,governor,"Maryland gubernatorial election, 1998",Write-in,Write-ins,Write-ins,649,0.04,False,False
-1998,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 1998",Winning,Paul Cellucci (acting),Republican,967160,50.87,True,False
+1998,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 1998",Winning,Paul Cellucci,Republican,967160,50.87,True,True
 1998,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 1998",Candidate,Scott Harshbarger,Democratic,901843,47.44,False,False
 1998,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 1998",Candidate,Dean Cook,Libertarian,32184,1.69,False,False
 1998,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 1998",Candidate,Blank votes,N/a,31941,1.65,False,False
 1998,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 1998",Write-in,,,2149,0.11,False,False
 1998,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 1998",Total,,,1901187,51.19,False,False
-1998,Michigan,MI,governor,1998 Michigan gubernatorial election,Winning,John Engler (inc.),Republican,1883005,62.2,True,False
+1998,Michigan,MI,governor,1998 Michigan gubernatorial election,Winning,John Engler,Republican,1883005,62.2,True,True
 1998,Michigan,MI,governor,1998 Michigan gubernatorial election,Candidate,Geoffrey Fieger,Democratic,1143574,37.78,False,False
 1998,Michigan,MI,governor,1998 Michigan gubernatorial election,Candidate,Terry Link (write-in),,399,0.01,False,False
 1998,Michigan,MI,governor,1998 Michigan gubernatorial election,Candidate,Carl Humphrey (write-in),,36,0.0,False,False
@@ -1976,6 +1982,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2004,North Dakota,ND,governor,"North Dakota gubernatorial election, 2004",Winning,John Hoeven,Republican,220803,71.26,True,True
 2004,North Dakota,ND,governor,"North Dakota gubernatorial election, 2004",Candidate,Joe Satrom,North Dakota Democratic-npl,84877,27.39,False,False
 2004,North Dakota,ND,governor,"North Dakota gubernatorial election, 2004",Candidate,Roland Riemers,Libertarian,4193,1.35,False,False
+2004,North Dakota,ND,governor,"North Dakota gubernatorial election, 2004",Total,,,309873,100.0,False,False
 2004,Utah,UT,governor,2004 Utah gubernatorial election,Winning,Jon Huntsman Jr.,Republican,531190,57.74,True,False
 2004,Utah,UT,governor,2004 Utah gubernatorial election,Candidate,Scott Matheson Jr.,Democratic,380359,41.35,False,False
 2004,Utah,UT,governor,2004 Utah gubernatorial election,Candidate,Ken Larsen,Choice,8399,0.91,False,False
@@ -2228,6 +2235,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2008,North Dakota,ND,governor,"North Dakota gubernatorial election, 2008",Winning,John Hoeven,Republican,235009,74.44,True,True
 2008,North Dakota,ND,governor,"North Dakota gubernatorial election, 2008",Candidate,Tim Mathern,North Dakota Democratic-npl,74279,23.53,False,False
 2008,North Dakota,ND,governor,"North Dakota gubernatorial election, 2008",Candidate,DuWayne Hendrickson,Independent,6404,2.03,False,False
+2008,North Dakota,ND,governor,"North Dakota gubernatorial election, 2008",Total,,,315692,100.0,False,False
 2008,Utah,UT,governor,2008 Utah gubernatorial election,Winning,Jon Huntsman Jr.,Republican,735049,77.63,True,True
 2008,Utah,UT,governor,2008 Utah gubernatorial election,Candidate,Bob Springmeyer,Democratic,186503,19.72,False,False
 2008,Utah,UT,governor,2008 Utah gubernatorial election,Candidate,Dell Schanze,Libertarian,24820,2.62,False,False
@@ -2347,11 +2355,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2010,Kansas,KS,governor,2010 Kansas gubernatorial election,Candidate,Andrew P. Gray,Libertarian,22460.0,2.68,False,False
 2010,Kansas,KS,governor,2010 Kansas gubernatorial election,Candidate,Kenneth W. Cannon,Reform,15397.0,1.84,False,False
 2010,Kansas,KS,governor,2010 Kansas gubernatorial election,Write-in,Write-ins,Write-ins,7.0,0.0,False,False
-2010,Maine,ME,governor,"2010 Gubernatorial Election, Maine",Winning,Paul LePage,Republican,218065.0,37.56,True,False
-2010,Maine,ME,governor,"2010 Gubernatorial Election, Maine",Candidate,Eliot Cutler,Independent,208270.0,35.88,False,False
-2010,Maine,ME,governor,"2010 Gubernatorial Election, Maine",Candidate,Libby Mitchell,Democratic,109387.0,18.84,False,False
-2010,Maine,ME,governor,"2010 Gubernatorial Election, Maine",Candidate,Shawn Moody,Independent,28756.0,4.95,False,False
-2010,Maine,ME,governor,"2010 Gubernatorial Election, Maine",Candidate,Kevin Scott,Independent,5664.0,0.98,False,False
+2010,Maine,ME,governor,"2010 gubernatorial election, Maine",Winning,Paul LePage,Republican,218065.0,37.56,True,False
+2010,Maine,ME,governor,"2010 gubernatorial election, Maine",Candidate,Eliot Cutler,Independent,208270.0,35.88,False,False
+2010,Maine,ME,governor,"2010 gubernatorial election, Maine",Candidate,Libby Mitchell,Democratic,109387.0,18.84,False,False
+2010,Maine,ME,governor,"2010 gubernatorial election, Maine",Candidate,Shawn Moody,Independent,28756.0,4.95,False,False
+2010,Maine,ME,governor,"2010 gubernatorial election, Maine",Candidate,Kevin Scott,Independent,5664.0,0.98,False,False
 2010,Maryland,MD,governor,2010 Maryland gubernatorial election,Winning,Martin O'Malley,Democratic,1044961.0,56.24,True,True
 2010,Maryland,MD,governor,2010 Maryland gubernatorial election,Candidate,Bob Ehrlich,Republican,776319.0,41.79,False,False
 2010,Maryland,MD,governor,2010 Maryland gubernatorial election,Candidate,Susan Gaztanaga,Libertarian,14137.0,0.76,False,False
@@ -2592,14 +2600,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2014,Alaska,AK,governor,2014 Alaska gubernatorial election,Total,,,279958,100.0,False,False
 2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Winning,Doug Ducey,Republican,805062,53.44,True,False
 2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Fred DuVal,Democratic,626921,41.62,False,False
-2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Barry Hess,Libertarian,57337,3.8,False,False
+2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Barry Hess,Libertarian,57337,3.81,False,False
 2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,John Lewis Mealer,Americans Elect,15432,1.02,False,False
-2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,J. Johnson (write-in),None,1520,0.1,False,False
-2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Brian Bailey (write-in),Independent,50,,False,False
-2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Alice Novoa (write-in),Republican,43,,False,False
-2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Cary Dolego (write-in),Independent,29,,False,False
-2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Curtis Woolsey (write-in),None,15,,False,False
-2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Diane-Elizabeth R.R. Kennedy (write-in),Independent,7,,False,False
+2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Write-in,None,1664,0.11,False,False
 2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Total,,,1506416,100.0,False,False
 2014,Arkansas,AR,governor,2014 Arkansas gubernatorial election,Winning,Asa Hutchinson,Republican,470429,55.44,True,False
 2014,Arkansas,AR,governor,2014 Arkansas gubernatorial election,Candidate,Mike Ross,Democratic,352115,41.49,False,False

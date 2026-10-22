@@ -1,4 +1,7 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
+1944,Alabama,"1944 U.S. Senate election in Alabama, Democratic primary",Primary,Winning,True,Democratic Party (US),J. Lister Hill,"126,372",55.54%
+1944,Alabama,"1944 U.S. Senate election in Alabama, Democratic primary",Primary,Candidate,False,Democratic Party (US),James Simpson,"101,176",44.46%
+1944,Alabama,"1944 U.S. Senate election in Alabama, Democratic primary",Primary,Total,False,,,"227,548",100.00%
 1944,Arizona,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Carl T. Hayden,"48,812",64.54%
 1944,Arizona,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Joe Conway,"22,764",30.10%
 1944,Arizona,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Henderson Stockton,"4,059",5.37%
@@ -109,6 +112,13 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1944,Missouri,"Republican primary August 1, 1944",Primary,Candidate,False,Republican Party (United States),William McKinley Thomas,"4,284",1.44
 1944,Missouri,"Republican primary August 1, 1944",Primary,Candidate,False,Republican Party (United States),H. Grosby,"2,786",0.93
 1944,Missouri,"Republican primary August 1, 1944",Primary,Total,False,,,"298,008",100
+1944,Nevada,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Pat McCarran,"11,152",52.95
+1944,Nevada,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Vail Pittman,"9,911",47.05
+1944,Nevada,Democratic primary results,Primary,Total,False,,,"21,063",
+1944,Nevada,Republican primary results,Primary,Winning,False,Republican Party (United States),George W. Malone,"5,125",57.76
+1944,Nevada,Republican primary results,Primary,Candidate,False,Republican Party (United States),Kenneth F. Johnson,"2,719",30.64
+1944,Nevada,Republican primary results,Primary,Candidate,False,Republican Party (United States),Kendrick Johnson,"1,029",11.60
+1944,Nevada,Republican primary results,Primary,Total,False,,,"8,873",
 1944,New Hampshire,1944 Republican U.S. Senate primary,Primary,Winning,True,Republican Party (US),Charles W. Tobey,"27,183",57.12%
 1944,New Hampshire,1944 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (US),Foster W. Stearns,"20,407",42.88%
 1944,New Hampshire,1944 Republican U.S. Senate primary,Primary,Total,False,,,"47,590",100.00%
@@ -157,6 +167,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1944,Oklahoma,Republican primary,Primary,Candidate,False,Republican Party (United States),S. M. Stauffer,811,1.87%
 1944,Oklahoma,Republican primary,Primary,Candidate,False,Republican Party (United States),Sim L. Liles,368,0.85%
 1944,Oklahoma,Republican primary,Primary,Total,False,,,"43,482",100.00%
+1944,South Carolina,Democratic Primary results,Primary,Winning,False,Democratic Party (United States),Olin D. Johnston,"138,440",55.2
+1944,South Carolina,Democratic Primary results,Primary,Candidate,False,Democratic Party (United States),Ellison D. Smith,"88,085",35.1
+1944,South Carolina,Democratic Primary results,Primary,Candidate,False,Democratic Party (United States),John M. Daniel,"14,572",5.8
+1944,South Carolina,Democratic Primary results,Primary,Candidate,False,Democratic Party (United States),Carl B. Epps,"6,861",2.7
+1944,South Carolina,Democratic Primary results,Primary,Candidate,False,Democratic Party (United States),A.S. Merrimon,"2,858",1.2
 1944,South Dakota,Republican primary,Primary,Winning,False,Republican Party (United States),Chan Gurney (inc.),"35,960",56.18%
 1944,South Dakota,Republican primary,Primary,Candidate,False,Republican Party (United States),A. C. Miller,"28,052",43.82%
 1944,South Dakota,Republican primary,Primary,Total,False,,,"64,012",100.00%

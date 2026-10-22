@@ -12,6 +12,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2014,Alaska,Republican primary results,Primary,Candidate,False,Mead Treadwell,Republican Party (United States),"27,807",24.90%
 2014,Alaska,Republican primary results,Primary,Candidate,False,John Jaramillo,Republican Party (United States),"3,246",2.91%
 2014,Alaska,Republican primary results,Primary,Total,False,,,"111,697",100.00%
+2014,Arkansas,Democratic primary results,Primary,Winning,True,Mark Pryor,Democratic Party (United States),,
+2014,Arkansas,Democratic primary results,Primary,Total,False,,,,
+2014,Arkansas,Republican primary results,Primary,Winning,False,Tom Cotton,Republican Party (United States),,
+2014,Arkansas,Republican primary results,Primary,Total,False,,,,
 2014,Colorado,Democratic primary results,Primary,Winning,True,Mark Udall,Democratic Party (United States),"213,746",100.00%
 2014,Colorado,Democratic primary results,Primary,Total,False,,,"213,746",100.00%
 2014,Colorado,Republican primary results,Primary,Winning,False,Cory Gardner,Republican Party (United States),"338,324",100.00%

@@ -211,6 +211,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1980,Pennsylvania,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Tom Anderson,"89,656",6.19
 1980,Pennsylvania,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),H. Craig Lewis,"69,701",4.81
 1980,Pennsylvania,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),John J. Logue,"13,752",0.95
+1980,South Carolina,Democratic Primary results,Primary,Winning,False,Democratic Party (United States),Fritz Hollings,"266,796",81.2%
+1980,South Carolina,Democratic Primary results,Primary,Candidate,False,Democratic Party (United States),Nettie Durant Dickerson,"34,720",10.6%
+1980,South Carolina,Democratic Primary results,Primary,Candidate,False,Democratic Party (United States),William P. Kreml,"27,049",8.2%
+1980,South Carolina,Republican Primary results,Primary,Winning,False,Republican Party (United States),Marshall Mays,"14,075",42.6%
+1980,South Carolina,Republican Primary results,Primary,Candidate,False,Republican Party (United States),Charlie Rhodes,"11,395",34.5%
+1980,South Carolina,Republican Primary results,Primary,Candidate,False,Republican Party (United States),Robert Carley,"7,575",22.9%
+1980,South Carolina,Republican Primary Runoff results,Primary,Winning,False,Republican Party (United States),Marshall Mays,"6,853",64.8%
+1980,South Carolina,Republican Primary Runoff results,Primary,Candidate,False,Republican Party (United States),Charlie Rhodes,"3,717",35.2%
 1980,South Dakota,Democratic primary results,Primary,Winning,True,Democratic Party (United States),George McGovern,"44,822",62.44%
 1980,South Dakota,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Larry Schumaker,"26,958",37.56%
 1980,South Dakota,Democratic primary results,Primary,Total,False,,,"71,780",100.00%
