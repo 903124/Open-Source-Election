@@ -100,14 +100,33 @@ def discover_race_titles(text: str, year: int) -> List[str]:
     consecutive overviews is only ever attributed to its own cycle.
     'special' is matched case-insensitively ('2020 United States Senate
     Special election in Kansas').
+
+    *Plural* titles — ``2022 United States Senate elections in California``
+    — are matched as well: states hosting several Senate races in one cycle
+    (regular + special, or two specials) get a combined ``elections in
+    <State>`` article, and skipping the plural form used to drop the whole
+    state from the cycle (California 2022, Illinois 2010, ...).  Use
+    :func:`is_plural_race_title` to tell the combined article apart from a
+    single-race one.
     """
     pattern = (
         r"\{\{\s*[Mm]ain\s*\|\s*("
         + str(year)
         + r"(?:\s*[-\u2013\u2014/]\s*(?:\d{2}|\d{4}))?"  # optional year span: –21 / -2021 / /21
-        + r" United States Senate (?:[Ss]pecial )?election in [^}|]+?)\s*(?:\|[^}]*)?\}\}"
+        + r" United States Senate (?:[Ss]pecial )?elections? in [^}|]+?)\s*(?:\|[^}]*)?\}\}"
     )
     return list(dict.fromkeys(re.findall(pattern, text)))
+
+
+def is_plural_race_title(title: str) -> bool:
+    """
+    True when *title* points at a combined ``elections in <State>`` article
+    covering several races of one cycle (e.g. ``2022 United States Senate
+    elections in California``), False for a single-race article.
+    """
+    return bool(
+        re.search(r"United States Senate (?:[Ss]pecial )?elections in ", title)
+    )
 
 
 def state_from_title(title: str) -> Optional[str]:
@@ -117,8 +136,9 @@ def state_from_title(title: str) -> Optional[str]:
     '2018 United States Senate election in Arizona'             → 'Arizona'
     '2018 United States Senate special election in Mississippi' → 'Mississippi (special)'
     '2020–21 United States Senate election in Georgia'          → 'Georgia'
+    '2022 United States Senate elections in California'         → 'California'
     """
-    m = re.search(r"United States Senate ([Ss]pecial )?election in (.+?)\s*$", title)
+    m = re.search(r"United States Senate ([Ss]pecial )?elections? in (.+?)\s*$", title)
     if not m:
         return None
     state = m.group(2).strip()
@@ -868,27 +888,77 @@ def parse_election_boxes(
     # (e.g. 'change = {{decrease}}4.87' on 1980s-2000s articles), so the
     # parameter body must tolerate balanced '{{...}}' spans.
     _param_body = r"((?:[^{}]|\{\{[^}]*\}\})+?)"
+    # Some articles (1930 Kentucky, ...) close boxes with '{{End}}' — or not
+    # at all before the next box — instead of '{{Election box end}}'; all
+    # three terminators are accepted so those boxes are not lost.
     pattern = (r"\{\{Election box begin(?: no change)?\s*\|?\s*"
                r"((?:[^{}]|\{\{[^}]*\}\})*?)\}\}"
-               r"(.*?)\{\{Election box end\}\}")
+               r"(.*?)"
+               r"(?:\{\{Election box end\s*\}\}|\{\{End\s*\}\}"
+               r"|(?=\{\{Election box begin\b)|$)")
+
+    # Section-context map for kind tagging: on shared regular+special pages
+    # (Kansas 1950, Ohio 1946, ...) the special race's boxes often carry
+    # generic titles ('Democratic primary results') but sit under a
+    # '== Special election ==' / '=== Special election ==' section heading.
+    heading_marks = [
+        (m.start(), len(m.group(1)), re.sub(r"\s+", " ", m.group(2)).lower())
+        for m in re.finditer(r"^(={2,6})\s*(.+?)\s*\1\s*$", text, re.MULTILINE)
+    ]
+
+    # Enclosing-section chain per heading (stack semantics: a heading ends
+    # every deeper section, so '=== Regular election ===' must clear an
+    # earlier '=== Special election ===' sibling — California 2022 nests
+    # both blanket primaries under one '== Primary elections ==' section).
+    heading_chains: List[Tuple[int, List[str]]] = []
+    _stack: List[Tuple[int, str]] = []
+    for hpos, hlevel, hname in heading_marks:
+        while _stack and _stack[-1][0] >= hlevel:
+            _stack.pop()
+        _stack.append((hlevel, hname))
+        heading_chains.append((hpos, [n for _, n in _stack]))
+
+    def _section_has_special(box_pos: int) -> bool:
+        """True when the chain of sections enclosing *box_pos* mentions 'special'."""
+        chain: List[str] = []
+        for hpos, ch in heading_chains:
+            if hpos >= box_pos:
+                break
+            chain = ch
+        return any("special" in h for h in chain)
+
     all_data: List[Dict] = []
     box_idx = 0
 
-    for header, box_content in re.findall(pattern, text, re.DOTALL):
+    for m in re.finditer(pattern, text, re.DOTALL):
+        header, box_content = m.group(1), m.group(2)
         box_idx += 1
         # title runs to end-of-line, <ref>, or the closing braces
         title_match = re.search(r"title\s*=\s*([^\n<]+)", header)
         election_title = title_match.group(1).strip() if title_match else "Unknown"
         election_title = clean_wikitext(election_title)
 
+        # Tag race kind from the section context when the box title itself
+        # is generic — the '(special)' suffix is what splits the combined
+        # pages into '<State>' and '<State> (special)' rows.
+        if "special" not in election_title.lower() and _section_has_special(m.start()):
+            election_title = f"{election_title} (special)"
+
         is_primary = "primary" in election_title.lower()
         election_type = "Primary" if is_primary else "General"
 
         row_patterns = [
             (r"\{\{Election box winning candidate with party link(?: no change)?[\s\|]" + _param_body + r"\}\}", "Winning"),
+            # Unopposed primaries have no 'winning candidate' row — the single
+            # {{Election box unopposed candidate}} IS the winner (e.g. Mark
+            # Pryor / Tom Cotton, Arkansas 2014).
+            (r"\{\{Election box unopposed candidate(?: with party link)?(?: no change)?[\s\|]" + _param_body + r"\}\}", "Winning"),
             (r"\{\{Election box candidate with party link(?: no change)?[\s\|]" + _param_body + r"\}\}", "Candidate"),
             (r"\{\{Election box write-in with party link(?: no change)?[\s\|]" + _param_body + r"\}\}", "Write-in"),
+            (r"\{\{Election box unopposed write-in(?: with party link)?(?: no change)?[\s\|]" + _param_body + r"\}\}", "Write-in"),
             (r"\{\{Election box total(?: no change)?[\s\|]" + _param_body + r"\}\}", "Total"),
+            # '{{Election box unopposed total no change}}' carries no parameters
+            (r"\{\{Election box unopposed total(?: no change)?(?:\s*\|?" + _param_body + r")?\}\}", "Total"),
         ]
 
         for regex, row_type in row_patterns:
@@ -962,6 +1032,211 @@ def parse_election_boxes(
     primary_df = df[df["Election_Type"] == "Primary"].copy()
     general_df = df[df["Election_Type"] == "General"].copy()
     return primary_df, general_df
+
+
+# ──────────────────────────────────────────────
+# WIKITABLE PRIMARY RESULTS (non-election-box articles)
+# ──────────────────────────────────────────────
+
+#: Section boundaries: any heading level with its exact marker back-referenced.
+#: '== Democratic primary ==' and '==Jungle primary==' both match; the
+#: backreference keeps '=== Candidates ===' from being misread as level 2.
+_L2_HEADING_RE = re.compile(r"^(={2,6})\s*(.+?)\s*\1\s*$", re.MULTILINE)
+
+#: Candidate-name cells that mark a footer/metadata row, not a candidate.
+_NON_CANDIDATE_CELLS = frozenset((
+    "total", "undecided", "majority", "plurality", "swing", "n/a", "na",
+    "blanked", "candidate", "others", "other",
+))
+
+#: '570,677' / '570677' — a pure integer vote count
+_INT_RE = re.compile(r"^\d{1,3}(?:,\d{3})*$|^\d+$")
+#: '90%' / '90.76%' — a percentage cell
+_PCT_RE = re.compile(r"^\d{1,3}(?:\.\d+)?\s*%$")
+
+#: Header keywords that mark a table as NOT an election-results table
+_NOT_RESULTS_HEADERS = (
+    "poll source", "margin", "sample size", "raised", "spent", "cash on hand",
+)
+
+
+def _table_header_cells(table: str) -> List[str]:
+    """Cleaned lowercase '!' header cells of a wikitable (spanning ones skipped)."""
+    headers: List[str] = []
+    for line in table.split("\n"):
+        line = line.strip()
+        if not line.startswith("!"):
+            continue
+        span = re.search(r'colspan\s*=\s*"?(\d+)', line)
+        if span and int(span.group(1)) > 1:
+            continue
+        headers.append(clean_wikitext(_strip_cell_markup(line[1:])).lower())
+    return headers
+
+
+def _results_label(table: str, heading: str) -> str:
+    """
+    Election label for a wikitable results block: the table's spanning
+    header ('Republican Primary Runoff') when present, else the section
+    heading ('Republican primary') — mirroring the 'Democratic primary
+    results' naming the {{Election box}} titles use.  A spanning header
+    that merely names a results COLUMN GROUP ('Election results (initial
+    data entry)', Washington 2006) is not a title — the heading is used.
+    """
+    m = re.search(r"^\!\s*colspan=\"?\d+\"?\s*\|\s*(.+)$", table, re.MULTILINE)
+    label = ""
+    if m:
+        label = clean_wikitext(m.group(1))
+        label = re.sub(r"\s+", " ", label).strip(" |")
+        if "election result" in label.lower() or "results" in label.lower():
+            label = ""
+    if not label:
+        label = heading
+    return f"{label} results"
+
+
+def _party_from_context(heading: str, table: str) -> str:
+    """Party from the section heading or the rows' {{Party shading/...}}."""
+    low = heading.lower()
+    if "democratic" in low or re.search(r"[Pp]arty shading/Democratic", table):
+        return "Democratic Party (United States)"
+    if "republican" in low or re.search(r"[Pp]arty shading/Republican", table):
+        return "Republican Party (United States)"
+    return ""
+
+
+def _table_row_segments(table: str) -> List[str]:
+    """Raw row segments of a wikitable (everything between '|-' markers)."""
+    segs: List[str] = []
+    cur: Optional[List[str]] = None
+    for line in table.split("\n"):
+        s = line.strip()
+        if s.startswith(("{|", "|+", "!", "|}")):
+            continue
+        if s.startswith("|-"):
+            if cur is not None:
+                segs.append("\n".join(cur))
+                cur = None
+            continue
+        if s.startswith("|") or cur is not None:
+            if cur is None:
+                cur = [line]
+            else:
+                cur.append(line)
+    if cur is not None:
+        segs.append("\n".join(cur))
+    return segs
+
+
+def _parse_results_wikitable(table: str, state_name: str, heading: str) -> List[Dict]:
+    """
+    Parse one wikitable of primary results into election-box-shaped rows.
+
+    Two layouts are handled:
+      * header-mapped — headers name Candidate / Votes / % columns
+        (SC/GA/AL style, incl. Georgia's extra county-unit column);
+      * content-mapped — when headers and row cells do not line up
+        (WA 2006 mixes a poll column with two vote/% pairs), votes are the
+        last pure-integer cell and the percentage the last '%' cell.
+    Polling, finance and debate tables are rejected by header guards.
+    """
+    headers = _table_header_cells(table)
+    if not headers:
+        return []
+    joined = " | ".join(headers)
+    if any(t in joined for t in _NOT_RESULTS_HEADERS):
+        return []
+    has_votes_hdr = any(
+        re.search(r"votes?", h) and not re.search(r"unit|cuv", h) for h in headers
+    )
+    has_pct_hdr = any("%" in h or "percent" in h for h in headers)
+    has_results_hdr = "election result" in joined
+    if not (has_votes_hdr or has_pct_hdr or has_results_hdr):
+        return []
+
+    cand_idx = votes_idx = pct_idx = None
+    for i, h in enumerate(headers):
+        if cand_idx is None and "candidate" in h:
+            cand_idx = i
+        if votes_idx is None and re.search(r"votes?", h) and not re.search(r"unit|cuv", h):
+            votes_idx = i
+        if pct_idx is None and ("%" in h or "percent" in h):
+            pct_idx = i
+    if cand_idx is None:
+        cand_idx = 0
+
+    label = _results_label(table, heading)
+    party = _party_from_context(heading, table)
+
+    rows: List[Dict] = []
+    for seg in _table_row_segments(table):
+        cells = _split_row_cells(seg)
+        if len(cells) < 2:
+            continue
+        candidate = _clean_cell(cells[cand_idx]) if cand_idx < len(cells) else ""
+        candidate = re.sub(r"''+", "", candidate).strip()   # ''italic'' markup
+        if not candidate or candidate.lower() in _NON_CANDIDATE_CELLS:
+            continue
+
+        # header-mapped only when the row shape matches the header layout
+        use_header = votes_idx is not None and len(cells) == len(headers)
+        if use_header:
+            votes = _clean_cell(cells[votes_idx]) if votes_idx < len(cells) else ""
+            pct = _clean_cell(cells[pct_idx]) if pct_idx is not None and pct_idx < len(cells) else ""
+        else:
+            ints = [_clean_cell(c) for c in cells[1:] if _INT_RE.match(_clean_cell(c))]
+            pcts = [_clean_cell(c) for c in cells[1:] if _PCT_RE.match(_clean_cell(c))]
+            votes = ints[-1] if ints else ""
+            pct = pcts[-1] if pcts else ""
+        if votes and not _INT_RE.match(votes):
+            votes = ""   # mis-mapped cell — keep the row, drop the junk value
+
+        candidate, is_inc = extract_incumbent_flag(candidate)
+        rows.append({
+            "State": state_name,
+            "Election": label,
+            "Election_Type": "Primary",
+            "Row_Type": "Candidate",
+            "Incumbent": bool(is_inc),
+            "party": party,
+            "candidate": candidate,
+            "votes": votes,
+            "percentage": pct,
+        })
+
+    # Winner fallback (same convention as the box parser): top-voted row.
+    if rows:
+        def _num(v: str) -> int:
+            digits = re.sub(r"[^\d]", "", v)
+            return int(digits) if digits else -1
+
+        top = max(range(len(rows)), key=lambda i: _num(rows[i]["votes"]))
+        if _num(rows[top]["votes"]) > 0:
+            rows[top]["Row_Type"] = "Winning"
+    return rows
+
+
+def parse_wikitable_primary_results(text: str, state_name: str) -> pd.DataFrame:
+    """
+    Extract primary results from plain wikatables under level-2 primary
+    sections ('== Democratic primary ==', '== Republican primary ==').
+
+    Covers articles that report primaries without {{Election box}}
+    templates — Washington 2006, South Carolina 1936–1992, Georgia's
+    county-unit era (1942–1960), ...  Polling / finance / debate tables
+    under the same headings are rejected by header guards.
+    """
+    rows: List[Dict] = []
+    heads = [m for m in _L2_HEADING_RE.finditer(text) if len(m.group(1)) == 2]
+    for i, m in enumerate(heads):
+        heading = m.group(2)
+        if "primary" not in heading.lower():
+            continue
+        seg_end = heads[i + 1].start() if i + 1 < len(heads) else len(text)
+        seg = text[m.end():seg_end]
+        for tb in re.findall(r"^\{\|.*?^\|\}", seg, re.MULTILINE | re.DOTALL):
+            rows.extend(_parse_results_wikitable(tb, state_name, heading))
+    return pd.DataFrame(rows) if rows else pd.DataFrame()
 
 
 # ──────────────────────────────────────────────
@@ -1139,6 +1414,17 @@ def parse_election_data_universal(text: str, state_name: str, year: Optional[int
         text, state_name, incumbent_name
     )
 
+    # ── STEP 3b: wikitabled primary results ────────────────────────────
+    # Some articles report primary results as plain wikitables under the
+    # '== Democratic primary ==' / '== Republican primary ==' sections
+    # instead of {{Election box}} templates (Washington 2006, South
+    # Carolina 1936–1992, Georgia's county-unit era, ...).  Consulted only
+    # when the box parser found no primary rows, so never double-counts.
+    if results["primary_results"].empty:
+        wt = parse_wikitable_primary_results(text, state_name)
+        if len(wt):
+            results["primary_results"] = wt
+
     if year is not None:
         for key in RESULT_KEYS:
             df = results[key]
@@ -1187,11 +1473,43 @@ def normalize_polling_date_columns(df: pd.DataFrame) -> pd.DataFrame:
 # BATCH PROCESSING + OUTPUT
 # ──────────────────────────────────────────────
 
+def _attribute_plural_rows(parsed: Dict, base_state: str, singular_kinds: set) -> Dict:
+    """
+    Re-attribute rows parsed from a page carrying several races of one
+    cycle (a combined ``elections in <State>`` article, or the shared
+    regular+special page of e.g. Kansas 1950).  Boxes titled for a special
+    race (``... special election ...`` / ``Special election blanket primary
+    results``) move under ``<State> (special)``; race kinds that dedicated
+    single-race pages already cover are dropped, so nothing is parsed
+    twice.  *singular_kinds* is empty for pages parsed without plural
+    competitors — those get the kind split only.
+    """
+    drop_special = "special" in singular_kinds
+    drop_regular = "regular" in singular_kinds
+    for key in RESULT_KEYS:
+        df = parsed.get(key)
+        if df is None or df.empty or "Election" not in df.columns:
+            continue
+        is_special_row = (
+            df["Election"].astype(str).str.lower().str.contains("special", na=False)
+        )
+        df = df.copy()
+        # Start every row from the base label: a page reached via a
+        # special-titled article carries '<State> (special)' on ALL its rows,
+        # including the regular-race boxes.
+        df["State"] = base_state
+        df.loc[is_special_row, "State"] = f"{base_state} (special)"
+        keep = ~((is_special_row & drop_special) | (~is_special_row & drop_regular))
+        parsed[key] = df[keep].reset_index(drop=True)
+    return parsed
+
+
 def process_senate_cycles(
     start_year: int,
     end_year: int,
     client: Optional[WikiAPIClient] = None,
     include_off_years: bool = True,
+    years: Optional[List[int]] = None,
 ) -> Dict:
     """
     Discover and parse every Senate race for the election years in
@@ -1204,13 +1522,19 @@ def process_senate_cycles(
     overview article (regular *and* special elections); all race articles
     are then fetched in rate-limited batches and parsed.  Returns per-year
     and combined DataFrames plus metadata.
+
+    *years* optionally overrides the start/end-derived cycle list with an
+    explicit selection (used for surgical re-runs of individual cycles).
     """
-    years = even_years(start_year, end_year)
-    if include_off_years:
-        off = _odd_years(start_year, end_year)
-        if off:
-            logger.info("Including off-year (odd) special cycles: %s", off)
-        years = sorted(set(years) | set(off))
+    if years is None:
+        years = even_years(start_year, end_year)
+        if include_off_years:
+            off = _odd_years(start_year, end_year)
+            if off:
+                logger.info("Including off-year (odd) special cycles: %s", off)
+            years = sorted(set(years) | set(off))
+    else:
+        years = sorted(set(years))
     meta: Dict = {
         "start_year": start_year,
         "end_year": end_year,
@@ -1291,8 +1615,65 @@ def process_senate_cycles(
         else fetch_articles_batch(list(race_map))
     )
 
+    # Two discovered titles can resolve to the SAME page: a plural
+    # 'elections in <State>' title redirecting to the single-race article it
+    # summarizes, or the regular/special titles of a cycle that share one
+    # combined page (Kansas 1950, Georgia 1972, Kentucky 1930, ...).  Keep
+    # one representative per distinct page — preferring the plural title,
+    # whose kind-splitting attribution ('special' boxes → '<State>
+    # (special)') labels every race on the page correctly — so no boxes are
+    # ever parsed (and re-attributed) twice.
+    page_titles: Dict[str, List[str]] = {}
+    for title in race_map:
+        content = content_map.get(title)
+        if content:
+            page_titles.setdefault(content, []).append(title)
+    page_rep: Dict[str, str] = {
+        content: next((t for t in titles if is_plural_race_title(t)), titles[0])
+        for content, titles in page_titles.items()
+    }
+    rep_of: Dict[str, str] = {
+        t: rep for content, titles in page_titles.items()
+        for t, rep in ((t, page_rep[content]) for t in titles) if t != rep
+    }
+
+    # A page whose title group mixes regular and special kinds (or whose
+    # representative is a plural title) carries several races: its rows get
+    # split by race kind during parsing.
+    multi_kind_page: Dict[str, bool] = {}
+    for content, titles in page_titles.items():
+        rep = page_rep[content]
+        kinds = {
+            "special" if re.search(r"\sspecial\s", f" {t.lower()} ") else "regular"
+            for t in titles
+        }
+        multi_kind_page[rep] = is_plural_race_title(rep) or len(kinds) > 1
+    if rep_of:
+        logger.info("%d duplicate race article(s) will be skipped", len(rep_of))
+
+    # Which race kinds (regular / special) are already reported by dedicated
+    # single-race pages (i.e. are the representative of their own page)?  A
+    # combined plural article is only mined for kinds NOT covered that way,
+    # so combined and dedicated articles never double-report a race.
+    singular_kinds: Dict[Tuple[int, str], set] = {}
+    for content, rep in page_rep.items():
+        if is_plural_race_title(rep):
+            continue
+        year, state = race_map[rep]
+        base = re.sub(r"\s*\(special\)\s*$", "", state, flags=re.IGNORECASE).strip()
+        kind = "special" if state.lower().endswith("(special)") else "regular"
+        singular_kinds.setdefault((year, base.lower()), set()).add(kind)
+
     # ── STEP 3: parse each race ────────────────────────────────────
     for title, (year, state) in race_map.items():
+        if title in rep_of:
+            kept = rep_of[title]
+            logger.info("SKIP — '%s' is the same page as '%s'", title, kept)
+            state_details[title] = {
+                "year": year, "state": state, "error": f"duplicate_of:{kept}",
+            }
+            continue
+
         meta["total_processed"] += 1
         logger.info("=" * 72)
         logger.info("Processing: %s (%d)", state, year)
@@ -1318,6 +1699,17 @@ def process_senate_cycles(
 
         try:
             parsed = parse_election_data_universal(content, state, year=year)
+            if multi_kind_page.get(title, False):
+                base = re.sub(r"\s*\(special\)\s*$", "", state, flags=re.IGNORECASE).strip()
+                # Kind-drops only apply to plural articles: a combined page
+                # must not re-report races its dedicated articles cover.  A
+                # multi-kind *single-race-titled* page (Kansas 1950, ...) is
+                # the only parse of that content — split, never drop.
+                kinds = (
+                    singular_kinds.get((year, base.lower()), set())
+                    if is_plural_race_title(title) else set()
+                )
+                parsed = _attribute_plural_rows(parsed, base, kinds)
             state_details[title] = {
                 "year": year,
                 "state": state,
@@ -1426,6 +1818,7 @@ def run(
     client: Optional[WikiAPIClient] = None,
     run_qc: bool = True,
     include_off_years: bool = True,
+    years: Optional[List[int]] = None,
 ) -> Dict:
     """
     CLI entry point: process Senate cycles from *start_year* to *end_year*.
@@ -1433,6 +1826,7 @@ def run(
     Even (federal) years are always processed, and the odd (off-year)
     special-election cycles in the range are included by default — pass
     ``include_off_years=False`` to restrict the run to even years.
+    *years* optionally pins an explicit cycle selection (surgical re-runs).
 
     *run_qc* is accepted for backward compatibility and ignored: the polling
     QC step (which wrote ``polling_qc_report.json``) has been removed so the
@@ -1440,7 +1834,8 @@ def run(
     """
     logger.info("U.S. Senate cycles %d–%d", start_year, end_year)
     results = process_senate_cycles(
-        start_year, end_year, client=client, include_off_years=include_off_years
+        start_year, end_year, client=client, include_off_years=include_off_years,
+        years=years,
     )
     save_results(results, output_dir)
     meta = results["metadata"]
