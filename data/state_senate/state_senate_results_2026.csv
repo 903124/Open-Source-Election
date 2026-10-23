@@ -91,12 +91,14 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Connecticut,CT,State Senate,8,general,Mike Criss,Republican,,,False,False
 2026,Connecticut,CT,State Senate,9,general,Matt Lesser,Democratic,,,True,True
 2026,Connecticut,CT,State Senate,9,general,Grant Polomsky,Republican,,,False,False
+2026,Connecticut,CT,State Senate,9,general,Gwen Samuel,Independent,,,False,False
 2026,Connecticut,CT,State Senate,10,general,Gary Winfield,Democratic,,,True,True
 2026,Connecticut,CT,State Senate,11,general,Al Paolillo,Democratic,,,True,False
 2026,Connecticut,CT,State Senate,11,general,Rosa Pepper-Macias,Workers' Voice,,,False,False
 2026,Connecticut,CT,State Senate,12,general,Christine Cohen,Democratic,,,True,True
 2026,Connecticut,CT,State Senate,12,general,Lisa Deane,Republican,,,False,False
 2026,Connecticut,CT,State Senate,13,general,Jack Fazzino,Democratic,,,True,False
+2026,Connecticut,CT,State Senate,13,general,Lamar Terrell,Independent,,,False,False
 2026,Connecticut,CT,State Senate,14,general,James Maroney,Democratic,,,True,True
 2026,Connecticut,CT,State Senate,14,general,Owen Weaver,Republican,,,False,False
 2026,Connecticut,CT,State Senate,15,general,Joan Hartley,Democratic,,,True,True
@@ -116,6 +118,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Connecticut,CT,State Senate,22,general,Sujata Gadkar-Wilcox,Democratic,,,True,True
 2026,Connecticut,CT,State Senate,22,general,Scott Modlin,Republican,,,False,False
 2026,Connecticut,CT,State Senate,23,general,Herron Gaston,Democratic,,,True,True
+2026,Connecticut,CT,State Senate,23,general,Natasha Williams,Movement,,,False,False
 2026,Connecticut,CT,State Senate,24,general,Julie Kushner,Democratic,,,True,True
 2026,Connecticut,CT,State Senate,24,general,Melissa Lindsey,Republican,,,False,False
 2026,Connecticut,CT,State Senate,25,general,Bob Duff,Democratic,,,True,True
