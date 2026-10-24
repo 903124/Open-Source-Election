@@ -363,7 +363,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2024,house,Indiana,IN,9,345738,Tim Peck,Democratic,,32.8,False,False,False
 2024,house,Indiana,IN,9,345738,Russell Brooksbank,Libertarian,9454,2.7,False,False,False
 2024,house,Iowa,IA,1,414078,Mariannette Miller-Meeks,Republican,206955,50.1,True,False,False
-2024,house,Iowa,IA,1,414078,Christina Bohannan,Democratic,206157,49.9,False,False,False
+2024,house,Iowa,IA,1,414078,Christina Bohannan,Democratic,206156,49.9,False,False,False
 2024,house,Iowa,IA,2,408802,Ashley Hinson,Republican,233340,57.1,True,False,False
 2024,house,Iowa,IA,2,408802,Sarah Corkery,Democratic,169740,41.6,False,False,False
 2024,house,Iowa,IA,2,408802,Jody Puffet,Independent,,1.3,False,False,False
