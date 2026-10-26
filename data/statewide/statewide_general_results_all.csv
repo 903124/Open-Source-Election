@@ -3663,11 +3663,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2022,Massachusetts,MA,governor,2022 Massachusetts gubernatorial election,Candidate,Kevin Reed,Libertarian,39244,1.58,False,False
 2022,Massachusetts,MA,governor,2022 Massachusetts gubernatorial election,Write-in,,,2806,0.11,False,False
 2022,Massachusetts,MA,governor,2022 Massachusetts gubernatorial election,Total,,,2485796,100.0,False,False
-2022,Michigan,MI,attorney general,2022 Michigan Attorney General election,Winning,Dana Nessel,Democratic,2329195,53.16,True,True
-2022,Michigan,MI,attorney general,2022 Michigan Attorney General election,Candidate,Matthew DePerno,Republican,1952408,44.56,False,False
-2022,Michigan,MI,attorney general,2022 Michigan Attorney General election,Candidate,Joseph W. McHugh Jr.,Libertarian,67846,1.55,False,False
-2022,Michigan,MI,attorney general,2022 Michigan Attorney General election,Candidate,Gerald T. Van Sickle,Constitution,32431,0.74,False,False
-2022,Michigan,MI,attorney general,2022 Michigan Attorney General election,Total,,,4381880,100.0,False,False
+2022,Michigan,MI,attorney general,2022 Michigan attorney general election,Winning,Dana Nessel,Democratic,2329195,53.16,True,True
+2022,Michigan,MI,attorney general,2022 Michigan attorney general election,Candidate,Matthew DePerno,Republican,1952408,44.56,False,False
+2022,Michigan,MI,attorney general,2022 Michigan attorney general election,Candidate,Joseph W. McHugh Jr.,Libertarian,67846,1.55,False,False
+2022,Michigan,MI,attorney general,2022 Michigan attorney general election,Candidate,Gerald T. Van Sickle,Constitution,32431,0.74,False,False
+2022,Michigan,MI,attorney general,2022 Michigan attorney general election,Total,,,4381880,100.0,False,False
 2022,Michigan,MI,secretary of state,2022 Michigan Secretary of State election,Winning,Jocelyn Benson,Democratic,2467859,55.86,True,True
 2022,Michigan,MI,secretary of state,2022 Michigan Secretary of State election,Candidate,Kristina Karamo,Republican,1852510,41.93,False,False
 2022,Michigan,MI,secretary of state,2022 Michigan Secretary of State election,Candidate,Gregory Scott Stempfle,Libertarian,52982,1.2,False,False
