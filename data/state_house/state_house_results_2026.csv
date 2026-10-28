@@ -1367,7 +1367,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,North Carolina,NC,State House,115,general,Lindsey Prather,Democratic,,,True,True
 2026,North Carolina,NC,State House,115,general,Anthony Penland,Republican,,,False,False
 2026,North Carolina,NC,State House,116,general,Brian Turner,Democratic,,100.0,True,True
-2026,North Carolina,NC,State House,117,general,TBD,Republican,,,True,False
+2026,North Carolina,NC,State House,117,general,Chelsea Walsh,Republican,,,True,False
 2026,North Carolina,NC,State House,117,general,Lynne Russo,Democratic,,,False,False
 2026,North Carolina,NC,State House,118,general,Jimmy Rogers,Republican,,,True,False
 2026,North Carolina,NC,State House,118,general,Danny Davis,Democratic,,,False,False
@@ -1778,8 +1778,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,South Dakota,SD,State House,27,general,Liz Marty May,Republican,,,False,True
 2026,South Dakota,SD,State House,27,general,Jay Yohner,Independent,,,False,False
 2026,Tennessee,TN,State House,93,general,John Bradley,Write-in,,,True,False
-2026,Tennessee,TN,State House,93,general,DD Washington,Write-in,,,False,False
-2026,Tennessee,TN,State House,93,general,Mitchess Morrison,Write-in,,,False,False
+2026,Tennessee,TN,State House,93,general,"Brandon ""DD"" Washington",Write-in,,,False,False
+2026,Tennessee,TN,State House,93,general,Mitchell Morrison,Write-in,,,False,False
 2026,Tennessee,TN,State House,93,general,Tommy Brewington,Write-in,,,False,False
 2026,Tennessee,TN,State House,93,general,Calvin Lacy,Write-in,,,False,False
 2026,Texas,TX,State House,1,general,Chris Spencer,Republican,,,True,False
