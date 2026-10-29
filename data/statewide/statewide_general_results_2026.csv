@@ -255,6 +255,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Candidate,Deb Haaland,Democratic,,,False,False
 2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Candidate,Gregg Hull,Republican,,,False,False
 2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Total,,,,100.0,False,False
+2026,New York,NY,attorney general,2026 New York Attorney General election,Candidate,Letitia James,New York State Democratic Committee,,,False,False
+2026,New York,NY,attorney general,2026 New York Attorney General election,Candidate,Saritha Komatireddy,New York Republican State Committee,,,False,False
+2026,New York,NY,attorney general,2026 New York Attorney General election,Total,,,,100.0,False,False
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Kathy Hochul,New York State Democratic Committee,,,False,False
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Bruce Blakeman,New York Republican State Committee,,,False,False
 2026,New York,NY,governor,2026 New York gubernatorial election,Total,,,,100.0,False,False

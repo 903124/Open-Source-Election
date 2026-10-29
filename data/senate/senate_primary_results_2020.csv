@@ -66,14 +66,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2020,Illinois,Republican primary results,Primary,Candidate,False,Richard Mayers (write-in),Republican Party (United States),7,0.00%
 2020,Illinois,Republican primary results,Primary,Total,False,,,495168,100.00%
 2020,Iowa,Republican primary results,Primary,Winning,True,Joni Ernst,Republican Party (United States),"226,589",98.64%
-2020,Iowa,Republican primary results,Primary,Candidate,False,Write-In,Republican Party (United States),"3,132",1.36%
+2020,Iowa,Republican primary results,Primary,Candidate,False,Write-in,Republican Party (United States),"3,132",1.36%
 2020,Iowa,Republican primary results,Primary,Total,False,,,"229,721",100.00%
 2020,Iowa,Democratic primary results,Primary,Winning,False,Theresa Greenfield,Democratic Party (United States),"132,001",47.71%
 2020,Iowa,Democratic primary results,Primary,Candidate,False,Michael T. Franken,Democratic Party (United States),"68,851",24.88%
 2020,Iowa,Democratic primary results,Primary,Candidate,False,Kimberly Graham,Democratic Party (United States),"41,554",15.02%
 2020,Iowa,Democratic primary results,Primary,Candidate,False,Eddie Mauro,Democratic Party (United States),"30,400",10.99%
 2020,Iowa,Democratic primary results,Primary,Candidate,False,Cal Woods (withdrawn),Democratic Party (United States),"3,372",1.21%
-2020,Iowa,Democratic primary results,Primary,Candidate,False,Write-In,Democratic Party (United States),514,0.19%
+2020,Iowa,Democratic primary results,Primary,Candidate,False,Write-in,Democratic Party (United States),514,0.19%
 2020,Iowa,Democratic primary results,Primary,Total,False,,,"276,692",100.00%
 2020,Kansas,Republican primary results,Primary,Winning,False,Roger Marshall,Republican Party (United States),"167,800",40.28%
 2020,Kansas,Republican primary results,Primary,Candidate,False,Kris Kobach,Republican Party (United States),"108,726",26.10%

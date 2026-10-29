@@ -22173,6 +22173,47 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Alabama,AL,State House,70,general,Ian Chwatuk,Republican,,,False,False
 2026,Alabama,AL,State House,71,general,Artis J. McCampbell,Democratic,,,True,True
 2026,Alabama,AL,State House,72,general,Curtis Travis,Democratic,,,True,True
+2026,Alabama,AL,State House,73,general,Kenneth Paschal,Republican,,,True,True
+2026,Alabama,AL,State House,74,general,Jasmyne Crimiel,Democratic,,,True,False
+2026,Alabama,AL,State House,74,general,Alva Lambert,Republican,,,False,False
+2026,Alabama,AL,State House,75,general,Reed Ingram,Republican,,,True,True
+2026,Alabama,AL,State House,75,general,Tisha Nickson,Democratic,,,False,False
+2026,Alabama,AL,State House,76,general,Patrice McClammy,Democratic,,,True,True
+2026,Alabama,AL,State House,77,general,Tashina Morris,Democratic,,,True,True
+2026,Alabama,AL,State House,78,general,Kenyatté Hassell,Democratic,,,True,True
+2026,Alabama,AL,State House,79,general,Joe Lovvorn,Republican,,,True,True
+2026,Alabama,AL,State House,80,general,Chris Blackshear,Republican,,,True,True
+2026,Alabama,AL,State House,80,general,Manfred Malone,Democratic,,,False,False
+2026,Alabama,AL,State House,81,general,Ed Oliver,Republican,,,True,True
+2026,Alabama,AL,State House,82,general,Pebblin Warren,Democratic,,,True,True
+2026,Alabama,AL,State House,82,general,Kinsley Hammons,Republican,,,False,False
+2026,Alabama,AL,State House,83,general,Jeremy Gray,Democratic,,,True,True
+2026,Alabama,AL,State House,84,general,Berry Forte,Democratic,,,True,True
+2026,Alabama,AL,State House,85,general,Rick Rehm,Republican,,,True,True
+2026,Alabama,AL,State House,85,general,Aristotle Kirkland,Democratic,,,False,False
+2026,Alabama,AL,State House,86,general,Paul Lee,Republican,,,True,True
+2026,Alabama,AL,State House,87,general,Jeff Sorrells,Republican,,,True,True
+2026,Alabama,AL,State House,88,general,Jerry Starnes,Republican,,,True,True
+2026,Alabama,AL,State House,89,general,Marcus Paramore,Republican,,,True,True
+2026,Alabama,AL,State House,90,general,Chris Sells,Republican,,,True,True
+2026,Alabama,AL,State House,91,general,Jody Linton,Republican,,,True,False
+2026,Alabama,AL,State House,92,general,Matthew Hammett,Republican,,,True,True
+2026,Alabama,AL,State House,93,general,Steve Clouse,Republican,,,True,True
+2026,Alabama,AL,State House,94,general,Jennifer Fidler,Republican,,,True,True
+2026,Alabama,AL,State House,95,general,Frances Holk-Jones,Republican,,,True,True
+2026,Alabama,AL,State House,96,general,Danielle Duggar,Republican,,,True,False
+2026,Alabama,AL,State House,96,general,Terri Osborne,Democratic,,,False,False
+2026,Alabama,AL,State House,97,general,Adline Clarke,Democratic,,,True,True
+2026,Alabama,AL,State House,98,general,Napoleon Bracy Jr.,Democratic,,,True,True
+2026,Alabama,AL,State House,99,general,Sam Jones,Democratic,,,True,True
+2026,Alabama,AL,State House,99,general,Charlie Watts,Republican,,,False,False
+2026,Alabama,AL,State House,100,general,Mark Shirey,Republican,,,True,True
+2026,Alabama,AL,State House,101,general,Chris Pringle,Republican,,,True,True
+2026,Alabama,AL,State House,101,general,Joan Friedlander,Democratic,,,False,False
+2026,Alabama,AL,State House,102,general,Shane Stringer,Republican,,,True,True
+2026,Alabama,AL,State House,103,general,Barbara Drummond,Democratic,,,True,True
+2026,Alabama,AL,State House,104,general,Margie Wilcox,Republican,,,True,True
+2026,Alabama,AL,State House,105,general,Chip Brown,Republican,,,True,True
 2026,Arkansas,AR,State House,35,general,Audrey P. Willis,Democratic,344,60.88,True,False
 2026,Arkansas,AR,State House,35,general,Joyce Ann Gray,Democratic,221,39.12,False,False
 2026,Arkansas,AR,State House,46,general,Tonya Fletcher,Republican,1497,31.49,True,False
@@ -23494,7 +23535,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Ohio,OH,State House,63,general,Debbie Davidson,Democratic,,,False,False
 2026,Ohio,OH,State House,64,general,Nick Santucci,Republican,,,True,True
 2026,Ohio,OH,State House,65,general,David Thomas,Republican,,,True,True
-2026,Ohio,OH,State House,65,general,Lorna Westlake,Democratic,,,False,False
+2026,Ohio,OH,State House,65,general,John Barbo,Democratic,,,False,False
 2026,Ohio,OH,State House,66,general,Sean Hutson,Republican,,,True,False
 2026,Ohio,OH,State House,66,general,Heather Sample,Democratic,,,False,False
 2026,Ohio,OH,State House,66,general,Justin Peroli,Libertarian,,,False,False
