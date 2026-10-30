@@ -4381,9 +4381,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Ohio,OH,secretary of state,2026 Ohio Secretary of State election,Candidate,Allison Russo,Democratic,,,False,False
 2026,Ohio,OH,secretary of state,2026 Ohio Secretary of State election,Candidate,Tom Pruss,Libertarian,,,False,False
 2026,Ohio,OH,secretary of state,2026 Ohio Secretary of State election,Total,,,,100.0,False,False
-2026,Ohio,OH,state treasurer,2026 Ohio State Treasurer election,Candidate,Jay Edwards,Republican,,,False,False
-2026,Ohio,OH,state treasurer,2026 Ohio State Treasurer election,Candidate,Seth Walsh,Democratic,,,False,False
-2026,Ohio,OH,state treasurer,2026 Ohio State Treasurer election,Total,,,,100.0,False,False
+2026,Ohio,OH,state treasurer,2026 Ohio state treasurer election,Candidate,Jay Edwards,Republican,,,False,False
+2026,Ohio,OH,state treasurer,2026 Ohio state treasurer election,Candidate,Seth Walsh,Democratic,,,False,False
+2026,Ohio,OH,state treasurer,2026 Ohio state treasurer election,Total,,,,100.0,False,False
 2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Candidate,Vivek Ramaswamy,Republican,,,False,False
 2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Candidate,Amy Acton,Democratic,,,False,False
 2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Candidate,Don Kissick,Libertarian,,,False,False

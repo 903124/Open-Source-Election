@@ -793,7 +793,6 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Maryland,MD,State House,6,general,Artus Huffman,Democratic,,,False,False
 2026,Maryland,MD,State House,6,general,Megan Ann Mioduszewski,Democratic,,,False,False
 2026,Maryland,MD,State House,6,general,Rayneika Robinson,Democratic,,,False,False
-2026,Maryland,MD,State House,6,general,Brett Shepherd,Independent,,,False,False
 2026,Maryland,MD,State House,7A,general,Ryan Nawrocki,Republican,,,True,True
 2026,Maryland,MD,State House,7A,general,Kathy Szeliga,Republican,,,False,True
 2026,Maryland,MD,State House,7A,general,Ly Xīnzhèn M. Zhǎngsūn Brown,Democratic,,,False,False
@@ -886,7 +885,6 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Maryland,MD,State House,28,general,Edith J. Patterson,Democratic,,,False,True
 2026,Maryland,MD,State House,28,general,James Ashburn,Republican,,,False,False
 2026,Maryland,MD,State House,28,general,Winfield Clark,Republican,,,False,False
-2026,Maryland,MD,State House,28,general,Anbrea McCoy,Independent,,,False,False
 2026,Maryland,MD,State House,29A,general,Matthew Morgan,Republican,,,True,True
 2026,Maryland,MD,State House,29A,general,Jennifer Clancy,Democratic,,,False,False
 2026,Maryland,MD,State House,29B,general,Adrianne Mathis,Democratic,,,True,False
@@ -1998,9 +1996,9 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Texas,TX,State House,92,general,Salman Bhojani,Democratic,,,True,True
 2026,Texas,TX,State House,92,general,J.P. Woodruff,Republican,,,False,False
 2026,Texas,TX,State House,93,special general,Alan Blaylock,Republican,,,False,False
-2026,Texas,TX,State House,93,special general,Ericka Lomick,Democratic,,,False,False
+2026,Texas,TX,State House,93,special general,Ericka Lomick (withdrawn),Democratic,,,False,False
 2026,Texas,TX,State House,93,general,Alan Blaylock,Republican,,,True,False
-2026,Texas,TX,State House,93,general,Ericka Lomick,Democratic,,,False,False
+2026,Texas,TX,State House,93,general,Ericka Lomick (withdrawn),Democratic,,,False,False
 2026,Texas,TX,State House,94,general,Cheryl Bean,Republican,,,True,False
 2026,Texas,TX,State House,94,general,Katie O'Brien Duzan,Democratic,,,False,False
 2026,Texas,TX,State House,95,general,Nicole Collier,Democratic,,,True,True

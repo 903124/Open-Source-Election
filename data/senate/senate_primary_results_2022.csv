@@ -422,7 +422,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2022,Washington,Blanket primary election results,Primary,Candidate,False,No party preference,Martin D. Hash,"4,725",0.25%,,,,,,,,,
 2022,Washington,Blanket primary election results,Primary,Candidate,False,No party preference,Dan Phan Doan,"3,049",0.16%,,,,,,,,,
 2022,Washington,Blanket primary election results,Primary,Candidate,False,Democratic Party (United States),Sam Cusmir,"2,688",0.14%,,,,,,,,,
-2022,Washington,Blanket primary election results,Primary,Total,False,,,"1,918,929",100.0%,,,,,,,,,
+2022,Washington,Blanket primary election results,Primary,Total,False,,,"1,918,929",100.00%,,,,,,,,,
 2022,Wisconsin,Republican primary results,Primary,Winning,True,Republican Party (United States),Ron Johnson,"563,871",83.7,,,,,,,,,
 2022,Wisconsin,Republican primary results,Primary,Candidate,False,Republican Party (United States),David Schroeder,"109,917",16.3,,,,,,,,,
 2022,Wisconsin,Republican primary results,Primary,Total,False,,,"673,788",100.0,,,,,,,,,
