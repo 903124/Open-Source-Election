@@ -22072,7 +22072,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Puerto Rico,PU,State House,40,general,Gilberto Rodríguez Velázquez,Project Dignity,1942,8.1,False,False
 2026,Alabama,AL,State House,10,special general,Marilyn Lands,Democratic,3715.0,62.3,True,False
 2026,Alabama,AL,State House,10,special general,Teddy Powell,Republican,2236.0,37.5,False,False
-2026,Alabama,AL,State House,1,general,Phillip Pettus,Republican,,,True,True
+2026,Alabama,AL,State House,1,general,Maurice McCaney,Republican,,,True,False
 2026,Alabama,AL,State House,2,general,Ben Harrison (incumbent,Republican,,,True,False
 2026,Alabama,AL,State House,2,general,Rick Pressnell,Democratic,,,False,False
 2026,Alabama,AL,State House,3,general,Kerry Underwood,Republican,,,True,True
@@ -24019,7 +24019,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Texas,TX,State House,64,general,Andy Hopper,Republican,,,True,True
 2026,Texas,TX,State House,64,general,Julie Evans,Democratic,,,False,False
 2026,Texas,TX,State House,65,general,Mitch Little,Republican,,,True,True
-2026,Texas,TX,State House,65,general,Detrick Beburr,Democratic,,,False,False
+2026,Texas,TX,State House,65,general,Detrick DeBurr,Democratic,,,False,False
 2026,Texas,TX,State House,66,general,Matt Shaheen,Republican,,,True,True
 2026,Texas,TX,State House,66,general,Sandeep Srivastava,Democratic,,,False,False
 2026,Texas,TX,State House,68,general,David Spiller,Republican,,,True,True
@@ -24062,6 +24062,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Texas,TX,State House,88,general,Heather J. Wallace,Democratic,,,False,False
 2026,Texas,TX,State House,89,general,Candy Noble,Republican,,,True,True
 2026,Texas,TX,State House,89,general,Angie Carraway,Democratic,,,False,False
+2026,Texas,TX,State House,90,general,Ramon Romero Jr.,Democratic,,,True,True
 2026,Texas,TX,State House,91,general,David Lowe,Republican,,,True,True
 2026,Texas,TX,State House,91,general,Yisak Worku,Democratic,,,False,False
 2026,Texas,TX,State House,92,general,Salman Bhojani,Democratic,,,True,True
@@ -24083,6 +24084,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Texas,TX,State House,99,general,Michelle Winder,Democratic,,,False,False
 2026,Texas,TX,State House,100,general,Venton Jones,Democratic,,,True,True
 2026,Texas,TX,State House,100,general,Jordan Scott Hoffnagle,Republican,,,False,False
+2026,Texas,TX,State House,101,general,Junior Ezeonu,Democratic,,,True,False
 2026,Texas,TX,State House,102,general,Ana-Maria Ramos,Democratic,,,True,True
 2026,Texas,TX,State House,102,general,Bonnie Abadie,Republican,,,False,False
 2026,Texas,TX,State House,103,general,Rafael Anchía,Democratic,,,True,True

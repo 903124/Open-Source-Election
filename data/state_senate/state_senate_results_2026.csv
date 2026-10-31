@@ -767,8 +767,53 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Pennsylvania,PA,State Senate,36,general,Jodie Borello,Independent,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Chris Gebhard,Republican,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Michele Brooks,Republican,,,False,False
-2026,Rhode Island,RI,State Senate,4,general,Stefano Famiglietti,Democratic,1706,83.02,True,False
-2026,Rhode Island,RI,State Senate,4,general,Alex Asermely,Republican,333,16.2,False,False
+2026,Rhode Island,RI,State Senate,4,general,Stefano Famiglietti,Democratic,1706.0,83.02,True,True
+2026,Rhode Island,RI,State Senate,4,general,Alex Asermely,Republican,333.0,16.2,False,False
+2026,Rhode Island,RI,State Senate,1,general,Jake Bissaillon,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,2,general,Ana Quezada,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,3,general,Sam Zurier,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,5,general,Sam Bell,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,5,general,William D. Connell Jr.,Republican,,,False,False
+2026,Rhode Island,RI,State Senate,6,general,Tiara Mack,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,7,general,Frank Ciccone,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,8,general,Lori Urso,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,9,general,John Burke,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,10,general,Walter Felag,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,11,general,Linda Ujifusa,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,12,general,Louis DiPalma,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,13,general,Dawn Euer,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,14,general,Valarie Lawson,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,14,general,Brian Coogan,Independent,,,False,False
+2026,Rhode Island,RI,State Senate,15,general,Meghan Kallman,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,16,general,Jonathon Acosta,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,17,general,Thomas Paolino,Republican,,,True,True
+2026,Rhode Island,RI,State Senate,17,general,Nelly Burdette,Democratic,,,False,False
+2026,Rhode Island,RI,State Senate,17,general,John Douglas Barr II,Independent,,,False,False
+2026,Rhode Island,RI,State Senate,17,general,Jina N. Petrarca,Independent,,,False,False
+2026,Rhode Island,RI,State Senate,18,general,Robert Britto,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,19,general,Ryan W. Pearson,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,20,general,Brian J. Thompson,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,21,general,Gordon Rogers,Republican,,,True,True
+2026,Rhode Island,RI,State Senate,22,general,David Tikoian,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,23,general,Jessica de la Cruz,Republican,,,True,True
+2026,Rhode Island,RI,State Senate,24,general,Melissa Murray,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,25,general,Andrew Dimitri,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,26,general,Todd Patalano,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,27,general,Hanna Gallo,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,28,general,Lammis Vargas,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,29,general,Peter Appollonio Jr.,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,30,general,Mark McKenney,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,31,general,Matthew LaMountain,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,32,general,Pamela J. Lauria,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,33,general,Leonidas Raptakis,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,33,general,James P. Pierson,Republican,,,False,False
+2026,Rhode Island,RI,State Senate,34,general,Elaine J. Morgan,Republican,,,True,True
+2026,Rhode Island,RI,State Senate,34,general,Samantha R. Wilcox,Democratic,,,False,False
+2026,Rhode Island,RI,State Senate,35,general,Bridget Valverde,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,36,general,Alana DiMario,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,37,general,V. Susan Sosnowski,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,38,general,Victoria Gu,Democratic,,,True,True
+2026,Rhode Island,RI,State Senate,38,general,Westin J. Place,Republican,,,False,False
 2026,Tennessee,TN,State Senate,23,general,David Lee Marcum,Independent,,,True,False
 2026,Texas,TX,State Senate,9,special general,Taylor Rehmet,Democratic,111038.0,47.57,True,False
 2026,Texas,TX,State Senate,9,special general,Leigh Wambsganss,Republican,83387.0,35.94,True,False
