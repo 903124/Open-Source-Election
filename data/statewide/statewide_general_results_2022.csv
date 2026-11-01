@@ -8,7 +8,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2022,Alabama,AL,secretary of state,2022 Alabama Secretary of State election,Candidate,"Jason ""Matt"" Shelby",Libertarian,41611,2.96,False,False
 2022,Alabama,AL,secretary of state,2022 Alabama Secretary of State election,Write-in,,,663,0.05,False,False
 2022,Alabama,AL,secretary of state,2022 Alabama Secretary of State election,Total,,,1404403,100.0,False,False
-2022,Alabama,AL,state treasurer,2022 Alabama State Treasurer election,Candidate,Young Boozer,Republican,946936,83.74,False,True
+2022,Alabama,AL,state treasurer,2022 Alabama State Treasurer election,Winning,Young Boozer,Republican,946936,83.74,True,True
 2022,Alabama,AL,state treasurer,2022 Alabama State Treasurer election,Candidate,Scott Hammond,Libertarian,175034,15.48,False,False
 2022,Alabama,AL,state treasurer,2022 Alabama State Treasurer election,Write-in,,,8855,0.78,False,False
 2022,Alabama,AL,state treasurer,2022 Alabama State Treasurer election,Total,,,1130825,100.0,False,False
