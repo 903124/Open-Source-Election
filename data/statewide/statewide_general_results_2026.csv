@@ -316,6 +316,23 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Texas,TX,governor,2026 Texas gubernatorial election,Candidate,Gina Hinojosa,Democratic,,,False,False
 2026,Texas,TX,governor,2026 Texas gubernatorial election,Candidate,Pat Dixon,Libertarian,,,False,False
 2026,Texas,TX,governor,2026 Texas gubernatorial election,Total,,,,100.0,False,False
+2026,Vermont,VT,attorney general,2026 Vermont Attorney General election,Candidate,Charity Clark,Democratic,,,False,True
+2026,Vermont,VT,attorney general,2026 Vermont Attorney General election,Candidate,Edwin Kemon,Republican,,,False,False
+2026,Vermont,VT,attorney general,2026 Vermont Attorney General election,Total,,,,100.0,False,False
+2026,Vermont,VT,secretary of state,2026 Vermont Secretary of State election,Candidate,Sarah Copeland Hanzas,Democratic,,,False,True
+2026,Vermont,VT,secretary of state,2026 Vermont Secretary of State election,Candidate,H. Brooke Paige,Republican,,,False,False
+2026,Vermont,VT,secretary of state,2026 Vermont Secretary of State election,Candidate,Rachel Shaw,Progressive,,,False,False
+2026,Vermont,VT,secretary of state,2026 Vermont Secretary of State election,Total,,,,100.0,False,False
+2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Candidate,Mike Pieciak,Democratic,,,False,True
+2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Candidate,Lynn LaFleur,Republican,,,False,False
+2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Candidate,Zachary Hampl,Progressive,,,False,False
+2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Total,,,,100.0,False,False
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Phil Scott,Republican,,,False,True
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Amanda Janoo,Democratic/progressive,,,False,False
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Brian Judd,Independent,,,False,False
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,June Goodband,Justice,,,False,False
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Dean Roy,Freedom And Unity,,,False,False
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Total,,,,100.0,False,False
 2026,Wisconsin,WI,attorney general,2026 Wisconsin Attorney General election,Candidate,Josh Kaul,Democratic,,,False,True
 2026,Wisconsin,WI,attorney general,2026 Wisconsin Attorney General election,Candidate,Eric Toney,Republican,,,False,False
 2026,Wisconsin,WI,attorney general,2026 Wisconsin Attorney General election,Total,,,,100.0,False,False

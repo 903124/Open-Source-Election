@@ -3668,12 +3668,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2022,Michigan,MI,attorney general,2022 Michigan attorney general election,Candidate,Joseph W. McHugh Jr.,Libertarian,67846,1.55,False,False
 2022,Michigan,MI,attorney general,2022 Michigan attorney general election,Candidate,Gerald T. Van Sickle,Constitution,32431,0.74,False,False
 2022,Michigan,MI,attorney general,2022 Michigan attorney general election,Total,,,4381880,100.0,False,False
-2022,Michigan,MI,secretary of state,2022 Michigan Secretary of State election,Winning,Jocelyn Benson,Democratic,2467859,55.86,True,True
-2022,Michigan,MI,secretary of state,2022 Michigan Secretary of State election,Candidate,Kristina Karamo,Republican,1852510,41.93,False,False
-2022,Michigan,MI,secretary of state,2022 Michigan Secretary of State election,Candidate,Gregory Scott Stempfle,Libertarian,52982,1.2,False,False
-2022,Michigan,MI,secretary of state,2022 Michigan Secretary of State election,Candidate,Christine Schwartz,Constitution,27937,0.63,False,False
-2022,Michigan,MI,secretary of state,2022 Michigan Secretary of State election,Candidate,Larry James Hutchinson Jr.,Green,16615,0.38,False,False
-2022,Michigan,MI,secretary of state,2022 Michigan Secretary of State election,Total,,,4417903,100.0,False,False
+2022,Michigan,MI,secretary of state,2022 Michigan secretary of state election,Winning,Jocelyn Benson,Democratic,2467859,55.86,True,True
+2022,Michigan,MI,secretary of state,2022 Michigan secretary of state election,Candidate,Kristina Karamo,Republican,1852510,41.93,False,False
+2022,Michigan,MI,secretary of state,2022 Michigan secretary of state election,Candidate,Gregory Scott Stempfle,Libertarian,52982,1.2,False,False
+2022,Michigan,MI,secretary of state,2022 Michigan secretary of state election,Candidate,Christine Schwartz,Constitution,27937,0.63,False,False
+2022,Michigan,MI,secretary of state,2022 Michigan secretary of state election,Candidate,Larry James Hutchinson Jr.,Green,16615,0.38,False,False
+2022,Michigan,MI,secretary of state,2022 Michigan secretary of state election,Total,,,4417903,100.0,False,False
 2022,Michigan,MI,governor,2022 Michigan gubernatorial election,Winning,Gretchen Whitmer,Democratic,2430505,54.47,True,True
 2022,Michigan,MI,governor,2022 Michigan gubernatorial election,Candidate,Tudor Dixon,Republican,1960635,43.94,False,False
 2022,Michigan,MI,governor,2022 Michigan gubernatorial election,Candidate,Mary Buzuma,Libertarian,38800,0.87,False,False
@@ -4429,6 +4429,23 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Texas,TX,governor,2026 Texas gubernatorial election,Candidate,Gina Hinojosa,Democratic,,,False,False
 2026,Texas,TX,governor,2026 Texas gubernatorial election,Candidate,Pat Dixon,Libertarian,,,False,False
 2026,Texas,TX,governor,2026 Texas gubernatorial election,Total,,,,100.0,False,False
+2026,Vermont,VT,attorney general,2026 Vermont Attorney General election,Candidate,Charity Clark,Democratic,,,False,True
+2026,Vermont,VT,attorney general,2026 Vermont Attorney General election,Candidate,Edwin Kemon,Republican,,,False,False
+2026,Vermont,VT,attorney general,2026 Vermont Attorney General election,Total,,,,100.0,False,False
+2026,Vermont,VT,secretary of state,2026 Vermont Secretary of State election,Candidate,Sarah Copeland Hanzas,Democratic,,,False,True
+2026,Vermont,VT,secretary of state,2026 Vermont Secretary of State election,Candidate,H. Brooke Paige,Republican,,,False,False
+2026,Vermont,VT,secretary of state,2026 Vermont Secretary of State election,Candidate,Rachel Shaw,Progressive,,,False,False
+2026,Vermont,VT,secretary of state,2026 Vermont Secretary of State election,Total,,,,100.0,False,False
+2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Candidate,Mike Pieciak,Democratic,,,False,True
+2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Candidate,Lynn LaFleur,Republican,,,False,False
+2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Candidate,Zachary Hampl,Progressive,,,False,False
+2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Total,,,,100.0,False,False
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Phil Scott,Republican,,,False,True
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Amanda Janoo,Democratic/progressive,,,False,False
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Brian Judd,Independent,,,False,False
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,June Goodband,Justice,,,False,False
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Dean Roy,Freedom And Unity,,,False,False
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Total,,,,100.0,False,False
 2026,Wisconsin,WI,attorney general,2026 Wisconsin Attorney General election,Candidate,Josh Kaul,Democratic,,,False,True
 2026,Wisconsin,WI,attorney general,2026 Wisconsin Attorney General election,Candidate,Eric Toney,Republican,,,False,False
 2026,Wisconsin,WI,attorney general,2026 Wisconsin Attorney General election,Total,,,,100.0,False,False
