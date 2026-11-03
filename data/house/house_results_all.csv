@@ -4454,3 +4454,4 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2025,house,Virginia,VA,11,151180,James Walkinshaw,Democratic,113596,75.14,True,False,True
 2025,house,Virginia,VA,11,151180,Stewart Whitson,Republican,37297,24.67,False,False,True
 2025,house,Virginia,VA,11,151180,,,287,0.19,False,False,True
+2026,house,Wisconsin,WI,2,,Mark Pocan,Democratic,,100.0,True,False,False

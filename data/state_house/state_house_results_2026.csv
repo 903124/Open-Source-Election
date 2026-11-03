@@ -1187,26 +1187,13 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Minnesota,MN,State House,67B,special general,Shelley Buck,Democratic-Farmer-Labor,1913,97.55,False,False
 2026,Minnesota,MN,State House,67B,special general,Meg Luger-Nikolai,Democratic-Farmer-Labor,5557,95.28,True,False
 2026,Minnesota,MN,State House,67B,special general,Dan Walsh,Republican,254,4.36,False,False
-2026,New York,NY,State House,115,special general,Michael S. Cashman,Democratic,19516.0,47.27,False,False
-2026,New York,NY,State House,115,special general,Brent M. Davison,Republican,21455.0,42.44,False,False
-2026,New York,NY,State House,36,special general,Diana C. Moreno,Democratic,6209.0,38.03,False,False
-2026,New York,NY,State House,36,special general,Rana Abdelhamid,Queens For All,2521.0,17.05,False,False
-2026,New York,NY,State House,36,special general,Mary Jobaida,People First,1202.0,7.74,False,False
-2026,New York,NY,State House,74,special general,Keith Powers,Democratic,7906.0,82.13,True,False
-2026,New York,NY,State House,74,special general,Joseph W. Foley,Republican,804.0,14.27,False,False
-2026,New York,NY,State House,1,general,T. John Schiavoni,Democratic,,,True,False
-2026,New York,NY,State House,1,general,Stephen F. Kiely,Republican,,,False,False
-2026,New York,NY,State House,2,general,Jodi Giglio,Republican,,,True,False
-2026,New York,NY,State House,2,general,Michael J. Szika,Democratic,,,False,False
-2026,New York,NY,State House,2,general,Kimberly Wilder,Voter Options,,,False,False
-2026,New York,NY,State House,4,general,Rebecca Kassay,Democratic,,,True,True
-2026,New York,NY,State House,4,general,Will Sussman,Republican,,,False,False
-2026,New York,NY,State House,6,general,Philip Ramos,Democratic,,,True,False
-2026,New York,NY,State House,6,general,Dennis J. Barravecchio,Republican,,,False,False
-2026,New York,NY,State House,10,general,Steve Stern,Democratic,,,True,True
-2026,New York,NY,State House,10,general,Tiffany L. LeGrow,Republican,,,False,False
-2026,New York,NY,State House,36,special general,Diana Moreno,Democratic,4784.0,38.11,False,False
-2026,New York,NY,State House,74,special general,Joseph Foley,Republican,804.0,14.27,False,False
+2026,New York,NY,State House,115,special general,Michael Cashman,Democratic,19797,47.97,False,False
+2026,New York,NY,State House,115,special general,Brent M. Davison,New York Republican,18043,42.86,False,False
+2026,New York,NY,State House,36,special general,Diana Moreno,Democratic,6472,38.8,False,False
+2026,New York,NY,State House,36,special general,Rana Abdelhamid,Queens For All,1491,17.07,False,False
+2026,New York,NY,State House,36,special general,Mary Jobaida,People First,665,7.61,False,False
+2026,New York,NY,State House,74,special general,Keith Powers,Democratic,4203,82.53,True,False
+2026,New York,NY,State House,74,special general,Joseph W. Foley,New York Republican,839,14.12,False,False
 2026,North Carolina,NC,State House,1,general,Ed Goodwin,Republican,,,True,True
 2026,North Carolina,NC,State House,1,general,Claude (Dorsey) Harris,Democratic,,,False,False
 2026,North Carolina,NC,State House,2,general,Ray Jeffers,Democratic,,100.0,True,True
@@ -2056,6 +2043,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Texas,TX,State House,118,general,Kristian Carranza,Democratic,,,False,False
 2026,Texas,TX,State House,119,general,Elizabeth Campos,Democratic,,,True,True
 2026,Texas,TX,State House,119,general,Melva Perez,Republican,,,False,False
+2026,Texas,TX,State House,120,general,Barbara Gervin-Hawkins,Democratic,,,True,True
 2026,Texas,TX,State House,121,general,Marc LaHood,Republican,,,True,True
 2026,Texas,TX,State House,121,general,Zach Dunn,Democratic,,,False,False
 2026,Texas,TX,State House,122,general,Mark Dorazio,Republican,,,True,True
@@ -2064,7 +2052,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Texas,TX,State House,124,general,Josey Garcia,Democratic,,,True,True
 2026,Texas,TX,State House,124,general,Sylvia Soto,Republican,,,False,False
 2026,Texas,TX,State House,124,general,L.D. Howard,Write-in,,,False,False
-2026,Texas,TX,State House,125,general,Andrian Reyna,Democratic,,,True,False
+2026,Texas,TX,State House,125,general,Adrian Reyna,Democratic,,,True,False
 2026,Texas,TX,State House,125,general,Ricardo Martinez,Republican,,,False,False
 2026,Texas,TX,State House,126,general,Stan Stanart,Republican,,,True,False
 2026,Texas,TX,State House,126,general,Stephanie Bord,Democratic,,,False,False
