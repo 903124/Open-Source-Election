@@ -23618,8 +23618,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Oklahoma,OK,State House,1,general,Wes Watson Withdrawn,Republican,,,False,False
 2026,Oklahoma,OK,State House,1,general,Kurt Reisdorf,Democratic,,,False,False
 2026,Oklahoma,OK,State House,2,general,Jim Olsen,Republican,,,True,False
-2026,Oklahoma,OK,State House,3,general,Steve Glinski,Democratic,,,True,False
-2026,Oklahoma,OK,State House,3,general,Rick West,Republican,,,False,False
+2026,Oklahoma,OK,State House,3,general,Rick West,Republican,,,True,False
+2026,Oklahoma,OK,State House,3,general,Steve Glinski Eliminated in the primary,Democratic,,,False,False
 2026,Oklahoma,OK,State House,3,general,Dalton Staley,Republican,,,False,False
 2026,Oklahoma,OK,State House,4,general,Bob Ed Culver Jr.,Republican,,,True,False
 2026,Oklahoma,OK,State House,4,general,Christopher Wier,Democratic,,,False,False
@@ -23630,12 +23630,12 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Oklahoma,OK,State House,7,general,Steve Bashore,Republican,,,True,False
 2026,Oklahoma,OK,State House,8,general,Tom Gann,Republican,,54.0,True,False
 2026,Oklahoma,OK,State House,8,general,Todd Rice,Republican,,46.0,False,False
-2026,Oklahoma,OK,State House,9,general,Andrea Biscardi,Democratic,,,True,False
-2026,Oklahoma,OK,State House,9,general,Scotty Stokes Eliminated in runoff,Republican,,,False,False
+2026,Oklahoma,OK,State House,9,general,Scotty Stokes,Republican,,,True,False
+2026,Oklahoma,OK,State House,9,general,Andrea Biscardi Eliminated in runoff,Democratic,,,False,False
 2026,Oklahoma,OK,State House,9,general,Crystal Campbell Eliminated in the primary,Republican,,,False,False
 2026,Oklahoma,OK,State House,9,general,Debbie Long,Republican,,,False,False
-2026,Oklahoma,OK,State House,10,general,Isaac D. Mattox,Democratic,,,True,False
-2026,Oklahoma,OK,State House,10,general,Judd Strom,Republican,,,False,False
+2026,Oklahoma,OK,State House,10,general,Judd Strom,Republican,,,True,False
+2026,Oklahoma,OK,State House,10,general,Isaac D. Mattox Eliminated in the primary,Democratic,,,False,False
 2026,Oklahoma,OK,State House,10,general,Jake Blair,Republican,,,False,False
 2026,Oklahoma,OK,State House,10,general,Cuen Funderburke,Republican,,,False,False
 2026,Oklahoma,OK,State House,11,general,John Kane,Republican,,70.0,True,False
@@ -23644,12 +23644,12 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Oklahoma,OK,State House,12,general,Tiffany Prater Eliminated in the primary,Democratic,,,False,False
 2026,Oklahoma,OK,State House,12,general,Sandy Hodges,Republican,,,False,False
 2026,Oklahoma,OK,State House,13,general,Neil Hays,Republican,,,True,False
-2026,Oklahoma,OK,State House,14,general,Jeremiah Gantz,Democratic,,,True,False
-2026,Oklahoma,OK,State House,14,general,Chris Sneed,Republican,,,False,False
+2026,Oklahoma,OK,State House,14,general,Chris Sneed,Republican,,,True,False
+2026,Oklahoma,OK,State House,14,general,Jeremiah Gantz Eliminated in the primary,Democratic,,,False,False
 2026,Oklahoma,OK,State House,14,general,Roy Timmons,Republican,,,False,False
 2026,Oklahoma,OK,State House,15,general,Tim Turner,Republican,,,True,False
-2026,Oklahoma,OK,State House,16,general,Rose Rosie Lynch,Democratic,,,True,False
-2026,Oklahoma,OK,State House,16,general,David Nelson,Republican,,,False,False
+2026,Oklahoma,OK,State House,16,general,David Nelson,Republican,,,True,False
+2026,Oklahoma,OK,State House,16,general,Rose Rosie Lynch,Democratic,,,False,False
 2026,Oklahoma,OK,State House,17,general,Jim Grego,Republican,,,True,False
 2026,Oklahoma,OK,State House,18,general,David Smith,Republican,,,True,False
 2026,Oklahoma,OK,State House,18,general,Pamela Gordon Eliminated in the primary,Republican,,,False,False
@@ -23657,8 +23657,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Oklahoma,OK,State House,19,general,Michael Brittingham,Republican,,,True,False
 2026,Oklahoma,OK,State House,19,general,Anthony Devore Eliminated in the primary,Republican,,,False,False
 2026,Oklahoma,OK,State House,19,general,Derek S Porter,Republican,,,False,False
-2026,Oklahoma,OK,State House,20,general,Chris May,Democratic,,,True,False
-2026,Oklahoma,OK,State House,20,general,Jonathan Wilk,Republican,,,False,False
+2026,Oklahoma,OK,State House,20,general,Jonathan Wilk,Republican,,,True,False
+2026,Oklahoma,OK,State House,20,general,Chris May Eliminated in the primary,Democratic,,,False,False
 2026,Oklahoma,OK,State House,20,general,Mike Fullerton,Republican,,,False,False
 2026,Oklahoma,OK,State House,21,general,Cody Maynard,Republican,,,True,False
 2026,Oklahoma,OK,State House,21,general,Oklahoma State Election Board,Democratic,,,False,False
@@ -23675,22 +23675,22 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Oklahoma,OK,State House,27,general,Memory Taylor Eliminated in the primary,Democratic,,,False,False
 2026,Oklahoma,OK,State House,27,general,Roberta Lewis,Republican,,,False,False
 2026,Oklahoma,OK,State House,27,general,Shoney Qualls,Republican,,,False,False
-2026,Oklahoma,OK,State House,28,general,Blake Cummings,Democratic,,,True,False
-2026,Oklahoma,OK,State House,28,general,Danny Williams,Republican,,,False,False
+2026,Oklahoma,OK,State House,28,general,Danny Williams,Republican,,,True,False
+2026,Oklahoma,OK,State House,28,general,Blake Cummings,Democratic,,,False,False
 2026,Oklahoma,OK,State House,29,general,Kyle Hilbert,Republican,,76.0,True,False
 2026,Oklahoma,OK,State House,29,general,Brian Jackson,Republican,,24.0,False,False
-2026,Oklahoma,OK,State House,30,general,Sonya Amling,Democratic,,,True,False
-2026,Oklahoma,OK,State House,30,general,Mark Lawson,Republican,,,False,False
+2026,Oklahoma,OK,State House,30,general,Mark Lawson,Republican,,,True,False
+2026,Oklahoma,OK,State House,30,general,Sonya Amling,Democratic,,,False,False
 2026,Oklahoma,OK,State House,31,general,Collin Duel,Republican,,57.0,True,False
 2026,Oklahoma,OK,State House,31,general,Karmin Grider,Republican,,43.0,False,False
-2026,Oklahoma,OK,State House,32,general,Andy Brown,Independent),,,True,False
-2026,Oklahoma,OK,State House,32,general,Jim Shaw,Republican,,,False,False
+2026,Oklahoma,OK,State House,32,general,Jim Shaw,Republican,,,True,False
+2026,Oklahoma,OK,State House,32,general,Andy Brown Eliminated in the primary,Independent),,,False,False
 2026,Oklahoma,OK,State House,32,general,Jack Vaughan,Republican,,,False,False
-2026,Oklahoma,OK,State House,33,general,Max E. Burchett Jr.,Democratic,,,True,False
-2026,Oklahoma,OK,State House,33,general,Molly Jenkins,Republican,,,False,False
+2026,Oklahoma,OK,State House,33,general,Molly Jenkins,Republican,,,True,False
+2026,Oklahoma,OK,State House,33,general,Max E. Burchett Jr. Eliminated in the primary,Democratic,,,False,False
 2026,Oklahoma,OK,State House,33,general,B. J. Roberson,Republican,,,False,False
-2026,Oklahoma,OK,State House,34,general,Aaron Means,Republican,,,True,False
-2026,Oklahoma,OK,State House,34,general,Trish Ranson,Democratic,,,False,False
+2026,Oklahoma,OK,State House,34,general,Trish Ranson,Democratic,,,True,False
+2026,Oklahoma,OK,State House,34,general,Aaron Means Struck from ballot,Republican,,,False,False
 2026,Oklahoma,OK,State House,34,general,"Ted Riley {{cite news |last1=Olsson |first1=Faithanna |title=Pugh prevails over state superintendent candidacy challenge, board boots Ranson opponent |url=https://nondoc.com/2026/04/16/pugh",Republican,,,False,False
 2026,Oklahoma,OK,State House,35,general,Dillon Travis,Republican,,65.0,True,False
 2026,Oklahoma,OK,State House,35,general,Kevin Wright,Republican,,35.0,False,False
@@ -23711,8 +23711,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Oklahoma,OK,State House,39,general,Ronda Peterson,Republican,,39.0,False,False
 2026,Oklahoma,OK,State House,40,general,Kinsley Jordan,Republican,,52.0,True,False
 2026,Oklahoma,OK,State House,40,general,Torry Turnbow,Republican,,48.0,False,False
-2026,Oklahoma,OK,State House,41,general,Mike Bockus,Democratic,,,True,False
-2026,Oklahoma,OK,State House,41,general,Denise Crosswhite Hader,Republican,,,False,False
+2026,Oklahoma,OK,State House,41,general,Denise Crosswhite Hader,Republican,,,True,False
+2026,Oklahoma,OK,State House,41,general,Mike Bockus,Democratic,,,False,False
 2026,Oklahoma,OK,State House,42,general,Cynthia Roe,Republican,,53.0,True,False
 2026,Oklahoma,OK,State House,42,general,Kaity Keith,Republican,,47.0,False,False
 2026,Oklahoma,OK,State House,43,general,Jay Steagall,Republican,,,True,False
@@ -23721,8 +23721,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Oklahoma,OK,State House,45,general,Carolyn Womack,Republican,,,False,False
 2026,Oklahoma,OK,State House,45,general,Evan Nathaniel Shepherd,Democratic,,,False,False
 2026,Oklahoma,OK,State House,46,general,Jacob Rosecrants,Democratic,,,True,False
-2026,Oklahoma,OK,State House,47,general,Indigo Oliver,Democratic,,,True,False
-2026,Oklahoma,OK,State House,47,general,Toby Thompson Eliminated in runoff,Republican,,,False,False
+2026,Oklahoma,OK,State House,47,general,Toby Thompson,Republican,,,True,False
+2026,Oklahoma,OK,State House,47,general,Indigo Oliver Eliminated in runoff,Democratic,,,False,False
 2026,Oklahoma,OK,State House,47,general,Kevan Gentry Eliminated in the primary,Republican,,,False,False
 2026,Oklahoma,OK,State House,47,general,Kevin Simons,Republican,,,False,False
 2026,Oklahoma,OK,State House,47,general,Kevin Warnemuende,Republican,,,False,False
@@ -23733,19 +23733,19 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Oklahoma,OK,State House,51,general,Cole Stevens,Republican,,53.0,True,False
 2026,Oklahoma,OK,State House,51,general,Cody Elliot,Republican,,47.0,False,False
 2026,Oklahoma,OK,State House,52,general,Gerrid Kendrix,Republican,,,True,False
-2026,Oklahoma,OK,State House,53,general,Carroll Asséo,Democratic,,,True,False
-2026,Oklahoma,OK,State House,53,general,Jason Blair,Republican,,,False,False
+2026,Oklahoma,OK,State House,53,general,Jason Blair,Republican,,,True,False
+2026,Oklahoma,OK,State House,53,general,Carroll Asséo Eliminated in the primary,Democratic,,,False,False
 2026,Oklahoma,OK,State House,53,general,Grant Worley,Republican,,,False,False
-2026,Oklahoma,OK,State House,54,general,Crystal Abram,Democratic,,,True,False
-2026,Oklahoma,OK,State House,54,general,Heath Kufahl Eliminated in the primary,Republican,,,False,False
+2026,Oklahoma,OK,State House,54,general,Heath Kufahl,Republican,,,True,False
+2026,Oklahoma,OK,State House,54,general,Crystal Abram,Democratic,,,False,False
 2026,Oklahoma,OK,State House,54,general,Philip C. Lancaster,Republican,,,False,False
 2026,Oklahoma,OK,State House,54,general,Alexander Torvi,Republican,,,False,False
 2026,Oklahoma,OK,State House,55,general,Nick Archer,Republican,,,True,False
 2026,Oklahoma,OK,State House,56,general,Dick Lowe,Republican,,,True,False
 2026,Oklahoma,OK,State House,56,general,Linda Pedro,Democratic,,,False,False
 2026,Oklahoma,OK,State House,57,general,Anthony Moore,Republican,,,True,False
-2026,Oklahoma,OK,State House,58,general,Albert Borrie,Democratic,,,True,False
-2026,Oklahoma,OK,State House,58,general,Carl Newton,Republican,,,False,False
+2026,Oklahoma,OK,State House,58,general,Carl Newton,Republican,,,True,False
+2026,Oklahoma,OK,State House,58,general,Albert Borrie,Democratic,,,False,False
 2026,Oklahoma,OK,State House,59,general,Mike Dobrinski,Republican,,,True,False
 2026,Oklahoma,OK,State House,60,general,Mike Kelley,Republican,,,True,False
 2026,Oklahoma,OK,State House,60,general,Sharon K. Taylor Eliminated in the primary,Democratic,,,False,False
@@ -23759,12 +23759,12 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Oklahoma,OK,State House,64,general,Kathy Suttles,Democratic,,,False,False
 2026,Oklahoma,OK,State House,65,general,Sam Mitchell,Republican,,57.0,True,False
 2026,Oklahoma,OK,State House,65,general,Carla Weaver,Republican,,43.0,False,False
-2026,Oklahoma,OK,State House,66,general,Alex Barclay,Democratic,,,True,False
-2026,Oklahoma,OK,State House,66,general,Kenneth Blevins,Libertarian,,,False,False
-2026,Oklahoma,OK,State House,66,general,Clay Staires,Republican,,,False,False
+2026,Oklahoma,OK,State House,66,general,Clay Staires,Republican,,,True,False
+2026,Oklahoma,OK,State House,66,general,Kenneth Blevins Withdrawn,Libertarian,,,False,False
+2026,Oklahoma,OK,State House,66,general,Alex Barclay,Democratic,,,False,False
 2026,Oklahoma,OK,State House,67,general,Rob Hall,Republican,,,True,False
-2026,Oklahoma,OK,State House,68,general,Michelle LaFleur,Democratic,,,True,False
-2026,Oklahoma,OK,State House,68,general,Mike Lay,Republican,,,False,False
+2026,Oklahoma,OK,State House,68,general,Mike Lay,Republican,,,True,False
+2026,Oklahoma,OK,State House,68,general,Michelle LaFleur,Democratic,,,False,False
 2026,Oklahoma,OK,State House,69,general,Sheila Dills,Republican,,,True,False
 2026,Oklahoma,OK,State House,69,general,Tyler Price Eliminated in the primary,Democratic,,,False,False
 2026,Oklahoma,OK,State House,69,general,Carrie DeWeese,Republican,,,False,False
@@ -23772,32 +23772,32 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Oklahoma,OK,State House,69,general,Angela Strohm,Republican,,,False,False
 2026,Oklahoma,OK,State House,70,general,Suzanne Schreiber,Democratic,,,True,False
 2026,Oklahoma,OK,State House,71,general,Amanda Clinton,Democratic,,,True,False
-2026,Oklahoma,OK,State House,72,general,Adam Martin,Republican,,,True,False
-2026,Oklahoma,OK,State House,72,general,Michelle McCane,Democratic,,,False,False
+2026,Oklahoma,OK,State House,72,general,Michelle McCane,Democratic,,,True,False
+2026,Oklahoma,OK,State House,72,general,Adam Martin,Republican,,,False,False
 2026,Oklahoma,OK,State House,73,general,Ron Stewart,Democratic,,65.0,True,False
 2026,Oklahoma,OK,State House,73,general,Ed Ross,Democratic,,35.0,False,False
 2026,Oklahoma,OK,State House,74,general,Kevin Wayne Norwood,Republican,,,True,False
 2026,Oklahoma,OK,State House,74,general,Aaron Brent Eliminated in the primary,Independent,,,False,False
 2026,Oklahoma,OK,State House,74,general,Sheila Vancuren,Republican,,,False,False
-2026,Oklahoma,OK,State House,75,general,T. J. Marti,Republican,,,True,False
-2026,Oklahoma,OK,State House,75,general,Joe Watkins,Democratic,,,False,False
+2026,Oklahoma,OK,State House,75,general,Joe Watkins (Oklahoma politician),Democratic,,,True,False
+2026,Oklahoma,OK,State House,75,general,T. J. Marti,Republican,,,False,False
 2026,Oklahoma,OK,State House,76,general,Ross Ford,Republican,,,True,False
 2026,Oklahoma,OK,State House,76,general,Michael Tinsley,Democratic,,,False,False
 2026,Oklahoma,OK,State House,77,general,Kristina Gabriel,Democratic,,83.0,True,False
 2026,Oklahoma,OK,State House,77,general,John Waldron,Democratic,,,False,False
 2026,Oklahoma,OK,State House,78,general,Meloyde Blancett,Democratic,,,True,False
 2026,Oklahoma,OK,State House,78,general,Tony Oliva,Independent,,,False,False
-2026,Oklahoma,OK,State House,79,general,Paul Hassink,Republican,,,True,False
-2026,Oklahoma,OK,State House,79,general,Melissa Provenzano,Democratic,,,False,False
-2026,Oklahoma,OK,State House,80,general,Jeremy Founds,Democratic,,,True,False
-2026,Oklahoma,OK,State House,80,general,Stan May,Republican,,,False,False
-2026,Oklahoma,OK,State House,81,general,Megan Hornbeek Allen,Democratic,,,True,False
-2026,Oklahoma,OK,State House,81,general,Troy Talley Eliminated in runoff,Republican,,,False,False
+2026,Oklahoma,OK,State House,79,general,Melissa Provenzano,Democratic,,,True,False
+2026,Oklahoma,OK,State House,79,general,Paul Hassink,Republican,,,False,False
+2026,Oklahoma,OK,State House,80,general,Stan May,Republican,,,True,False
+2026,Oklahoma,OK,State House,80,general,Jeremy Founds,Democratic,,,False,False
+2026,Oklahoma,OK,State House,81,general,Troy Talley,Republican,,,True,False
+2026,Oklahoma,OK,State House,81,general,Megan Hornbeek Allen Eliminated in runoff,Democratic,,,False,False
 2026,Oklahoma,OK,State House,81,general,Rusty Rains Eliminated in the primary,Republican,,,False,False
 2026,Oklahoma,OK,State House,81,general,Amber Canary,Republican,,,False,False
 2026,Oklahoma,OK,State House,81,general,Jason Lankford,Democratic,,,False,False
-2026,Oklahoma,OK,State House,82,general,Travis Headd,Democratic,,,True,False
-2026,Oklahoma,OK,State House,82,general,Nicole Miller,Republican,,,False,False
+2026,Oklahoma,OK,State House,82,general,Nicole Miller,Republican,,,True,False
+2026,Oklahoma,OK,State House,82,general,Travis Headd,Democratic,,,False,False
 2026,Oklahoma,OK,State House,83,general,Dalton Gau,Democratic,,,True,False
 2026,Oklahoma,OK,State House,83,general,Eric Roberts,Republican,,,False,False
 2026,Oklahoma,OK,State House,84,general,Jeffrey Perez,Democratic,,,True,False
@@ -23806,17 +23806,17 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Oklahoma,OK,State House,85,general,Joe Fallin Eliminated in the primary,Republican,,,False,False
 2026,Oklahoma,OK,State House,85,general,Braxton Banks,Democratic,,,False,False
 2026,Oklahoma,OK,State House,85,general,Estefania Gruenstein,Democratic,,,False,False
-2026,Oklahoma,OK,State House,86,general,Hannah Cole,Democratic,,,True,False
-2026,Oklahoma,OK,State House,86,general,David Hardin,Republican,,,False,False
+2026,Oklahoma,OK,State House,86,general,David Hardin,Republican,,,True,False
+2026,Oklahoma,OK,State House,86,general,Hannah Cole Eliminated in the primary,Democratic,,,False,False
 2026,Oklahoma,OK,State House,86,general,Ryan Martin,Republican,,,False,False
-2026,Oklahoma,OK,State House,87,general,Cody Bartle,Republican,,,True,False
-2026,Oklahoma,OK,State House,87,general,Ellyn Hefner,Democratic,,,False,False
+2026,Oklahoma,OK,State House,87,general,Ellyn Hefner,Democratic,,,True,False
+2026,Oklahoma,OK,State House,87,general,Cody Bartle,Republican,,,False,False
 2026,Oklahoma,OK,State House,88,general,Ellen Pogemiller,Democratic,,,True,False
 2026,Oklahoma,OK,State House,89,general,Arturo Alonso,Democratic,,,True,False
 2026,Oklahoma,OK,State House,90,general,Emily Gise,Republican,,,True,False
 2026,Oklahoma,OK,State House,90,general,Kymberly Ward,Democratic,,,False,False
-2026,Oklahoma,OK,State House,91,general,Chris Fowler,Democratic,,,True,False
-2026,Oklahoma,OK,State House,91,general,Roberto Seda Eliminated in runoff,Republican,,,False,False
+2026,Oklahoma,OK,State House,91,general,Roberto Seda,Republican,,,True,False
+2026,Oklahoma,OK,State House,91,general,Chris Fowler Eliminated in runoff,Democratic,,,False,False
 2026,Oklahoma,OK,State House,91,general,Teresa Sterling Eliminated in the primary,Republican,,,False,False
 2026,Oklahoma,OK,State House,91,general,Michael Freeman,Republican,,,False,False
 2026,Oklahoma,OK,State House,91,general,Bruce Fleming,Republican,,,False,False
@@ -23825,21 +23825,21 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Oklahoma,OK,State House,92,general,Vicki Ruth Werneke,Democratic,,49.0,False,False
 2026,Oklahoma,OK,State House,93,general,Mickey Dollens,Democratic,,,True,False
 2026,Oklahoma,OK,State House,94,general,Andy Fugate,Democratic,,,True,False
-2026,Oklahoma,OK,State House,95,general,Ryan Gardner,Independent,,,True,False
-2026,Oklahoma,OK,State House,95,general,Tegan Malone,Democratic,,,False,False
+2026,Oklahoma,OK,State House,95,general,Tegan Malone,Democratic,,,True,False
 2026,Oklahoma,OK,State House,95,general,Max Wolfley,Republican,,,False,False
+2026,Oklahoma,OK,State House,95,general,Ryan Gardner Eliminated in the primary,Independent,,,False,False
 2026,Oklahoma,OK,State House,95,general,Brent Rinehart,Republican,,,False,False
 2026,Oklahoma,OK,State House,95,general,Alexander Yoder,Republican,,,False,False
-2026,Oklahoma,OK,State House,96,general,Ashtyn Smith,Democratic,,,True,False
-2026,Oklahoma,OK,State House,96,general,Preston Stinson,Republican,,,False,False
+2026,Oklahoma,OK,State House,96,general,Preston Stinson,Republican,,,True,False
+2026,Oklahoma,OK,State House,96,general,Ashtyn Smith Eliminated in the primary,Democratic,,,False,False
 2026,Oklahoma,OK,State House,96,general,John Bachman,Republican,,,False,False
 2026,Oklahoma,OK,State House,96,general,Phillip Massad,Democratic,,,False,False
 2026,Oklahoma,OK,State House,96,general,Austin Reams,Democratic,,,False,False
 2026,Oklahoma,OK,State House,97,general,Aletia Timmons,Democratic,,86.0,True,False
 2026,Oklahoma,OK,State House,97,general,Chimere Grant,Democratic,,,False,False
 2026,Oklahoma,OK,State House,97,general,Austin T. Jones,Republican,,,False,False
-2026,Oklahoma,OK,State House,98,general,Cathy Smythe,Democratic,,,True,False
-2026,Oklahoma,OK,State House,98,general,Gabe Woolley,Republican,,,False,False
+2026,Oklahoma,OK,State House,98,general,Gabe Woolley,Republican,,,True,False
+2026,Oklahoma,OK,State House,98,general,Cathy Smythe Eliminated in the primary,Democratic,,,False,False
 2026,Oklahoma,OK,State House,98,general,Dean Davis,Republican,,,False,False
 2026,Oklahoma,OK,State House,99,general,Herschel L. Brown,Democratic,,,True,False
 2026,Oklahoma,OK,State House,99,general,Melvin Latham Eliminated in runoff,Republican,,,False,False
@@ -24154,9 +24154,11 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Texas,TX,State House,139,general,Charlene Ward Johnson,Democratic,,,True,True
 2026,Texas,TX,State House,139,general,Kyle Harding,Republican,,,False,False
 2026,Texas,TX,State House,140,general,Armando Walle,Democratic,,,True,True
-2026,Texas,TX,State House,140,general,Lucia Garcia DeLeon,Republican,,,False,False
+2026,Texas,TX,State House,140,general,Laura Garcia DeLeon,Republican,,,False,False
 2026,Texas,TX,State House,141,general,Senfronia Thompson,Democratic,,,True,True
 2026,Texas,TX,State House,141,general,Julie Hunt,Republican,,,False,False
+2026,Texas,TX,State House,142,general,Harold Dutton Jr.,Democratic,,,True,True
+2026,Texas,TX,State House,142,general,Heidi Hall,Republican,,,False,False
 2026,Texas,TX,State House,143,general,Ana Hernandez,Democratic,,,True,True
 2026,Texas,TX,State House,143,general,Frank Salazar,Republican,,,False,False
 2026,Texas,TX,State House,144,general,Mary Ann Perez,Democratic,,,True,True

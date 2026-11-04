@@ -1,116 +1,114 @@
 year,state,state_code,office,candidate,party,percentage,winner,incumbent
+2026,Alabama,AL,governor,Tommy Tuberville,Republican,,True,False
 2026,Alabama,AL,governor,Doug Jones,Democratic,,False,False
-2026,Alabama,AL,governor,Tommy Tuberville,Republican,,False,False
 2026,Alaska,AK,governor,Dave Bronson,Republican,,False,False
 2026,Alaska,AK,governor,Jonathan Kreiss-Tomkins,Democratic,,False,False
 2026,Alaska,AK,governor,Treg Taylor,Republican,,False,False
 2026,Alaska,AK,governor,Bernadette Wilson,Republican,,False,False
+2026,Arizona,AZ,governor,Katie Hobbs,Democratic,,True,True
 2026,Arizona,AZ,governor,Andy Biggs,Republican,,False,False
-2026,Arizona,AZ,governor,Katie Hobbs,Democratic,,False,True
 2026,Arizona,AZ,governor,Teri Hourihan,Independent,,False,False
 2026,Arizona,AZ,governor,Risa Lombardo,Green,,False,False
+2026,Arkansas,AR,governor,Sarah Huckabee Sanders,Republican,,True,True
 2026,Arkansas,AR,governor,Fredrick Love,Democratic,,False,False
-2026,Arkansas,AR,governor,Sarah Huckabee Sanders,Republican,,False,True
 2026,Arkansas,AR,governor,Colt Shelby,Libertarian,,False,False
-2026,California,CA,governor,Xavier Becerra,Democratic,,False,False
+2026,California,CA,governor,Xavier Becerra,Democratic,,True,False
 2026,California,CA,governor,Steve Hilton,Republican,,False,False
+2026,Colorado,CO,governor,Phil Weiser,Democratic,,True,False
+2026,Colorado,CO,governor,Victor Marx,Republican,,False,False
 2026,Colorado,CO,governor,Stephen Hamilton,American Constitution Party (colorado),,False,False
 2026,Colorado,CO,governor,Greg Lopez,Independent,,False,False
-2026,Colorado,CO,governor,Victor Marx,Republican,,False,False
 2026,Colorado,CO,governor,Eric Mulder,Libertarian,,False,False
 2026,Colorado,CO,governor,Jeff Peckman,Unity,,False,False
 2026,Colorado,CO,governor,Erik Underwood,Voting,,False,False
-2026,Colorado,CO,governor,Phil Weiser,Democratic,,False,False
+2026,Connecticut,CT,governor,Ned Lamont,Democratic,,True,True
 2026,Connecticut,CT,governor,Ryan Fazio,Republican,,False,False
-2026,Connecticut,CT,governor,Ned Lamont,Democratic,,False,True
+2026,Florida,FL,governor,Byron Donalds,Republican,,True,False
+2026,Florida,FL,governor,David Jolly,Democratic,,False,False
 2026,Florida,FL,governor,Dean Abrams,Independent,,False,False
 2026,Florida,FL,governor,Charles Burkett,Independent,,False,False
 2026,Florida,FL,governor,Jeffrey Datto,Independent,,False,False
 2026,Florida,FL,governor,Moe Dimanche,Independent,,False,False
-2026,Florida,FL,governor,Byron Donalds,Republican,,False,False
 2026,Florida,FL,governor,Scott Jewett,Libertarian,,False,False
-2026,Florida,FL,governor,David Jolly,Democratic,,False,False
 2026,Florida,FL,governor,Frank Russo,Independent,,False,False
-2026,Georgia,GA,governor,Keisha Lance Bottoms,Democratic,,False,False
+2026,Georgia,GA,governor,Keisha Lance Bottoms,Democratic,,True,False
 2026,Georgia,GA,governor,Rick Jackson,Republican,,False,False
+2026,Hawaii,HI,governor,Josh Green,Democratic,,True,True
 2026,Hawaii,HI,governor,Gary Cordery,Republican,,False,False
-2026,Hawaii,HI,governor,Josh Green,Democratic,,False,True
-2026,Idaho,ID,governor,Brad Little,Republican,,False,True
+2026,Idaho,ID,governor,Brad Little,Republican,,True,True
 2026,Idaho,ID,governor,Terri Pickens,Democratic,,False,False
 2026,Idaho,ID,governor,Pro-Life,Constitution,,False,False
 2026,Idaho,ID,governor,Paul Sand,Libertarian,,False,False
 2026,Idaho,ID,governor,John Stegner,Independent,,False,False
+2026,Illinois,IL,governor,JB Pritzker,Democratic,,True,True
 2026,Illinois,IL,governor,Darren Bailey,Republican,,False,False
 2026,Illinois,IL,governor,Collin Corbett,Independent,,False,False
-2026,Illinois,IL,governor,JB Pritzker,Democratic,,False,True
+2026,Iowa,IA,governor,Rob Sand,Democratic,,True,False
 2026,Iowa,IA,governor,Zach Lahn,Republican,,False,False
-2026,Iowa,IA,governor,Rob Sand,Democratic,,False,False
-2026,Iowa,IA,governor,Sondra Wilson,Independent,,False,False
 2026,Kansas,KS,governor,Cindy Holscher,Democratic,,False,False
 2026,Kansas,KS,governor,Ty Masterson,Republican,,False,False
-2026,Maine,ME,governor,Rick Bennett,Independent,,False,False
+2026,Maine,ME,governor,Hannah Pingree,Democratic,,True,False
 2026,Maine,ME,governor,Robert B. Charles,Republican,,False,False
-2026,Maine,ME,governor,Hannah Pingree,Democratic,,False,False
+2026,Maine,ME,governor,Rick Bennett,Independent,,False,False
+2026,Maryland,MD,governor,Wes Moore,Democratic,,True,True
 2026,Maryland,MD,governor,Dan Cox,Republican,,False,False
 2026,Maryland,MD,governor,Andy Ellis,Green,,False,False
-2026,Maryland,MD,governor,Wes Moore,Democratic,,False,True
 2026,Maryland,MD,governor,Cathy White,Class,,False,False
-2026,Massachusetts,MA,governor,Maura Healey,Democratic,,False,True
-2026,Massachusetts,MA,governor,Andrea James,Independent,,False,False
+2026,Massachusetts,MA,governor,Maura Healey,Democratic,,True,True
 2026,Massachusetts,MA,governor,Mike Minogue,Republican,,False,False
-2026,Michigan,MI,governor,Jocelyn Benson,Democratic,,False,False
-2026,Michigan,MI,governor,Donna Brandenburg,Constitution,,False,False
-2026,Michigan,MI,governor,Douglas Campbell,Green,,False,False
-2026,Michigan,MI,governor,Anthony Hudson,Libertarian,,False,False
+2026,Massachusetts,MA,governor,Andrea James,Independent,,False,False
+2026,Michigan,MI,governor,Jocelyn Benson,Democratic,,True,False
 2026,Michigan,MI,governor,John James,Republican,,False,False
+2026,Michigan,MI,governor,Donna Brandenburg,Constitution,,False,False
+2026,Michigan,MI,governor,Anthony Hudson,Libertarian,,False,False
+2026,Minnesota,MN,governor,Amy Klobuchar,Minnesota Democratic–farmer–labor,,True,False
 2026,Minnesota,MN,governor,Lisa Demuth,Republican,,False,False
-2026,Minnesota,MN,governor,Amy Klobuchar,Minnesota Democratic–farmer–labor,,False,False
 2026,Minnesota,MN,governor,Steven Young,Green,,False,False
+2026,Nebraska,NE,governor,Jim Pillen,Republican,,True,True
+2026,Nebraska,NE,governor,Lynne Walz,Democratic,,False,False
 2026,Nebraska,NE,governor,Rick Beard,Now,,False,False
 2026,Nebraska,NE,governor,Brett Lindstrom,America First Party (nebraska),,False,False
-2026,Nebraska,NE,governor,Jim Pillen,Republican,,False,True
-2026,Nebraska,NE,governor,Lynne Walz,Democratic,,False,False
-2026,Nevada,NV,governor,Aaron Ford,Democratic,,False,False
-2026,Nevada,NV,governor,Danielle Ford,Independent,,False,False
+2026,Nevada,NV,governor,Aaron Ford,Democratic,,True,False
 2026,Nevada,NV,governor,Joe Lombardo,Republican,,False,True
-2026,New Hampshire,NH,governor,Kelly Ayotte,Republican,,False,True
-2026,New Hampshire,NH,governor,Jon Kiper,Independent,,False,False
+2026,Nevada,NV,governor,Danielle Ford,Independent,,False,False
+2026,New Hampshire,NH,governor,Kelly Ayotte,Republican,,True,True
 2026,New Hampshire,NH,governor,Cinde Warmington,Democratic,,False,False
-2026,New Mexico,NM,governor,Deb Haaland,Democratic,,False,False
+2026,New Hampshire,NH,governor,Jon Kiper,Independent,,False,False
+2026,New Mexico,NM,governor,Deb Haaland,Democratic,,True,False
 2026,New Mexico,NM,governor,Gregg Hull,Republican,,False,False
+2026,New York,NY,governor,Kathy Hochul,Democratic,,True,True
 2026,New York,NY,governor,Bruce Blakeman,Republican,,False,False
-2026,New York,NY,governor,Kathy Hochul,Democratic,,False,True
-2026,Ohio,OH,governor,Amy Acton,Democratic,,False,False
-2026,Ohio,OH,governor,Donald Kissick,Libertarian,,False,False
+2026,Ohio,OH,governor,Amy Acton,Democratic,,True,False
 2026,Ohio,OH,governor,Vivek Ramaswamy,Republican,,False,False
+2026,Ohio,OH,governor,Donald Kissick,Libertarian,,False,False
+2026,Oklahoma,OK,governor,Mike Mazzei,Republican,,True,False
+2026,Oklahoma,OK,governor,Cyndi Munson,Democratic,,False,False
 2026,Oklahoma,OK,governor,Robert Brooks Sr.,Independent,,False,False
 2026,Oklahoma,OK,governor,Orlando Bush,Independent,,False,False
 2026,Oklahoma,OK,governor,Jerry Griffin,Independent,,False,False
-2026,Oklahoma,OK,governor,Mike Mazzei,Republican,,False,False
-2026,Oklahoma,OK,governor,Cyndi Munson,Democratic,,False,False
 2026,Oregon,OR,governor,Christine Drazan,Republican,,False,False
 2026,Oregon,OR,governor,Tina Kotek,Democratic,,False,True
 2026,Oregon,OR,governor,Brett Smith,Green,,False,False
+2026,Pennsylvania,PA,governor,Josh Shapiro,Democratic,,True,True
 2026,Pennsylvania,PA,governor,Stacy Garrity,Republican,,False,False
 2026,Pennsylvania,PA,governor,Ken Krawchuk,Libertarian,,False,False
-2026,Pennsylvania,PA,governor,Josh Shapiro,Democratic,,False,True
-2026,Rhode Island,RI,governor,Ken Block,Independent,,False,False
-2026,Rhode Island,RI,governor,Helena Foulkes,Democratic,,False,False
-2026,Rhode Island,RI,governor,Jasjit Gotra,Independent,,False,False
+2026,Rhode Island,RI,governor,Helena Foulkes,Democratic,,True,False
 2026,Rhode Island,RI,governor,Aaron Guckian,Republican,,False,False
+2026,Rhode Island,RI,governor,Ken Block,Independent,,False,False
+2026,Rhode Island,RI,governor,Jasjit Gotra,Independent,,False,False
 2026,Rhode Island,RI,governor,CD Reynolds,Independent,,False,False
+2026,South Carolina,SC,governor,Alan Wilson,Republican,,True,False
+2026,South Carolina,SC,governor,Jermaine Johnson,Democratic,,False,False
 2026,South Carolina,SC,governor,Michael Addison,Citizens,,False,False
 2026,South Carolina,SC,governor,Walid Hakim,Green,,False,False
-2026,South Carolina,SC,governor,Jermaine Johnson,Democratic,,False,False
-2026,South Carolina,SC,governor,Alan Wilson,Republican,,False,False
+2026,South Dakota,SD,governor,Larry Rhoden,Republican,,True,True
 2026,South Dakota,SD,governor,Dan Ahlers,Democratic,,False,False
-2026,South Dakota,SD,governor,Larry Rhoden,Republican,,False,True
+2026,Tennessee,TN,governor,Marsha Blackburn,Republican,,True,False
+2026,Tennessee,TN,governor,Jerri Green,Democratic,,False,False
 2026,Tennessee,TN,governor,Misam Abidi,Independent,,False,False
 2026,Tennessee,TN,governor,Santiago Asconape,Independent,,False,False
-2026,Tennessee,TN,governor,Marsha Blackburn,Republican,,False,False
 2026,Tennessee,TN,governor,Dean Brewer,Independent,,False,False
 2026,Tennessee,TN,governor,Ray Brown,Independent,,False,False
-2026,Tennessee,TN,governor,Jerri Green,Democratic,,False,False
 2026,Tennessee,TN,governor,Taylor Hafley,Independent,,False,False
 2026,Tennessee,TN,governor,David Hatley,Independent,,False,False
 2026,Tennessee,TN,governor,Wendell Jackson,Independent,,False,False
@@ -120,32 +118,31 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Tennessee,TN,governor,Karl Smithson,Independent,,False,False
 2026,Tennessee,TN,governor,L. Webb Taylor,Independent,,False,False
 2026,Tennessee,TN,governor,Robert Vick,Independent,,False,False
+2026,Texas,TX,governor,Gina Hinojosa,Democratic,,True,False
 2026,Texas,TX,governor,Greg Abbott,Republican,,False,True
 2026,Texas,TX,governor,Pat Dixon,Libertarian,,False,False
-2026,Texas,TX,governor,Gina Hinojosa,Democratic,,False,False
-2026,Vermont,VT,governor,June Goodband,Justice,,False,False
+2026,Vermont,VT,governor,Phil Scott,Republican,,True,True
 2026,Vermont,VT,governor,Amanda Janoo,Democratic,,False,False
+2026,Vermont,VT,governor,June Goodband,Justice,,False,False
 2026,Vermont,VT,governor,Brian Judd,Independent,,False,False
-2026,Vermont,VT,governor,Phil Scott,Republican,,False,True
 2026,Vermont,VT,governor,Dean Roy,Independent,,False,False
-2026,Wisconsin,WI,governor,David Crowley,Democratic,,False,False
+2026,Wisconsin,WI,governor,David Crowley,Democratic,,True,False
 2026,Wisconsin,WI,governor,Tom Tiffany,Republican,,False,False
-2026,Wyoming,WY,governor,Eric Barlow,Republican,,False,False
+2026,Wyoming,WY,governor,Eric Barlow,Republican,,True,False
 2026,Wyoming,WY,governor,Kenneth Casner,Democratic,,False,False
 2026,Wyoming,WY,governor,Joseph Kibler,Constitution,,False,False
-2026,District of Columbia,DC,governor,Janeese Lewis George,Democratic,,False,False
-2026,District of Columbia,DC,governor,Robert Gross,Green,,False,False
-2026,District of Columbia,DC,governor,Rhonda Hamilton,Independent,,False,False
-2026,Guam,GU,governor,Vicente Ada,Republican,,False,False
-2026,Guam,GU,governor,Therese Terlaje,Democratic,,False,False
-2026,Northern Mariana Islands,MP,governor,Blas T. Attao,Independent,,False,False
-2026,Northern Mariana Islands,MP,governor,Lawrence Camacho,Independent,,False,False
-2026,Northern Mariana Islands,MP,governor,Ralph Torres,Republican,,False,False
-2026,U.S. Virgin Islands,VI,governor,Oakland Benta,Independent,,False,False
-2026,U.S. Virgin Islands,VI,governor,Adlah Donastorg Jr.,Independent,,False,False
-2026,U.S. Virgin Islands,VI,governor,Gustav James,Independent,,False,False
-2026,U.S. Virgin Islands,VI,governor,Warren Mosler,Independent,,False,False
-2026,U.S. Virgin Islands,VI,governor,Stacey Plaskett,Democratic,,False,False
+2026,District of Columbia,DC,governor,Janeese Lewis George,Democratic,84.0,True,False
+2026,District of Columbia,DC,governor,Rhonda Hamilton,Independent,10.3,False,False
+2026,District of Columbia,DC,governor,Robert Gross,Green,3.6,False,False
+2026,Guam,GU,governor,'''Vicente Ada,Republican,51.45,True,False
+2026,Guam,GU,governor,Therese Terlaje,Democratic,48.15,False,False
+2026,Northern Mariana Islands,MP,governor,Ralph Torres,Republican,49.5,False,False
+2026,Northern Mariana Islands,MP,governor,Blas T. Attao,Independent,38.7,False,False
+2026,U.S. Virgin Islands,VI,governor,Stacey Plaskett,Democratic,62.8,True,False
+2026,U.S. Virgin Islands,VI,governor,Adlah Donastorg Jr.,Independent,13.3,False,False
+2026,U.S. Virgin Islands,VI,governor,Oakland Benta,Independent,12.0,False,False
+2026,U.S. Virgin Islands,VI,governor,Warren Mosler,Independent,6.8,False,False
+2026,U.S. Virgin Islands,VI,governor,Gustav James,Independent,3.4,False,False
 2026,Alabama,AL,attorney general,Katherine Robertson,Republican,,False,False
 2026,Alabama,AL,attorney general,Jeff McLaughlin,Democratic,,False,False
 2026,Arizona,AZ,attorney general,Kris Mayes,Democratic,,False,True

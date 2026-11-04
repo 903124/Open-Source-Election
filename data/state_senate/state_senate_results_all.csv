@@ -7552,14 +7552,14 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,North Dakota,ND,State Senate,,general,43rd,,,,False,False
 2026,North Dakota,ND,State Senate,,general,45th,,,,False,False
 2026,North Dakota,ND,State Senate,,general,47th,,,,False,False
-2026,Oklahoma,OK,State Senate,17,general,Ed Bolt,Democratic,,,True,False
-2026,Oklahoma,OK,State Senate,17,general,Justin Freeland Wood,Republican,,,False,False
-2026,Oklahoma,OK,State Senate,2,general,Randy Cowling,Democratic,,,True,False
-2026,Oklahoma,OK,State Senate,4,general,Ellen Cuff,Democratic,,,True,False
+2026,Oklahoma,OK,State Senate,17,general,Justin Freeland Wood,Republican,,,True,False
+2026,Oklahoma,OK,State Senate,17,general,Ed Bolt Eliminated in runoff,Democratic,,,False,False
+2026,Oklahoma,OK,State Senate,2,general,Ally Seifried,Republican,,,True,False
+2026,Oklahoma,OK,State Senate,4,general,Tom Woods,Republican,,,True,False
 2026,Oklahoma,OK,State Senate,6,general,David Bullard,Republican,,,True,False
 2026,Oklahoma,OK,State Senate,6,general,Patrick Southerland,Democratic,,,False,False
-2026,Oklahoma,OK,State Senate,8,general,Nathan Brewer,Democratic,,,True,False
-2026,Oklahoma,OK,State Senate,8,general,Bryan Logan,Republican,,,False,False
+2026,Oklahoma,OK,State Senate,8,general,Bryan Logan,Republican,,,True,False
+2026,Oklahoma,OK,State Senate,8,general,Nathan Brewer,Democratic,,,False,False
 2026,Oklahoma,OK,State Senate,10,general,Bill Coleman,Republican,,,True,False
 2026,Oklahoma,OK,State Senate,12,general,Todd Gollihare,Republican,,,True,False
 2026,Oklahoma,OK,State Senate,14,general,Jerry Alvord,Republican,,,True,False
@@ -7567,13 +7567,13 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Oklahoma,OK,State Senate,18,general,Tyler Herring,Republican,,,True,False
 2026,Oklahoma,OK,State Senate,18,general,Meredith McGinnis Eliminated in runoff,Democratic,,,False,False
 2026,Oklahoma,OK,State Senate,20,general,Chuck Hall,,2018.0,,True,False
-2026,Oklahoma,OK,State Senate,22,general,Kenny Kemper,Democratic,,,True,False
-2026,Oklahoma,OK,State Senate,22,general,Kristen Thompson,Republican,,,False,False
-2026,Oklahoma,OK,State Senate,24,general,Melissa Elder,Independent,,,True,False
-2026,Oklahoma,OK,State Senate,24,general,Jon Painter,Republican,,,False,False
-2026,Oklahoma,OK,State Senate,24,general,Johnathan Morales Eliminated in runoff,Democratic,,,False,False
+2026,Oklahoma,OK,State Senate,22,general,Kristen Thompson,Republican,,,True,False
+2026,Oklahoma,OK,State Senate,22,general,Kenny Kemper,Democratic,,,False,False
+2026,Oklahoma,OK,State Senate,24,general,Jon Painter,Republican,,,True,False
+2026,Oklahoma,OK,State Senate,24,general,Johnathan Morales,Democratic,,,False,False
+2026,Oklahoma,OK,State Senate,24,general,Melissa Elder Eliminated in runoff,Independent,,,False,False
 2026,Oklahoma,OK,State Senate,26,general,Jessica Winegeart,Republican,,,True,False
-2026,Oklahoma,OK,State Senate,28,general,Kevin M. Connor,Democratic,,,True,False
+2026,Oklahoma,OK,State Senate,28,general,Grant Green,Republican,,,True,False
 2026,Oklahoma,OK,State Senate,30,general,Julia Kirt,Democratic,,,True,False
 2026,Oklahoma,OK,State Senate,32,general,Curtis Erwin,Republican,,,True,False
 2026,Oklahoma,OK,State Senate,32,general,Booker T. Newton,Democratic,,,False,False
@@ -7585,7 +7585,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Oklahoma,OK,State Senate,38,general,Joe B. Buchanan,Republican,,43.0,False,False
 2026,Oklahoma,OK,State Senate,38,general,Barry Christian,Republican,,,False,False
 2026,Oklahoma,OK,State Senate,40,general,Carri Hicks,Democratic,,,True,False
-2026,Oklahoma,OK,State Senate,42,general,Chris Jones,Democratic,,,True,False
+2026,Oklahoma,OK,State Senate,42,general,Brenda Stanley,Republican,,,True,False
 2026,Oklahoma,OK,State Senate,44,general,Michael Brooks-Jimenez,Democratic,,,True,False
 2026,Oklahoma,OK,State Senate,46,general,Mark Mann,Democratic,,,True,False
 2026,Oklahoma,OK,State Senate,48,general,Nikki Nice,Democratic,,,True,False
@@ -7865,8 +7865,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,West Virginia,WV,State Senate,16,general,Jason Barrett,Republican,,,True,False
 2026,West Virginia,WV,State Senate,17,general,Tom Takubo,Republican,,,True,True
 2026,West Virginia,WV,State Senate,17,general,Wes Holden,Democratic,,,False,False
-2026,West Virginia,WV,State Senate,17,special general,Anne Charnock,Republican,,,False,True
-2026,West Virginia,WV,State Senate,17,special general,Richie Robb,Democratic,,,False,False
+2026,West Virginia,WV,State Senate,17,special general,Anne Charnock,Republican,12964.0,47.0,False,True
+2026,West Virginia,WV,State Senate,17,special general,Richie Robb,Democratic,14732.0,53.0,False,False
 2026,Wisconsin,WI,State Senate,1,general,Nic Cravillion,Republican,,,True,False
 2026,Wisconsin,WI,State Senate,1,general,Mark Becker,Independent,,,False,False
 2026,Wisconsin,WI,State Senate,3,general,Tim Carpenter,Democratic,,,True,True

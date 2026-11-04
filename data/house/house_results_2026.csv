@@ -1,2 +1,219 @@
 year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+2026,house,Alabama,AL,1,,Jerry Carl,Republican,,100.0,True,False,True
+2026,house,Alabama,AL,2,,Shomari Figures,Democratic,,100.0,True,False,False
+2026,house,Alabama,AL,3,,Mike Rogers,Republican,,100.0,True,False,False
+2026,house,Alabama,AL,4,,Robert Aderholt,Republican,,100.0,True,False,False
+2026,house,Alabama,AL,5,,Dale Strong,Republican,,100.0,True,False,False
+2026,house,Alabama,AL,6,,Gary Palmer,Republican,,100.0,True,False,False
+2026,house,Alabama,AL,7,,Terri Sewell,Democratic,,100.0,True,False,False
+2026,house,Arizona,AZ,3,,Yassamin Ansari,Democratic,,100.0,True,False,False
+2026,house,Arizona,AZ,4,,Greg Stanton,Democratic,,100.0,True,False,False
+2026,house,Arizona,AZ,7,,Adelita Grijalva,Democratic,,100.0,True,False,False
+2026,house,Arizona,AZ,9,,Paul Gosar,Republican,,100.0,True,False,False
+2026,house,Arkansas,AR,1,,Rick Crawford,Republican,,100.0,True,False,False
+2026,house,Arkansas,AR,3,,Steve Womack,Republican,,100.0,True,False,False
+2026,house,Arkansas,AR,4,,Bruce Westerman,Republican,,100.0,True,False,False
+2026,house,California,CA,1,,Mike McGuire,Democratic,,100.0,True,False,False
+2026,house,California,CA,2,,Jared Huffman,Democratic,,100.0,True,False,False
+2026,house,California,CA,3,,Ami Bera,Democratic,,100.0,True,False,False
+2026,house,California,CA,5,,Tom McClintock,Republican,,100.0,True,False,False
+2026,house,California,CA,6,,Richard Pan,Democratic,,100.0,True,False,False
+2026,house,California,CA,8,,John Garamendi,Democratic,,100.0,True,False,False
+2026,house,California,CA,9,,Josh Harder,Democratic,,100.0,True,False,False
+2026,house,California,CA,10,,Mark DeSaulnier,Democratic,,100.0,True,False,False
+2026,house,California,CA,12,,Lateefah Simon,Democratic,,100.0,True,False,False
+2026,house,California,CA,15,,Kevin Mullin,Democratic,,100.0,True,False,False
+2026,house,California,CA,16,,Sam Liccardo,Democratic,,100.0,True,False,False
+2026,house,California,CA,17,,Ro Khanna,Democratic,,100.0,True,False,False
+2026,house,California,CA,18,,Zoe Lofgren,Democratic,,100.0,True,False,False
+2026,house,California,CA,19,,Jimmy Panetta,Democratic,,100.0,True,False,False
+2026,house,California,CA,20,,Vince Fong,Republican,,100.0,True,False,False
+2026,house,California,CA,21,,Jim Costa,Democratic,,100.0,True,False,False
+2026,house,California,CA,24,,Salud Carbajal,Democratic,,100.0,True,False,False
+2026,house,California,CA,25,,Raul Ruiz,Democratic,,100.0,True,False,False
+2026,house,California,CA,26,,Jacqui Irwin,Democratic,,100.0,True,False,True
+2026,house,California,CA,27,,George T. Whitesides,Democratic,,100.0,True,False,False
+2026,house,California,CA,28,,Judy Chu,Democratic,,100.0,True,False,False
+2026,house,California,CA,30,,Laura Friedman,Democratic,,100.0,True,False,False
+2026,house,California,CA,31,,Gil Cisneros,Democratic,,100.0,True,False,False
+2026,house,California,CA,32,,Brad Sherman,Democratic,,100.0,True,False,False
+2026,house,California,CA,33,,Pete Aguilar,Democratic,,100.0,True,False,False
+2026,house,California,CA,35,,Norma Torres,Democratic,,100.0,True,False,False
+2026,house,California,CA,36,,Ted Lieu,Democratic,,100.0,True,False,False
+2026,house,California,CA,37,,Sydney Kamlager-Dove,Democratic,,100.0,True,False,False
+2026,house,California,CA,38,,Hilda Solis,Democratic,,100.0,True,False,True
+2026,house,California,CA,39,,Mark Takano,Democratic,,100.0,True,False,False
+2026,house,California,CA,41,,Linda Sánchez,Democratic,,100.0,True,False,False
+2026,house,California,CA,42,,Robert Garcia,Democratic,,100.0,True,False,False
+2026,house,California,CA,43,,Maxine Waters,Democratic,,100.0,True,False,False
+2026,house,California,CA,44,,Nanette Barragán,Democratic,,100.0,True,False,False
+2026,house,California,CA,45,,Derek Tran,Democratic,,100.0,True,False,False
+2026,house,California,CA,46,,Lou Correa,Democratic,,100.0,True,False,False
+2026,house,California,CA,49,,Mike Levin,Democratic,,100.0,True,False,False
+2026,house,California,CA,50,,Scott Peters,Democratic,,100.0,True,False,False
+2026,house,California,CA,51,,Sara Jacobs,Democratic,,100.0,True,False,False
+2026,house,California,CA,52,,Juan Vargas,Democratic,,100.0,True,False,False
+2026,house,Colorado,CO,1,,Melat Kiros,Democratic,,100.0,True,False,False
+2026,house,Colorado,CO,2,,Joe Neguse,Democratic,,100.0,True,False,False
+2026,house,Colorado,CO,6,,Jason Crow,Democratic,,100.0,True,False,False
+2026,house,Colorado,CO,7,,Brittany Pettersen,Democratic,,100.0,True,False,False
+2026,house,Colorado,CO,8,,Manny Rutinel,Democratic,,100.0,True,False,False
+2026,house,Connecticut,CT,1,,Luke Bronin,Democratic,,100.0,True,False,False
+2026,house,Connecticut,CT,2,,Joe Courtney,Democratic,,100.0,True,False,False
+2026,house,Connecticut,CT,3,,Rosa DeLauro,Democratic,,100.0,True,False,False
+2026,house,Connecticut,CT,4,,Jim Himes,Democratic,,100.0,True,False,False
+2026,house,Connecticut,CT,5,,Jahana Hayes,Democratic,,100.0,True,False,False
+2026,house,Delaware,DE,AL,,Sarah McBride,Democratic,,100.0,True,False,False
+2026,house,Florida,FL,1,,Jimmy Patronis,Republican,,100.0,True,False,False
+2026,house,Florida,FL,2,,Austin Rogers,Republican,,100.0,True,False,True
+2026,house,Florida,FL,3,,Kat Cammack,Republican,,100.0,True,False,False
+2026,house,Florida,FL,4,,Aaron Bean,Republican,,100.0,True,False,False
+2026,house,Florida,FL,5,,John Rutherford,Republican,,100.0,True,False,False
+2026,house,Florida,FL,6,,Randy Fine,Republican,,100.0,True,False,False
+2026,house,Florida,FL,8,,Mike Haridopolos,Republican,,100.0,True,False,False
+2026,house,Florida,FL,10,,Maxwell Frost,Democratic,,100.0,True,False,False
+2026,house,Florida,FL,11,,Joe Strada,Republican,,100.0,True,False,True
+2026,house,Florida,FL,12,,Gus Bilirakis,Republican,,100.0,True,False,False
+2026,house,Florida,FL,14,,Kathy Castor,Democratic,,100.0,True,False,False
+2026,house,Florida,FL,15,,Laurel Lee,Republican,,100.0,True,False,False
+2026,house,Florida,FL,16,,Sydney Gruters,Republican,,100.0,True,False,True
+2026,house,Florida,FL,17,,Greg Steube,Republican,,100.0,True,False,False
+2026,house,Florida,FL,18,,Scott Franklin,Republican,,100.0,True,False,False
+2026,house,Florida,FL,19,,Jim Schwartzel,Republican,,100.0,True,False,True
+2026,house,Florida,FL,20,,Debbie Wasserman Schultz,Democratic,,100.0,True,False,True
+2026,house,Florida,FL,21,,Brian Mast,Republican,,100.0,True,False,False
+2026,house,Florida,FL,22,,Pia Dandiya,Democratic,,100.0,True,False,True
+2026,house,Florida,FL,23,,Lois Frankel,Democratic,,100.0,True,False,False
+2026,house,Florida,FL,24,,Oliver Gilbert,Democratic,,100.0,True,False,True
+2026,house,Florida,FL,25,,Jared Moskowitz,Democratic,,100.0,True,False,False
+2026,house,Florida,FL,28,,Carlos A. Giménez,Republican,,100.0,True,False,False
+2026,house,Georgia,GA,1,,Jim Kingston,Republican,,100.0,True,False,True
+2026,house,Georgia,GA,2,,Sanford Bishop,Democratic,,100.0,True,False,False
+2026,house,Georgia,GA,3,,Brian Jack,Republican,,100.0,True,False,False
+2026,house,Georgia,GA,4,,Hank Johnson,Democratic,,100.0,True,False,False
+2026,house,Georgia,GA,5,,Nikema Williams,Democratic,,100.0,True,False,False
+2026,house,Georgia,GA,6,,Lucy McBath,Democratic,,100.0,True,False,False
+2026,house,Georgia,GA,7,,Rich McCormick,Republican,,100.0,True,False,False
+2026,house,Georgia,GA,8,,Austin Scott,Republican,,100.0,True,False,False
+2026,house,Georgia,GA,9,,Andrew Clyde,Republican,,100.0,True,False,False
+2026,house,Georgia,GA,10,,Houston Gaines,Republican,,100.0,True,False,True
+2026,house,Georgia,GA,11,,John Cowan,Republican,,100.0,True,False,True
+2026,house,Georgia,GA,12,,Rick Allen,Republican,,100.0,True,False,False
+2026,house,Georgia,GA,13,,Jasmine Clark,Democratic,,100.0,True,False,False
+2026,house,Georgia,GA,14,,Clay Fuller,Republican,,100.0,True,False,False
+2026,house,Hawaii,HI,1,,Ed Case,Democratic,,100.0,True,False,True
+2026,house,Hawaii,HI,2,,Jill Tokuda,Democratic,,100.0,True,False,False
+2026,house,Idaho,ID,1,,Russ Fulcher,Republican,,100.0,True,False,False
+2026,house,Idaho,ID,2,,Mike Simpson,Republican,,100.0,True,False,False
+2026,house,Illinois,IL,1,,Jonathan Jackson,Democratic,,100.0,True,False,False
+2026,house,Illinois,IL,2,,Donna Miller,Democratic,,100.0,True,False,True
+2026,house,Illinois,IL,3,,Delia Ramirez,Democratic,,100.0,True,False,False
+2026,house,Illinois,IL,4,,Patty García,Democratic,,100.0,True,False,True
+2026,house,Illinois,IL,5,,Mike Quigley,Democratic,,100.0,True,False,False
+2026,house,Illinois,IL,6,,Sean Casten,Democratic,,100.0,True,False,False
+2026,house,Illinois,IL,7,,La Shawn Ford,Democratic,,100.0,True,False,True
+2026,house,Illinois,IL,8,,Melissa Bean,Democratic,,100.0,True,False,True
+2026,house,Illinois,IL,9,,Daniel Biss,Democratic,,100.0,True,False,True
+2026,house,Illinois,IL,10,,Brad Schneider,Democratic,,100.0,True,False,False
+2026,house,Illinois,IL,11,,Bill Foster,Democratic,,100.0,True,False,False
+2026,house,Illinois,IL,12,,Mike Bost,Republican,,100.0,True,False,False
+2026,house,Illinois,IL,13,,Nikki Budzinski,Democratic,,100.0,True,False,False
+2026,house,Illinois,IL,14,,Lauren Underwood,Democratic,,100.0,True,False,False
+2026,house,Illinois,IL,15,,Mary Miller,Republican,,100.0,True,False,False
+2026,house,Illinois,IL,16,,Darin LaHood,Republican,,100.0,True,False,False
+2026,house,Illinois,IL,17,,Eric Sorensen,Democratic,,100.0,True,False,False
+2026,house,Indiana,IN,1,,Frank J. Mrvan,Democratic,,100.0,True,False,False
+2026,house,Indiana,IN,2,,Rudy Yakym,Republican,,100.0,True,False,False
+2026,house,Indiana,IN,3,,Marlin Stutzman,Republican,,100.0,True,False,True
+2026,house,Indiana,IN,4,,Jim Baird,Republican,,100.0,True,False,False
+2026,house,Indiana,IN,5,,J. D. Ford,Democratic,,100.0,True,False,False
+2026,house,Indiana,IN,6,,Jefferson Shreve,Republican,,100.0,True,False,False
+2026,house,Indiana,IN,7,,André Carson,Democratic,,100.0,True,False,False
+2026,house,Indiana,IN,8,,Mark Messmer,Republican,,100.0,True,False,False
+2026,house,Indiana,IN,9,,Erin Houchin,Republican,,100.0,True,False,False
+2026,house,Iowa,IA,1,,Christina Bohannan,Democratic,,100.0,True,False,False
+2026,house,Iowa,IA,2,,Lindsay James,Democratic,,100.0,True,False,True
+2026,house,Iowa,IA,3,,Sarah Trone Garriott,Democratic,,100.0,True,False,False
+2026,house,Iowa,IA,4,,Chris McGowan,Republican,,100.0,True,False,True
+2026,house,Kansas,KS,1,,Tracey Mann,Republican,,100.0,True,False,False
+2026,house,Kansas,KS,2,,Derek Schmidt,Republican,,100.0,True,False,False
+2026,house,Kansas,KS,3,,Sharice Davids,Democratic,,100.0,True,False,False
+2026,house,Kansas,KS,4,,Ron Estes,Republican,,100.0,True,False,False
+2026,house,Kentucky,KY,1,227902,James Comer,Republican,,100.0,True,False,False
+2026,house,Kentucky,KY,2,231057,Brett Guthrie,Republican,,100.0,True,False,False
+2026,house,Kentucky,KY,3,248492,Morgan McGarvey,Democratic,174775,100.0,True,False,False
+2026,house,Kentucky,KY,4,253835,Ed Gallrein,Republican,137623,100.0,True,False,False
+2026,house,Kentucky,KY,5,196474,Hal Rogers,Republican,139808,100.0,True,False,False
+2026,house,Kentucky,KY,6,263561,Zach Dembo,Democratic,138777,100.0,True,False,True
+2026,house,Louisiana,LA,1,,Steve Scalise,Republican,,100.0,True,False,False
+2026,house,Louisiana,LA,2,,Troy Carter,Democratic,,100.0,True,False,False
+2026,house,Louisiana,LA,3,,Clay Higgins,Republican,,100.0,True,False,False
+2026,house,Louisiana,LA,4,,Mike Johnson,Republican,,100.0,True,False,False
+2026,house,Louisiana,LA,6,,General election:,Unknown,,100.0,True,False,True
+2026,house,Maine,ME,1,,Chellie Pingree,Democratic,,100.0,True,False,False
+2026,house,Maryland,MD,1,,Andy Harris,Republican,,100.0,True,False,False
+2026,house,Maryland,MD,2,,Johnny Olszewski,Democratic,,100.0,True,False,False
+2026,house,Maryland,MD,3,,Sarah Elfreth,Democratic,,100.0,True,False,False
+2026,house,Maryland,MD,4,,Glenn Ivey,Democratic,,100.0,True,False,False
+2026,house,Maryland,MD,5,,Adrian Boafo,Democratic,,100.0,True,False,False
+2026,house,Maryland,MD,6,,April McClain Delaney,Democratic,,100.0,True,False,False
+2026,house,Maryland,MD,7,,Kweisi Mfume,Democratic,,100.0,True,False,True
+2026,house,Maryland,MD,8,,Jamie Raskin,Democratic,,100.0,True,False,False
+2026,house,Missouri,MO,1,,Wesley Bell,Democratic,,100.0,True,False,False
+2026,house,Missouri,MO,2,,Fred Wellman,Democratic,,100.0,True,False,False
+2026,house,Missouri,MO,3,,Bob Onder,Republican,,100.0,True,False,False
+2026,house,Missouri,MO,4,,Mark Alford,Republican,,100.0,True,False,False
+2026,house,Missouri,MO,5,,Emanuel Cleaver,Democratic,,100.0,True,False,False
+2026,house,Missouri,MO,6,,Chris Stigall,Republican,,100.0,True,False,True
+2026,house,Missouri,MO,7,,Eric Burlison,Republican,,100.0,True,False,False
+2026,house,Missouri,MO,8,,Jason Smith,Republican,,100.0,True,False,False
+2026,house,Nebraska,NE,2,,Denise Powell,Democratic,,100.0,True,False,True
+2026,house,Nebraska,NE,3,,Adrian Smith,Republican,,100.0,True,False,False
+2026,house,New Hampshire,NH,1,,Stefany Shaheen,Democratic,,100.0,True,False,True
+2026,house,New Hampshire,NH,2,,Maggie Goodlander,Democratic,,100.0,True,False,False
+2026,house,New Jersey,NJ,1,,Donald Norcross,Democratic,,100.0,True,False,False
+2026,house,New Jersey,NJ,2,,Zack Mullock,Democratic,,100.0,True,False,False
+2026,house,New Jersey,NJ,3,,Herb Conaway,Democratic,,100.0,True,False,False
+2026,house,New Jersey,NJ,4,,Chris Smith,Republican,,100.0,True,False,False
+2026,house,New Jersey,NJ,5,,Josh Gottheimer,Democratic,,100.0,True,False,False
+2026,house,New Jersey,NJ,6,,Frank Pallone,Democratic,,100.0,True,False,False
+2026,house,New Jersey,NJ,7,246308,Rebecca Bennett,Democratic,148433,100.0,True,False,False
+2026,house,New Jersey,NJ,8,,Rob Menendez,Democratic,,100.0,True,False,False
+2026,house,New Jersey,NJ,9,,Nellie Pou,Democratic,,100.0,True,False,False
+2026,house,New Jersey,NJ,10,,LaMonica McIver,Democratic,,100.0,True,False,False
+2026,house,New Jersey,NJ,11,,Analilia Mejia,Democratic,,100.0,True,False,False
+2026,house,New Jersey,NJ,12,,Adam Hamawy,Democratic,,100.0,True,False,True
+2026,house,North Carolina,NC,2,,Deborah Ross,Democratic,,100.0,True,False,False
+2026,house,North Carolina,NC,4,,Valerie Foushee,Democratic,,100.0,True,False,False
+2026,house,North Carolina,NC,6,,Cyril Jefferson,Democratic,,100.0,True,False,False
+2026,house,North Carolina,NC,9,,Richard Ojeda,Democratic,,100.0,True,False,False
+2026,house,North Carolina,NC,11,,Jamie Ager,Democratic,,100.0,True,False,False
+2026,house,North Carolina,NC,12,,Alma Adams,Democratic,,100.0,True,False,False
+2026,house,North Carolina,NC,13,,Paul Barringer,Democratic,,100.0,True,False,False
+2026,house,North Carolina,NC,14,,Lakesha Womack,Democratic,,100.0,True,False,False
+2026,house,Ohio,OH,3,,Joyce Beatty,Democratic,,100.0,True,False,False
+2026,house,Ohio,OH,13,,Emilia Sykes,Democratic,,100.0,True,False,False
+2026,house,Pennsylvania,PA,1,,Bob Harvie,Democratic,,100.0,True,False,False
+2026,house,Pennsylvania,PA,2,,Brendan Boyle,Democratic,,100.0,True,False,False
+2026,house,Pennsylvania,PA,3,,Chris Rabb,Democratic,,100.0,True,False,True
+2026,house,Pennsylvania,PA,4,,Madeleine Dean,Democratic,,100.0,True,False,False
+2026,house,Pennsylvania,PA,5,,Mary Gay Scanlon,Democratic,,100.0,True,False,False
+2026,house,Pennsylvania,PA,6,,Chrissy Houlahan,Democratic,,100.0,True,False,False
+2026,house,Pennsylvania,PA,7,,Bob Brooks,Democratic,,100.0,True,False,False
+2026,house,Pennsylvania,PA,8,,Paige Cognetti,Democratic,,100.0,True,False,False
+2026,house,Pennsylvania,PA,10,,Janelle Stelson,Democratic,,100.0,True,False,False
+2026,house,Pennsylvania,PA,12,,Summer Lee,Democratic,,100.0,True,False,False
+2026,house,Pennsylvania,PA,13,,John Joyce,Republican,,100.0,True,False,False
+2026,house,Pennsylvania,PA,15,,Glenn Thompson,Republican,,100.0,True,False,False
+2026,house,Pennsylvania,PA,17,,Chris Deluzio,Democratic,,100.0,True,False,False
+2026,house,Virginia,VA,9,,Morgan Griffith,Republican,,100.0,True,False,False
 2026,house,Wisconsin,WI,2,,Mark Pocan,Democratic,,100.0,True,False,False
+2026,house,District of Columbia,DC,AL,,Robert White,Democratic,,87.3,True,False,False
+2026,house,District of Columbia,DC,AL,,Denise Rosado,Republican,,6.5,False,False,False
+2026,house,District of Columbia,DC,AL,,Kymone Freeman,Green,,5.6,False,False,False
+2026,house,Guam,GU,AL,,Alicia Limtiaco,Democratic,,51.0,True,False,False
+2026,house,Guam,GU,AL,,James Moylan,Republican,,48.9,False,False,False
+2026,house,Northern Mariana Islands,MP,AL,,Kimberlyn King-Hinds,Republican,,63.7,True,False,False
+2026,house,Northern Mariana Islands,MP,AL,,Galvin Deleon Guerrero,Independent Democrat,,36.3,False,False,False
+2026,house,United States Virgin Islands,VI,AL,,Janelle Sarauw,Democratic,,76.9,True,False,False
+2026,house,United States Virgin Islands,VI,AL,,Shelley Moorhead,Independent,,21.2,False,False,False

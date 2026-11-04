@@ -4120,8 +4120,8 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Candidate,Young Boozer,Republican,,,False,True
 2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Candidate,Rosilyn Houston,Democratic,,,False,False
 2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Total,,,,100.0,False,False
-2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Candidate,Tommy Tuberville,Republican,,,False,False
-2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Candidate,Doug Jones,Democratic,,,False,False
+2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Candidate,Tommy Tuberville,Republican,872445.0,52.1,False,False
+2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Candidate,Doug Jones,Democratic,803468.0,47.9,False,False
 2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Total,,,,100.0,False,False
 2026,Alaska,AK,governor,2026 Alaska's at-large congressional district election,Candidate,Dan S. Sullivan,Republican,,,False,True
 2026,Alaska,AK,governor,2026 Alaska's at-large congressional district election,Candidate,Mary Peltola,Democratic,,,False,False
@@ -4200,30 +4200,32 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Florida,FL,attorney general,2026 Florida Attorney General election,Candidate,James Uthmeier,Republican,,,False,True
 2026,Florida,FL,attorney general,2026 Florida Attorney General election,Candidate,Jose Javier Rodriguez,Democratic,,,False,False
 2026,Florida,FL,attorney general,2026 Florida Attorney General election,Total,,,,100.0,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Byron Donalds Bryan Avila,Republican,,,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,David Jolly Gwen Graham,Democratic,,,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Scott Eckhard Jewett Nicole Skelly,Libertarian,,,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Charles Burkett Ruben A. Coto,Independent,,,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Frank J. Russo Rachel Rodriguez,Independent,,,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Moliere Dimanche Benjiman Rojas,Independent,,,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Dean Ocean Abrams Joe Van Victor,Independent,,,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Jeffrey Peter Datto Juan Santana,Independent,,,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Total,,,,100.0,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Winning,Byron Donalds Bryan Avila,Republican,4131777,50.02,True,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,David Jolly Gwen Graham,Democratic,4023425,48.71,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Scott Eckhard Jewett Nicole Skelly,Libertarian,37878,0.46,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Frank J. Russo Rachel Rodriguez,Independent Candidate,23196,0.28,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Charles Burkett Ruben A. Coto,Independent Candidate,15232,0.18,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Dean Ocean Abrams Joe Van Vactor,Independent Candidate,12530,0.15,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Jeffrey Peter Datto Juan Santana,Independent Candidate,8308,0.1,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Moliere Dimanche Benjiman Rojas,Independent Candidate,7590,0.09,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Write-in,Various write-in candidates,Write-in,0,0.0,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Total,,,8259936,100.0,False,False
 2026,Georgia,GA,attorney general,2026 Georgia Attorney General election,Candidate,Brian Strickland,Republican,,,False,False
 2026,Georgia,GA,attorney general,2026 Georgia Attorney General election,Candidate,Tanya Miller,Democratic,,,False,False
 2026,Georgia,GA,attorney general,2026 Georgia Attorney General election,Total,,,,100.0,False,False
 2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Candidate,Rick Jackson,Republican,,,False,False
 2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Candidate,Keisha Lance Bottoms,Democratic,,,False,False
 2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Total,,,,100.0,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Winning,Phil Tydingco,Nonpartisan,,,True,False
 2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Douglas Moylan,Nonpartisan,,,False,True
 2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Tom Fisher,Nonpartisan,,,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Pete Santos,Nonpartisan,,,False,False
 2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Jordan Pauluhn,Nonpartisan,,,False,False
-2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Peter Santos,Nonpartisan,,,False,False
-2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Phillip Tydingco,Nonpartisan,,,False,False
 2026,Guam,GU,attorney general,2026 Guam Attorney General election,Total,,,,100.0,False,False
-2026,Guam,GU,governor,2026 Guam gubernatorial election,Candidate,Therese Terlaje,Democratic,,,False,False
-2026,Guam,GU,governor,2026 Guam gubernatorial election,Candidate,Vicente Ada,Republican,,,False,False
-2026,Guam,GU,governor,2026 Guam gubernatorial election,Total,,,,,False,False
+2026,Guam,GU,governor,2026 Guam gubernatorial election,Winning,Vicente Ada,Republican,15945,51.45,True,False
+2026,Guam,GU,governor,2026 Guam gubernatorial election,Candidate,Therese Terlaje,Democratic,14925,48.15,False,False
+2026,Guam,GU,governor,2026 Guam gubernatorial election,Write-in,,,124,0.4,False,False
+2026,Guam,GU,governor,2026 Guam gubernatorial election,Total,,,30994,98.66,False,False
 2026,Hawaii,HI,governor,2026 Hawaii gubernatorial election,Candidate,Josh Green,Democratic,,,False,True
 2026,Hawaii,HI,governor,2026 Hawaii gubernatorial election,Candidate,Gary Cordery,Republican,,,False,False
 2026,Hawaii,HI,governor,2026 Hawaii gubernatorial election,Total,,,,100.0,False,False
@@ -4274,10 +4276,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Cindy Holscher,Democratic,,,False,False
 2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Ty Masterson,Republican,,,False,False
 2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Total,,,,100.0,False,False
-2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,Anthony Brown,Democratic,,,False,True
+2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Winning,Anthony Brown,Democratic,,,True,True
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,James B. Rutledge III,Republican,,,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Total,,,,100.0,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Wes Moore,Democratic,,,False,True
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,,,True,True
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,,,False,False
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,,,False,False
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,,,False,False
@@ -4373,6 +4375,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Kathy Hochul,New York State Democratic Committee,,,False,False
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Bruce Blakeman,New York Republican State Committee,,,False,False
 2026,New York,NY,governor,2026 New York gubernatorial election,Total,,,,100.0,False,False
+2026,Northern Mariana Islands,MP,governor,2026 Northern Mariana Islands gubernatorial election,Candidate,Ralph Torres,Republican,6437,49.5,False,False
+2026,Northern Mariana Islands,MP,governor,2026 Northern Mariana Islands gubernatorial election,Candidate,Blas T. Attao,Independent,5043,38.7,False,False
+2026,Northern Mariana Islands,MP,governor,2026 Northern Mariana Islands gubernatorial election,Candidate,Lawrence F. Camacho,Independent,1537,11.8,False,False
+2026,Northern Mariana Islands,MP,governor,2026 Northern Mariana Islands gubernatorial election,Total,,,13017,100.0,False,False
 2026,Ohio,OH,attorney general,2026 Ohio Attorney General election,Candidate,Keith Faber,Republican,,,False,False
 2026,Ohio,OH,attorney general,2026 Ohio Attorney General election,Candidate,John Kulewicz,Democratic,,,False,False
 2026,Ohio,OH,attorney general,2026 Ohio Attorney General election,Total,,,,100.0,False,False
@@ -4383,9 +4389,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Ohio,OH,state treasurer,2026 Ohio state treasurer election,Candidate,Jay Edwards,Republican,,,False,False
 2026,Ohio,OH,state treasurer,2026 Ohio state treasurer election,Candidate,Seth Walsh,Democratic,,,False,False
 2026,Ohio,OH,state treasurer,2026 Ohio state treasurer election,Total,,,,100.0,False,False
-2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Candidate,Vivek Ramaswamy,Republican,,,False,False
-2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Candidate,Amy Acton,Democratic,,,False,False
-2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Candidate,Don Kissick,Libertarian,,,False,False
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Candidate,Amy Acton,Democratic,2204745.0,51.3,False,False
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Candidate,Vivek Ramaswamy,Republican,1953015.0,45.4,False,False
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Candidate,Don Kissick,Libertarian,143245.0,3.3,False,False
 2026,Ohio,OH,governor,2026 Ohio gubernatorial election,Total,,,,100.0,False,False
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Tina Kotek,Democratic,,,False,True
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Christine Drazan,Republican,,,False,False
