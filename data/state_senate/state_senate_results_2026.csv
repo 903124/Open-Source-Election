@@ -237,55 +237,55 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Illinois,IL,State Senate,57,general,Daniel Rhyne,Republican,,,False,False
 2026,Illinois,IL,State Senate,59,general,Paul Jacobs,Republican,,,True,False
 2026,Illinois,IL,State Senate,59,general,"Tamiko ""T.C."" Mueller",Democratic,,,False,False
-2026,Indiana,IN,State Senate,1,general,Trevor De Vries,Republican,,,True,False
-2026,Indiana,IN,State Senate,1,general,Scott Houldieson,Democratic,,,False,False
-2026,Indiana,IN,State Senate,4,general,Rodney Pol Jr.,Democratic,,,True,True
-2026,Indiana,IN,State Senate,4,general,Nate Uldricks,Republican,,,False,False
-2026,Indiana,IN,State Senate,6,general,Jay Starkey,Republican,,,True,False
-2026,Indiana,IN,State Senate,6,general,Kate-Lynn Holley,Democratic,,,False,False
-2026,Indiana,IN,State Senate,11,general,Brian Schmutzler,Republican,,,True,False
-2026,Indiana,IN,State Senate,11,general,Gabrianna Gratzol,Democratic,,,False,False
-2026,Indiana,IN,State Senate,14,general,Tyler Johnson,Republican,,,True,True
-2026,Indiana,IN,State Senate,14,general,Blaine Sefton,Democratic,,,False,False
-2026,Indiana,IN,State Senate,15,general,Liz Brown,Republican,,,True,True
-2026,Indiana,IN,State Senate,15,general,Julie McGill,Democratic,,,False,False
-2026,Indiana,IN,State Senate,17,general,Chris Parker,Republican,,,True,False
-2026,Indiana,IN,State Senate,17,general,Cynthia Wehr,Democratic,,,False,False
-2026,Indiana,IN,State Senate,19,general,Blake Fiechter,Republican,,,True,False
-2026,Indiana,IN,State Senate,19,general,Timothy Murphy,Democratic,,,False,False
-2026,Indiana,IN,State Senate,21,general,Tracey Powell,Republican,,,True,False
-2026,Indiana,IN,State Senate,21,general,Kirsten Root,Democratic,,,False,False
-2026,Indiana,IN,State Senate,22,general,Ron Alting (incumbent) (withdrawn; remains on ballot),Republican,,,True,False
-2026,Indiana,IN,State Senate,22,general,Natasha Baker,Democratic,,,False,False
-2026,Indiana,IN,State Senate,23,general,Spencer Deery,Republican,,,True,False
-2026,Indiana,IN,State Senate,23,general,David Sanders,Democratic,,,False,False
-2026,Indiana,IN,State Senate,23,general,Joshua Brant,Independent,,,False,False
-2026,Indiana,IN,State Senate,25,general,Mike Gaskill,Republican,,,True,True
-2026,Indiana,IN,State Senate,25,general,Tamie Dixon-Tatum,Democratic,,,False,False
-2026,Indiana,IN,State Senate,26,general,Scott Alexander,Republican,,,True,True
-2026,Indiana,IN,State Senate,26,general,Andrew Dale,Democratic,,,False,False
-2026,Indiana,IN,State Senate,27,general,Jeff Raatz,Republican,,,True,True
-2026,Indiana,IN,State Senate,27,general,Ron Itnyre,Democratic,,,False,False
-2026,Indiana,IN,State Senate,29,general,Kristina Moorhead,Democratic,,,True,False
-2026,Indiana,IN,State Senate,29,general,John Ruckelshaus,Republican,,,False,False
-2026,Indiana,IN,State Senate,31,general,Juanita Albright,Republican,,,True,False
-2026,Indiana,IN,State Senate,31,general,Kerry Forestal,Democratic,,,False,False
-2026,Indiana,IN,State Senate,38,general,Greg Goode,Republican,,,True,True
-2026,Indiana,IN,State Senate,38,general,Kacey Blundell,Democratic,,,False,False
+2026,Indiana,IN,State Senate,1,general,Scott Houldieson,Democratic,26570.0,57.1,True,False
+2026,Indiana,IN,State Senate,1,general,Trevor De Vries,Republican,19941.0,42.9,False,False
+2026,Indiana,IN,State Senate,4,general,Rodney Pol Jr.,Democratic,24169.0,61.0,True,True
+2026,Indiana,IN,State Senate,4,general,Nate Uldricks,Republican,15462.0,39.0,False,False
+2026,Indiana,IN,State Senate,6,general,Jay Starkey,Republican,25497.0,56.6,True,False
+2026,Indiana,IN,State Senate,6,general,Kate-Lynn Holley,Democratic,19547.0,43.4,False,False
+2026,Indiana,IN,State Senate,11,general,Gabrianna Gratzol,Democratic,19450.0,51.4,True,False
+2026,Indiana,IN,State Senate,11,general,Brian Schmutzler,Republican,18381.0,48.6,False,False
+2026,Indiana,IN,State Senate,14,general,Tyler Johnson,Republican,16297.0,53.9,True,True
+2026,Indiana,IN,State Senate,14,general,Blaine Sefton,Democratic,13955.0,46.1,False,False
+2026,Indiana,IN,State Senate,15,general,Julie McGill,Democratic,21699.0,51.8,True,False
+2026,Indiana,IN,State Senate,15,general,Liz Brown,Republican,20246.0,48.3,False,True
+2026,Indiana,IN,State Senate,17,general,Chris Parker,Republican,22674.0,64.0,True,False
+2026,Indiana,IN,State Senate,17,general,Cynthia Wehr,Democratic,12765.0,36.0,False,False
+2026,Indiana,IN,State Senate,19,general,Blake Fiechter,Republican,20773.0,59.2,True,False
+2026,Indiana,IN,State Senate,19,general,Timothy Murphy,Democratic,14324.0,40.8,False,False
+2026,Indiana,IN,State Senate,21,general,Tracey Powell,Republican,28046.0,53.2,True,False
+2026,Indiana,IN,State Senate,21,general,Kirsten Root,Democratic,24689.0,46.8,False,False
+2026,Indiana,IN,State Senate,22,general,Natasha Baker,Democratic,19960.0,58.8,True,False
+2026,Indiana,IN,State Senate,22,general,Ron Alting (incumbent) (withdrawn; remains on ballot),Republican,13979.0,41.2,False,False
+2026,Indiana,IN,State Senate,23,general,Spencer Deery,Republican,15365.0,53.8,True,False
+2026,Indiana,IN,State Senate,23,general,David Sanders,Democratic,11722.0,41.0,False,False
+2026,Indiana,IN,State Senate,23,general,Joshua Brant,Independent,1482.0,5.2,False,False
+2026,Indiana,IN,State Senate,25,general,Mike Gaskill,Republican,20685.0,53.9,True,True
+2026,Indiana,IN,State Senate,25,general,Tamie Dixon-Tatum,Democratic,17662.0,46.1,False,False
+2026,Indiana,IN,State Senate,26,general,Scott Alexander,Republican,18972.0,51.6,True,True
+2026,Indiana,IN,State Senate,26,general,Andrew Dale,Democratic,17780.0,48.4,False,False
+2026,Indiana,IN,State Senate,27,general,Jeff Raatz,Republican,21160.0,61.0,True,True
+2026,Indiana,IN,State Senate,27,general,Ron Itnyre,Democratic,13543.0,39.0,False,False
+2026,Indiana,IN,State Senate,29,general,Kristina Moorhead,Democratic,30145.0,61.8,True,False
+2026,Indiana,IN,State Senate,29,general,John Ruckelshaus,Republican,18648.0,38.2,False,False
+2026,Indiana,IN,State Senate,31,general,Kerry Forestal,Democratic,31983.0,57.8,True,False
+2026,Indiana,IN,State Senate,31,general,Juanita Albright,Republican,23329.0,42.2,False,False
+2026,Indiana,IN,State Senate,38,general,Greg Goode,Republican,21570.0,59.9,True,True
+2026,Indiana,IN,State Senate,38,general,Kacey Blundell,Democratic,14440.0,40.1,False,False
 2026,Indiana,IN,State Senate,39,general,Jeff Ellington,Republican,,,True,False
-2026,Indiana,IN,State Senate,41,general,Michelle Davis,Republican,,,True,False
-2026,Indiana,IN,State Senate,41,general,Ross Thomas,Democratic,,,False,False
-2026,Indiana,IN,State Senate,43,general,Randy Maxwell,Republican,,,True,True
-2026,Indiana,IN,State Senate,43,general,Byron Holland,Democratic,,,False,False
-2026,Indiana,IN,State Senate,45,general,Chris Garten,Republican,,,True,True
-2026,Indiana,IN,State Senate,45,general,Nick Marshall,Democratic,,,False,False
-2026,Indiana,IN,State Senate,45,general,Larry Mahaney,Libertarian,,,False,False
-2026,Indiana,IN,State Senate,47,general,Gary Byrne,Republican,,,True,True
-2026,Indiana,IN,State Senate,47,general,Ethan Sweetland-May,Democratic,,,False,False
-2026,Indiana,IN,State Senate,48,general,Daryl Schmitt,Republican,,,True,True
-2026,Indiana,IN,State Senate,48,general,Brad Hochgesang,Democratic,,,False,False
-2026,Indiana,IN,State Senate,49,general,Jim Tomes,Republican,,,True,True
-2026,Indiana,IN,State Senate,49,general,Cindi Clayton,Democratic,,,False,False
+2026,Indiana,IN,State Senate,41,general,Michelle Davis,Republican,20940.0,54.8,True,False
+2026,Indiana,IN,State Senate,41,general,Ross Thomas,Democratic,17262.0,45.2,False,False
+2026,Indiana,IN,State Senate,43,general,Randy Maxwell,Republican,24822.0,66.7,True,True
+2026,Indiana,IN,State Senate,43,general,Byron Holland,Democratic,12382.0,33.3,False,False
+2026,Indiana,IN,State Senate,45,general,Chris Garten,Republican,21817.0,49.2,True,True
+2026,Indiana,IN,State Senate,45,general,Nick Marshall,Democratic,21520.0,48.6,False,False
+2026,Indiana,IN,State Senate,45,general,Larry Mahaney,Libertarian,993.0,2.2,False,False
+2026,Indiana,IN,State Senate,47,general,Gary Byrne,Republican,24882.0,56.7,True,True
+2026,Indiana,IN,State Senate,47,general,Ethan Sweetland-May,Democratic,18994.0,43.3,False,False
+2026,Indiana,IN,State Senate,48,general,Daryl Schmitt,Republican,24945.0,57.4,True,True
+2026,Indiana,IN,State Senate,48,general,Brad Hochgesang,Democratic,18552.0,42.6,False,False
+2026,Indiana,IN,State Senate,49,general,Jim Tomes,Republican,18367.0,51.2,True,True
+2026,Indiana,IN,State Senate,49,general,Cindi Clayton,Democratic,17484.0,48.8,False,False
 2026,Iowa,IA,State Senate,1,general,Catelin Drey,Democratic,,,True,True
 2026,Iowa,IA,State Senate,1,general,Christopher Prosch,Republican,,,False,False
 2026,Iowa,IA,State Senate,3,general,Lynn Evans,Republican,,,True,True
@@ -452,47 +452,47 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Michigan,MI,State Senate,5,general,Estelle Oliansky,Republican,,,False,False
 2026,Michigan,MI,State Senate,6,general,Mary Cavanagh,Democratic,,,True,True
 2026,Michigan,MI,State Senate,6,general,Joi Pokerwinski,Republican,,,False,False
-2026,Michigan,MI,State Senate,7,general,Jason Hoskins,Democratic,,,True,False
-2026,Michigan,MI,State Senate,7,general,Anthony Paesano,Republican,,,False,False
-2026,Michigan,MI,State Senate,8,general,Dayna Polehanki,Democratic,,,True,False
-2026,Michigan,MI,State Senate,8,general,Kenneth D. Massey,Republican,,,False,False
-2026,Michigan,MI,State Senate,9,general,Michael Webber,Republican,,,True,True
-2026,Michigan,MI,State Senate,9,general,Theresa Brooks,Democratic,,,False,False
-2026,Michigan,MI,State Senate,9,general,Jacob Schodowski,Class,,,False,False
-2026,Michigan,MI,State Senate,9,general,Philippe M. Cicchini,Independent,,,False,False
-2026,Michigan,MI,State Senate,10,general,Natalie Price,Democratic,,,True,False
-2026,Michigan,MI,State Senate,10,general,Michelle Nard,Republican,,,False,False
-2026,Michigan,MI,State Senate,11,general,Veronica Klinefelt,Democratic,,,True,True
-2026,Michigan,MI,State Senate,11,general,Johnnie Townsend,Republican,,,False,False
-2026,Michigan,MI,State Senate,12,general,Kevin Hertel,Democratic,,,True,True
-2026,Michigan,MI,State Senate,12,general,John Goldwater,Republican,,,False,False
-2026,Michigan,MI,State Senate,13,general,Sean Carlson,Democratic,,,True,False
-2026,Michigan,MI,State Senate,13,general,Ryan Berman,Republican,,,False,False
-2026,Michigan,MI,State Senate,14,general,Sue Shink,Democratic,,,True,True
-2026,Michigan,MI,State Senate,14,general,Tawn Shawnelle Beliger,Republican,,,False,False
-2026,Michigan,MI,State Senate,15,general,Felicia Brabec,Democratic,,,True,False
-2026,Michigan,MI,State Senate,15,general,Jason Rogers,Republican,,,False,False
-2026,Michigan,MI,State Senate,16,general,Joe Bellino,Republican,,,True,True
-2026,Michigan,MI,State Senate,16,general,Deandre Barnes,Democratic,,,False,False
-2026,Michigan,MI,State Senate,17,general,Jonathan Lindsey,Republican,,,True,True
-2026,Michigan,MI,State Senate,17,general,Ashleigh Baker,Democratic,,,False,False
-2026,Michigan,MI,State Senate,18,general,Thomas Albert,Republican,,,True,True
-2026,Michigan,MI,State Senate,18,general,Anthony Pennock,Democratic,,,False,False
-2026,Michigan,MI,State Senate,19,general,Julie Rogers,Democratic,,,True,False
-2026,Michigan,MI,State Senate,19,general,Shaun Young,Republican,,,False,False
-2026,Michigan,MI,State Senate,20,general,Chris Moraitis,Republican,,,True,False
-2026,Michigan,MI,State Senate,20,general,Dale Murney,Democratic,,,False,False
-2026,Michigan,MI,State Senate,20,general,Shamara Clay,Green,,,False,False
-2026,Michigan,MI,State Senate,21,general,Sarah Anthony,Democratic,,,True,False
-2026,Michigan,MI,State Senate,21,general,Josh Burns,Republican,,,False,False
-2026,Michigan,MI,State Senate,22,general,Mike Murphy,Republican,,,True,False
-2026,Michigan,MI,State Senate,22,general,Rob Hower,Democratic,,,False,False
-2026,Michigan,MI,State Senate,23,general,Donni Steele,Republican,,,True,False
-2026,Michigan,MI,State Senate,23,general,Greg Hill,Democratic,,,False,False
-2026,Michigan,MI,State Senate,24,general,Doug Wozniak,Republican,,,True,False
-2026,Michigan,MI,State Senate,24,general,Edlira Sako,Democratic,,,False,False
-2026,Michigan,MI,State Senate,25,general,Andrew Beeler,Republican,,,True,False
-2026,Michigan,MI,State Senate,25,general,April Osentoski,Democratic,,,False,False
+2026,Michigan,MI,State Senate,7,general,Jason Hoskins,Democratic,86065.0,71.45,True,False
+2026,Michigan,MI,State Senate,7,general,Anthony Paesano,Republican,34384.0,28.55,False,False
+2026,Michigan,MI,State Senate,8,general,Dayna Polehanki,Democratic,44253.0,64.36,True,False
+2026,Michigan,MI,State Senate,8,general,Kenneth D. Massey,Republican,24503.0,35.64,False,False
+2026,Michigan,MI,State Senate,9,general,Theresa Brooks,Democratic,64507.0,52.48,True,False
+2026,Michigan,MI,State Senate,9,general,Michael Webber,Republican,55947.0,45.52,False,True
+2026,Michigan,MI,State Senate,9,general,Jacob Schodowski,Class,1466.0,1.19,False,False
+2026,Michigan,MI,State Senate,9,general,Philippe M. Cicchini,Independent,992.0,0.81,False,False
+2026,Michigan,MI,State Senate,10,general,Natalie Price,Democratic,97122.0,73.16,True,False
+2026,Michigan,MI,State Senate,10,general,Michelle Nard,Republican,35637.0,26.84,False,False
+2026,Michigan,MI,State Senate,11,general,Veronica Klinefelt,Democratic,68242.0,61.7,True,True
+2026,Michigan,MI,State Senate,11,general,Johnnie Townsend,Republican,35637.0,38.3,False,False
+2026,Michigan,MI,State Senate,12,general,John Goldwater,Republican,48412.0,50.26,True,False
+2026,Michigan,MI,State Senate,12,general,Kevin Hertel,Democratic,47904.0,49.74,False,True
+2026,Michigan,MI,State Senate,13,general,Sean Carlson,Democratic,71577.0,53.04,True,False
+2026,Michigan,MI,State Senate,13,general,Ryan Berman,Republican,63379.0,46.96,False,False
+2026,Michigan,MI,State Senate,14,general,Sue Shink,Democratic,79201.0,60.49,True,True
+2026,Michigan,MI,State Senate,14,general,Tawn Shawnelle Beliger,Republican,51736.0,39.51,False,False
+2026,Michigan,MI,State Senate,15,general,Felicia Brabec,Democratic,104227.0,76.31,True,False
+2026,Michigan,MI,State Senate,15,general,Jason Rogers,Republican,32349.0,23.69,False,False
+2026,Michigan,MI,State Senate,16,general,Joe Bellino,Republican,74071.0,61.66,True,True
+2026,Michigan,MI,State Senate,16,general,Deandre Barnes,Democratic,46064.0,38.34,False,False
+2026,Michigan,MI,State Senate,17,general,Jonathan Lindsey,Republican,65769.0,60.78,True,True
+2026,Michigan,MI,State Senate,17,general,Ashleigh Baker,Democratic,42432.0,39.22,False,False
+2026,Michigan,MI,State Senate,18,general,Thomas Albert,Republican,71129.0,58.31,True,True
+2026,Michigan,MI,State Senate,18,general,Anthony Pennock,Democratic,50846.0,41.69,False,False
+2026,Michigan,MI,State Senate,19,general,Julie Rogers,Democratic,82979.0,64.4,True,False
+2026,Michigan,MI,State Senate,19,general,Shaun Young,Republican,45865.0,35.6,False,False
+2026,Michigan,MI,State Senate,20,general,Chris Moraitis,Republican,67856.0,55.19,True,False
+2026,Michigan,MI,State Senate,20,general,Dale Murney,Democratic,53554.0,43.56,False,False
+2026,Michigan,MI,State Senate,20,general,Shamara Clay,Green,1540.0,1.25,False,False
+2026,Michigan,MI,State Senate,21,general,Sarah Anthony,Democratic,77089.0,62.54,True,True
+2026,Michigan,MI,State Senate,21,general,Josh Burns,Republican,46166.0,37.46,False,False
+2026,Michigan,MI,State Senate,22,general,Mike Murphy,Republican,87884.0,60.3,True,False
+2026,Michigan,MI,State Senate,22,general,Rob Hower,Democratic,57858.0,39.7,False,False
+2026,Michigan,MI,State Senate,23,general,Donni Steele,Republican,84995.0,58.77,True,False
+2026,Michigan,MI,State Senate,23,general,Greg Hill,Democratic,59619.0,41.23,False,False
+2026,Michigan,MI,State Senate,24,general,Doug Wozniak,Republican,80324.0,60.32,True,False
+2026,Michigan,MI,State Senate,24,general,Edlira Sako,Democratic,52850.0,39.68,False,False
+2026,Michigan,MI,State Senate,25,general,Andrew Beeler,Republican,81077.0,65.41,True,False
+2026,Michigan,MI,State Senate,25,general,April Osentoski,Democratic,42881.0,34.59,False,False
 2026,Michigan,MI,State Senate,26,general,Matthew Bierlein,Republican,,,True,False
 2026,Michigan,MI,State Senate,26,general,Brendan J. Johnson,Democratic,,,False,False
 2026,Michigan,MI,State Senate,27,general,John Daniel Cherry,Democratic,,,True,True
@@ -521,113 +521,244 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Michigan,MI,State Senate,38,general,David Prestin,Republican,,,True,False
 2026,Michigan,MI,State Senate,38,general,Kelli van Ginhoven,Democratic,,,False,False
 2026,Michigan,MI,State Senate,38,general,Sara Cambensy,Independent,,,False,False
+2026,Minnesota,MN,State Senate,1,general,Mark Johnson,Republican,,,True,False
+2026,Minnesota,MN,State Senate,1,general,Bjorn Solberg,Democratic-Farmer-Labor,11278.0,31.94,False,False
+2026,Minnesota,MN,State Senate,2,general,Steve Green,Republican,,,True,False
+2026,Minnesota,MN,State Senate,2,general,Dan R. Rogers,Democratic-Farmer-Labor,16692.0,44.16,False,False
+2026,Minnesota,MN,State Senate,2,general,Calvin Larson Jr,,649.0,1.72,False,False
+2026,Minnesota,MN,State Senate,3,general,Grant Hauschild,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,3,general,Andrea Zupancich,Republican,20866.0,45.54,False,False
+2026,Minnesota,MN,State Senate,4,general,Austin Peterson*,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,5,general,Mike Wiener,Republican,,,True,False
+2026,Minnesota,MN,State Senate,5,general,Skylar Fynboh,Democratic-Farmer-Labor,12197.0,28.58,False,False
+2026,Minnesota,MN,State Senate,6,general,Keri Heintzeman,Republican,,,True,False
+2026,Minnesota,MN,State Senate,6,general,Denise Slipy,Democratic-Farmer-Labor,16799.0,37.89,False,False
+2026,Minnesota,MN,State Senate,7,general,Robert Farnsworth,Republican,,,True,False
+2026,Minnesota,MN,State Senate,7,general,Kim McLaughlin,Democratic-Farmer-Labor,18222.0,45.53,False,False
+2026,Minnesota,MN,State Senate,8,general,Jen McEwen,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,8,general,Darrick Law,Republican,9951.0,23.89,False,False
+2026,Minnesota,MN,State Senate,9,general,Jordan Rasmusson,Republican,,,True,False
+2026,Minnesota,MN,State Senate,9,general,Krystyne Knutson,Democratic-Farmer-Labor,13113.0,30.34,False,False
+2026,Minnesota,MN,State Senate,10,general,Nathan Wesenberg,Republican,,,True,False
+2026,Minnesota,MN,State Senate,10,general,Tara Killen,Democratic-Farmer-Labor,11593.0,27.4,False,False
+2026,Minnesota,MN,State Senate,11,general,Jason Rarick,Republican,,,True,False
+2026,Minnesota,MN,State Senate,11,general,Mary Carlson,Democratic-Farmer-Labor,16937.0,42.13,False,False
+2026,Minnesota,MN,State Senate,11,general,Monique Doward,,996.0,2.48,False,False
+2026,Minnesota,MN,State Senate,12,general,Torrey Westrom,Republican,,,True,False
+2026,Minnesota,MN,State Senate,12,general,Kari Dorry,Democratic-Farmer-Labor,12814.0,30.66,False,False
+2026,Minnesota,MN,State Senate,13,general,Jared Gapinski,Republican,,,True,False
+2026,Minnesota,MN,State Senate,13,general,Trent C Dilks,Democratic-Farmer-Labor,14169.0,32.87,False,False
+2026,Minnesota,MN,State Senate,14,general,Aric Putnam,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,14,general,Bernie Perryman,Republican,15448.0,43.92,False,False
+2026,Minnesota,MN,State Senate,15,general,Braxton Seifert,Republican,,,True,False
+2026,Minnesota,MN,State Senate,15,general,Andrea Boettger,Democratic-Farmer-Labor,12517.0,33.19,False,False
+2026,Minnesota,MN,State Senate,16,general,Andrew Lang,Republican,,,True,False
+2026,Minnesota,MN,State Senate,16,general,Kathy Jorgenson,Democratic-Farmer-Labor,12261.0,32.96,False,False
+2026,Minnesota,MN,State Senate,17,general,Glenn Gruenhagen,Republican,,,True,False
+2026,Minnesota,MN,State Senate,17,general,Julie Kelzer,Democratic-Farmer-Labor,13859.0,32.76,False,False
+2026,Minnesota,MN,State Senate,18,general,Nick Frentz,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,18,general,Jackie Henry,Republican,15021.0,40.54,False,False
+2026,Minnesota,MN,State Senate,19,general,John Jasinski,Republican,,,True,False
+2026,Minnesota,MN,State Senate,19,general,Sam Powell,Democratic-Farmer-Labor,14924.0,39.73,False,False
+2026,Minnesota,MN,State Senate,20,general,Steven Jacob,Republican,,,True,False
+2026,Minnesota,MN,State Senate,20,general,Jason Lohmann,Democratic-Farmer-Labor,18430.0,42.53,False,False
+2026,Minnesota,MN,State Senate,21,general,Chris Knoll,Republican,,,True,False
+2026,Minnesota,MN,State Senate,21,general,Caitlyn Sanow-Minett,Democratic-Farmer-Labor,11257.0,32.84,False,False
+2026,Minnesota,MN,State Senate,22,general,Jeremy Munson,Republican,,,True,False
+2026,Minnesota,MN,State Senate,22,general,Marisa Ulmen,Democratic-Farmer-Labor,13863.0,34.79,False,False
+2026,Minnesota,MN,State Senate,23,general,Gene Dornink,Republican,,,True,False
+2026,Minnesota,MN,State Senate,23,general,Angie Hanson,Democratic-Farmer-Labor,16090.0,44.94,False,False
+2026,Minnesota,MN,State Senate,24,general,Simon Glaser,Republican,,,True,False
+2026,Minnesota,MN,State Senate,24,general,Nels Pierson,Republican,20403.0,49.13,False,False
+2026,Minnesota,MN,State Senate,25,general,Liz Boldon,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,25,general,John Howie,Republican,13418.0,33.9,False,False
+2026,Minnesota,MN,State Senate,26,general,Cherie Johnson,Republican,,,True,False
+2026,Minnesota,MN,State Senate,26,general,Jack Hedin,Democratic-Farmer-Labor,19509.0,48.57,False,False
+2026,Minnesota,MN,State Senate,27,general,Andrew Mathews,Republican,,,True,False
+2026,Minnesota,MN,State Senate,27,general,Brandon Van Dover,Democratic-Farmer-Labor,12619.0,30.6,False,False
+2026,Minnesota,MN,State Senate,28,general,Mark Koran,Republican,,,True,False
+2026,Minnesota,MN,State Senate,28,general,Max Glenna,Democratic-Farmer-Labor,15149.0,34.98,False,False
+2026,Minnesota,MN,State Senate,29,general,Michael Holmstrom Jr.,Republican,,,True,False
+2026,Minnesota,MN,State Senate,29,general,Louis McNutt,Democratic-Farmer-Labor,15836.0,36.57,False,False
+2026,Minnesota,MN,State Senate,30,general,Eric Lucero,Republican,,,True,False
+2026,Minnesota,MN,State Senate,30,general,Leah Temple,Democratic-Farmer-Labor,18743.0,39.63,False,False
+2026,Minnesota,MN,State Senate,31,general,Cal Bahr,Republican,,,True,False
+2026,Minnesota,MN,State Senate,31,general,Gadisa Berkessa,Democratic-Farmer-Labor,17640.0,38.77,False,False
+2026,Minnesota,MN,State Senate,32,general,Chris Ford,Republican,,,True,False
+2026,Minnesota,MN,State Senate,33,general,Karin Housley*,Republican,,,True,False
+2026,Minnesota,MN,State Senate,33,general,Nat Smith,Democratic-Farmer-Labor,23935.0,49.92,False,False
+2026,Minnesota,MN,State Senate,34,general,John Hoffman,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,34,general,Karen Attia,Republican,17704.0,37.7,False,False
+2026,Minnesota,MN,State Senate,35,general,Angela Nelson,Republican,,,True,False
+2026,Minnesota,MN,State Senate,36,general,Heather Gustafson,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,36,general,Heidi Heino,Republican,20698.0,42.92,False,False
+2026,Minnesota,MN,State Senate,37,general,Kristy Janigo,Republican,,,True,False
+2026,Minnesota,MN,State Senate,37,general,Brady Hoag,Republican,23667.0,45.89,False,False
+2026,Minnesota,MN,State Senate,38,general,Susan Pha,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,38,general,Brad Olson,Republican,6511.0,23.6,False,False
+2026,Minnesota,MN,State Senate,39,general,Mary Kunesh,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,39,general,Pam Wolf,Republican,9757.0,26.41,False,False
+2026,Minnesota,MN,State Senate,39,general,Ngone Saliou Niang,Green,1023.0,2.77,False,False
+2026,Minnesota,MN,State Senate,40,general,John Marty,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,40,general,Rachel Japuntich,Republican,14092.0,31.06,False,False
+2026,Minnesota,MN,State Senate,41,general,Judy Seeberger,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,41,general,Tom Dippel,Republican,23184.0,47.53,False,False
+2026,Minnesota,MN,State Senate,42,general,Bonnie Westlin,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,42,general,Kevin Peterson,Republican,16343.0,36.52,False,False
+2026,Minnesota,MN,State Senate,43,general,Mike Freiberg,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,44,general,Sam Rosemark,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,44,general,James Tacheny,Republican,12603.0,33.63,False,False
+2026,Minnesota,MN,State Senate,45,general,Ann Johnson Stewart,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,45,general,Shannon Bruce,Republican,22059.0,42.94,False,False
+2026,Minnesota,MN,State Senate,46,general,Ron Latz,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,46,general,Kayla Wright,Republican,10522.0,22.64,False,False
+2026,Minnesota,MN,State Senate,47,general,Amanda Hemmingsen-Jaeger,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,47,general,Brian Stalboerger,Republican,16330.0,35.94,False,False
+2026,Minnesota,MN,State Senate,48,general,Julia Coleman,Republican,,,True,False
+2026,Minnesota,MN,State Senate,48,general,Dan Kessler,Democratic-Farmer-Labor,24141.0,48.97,False,False
+2026,Minnesota,MN,State Senate,49,general,Krish Subrahmanian,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,49,general,Dustin R. DuFault,Republican,15528.0,33.07,False,False
+2026,Minnesota,MN,State Senate,49,general,Kris Babler,Independent,2003.0,4.27,False,False
+2026,Minnesota,MN,State Senate,50,general,Karla Hult,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,50,general,Owen Michaelson,Republican,15185.0,30.99,False,False
+2026,Minnesota,MN,State Senate,51,general,Simon Trautmann Cordova,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,51,general,Juline Birgersson,Republican,10220.0,25.62,False,False
+2026,Minnesota,MN,State Senate,52,general,Liz Reyer,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,52,general,Brady O'Neil,Republican,14837.0,32.82,False,False
+2026,Minnesota,MN,State Senate,53,general,Paul Cumings,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,53,general,Todd Podgorski,Republican,16219.0,38.14,False,False
+2026,Minnesota,MN,State Senate,54,general,Rick Olson,Republican,,,True,False
+2026,Minnesota,MN,State Senate,54,general,Ben Bakeberg,Republican,21848.0,49.38,False,False
+2026,Minnesota,MN,State Senate,55,general,Lindsey Port,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,55,general,Van Holston,Republican,14910.0,37.47,False,False
+2026,Minnesota,MN,State Senate,56,general,Erin Maye Quade,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,56,general,Raymond David Petersen,Republican,16709.0,36.98,False,False
+2026,Minnesota,MN,State Senate,57,general,Zach Duckworth,Republican,,,True,False
+2026,Minnesota,MN,State Senate,57,general,Steven Schroer,Democratic-Farmer-Labor,22325.0,45.92,False,False
+2026,Minnesota,MN,State Senate,58,general,Mark Legvold,Republican,,,True,False
+2026,Minnesota,MN,State Senate,59,general,Bobby Joe Champion,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,60,general,Doron Clark,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,60,general,Abigail Wolters,Republican,3550.0,9.63,False,False
+2026,Minnesota,MN,State Senate,61,general,Scott Dibble,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,62,general,Omar Fateh,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,63,general,Zaynab Mohamed,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,63,general,Diane Napper,Republican,6023.0,11.83,False,False
+2026,Minnesota,MN,State Senate,64,general,Erin Murphy,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,64,general,Robert Bushard,Republican,6339.0,13.11,False,False
+2026,Minnesota,MN,State Senate,65,general,Robyn Gulley,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,65,general,Rocco,Republican,4303.0,13.92,False,False
+2026,Minnesota,MN,State Senate,66,general,Clare Oumou Verbeten,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,66,general,Kathleen Bart,Republican,5342.0,15.14,False,False
+2026,Minnesota,MN,State Senate,67,general,Foung Hawj,Democratic-Farmer-Labor,,,True,False
+2026,Minnesota,MN,State Senate,67,general,Toby Hesselgrave,Republican,4402.0,18.54,False,False
+2026,Minnesota,MN,State Senate,67,general,*Races where the margin is under 0.5% fall within Minnesota's threshold for a state-funded recount.,,,,False,False
 2026,New York,NY,State Senate,22,special general,Sam Sutton,Democratic,8970,67.0,True,False
 2026,New York,NY,State Senate,22,special general,Nachman Carl Caller,New York Republican,4272,27.9,False,False
 2026,New York,NY,State Senate,47,special general,Erik Bottcher,Democratic,13325,76.2,False,False
 2026,New York,NY,State Senate,47,special general,Charlotte Friedman,New York Republican,1117,7.7,False,False
 2026,New York,NY,State Senate,61,special general,Jeremy Zellner,Democratic,19341,59.7,True,False
 2026,New York,NY,State Senate,61,special general,Dan R. Gagliardo,New York Republican,12886,30.4,False,False
-2026,North Carolina,NC,State Senate,1,general,Jerry Tillett,Republican,,,True,False
-2026,North Carolina,NC,State Senate,1,general,Melissa Zehner,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,2,general,Norman Sanderson,Republican,,,True,True
-2026,North Carolina,NC,State Senate,2,general,Roy Surrett,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,3,general,Bob Brinson,Republican,,,True,True
-2026,North Carolina,NC,State Senate,3,general,Charles Dudley,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,4,general,Buck Newton,Republican,,,True,True
-2026,North Carolina,NC,State Senate,4,general,Jessica (Jess) Rivera,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,5,general,Kandie Smith,Democratic,,,True,True
-2026,North Carolina,NC,State Senate,5,general,Henry Hostetler,Republican,,,False,False
-2026,North Carolina,NC,State Senate,6,general,Michael Lazzara,Republican,,,True,True
-2026,North Carolina,NC,State Senate,6,general,Andi Morrow,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,7,general,Michael Lee,Republican,,,True,True
-2026,North Carolina,NC,State Senate,7,general,Jessica Bichler,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,8,general,Bill Rabon,Republican,,,True,True
-2026,North Carolina,NC,State Senate,8,general,Richard Combes,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,8,general,Tim White,Libertarian,,,False,False
-2026,North Carolina,NC,State Senate,9,general,Brent Jackson,Republican,,,True,True
-2026,North Carolina,NC,State Senate,9,general,Helen Bronson,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,10,general,Benton Sawrey,Republican,,,True,True
-2026,North Carolina,NC,State Senate,10,general,Pat LeGrand,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,10,general,Kevin Terrett,Libertarian,,,False,False
-2026,North Carolina,NC,State Senate,11,general,Lisa Stone Barnes,Republican,,,True,True
-2026,North Carolina,NC,State Senate,11,general,James Gailliard,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,11,general,Gavin Bell,Libertarian,,,False,False
-2026,North Carolina,NC,State Senate,12,general,Jim Burgin,Republican,,,True,True
-2026,North Carolina,NC,State Senate,12,general,Tanya White Anderson,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,13,general,Lisa Grafstein,Democratic,,,True,True
-2026,North Carolina,NC,State Senate,13,general,Robert van Brederode,Republican,,,False,False
-2026,North Carolina,NC,State Senate,14,general,Dan Blue,Democratic,,,True,True
-2026,North Carolina,NC,State Senate,14,general,Angela McCarty,Republican,,,False,False
-2026,North Carolina,NC,State Senate,15,general,Jay Chaudhuri,Democratic,,,True,True
-2026,North Carolina,NC,State Senate,15,general,David Bankert,Republican,,,False,False
-2026,North Carolina,NC,State Senate,16,general,Gale Adcock,Democratic,,,True,True
-2026,North Carolina,NC,State Senate,16,general,Philip Hensley,Republican,,,False,False
-2026,North Carolina,NC,State Senate,16,general,Jonathan Miller,Libertarian,,,False,False
-2026,North Carolina,NC,State Senate,17,general,Sydney Batch,Democratic,,,True,True
-2026,North Carolina,NC,State Senate,17,general,Shirley Johnson,Republican,,,False,False
-2026,North Carolina,NC,State Senate,17,general,Patrick Bowersox,Libertarian,,,False,False
-2026,North Carolina,NC,State Senate,18,general,Haseeb Fatmi,Democratic,,,True,True
-2026,North Carolina,NC,State Senate,18,general,Chris Stock,Republican,,,False,False
-2026,North Carolina,NC,State Senate,18,general,Brad Hessel,Libertarian,,,False,False
-2026,North Carolina,NC,State Senate,19,general,Val Applewhite,Democratic,,,True,True
-2026,North Carolina,NC,State Senate,19,general,Venus de la Cruz,Republican,,,False,False
-2026,North Carolina,NC,State Senate,20,general,Natalie Murdock,Democratic,,100.0,True,True
-2026,North Carolina,NC,State Senate,21,general,Tom McInnis,Republican,,,True,True
-2026,North Carolina,NC,State Senate,21,general,Paul Taylor,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,22,general,Sophia Chitlik,Democratic,,,True,True
-2026,North Carolina,NC,State Senate,22,general,Lakeshia Alston,Republican,,,False,False
-2026,North Carolina,NC,State Senate,23,general,Jonah Garson,Democratic,,,True,True
-2026,North Carolina,NC,State Senate,23,general,Laura Pichardo,Republican,,,False,False
-2026,North Carolina,NC,State Senate,24,general,Danny Britt,Republican,,,True,True
-2026,North Carolina,NC,State Senate,24,general,Catina Hamm,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,25,general,Amy Galey,Republican,,,True,True
-2026,North Carolina,NC,State Senate,25,general,Southey Blanton,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,26,general,Sam Page,Republican,,,True,False
-2026,North Carolina,NC,State Senate,26,general,Steve Luking,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,27,general,Michael Garrett,Democratic,,100.0,True,True
-2026,North Carolina,NC,State Senate,28,general,Gladys Robinson,Democratic,,100.0,True,True
-2026,North Carolina,NC,State Senate,29,general,Dave Craven,Republican,,,True,True
-2026,North Carolina,NC,State Senate,29,general,Bob Morrison,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,30,general,Steve Jarvis,Republican,,,True,True
-2026,North Carolina,NC,State Senate,30,general,Pamela McAfee,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,31,general,Dana Caudill Jones,Republican,,,True,True
-2026,North Carolina,NC,State Senate,31,general,Andy Bowline,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,32,general,Paul Lowe Jr.,Democratic,,,True,True
-2026,North Carolina,NC,State Senate,32,general,Peter Antinozzi,Republican,,,False,False
-2026,North Carolina,NC,State Senate,33,general,Carl Ford,Republican,,,True,True
-2026,North Carolina,NC,State Senate,33,general,Gary Weart,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,34,general,Kevin Crutchfield,Republican,,,True,False
-2026,North Carolina,NC,State Senate,34,general,April Cook,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,35,general,Todd Johnson,Republican,,,True,True
-2026,North Carolina,NC,State Senate,35,general,Christine Winward,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,36,general,Eddie Settle,Republican,,,True,True
-2026,North Carolina,NC,State Senate,36,general,Trevor Cole Hardwick,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,37,general,Vickie Sawyer,Republican,,,True,True
-2026,North Carolina,NC,State Senate,37,general,Raygan Angel,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,38,general,Mujtaba Mohammed,Democratic,,100.0,True,True
-2026,North Carolina,NC,State Senate,39,general,DeAndrea Salvador,Democratic,,100.0,True,True
-2026,North Carolina,NC,State Senate,40,general,Joyce Waddell,Democratic,,,True,True
-2026,North Carolina,NC,State Senate,40,general,Bobbie Shields,Republican,,,False,False
-2026,North Carolina,NC,State Senate,41,general,Caleb Theodros,Democratic,,,True,True
-2026,North Carolina,NC,State Senate,41,general,Kevin Gray,Republican,,,False,False
-2026,North Carolina,NC,State Senate,42,general,Woodson Bradley,Democratic,,,True,True
-2026,North Carolina,NC,State Senate,42,general,Stacie McGinn,Republican,,,False,False
-2026,North Carolina,NC,State Senate,43,general,Brad Overcash,Republican,,,True,True
-2026,North Carolina,NC,State Senate,43,general,Steve Rutherford,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,44,general,Ted Alexander,Republican,,,True,True
-2026,North Carolina,NC,State Senate,44,general,Rod Powell,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,45,general,Mark Hollo,Republican,,,True,True
-2026,North Carolina,NC,State Senate,45,general,Greg Cranford,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,46,general,Warren Daniel,Republican,,,True,True
-2026,North Carolina,NC,State Senate,46,general,Kyle Whisnant,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,47,general,Ralph Hise,Republican,,,True,True
-2026,North Carolina,NC,State Senate,47,general,Frank Patton Hughes III,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,48,general,Tim Moffitt,Republican,,,True,True
-2026,North Carolina,NC,State Senate,48,general,Doyle Brown Jr.,Democratic,,,False,False
-2026,North Carolina,NC,State Senate,49,general,Julie Mayfield,Democratic,,,True,True
-2026,North Carolina,NC,State Senate,49,general,CJ Domingo,Republican,,,False,False
-2026,North Carolina,NC,State Senate,50,general,Kevin Corbin,Republican,,,True,True
-2026,North Carolina,NC,State Senate,50,general,Tom Downing,Democratic,,,False,False
+2026,North Carolina,NC,State Senate,1,general,Jerry Tillett,Republican,42924,52.07,True,False
+2026,North Carolina,NC,State Senate,1,general,Melissa Zehner,Democratic,39504,47.93,False,False
+2026,North Carolina,NC,State Senate,2,general,Norman Sanderson,Republican,47147,53.78,True,True
+2026,North Carolina,NC,State Senate,2,general,Roy Surrett,Democratic,40520,46.22,False,False
+2026,North Carolina,NC,State Senate,3,general,Bob Brinson,Republican,44365,55.01,True,True
+2026,North Carolina,NC,State Senate,3,general,Charles Dudley,Democratic,36279,44.99,False,False
+2026,North Carolina,NC,State Senate,4,general,Jess Rivera,Democratic,37539,51.07,True,False
+2026,North Carolina,NC,State Senate,4,general,Buck Newton,Republican,35962,48.92,False,True
+2026,North Carolina,NC,State Senate,5,general,Kandie Smith,Democratic,49446,61.74,True,True
+2026,North Carolina,NC,State Senate,5,general,Henry Hostetler,Republican,30638,38.26,False,False
+2026,North Carolina,NC,State Senate,6,general,Michael Lazzara,Republican,30152,60.31,True,True
+2026,North Carolina,NC,State Senate,6,general,Andi Morrow,Democratic,19841,39.69,False,False
+2026,North Carolina,NC,State Senate,7,general,Jessica Bichler,Democratic,48310,52.64,True,False
+2026,North Carolina,NC,State Senate,7,general,Michael Lee,Republican,43469,47.36,False,True
+2026,North Carolina,NC,State Senate,8,general,Bill Rabon,Republican,59369,52.16,True,True
+2026,North Carolina,NC,State Senate,8,general,Richard Combes,Democratic,51954,45.64,False,False
+2026,North Carolina,NC,State Senate,8,general,Tim White,Libertarian,2502,2.2,False,False
+2026,North Carolina,NC,State Senate,9,general,Brent Jackson,Republican,48386,100.0,True,True
+2026,North Carolina,NC,State Senate,10,general,Benton Sawrey,Republican,43863,49.7,True,True
+2026,North Carolina,NC,State Senate,10,general,Pat LeGrand,Democratic,42609,48.28,False,False
+2026,North Carolina,NC,State Senate,10,general,Kevin Terrett,Libertarian,1782,2.02,False,False
+2026,North Carolina,NC,State Senate,11,general,James Gailliard,Democratic,45342,51.37,True,False
+2026,North Carolina,NC,State Senate,11,general,Lisa Stone Barnes,Republican,40845,46.28,False,True
+2026,North Carolina,NC,State Senate,11,general,Gavin Bell,Libertarian,2076,2.35,False,False
+2026,North Carolina,NC,State Senate,12,general,Jim Burgin,Republican,34783,51.81,True,True
+2026,North Carolina,NC,State Senate,12,general,Tanya White Anderson,Democratic,32358,48.19,False,False
+2026,North Carolina,NC,State Senate,13,general,Lisa Grafstein,Democratic,63834,60.79,True,True
+2026,North Carolina,NC,State Senate,13,general,Robert van Brederode,Republican,41169,39.21,False,False
+2026,North Carolina,NC,State Senate,14,general,Dan Blue,Democratic,67944,82.0,True,True
+2026,North Carolina,NC,State Senate,14,general,Angela McCarty,Republican,14912,18.0,False,False
+2026,North Carolina,NC,State Senate,15,general,Jay Chaudhuri,Democratic,61375,75.08,True,True
+2026,North Carolina,NC,State Senate,15,general,David Bankert,Republican,20368,24.92,False,False
+2026,North Carolina,NC,State Senate,16,general,Gale Adcock,Democratic,66706,74.61,True,True
+2026,North Carolina,NC,State Senate,16,general,Philip Hensley,Republican,20952,23.43,False,False
+2026,North Carolina,NC,State Senate,16,general,Jonathan Miller,Libertarian,1748,1.96,False,False
+2026,North Carolina,NC,State Senate,17,general,Sydney Batch,Democratic,61644,72.69,True,True
+2026,North Carolina,NC,State Senate,17,general,Shirley Johnson,Republican,21392,25.23,False,False
+2026,North Carolina,NC,State Senate,17,general,Patrick Bowersox,Libertarian,1763,2.08,False,False
+2026,North Carolina,NC,State Senate,18,general,Haseeb Fatmi,Democratic,54157,54.77,True,True
+2026,North Carolina,NC,State Senate,18,general,Chris Stock,Republican,42310,42.79,False,False
+2026,North Carolina,NC,State Senate,18,general,Brad Hessel,Libertarian,2409,2.44,False,False
+2026,North Carolina,NC,State Senate,19,general,Val Applewhite,Democratic,45407,73.56,True,True
+2026,North Carolina,NC,State Senate,19,general,Venus de la Cruz,Republican,16319,26.44,False,False
+2026,North Carolina,NC,State Senate,20,general,Natalie Murdock,Democratic,85371,100.0,True,True
+2026,North Carolina,NC,State Senate,21,general,Tom McInnis,Republican,41901,54.38,True,True
+2026,North Carolina,NC,State Senate,21,general,Paul Taylor,Democratic,35149,45.62,False,False
+2026,North Carolina,NC,State Senate,22,general,Sophia Chitlik,Democratic,72857,85.26,True,True
+2026,North Carolina,NC,State Senate,22,general,Lakeshia Alston,Republican,12600,14.74,False,False
+2026,North Carolina,NC,State Senate,23,general,Jonah Garson,Democratic,69311,72.58,True,True
+2026,North Carolina,NC,State Senate,23,general,Laura Pichardo,Republican,26191,27.42,False,False
+2026,North Carolina,NC,State Senate,24,general,Danny Britt,Republican,27860,50.24,True,True
+2026,North Carolina,NC,State Senate,24,general,Catina Hamm,Democratic,27592,49.76,False,False
+2026,North Carolina,NC,State Senate,25,general,Amy Galey,Republican,42643,51.57,True,True
+2026,North Carolina,NC,State Senate,25,general,Southey Blanton,Democratic,40046,48.43,False,False
+2026,North Carolina,NC,State Senate,26,general,Sam Page,Republican,50217,53.75,True,False
+2026,North Carolina,NC,State Senate,26,general,Steve Luking,Democratic,43202,46.25,False,False
+2026,North Carolina,NC,State Senate,27,general,Michael Garrett,Democratic,61203,100.0,True,True
+2026,North Carolina,NC,State Senate,28,general,Gladys Robinson,Democratic,61097,100.0,True,True
+2026,North Carolina,NC,State Senate,29,general,Dave Craven,Republican,43081,61.01,True,True
+2026,North Carolina,NC,State Senate,29,general,Judy Little,Democratic,27537,38.99,False,False
+2026,North Carolina,NC,State Senate,30,general,Steve Jarvis,Republican,52180,66.12,True,True
+2026,North Carolina,NC,State Senate,30,general,Pamela McAfee,Democratic,26741,33.88,False,False
+2026,North Carolina,NC,State Senate,31,general,Dana Caudill Jones,Republican,49941,53.67,True,True
+2026,North Carolina,NC,State Senate,31,general,Andy Bowline,Democratic,43110,46.33,False,False
+2026,North Carolina,NC,State Senate,32,general,Paul Lowe Jr.,Democratic,56997,75.91,True,True
+2026,North Carolina,NC,State Senate,32,general,Peter Antinozzi,Republican,16728,22.28,False,False
+2026,North Carolina,NC,State Senate,32,general,Keenan Altic,Green,1357,1.81,False,False
+2026,North Carolina,NC,State Senate,33,general,Carl Ford,Republican,46721,62.47,True,True
+2026,North Carolina,NC,State Senate,33,general,Gary Weart,Democratic,28074,37.53,False,False
+2026,North Carolina,NC,State Senate,34,general,April Cook,Democratic,46750,57.66,True,False
+2026,North Carolina,NC,State Senate,34,general,Kevin Crutchfield,Republican,34328,42.34,False,False
+2026,North Carolina,NC,State Senate,35,general,Todd Johnson,Republican,52066,54.01,True,True
+2026,North Carolina,NC,State Senate,35,general,Christine Winward,Democratic,44329,45.99,False,False
+2026,North Carolina,NC,State Senate,36,general,Eddie Settle,Republican,54065,72.88,True,True
+2026,North Carolina,NC,State Senate,36,general,Trevor Cole Hardwick,Democratic,20115,27.12,False,False
+2026,North Carolina,NC,State Senate,37,general,Vickie Sawyer,Republican,51692,56.63,True,True
+2026,North Carolina,NC,State Senate,37,general,Raygan Angel,Democratic,39588,43.37,False,False
+2026,North Carolina,NC,State Senate,38,general,Mujtaba Mohammed,Democratic,75088,100.0,True,True
+2026,North Carolina,NC,State Senate,39,general,DeAndrea Salvador,Democratic,69536,100.0,True,True
+2026,North Carolina,NC,State Senate,40,general,Joyce Waddell,Democratic,56925,83.56,True,True
+2026,North Carolina,NC,State Senate,40,general,Bobbie Shields,Republican,11203,16.44,False,False
+2026,North Carolina,NC,State Senate,41,general,Caleb Theodros,Democratic,69771,84.54,True,True
+2026,North Carolina,NC,State Senate,41,general,Kevin Gray,Republican,12764,15.46,False,False
+2026,North Carolina,NC,State Senate,42,general,Woodson Bradley,Democratic,57203,58.88,True,True
+2026,North Carolina,NC,State Senate,42,general,Stacie McGinn,Republican,39941,41.12,False,False
+2026,North Carolina,NC,State Senate,43,general,Brad Overcash,Republican,39155,50.91,True,True
+2026,North Carolina,NC,State Senate,43,general,Steve Rutherford,Democratic,37758,49.09,False,False
+2026,North Carolina,NC,State Senate,44,general,Ted Alexander,Republican,50272,64.43,True,True
+2026,North Carolina,NC,State Senate,44,general,Rod Powell,Democratic,27752,35.57,False,False
+2026,North Carolina,NC,State Senate,45,general,Mark Hollo,Republican,49039,62.76,True,True
+2026,North Carolina,NC,State Senate,45,general,Greg Cranford,Democratic,29101,37.24,False,False
+2026,North Carolina,NC,State Senate,46,general,Warren Daniel,Republican,42610,56.14,True,True
+2026,North Carolina,NC,State Senate,46,general,Kyle Whisnant,Democratic,33287,43.86,False,False
+2026,North Carolina,NC,State Senate,47,general,Ralph Hise,Republican,48503,55.54,True,True
+2026,North Carolina,NC,State Senate,47,general,Frank Patton Hughes III,Democratic,38829,44.46,False,False
+2026,North Carolina,NC,State Senate,48,general,Tim Moffitt,Republican,49359,55.2,True,True
+2026,North Carolina,NC,State Senate,48,general,Doyle Brown Jr.,Democratic,40065,44.8,False,False
+2026,North Carolina,NC,State Senate,49,general,Julie Mayfield,Democratic,77184,77.15,True,True
+2026,North Carolina,NC,State Senate,49,general,CJ Domingo,Republican,22866,22.85,False,False
+2026,North Carolina,NC,State Senate,50,general,Kevin Corbin,Republican,55374,58.19,True,True
+2026,North Carolina,NC,State Senate,50,general,Tom Downing,Democratic,39781,41.81,False,False
 2026,North Dakota,ND,State Senate,,general,1st,,2014.0,,True,False
 2026,North Dakota,ND,State Senate,,general,3rd,,,,False,False
 2026,North Dakota,ND,State Senate,,general,5th,,,,False,False
@@ -743,7 +874,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Pennsylvania,PA,State Senate,36,general,Marty Flynn,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Sharon Soltis,Republican,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Tracy Pennycuick,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Chris Thomas,Democratic,,,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Christopher Thomas,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Michael Schonewolf Jr,Green,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Tim Kearney,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Gail Scott,Republican,,,False,False

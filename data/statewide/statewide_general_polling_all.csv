@@ -16039,14 +16039,22 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Illinois,IL,attorney general,General,Public Policy Polling,2026-09-30 to 2026-10-01,2026-09-30,2026-10-01,569 (LV),Bob Fioretti,R,38%,False,"September 30 – October 1, 2026",
 2026,Illinois,IL,governor,General,Research Co.,2026-10-31 to 2026-11-02,2026-10-31,2026-11-02,450 (LV),JB Pritzker,D,57%,True,"October 31 – November 2, 2026",4.6
 2026,Illinois,IL,governor,General,ActiVote,2026-10-23 to 2026-10-31,2026-10-23,2026-10-31,400 (LV),JB Pritzker,D,59%,True,"October 23–31, 2026",4.9
+2026,Illinois,IL,governor,General,University of Illinois Springfield,2026-10-01 to 2026-10-22,2026-10-01,2026-10-22,550 (LV),JB Pritzker,D,56%,True,"October 1-22, 2026",4.5
 2026,Illinois,IL,governor,General,ActiVote,2026-10-02 to 2026-10-22,2026-10-02,2026-10-22,400 (LV),JB Pritzker,D,59%,True,"October 2–22, 2026",4.9
 2026,Illinois,IL,governor,General,Public Policy Polling,2026-09-30 to 2026-10-01,2026-09-30,2026-10-01,569 (LV),JB Pritzker,D,54%,True,"September 30 – October 1, 2026",
 2026,Illinois,IL,governor,General,WFLD,2025-11-20 to 2025-11-24,2025-11-20,2025-11-24,"1,208 (LV)",JB Pritzker,D,54%,True,"November 20–24, 2025",2.8
 2026,Illinois,IL,governor,General,Research Co.,2026-10-31 to 2026-11-02,2026-10-31,2026-11-02,450 (LV),Darren Bailey,R,36%,False,"October 31 – November 2, 2026",4.6
 2026,Illinois,IL,governor,General,ActiVote,2026-10-23 to 2026-10-31,2026-10-23,2026-10-31,400 (LV),Darren Bailey,R,41%,False,"October 23–31, 2026",4.9
+2026,Illinois,IL,governor,General,University of Illinois Springfield,2026-10-01 to 2026-10-22,2026-10-01,2026-10-22,550 (LV),Darren Bailey,R,34%,False,"October 1-22, 2026",4.5
 2026,Illinois,IL,governor,General,ActiVote,2026-10-02 to 2026-10-22,2026-10-02,2026-10-22,400 (LV),Darren Bailey,R,41%,False,"October 2–22, 2026",4.9
 2026,Illinois,IL,governor,General,Public Policy Polling,2026-09-30 to 2026-10-01,2026-09-30,2026-10-01,569 (LV),Darren Bailey,R,34%,False,"September 30 – October 1, 2026",
 2026,Illinois,IL,governor,General,WFLD,2025-11-20 to 2025-11-24,2025-11-20,2025-11-24,"1,208 (LV)",Darren Bailey,R,34%,False,"November 20–24, 2025",2.8
+2026,Illinois,IL,governor,General,Research Co.,2026-10-31 to 2026-11-02,2026-10-31,2026-11-02,450 (LV),Difference Between Pritzker and Bailey,Unknown,+21,False,"October 31 – November 2, 2026",4.6
+2026,Illinois,IL,governor,General,ActiVote,2026-10-23 to 2026-10-31,2026-10-23,2026-10-31,400 (LV),Difference Between Pritzker and Bailey,Unknown,+18,False,"October 23–31, 2026",4.9
+2026,Illinois,IL,governor,General,University of Illinois Springfield,2026-10-01 to 2026-10-22,2026-10-01,2026-10-22,550 (LV),Difference Between Pritzker and Bailey,Unknown,+22,False,"October 1-22, 2026",4.5
+2026,Illinois,IL,governor,General,ActiVote,2026-10-02 to 2026-10-22,2026-10-02,2026-10-22,400 (LV),Difference Between Pritzker and Bailey,Unknown,+18,False,"October 2–22, 2026",4.9
+2026,Illinois,IL,governor,General,Public Policy Polling,2026-09-30 to 2026-10-01,2026-09-30,2026-10-01,569 (LV),Difference Between Pritzker and Bailey,Unknown,+20,False,"September 30 – October 1, 2026",
+2026,Illinois,IL,governor,General,WFLD,2025-11-20 to 2025-11-24,2025-11-20,2025-11-24,"1,208 (LV)",Difference Between Pritzker and Bailey,Unknown,+20,False,"November 20–24, 2025",2.8
 2026,Indiana,IN,secretary of state,General,Quantus Insights (R),2026-10-19 to 2026-10-21,2026-10-19,2026-10-21,757 (LV),Max Engling,R,39%,False,"October 19–21, 2026",3.8
 2026,Indiana,IN,secretary of state,General,Bellwether Research,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,896 (LV),Max Engling,R,35%,False,"October 8–11, 2026",3.5
 2026,Indiana,IN,secretary of state,General,The Tarrance Group (R),2026-09-27 to 2026-09-30,2026-09-27,2026-09-30,600 (LV),Max Engling,R,38%,False,"September 27–30, 2026",4.1

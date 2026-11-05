@@ -243,7 +243,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Arkansas,AR,State House,48,general,Ryan Rose,Republican,7646,100.0,True,True
 2024,Arkansas,AR,State House,49,general,Jay Richardson,Democratic,3847,100.0,True,True
 2024,Arkansas,AR,State House,50,general,Zachary Gramlich,Republican,6329,63.96,True,True
-2024,Arkansas,AR,State House,50,general,Robin W. McCray,Democratic,3567,36.0,False,False
+2024,Arkansas,AR,State House,50,general,Robin W. McCray,Democratic,3567,36.04,False,False
 2024,Arkansas,AR,State House,51,general,Cindy Crawford,Republican,9032,68.23,True,True
 2024,Arkansas,AR,State House,51,general,Jane-Ellen Udouj-Kutchka,Democratic,4206,31.77,False,False
 2024,Arkansas,AR,State House,52,general,Marcus Richmond,Republican,9109,100.0,True,True
