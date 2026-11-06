@@ -200,7 +200,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2018,New York,NY,governor,2018 New York gubernatorial election,Candidate,Howie Hawkins,Green,103946,1.7,False,False
 2018,New York,NY,governor,2018 New York gubernatorial election,Candidate,Larry Sharpe,Libertarian,95033,1.56,False,False
 2018,New York,NY,governor,2018 New York gubernatorial election,Candidate,Stephanie Miner,Serve America Movement,55441,0.91,False,False
-2018,New York,NY,governor,2018 New York gubernatorial election,Candidate,Write-Ins,N/a,7115,0.12,False,False
+2018,New York,NY,governor,2018 New York gubernatorial election,Write-in,,,7115,0.12,False,False
 2018,New York,NY,governor,2018 New York gubernatorial election,Total,,,6104447,100.0,False,False
 2018,Northern Mariana Islands,MP,governor,"Northern Mariana Islands gubernatorial election, 2018",Candidate,Ralph Torres and Arnold Palacios,Republican Party (northern Mariana Islands),8922,62.2,False,False
 2018,Northern Mariana Islands,MP,governor,"Northern Mariana Islands gubernatorial election, 2018",Candidate,Juan Babauta and Rita Sablan,Independent,5420,37.8,False,False

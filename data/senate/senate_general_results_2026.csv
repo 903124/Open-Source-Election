@@ -1,8 +1,8 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,percentage
-2026,Mississippi,2026 United States Senate election in Mississippi,General,Candidate,True,Cindy Hyde-Smith,Republican Party (United States),,
-2026,Mississippi,2026 United States Senate election in Mississippi,General,Candidate,False,Scott Colom (projected),Democratic Party (United States),,
-2026,Mississippi,2026 United States Senate election in Mississippi,General,Candidate,False,Ty Pinkins,Independent,,
-2026,Mississippi,2026 United States Senate election in Mississippi,General,Total,False,,,,
+2026,Mississippi,2026 United States Senate election in Mississippi,General,Winning,False,Scott Colom,Democratic Party (United States),"466,775",49.04%
+2026,Mississippi,2026 United States Senate election in Mississippi,General,Candidate,True,Cindy Hyde-Smith,Republican Party (United States),"464,962",48.85%
+2026,Mississippi,2026 United States Senate election in Mississippi,General,Candidate,False,Ty Pinkins,Independent politician,"20,007",2.10%
+2026,Mississippi,2026 United States Senate election in Mississippi,General,Total,False,,,"951,744",
 2026,Alabama,2026 United States Senate election in Alabama,General,Winning,False,Barry Moore,Republican Party (United States),"917,347",54.71
 2026,Alabama,2026 United States Senate election in Alabama,General,Candidate,False,Everett Wess,Democratic Party (United States),"759,335",45.29
 2026,Alabama,2026 United States Senate election in Alabama,General,Total,False,,,"1,676,682",100.0
@@ -10,20 +10,20 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2026,Arkansas,2026 United States Senate election in Arkansas,General,Candidate,False,Hallie Shoffner,Democratic Party (United States),,
 2026,Arkansas,2026 United States Senate election in Arkansas,General,Candidate,False,Jeff Wadlin,Libertarian Party (United States),,
 2026,Arkansas,2026 United States Senate election in Arkansas,General,Total,False,,,,100.0
-2026,Colorado,2026 United States Senate election in Colorado,General,Candidate,True,John Hickenlooper,Democratic Party (United States),,
-2026,Colorado,2026 United States Senate election in Colorado,General,Candidate,False,Mark Baisley,Republican Party (United States),,
-2026,Colorado,2026 United States Senate election in Colorado,General,Candidate,False,Christopher Baum,Approval Voting Party,,
-2026,Colorado,2026 United States Senate election in Colorado,General,Candidate,False,Bob Chew,Forward Party (United States),,
-2026,Colorado,2026 United States Senate election in Colorado,General,Candidate,False,Blake Huber,Libertarian Party (United States),,
-2026,Colorado,2026 United States Senate election in Colorado,General,Candidate,False,Adam Withrow,Unity Party of America,,
+2026,Colorado,2026 United States Senate election in Colorado,General,Winning,True,John Hickenlooper,Democratic Party (United States),"1,425,835",59.79%
+2026,Colorado,2026 United States Senate election in Colorado,General,Candidate,False,Mark Baisley,Republican Party (United States),"855,067",35.86%
+2026,Colorado,2026 United States Senate election in Colorado,General,Candidate,False,Bob Chew,Forward Party (United States),"62,166",2.61%
+2026,Colorado,2026 United States Senate election in Colorado,General,Candidate,False,Blake Huber,Libertarian Party (United States),"27,223",1.14%
+2026,Colorado,2026 United States Senate election in Colorado,General,Candidate,False,Adam Withrow,Unity Party of America,"10,959",0.46%
+2026,Colorado,2026 United States Senate election in Colorado,General,Candidate,False,Christopher Baum,Approval Voting Party,"3,519",0.19%
 2026,Colorado,2026 United States Senate election in Colorado,General,Write-in,False,,,,
 2026,Colorado,2026 United States Senate election in Colorado,General,Total,False,,,,100.0
 2026,Delaware,2026 United States Senate election in Delaware,General,Candidate,True,Chris Coons,Democratic Party (United States),,
 2026,Delaware,2026 United States Senate election in Delaware,General,Candidate,False,Michael Katz,Republican Party (United States),,
 2026,Delaware,2026 United States Senate election in Delaware,General,Total,False,,,,100.0
-2026,Florida (special),2026 United States Senate special election in Florida,General,Winning,True,Ashley Moody,Republican Party (United States),"4,207,173",50.9%
-2026,Florida (special),2026 United States Senate special election in Florida,General,Candidate,False,Angie Nixon,Democratic Party (United States),"3,967,674",48.0%
-2026,Florida (special),2026 United States Senate special election in Florida,General,Candidate,False,Neil J. Gillespie,Independent,"94,501",1.1%
+2026,Florida (special),2026 United States Senate special election in Florida,General,Winning,True,Ashley Moody,Republican Party (United States),"4,207,173",50.88
+2026,Florida (special),2026 United States Senate special election in Florida,General,Candidate,False,Angie Nixon,Democratic Party (United States),"3,967,674",47.98
+2026,Florida (special),2026 United States Senate special election in Florida,General,Candidate,False,Neil J. Gillespie,Independent,"94,501",1.14
 2026,Florida (special),2026 United States Senate special election in Florida,General,Total,False,,,"8,269,348",100.0
 2026,Georgia,2026 United States Senate election in Georgia,General,Candidate,True,Jon Ossoff,Democratic Party (United States),,
 2026,Georgia,2026 United States Senate election in Georgia,General,Candidate,False,Mike Collins,Republican Party (United States),,
@@ -41,17 +41,17 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2026,Iowa,2026 United States Senate election in Iowa,General,Candidate,False,Thomas Laehn,Libertarian Party (United States),,
 2026,Iowa,2026 United States Senate election in Iowa,General,Write-in,False,,,,
 2026,Iowa,2026 United States Senate election in Iowa,General,Total,False,,,,100.0
-2026,Kansas,2026 United States Senate election in Kansas,General,Winning,False,Adam Hamilton,Democratic Party (United States),"559,853",51.0%
-2026,Kansas,2026 United States Senate election in Kansas,General,Candidate,True,Roger Marshall,Republican Party (United States),"504,950",46.0%
-2026,Kansas,2026 United States Senate election in Kansas,General,Candidate,False,David Graham,Libertarian Party (United States),"33,117",3.0%
-2026,Kansas,2026 United States Senate election in Kansas,General,Total,False,,,"1,097,920",>99% reported
+2026,Kansas,2026 United States Senate election in Kansas,General,Winning,False,Adam Hamilton,Democratic Party (United States),"559,853",50.99%
+2026,Kansas,2026 United States Senate election in Kansas,General,Candidate,True,Roger Marshall,Republican Party (United States),"504,950",45.99%
+2026,Kansas,2026 United States Senate election in Kansas,General,Candidate,False,David Graham,Libertarian Party (United States),"33,117",3.02%
+2026,Kansas,2026 United States Senate election in Kansas,General,Total,False,,,"1,097,920",
 2026,Kentucky,2026 United States Senate election in Kentucky,General,Winning,False,Andy Barr,Republican Party (United States),"784,869",54.99
 2026,Kentucky,2026 United States Senate election in Kentucky,General,Candidate,False,Charles Booker,Democratic Party (United States),"612,357",42.90
 2026,Kentucky,2026 United States Senate election in Kentucky,General,Candidate,False,Christopher Campbell,Kentucky Party,"29,892",2.09
 2026,Kentucky,2026 United States Senate election in Kentucky,General,Write-in,False,,,152,0.01
 2026,Kentucky,2026 United States Senate election in Kentucky,General,Total,False,,,"1,427,270",100.0
-2026,Louisiana,2026 United States Senate election in Louisiana,General,Winning,False,Julia Letlow,Republican Party (United States),"745,963",50.9%
-2026,Louisiana,2026 United States Senate election in Louisiana,General,Candidate,False,Jamie Davis,Democratic Party (United States),"720,106",49.1%
+2026,Louisiana,2026 United States Senate election in Louisiana,General,Winning,False,Julia Letlow,Republican Party (United States),"745,963",50.88
+2026,Louisiana,2026 United States Senate election in Louisiana,General,Candidate,False,Jamie Davis,Democratic Party (United States),"720,106",49.12
 2026,Louisiana,2026 United States Senate election in Louisiana,General,Total,False,,,"1,466,069",100.0
 2026,Maine,Democratic convention results,General,Winning,False,Troy Jackson,Democratic Party (United States),566,99.1
 2026,Maine,Democratic convention results,General,Candidate,False,Saundra Pelletier,Democratic Party (United States),5,0.9
@@ -148,18 +148,18 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2026,New Jersey,2026 United States Senate election in New Jersey,General,Candidate,False,Justin Murphy,Republican Party (United States),,
 2026,New Jersey,2026 United States Senate election in New Jersey,General,Candidate,False,Joanne Kuniansky,Socialist Workers Party (US),,
 2026,New Jersey,2026 United States Senate election in New Jersey,General,Total,False,,,,100.0
-2026,New Mexico,2026 United States Senate election in New Mexico,General,Candidate,True,Ben Ray Luján,Democratic Party (United States),,
-2026,New Mexico,2026 United States Senate election in New Mexico,General,Candidate,False,Larry Marker,Republican Party (United States),,
-2026,New Mexico,2026 United States Senate election in New Mexico,General,Total,False,,,,100.0
+2026,New Mexico,2026 United States Senate election in New Mexico,General,Winning,True,Ben Ray Luján,Democratic Party (United States),"458,007",63.24%
+2026,New Mexico,2026 United States Senate election in New Mexico,General,Candidate,False,Larry Marker,Republican Party (United States),"266,260",36.76%
+2026,New Mexico,2026 United States Senate election in New Mexico,General,Total,False,,,"724,267",100.0%
 2026,North Carolina,2026 United States Senate election in North Carolina,General,Winning,False,Roy Cooper,Democratic Party (United States),"2,467,963",58.72%
 2026,North Carolina,2026 United States Senate election in North Carolina,General,Candidate,False,Michael Whatley,Republican Party (United States),"1,643,088",39.09%
 2026,North Carolina,2026 United States Senate election in North Carolina,General,Candidate,False,Shannon W. Bray,Libertarian Party (United States),"55,726",1.33%
 2026,North Carolina,2026 United States Senate election in North Carolina,General,Candidate,False,Michael Dublin,Green Party (United States),"36,404",0.87%
 2026,North Carolina,2026 United States Senate election in North Carolina,General,Total,False,,,"4,203,181",100.0%
-2026,Ohio (special),2026 United States Senate special election in Ohio,General,Candidate,True,Jon Husted,Republican Party (United States),,
-2026,Ohio (special),2026 United States Senate special election in Ohio,General,Candidate,False,Sherrod Brown,Democratic Party (United States),,
-2026,Ohio (special),2026 United States Senate special election in Ohio,General,Candidate,False,Bill Redpath,Libertarian Party (United States),,
-2026,Ohio (special),2026 United States Senate special election in Ohio,General,Candidate,False,Greg Levy,Independent politician,,
+2026,Ohio (special),2026 United States Senate special election in Ohio,General,Candidate,False,Sherrod Brown,Democratic Party (United States),,50.0
+2026,Ohio (special),2026 United States Senate special election in Ohio,General,Candidate,True,Jon Husted,Republican Party (United States),,45.2
+2026,Ohio (special),2026 United States Senate special election in Ohio,General,Candidate,False,Bill Redpath,Libertarian Party (United States),,2.8
+2026,Ohio (special),2026 United States Senate special election in Ohio,General,Candidate,False,Greg Levy,Independent politician,,2.1
 2026,Ohio (special),2026 United States Senate special election in Ohio,General,Write-in,False,,,,
 2026,Ohio (special),2026 United States Senate special election in Ohio,General,Total,False,,,,100.0
 2026,Oklahoma,2026 United States Senate election in Oklahoma,General,Winning,False,Kevin Hern,Republican Party (United States),"638,103",57.29
@@ -179,12 +179,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2026,Rhode Island,2026 United States Senate election in Rhode Island,General,Candidate,False,Michael Bahry,Independent politician,,
 2026,Rhode Island,2026 United States Senate election in Rhode Island,General,Write-in,False,,,,
 2026,Rhode Island,2026 United States Senate election in Rhode Island,General,Total,False,,,,100.0
-2026,South Carolina,2026 United States Senate election in South Carolina,General,Winning,False,Annie Andrews,Democratic Party (United States),,
-2026,South Carolina,2026 United States Senate election in South Carolina,General,Candidate,True,Darline Graham,Republican Party (United States),,
-2026,South Carolina,2026 United States Senate election in South Carolina,General,Candidate,False,Kasie Whitener,Libertarian Party (United States),,
-2026,South Carolina,2026 United States Senate election in South Carolina,General,Candidate,False,Mark Hackett,Constitution Party (United States),,
-2026,South Carolina,2026 United States Senate election in South Carolina,General,Write-in,False,,,,
-2026,South Carolina,2026 United States Senate election in South Carolina,General,Total,False,,,,100.0
+2026,South Carolina,2026 United States Senate election in South Carolina,General,Winning,False,Annie Andrews,Democratic Party (United States),"1,042,362",51.13%
+2026,South Carolina,2026 United States Senate election in South Carolina,General,Candidate,True,Darline Graham,Republican Party (United States),"951,165",46.65%
+2026,South Carolina,2026 United States Senate election in South Carolina,General,Candidate,False,Kasie Whitener,Libertarian Party (United States),"23,560",1.16%
+2026,South Carolina,2026 United States Senate election in South Carolina,General,Candidate,False,Mark Hackett,Constitution Party (United States),"16,799",0.82%
+2026,South Carolina,2026 United States Senate election in South Carolina,General,Write-in,False,,,"4,894",0.24%
+2026,South Carolina,2026 United States Senate election in South Carolina,General,Total,False,,,"2,038,780",100.0
 2026,South Dakota,2026 United States Senate election in South Dakota,General,Candidate,True,Mike Rounds,Republican Party (United States),,
 2026,South Dakota,2026 United States Senate election in South Dakota,General,Candidate,False,Brian Bengs,Independent politician,,
 2026,South Dakota,2026 United States Senate election in South Dakota,General,Total,False,,,,
@@ -200,11 +200,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2026,Tennessee,2026 United States Senate election in Tennessee,General,Candidate,False,Catherine Whitson,Independent politician,,
 2026,Tennessee,2026 United States Senate election in Tennessee,General,Candidate,False,Andrew Mixon,Independent politician,,
 2026,Tennessee,2026 United States Senate election in Tennessee,General,Total,False,,,,100.0
-2026,Texas,2026 United States Senate election in Texas,General,Winning,False,James Talarico,Democratic Party (United States),"5,445,121",55.1%
-2026,Texas,2026 United States Senate election in Texas,General,Candidate,False,Ken Paxton,Republican Party (United States),"4,249,752",43.0%
-2026,Texas,2026 United States Senate election in Texas,General,Candidate,False,Ted Brown,Libertarian Party (United States),"190,258",1.9%
-2026,Texas,2026 United States Senate election in Texas,General,Write-in,False,,,"5,112",0.1%
-2026,Texas,2026 United States Senate election in Texas,General,Total,False,,,"9,890,243",100.0
+2026,Texas,2026 United States Senate election in Texas,General,Winning,False,James Talarico,Democratic Party (United States),"5,445,156",55.06%
+2026,Texas,2026 United States Senate election in Texas,General,Candidate,False,Ken Paxton,Republican Party (United States),"4,249,763",42.97%
+2026,Texas,2026 United States Senate election in Texas,General,Candidate,False,Ted Brown,Libertarian Party (United States),"190,259",1.92%
+2026,Texas,2026 United States Senate election in Texas,General,Write-in,False,,,"5,112",0.05%
+2026,Texas,2026 United States Senate election in Texas,General,Total,False,,,"9,890,290",100.0
 2026,Virginia,2026 United States Senate election in Virginia,General,Candidate,True,Mark Warner,Democratic Party (United States),,
 2026,Virginia,2026 United States Senate election in Virginia,General,Candidate,False,Bert Mizusawa,Republican Party (United States),,
 2026,Virginia,2026 United States Senate election in Virginia,General,Write-in,False,,,,
