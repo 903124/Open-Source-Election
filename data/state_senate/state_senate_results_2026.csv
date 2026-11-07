@@ -161,11 +161,11 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Florida,FL,State Senate,6,general,Jennifer Bradley,Republican,122289.0,58.23,True,False
 2026,Florida,FL,State Senate,6,general,Jason Bellamy-Fults,Democratic,85682.0,40.8,False,False
 2026,Florida,FL,State Senate,6,general,Joseph Thorton,Solidarity,2038.0,0.97,False,False
-2026,Florida,FL,State Senate,8,general,Jake Johansson,Republican,,,True,False
-2026,Florida,FL,State Senate,8,general,Judy Ngying,Democratic,,,False,False
-2026,Florida,FL,State Senate,8,general,Gabe Wozniak,Libertarian,,,False,False
-2026,Florida,FL,State Senate,10,general,Jason Brodeur,Republican,,,True,False
-2026,Florida,FL,State Senate,10,general,John Lowndes,Democratic,,,False,False
+2026,Florida,FL,State Senate,8,general,Jake Johansson,Republican,125107.0,55.5,True,False
+2026,Florida,FL,State Senate,8,general,Judy Ngying,Democratic,96363.0,42.75,False,False
+2026,Florida,FL,State Senate,8,general,Gabe Wozniak,Libertarian,3941.0,1.75,False,False
+2026,Florida,FL,State Senate,10,general,John Lowndes,Democratic,125116.0,55.95,True,False
+2026,Florida,FL,State Senate,10,general,Jason Brodeur,Republican,98503.0,44.05,False,False
 2026,Florida,FL,State Senate,12,general,Colleen Burton,Republican,,,True,False
 2026,Florida,FL,State Senate,12,general,Alfred Reynolds,Democratic,,,False,False
 2026,Florida,FL,State Senate,14,general,Brian Nathan,Democratic,,,True,False
@@ -436,94 +436,94 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Maryland,MD,State Senate,46,general,Bill Ferguson,Democratic,,,True,True
 2026,Maryland,MD,State Senate,46,general,Emmanuel Digman,Republican,,,False,False
 2026,Maryland,MD,State Senate,47,general,Malcolm Augustine,Democratic,,,True,True
-2026,Michigan,MI,State Senate,35,general,Chedrick Greene,Democratic,104840.0,55.56,True,True
-2026,Michigan,MI,State Senate,35,general,Jason Tunney,Republican,77254.0,42.95,False,False
-2026,Michigan,MI,State Senate,35,general,Ali Sledz,Libertarian,1058.0,1.7,False,False
-2026,Michigan,MI,State Senate,1,general,Justin Onwenu,Democratic,,,True,False
-2026,Michigan,MI,State Senate,1,general,Patrick O'Connell,Republican,,,False,False
-2026,Michigan,MI,State Senate,2,general,Abbas Alawieh,Democratic,,,True,False
-2026,Michigan,MI,State Senate,2,general,Harry Sawicki,Republican,,,False,False
-2026,Michigan,MI,State Senate,2,general,Larry Betts,Class,,,False,False
-2026,Michigan,MI,State Senate,3,general,John Conyers III,Democratic,,,True,False
-2026,Michigan,MI,State Senate,3,general,Mark Ashley Price,Republican,,,False,False
-2026,Michigan,MI,State Senate,3,general,David Roehrig,Class,,,False,False
-2026,Michigan,MI,State Senate,4,general,Darrin Camilleri,Democratic,,,True,True
-2026,Michigan,MI,State Senate,4,general,Marcie Grzywacz,Republican,,,False,False
-2026,Michigan,MI,State Senate,4,general,Beth Ann Socia,U.s. Taxpayers,,,False,False
-2026,Michigan,MI,State Senate,4,general,Walter Willis,Class,,,False,False
-2026,Michigan,MI,State Senate,5,general,Matt Koleszar,Democratic,,,True,False
-2026,Michigan,MI,State Senate,5,general,Estelle Oliansky,Republican,,,False,False
-2026,Michigan,MI,State Senate,6,general,Mary Cavanagh,Democratic,,,True,True
-2026,Michigan,MI,State Senate,6,general,Joi Pokerwinski,Republican,,,False,False
-2026,Michigan,MI,State Senate,7,general,Jason Hoskins,Democratic,86065.0,71.45,True,False
-2026,Michigan,MI,State Senate,7,general,Anthony Paesano,Republican,34384.0,28.55,False,False
-2026,Michigan,MI,State Senate,8,general,Dayna Polehanki,Democratic,44253.0,64.36,True,False
-2026,Michigan,MI,State Senate,8,general,Kenneth D. Massey,Republican,24503.0,35.64,False,False
-2026,Michigan,MI,State Senate,9,general,Theresa Brooks,Democratic,64507.0,52.48,True,False
-2026,Michigan,MI,State Senate,9,general,Michael Webber,Republican,55947.0,45.52,False,True
-2026,Michigan,MI,State Senate,9,general,Jacob Schodowski,Class,1466.0,1.19,False,False
-2026,Michigan,MI,State Senate,9,general,Philippe M. Cicchini,Independent,992.0,0.81,False,False
-2026,Michigan,MI,State Senate,10,general,Natalie Price,Democratic,97122.0,73.16,True,False
-2026,Michigan,MI,State Senate,10,general,Michelle Nard,Republican,35637.0,26.84,False,False
-2026,Michigan,MI,State Senate,11,general,Veronica Klinefelt,Democratic,68242.0,61.7,True,True
-2026,Michigan,MI,State Senate,11,general,Johnnie Townsend,Republican,35637.0,38.3,False,False
-2026,Michigan,MI,State Senate,12,general,John Goldwater,Republican,48412.0,50.26,True,False
-2026,Michigan,MI,State Senate,12,general,Kevin Hertel,Democratic,47904.0,49.74,False,True
-2026,Michigan,MI,State Senate,13,general,Sean Carlson,Democratic,71577.0,53.04,True,False
-2026,Michigan,MI,State Senate,13,general,Ryan Berman,Republican,63379.0,46.96,False,False
-2026,Michigan,MI,State Senate,14,general,Sue Shink,Democratic,79201.0,60.49,True,True
-2026,Michigan,MI,State Senate,14,general,Tawn Shawnelle Beliger,Republican,51736.0,39.51,False,False
-2026,Michigan,MI,State Senate,15,general,Felicia Brabec,Democratic,104227.0,76.31,True,False
-2026,Michigan,MI,State Senate,15,general,Jason Rogers,Republican,32349.0,23.69,False,False
-2026,Michigan,MI,State Senate,16,general,Joe Bellino,Republican,74071.0,61.66,True,True
-2026,Michigan,MI,State Senate,16,general,Deandre Barnes,Democratic,46064.0,38.34,False,False
-2026,Michigan,MI,State Senate,17,general,Jonathan Lindsey,Republican,65769.0,60.78,True,True
-2026,Michigan,MI,State Senate,17,general,Ashleigh Baker,Democratic,42432.0,39.22,False,False
-2026,Michigan,MI,State Senate,18,general,Thomas Albert,Republican,71129.0,58.31,True,True
-2026,Michigan,MI,State Senate,18,general,Anthony Pennock,Democratic,50846.0,41.69,False,False
-2026,Michigan,MI,State Senate,19,general,Julie Rogers,Democratic,82979.0,64.4,True,False
-2026,Michigan,MI,State Senate,19,general,Shaun Young,Republican,45865.0,35.6,False,False
-2026,Michigan,MI,State Senate,20,general,Chris Moraitis,Republican,67856.0,55.19,True,False
-2026,Michigan,MI,State Senate,20,general,Dale Murney,Democratic,53554.0,43.56,False,False
-2026,Michigan,MI,State Senate,20,general,Shamara Clay,Green,1540.0,1.25,False,False
-2026,Michigan,MI,State Senate,21,general,Sarah Anthony,Democratic,77089.0,62.54,True,True
-2026,Michigan,MI,State Senate,21,general,Josh Burns,Republican,46166.0,37.46,False,False
-2026,Michigan,MI,State Senate,22,general,Mike Murphy,Republican,87884.0,60.3,True,False
-2026,Michigan,MI,State Senate,22,general,Rob Hower,Democratic,57858.0,39.7,False,False
-2026,Michigan,MI,State Senate,23,general,Donni Steele,Republican,84995.0,58.77,True,False
-2026,Michigan,MI,State Senate,23,general,Greg Hill,Democratic,59619.0,41.23,False,False
-2026,Michigan,MI,State Senate,24,general,Doug Wozniak,Republican,80324.0,60.32,True,False
-2026,Michigan,MI,State Senate,24,general,Edlira Sako,Democratic,52850.0,39.68,False,False
-2026,Michigan,MI,State Senate,25,general,Andrew Beeler,Republican,81077.0,65.41,True,False
-2026,Michigan,MI,State Senate,25,general,April Osentoski,Democratic,42881.0,34.59,False,False
-2026,Michigan,MI,State Senate,26,general,Matthew Bierlein,Republican,74613.0,60.62,True,False
-2026,Michigan,MI,State Senate,26,general,Brendan J. Johnson,Democratic,48470.0,39.38,False,False
-2026,Michigan,MI,State Senate,27,general,John Daniel Cherry,Democratic,71744.0,66.62,True,True
-2026,Michigan,MI,State Senate,27,general,Bill Bain,Republican,35946.0,33.38,False,False
-2026,Michigan,MI,State Senate,28,general,Rashida Harrison,Democratic,71686.0,56.84,True,False
-2026,Michigan,MI,State Senate,28,general,Julie DeRose,Republican,51056.0,40.48,False,False
-2026,Michigan,MI,State Senate,28,general,Brandon Crabill,Libertarian,1501.0,1.19,False,False
-2026,Michigan,MI,State Senate,28,general,Wes Peterson,Class,1878.0,1.49,False,False
-2026,Michigan,MI,State Senate,29,general,Abbie Groff-Blaszak,Democratic,75103.0,68.49,True,False
-2026,Michigan,MI,State Senate,29,general,Brady Middleton,Republican,34556.0,31.51,False,False
-2026,Michigan,MI,State Senate,30,general,Carol Glanville,Democratic,76081.0,54.85,True,False
-2026,Michigan,MI,State Senate,30,general,Mark Huizenga,Republican,62625.0,45.15,False,True
-2026,Michigan,MI,State Senate,31,general,John Wetzel,Republican,81352.0,57.81,True,False
-2026,Michigan,MI,State Senate,31,general,Chris Kleinjans,Democratic,59368.0,42.19,False,False
-2026,Michigan,MI,State Senate,32,general,Rebecca Amidon,Democratic,62101.0,50.59,True,False
-2026,Michigan,MI,State Senate,32,general,Kim Cole,Republican,60646.0,49.41,False,False
-2026,Michigan,MI,State Senate,33,general,Gina Johnsen,Republican,79983.0,65.51,True,False
-2026,Michigan,MI,State Senate,33,general,Stan Opan,Democratic,42113.0,34.49,False,False
-2026,Michigan,MI,State Senate,34,general,Roger Hauck,Republican,74114.0,63.45,True,True
-2026,Michigan,MI,State Senate,34,general,Tyler Landgraf,Democratic,42694.0,36.55,False,False
-2026,Michigan,MI,State Senate,35,general,Laurie Atwood,U.s. Taxpayers,1825.0,1.49,False,False
-2026,Michigan,MI,State Senate,36,general,Michele Hoitenga,Republican,89678.0,66.08,True,True
-2026,Michigan,MI,State Senate,36,general,Mark Yonkman,Democratic,46042.0,33.92,False,False
-2026,Michigan,MI,State Senate,37,general,John Damoose,Republican,80130.0,54.46,True,True
-2026,Michigan,MI,State Senate,37,general,Kate Gallup,Democratic,66994.0,45.54,False,False
-2026,Michigan,MI,State Senate,38,general,David Prestin,Republican,64453.0,52.03,True,False
-2026,Michigan,MI,State Senate,38,general,Kelli van Ginhoven,Democratic,48250.0,38.95,False,False
-2026,Michigan,MI,State Senate,38,general,Sara Cambensy,Independent,11173.0,9.02,False,False
+2026,Michigan,MI,State Senate,35,general,Chedrick Greene,Democratic,104840,55.56,True,True
+2026,Michigan,MI,State Senate,35,general,Jason Tunney,Republican,77254,42.95,False,False
+2026,Michigan,MI,State Senate,35,general,Ali Sledz,Libertarian,1058,1.7,False,False
+2026,Michigan,MI,State Senate,1,general,Justin Onwenu,Democratic,67639,83.31,True,False
+2026,Michigan,MI,State Senate,1,general,Patrick O'Connell,Republican,13550,16.69,False,False
+2026,Michigan,MI,State Senate,2,general,Abbas Alawieh,Democratic,72311,70.68,True,False
+2026,Michigan,MI,State Senate,2,general,Harry Sawicki,Republican,27250,26.64,False,False
+2026,Michigan,MI,State Senate,2,general,Larry Betts,Class,2743,2.68,False,False
+2026,Michigan,MI,State Senate,3,general,John Conyers III,Democratic,76949,93.1,True,False
+2026,Michigan,MI,State Senate,3,general,Mark Ashley Price,Republican,3456,4.18,False,False
+2026,Michigan,MI,State Senate,3,general,David Roehrig,Class,2249,2.72,False,False
+2026,Michigan,MI,State Senate,4,general,Darrin Camilleri,Democratic,69907,57.4,True,True
+2026,Michigan,MI,State Senate,4,general,Marcie Grzywacz,Republican,49325,40.5,False,False
+2026,Michigan,MI,State Senate,4,general,Walter Willis,Class,1640,1.35,False,False
+2026,Michigan,MI,State Senate,4,general,Beth Ann Socia,U.s. Taxpayers,919,0.75,False,False
+2026,Michigan,MI,State Senate,5,general,Matt Koleszar,Democratic,83858,66.1,True,False
+2026,Michigan,MI,State Senate,5,general,Estelle Oliansky,Republican,42754,33.9,False,False
+2026,Michigan,MI,State Senate,6,general,Mary Cavanagh,Democratic,91688,92.81,True,True
+2026,Michigan,MI,State Senate,6,general,Joi Pokerwinski,Republican,7099,7.19,False,False
+2026,Michigan,MI,State Senate,7,general,Jason Hoskins,Democratic,88879,71.36,True,False
+2026,Michigan,MI,State Senate,7,general,Anthony Paesano,Republican,35675,28.64,False,False
+2026,Michigan,MI,State Senate,8,general,Dayna Polehanki,Democratic,84917,60.01,True,False
+2026,Michigan,MI,State Senate,8,general,Kenneth D. Massey,Republican,56584,39.99,False,False
+2026,Michigan,MI,State Senate,9,general,Theresa Brooks,Democratic,64507,52.48,True,False
+2026,Michigan,MI,State Senate,9,general,Michael Webber,Republican,55947,45.52,False,True
+2026,Michigan,MI,State Senate,9,general,Jacob Schodowski,Class,1466,1.19,False,False
+2026,Michigan,MI,State Senate,9,general,Philippe M. Cicchini,Independent,992,0.81,False,False
+2026,Michigan,MI,State Senate,10,general,Natalie Price,Democratic,97122,73.16,True,False
+2026,Michigan,MI,State Senate,10,general,Michelle Nard,Republican,35637,26.84,False,False
+2026,Michigan,MI,State Senate,11,general,Veronica Klinefelt,Democratic,68242,61.7,True,True
+2026,Michigan,MI,State Senate,11,general,Johnnie Townsend,Republican,42368,38.3,False,False
+2026,Michigan,MI,State Senate,12,general,Kevin Hertel,Democratic,70513,53.45,True,True
+2026,Michigan,MI,State Senate,12,general,John Goldwater,Republican,61404,46.55,False,False
+2026,Michigan,MI,State Senate,13,general,Sean Carlson,Democratic,71577,53.04,True,False
+2026,Michigan,MI,State Senate,13,general,Ryan Berman,Republican,63379,46.96,False,False
+2026,Michigan,MI,State Senate,14,general,Sue Shink,Democratic,79201,60.49,True,True
+2026,Michigan,MI,State Senate,14,general,Tawn Shawnelle Beliger,Republican,51736,39.51,False,False
+2026,Michigan,MI,State Senate,15,general,Felicia Brabec,Democratic,104227,76.31,True,False
+2026,Michigan,MI,State Senate,15,general,Jason Rogers,Republican,32349,23.69,False,False
+2026,Michigan,MI,State Senate,16,general,Joe Bellino,Republican,74857,61.75,True,True
+2026,Michigan,MI,State Senate,16,general,Deandre Barnes,Democratic,46372,38.25,False,False
+2026,Michigan,MI,State Senate,17,general,Jonathan Lindsey,Republican,65769,60.78,True,True
+2026,Michigan,MI,State Senate,17,general,Ashleigh Baker,Democratic,42432,39.22,False,False
+2026,Michigan,MI,State Senate,18,general,Thomas Albert,Republican,71129,58.31,True,True
+2026,Michigan,MI,State Senate,18,general,Anthony Pennock,Democratic,50846,41.69,False,False
+2026,Michigan,MI,State Senate,19,general,Julie Rogers,Democratic,82979,64.4,True,False
+2026,Michigan,MI,State Senate,19,general,Shaun Young,Republican,45865,35.6,False,False
+2026,Michigan,MI,State Senate,20,general,Chris Moraitis,Republican,67856,55.19,True,False
+2026,Michigan,MI,State Senate,20,general,Dale Murney,Democratic,53554,43.56,False,False
+2026,Michigan,MI,State Senate,20,general,Shamara Clay,Green,1540,1.25,False,False
+2026,Michigan,MI,State Senate,21,general,Sarah Anthony,Democratic,77089,62.54,True,True
+2026,Michigan,MI,State Senate,21,general,Josh Burns,Republican,46166,37.46,False,False
+2026,Michigan,MI,State Senate,22,general,Mike Murphy,Republican,87884,60.3,True,False
+2026,Michigan,MI,State Senate,22,general,Rob Hower,Democratic,57858,39.7,False,False
+2026,Michigan,MI,State Senate,23,general,Donni Steele,Republican,84995,58.77,True,False
+2026,Michigan,MI,State Senate,23,general,Greg Hill,Democratic,59619,41.23,False,False
+2026,Michigan,MI,State Senate,24,general,Doug Wozniak,Republican,80324,60.32,True,False
+2026,Michigan,MI,State Senate,24,general,Edlira Sako,Democratic,52850,39.68,False,False
+2026,Michigan,MI,State Senate,25,general,Andrew Beeler,Republican,81077,65.41,True,False
+2026,Michigan,MI,State Senate,25,general,April Osentoski,Democratic,42881,34.59,False,False
+2026,Michigan,MI,State Senate,26,general,Matthew Bierlein,Republican,74613,60.62,True,False
+2026,Michigan,MI,State Senate,26,general,Brendan J. Johnson,Democratic,48470,39.38,False,False
+2026,Michigan,MI,State Senate,27,general,John Daniel Cherry,Democratic,71744,66.62,True,True
+2026,Michigan,MI,State Senate,27,general,Bill Bain,Republican,35946,33.38,False,False
+2026,Michigan,MI,State Senate,28,general,Rashida Harrison,Democratic,71686,56.84,True,False
+2026,Michigan,MI,State Senate,28,general,Julie DeRose,Republican,51056,40.48,False,False
+2026,Michigan,MI,State Senate,28,general,Wes Peterson,Class,1878,1.49,False,False
+2026,Michigan,MI,State Senate,28,general,Brandon Crabill,Libertarian,1501,1.19,False,False
+2026,Michigan,MI,State Senate,29,general,Abbie Groff-Blaszak,Democratic,75103,68.49,True,False
+2026,Michigan,MI,State Senate,29,general,Brady Middleton,Republican,34556,31.51,False,False
+2026,Michigan,MI,State Senate,30,general,Carol Glanville,Democratic,76081,54.85,True,False
+2026,Michigan,MI,State Senate,30,general,Mark Huizenga,Republican,62625,45.15,False,True
+2026,Michigan,MI,State Senate,31,general,John Wetzel,Republican,82108,57.73,True,False
+2026,Michigan,MI,State Senate,31,general,Chris Kleinjans,Democratic,60109,42.27,False,False
+2026,Michigan,MI,State Senate,32,general,Rebecca Amidon,Democratic,62101,50.59,True,False
+2026,Michigan,MI,State Senate,32,general,Kim Cole,Republican,60646,49.41,False,False
+2026,Michigan,MI,State Senate,33,general,Gina Johnsen,Republican,79983,65.51,True,False
+2026,Michigan,MI,State Senate,33,general,Stan Opan,Democratic,42113,34.49,False,False
+2026,Michigan,MI,State Senate,34,general,Roger Hauck,Republican,74114,63.45,True,True
+2026,Michigan,MI,State Senate,34,general,Tyler Landgraf,Democratic,42694,36.55,False,False
+2026,Michigan,MI,State Senate,35,general,Laurie Atwood,U.s. Taxpayers,1825,1.49,False,False
+2026,Michigan,MI,State Senate,36,general,Michele Hoitenga,Republican,89678,66.08,True,True
+2026,Michigan,MI,State Senate,36,general,Mark Yonkman,Democratic,46042,33.92,False,False
+2026,Michigan,MI,State Senate,37,general,John Damoose,Republican,80130,54.46,True,True
+2026,Michigan,MI,State Senate,37,general,Kate Gallup,Democratic,66994,45.54,False,False
+2026,Michigan,MI,State Senate,38,general,David Prestin,Republican,64453,52.03,True,False
+2026,Michigan,MI,State Senate,38,general,Kelli van Ginhoven,Democratic,48250,38.95,False,False
+2026,Michigan,MI,State Senate,38,general,Sara Cambensy,Independent,11173,9.02,False,False
 2026,Minnesota,MN,State Senate,1,general,Mark Johnson,Republican,,,True,False
 2026,Minnesota,MN,State Senate,1,general,Bjorn Solberg,Democratic-Farmer-Labor,11278.0,31.94,False,False
 2026,Minnesota,MN,State Senate,2,general,Steve Green,Republican,,,True,False
@@ -663,8 +663,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,New York,NY,State Senate,61,special general,Dan R. Gagliardo,New York Republican,12886,30.4,False,False
 2026,North Carolina,NC,State Senate,1,general,Jerry Tillett,Republican,42924,52.07,True,False
 2026,North Carolina,NC,State Senate,1,general,Melissa Zehner,Democratic,39504,47.93,False,False
-2026,North Carolina,NC,State Senate,2,general,Norman Sanderson,Republican,47147,53.78,True,True
-2026,North Carolina,NC,State Senate,2,general,Roy Surrett,Democratic,40520,46.22,False,False
+2026,North Carolina,NC,State Senate,2,general,Norman Sanderson,Republican,47174,53.79,True,True
+2026,North Carolina,NC,State Senate,2,general,Roy Surrett,Democratic,40530,46.21,False,False
 2026,North Carolina,NC,State Senate,3,general,Bob Brinson,Republican,44365,55.01,True,True
 2026,North Carolina,NC,State Senate,3,general,Charles Dudley,Democratic,36279,44.99,False,False
 2026,North Carolina,NC,State Senate,4,general,Jess Rivera,Democratic,37539,51.07,True,False
@@ -1105,36 +1105,36 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,West Virginia,WV,State Senate,17,general,Wes Holden,Democratic,,,False,False
 2026,West Virginia,WV,State Senate,17,special general,Anne Charnock,Republican,12964.0,47.0,False,True
 2026,West Virginia,WV,State Senate,17,special general,Richie Robb,Democratic,14732.0,53.0,False,False
-2026,Wisconsin,WI,State Senate,1,general,Nic Cravillion,Republican,,,True,False
-2026,Wisconsin,WI,State Senate,1,general,Mark Becker,Independent,,,False,False
-2026,Wisconsin,WI,State Senate,3,general,Tim Carpenter,Democratic,,,True,True
-2026,Wisconsin,WI,State Senate,5,general,Mike Roberts,Republican,,,True,False
-2026,Wisconsin,WI,State Senate,5,general,Robyn Vining,Democratic,,,False,False
-2026,Wisconsin,WI,State Senate,7,general,Chris Larson,Democratic,,,True,True
-2026,Wisconsin,WI,State Senate,7,general,Mike Moeller,Republican,,,False,False
-2026,Wisconsin,WI,State Senate,9,general,Amy Binsfeld,Republican,,,True,False
-2026,Wisconsin,WI,State Senate,9,general,Christian Ellis,Independent,,,False,False
-2026,Wisconsin,WI,State Senate,11,general,Ellen Schutt,Republican,,,True,False
-2026,Wisconsin,WI,State Senate,11,general,Adam Duda,Democratic,,,False,False
-2026,Wisconsin,WI,State Senate,13,general,John Jagler,Republican,,,True,True
-2026,Wisconsin,WI,State Senate,13,general,Sasha Ripley,Democratic,,,False,False
-2026,Wisconsin,WI,State Senate,15,general,Mark Spreitzer,Democratic,,,True,True
-2026,Wisconsin,WI,State Senate,15,general,Christopher Dean,Independent,,,False,False
-2026,Wisconsin,WI,State Senate,15,general,Scott Fleming,Republican,,,False,False
-2026,Wisconsin,WI,State Senate,17,general,Howard Marklein,Republican,,,True,True
-2026,Wisconsin,WI,State Senate,17,general,Jenna Jacobson,Democratic,,,False,False
-2026,Wisconsin,WI,State Senate,19,general,Rachael Cabral-Guevara,Republican,,,True,True
-2026,Wisconsin,WI,State Senate,19,general,Emily Tseffos,Democratic,,,False,False
-2026,Wisconsin,WI,State Senate,21,general,Jim Croft,Republican,,,True,False
-2026,Wisconsin,WI,State Senate,21,general,Trevor Jung,Democratic,,,False,False
-2026,Wisconsin,WI,State Senate,23,general,Romaine Quinn,Republican,,,True,False
-2026,Wisconsin,WI,State Senate,23,general,Jeff Foster,Democratic,,,False,False
-2026,Wisconsin,WI,State Senate,25,general,Erik Severson,Republican,,,True,False
-2026,Wisconsin,WI,State Senate,25,general,Charly Ray,Democratic,,,False,False
-2026,Wisconsin,WI,State Senate,27,general,Dianne Hesselbein,Democratic,,,True,True
-2026,Wisconsin,WI,State Senate,29,general,Cory Tomczyk,Republican,,,True,True
-2026,Wisconsin,WI,State Senate,29,general,Gillian Battino,Democratic,,,False,False
-2026,Wisconsin,WI,State Senate,31,general,Jeff Smith,Democratic,,,True,True
-2026,Wisconsin,WI,State Senate,31,general,Michele Magadance Skinner,Republican,,,False,False
-2026,Wisconsin,WI,State Senate,33,general,Chris Kapenga,Republican,,,True,True
-2026,Wisconsin,WI,State Senate,33,general,Mike Van Someran,Democratic,,,False,False
+2026,Wisconsin,WI,State Senate,1,general,Nic Cravillion,Republican,49821,57.96,True,False
+2026,Wisconsin,WI,State Senate,1,general,Mark Becker,Independent,36141,42.04,False,False
+2026,Wisconsin,WI,State Senate,3,general,Tim Carpenter,Democratic,27266,98.24,True,True
+2026,Wisconsin,WI,State Senate,5,general,Robyn Vining,Democratic,50107,57.0,True,False
+2026,Wisconsin,WI,State Senate,5,general,Mike Roberts,Republican,37794,43.0,False,False
+2026,Wisconsin,WI,State Senate,7,general,Chris Larson,Democratic,37877,83.53,True,True
+2026,Wisconsin,WI,State Senate,7,general,Mike Moeller,Republican,7424,16.37,False,False
+2026,Wisconsin,WI,State Senate,9,general,Amy Binsfeld,Republican,41378,56.22,True,False
+2026,Wisconsin,WI,State Senate,9,general,Christian Ellis,Independent,32225,43.78,False,False
+2026,Wisconsin,WI,State Senate,11,general,Ellen Schutt,Republican,48761,60.72,True,False
+2026,Wisconsin,WI,State Senate,11,general,Adam Duda,Democratic,31549,39.28,False,False
+2026,Wisconsin,WI,State Senate,13,general,John Jagler,Republican,46762,63.1,True,True
+2026,Wisconsin,WI,State Senate,13,general,Sasha Ripley,Democratic,27349,36.9,False,False
+2026,Wisconsin,WI,State Senate,15,general,Mark Spreitzer,Democratic,41249,57.35,True,True
+2026,Wisconsin,WI,State Senate,15,general,Scott Fleming,Republican,27304,37.96,False,False
+2026,Wisconsin,WI,State Senate,15,general,Christopher Dean,Independent,3368,4.68,False,False
+2026,Wisconsin,WI,State Senate,17,general,Jenna Jacobson,Democratic,43775,53.8,True,False
+2026,Wisconsin,WI,State Senate,17,general,Howard Marklein,Republican,37593,46.2,False,True
+2026,Wisconsin,WI,State Senate,19,general,Rachael Cabral-Guevara,Republican,51175,59.33,True,True
+2026,Wisconsin,WI,State Senate,19,general,Emily Tseffos,Democratic,35081,40.67,False,False
+2026,Wisconsin,WI,State Senate,21,general,Trevor Jung,Democratic,43325,56.66,True,False
+2026,Wisconsin,WI,State Senate,21,general,Jim Croft,Republican,33145,43.34,False,False
+2026,Wisconsin,WI,State Senate,23,general,Romaine Quinn,Republican,48648,65.09,True,False
+2026,Wisconsin,WI,State Senate,23,general,Jeff Foster,Democratic,26087,34.91,False,False
+2026,Wisconsin,WI,State Senate,25,general,Erik Severson,Republican,45820,52.78,True,False
+2026,Wisconsin,WI,State Senate,25,general,Charly Ray,Democratic,40987,47.22,False,False
+2026,Wisconsin,WI,State Senate,27,general,Dianne Hesselbein,Democratic,87902,,True,True
+2026,Wisconsin,WI,State Senate,29,general,Cory Tomczyk,Republican,43989,55.96,True,True
+2026,Wisconsin,WI,State Senate,29,general,Gillian Battino,Democratic,34618,44.04,False,False
+2026,Wisconsin,WI,State Senate,31,general,Jeff Smith,Democratic,48231,58.44,True,True
+2026,Wisconsin,WI,State Senate,31,general,Michele Magadance Skinner,Republican,34302,41.56,False,False
+2026,Wisconsin,WI,State Senate,33,general,Chris Kapenga,Republican,65015,65.89,True,True
+2026,Wisconsin,WI,State Senate,33,general,Mike Van Someren,Democratic,33657,34.11,False,False
