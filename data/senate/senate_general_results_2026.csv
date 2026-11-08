@@ -25,7 +25,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2026,Florida (special),2026 United States Senate special election in Florida,General,Candidate,False,Angie Nixon,Democratic Party (United States),"3,967,674",47.98
 2026,Florida (special),2026 United States Senate special election in Florida,General,Candidate,False,Neil J. Gillespie,Independent,"94,501",1.14
 2026,Florida (special),2026 United States Senate special election in Florida,General,Total,False,,,"8,269,348",100.0
-2026,Georgia,2026 United States Senate election in Georgia,General,Candidate,True,Jon Ossoff,Democratic Party (United States),,
+2026,Georgia,2026 United States Senate election in Georgia,General,Winning,True,Jon Ossoff,Democratic Party (United States),,
 2026,Georgia,2026 United States Senate election in Georgia,General,Candidate,False,Mike Collins,Republican Party (United States),,
 2026,Georgia,2026 United States Senate election in Georgia,General,Total,False,,,,100.0
 2026,Idaho,2026 United States Senate election in Idaho,General,Winning,True,Jim Risch,Republican Party (United States),"317,836",55.6%
@@ -73,7 +73,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2026,Michigan,2026 United States Senate election in Michigan,General,Candidate,False,Douglas P. Marsh,Green Party (United States),"12,549",0.26%
 2026,Michigan,2026 United States Senate election in Michigan,General,Candidate,False,Walter P. Kristy,Natural Law Party (United States),"7,250",0.15%
 2026,Michigan,2026 United States Senate election in Michigan,General,Total,False,,,"4,791,388",100.00%
-2026,Minnesota,2026 United States Senate election in Minnesota,General,Candidate,False,Peggy Flanagan,Minnesota Democratic–Farmer–Labor Party,,
+2026,Minnesota,2026 United States Senate election in Minnesota,General,Winning,False,Peggy Flanagan,Minnesota Democratic–Farmer–Labor Party,,
 2026,Minnesota,2026 United States Senate election in Minnesota,General,Candidate,False,Michele Tafoya,Republican Party (United States),,
 2026,Minnesota,2026 United States Senate election in Minnesota,General,Candidate,False,Marisa Simonetti,Independent politician,,
 2026,Minnesota,2026 United States Senate election in Minnesota,General,Candidate,False,Rebecca Whiting,Libertarian Party (United States),,
@@ -199,11 +199,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2026,Tennessee,2026 United States Senate election in Tennessee,General,Candidate,False,Catherine Whitson,Independent politician,,
 2026,Tennessee,2026 United States Senate election in Tennessee,General,Candidate,False,Andrew Mixon,Independent politician,,
 2026,Tennessee,2026 United States Senate election in Tennessee,General,Total,False,,,,100.0
-2026,Texas,2026 United States Senate election in Texas,General,Winning,False,James Talarico,Democratic Party (United States),"5,445,156",55.06%
-2026,Texas,2026 United States Senate election in Texas,General,Candidate,False,Ken Paxton,Republican Party (United States),"4,249,763",42.97%
-2026,Texas,2026 United States Senate election in Texas,General,Candidate,False,Ted Brown,Libertarian Party (United States),"190,259",1.92%
+2026,Texas,2026 United States Senate election in Texas,General,Winning,False,James Talarico,Democratic Party (United States),"5,446,309",55.06%
+2026,Texas,2026 United States Senate election in Texas,General,Candidate,False,Ken Paxton,Republican Party (United States),"4,250,166",42.97%
+2026,Texas,2026 United States Senate election in Texas,General,Candidate,False,Ted Brown,Libertarian Party (United States),"190,293",1.92%
 2026,Texas,2026 United States Senate election in Texas,General,Write-in,False,,,"5,112",0.05%
-2026,Texas,2026 United States Senate election in Texas,General,Total,False,,,"9,890,290",100.0
+2026,Texas,2026 United States Senate election in Texas,General,Total,False,,,"9,891,880",100.0
 2026,Virginia,2026 United States Senate election in Virginia,General,Candidate,True,Mark Warner,Democratic Party (United States),,
 2026,Virginia,2026 United States Senate election in Virginia,General,Candidate,False,Bert Mizusawa,Republican Party (United States),,
 2026,Virginia,2026 United States Senate election in Virginia,General,Write-in,False,,,,

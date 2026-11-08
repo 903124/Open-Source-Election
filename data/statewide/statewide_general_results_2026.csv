@@ -19,11 +19,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Candidate,Kris Mayes,Democratic,,,False,True
 2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Candidate,Warren Petersen,Republican,,,False,False
 2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Total,,,,100.0,False,False
-2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Winning,Adrian Fontes,Democratic,1208480,54.77,True,True
-2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Candidate,Alexander Kolodin,Republican,965760,43.77,False,False
-2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Candidate,Duwayne Collier,Green,31143,1.41,False,False
-2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Write-in,,,1054,0.05,False,False
-2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Total,,,2206437,100.0,False,False
+2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Winning,Adrian Fontes,Democratic,1382155,54.85,True,True
+2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Candidate,Alexander Kolodin,Republican,1098857,43.61,False,False
+2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Candidate,Duwayne Collier,Green,37639,1.49,False,False
+2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Write-in,,,1283,0.05,False,False
+2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Total,,,2519934,100.0,False,False
 2026,Arizona,AZ,state treasurer,2026 Arizona State Treasurer election,Winning,Nick Mansour,Democratic,1170020,53.64,True,False
 2026,Arizona,AZ,state treasurer,2026 Arizona State Treasurer election,Candidate,Elijah Norton,Republican,1009322,46.27,False,False
 2026,Arizona,AZ,state treasurer,2026 Arizona State Treasurer election,Write-in,,,1839,0.09,False,False
@@ -51,12 +51,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Candidate,Jena Griswold,Democratic,,,False,False
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Candidate,Michael J. Allen,Republican,,,False,False
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Total,,,,100.0,False,False
-2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Amanda Gonzalez,Democratic,,,False,False
-2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,James Wiley,Republican,,,False,False
-2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Amanda Campbell,American Constitution Party (colorado),,,False,False
-2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Celeste Landry,Forward,,,False,False
-2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Sean Vadney,Libertarian,,,False,False
-2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Total,,,,100.0,False,False
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Amanda Gonzalez,Democratic,1571973,60.1,False,False
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,James Wiley,Republican,963863,36.8,False,False
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Amanda Campbell,American Constitution Party (colorado),21212,0.8,False,False
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Celeste Landry,Forward,17423,0.7,False,False
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Sean Vadney,Libertarian,41571,1.6,False,False
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Total,,,2616042,100.0,False,False
 2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Jeff Bridges,Democratic,,,False,False
 2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Kevin Grantham,Republican,,,False,False
 2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Jodie Barr,Libertarian,,,False,False
@@ -125,23 +125,23 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Candidate,Kwame Raoul,Democratic,,,False,True
 2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Candidate,Bob Fioretti,Republican,,,False,False
 2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Total,,,,100.0,False,False
-2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Candidate,Alexi Giannoulias,Democratic,,,False,True
+2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Winning,Alexi Giannoulias,Democratic,,,True,True
 2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Candidate,Diane M. Harris,Republican,,,False,False
 2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Total,,,,100.0,False,False
 2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Candidate,Mike Frerichs,Democratic,,,False,True
 2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Candidate,Max Solomon,Republican,,,False,False
 2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Total,,,,100.0,False,False
-2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,JB Pritzker,Democratic,,,False,True
-2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Darren Bailey,Republican,,,False,False
-2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Collin Corbett,Independent,,,False,False
-2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Total,,,,100.0,False,False
+2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,JB Pritzker,Democratic,2458101,60.1,False,True
+2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Darren Bailey,Republican,1495629,36.6,False,False
+2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Collin Corbett,Independent,137448,3.4,False,False
+2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Total,,,4091178,100.0,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Winning,Beau Bayh,Democratic,1007084.0,51.8,True,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Max Engling,Republican,828024.0,42.6,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Greg Ballard,Lincoln,70024.0,3.6,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Lauri Shillings,Libertarian,38619.0,2.0,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Total,,,,100.0,False,False
-2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Candidate,Daniel Elliott,Republican,,,False,True
-2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Candidate,Coumba Kebe,Democratic,,,False,False
+2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Candidate,Daniel Elliott,Republican,979897.0,51.0,False,True
+2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Candidate,Coumba Kebe,Democratic,940964.0,49.0,False,False
 2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Total,,,,100.0,False,False
 2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Winning,Nathan Willems,Democratic,681107.0,50.9,True,False
 2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Candidate,Brenna Bird,Republican,657405.0,49.1,False,True
@@ -167,18 +167,18 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Candidate,Juan Luengo,Democratic,478668,44.3,False,False
 2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Candidate,Eric Lund,Libertarian,49017,4.5,False,False
 2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Total,,,1081368,100.0,False,False
-2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Winning,Cindy Holscher,Democratic,,,True,False
+2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Cindy Holscher,Democratic,,,False,False
 2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Ty Masterson,Republican,,,False,False
 2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Total,,,,100.0,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Winning,Anthony Brown,Democratic,,,True,True
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,James B. Rutledge III,Republican,,,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Total,,,,100.0,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1163909,62.55,True,True
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,617114,33.17,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,38315,2.06,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,36597,1.97,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,4751,0.26,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,1860686,100.0,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1306941,63.88,True,True
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,651406,31.84,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,42642,2.06,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,39538,1.97,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5319,0.26,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2045846,100.0,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Andrea Campbell,Democratic,,,False,True
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Michael Walsh,Republican,,,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Total,,,,100.0,False,False
@@ -244,7 +244,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Nevada,NV,secretary of state,2026 Nevada Secretary of State election,Candidate,Brad Lee Barnhill,American,,,False,False
 2026,Nevada,NV,secretary of state,2026 Nevada Secretary of State election,Candidate,John T. Kennedy,Libertarian,,,False,False
 2026,Nevada,NV,secretary of state,2026 Nevada Secretary of State election,Total,,,,100.0,False,False
-2026,Nevada,NV,state treasurer,2026 Nevada State Treasurer election,Candidate,Tya Mathis-Coleman,Democratic,,,False,False
+2026,Nevada,NV,state treasurer,2026 Nevada State Treasurer election,Winning,Tya Mathis-Coleman,Democratic,,,True,False
 2026,Nevada,NV,state treasurer,2026 Nevada State Treasurer election,Candidate,Drew Johnson,Republican,,,False,False
 2026,Nevada,NV,state treasurer,2026 Nevada State Treasurer election,Total,,,,100.0,False,False
 2026,Nevada,NV,governor,2026 Nevada gubernatorial election,Winning,Aaron Ford,Democratic,,,True,False
@@ -308,8 +308,8 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Candidate,James Diossa,Democratic,,,False,True
 2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Candidate,Micholas A. Credle,Republican,,,False,False
 2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Total,,,,100.0,False,False
-2026,Rhode Island,RI,secretary of state,2026 Rhode Island Secretary of State election,Candidate,Gregg Amore,Democratic,,,False,True
-2026,Rhode Island,RI,secretary of state,2026 Rhode Island Secretary of State election,Total,,,,100.0,False,False
+2026,Rhode Island,RI,secretary of state,2026 Rhode Island Secretary of State election,Winning,Gregg Amore,Democratic,275149,100.0,True,True
+2026,Rhode Island,RI,secretary of state,2026 Rhode Island Secretary of State election,Total,,,275149,100.0,False,False
 2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Helena Buonanno Foulkes,Democratic,,,False,False
 2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Aaron C. Guckian,Republican,,,False,False
 2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Kenneth Block,Independent,,,False,False
@@ -320,12 +320,14 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Candidate,Richard Hricik,Democratic,963645,47.63,False,False
 2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Write-in,,,1132,0.06,False,False
 2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Total,,,2023302,100.0,False,False
-2026,South Carolina,SC,secretary of state,2026 South Carolina Secretary of State election,Candidate,Mark Hammond,Republican,,,False,True
-2026,South Carolina,SC,secretary of state,2026 South Carolina Secretary of State election,Candidate,Jason Belton,Democratic,,,False,False
-2026,South Carolina,SC,secretary of state,2026 South Carolina Secretary of State election,Total,,,,100.0,False,False
-2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Candidate,Curtis Loftis,Republican,,,False,True
-2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Candidate,Vincent Coe,Democratic,,,False,False
-2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Total,,,,100.0,False,False
+2026,South Carolina,SC,secretary of state,2026 South Carolina Secretary of State election,Candidate,Mark Hammond,Republican,1073652,52.97,False,True
+2026,South Carolina,SC,secretary of state,2026 South Carolina Secretary of State election,Candidate,Jason Belton,Democratic,952186,46.98,False,False
+2026,South Carolina,SC,secretary of state,2026 South Carolina Secretary of State election,Write-in,,,961,0.05,False,False
+2026,South Carolina,SC,secretary of state,2026 South Carolina Secretary of State election,Total,,,2026799,100.0,False,False
+2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Candidate,Curtis Loftis,Republican,1062666,52.52,False,True
+2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Candidate,Vincent Coe,Democratic,959539,47.42,False,False
+2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Write-in,,,1107,0.05,False,False
+2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Total,,,2023312,100.0,False,False
 2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Candidate,Alan Wilson,Republican,1051010.0,51.58,False,False
 2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Candidate,Jermaine Johnson,Democratic,960269.0,47.13,False,False
 2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Candidate,Walid Hakim,Green,9077.0,0.45,False,False

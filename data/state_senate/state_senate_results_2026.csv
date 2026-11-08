@@ -75,76 +75,76 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Arkansas,AR,State Senate,35,general,Tyler Dees,Republican,,,True,True
 2026,Colorado,CO,State Senate,1,general,Byron Pelton,Republican,,,True,True
 2026,Colorado,CO,State Senate,1,general,Jamie Jeffery,Democratic,,,False,False
-2026,Connecticut,CT,State Senate,1,general,John Fonfara,Democratic,14257.0,90.84,True,True
-2026,Connecticut,CT,State Senate,1,general,Luis Delgado,Green,1438.0,9.16,False,False
-2026,Connecticut,CT,State Senate,2,general,Maryam Khan,Democratic,23804.0,84.69,True,False
-2026,Connecticut,CT,State Senate,2,general,Tim Knotts,Republican,4303.0,15.31,False,False
-2026,Connecticut,CT,State Senate,3,general,Saud Anwar,Democratic,21746.0,67.05,True,True
-2026,Connecticut,CT,State Senate,3,general,Elliot Hughes,Republican,10684.0,32.94,False,False
-2026,Connecticut,CT,State Senate,4,general,MD Rahman,Democratic,26329.0,65.9,True,True
-2026,Connecticut,CT,State Senate,4,general,Jenn Jennings,Republican,13621.0,34.1,False,False
-2026,Connecticut,CT,State Senate,5,general,Derek Slap,Democratic,33092.0,100.0,True,True
-2026,Connecticut,CT,State Senate,6,general,Rick Lopes,Democratic,15899.0,63.85,True,True
-2026,Connecticut,CT,State Senate,6,general,Tremell Collins,Republican,9001.0,36.15,False,False
-2026,Connecticut,CT,State Senate,7,general,David Kiner,Democratic,22113.0,55.43,True,False
-2026,Connecticut,CT,State Senate,7,general,John Kissel,Republican,17579.0,44.57,False,True
-2026,Connecticut,CT,State Senate,8,general,Paul Honig,Democratic,26937.0,60.06,True,True
-2026,Connecticut,CT,State Senate,8,general,Mike Criss,Republican,17916.0,39.94,False,False
-2026,Connecticut,CT,State Senate,9,general,Matt Lesser,Democratic,24169.0,64.38,True,True
-2026,Connecticut,CT,State Senate,9,general,Grant Polomsky,Republican,12539.0,33.4,False,False
-2026,Connecticut,CT,State Senate,9,general,Gwen Samuel,Independent,834.0,2.22,False,False
-2026,Connecticut,CT,State Senate,10,general,Gary Winfield,Democratic,16232.0,100.0,True,True
-2026,Connecticut,CT,State Senate,11,general,Al Paolillo,Democratic,18760.0,89.72,True,False
-2026,Connecticut,CT,State Senate,11,general,Rosa Pepper-Macias,Workers' Voice,2149.0,10.28,False,False
-2026,Connecticut,CT,State Senate,12,general,Christine Cohen,Democratic,28994.0,60.84,True,True
-2026,Connecticut,CT,State Senate,12,general,Lisa Deane,Republican,18662.0,39.16,False,False
-2026,Connecticut,CT,State Senate,13,general,Jack Fazzino,Democratic,22019.0,86.72,True,False
-2026,Connecticut,CT,State Senate,13,general,Lamar Terrell,Independent,3371.0,13.28,False,False
-2026,Connecticut,CT,State Senate,14,general,James Maroney,Democratic,24037.0,57.99,True,True
-2026,Connecticut,CT,State Senate,14,general,Owen Weaver,Republican,15452.0,39.13,False,False
-2026,Connecticut,CT,State Senate,15,general,Joan Hartley,Democratic,13988.0,67.43,True,True
-2026,Connecticut,CT,State Senate,15,general,Ruben Rodriguez,Republican,6755.0,32.57,False,False
-2026,Connecticut,CT,State Senate,16,general,Robert Sampson,Republican,20458.0,50.62,True,True
-2026,Connecticut,CT,State Senate,16,general,Jack Perry,Democratic,19952.0,49.37,False,False
-2026,Connecticut,CT,State Senate,17,general,Jorge Cabrera,Democratic,21484.0,62.54,True,True
-2026,Connecticut,CT,State Senate,17,general,John-Paul Dorais,Republican,12869.0,37.46,False,False
-2026,Connecticut,CT,State Senate,18,general,Joe de la Cruz,Democratic,19828.0,52.48,True,False
-2026,Connecticut,CT,State Senate,18,general,Heather Somers,Republican,17951.0,47.52,False,True
-2026,Connecticut,CT,State Senate,19,general,Catherine Osten,Democratic,21605.0,59.72,True,True
-2026,Connecticut,CT,State Senate,19,general,Jason Guidone,Republican,14573.0,40.28,False,False
-2026,Connecticut,CT,State Senate,20,general,Martha Marx,Democratic,23434.0,59.08,True,True
-2026,Connecticut,CT,State Senate,20,general,Lee Elci,Republican,16234.0,40.92,False,False
-2026,Connecticut,CT,State Senate,21,general,Carolann Reid,Democratic,21407.0,50.87,True,False
-2026,Connecticut,CT,State Senate,21,general,Jason Perillo,Republican,20676.0,49.13,False,True
-2026,Connecticut,CT,State Senate,22,general,Sujata Gadkar-Wilcox,Democratic,19344.0,65.36,True,True
-2026,Connecticut,CT,State Senate,22,general,Scott Modlin,Republican,10251.0,34.64,False,False
-2026,Connecticut,CT,State Senate,23,general,Herron Gaston,Democratic,10891.0,93.67,True,True
-2026,Connecticut,CT,State Senate,23,general,Natasha Williams,Movement,736.0,6.33,False,False
-2026,Connecticut,CT,State Senate,24,general,Julie Kushner,Democratic,18257.0,62.54,True,True
-2026,Connecticut,CT,State Senate,24,general,Melissa Lindsey,Republican,10934.0,37.46,False,False
-2026,Connecticut,CT,State Senate,25,general,Bob Duff,Democratic,22764.0,68.05,True,True
-2026,Connecticut,CT,State Senate,25,general,Justin Perry,Republican,10690.0,31.95,False,False
-2026,Connecticut,CT,State Senate,26,general,Samantha Nestor,Democratic,28585.0,65.41,True,False
-2026,Connecticut,CT,State Senate,26,general,Alma Sarelli,Republican,15114.0,34.59,False,False
-2026,Connecticut,CT,State Senate,27,general,Patricia Billie Miller,Democratic,20892.0,100.0,True,True
-2026,Connecticut,CT,State Senate,28,general,Rob Blanchard,Democratic,27855.0,61.02,True,False
-2026,Connecticut,CT,State Senate,28,general,Amybeth Laroche,Republican,17791.0,38.98,False,False
-2026,Connecticut,CT,State Senate,29,general,Mae Flexer,Democratic,18567.0,58.62,True,True
-2026,Connecticut,CT,State Senate,29,general,Christopher Reddy,Republican,13107.0,41.38,False,False
-2026,Connecticut,CT,State Senate,30,general,Aaron Zimmer,Democratic,22820.0,51.63,True,False
-2026,Connecticut,CT,State Senate,30,general,Stephen Harding,Republican,21383.0,48.37,False,True
-2026,Connecticut,CT,State Senate,31,general,Henri Martin,Republican,19578.0,53.68,True,True
-2026,Connecticut,CT,State Senate,31,general,Laurel LaPorte-Grimes,Democratic,16897.0,46.32,False,False
-2026,Connecticut,CT,State Senate,32,general,Eric Berthel,Republican,25632.0,53.18,True,True
-2026,Connecticut,CT,State Senate,32,general,Matt Knickerbocker,Democratic,22570.0,46.82,False,False
-2026,Connecticut,CT,State Senate,33,general,Norman Needleman,Democratic,29260.0,59.39,True,True
-2026,Connecticut,CT,State Senate,33,general,Charles Ferraro,Republican,20006.0,40.61,False,False
-2026,Connecticut,CT,State Senate,34,general,Paul Cicarella,Republican,,,True,True
-2026,Connecticut,CT,State Senate,34,general,Brandi Mandato,Democratic,,,False,False
-2026,Connecticut,CT,State Senate,35,general,Ethan Werstler,Democratic,22719.0,54.08,True,False
-2026,Connecticut,CT,State Senate,35,general,Jeff Gordon,Republican,19294.0,45.92,False,True
-2026,Connecticut,CT,State Senate,36,general,Jill Oberlander,Democratic,22896.0,54.96,True,False
-2026,Connecticut,CT,State Senate,36,general,Joseph Kelly,Republican,18761.0,45.04,False,False
+2026,Connecticut,CT,State Senate,1,general,John Fonfara,Democratic,14257,90.84,True,True
+2026,Connecticut,CT,State Senate,1,general,Luis Delgado,Green,1438,9.16,False,False
+2026,Connecticut,CT,State Senate,2,general,Maryam Khan,Democratic,23804,84.69,True,False
+2026,Connecticut,CT,State Senate,2,general,Tim Knotts,Republican,4303,15.31,False,False
+2026,Connecticut,CT,State Senate,3,general,Saud Anwar,Democratic,21746,67.05,True,True
+2026,Connecticut,CT,State Senate,3,general,Elliot Hughes,Republican,10684,32.94,False,False
+2026,Connecticut,CT,State Senate,4,general,MD Rahman,Democratic,26329,65.9,True,True
+2026,Connecticut,CT,State Senate,4,general,Jenn Jennings,Republican,13621,34.1,False,False
+2026,Connecticut,CT,State Senate,5,general,Derek Slap,Democratic,33092,100.0,True,True
+2026,Connecticut,CT,State Senate,6,general,Rick Lopes,Democratic,15899,63.85,True,True
+2026,Connecticut,CT,State Senate,6,general,Tremell Collins,Republican,9001,36.15,False,False
+2026,Connecticut,CT,State Senate,7,general,David Kiner,Democratic,22113,55.43,True,False
+2026,Connecticut,CT,State Senate,7,general,John Kissel,Republican,17579,44.57,False,True
+2026,Connecticut,CT,State Senate,8,general,Paul Honig,Democratic,26937,60.06,True,True
+2026,Connecticut,CT,State Senate,8,general,Mike Criss,Republican,17916,39.94,False,False
+2026,Connecticut,CT,State Senate,9,general,Matt Lesser,Democratic,24169,64.38,True,True
+2026,Connecticut,CT,State Senate,9,general,Grant Polomsky,Republican,12539,33.4,False,False
+2026,Connecticut,CT,State Senate,9,general,Gwen Samuel,Independent,834,2.22,False,False
+2026,Connecticut,CT,State Senate,10,general,Gary Winfield,Democratic,16232,100.0,True,True
+2026,Connecticut,CT,State Senate,11,general,Al Paolillo,Democratic,18760,89.72,True,False
+2026,Connecticut,CT,State Senate,11,general,Rosa Pepper-Macias,Workers' Voice,2149,10.28,False,False
+2026,Connecticut,CT,State Senate,12,general,Christine Cohen,Democratic,28994,60.84,True,True
+2026,Connecticut,CT,State Senate,12,general,Lisa Deane,Republican,18662,39.16,False,False
+2026,Connecticut,CT,State Senate,13,general,Jack Fazzino,Democratic,22019,86.72,True,False
+2026,Connecticut,CT,State Senate,13,general,Lamar Terrell,Independent,3371,13.28,False,False
+2026,Connecticut,CT,State Senate,14,general,James Maroney,Democratic,24037,57.99,True,True
+2026,Connecticut,CT,State Senate,14,general,Owen Weaver,Republican,15452,39.13,False,False
+2026,Connecticut,CT,State Senate,15,general,Joan Hartley,Democratic,13988,67.43,True,True
+2026,Connecticut,CT,State Senate,15,general,Ruben Rodriguez,Republican,6755,32.57,False,False
+2026,Connecticut,CT,State Senate,16,general,Robert Sampson,Republican,20458,50.62,True,True
+2026,Connecticut,CT,State Senate,16,general,Jack Perry,Democratic,19952,49.37,False,False
+2026,Connecticut,CT,State Senate,17,general,Jorge Cabrera,Democratic,21484,62.54,True,True
+2026,Connecticut,CT,State Senate,17,general,John-Paul Dorais,Republican,12869,37.46,False,False
+2026,Connecticut,CT,State Senate,18,general,Joe de la Cruz,Democratic,19828,52.48,True,False
+2026,Connecticut,CT,State Senate,18,general,Heather Somers,Republican,17951,47.52,False,True
+2026,Connecticut,CT,State Senate,19,general,Catherine Osten,Democratic,21605,59.72,True,True
+2026,Connecticut,CT,State Senate,19,general,Jason Guidone,Republican,14573,40.28,False,False
+2026,Connecticut,CT,State Senate,20,general,Martha Marx,Democratic,23434,59.08,True,True
+2026,Connecticut,CT,State Senate,20,general,Lee Elci,Republican,16234,40.92,False,False
+2026,Connecticut,CT,State Senate,21,general,Carolann Reid,Democratic,21407,50.87,True,False
+2026,Connecticut,CT,State Senate,21,general,Jason Perillo,Republican,20676,49.13,False,True
+2026,Connecticut,CT,State Senate,22,general,Sujata Gadkar-Wilcox,Democratic,19344,65.36,True,True
+2026,Connecticut,CT,State Senate,22,general,Scott Modlin,Republican,10251,34.64,False,False
+2026,Connecticut,CT,State Senate,23,general,Herron Gaston,Democratic,10891,93.67,True,True
+2026,Connecticut,CT,State Senate,23,general,Natasha Williams,Movement,736,6.33,False,False
+2026,Connecticut,CT,State Senate,24,general,Julie Kushner,Democratic,18257,62.54,True,True
+2026,Connecticut,CT,State Senate,24,general,Melissa Lindsey,Republican,10934,37.46,False,False
+2026,Connecticut,CT,State Senate,25,general,Bob Duff,Democratic,22764,68.05,True,True
+2026,Connecticut,CT,State Senate,25,general,Justin Perry,Republican,10690,31.95,False,False
+2026,Connecticut,CT,State Senate,26,general,Samantha Nestor,Democratic,28585,65.41,True,False
+2026,Connecticut,CT,State Senate,26,general,Alma Sarelli,Republican,15114,34.59,False,False
+2026,Connecticut,CT,State Senate,27,general,Patricia Billie Miller,Democratic,20892,100.0,True,True
+2026,Connecticut,CT,State Senate,28,general,Rob Blanchard,Democratic,27855,61.02,True,False
+2026,Connecticut,CT,State Senate,28,general,Amybeth Laroche,Republican,17791,38.98,False,False
+2026,Connecticut,CT,State Senate,29,general,Mae Flexer,Democratic,18567,58.62,True,True
+2026,Connecticut,CT,State Senate,29,general,Christopher Reddy,Republican,13107,41.38,False,False
+2026,Connecticut,CT,State Senate,30,general,Aaron Zimmer,Democratic,22820,51.63,True,False
+2026,Connecticut,CT,State Senate,30,general,Stephen Harding,Republican,21383,48.37,False,True
+2026,Connecticut,CT,State Senate,31,general,Henri Martin,Republican,19578,53.68,True,True
+2026,Connecticut,CT,State Senate,31,general,Laurel LaPorte-Grimes,Democratic,16897,46.32,False,False
+2026,Connecticut,CT,State Senate,32,general,Eric Berthel,Republican,25632,53.18,True,True
+2026,Connecticut,CT,State Senate,32,general,Matt Knickerbocker,Democratic,22570,46.82,False,False
+2026,Connecticut,CT,State Senate,33,general,Norman Needleman,Democratic,29260,59.39,True,True
+2026,Connecticut,CT,State Senate,33,general,Charles Ferraro,Republican,20006,40.61,False,False
+2026,Connecticut,CT,State Senate,34,general,Brand Mandato,Democratic,19203,50.3,True,False
+2026,Connecticut,CT,State Senate,34,general,Paul Cicarella,Republican,18974,49.7,False,True
+2026,Connecticut,CT,State Senate,35,general,Ethan Werstler,Democratic,22719,54.08,True,False
+2026,Connecticut,CT,State Senate,35,general,Jeff Gordon,Republican,19294,45.92,False,True
+2026,Connecticut,CT,State Senate,36,general,Jill Oberlander,Democratic,22896,54.96,True,False
+2026,Connecticut,CT,State Senate,36,general,Joseph Kelly,Republican,18761,45.04,False,False
 2026,Florida,FL,State Senate,11,special general,Ralph Massullo,Republican,49088.0,59.22,True,False
 2026,Florida,FL,State Senate,11,special general,Ash Marwah,Democratic,33803.0,40.78,False,False
 2026,Florida,FL,State Senate,14,special general,Brian Nathan,Democratic,40212.0,50.25,True,False
@@ -240,8 +240,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Illinois,IL,State Senate,57,general,Daniel Rhyne,Republican,,,False,False
 2026,Illinois,IL,State Senate,59,general,Paul Jacobs,Republican,,,True,False
 2026,Illinois,IL,State Senate,59,general,"Tamiko ""T.C."" Mueller",Democratic,,,False,False
-2026,Indiana,IN,State Senate,1,general,Scott Houldieson,Democratic,26570.0,57.1,True,False
-2026,Indiana,IN,State Senate,1,general,Trevor De Vries,Republican,19941.0,42.9,False,False
+2026,Indiana,IN,State Senate,1,general,Scott Houldieson,Democratic,26570.0,57.13,True,False
+2026,Indiana,IN,State Senate,1,general,Trevor De Vries,Republican,19941.0,42.87,False,False
 2026,Indiana,IN,State Senate,4,general,Rodney Pol Jr.,Democratic,24169.0,61.0,True,True
 2026,Indiana,IN,State Senate,4,general,Nate Uldricks,Republican,15462.0,39.0,False,False
 2026,Indiana,IN,State Senate,6,general,Jay Starkey,Republican,25497.0,56.6,True,False
