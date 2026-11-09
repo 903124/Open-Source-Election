@@ -64,10 +64,14 @@ API calls whenever ``include_votes`` is also on — the same per-state fetches
 are mined; ``include_polling`` alone triggers the per-state fetch.
 
 Polling columns (same schema as the Senate/statewide polling families,
-plus ``District``):
-    Year, State, State_Code, District, Primary_Type, Poll_Source, Date,
-    Date_Start, Date_End, Sample, MoE, Candidate, Party, Pct, Incumbent,
-    Date_Original
+plus ``District`` and a ``Poll_Type`` label):
+    Year, State, State_Code, District, Primary_Type, Poll_Type,
+    Poll_Source, Date, Date_Start, Date_End, Sample, MoE, Candidate,
+    Party, Pct, Incumbent, Date_Original
+
+``Poll_Type`` separates ordinary polling ('Primary' / 'General') from the
+hypothetical trial-heat matchups the state pages park in
+``{{hidden begin|title=Hypothetical polling}}`` blocks ('Hypothetical').
 
     house_primary_polling_{year}.csv   per-district primary polling
                                        (long format, one row per poll per
@@ -78,6 +82,12 @@ plus ``District``):
     house_general_polling_{year}.csv   per-district general polling
                                        (long format)
     house_general_polling_all.csv
+    house_seat_polling_{year}.csv      EVERY house seat poll harvested from
+                                       the per-state race articles —
+                                       primary + general + hypothetical in
+                                       one labelled frame (the two families
+                                       above plus ``Poll_Type``)
+    house_seat_polling_all.csv
 
 Polling is best-effort by design ("if it exists"): districts whose state
 article publishes no ``Polling`` section simply contribute no rows, and a
@@ -115,9 +125,12 @@ from statewide_elections import (
 # Senate parsers already handle.  senate_elections has no house dependency,
 # so this import cannot be circular.
 from senate_elections import (
+    iter_hypothetical_polling_spans,
     iter_polling_spans,
     normalize_polling_date_columns,
+    parse_hypothetical_tables,
     parse_polling_table_universal,
+    parse_polling_tables_classified,
     wide_to_long_polls,
 )
 
@@ -1290,12 +1303,21 @@ def _attach_vote_counts(
 # ──────────────────────────────────────────────
 
 #: Standardised polling schema — the Senate/statewide polling families plus
-#: ``District``, the column that makes these rows district-level.
+#: ``District``, the column that makes these rows district-level, and
+#: ``Poll_Type`` ('Primary' / 'General' / 'Hypothetical'), the label that
+#: separates ordinary polling from the hypothetical matchup blocks the
+#: state pages embed inside their Polling sections.
 HOUSE_POLLING_COLUMNS = [
-    "Year", "State", "State_Code", "District", "Primary_Type",
+    "Year", "State", "State_Code", "District", "Primary_Type", "Poll_Type",
     "Poll_Source", "Date", "Date_Start", "Date_End", "Sample", "MoE",
     "Candidate", "Party", "Pct", "Incumbent", "Date_Original",
 ]
+
+#: The seven single-seat jurisdictions: any district-less polling table in
+#: their race articles can only be that seat, even when the results parse
+#: contributes no rows (Alaska's jungle-primary article layout yields no
+#: overview result rows, yet publishes extensive polls).
+_AT_LARGE_STATES = {"AK", "DE", "ND", "SD", "VT", "WY", "DC"}
 
 #: Level-2 district headings of the per-state race articles:
 #:   '== District 9 ==' / '== District at-large ==' / '== District AL =='.
@@ -1323,15 +1345,22 @@ _LEVEL23_HEADING_RE = re.compile(r"(?m)^(={2,3})\s*([^=\n].*?)\s*\1\s*$")
 
 
 def _heading_anchor_class(name: str) -> Optional[str]:
-    """Classify a section heading as a primary/general anchor, else None."""
+    """Classify a section heading as a primary/general anchor, else None.
+
+    Democratic/Republican anchors are matched by *containment*, not just by
+    prefix: 2026 Alabama nests its polls under 'Nonbinding Republican
+    primary' / 'Special Democratic primary' headings, which a prefix match
+    used to file as general polling.
+    """
     low = name.strip().lower()
-    if low.startswith(("democratic primary", "democratic caucus",
-                       "democratic convention")):
+    if "democratic primary" in low or "democratic caucus" in low or \
+            "democratic convention" in low:
         return "dem"
-    if low.startswith(("republican primary", "republican caucus",
-                       "republican convention")):
+    if "republican primary" in low or "republican caucus" in low or \
+            "republican convention" in low:
         return "rep"
-    if low.startswith(_PRIMARY_ANCHOR_STARTS):
+    if low.startswith(_PRIMARY_ANCHOR_STARTS) or "jungle primary" in low or \
+            "blanket primary" in low:
         return "primary"
     if low.startswith(("general election", "runoff", "general")):
         return "general"
@@ -1424,11 +1453,18 @@ def _parse_polling_segment(
     Parse every polling section inside one segment of a race article.
 
     Polling headings (any level) are located with the Senate pipeline's
-    :func:`iter_polling_spans`; each scope's tables are parsed with
-    :func:`parse_polling_table_universal` and melted with
+    :func:`iter_polling_spans` — in *wide* mode, so the heading variants the
+    state pages actually use ('Statewide congressional polls', 'Runoff
+    polling', 'Ranked-choice polls') are found alongside plain ``Polling``
+    headings; each scope's tables are parsed with
+    :func:`parse_polling_tables_classified` and melted with
     :func:`wide_to_long_polls`, classified primary vs. general by the
-    level-2/3 heading the polling section sits under.  Unclosed polling
-    tables in the source wikitext are repaired first (see
+    level-2/3 heading the polling section sits under.  Tables inside
+    ``{{hidden begin|title=Hypothetical polling}}`` blocks or under a
+    'Hypothetical polling' heading are labelled ``Poll_Type='Hypothetical'``
+    (and keep the surrounding section's ``Primary_Type``); standalone
+    hypothetical sections no polling heading covers are parsed too.
+    Unclosed polling tables in the source wikitext are repaired first (see
     :func:`_close_unclosed_tables`).
 
     Returns ``(primary_frames, general_frames)`` — long-format DataFrames
@@ -1442,7 +1478,30 @@ def _parse_polling_segment(
 
     primary_frames: List[pd.DataFrame] = []
     general_frames: List[pd.DataFrame] = []
-    for head_start, _head_end, scope_end, _level in iter_polling_spans(segment):
+
+    def _emit(wide: pd.DataFrame, ctx: Optional[Tuple[str, Optional[str]]],
+              poll_type: str) -> None:
+        """Melt one wide frame and file it under its primary/general bucket."""
+        if wide.empty:
+            return
+        long_df = wide_to_long_polls(
+            wide, state_name,
+            ctx[0] if ctx else "General",
+            is_primary=ctx is not None,
+            primary_party=ctx[1] if ctx else None,
+            incumbent_name=incumbent_name,
+            poll_type=poll_type,
+        )
+        if not len(long_df):
+            return
+        if year is not None:
+            long_df.insert(0, "Year", int(year))
+        if district is not None:
+            long_df["District"] = str(district)
+        (primary_frames if ctx else general_frames).append(long_df)
+
+    poll_spans = iter_polling_spans(segment, wide=True)
+    for head_start, _head_end, scope_end, _level in poll_spans:
         ctx = _polling_context(head_start, anchors)
         if ctx is not None:
             # a primary-classified polling section must never swallow
@@ -1456,27 +1515,27 @@ def _parse_polling_segment(
                 if head_start >= scope_end:
                     continue
         scope = _close_unclosed_tables(segment[head_start:scope_end])
-        wide = parse_polling_table_universal(
+        regular_wide, hypo_wide = parse_polling_tables_classified(
             scope, state_name,
             is_primary=ctx is not None,
             primary_party=ctx[1] if ctx else None,
+            wide=True,
         )
-        if wide.empty:
+        _emit(regular_wide, ctx, "Primary" if ctx else "General")
+        _emit(hypo_wide, ctx, "Hypothetical")
+
+    # Standalone hypothetical blocks/sections ('== Hypothetical polling =='
+    # or an unboxed {{hidden begin}} table cluster no Polling heading covers)
+    # are invisible to iter_polling_spans — parse them here.
+    covered = [(hs, se) for hs, _he, se, _lvl in poll_spans]
+    for h_start, h_end in iter_hypothetical_polling_spans(segment):
+        if any(s <= h_start < e for s, e in covered):
             continue
-        long_df = wide_to_long_polls(
-            wide, state_name,
-            ctx[0] if ctx else "General",
-            is_primary=ctx is not None,
-            primary_party=ctx[1] if ctx else None,
-            incumbent_name=incumbent_name,
+        hypo_wide = parse_hypothetical_tables(
+            _close_unclosed_tables(segment[h_start:h_end]), state_name,
         )
-        if not len(long_df):
-            continue
-        if year is not None:
-            long_df.insert(0, "Year", int(year))
-        if district is not None:
-            long_df["District"] = str(district)
-        (primary_frames if ctx else general_frames).append(long_df)
+        _emit(hypo_wide, _polling_context(h_start, anchors), "Hypothetical")
+
     return primary_frames, general_frames
 
 
@@ -1499,7 +1558,8 @@ def _finalize_house_polling(
     df["State_Code"] = state_code
     df = df.drop_duplicates(
         subset=[c for c in ("Year", "State", "District", "Primary_Type",
-                            "Poll_Source", "Date", "Candidate", "Pct")
+                            "Poll_Type", "Poll_Source", "Date", "Candidate",
+                            "Pct")
                 if c in df.columns],
         keep="first",
     ).reset_index(drop=True)
@@ -1526,6 +1586,12 @@ def parse_state_article_polling(
       Representatives elections in {State}'): the article is split at its
       ``== District N ==`` level-2 headings and each district segment is
       parsed separately, so every polling row is tagged with its district.
+      The preamble before the first district heading — home of the
+      '== Statewide polling == → === Statewide congressional polls ==='
+      sections about a state's delegation (California, Texas, New York,
+      Florida, ...) — is parsed too: single-district states get those rows
+      attributed to their seat, multi-district states carry them with an
+      empty ``District`` (delegation-level generic ballots).
     * **Special / at-large race articles** ('{year} {State}'s Nth
       congressional district special election', '... election in Alaska'):
       no district headings — the whole article is one segment attributed to
@@ -1533,10 +1599,10 @@ def parse_state_article_polling(
       for specials).
 
     Sections whose heading matches no ``District`` pattern and that carry
-    polling nonetheless (rare state-level summary polling) are attributed
-    to *default_district* when the state elects a single representative,
-    otherwise skipped — a state-wide table without a district column cannot
-    be split into districts reliably.
+    polling nonetheless (the state-level delegation polls) are attributed to
+    *default_district* when the state elects a single representative and
+    carried with an empty ``District`` otherwise — a state-wide generic
+    ballot names no seat, but the rows still belong in the seat-poll file.
 
     Returns ``(primary_polling, general_polling)`` in the standard House
     polling schema (``HOUSE_POLLING_COLUMNS``), ISO-normalised dates.
@@ -1558,18 +1624,24 @@ def parse_state_article_polling(
     # a mixed 'District at-large' heading only appears in single-seat states
     if district_marks:
         segments: List[Tuple[Optional[str], int, int]] = []
+        # preamble before the first district heading: state-level polling
+        # ('== Statewide polling ==' → '=== Statewide congressional polls ==')
+        # — attributed to the seat in single-district states, carried with an
+        # empty District elsewhere
+        first_start = district_marks[0][0]
+        if first_start > 0:
+            pre_district = (
+                default_district
+                if default_district is not None and len(district_marks) == 1
+                else None
+            )
+            segments.append((pre_district, 0, first_start))
         for i, (_s, head_end, code) in enumerate(district_marks):
             seg_end = (
                 district_marks[i + 1][0]
                 if i + 1 < len(district_marks) else len(text)
             )
             segments.append((code, head_end, seg_end))
-        # preamble before the first district heading: no district context —
-        # only meaningful for single-district states
-        first_start = district_marks[0][0]
-        if first_start > 0 and default_district is not None and \
-                len(district_marks) == 1:
-            segments.append((default_district, 0, first_start))
     else:
         segments = [(default_district, 0, len(text))]
 
@@ -1584,6 +1656,45 @@ def parse_state_article_polling(
         _finalize_house_polling(primary_frames, state_name, state_code),
         _finalize_house_polling(general_frames, state_name, state_code),
     )
+
+
+def _rebuild_house_results_all(house_dir: str) -> Optional[pd.DataFrame]:
+    """
+    Rebuild ``house_results_all.csv`` from every per-year results file on
+    disk.
+
+    Per-year files are the source of truth — the same convention as the
+    polling families and the Senate/statewide pipelines: a run that
+    processes only the current cycle (e.g. ``--start-year 2026
+    --end-year 2026``) must never overwrite the combined CSV with just its
+    own rows.
+    """
+    import glob
+    import os
+
+    parts: List[pd.DataFrame] = []
+    for path in sorted(glob.glob(os.path.join(house_dir, "*_results_*.csv"))):
+        name = os.path.basename(path)
+        if not re.fullmatch(r"\w+_results_(\d{4})\.csv", name):
+            continue          # skip the _all file itself
+        try:
+            df_year = pd.read_csv(path, dtype=str, keep_default_na=False,
+                                  na_values=[""])
+        except Exception:
+            logger.warning("Could not read %s for the combined file — skipping", path)
+            continue
+        if len(df_year):
+            parts.append(df_year)
+    if not parts:
+        return None
+    combined = pd.concat(parts, ignore_index=True)
+    if "year" in combined.columns:
+        combined = combined.sort_values(
+            ["year"] + [c for c in ("state", "district", "candidate")
+                        if c in combined.columns],
+            kind="stable",
+        ).reset_index(drop=True)
+    return combined
 
 
 def _rebuild_house_polling_all(house_dir: str, family: str) -> Optional[pd.DataFrame]:
@@ -1707,7 +1818,15 @@ def run(
     poll_frames: Dict[str, Dict[int, List[pd.DataFrame]]] = {
         "primary_polling": {},
         "general_polling": {},
+        "seat_polling": {},
     }
+
+    def _register_seat_polling(year: int,
+                               p_frames: List[pd.DataFrame],
+                               g_frames: List[pd.DataFrame]) -> None:
+        """Mirror the primary+general frames into the combined seat family."""
+        if p_frames or g_frames:
+            poll_frames["seat_polling"][year] = list(p_frames) + list(g_frames)
 
     def _save(df: pd.DataFrame, name: str) -> None:
         if df.empty:
@@ -1784,7 +1903,9 @@ def run(
                         continue
                     districts = state_districts.get(state_code, [])
                     default_district = (
-                        districts[0] if len(districts) == 1 else None
+                        districts[0] if len(districts) == 1
+                        else "AL" if state_code in _AT_LARGE_STATES
+                        else None
                     )
                     p, g = parse_state_article_polling(
                         state_text, year,
@@ -1803,6 +1924,7 @@ def run(
                     poll_frames["general_polling"][year] = g_frames
                     logger.info("     %s general polling rows (district-level)",
                                 f"{sum(len(f) for f in g_frames):,}")
+                _register_seat_polling(year, p_frames, g_frames)
             if not df.empty:
                 df = _cast_vote_columns(df)
                 _save(df, f"{out_prefix}_results_{year}.csv")
@@ -1851,15 +1973,20 @@ def run(
                 poll_frames["general_polling"][year] = g_frames
                 logger.info("     %s general polling rows (special races)",
                             f"{sum(len(f) for f in g_frames):,}")
+            _register_seat_polling(year, p_frames, g_frames)
 
     if all_frames:
-        combined = _cast_vote_columns(pd.concat(all_frames, ignore_index=True))
+        combined = _rebuild_house_results_all(house_dir)
+        if combined is None:
+            combined = _cast_vote_columns(pd.concat(all_frames, ignore_index=True))
         combined_path = os.path.join(house_dir, f"{out_prefix}_results_all.csv")
         combined.to_csv(combined_path, index=False)
-        logger.info("Combined -> %s (%s rows)", combined_path, f"{len(combined):,}")
+        logger.info("Combined -> %s (%s rows, rebuilt from per-year files)",
+                    combined_path, f"{len(combined):,}")
 
     _save_polling_family("primary_polling")
     _save_polling_family("general_polling")
+    _save_polling_family("seat_polling")
 
     if all_frames:
         return pd.concat(all_frames, ignore_index=True)

@@ -104,7 +104,7 @@ from __future__ import annotations
 import logging
 import os
 import re
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Tuple
 
 import pandas as pd
 
@@ -116,9 +116,12 @@ import pandas as pd
 # dependency, so this import cannot be circular.
 from senate_elections import (
     extract_infobox_incumbent,
+    iter_hypothetical_polling_spans,
     iter_polling_spans,
     normalize_polling_date_columns,
+    parse_hypothetical_tables,
     parse_polling_table_universal,
+    parse_polling_tables_classified,
     wide_to_long_polls,
 )
 from wiki_utils import (
@@ -297,6 +300,12 @@ def _section(text: str, heading: str, level: int = 2) -> str:
 
 def _wikitables(section_text: str) -> List[str]:
     """Split a wikitext chunk into individual {| ... |} tables (outermost)."""
+    return [t for _s, t in _wikitables_with_pos(section_text)]
+
+
+def _wikitables_with_pos(section_text: str) -> List[Tuple[int, str]]:
+    """:func:`_wikitables` with offsets — ``(start, table)`` pairs, so callers
+    can tell which tables sit inside hypothetical-polling spans."""
     tables, depth, start, i = [], 0, None, 0
     while i < len(section_text):
         if section_text.startswith("{|", i):
@@ -307,7 +316,7 @@ def _wikitables(section_text: str) -> List[str]:
         elif section_text.startswith("|}", i):
             depth -= 1
             if depth == 0 and start is not None:
-                tables.append(section_text[start:i + 2])
+                tables.append((start, section_text[start:i + 2]))
                 start = None
             i += 2
         else:
@@ -992,6 +1001,12 @@ def parse_race_polling(
     articles put their main polling section at the end, and the Senate
     fallback would mislabel those rows.
 
+    Every row also carries a ``Poll_Type`` label ('Primary' / 'General' /
+    'Hypothetical'): tables inside ``{{hidden begin|title=Hypothetical
+    polling}}`` blocks or under a 'Hypothetical polling' heading are
+    labelled instead of melting into the surrounding bucket, and standalone
+    hypothetical sections no ``Polling`` heading covers are parsed too.
+
     Returns ``(primary_polling, general_polling)`` in the Senate long
     format, augmented with ``Year`` / ``State_Code`` / ``Office`` columns
     and ISO-normalised dates (``Date_Start`` / ``Date_End`` /
@@ -1048,15 +1063,8 @@ def parse_race_polling(
     primary_frames: List[pd.DataFrame] = []
     general_frames: List[pd.DataFrame] = []
 
-    def _parse_scope(scope_text: str, ctx) -> None:
-        """Parse one chunk of wikitext as polling tables, filing the long
-        rows under primary or general according to *ctx*."""
-        wide = parse_polling_table_universal(
-            scope_text,
-            state,
-            is_primary=ctx is not None,
-            primary_party=ctx[1] if ctx else None,
-        )
+    def _emit(wide: pd.DataFrame, ctx, poll_type: Optional[str]) -> None:
+        """Melt one wide frame into long rows and file it under its bucket."""
         if wide.empty:
             return
         long_df = wide_to_long_polls(
@@ -1065,9 +1073,26 @@ def parse_race_polling(
             is_primary=ctx is not None,
             primary_party=ctx[1] if ctx else None,
             incumbent_name=incumbent_name,
+            poll_type=poll_type,
         )
         if len(long_df):
             (primary_frames if ctx else general_frames).append(long_df)
+
+    def _parse_scope(scope_text: str, ctx,
+                     force_poll_type: Optional[str] = None) -> None:
+        """Parse one chunk of wikitext as polling tables.  Tables inside
+        hypothetical blocks/headings are labelled 'Hypothetical'; the rest
+        follow *ctx* ('Primary'/'General') unless *force_poll_type*
+        overrides it (per-table classification in whole-article mode)."""
+        regular_wide, hypo_wide = parse_polling_tables_classified(
+            scope_text,
+            state,
+            is_primary=ctx is not None,
+            primary_party=ctx[1] if ctx else None,
+        )
+        _emit(regular_wide, ctx,
+              force_poll_type or ("Primary" if ctx else "General"))
+        _emit(hypo_wide, ctx, "Hypothetical")
 
     if whole_article:
         # ── dedicated polling article: parse EVERY table, classified by
@@ -1082,10 +1107,20 @@ def parse_race_polling(
         if marks and marks[0][0] > 0:          # preamble before the first heading
             intervals.insert(0, (0, marks[0][0], None))
         for sec_start, sec_end, ctx in intervals:
-            for table in _wikitables(text[sec_start:sec_end]):
-                _parse_scope("\n== Polling ==\n" + table, ctx)
+            chunk = text[sec_start:sec_end]
+            # per-table hypothetical classification: the wrapper's
+            # '{{hidden end}}' sits outside the table itself, so the spans
+            # of the enclosing chunk decide
+            hypo_spans = iter_hypothetical_polling_spans(chunk)
+            for tbl_start, table in _wikitables_with_pos(chunk):
+                is_hypo = any(s <= tbl_start < e for s, e in hypo_spans)
+                _parse_scope(
+                    "\n== Polling ==\n" + table, ctx,
+                    force_poll_type="Hypothetical" if is_hypo else None,
+                )
     else:
-        for head_start, _head_end, scope_end, _level in iter_polling_spans(text):
+        poll_spans = iter_polling_spans(text)
+        for head_start, _head_end, scope_end, _level in poll_spans:
             ctx = _primary_context(head_start)
             if ctx is not None:
                 # a primary-classified polling section must never swallow
@@ -1094,6 +1129,13 @@ def parse_race_polling(
                 if head_start >= scope_end:
                     continue
             _parse_scope(text[head_start:scope_end], ctx)
+        # standalone hypothetical sections no Polling heading covers
+        covered = [(hs, se) for hs, _he, se, _lvl in poll_spans]
+        for h_start, h_end in iter_hypothetical_polling_spans(text):
+            if any(s <= h_start < e for s, e in covered):
+                continue
+            hypo_wide = parse_hypothetical_tables(text[h_start:h_end], state)
+            _emit(hypo_wide, _primary_context(h_start), "Hypothetical")
 
     def _finalize(frames: List[pd.DataFrame]) -> pd.DataFrame:
         if not frames:
@@ -1108,8 +1150,8 @@ def parse_race_polling(
         # a state's governor and AG articles can reprint the same poll — the
         # office column keeps both copies distinguishable, so dedup on it
         df = df.drop_duplicates(
-            subset=["Year", "State", "Office", "Poll_Source", "Date",
-                    "Candidate", "Pct"],
+            subset=["Year", "State", "Office", "Poll_Type", "Poll_Source",
+                    "Date", "Candidate", "Pct"],
             keep="first",
         ).reset_index(drop=True)
         return normalize_polling_date_columns(df)

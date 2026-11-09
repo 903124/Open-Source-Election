@@ -24,6 +24,15 @@ Year column):
     senate_general_results_{year}.csv
     senate_{key}_all.csv                combined across the requested range
 
+Polling rows carry a ``Poll_Type`` label ('Primary' / 'General' /
+'Hypothetical'): hypothetical trial-heat matchups — the tables Wikipedia
+parks in ``{{hidden begin|title=Hypothetical polling}}`` blocks or '===
+Hypothetical polling ===' sections — are flagged instead of melting
+unnoticed into the surrounding primary/general bucket (2026 Georgia's
+'Hypothetical runoff polling' block, 2026 Maine's general-election block,
+...).  Their ``Primary_Type`` keeps the section context ('Republican
+Primary', 'General', ...), ``Poll_Type`` marks the kind.
+
 Usage:
     python cli.py senate --start-year 2018 --end-year 2024
     python senate_elections.py           # direct run, defaults (2018-2024)
@@ -448,6 +457,17 @@ POLLING_HEADING_RE = re.compile(
     re.IGNORECASE | re.MULTILINE,
 )
 
+#: Widened polling-heading match: any heading *ending* in a poll word —
+#: 'Statewide congressional polls', 'Runoff polling', 'Ranked-choice polls',
+#: 'First-past-the-post polls', ... — the variants the House race
+#: articles use alongside plain 'Polling' headings (opt-in via
+#: ``iter_polling_spans(text, wide=True)``; the exact pattern above stays
+#: the default so the Senate/statewide pipelines' discovery is unchanged).
+POLLING_HEADING_WIDE_RE = re.compile(
+    r"^(=+)\s*([^=\n]*?polls?(?:ing)?)\s*\1\s*$",
+    re.IGNORECASE | re.MULTILINE,
+)
+
 #: Any wikitext section heading (used to bound a polling section's scope).
 _ANY_HEADING_RE = re.compile(r"^(=+)\s*[^=\n].*?\1\s*$", re.MULTILINE)
 
@@ -466,7 +486,9 @@ def _scope_end_from(text: str, from_pos: int, level: int) -> int:
     return len(text)
 
 
-def iter_polling_spans(text: str) -> List[Tuple[int, int, int, int]]:
+def iter_polling_spans(
+    text: str, wide: bool = False,
+) -> List[Tuple[int, int, int, int]]:
     """
     Locate every polling section in an article.
 
@@ -475,9 +497,16 @@ def iter_polling_spans(text: str) -> List[Tuple[int, int, int, int]]:
     content stops: the next heading of the same or higher level.  Nested
     polling headings (e.g. ``==== Polling ====`` inside a scope already
     covered) are skipped to keep every table parsed exactly once.
+
+    With ``wide=True`` the heading match is widened to any heading *ending*
+    in a poll word (``POLLING_HEADING_WIDE_RE``) — 'Statewide congressional
+    polls', 'Runoff polling', 'Ranked-choice polls', ... — the variants the
+    House race articles use alongside plain ``Polling`` headings.  The wide
+    pattern subsumes the exact one, so ``wide=True`` never loses a section.
     """
+    pattern = POLLING_HEADING_WIDE_RE if wide else POLLING_HEADING_RE
     spans: List[Tuple[int, int, int, int]] = []
-    for m in POLLING_HEADING_RE.finditer(text):
+    for m in pattern.finditer(text):
         level = len(m.group(1))
         scope_end = _scope_end_from(text, m.end(), level)
         # skip headings nested inside a previous (wider) polling scope
@@ -485,6 +514,248 @@ def iter_polling_spans(text: str) -> List[Tuple[int, int, int, int]]:
             continue
         spans.append((m.start(), m.end(), scope_end, level))
     return spans
+
+
+# ──────────────────────────────────────────────
+# HYPOTHETICAL-POLLING DETECTION (shared)
+# ──────────────────────────────────────────────
+#
+# 2020s race articles park trial-heat matchups ("hypothetical polling") in
+# collapsible ``{{hidden begin|title=Hypothetical polling}}`` blocks or in
+# dedicated ``=== Hypothetical polling ===`` sections nested inside the
+# ordinary Polling section.  The table parsers used to melt those tables
+# into the surrounding primary/general bucket with no way to tell them from
+# polled-out candidates.  The helpers below locate that content so every
+# pipeline can label it ``Poll_Type='Hypothetical'``.
+
+#: any wikitext mention of the marker word inside a template parameter block
+_HYPOTHETICAL_WORD_RE = re.compile(r"hypothetical", re.IGNORECASE)
+#: poll/matchup words that make a 'hypothetical' heading a polling section
+_HYPOTHETICAL_TOPIC_RE = re.compile(
+    r"poll|matchup|survey|scenario|head[-\s]?to[-\s]?head", re.IGNORECASE,
+)
+#: '{{hidden begin|title=Hypothetical polling|...}}' — the collapsible
+#: container Wikipedia uses for hypothetical matchup tables.  Only blocks
+#: whose parameters mention 'hypothetical' are treated as hypothetical:
+#: the same template also wraps endorsement lists and candidate summaries
+#: on the very same articles.
+_HIDDEN_BEGIN_RE = re.compile(r"\{\{\s*hidden\s+begin\b", re.IGNORECASE)
+_HIDDEN_END_RE = re.compile(r"\{\{\s*hidden\s+end\b", re.IGNORECASE)
+#: '=== Hypothetical polling ===' / '==== Hypothetical matchups ====' —
+#: heading form of the same content (2024 presidential state articles)
+_HYPOTHETICAL_HEADING_RE = re.compile(
+    r"(?m)^(=+)\s*([^=\n]*hypothetical[^=\n]*?)\s*\1\s*$", re.IGNORECASE,
+)
+
+
+def _template_end(text: str, start: int) -> int:
+    """
+    Offset just past the ``{{...}}`` template whose opening braces sit at
+    *start* (brace-counted, so nested templates are skipped intact);
+    ``len(text)`` when the template never closes.
+    """
+    depth = 0
+    i = start
+    while i < len(text) - 1:
+        if text.startswith("{{", i):
+            depth += 1
+            i += 2
+        elif text.startswith("}}", i):
+            depth -= 1
+            i += 2
+            if depth == 0:
+                return i
+        else:
+            i += 1
+    return len(text)
+
+
+def _hidden_block_end(text: str, begin_start: int) -> int:
+    """
+    Offset just past the ``{{hidden end}}`` paired with the ``{{hidden
+    begin}}`` whose braces start at *begin_start*.
+
+    The begin template closes with its own ``}}`` before the content, so the
+    scan starts after it and template-nesting is brace-counted: a depth-0
+    ``{{hidden end}}`` terminates the block.  Unclosed blocks (truncated
+    previews, ref-wrapped ends) run to the end of *text* — the right answer
+    for the prefix-based classification in
+    :func:`hypothetical_context_at_end`.
+    """
+    i = _template_end(text, begin_start)      # past the begin template itself
+    depth = 0
+    while i < len(text) - 1:
+        if text.startswith("{{", i):
+            if depth == 0 and _HIDDEN_END_RE.match(text, i):
+                return _template_end(text, i)
+            depth += 1
+            i += 2
+        elif text.startswith("}}", i):
+            depth = max(0, depth - 1)
+            i += 2
+        else:
+            i += 1
+    return len(text)
+
+
+def _is_hypothetical_heading(m: "re.Match[str]") -> bool:
+    """True when a heading match's title names hypothetical polling content."""
+    return bool(_HYPOTHETICAL_TOPIC_RE.search(m.group(2)))
+
+
+def iter_hypothetical_polling_spans(text: str) -> List[Tuple[int, int]]:
+    """
+    Spans of hypothetical (trial-heat) polling content in *text*, in
+    document order, overlapping spans merged:
+
+    * ``{{hidden begin|...Hypothetical...}}`` … ``{{hidden end}}`` blocks
+      ('Hypothetical polling', 'Hypothetical runoff polling', 'Hypothetical
+      polling with other candidates', ...) — an unclosed block runs to the
+      end of *text*;
+    * headings whose title contains 'hypothetical' plus a poll/matchup word
+      ('=== Hypothetical polling ==='), scoped to the next heading of the
+      same or higher level.
+
+    Plain ``{{hidden begin}}`` wrappers (endorsement lists, candidate
+    summaries) and non-polling 'hypothetical' headings never match.
+    """
+    spans: List[Tuple[int, int]] = []
+    for m in _HIDDEN_BEGIN_RE.finditer(text):
+        begin_tpl_end = _template_end(text, m.start())
+        if not _HYPOTHETICAL_WORD_RE.search(text[m.end():begin_tpl_end]):
+            continue                      # plain collapsible wrapper — skip
+        spans.append((m.start(), _hidden_block_end(text, m.start())))
+    for m in _HYPOTHETICAL_HEADING_RE.finditer(text):
+        if not _is_hypothetical_heading(m):
+            continue
+        spans.append((m.start(), _scope_end_from(text, m.end(), len(m.group(1)))))
+    spans.sort()
+    merged: List[Tuple[int, int]] = []
+    for s, e in spans:
+        if merged and s <= merged[-1][1]:
+            merged[-1] = (merged[-1][0], max(merged[-1][1], e))
+        else:
+            merged.append((s, e))
+    return merged
+
+
+def hypothetical_context_at_end(text: str) -> bool:
+    """
+    True when *text* — the wikitext immediately preceding a polling table —
+    ends inside a hypothetical-polling context: an ``{{hidden begin|...
+    Hypothetical...}}`` block that has not closed yet, or a 'Hypothetical
+    polling' heading whose section has not ended yet.
+
+    Used by the presidential pipeline, which classifies each table from the
+    wikitext between its section start and the table itself: the wrapper's
+    ``{{hidden end}}`` sits *after* the table, so an enclosing block always
+    reaches the cut.
+    """
+    end = len(text)
+    for m in _HIDDEN_BEGIN_RE.finditer(text):
+        if not _HYPOTHETICAL_WORD_RE.search(
+            text[m.end(): _template_end(text, m.start())]
+        ):
+            continue
+        if _hidden_block_end(text, m.start()) >= end:
+            return True
+    for m in _HYPOTHETICAL_HEADING_RE.finditer(text):
+        if not _is_hypothetical_heading(m):
+            continue
+        if _scope_end_from(text, m.end(), len(m.group(1))) >= end:
+            return True
+    return False
+
+
+def _extract_tables_with_pos(segment: str) -> List[Tuple[int, str]]:
+    """
+    :func:`_extract_tables` with offsets — ``(start, table_text)`` for every
+    ``{| ... |}`` wikitable inside *segment*, in document order, so callers
+    can tell which tables fall inside hypothetical spans.
+    """
+    tables: List[Tuple[int, str]] = []
+    pos = 0
+    while True:
+        start = segment.find("{|", pos)
+        if start == -1:
+            break
+        end = segment.find("|}", start + 2)
+        if end == -1:
+            break
+        tables.append((start, segment[start: end + 2]))
+        pos = end + 2
+    return tables
+
+
+def parse_polling_tables_classified(
+    section_text: str,
+    state_name: str,
+    is_primary: bool = False,
+    primary_party: Optional[str] = None,
+    wide: bool = False,
+) -> Tuple[pd.DataFrame, pd.DataFrame]:
+    """
+    :func:`parse_polling_table_universal` that also separates hypothetical
+    polling: returns ``(regular_wide, hypothetical_wide)``.
+
+    Tables inside a ``{{hidden begin|title=...Hypothetical...}}`` block or
+    under a 'Hypothetical polling' heading within the polling section's
+    scope go into the second frame; everything else into the first.  Both
+    frames are wide-format, exactly as :func:`_parse_one_polling_table`
+    builds them.  With ``wide=True`` the polling heading is located with the
+    widened pattern (see :func:`iter_polling_spans`), matching the callers
+    that discovered the section with ``wide=True``.
+    """
+    span = (POLLING_HEADING_WIDE_RE if wide else POLLING_HEADING_RE).search(
+        section_text
+    )
+    if span is None:
+        return pd.DataFrame(), pd.DataFrame()
+    scope = section_text[
+        span.end(): _scope_end_from(section_text, span.end(), len(span.group(1)))
+    ]
+    hypo_spans = iter_hypothetical_polling_spans(scope)
+
+    regular: List[pd.DataFrame] = []
+    hypothetical: List[pd.DataFrame] = []
+    for start, table in _extract_tables_with_pos(scope):
+        df = _parse_one_polling_table(table, state_name)
+        if df.empty:
+            continue
+        if any(s <= start < e for s, e in hypo_spans):
+            hypothetical.append(df)
+        else:
+            regular.append(df)
+
+    reg_df = (
+        pd.concat(regular, ignore_index=True) if len(regular) > 1
+        else regular[0] if regular
+        else pd.DataFrame()
+    )
+    hypo_df = (
+        pd.concat(hypothetical, ignore_index=True) if len(hypothetical) > 1
+        else hypothetical[0] if hypothetical
+        else pd.DataFrame()
+    )
+    return reg_df, hypo_df
+
+
+def parse_hypothetical_tables(span_text: str, state_name: str) -> pd.DataFrame:
+    """
+    Parse every wikitable inside a *standalone* hypothetical span (a block
+    or section returned by :func:`iter_hypothetical_polling_spans` that no
+    ``Polling`` heading's scope covers) into a wide-format DataFrame.
+    """
+    frames: List[pd.DataFrame] = []
+    for _start, table in _extract_tables_with_pos(span_text):
+        df = _parse_one_polling_table(table, state_name)
+        if not df.empty:
+            frames.append(df)
+    if not frames:
+        return pd.DataFrame()
+    return (
+        pd.concat(frames, ignore_index=True) if len(frames) > 1 else frames[0]
+    )
 
 
 def _extract_tables(segment: str) -> List[str]:
@@ -782,13 +1053,20 @@ def wide_to_long_polls(
     is_primary: bool = False,
     primary_party: Optional[str] = None,
     incumbent_name: Optional[str] = None,
+    poll_type: Optional[str] = None,
 ) -> pd.DataFrame:
     """
     Melt a wide polling DataFrame into long format with metadata columns.
 
     Long format columns:
-        State, Primary_Type, Poll_Source, Date, Sample, MoE,
+        State, Primary_Type, [Poll_Type,] Poll_Source, Date, Sample, MoE,
         Candidate, Party, Pct, Incumbent
+
+    When *poll_type* is given ('Primary' / 'General' / 'Hypothetical') a
+    ``Poll_Type`` column is emitted after ``Primary_Type`` — the label that
+    separates ordinary polling from trial-heat ('Hypothetical') matchups.
+    Omit it to keep the legacy schema (presidential post-labels its own
+    rows).
 
     ``MoE`` is emitted as a numeric margin of error in percentage points
     (see :func:`_parse_moe_value`): the raw cell text ('± 4.3%') is parsed
@@ -832,6 +1110,8 @@ def wide_to_long_polls(
 
     df_long["State"] = state_name
     df_long["Primary_Type"] = primary_type
+    if poll_type:
+        df_long["Poll_Type"] = poll_type
 
     # Placeholder / junk values seen in real polling tables — treat as missing
     # rather than letting '?' or '± ?' leak into the CSV.
@@ -866,8 +1146,8 @@ def wide_to_long_polls(
                             "Candidate", "Pct") if c in df_long.columns]
     )
 
-    col_order = ["State", "Primary_Type", "Poll_Source", "Date", "Sample",
-                 "MoE", "Candidate", "Party", "Pct", "Incumbent"]
+    col_order = ["State", "Primary_Type", "Poll_Type", "Poll_Source", "Date",
+                 "Sample", "MoE", "Candidate", "Party", "Pct", "Incumbent"]
     return df_long[[c for c in col_order if c in df_long.columns]]
 
 
@@ -1342,24 +1622,62 @@ def parse_election_data_universal(text: str, state_name: str, year: Optional[int
             scope_end = min(scope_end, general_start)
             if head_start >= scope_end:
                 continue
-        wide = parse_polling_table_universal(
+        # hypothetical blocks ('{{hidden begin|title=Hypothetical polling}}',
+        # '=== Hypothetical polling ===') inside the scope are separated and
+        # labelled instead of silently melting into the surrounding bucket
+        regular_wide, hypo_wide = parse_polling_tables_classified(
             text[head_start:scope_end], state_name,
             is_primary=ctx is not None,
             primary_party=ctx[1] if ctx else None,
         )
-        if wide.empty:
+        for wide, poll_type in (
+            (regular_wide, "Primary" if ctx is not None else "General"),
+            (hypo_wide, "Hypothetical"),
+        ):
+            if wide.empty:
+                continue
+            parsed_any_polling = True
+            if ctx is not None:
+                _append_long(wide_to_long_polls(
+                    wide, state_name, ctx[0],
+                    is_primary=True, primary_party=ctx[1],
+                    incumbent_name=incumbent_name,
+                    poll_type=poll_type,
+                ))
+            else:
+                general_long = wide_to_long_polls(
+                    wide, state_name, "General",
+                    is_primary=False, incumbent_name=incumbent_name,
+                    poll_type=poll_type,
+                )
+                results["general_polling"] = pd.concat(
+                    [results["general_polling"], general_long], ignore_index=True
+                ) if len(results["general_polling"]) or len(general_long) else general_long
+
+    # Standalone hypothetical sections ('== Hypothetical polling ==' without
+    # an enclosing Polling heading) are invisible to iter_polling_spans —
+    # parse them here, skipping the ones a polling scope already covered.
+    covered_scopes = [(hs, se) for hs, _he, se, _lvl in poll_spans]
+    for h_start, h_end in iter_hypothetical_polling_spans(text):
+        if any(s <= h_start < e for s, e in covered_scopes):
+            continue
+        hypo_wide = parse_hypothetical_tables(text[h_start:h_end], state_name)
+        if hypo_wide.empty:
             continue
         parsed_any_polling = True
+        ctx = _primary_context(h_start)
         if ctx is not None:
             _append_long(wide_to_long_polls(
-                wide, state_name, ctx[0],
+                hypo_wide, state_name, ctx[0],
                 is_primary=True, primary_party=ctx[1],
                 incumbent_name=incumbent_name,
+                poll_type="Hypothetical",
             ))
         else:
             general_long = wide_to_long_polls(
-                wide, state_name, "General",
+                hypo_wide, state_name, "General",
                 is_primary=False, incumbent_name=incumbent_name,
+                poll_type="Hypothetical",
             )
             results["general_polling"] = pd.concat(
                 [results["general_polling"], general_long], ignore_index=True

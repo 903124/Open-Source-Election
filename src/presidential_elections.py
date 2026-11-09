@@ -119,6 +119,7 @@ from wiki_utils import (
 # reused instead of a second, drifting implementation.  senate_elections has
 # no presidential dependency, so this import cannot be circular.
 from senate_elections import (  # noqa: E402  (module import order is fine)
+    hypothetical_context_at_end,
     iter_polling_spans,
     normalize_polling_date_columns,
     parse_polling_table_universal,
@@ -1025,11 +1026,21 @@ def _matchup_of(context_titles: List[str], pre_text: str) -> str:
     return ""
 
 
-def _classify_poll(table: str, context_titles: List[str], matchup: str) -> str:
+def _classify_poll(table: str, context_titles: List[str], matchup: str,
+                   pre_text: str = "") -> str:
     """'Hypothetical' | 'Aggregate' | 'General' for one polling table."""
     joined = " ".join(context_titles + [matchup]).lower()
     head = table.split("|-", 1)[0].lower()
     if "hypothetical" in joined:
+        return "Hypothetical"
+    # State articles nest hypothetical matchup tables inside plain
+    # '== Polling ==' sections wrapped in '{{hidden begin|title=Hypothetical
+    # polling}}' blocks (or under a '==== Hypothetical polling ====' heading)
+    # — the heading path above carries no marker there.  *pre_text* is the
+    # wikitext between the section start and this table; an enclosing block
+    # always reaches the cut because its '{{hidden end}}' sits after the
+    # table.
+    if pre_text and hypothetical_context_at_end(pre_text):
         return "Hypothetical"
     if "aggregate" in joined or "aggregation" in head:
         return "Aggregate"
@@ -1174,7 +1185,7 @@ def _parse_one_poll(table: str, state_name: str, context_titles: List[str],
         return None
     matchup = _matchup_of(context_titles, pre_text)
     long_df["Matchup"] = matchup
-    long_df["Poll_Type"] = _classify_poll(table, context_titles, matchup)
+    long_df["Poll_Type"] = _classify_poll(table, context_titles, matchup, pre_text)
     return long_df.drop(columns=["Primary_Type"], errors="ignore")
 
 
@@ -1307,6 +1318,42 @@ def collect_presidential_polling(
         state_frames.extend(_state_article_frames(text, state, code))
     state = _finalize_polling(state_frames, year, "State")
     return national, state
+
+
+def _rebuild_results_combined(pres_dir: str) -> Optional[pd.DataFrame]:
+    """Rebuild ``presidential_results_all.csv`` from every per-year results
+    file on disk.
+
+    Per-year files are the source of truth — the same convention as the
+    polling families and the Senate/house/statewide pipelines: a run that
+    processes only one cycle must never overwrite the combined CSV with just
+    its own rows, wiping the multi-decade history.
+    """
+    import glob
+
+    parts: List[pd.DataFrame] = []
+    for path in sorted(glob.glob(os.path.join(pres_dir, "presidential_results_*.csv"))):
+        name = os.path.basename(path)
+        if not re.fullmatch(r"presidential_results_\d{4}\.csv", name):
+            continue          # skip the _all file itself
+        try:
+            df_year = pd.read_csv(path, dtype=str, keep_default_na=False,
+                                  na_values=[""])
+        except Exception:
+            logger.warning("Could not read %s for the combined file — skipping", path)
+            continue
+        if len(df_year):
+            parts.append(df_year)
+    if not parts:
+        return None
+    combined = pd.concat(parts, ignore_index=True)
+    if "year" in combined.columns:
+        combined = combined.sort_values(
+            ["year"] + [c for c in ("state", "county", "candidate")
+                        if c in combined.columns],
+            kind="stable",
+        ).reset_index(drop=True)
+    return combined
 
 
 def _rebuild_polling_combined(pres_dir: str, family: str) -> Optional[pd.DataFrame]:
@@ -1469,11 +1516,13 @@ def run(
         meta["years"][year] = year_meta
 
     combined: Optional[pd.DataFrame] = None
-    if all_frames:
-        combined = pd.concat(all_frames, ignore_index=True)
+    results_combined = _rebuild_results_combined(pres_dir)
+    if results_combined is not None and len(results_combined):
+        combined = results_combined
         path = os.path.join(pres_dir, "presidential_results_all.csv")
         combined.to_csv(path, index=False)
-        logger.info("Combined -> %s (%s rows)", path, f"{len(combined):,}")
+        logger.info("Combined -> %s (%s rows, rebuilt from per-year files)",
+                    path, f"{len(combined):,}")
 
     wrote_polling = False
     if include_polling:
