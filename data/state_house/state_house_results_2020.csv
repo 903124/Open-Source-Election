@@ -4807,7 +4807,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Texas,TX,State House,11,general,Alec Johnson,Democratic,15965.0,24.25,False,False
 2020,Texas,TX,State House,12,general,Kyle Kacal,Republican,49785.0,100.0,True,True
 2020,Texas,TX,State House,13,general,Ben Leman,Republican,72890.0,100.0,True,True
-2020,Texas,TX,State House,14,general,John Raney,Republican,35922.0,57.53,True,True
+2020,Texas,TX,State House,14,general,John N. Raney,Republican,35922.0,57.53,True,True
 2020,Texas,TX,State House,14,general,Janet Dudding,Democratic,26520.0,42.47,False,False
 2020,Texas,TX,State House,15,general,Steve Toth,Republican,71586.0,66.47,True,True
 2020,Texas,TX,State House,15,general,Lorena Perez McGill,Democratic,36111.0,33.53,False,False

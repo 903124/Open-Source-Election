@@ -1564,224 +1564,136 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2008,Hawaii,HI,Maui,County,Other,Other,908,1.75,51789,Democratic
 2008,Idaho,ID,Ada,County,John McCain,Republican,93328,51.63,180760,Republican
 2008,Idaho,ID,Ada,County,Barack Obama,Democratic,82236,45.49,180760,Republican
-2008,Idaho,ID,Ada,County,Ralph Nader,Independent,1978,1.09,180760,Republican
-2008,Idaho,ID,Ada,County,Charles Baldwin,Constitution,777,0.43,180760,Republican
-2008,Idaho,ID,Ada,County,Bob Barr,Libertarian,1083,0.6,180760,Republican
+2008,Idaho,ID,Ada,County,Other,Other,5196,2.88,180760,Republican
 2008,Idaho,ID,Adams,County,John McCain,Republican,1517,65.39,2320,Republican
 2008,Idaho,ID,Adams,County,Barack Obama,Democratic,728,31.38,2320,Republican
-2008,Idaho,ID,Adams,County,Ralph Nader,Independent,36,1.55,2320,Republican
-2008,Idaho,ID,Adams,County,Charles Baldwin,Constitution,20,0.86,2320,Republican
-2008,Idaho,ID,Adams,County,Bob Barr,Libertarian,19,0.82,2320,Republican
+2008,Idaho,ID,Adams,County,Other,Other,75,3.23,2320,Republican
 2008,Idaho,ID,Bannock,County,John McCain,Republican,19356,54.62,35437,Republican
 2008,Idaho,ID,Bannock,County,Barack Obama,Democratic,14792,41.74,35437,Republican
-2008,Idaho,ID,Bannock,County,Ralph Nader,Independent,485,1.37,35437,Republican
-2008,Idaho,ID,Bannock,County,Charles Baldwin,Constitution,257,0.73,35437,Republican
-2008,Idaho,ID,Bannock,County,Bob Barr,Libertarian,215,0.61,35437,Republican
+2008,Idaho,ID,Bannock,County,Other,Other,1289,3.64,35437,Republican
 2008,Idaho,ID,Bear Lake,County,John McCain,Republican,2377,80.77,2943,Republican
 2008,Idaho,ID,Bear Lake,County,Barack Obama,Democratic,502,17.06,2943,Republican
-2008,Idaho,ID,Bear Lake,County,Ralph Nader,Independent,26,0.88,2943,Republican
-2008,Idaho,ID,Bear Lake,County,Charles Baldwin,Constitution,27,0.92,2943,Republican
-2008,Idaho,ID,Bear Lake,County,Bob Barr,Libertarian,11,0.37,2943,Republican
+2008,Idaho,ID,Bear Lake,County,Other,Other,64,2.17,2943,Republican
 2008,Idaho,ID,Benewah,County,John McCain,Republican,2646,63.54,4164,Republican
 2008,Idaho,ID,Benewah,County,Barack Obama,Democratic,1407,33.79,4164,Republican
-2008,Idaho,ID,Benewah,County,Ralph Nader,Independent,48,1.15,4164,Republican
-2008,Idaho,ID,Benewah,County,Charles Baldwin,Constitution,38,0.91,4164,Republican
-2008,Idaho,ID,Benewah,County,Bob Barr,Libertarian,25,0.6,4164,Republican
+2008,Idaho,ID,Benewah,County,Other,Other,111,2.67,4164,Republican
 2008,Idaho,ID,Bingham,County,John McCain,Republican,12230,71.29,17156,Republican
 2008,Idaho,ID,Bingham,County,Barack Obama,Democratic,4424,25.79,17156,Republican
-2008,Idaho,ID,Bingham,County,Ralph Nader,Independent,207,1.21,17156,Republican
-2008,Idaho,ID,Bingham,County,Charles Baldwin,Constitution,203,1.18,17156,Republican
-2008,Idaho,ID,Bingham,County,Bob Barr,Libertarian,91,0.53,17156,Republican
+2008,Idaho,ID,Bingham,County,Other,Other,502,2.92,17156,Republican
 2008,Idaho,ID,Blaine,County,John McCain,Republican,3439,32.53,10573,Democratic
 2008,Idaho,ID,Blaine,County,Barack Obama,Democratic,6947,65.71,10573,Democratic
-2008,Idaho,ID,Blaine,County,Ralph Nader,Independent,106,1.0,10573,Democratic
-2008,Idaho,ID,Blaine,County,Charles Baldwin,Constitution,16,0.15,10573,Democratic
-2008,Idaho,ID,Blaine,County,Bob Barr,Libertarian,63,0.6,10573,Democratic
+2008,Idaho,ID,Blaine,County,Other,Other,187,1.76,10573,Democratic
 2008,Idaho,ID,Boise,County,John McCain,Republican,2433,64.48,3773,Republican
 2008,Idaho,ID,Boise,County,Barack Obama,Democratic,1240,32.87,3773,Republican
-2008,Idaho,ID,Boise,County,Ralph Nader,Independent,48,1.27,3773,Republican
-2008,Idaho,ID,Boise,County,Charles Baldwin,Constitution,25,0.66,3773,Republican
-2008,Idaho,ID,Boise,County,Bob Barr,Libertarian,27,0.72,3773,Republican
+2008,Idaho,ID,Boise,County,Other,Other,100,2.65,3773,Republican
 2008,Idaho,ID,Bonner,County,John McCain,Republican,11145,57.01,19550,Republican
 2008,Idaho,ID,Bonner,County,Barack Obama,Democratic,7840,40.1,19550,Republican
-2008,Idaho,ID,Bonner,County,Ralph Nader,Independent,259,1.32,19550,Republican
-2008,Idaho,ID,Bonner,County,Charles Baldwin,Constitution,195,1.0,19550,Republican
-2008,Idaho,ID,Bonner,County,Bob Barr,Libertarian,108,0.55,19550,Republican
+2008,Idaho,ID,Bonner,County,Other,Other,565,2.89,19550,Republican
 2008,Idaho,ID,Bonneville,County,John McCain,Republican,29334,70.34,41703,Republican
 2008,Idaho,ID,Bonneville,County,Barack Obama,Democratic,11417,27.38,41703,Republican
-2008,Idaho,ID,Bonneville,County,Ralph Nader,Independent,334,0.8,41703,Republican
-2008,Idaho,ID,Bonneville,County,Charles Baldwin,Constitution,362,0.87,41703,Republican
-2008,Idaho,ID,Bonneville,County,Bob Barr,Libertarian,256,0.61,41703,Republican
+2008,Idaho,ID,Bonneville,County,Other,Other,952,2.28,41703,Republican
 2008,Idaho,ID,Boundary,County,John McCain,Republican,3078,65.02,4734,Republican
 2008,Idaho,ID,Boundary,County,Barack Obama,Democratic,1484,31.35,4734,Republican
-2008,Idaho,ID,Boundary,County,Ralph Nader,Independent,67,1.42,4734,Republican
-2008,Idaho,ID,Boundary,County,Charles Baldwin,Constitution,77,1.63,4734,Republican
-2008,Idaho,ID,Boundary,County,Bob Barr,Libertarian,27,0.57,4734,Republican
-2008,Idaho,ID,Butte,County,John McCain,Republican,1056,75.11,1406,Republican
-2008,Idaho,ID,Butte,County,Barack Obama,Democratic,318,22.62,1406,Republican
-2008,Idaho,ID,Butte,County,Ralph Nader,Independent,18,1.28,1406,Republican
-2008,Idaho,ID,Butte,County,Charles Baldwin,Constitution,7,0.5,1406,Republican
-2008,Idaho,ID,Butte,County,Bob Barr,Libertarian,7,0.5,1406,Republican
+2008,Idaho,ID,Boundary,County,Other,Other,172,3.63,4734,Republican
+2008,Idaho,ID,Butte,County,John McCain,Republican,1056,74.89,1406,Republican
+2008,Idaho,ID,Butte,County,Barack Obama,Democratic,318,22.55,1406,Republican
+2008,Idaho,ID,Butte,County,Other,Other,36,2.56,1406,Republican
 2008,Idaho,ID,Camas,County,John McCain,Republican,422,68.28,618,Republican
 2008,Idaho,ID,Camas,County,Barack Obama,Democratic,187,30.26,618,Republican
-2008,Idaho,ID,Camas,County,Ralph Nader,Independent,5,0.81,618,Republican
-2008,Idaho,ID,Camas,County,Charles Baldwin,Constitution,1,0.16,618,Republican
-2008,Idaho,ID,Camas,County,Bob Barr,Libertarian,3,0.49,618,Republican
+2008,Idaho,ID,Camas,County,Other,Other,9,1.46,618,Republican
 2008,Idaho,ID,Canyon,County,John McCain,Republican,42752,66.07,64706,Republican
 2008,Idaho,ID,Canyon,County,Barack Obama,Democratic,20147,31.14,64706,Republican
-2008,Idaho,ID,Canyon,County,Ralph Nader,Independent,639,0.99,64706,Republican
-2008,Idaho,ID,Canyon,County,Charles Baldwin,Constitution,387,0.6,64706,Republican
-2008,Idaho,ID,Canyon,County,Bob Barr,Libertarian,321,0.5,64706,Republican
+2008,Idaho,ID,Canyon,County,Other,Other,1807,2.79,64706,Republican
 2008,Idaho,ID,Caribou,County,John McCain,Republican,2656,80.44,3302,Republican
 2008,Idaho,ID,Caribou,County,Barack Obama,Democratic,553,16.75,3302,Republican
-2008,Idaho,ID,Caribou,County,Ralph Nader,Independent,56,1.7,3302,Republican
-2008,Idaho,ID,Caribou,County,Charles Baldwin,Constitution,23,0.7,3302,Republican
-2008,Idaho,ID,Caribou,County,Bob Barr,Libertarian,14,0.42,3302,Republican
+2008,Idaho,ID,Caribou,County,Other,Other,93,2.81,3302,Republican
 2008,Idaho,ID,Cassia,County,John McCain,Republican,6309,79.93,7893,Republican
 2008,Idaho,ID,Cassia,County,Barack Obama,Democratic,1332,16.88,7893,Republican
-2008,Idaho,ID,Cassia,County,Ralph Nader,Independent,86,1.09,7893,Republican
-2008,Idaho,ID,Cassia,County,Charles Baldwin,Constitution,72,0.91,7893,Republican
-2008,Idaho,ID,Cassia,County,Bob Barr,Libertarian,43,0.54,7893,Republican
+2008,Idaho,ID,Cassia,County,Other,Other,252,3.19,7893,Republican
 2008,Idaho,ID,Clark,County,John McCain,Republican,305,81.33,375,Republican
 2008,Idaho,ID,Clark,County,Barack Obama,Democratic,64,17.07,375,Republican
-2008,Idaho,ID,Clark,County,Ralph Nader,Independent,2,0.53,375,Republican
-2008,Idaho,ID,Clark,County,Charles Baldwin,Constitution,3,0.8,375,Republican
-2008,Idaho,ID,Clark,County,Bob Barr,Libertarian,1,0.27,375,Republican
+2008,Idaho,ID,Clark,County,Other,Other,6,1.6,375,Republican
 2008,Idaho,ID,Clearwater,County,John McCain,Republican,2569,65.77,3906,Republican
 2008,Idaho,ID,Clearwater,County,Barack Obama,Democratic,1211,31.0,3906,Republican
-2008,Idaho,ID,Clearwater,County,Ralph Nader,Independent,60,1.54,3906,Republican
-2008,Idaho,ID,Clearwater,County,Charles Baldwin,Constitution,35,0.9,3906,Republican
-2008,Idaho,ID,Clearwater,County,Bob Barr,Libertarian,31,0.79,3906,Republican
+2008,Idaho,ID,Clearwater,County,Other,Other,126,3.23,3906,Republican
 2008,Idaho,ID,Custer,County,John McCain,Republican,1694,71.99,2353,Republican
 2008,Idaho,ID,Custer,County,Barack Obama,Democratic,611,25.97,2353,Republican
-2008,Idaho,ID,Custer,County,Ralph Nader,Independent,18,0.76,2353,Republican
-2008,Idaho,ID,Custer,County,Charles Baldwin,Constitution,17,0.72,2353,Republican
-2008,Idaho,ID,Custer,County,Bob Barr,Libertarian,12,0.51,2353,Republican
+2008,Idaho,ID,Custer,County,Other,Other,48,2.04,2353,Republican
 2008,Idaho,ID,Elmore,County,John McCain,Republican,5665,66.76,8486,Republican
 2008,Idaho,ID,Elmore,County,Barack Obama,Democratic,2591,30.53,8486,Republican
-2008,Idaho,ID,Elmore,County,Ralph Nader,Independent,110,1.3,8486,Republican
-2008,Idaho,ID,Elmore,County,Charles Baldwin,Constitution,37,0.44,8486,Republican
-2008,Idaho,ID,Elmore,County,Bob Barr,Libertarian,33,0.39,8486,Republican
+2008,Idaho,ID,Elmore,County,Other,Other,230,2.71,8486,Republican
 2008,Idaho,ID,Franklin,County,John McCain,Republican,4246,83.68,5074,Republican
 2008,Idaho,ID,Franklin,County,Barack Obama,Democratic,600,11.82,5074,Republican
-2008,Idaho,ID,Franklin,County,Ralph Nader,Independent,48,0.95,5074,Republican
-2008,Idaho,ID,Franklin,County,Charles Baldwin,Constitution,142,2.8,5074,Republican
-2008,Idaho,ID,Franklin,County,Bob Barr,Libertarian,37,0.73,5074,Republican
+2008,Idaho,ID,Franklin,County,Other,Other,228,4.5,5074,Republican
 2008,Idaho,ID,Fremont,County,John McCain,Republican,4700,79.92,5881,Republican
 2008,Idaho,ID,Fremont,County,Barack Obama,Democratic,1065,18.11,5881,Republican
-2008,Idaho,ID,Fremont,County,Ralph Nader,Independent,46,0.78,5881,Republican
-2008,Idaho,ID,Fremont,County,Charles Baldwin,Constitution,44,0.75,5881,Republican
-2008,Idaho,ID,Fremont,County,Bob Barr,Libertarian,25,0.43,5881,Republican
+2008,Idaho,ID,Fremont,County,Other,Other,116,1.97,5881,Republican
 2008,Idaho,ID,Gem,County,John McCain,Republican,5585,70.27,7948,Republican
 2008,Idaho,ID,Gem,County,Barack Obama,Democratic,2166,27.25,7948,Republican
-2008,Idaho,ID,Gem,County,Ralph Nader,Independent,112,1.41,7948,Republican
-2008,Idaho,ID,Gem,County,Charles Baldwin,Constitution,52,0.65,7948,Republican
-2008,Idaho,ID,Gem,County,Bob Barr,Libertarian,32,0.4,7948,Republican
+2008,Idaho,ID,Gem,County,Other,Other,197,2.48,7948,Republican
 2008,Idaho,ID,Gooding,County,John McCain,Republican,3765,69.84,5391,Republican
 2008,Idaho,ID,Gooding,County,Barack Obama,Democratic,1489,27.62,5391,Republican
-2008,Idaho,ID,Gooding,County,Ralph Nader,Independent,75,1.39,5391,Republican
-2008,Idaho,ID,Gooding,County,Charles Baldwin,Constitution,35,0.65,5391,Republican
-2008,Idaho,ID,Gooding,County,Bob Barr,Libertarian,27,0.5,5391,Republican
+2008,Idaho,ID,Gooding,County,Other,Other,137,2.54,5391,Republican
 2008,Idaho,ID,Idaho,County,John McCain,Republican,5895,71.79,8212,Republican
 2008,Idaho,ID,Idaho,County,Barack Obama,Democratic,2017,24.56,8212,Republican
-2008,Idaho,ID,Idaho,County,Ralph Nader,Independent,77,0.94,8212,Republican
-2008,Idaho,ID,Idaho,County,Charles Baldwin,Constitution,167,2.03,8212,Republican
-2008,Idaho,ID,Idaho,County,Bob Barr,Libertarian,54,0.66,8212,Republican
+2008,Idaho,ID,Idaho,County,Other,Other,300,3.65,8212,Republican
 2008,Idaho,ID,Jefferson,County,John McCain,Republican,8540,81.79,10441,Republican
 2008,Idaho,ID,Jefferson,County,Barack Obama,Democratic,1641,15.72,10441,Republican
-2008,Idaho,ID,Jefferson,County,Ralph Nader,Independent,72,0.69,10441,Republican
-2008,Idaho,ID,Jefferson,County,Charles Baldwin,Constitution,138,1.32,10441,Republican
-2008,Idaho,ID,Jefferson,County,Bob Barr,Libertarian,50,0.48,10441,Republican
+2008,Idaho,ID,Jefferson,County,Other,Other,260,2.49,10441,Republican
 2008,Idaho,ID,Jerome,County,John McCain,Republican,4897,71.52,6847,Republican
 2008,Idaho,ID,Jerome,County,Barack Obama,Democratic,1794,26.2,6847,Republican
-2008,Idaho,ID,Jerome,County,Ralph Nader,Independent,74,1.08,6847,Republican
-2008,Idaho,ID,Jerome,County,Charles Baldwin,Constitution,36,0.53,6847,Republican
-2008,Idaho,ID,Jerome,County,Bob Barr,Libertarian,46,0.67,6847,Republican
+2008,Idaho,ID,Jerome,County,Other,Other,156,2.28,6847,Republican
 2008,Idaho,ID,Kootenai,County,John McCain,Republican,38387,61.38,62535,Republican
 2008,Idaho,ID,Kootenai,County,Barack Obama,Democratic,22120,35.37,62535,Republican
-2008,Idaho,ID,Kootenai,County,Ralph Nader,Independent,592,0.95,62535,Republican
-2008,Idaho,ID,Kootenai,County,Charles Baldwin,Constitution,565,0.9,62535,Republican
-2008,Idaho,ID,Kootenai,County,Bob Barr,Libertarian,268,0.43,62535,Republican
+2008,Idaho,ID,Kootenai,County,Other,Other,2028,3.25,62535,Republican
 2008,Idaho,ID,Latah,County,John McCain,Republican,7988,44.59,17916,Democratic
 2008,Idaho,ID,Latah,County,Barack Obama,Democratic,9195,51.32,17916,Democratic
-2008,Idaho,ID,Latah,County,Ralph Nader,Independent,199,1.11,17916,Democratic
-2008,Idaho,ID,Latah,County,Charles Baldwin,Constitution,204,1.14,17916,Democratic
-2008,Idaho,ID,Latah,County,Bob Barr,Libertarian,128,0.71,17916,Democratic
+2008,Idaho,ID,Latah,County,Other,Other,733,4.09,17916,Democratic
 2008,Idaho,ID,Lemhi,County,John McCain,Republican,2938,71.57,4105,Republican
 2008,Idaho,ID,Lemhi,County,Barack Obama,Democratic,1061,25.85,4105,Republican
-2008,Idaho,ID,Lemhi,County,Ralph Nader,Independent,29,0.71,4105,Republican
-2008,Idaho,ID,Lemhi,County,Charles Baldwin,Constitution,45,1.1,4105,Republican
-2008,Idaho,ID,Lemhi,County,Bob Barr,Libertarian,32,0.78,4105,Republican
+2008,Idaho,ID,Lemhi,County,Other,Other,106,2.58,4105,Republican
 2008,Idaho,ID,Lewis,County,John McCain,Republican,1275,70.68,1804,Republican
 2008,Idaho,ID,Lewis,County,Barack Obama,Democratic,479,26.55,1804,Republican
-2008,Idaho,ID,Lewis,County,Ralph Nader,Independent,20,1.11,1804,Republican
-2008,Idaho,ID,Lewis,County,Charles Baldwin,Constitution,23,1.27,1804,Republican
-2008,Idaho,ID,Lewis,County,Bob Barr,Libertarian,7,0.39,1804,Republican
+2008,Idaho,ID,Lewis,County,Other,Other,50,2.77,1804,Republican
 2008,Idaho,ID,Lincoln,County,John McCain,Republican,1232,65.88,1870,Republican
 2008,Idaho,ID,Lincoln,County,Barack Obama,Democratic,545,29.14,1870,Republican
-2008,Idaho,ID,Lincoln,County,Ralph Nader,Independent,77,4.12,1870,Republican
-2008,Idaho,ID,Lincoln,County,Charles Baldwin,Constitution,10,0.53,1870,Republican
-2008,Idaho,ID,Lincoln,County,Bob Barr,Libertarian,6,0.32,1870,Republican
+2008,Idaho,ID,Lincoln,County,Other,Other,93,4.98,1870,Republican
 2008,Idaho,ID,Madison,County,John McCain,Republican,11131,85.24,13058,Republican
 2008,Idaho,ID,Madison,County,Barack Obama,Democratic,1627,12.46,13058,Republican
-2008,Idaho,ID,Madison,County,Ralph Nader,Independent,81,0.62,13058,Republican
-2008,Idaho,ID,Madison,County,Charles Baldwin,Constitution,149,1.14,13058,Republican
-2008,Idaho,ID,Madison,County,Bob Barr,Libertarian,69,0.53,13058,Republican
+2008,Idaho,ID,Madison,County,Other,Other,300,2.3,13058,Republican
 2008,Idaho,ID,Minidoka,County,John McCain,Republican,5087,73.83,6890,Republican
 2008,Idaho,ID,Minidoka,County,Barack Obama,Democratic,1630,23.66,6890,Republican
-2008,Idaho,ID,Minidoka,County,Ralph Nader,Independent,79,1.15,6890,Republican
-2008,Idaho,ID,Minidoka,County,Charles Baldwin,Constitution,52,0.75,6890,Republican
-2008,Idaho,ID,Minidoka,County,Bob Barr,Libertarian,42,0.61,6890,Republican
+2008,Idaho,ID,Minidoka,County,Other,Other,173,2.51,6890,Republican
 2008,Idaho,ID,Nez Perce,County,John McCain,Republican,10357,58.11,17823,Republican
 2008,Idaho,ID,Nez Perce,County,Barack Obama,Democratic,7123,39.97,17823,Republican
-2008,Idaho,ID,Nez Perce,County,Ralph Nader,Independent,189,1.06,17823,Republican
-2008,Idaho,ID,Nez Perce,County,Charles Baldwin,Constitution,82,0.46,17823,Republican
-2008,Idaho,ID,Nez Perce,County,Bob Barr,Libertarian,72,0.4,17823,Republican
+2008,Idaho,ID,Nez Perce,County,Other,Other,343,1.92,17823,Republican
 2008,Idaho,ID,Oneida,County,John McCain,Republican,1724,79.74,2162,Republican
 2008,Idaho,ID,Oneida,County,Barack Obama,Democratic,381,17.62,2162,Republican
-2008,Idaho,ID,Oneida,County,Ralph Nader,Independent,11,0.51,2162,Republican
-2008,Idaho,ID,Oneida,County,Charles Baldwin,Constitution,27,1.25,2162,Republican
-2008,Idaho,ID,Oneida,County,Bob Barr,Libertarian,19,0.88,2162,Republican
+2008,Idaho,ID,Oneida,County,Other,Other,57,2.64,2162,Republican
 2008,Idaho,ID,Owyhee,County,John McCain,Republican,3024,74.52,4058,Republican
 2008,Idaho,ID,Owyhee,County,Barack Obama,Democratic,944,23.26,4058,Republican
-2008,Idaho,ID,Owyhee,County,Ralph Nader,Independent,37,0.91,4058,Republican
-2008,Idaho,ID,Owyhee,County,Charles Baldwin,Constitution,29,0.71,4058,Republican
-2008,Idaho,ID,Owyhee,County,Bob Barr,Libertarian,24,0.59,4058,Republican
+2008,Idaho,ID,Owyhee,County,Other,Other,90,2.22,4058,Republican
 2008,Idaho,ID,Payette,County,John McCain,Republican,5988,68.88,8693,Republican
 2008,Idaho,ID,Payette,County,Barack Obama,Democratic,2415,27.78,8693,Republican
-2008,Idaho,ID,Payette,County,Ralph Nader,Independent,105,1.21,8693,Republican
-2008,Idaho,ID,Payette,County,Charles Baldwin,Constitution,66,0.76,8693,Republican
-2008,Idaho,ID,Payette,County,Bob Barr,Libertarian,39,0.45,8693,Republican
+2008,Idaho,ID,Payette,County,Other,Other,290,3.34,8693,Republican
 2008,Idaho,ID,Power,County,John McCain,Republican,1754,61.72,2842,Republican
 2008,Idaho,ID,Power,County,Barack Obama,Democratic,1027,36.14,2842,Republican
-2008,Idaho,ID,Power,County,Ralph Nader,Independent,28,0.99,2842,Republican
-2008,Idaho,ID,Power,County,Charles Baldwin,Constitution,13,0.46,2842,Republican
-2008,Idaho,ID,Power,County,Bob Barr,Libertarian,20,0.7,2842,Republican
+2008,Idaho,ID,Power,County,Other,Other,61,2.14,2842,Republican
 2008,Idaho,ID,Shoshone,County,John McCain,Republican,2953,52.11,5667,Republican
 2008,Idaho,ID,Shoshone,County,Barack Obama,Democratic,2521,44.49,5667,Republican
-2008,Idaho,ID,Shoshone,County,Ralph Nader,Independent,111,1.96,5667,Republican
-2008,Idaho,ID,Shoshone,County,Charles Baldwin,Constitution,42,0.74,5667,Republican
-2008,Idaho,ID,Shoshone,County,Bob Barr,Libertarian,39,0.69,5667,Republican
+2008,Idaho,ID,Shoshone,County,Other,Other,193,3.4,5667,Republican
 2008,Idaho,ID,Teton,County,John McCain,Republican,2263,48.57,4659,Democratic
 2008,Idaho,ID,Teton,County,Barack Obama,Democratic,2302,49.41,4659,Democratic
-2008,Idaho,ID,Teton,County,Ralph Nader,Independent,61,1.31,4659,Democratic
-2008,Idaho,ID,Teton,County,Charles Baldwin,Constitution,13,0.28,4659,Democratic
-2008,Idaho,ID,Teton,County,Bob Barr,Libertarian,19,0.41,4659,Democratic
+2008,Idaho,ID,Teton,County,Other,Other,94,2.02,4659,Democratic
 2008,Idaho,ID,Twin Falls,County,John McCain,Republican,19032,66.52,28613,Republican
 2008,Idaho,ID,Twin Falls,County,Barack Obama,Democratic,8621,30.13,28613,Republican
-2008,Idaho,ID,Twin Falls,County,Ralph Nader,Independent,358,1.25,28613,Republican
-2008,Idaho,ID,Twin Falls,County,Charles Baldwin,Constitution,181,0.63,28613,Republican
-2008,Idaho,ID,Twin Falls,County,Bob Barr,Libertarian,152,0.53,28613,Republican
+2008,Idaho,ID,Twin Falls,County,Other,Other,960,3.35,28613,Republican
 2008,Idaho,ID,Valley,County,John McCain,Republican,2772,52.33,5297,Republican
 2008,Idaho,ID,Valley,County,Barack Obama,Democratic,2405,45.4,5297,Republican
-2008,Idaho,ID,Valley,County,Ralph Nader,Independent,65,1.23,5297,Republican
-2008,Idaho,ID,Valley,County,Charles Baldwin,Constitution,21,0.4,5297,Republican
-2008,Idaho,ID,Valley,County,Bob Barr,Libertarian,33,0.62,5297,Republican
+2008,Idaho,ID,Valley,County,Other,Other,120,2.27,5297,Republican
 2008,Idaho,ID,Washington,County,John McCain,Republican,3168,70.31,4506,Republican
 2008,Idaho,ID,Washington,County,Barack Obama,Democratic,1241,27.54,4506,Republican
-2008,Idaho,ID,Washington,County,Ralph Nader,Independent,41,0.91,4506,Republican
-2008,Idaho,ID,Washington,County,Charles Baldwin,Constitution,28,0.62,4506,Republican
-2008,Idaho,ID,Washington,County,Bob Barr,Libertarian,28,0.62,4506,Republican
+2008,Idaho,ID,Washington,County,Other,Other,97,2.15,4506,Republican
 2008,Illinois,IL,Adams,County,Barack Obama,Democratic,11794,38.17,30902,Republican
 2008,Illinois,IL,Adams,County,John McCain,Republican,18711,60.55,30902,Republican
 2008,Illinois,IL,Adams,County,Other,Other,397,1.29,30902,Republican

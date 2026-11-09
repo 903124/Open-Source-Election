@@ -251,14 +251,14 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2006,Tennessee,TN,governor,Democratic Party primary results,Candidate,Tim Sevier,Democratic,11562.0,2.6,False,False
 2006,Tennessee,TN,governor,Democratic Party primary results,Candidate,Walt Ward,Democratic,7555.0,1.7,False,False
 2006,Tennessee,TN,governor,Democratic Party primary results,Total,,,444054.0,100.0,False,False
-2006,Tennessee,TN,governor,Republican Primary results,Winning,Jim Bryson,Republican,160786.0,50.03,True,False
-2006,Tennessee,TN,governor,Republican Primary results,Candidate,David M. Farmer,Republican,50900.0,15.84,False,False
-2006,Tennessee,TN,governor,Republican Primary results,Candidate,Joe Kirkpatrick,Republican,34491.0,10.73,False,False
-2006,Tennessee,TN,governor,Republican Primary results,Candidate,Mark Albertini,Republican,29184.0,9.08,False,False
-2006,Tennessee,TN,governor,Republican Primary results,Candidate,Wayne Thomas Bailey,Republican,24273.0,7.55,False,False
-2006,Tennessee,TN,governor,Republican Primary results,Candidate,Wayne Young,Republican,11997.0,3.73,False,False
-2006,Tennessee,TN,governor,Republican Primary results,Candidate,Timothy Thomas,Republican,9747.0,3.03,False,False
-2006,Tennessee,TN,governor,Republican Primary results,Total,,,321378.0,100.0,False,False
+2006,Tennessee,TN,governor,Republican primary results,Winning,Jim Bryson,Republican,160786.0,50.03,True,False
+2006,Tennessee,TN,governor,Republican primary results,Candidate,David M. Farmer,Republican,50900.0,15.84,False,False
+2006,Tennessee,TN,governor,Republican primary results,Candidate,Joe Kirkpatrick,Republican,34491.0,10.73,False,False
+2006,Tennessee,TN,governor,Republican primary results,Candidate,Mark Albertini,Republican,29184.0,9.08,False,False
+2006,Tennessee,TN,governor,Republican primary results,Candidate,Wayne Thomas Bailey,Republican,24273.0,7.55,False,False
+2006,Tennessee,TN,governor,Republican primary results,Candidate,Wayne Young,Republican,11997.0,3.73,False,False
+2006,Tennessee,TN,governor,Republican primary results,Candidate,Timothy Thomas,Republican,9747.0,3.03,False,False
+2006,Tennessee,TN,governor,Republican primary results,Total,,,321378.0,100.0,False,False
 2006,Wisconsin,WI,governor,Democratic gubernatorial primary results,Winning,Jim Doyle,Democratic,318523.0,99.3,True,True
 2006,Wisconsin,WI,governor,Democratic gubernatorial primary results,Candidate,Scattering,Democratic,2259.0,0.7,False,False
 2006,Wisconsin,WI,governor,Democratic gubernatorial primary results,Total,,,320782.0,100.0,False,False

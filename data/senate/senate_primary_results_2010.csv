@@ -107,16 +107,16 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,Illinois,Democratic primary results,Primary,Candidate,False,Robert Marshall,Democratic Party (United States),"51,606",5.7%
 2010,Illinois,Democratic primary results,Primary,Candidate,False,Jacob Meister,Democratic Party (United States),"16,232",1.8%
 2010,Illinois,Democratic primary results,Primary,Total,False,,,"901,618",100.0%
-2010,Illinois,Republican Primary results,Primary,Winning,False,Mark Kirk,Republican Party (United States),"420,373",56.6
-2010,Illinois,Republican Primary results,Primary,Candidate,False,Patrick Hughes,Republican Party (United States),"142,928",19.3
-2010,Illinois,Republican Primary results,Primary,Candidate,False,Donald Lowery,Republican Party (United States),"66,357",8.9
-2010,Illinois,Republican Primary results,Primary,Candidate,False,Kathleen Thomas,Republican Party (United States),"54,038",7.3
-2010,Illinois,Republican Primary results,Primary,Candidate,False,Andy Martin,Republican Party (United States),"37,480",5.0
-2010,Illinois,Republican Primary results,Primary,Candidate,False,John Arrington,Republican Party (United States),"21,090",2.8
-2010,Illinois,Republican Primary results,Primary,Candidate,False,Patricia Beard,Republican Party (United States),2,.0003
-2010,Illinois,Republican Primary results,Primary,Total,False,,,"742,268",100.0%
-2010,Illinois,Green Primary results,Primary,Winning,False,LeAlan Jones,Green Party (United States),"5,161",100
-2010,Illinois,Green Primary results,Primary,Total,False,,,"5,161",100%
+2010,Illinois,Republican primary results,Primary,Winning,False,Mark Kirk,Republican Party (United States),"420,373",56.6
+2010,Illinois,Republican primary results,Primary,Candidate,False,Patrick Hughes,Republican Party (United States),"142,928",19.3
+2010,Illinois,Republican primary results,Primary,Candidate,False,Donald Lowery,Republican Party (United States),"66,357",8.9
+2010,Illinois,Republican primary results,Primary,Candidate,False,Kathleen Thomas,Republican Party (United States),"54,038",7.3
+2010,Illinois,Republican primary results,Primary,Candidate,False,Andy Martin,Republican Party (United States),"37,480",5.0
+2010,Illinois,Republican primary results,Primary,Candidate,False,John Arrington,Republican Party (United States),"21,090",2.8
+2010,Illinois,Republican primary results,Primary,Candidate,False,Patricia Beard,Republican Party (United States),2,.0003
+2010,Illinois,Republican primary results,Primary,Total,False,,,"742,268",100.0%
+2010,Illinois,Green primary results,Primary,Winning,False,LeAlan Jones,Green Party (United States),"5,161",100
+2010,Illinois,Green primary results,Primary,Total,False,,,"5,161",100%
 2010,Indiana,Republican primary results,Primary,Winning,False,Dan Coats,Republican Party (United States),"217,225",39.5%
 2010,Indiana,Republican primary results,Primary,Candidate,False,Marlin Stutzman,Republican Party (United States),"160,981",29.2%
 2010,Indiana,Republican primary results,Primary,Candidate,False,John Hostettler,Republican Party (United States),"124,494",22.6%

@@ -157,9 +157,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2006,West Virginia,2006 West Virginia United States Senate General Election,General,Winning,True,Robert Byrd,Democratic Party (United States),"296,276",64.42%
 2006,West Virginia,2006 West Virginia United States Senate General Election,General,Candidate,False,John Raese,Republican Party (United States),"155,043",33.71%
 2006,West Virginia,2006 West Virginia United States Senate General Election,General,Candidate,False,Jesse Johnson,Mountain Party,"8,565",1.86%
-2006,Wisconsin,"2006 United States Senate election, Wisconsin [http://elections.state.wi.us/docview.asp?docid=9719&locid=47]",General,Winning,True,Herb Kohl,Democratic Party (United States),"1,439,214",67.31%
-2006,Wisconsin,"2006 United States Senate election, Wisconsin [http://elections.state.wi.us/docview.asp?docid=9719&locid=47]",General,Candidate,False,Robert Lorge,Republican Party (United States),"630,299",29.48%
-2006,Wisconsin,"2006 United States Senate election, Wisconsin [http://elections.state.wi.us/docview.asp?docid=9719&locid=47]",General,Candidate,False,Rae Vogeler,Green Party (United States),"42,434",1.98%
-2006,Wisconsin,"2006 United States Senate election, Wisconsin [http://elections.state.wi.us/docview.asp?docid=9719&locid=47]",General,Candidate,False,Ben Glatzel,Independent politician,"25,096",1.17%
+2006,Wisconsin,"2006 United States Senate election, Wisconsin",General,Winning,True,Herb Kohl,Democratic Party (United States),"1,439,214",67.31%
+2006,Wisconsin,"2006 United States Senate election, Wisconsin",General,Candidate,False,Robert Lorge,Republican Party (United States),"630,299",29.48%
+2006,Wisconsin,"2006 United States Senate election, Wisconsin",General,Candidate,False,Rae Vogeler,Green Party (United States),"42,434",1.98%
+2006,Wisconsin,"2006 United States Senate election, Wisconsin",General,Candidate,False,Ben Glatzel,Independent politician,"25,096",1.17%
 2006,Wyoming,General election results,General,Winning,True,Craig L. Thomas,Republican Party (United States),"135,174",69.99%
 2006,Wyoming,General election results,General,Candidate,False,Dale Groutage,Democratic Party (United States),"57,671",29.86%

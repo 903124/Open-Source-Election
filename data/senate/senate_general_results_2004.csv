@@ -128,11 +128,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2004,Pennsylvania,General election results,General,Candidate,False,Constitution Party (United States),Jim Clymer,"220,056",3.96%
 2004,Pennsylvania,General election results,General,Candidate,False,Libertarian Party (United States),Betsy Summers,"79,263",1.43%
 2004,Pennsylvania,General election results,General,Total,False,,,"5,769,590",100.00%
-2004,South Carolina,"South Carolina U.S. Senate Election, 2004",General,Winning,False,Republican Party (United States),Jim DeMint•,"857,167",53.67%
-2004,South Carolina,"South Carolina U.S. Senate Election, 2004",General,Candidate,False,Democratic Party (United States),Inez Tenenbaum,"704,384",44.10%
-2004,South Carolina,"South Carolina U.S. Senate Election, 2004",General,Candidate,False,Constitution Party (United States),Patrick Tyndall,"13,464",0.84%
-2004,South Carolina,"South Carolina U.S. Senate Election, 2004",General,Candidate,False,Libertarian Party (United States),Rebekah E. Sutherland,"10,678",0.67%
-2004,South Carolina,"South Carolina U.S. Senate Election, 2004",General,Candidate,False,Green Party (United States),Efia Nwangaza*,"4,245",0.27%
+2004,South Carolina,"South Carolina U.S. Senate election, 2004",General,Winning,False,Republican Party (United States),Jim DeMint•,"857,167",53.67%
+2004,South Carolina,"South Carolina U.S. Senate election, 2004",General,Candidate,False,Democratic Party (United States),Inez Tenenbaum,"704,384",44.10%
+2004,South Carolina,"South Carolina U.S. Senate election, 2004",General,Candidate,False,Constitution Party (United States),Patrick Tyndall,"13,464",0.84%
+2004,South Carolina,"South Carolina U.S. Senate election, 2004",General,Candidate,False,Libertarian Party (United States),Rebekah E. Sutherland,"10,678",0.67%
+2004,South Carolina,"South Carolina U.S. Senate election, 2004",General,Candidate,False,Green Party (United States),Efia Nwangaza*,"4,245",0.27%
 2004,South Dakota,General election results,General,Winning,False,Republican Party (United States),John Thune,"197,848",50.58%
 2004,South Dakota,General election results,General,Candidate,True,Democratic Party (United States),Tom Daschle,"193,340",49.42%
 2004,South Dakota,General election results,General,Total,False,,,"391,188",100.00%

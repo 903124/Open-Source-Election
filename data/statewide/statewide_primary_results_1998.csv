@@ -45,13 +45,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Arizona,AZ,governor,Libertarian primary results,Total,,,1650.0,100.0,False,False
 1998,Arizona,AZ,governor,Reform Party primary results,Winning,Scott Alan Malcomson,Reform,113.0,100.0,True,False
 1998,Arizona,AZ,governor,Reform Party primary results,Total,,,113.0,100.0,False,False
+1998,Arkansas,AR,governor,Republican Primary results,Winning,Mike Huckabee (inc.),Republican,64819.0,63.56,True,False
+1998,Arkansas,AR,governor,Republican Primary results,Candidate,Gene McVay,Republican,37160.0,36.44,False,False
+1998,Arkansas,AR,governor,Republican Primary results,Total,,,101979.0,100.0,False,False
 1998,Arkansas,AR,governor,Democratic Party primary results,Winning,Bill Bristow,Democratic,129639.0,55.22,True,False
 1998,Arkansas,AR,governor,Democratic Party primary results,Candidate,Johnny Hoyt,Democratic,90057.0,38.36,False,False
 1998,Arkansas,AR,governor,Democratic Party primary results,Candidate,Dirk Anderson,Democratic,15072.0,6.42,False,False
 1998,Arkansas,AR,governor,Democratic Party primary results,Total,,,234769.0,100.0,False,False
-1998,Arkansas,AR,governor,Republican Primary results,Winning,Mike Huckabee (inc.),Republican,64819.0,63.56,True,False
-1998,Arkansas,AR,governor,Republican Primary results,Candidate,Gene McVay,Republican,37160.0,36.44,False,False
-1998,Arkansas,AR,governor,Republican Primary results,Total,,,101979.0,100.0,False,False
 1998,California,CA,governor,Open primary results,Winning,Gray Davis,Democratic,2083396.0,34.74,True,False
 1998,California,CA,governor,Open primary results,Winning,Dan Lungren,Republican,2023618.0,33.75,True,False
 1998,California,CA,governor,Open primary results,Winning,Dan Hamburg,Green,92298.0,1.54,True,False
@@ -134,12 +134,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Iowa,IA,governor,Reform Party primary results,Candidate,"Jeffrey L. Hughes, Sr.",Reform,99.0,26.9,False,False
 1998,Iowa,IA,governor,Reform Party primary results,Candidate,Write-ins,Reform,39.0,10.6,False,False
 1998,Iowa,IA,governor,Reform Party primary results,Total,,,368.0,100.0,False,False
+1998,Kansas,KS,governor,Republican primary results,Winning,Bill Graves,Republican,225782.0,72.8,True,True
+1998,Kansas,KS,governor,Republican primary results,Candidate,David Miller,Republican,84368.0,27.2,False,False
+1998,Kansas,KS,governor,Republican primary results,Total,,,310150.0,100.0,False,False
 1998,Kansas,KS,governor,Democratic primary results,Winning,Tom Sawyer,Democratic,88248.0,85.28,True,False
 1998,Kansas,KS,governor,Democratic primary results,Candidate,Fred Phelps,Democratic,15233.0,14.72,False,False
 1998,Kansas,KS,governor,Democratic primary results,Total,,,103481.0,100.0,False,False
-1998,Kansas,KS,governor,Republican primary results,Winning,Bill Graves (inc.),Republican,225782.0,72.8,True,False
-1998,Kansas,KS,governor,Republican primary results,Candidate,David Miller,Republican,84368.0,27.2,False,False
-1998,Kansas,KS,governor,Republican primary results,Total,,,310150.0,100.0,False,False
 1998,Maine,ME,governor,Democratic primary results,Winning,Thomas J. Connolly,Democratic,36954.0,81.72,True,False
 1998,Maine,ME,governor,Democratic primary results,Candidate,Joseph Ricci,Democratic,8264.0,18.28,False,False
 1998,Maine,ME,governor,Democratic primary results,Total,,,45218.0,100.0,False,False
@@ -229,16 +229,6 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Nevada,NV,governor,Republican Primary results,Candidate,None of These Candidates,,5783.0,4.37,False,False
 1998,Nevada,NV,governor,Republican Primary results,Candidate,Bruce Westcott,Republican,1956.0,1.48,False,False
 1998,Nevada,NV,governor,Republican Primary results,Total,,,132353.0,100.0,False,False
-1998,New Mexico,NM,governor,Democratic primary results,Winning,Martin J. Chávez,Democratic,82147.0,48.11,True,False
-1998,New Mexico,NM,governor,Democratic primary results,Candidate,Gary K. King,Democratic,51847.0,30.37,False,False
-1998,New Mexico,NM,governor,Democratic primary results,Candidate,Jerry Apodaca,Democratic,16303.0,9.55,False,False
-1998,New Mexico,NM,governor,Democratic primary results,Candidate,Robert E. Vigil,Democratic,10483.0,6.14,False,False
-1998,New Mexico,NM,governor,Democratic primary results,Candidate,Reese P. Fullerton,Democratic,5800.0,3.4,False,False
-1998,New Mexico,NM,governor,Democratic primary results,Candidate,Ben Chavez,Democratic,4127.0,2.42,False,False
-1998,New Mexico,NM,governor,Democratic primary results,Candidate,Frances Salas (write-in),Democratic,29.0,0.02,False,False
-1998,New Mexico,NM,governor,Democratic primary results,Total,,,170736.0,100.0,False,False
-1998,New Mexico,NM,governor,Republican primary results,Winning,Gary Johnson,Republican,64669.0,100.0,True,True
-1998,New Mexico,NM,governor,Republican primary results,Total,,,64669.0,100.0,False,False
 1998,New York,NY,governor,"New York Democratic gubernatorial primary, 1998",Winning,Peter Vallone Sr.,Democratic,416147.0,56.38,True,False
 1998,New York,NY,governor,"New York Democratic gubernatorial primary, 1998",Candidate,Betsy McCaughey Ross,Democratic,156592.0,21.22,False,False
 1998,New York,NY,governor,"New York Democratic gubernatorial primary, 1998",Candidate,Charles Hynes,Democratic,109333.0,14.81,False,False
@@ -271,8 +261,8 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Rhode Island,RI,governor,Democratic primary results,Winning,Myrth York,Democratic,53561.0,82.89,True,False
 1998,Rhode Island,RI,governor,Democratic primary results,Candidate,Jack Dennison Potter,Democratic,11055.0,17.11,False,False
 1998,Rhode Island,RI,governor,Democratic primary results,Total,,,64616.0,100.0,False,False
-1998,South Carolina,SC,governor,Republican primary,Candidate,David Beasley,,114082.0,,False,True
-1998,South Carolina,SC,governor,Republican primary,Candidate,Bill Able,,43967.0,,False,False
+1998,South Carolina,SC,governor,1998 Republican gubernatorial primary,Winning,David Beasley,Republican,114082.0,72.2,True,True
+1998,South Carolina,SC,governor,1998 Republican gubernatorial primary,Candidate,Bill Able,Republican,43967.0,27.8,False,False
 1998,Tennessee,TN,governor,Republican primary results,Candidate,Don Sundquist,Republican,358786.0,92.5,False,True
 1998,Tennessee,TN,governor,Republican primary results,Candidate,Shirley Beck-Vosse,Republican,28951.0,7.46,False,False
 1998,Tennessee,TN,governor,Republican primary results,Write-in,Write-ins,Write-ins,123.0,0.03,False,False

@@ -1,0 +1,7 @@
+Year,State,State_Code,Office,Primary_Type,Poll_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+1999,Louisiana,LA,governor,jungle,Primary,Mason-Dixon Polling & Strategy,1999-10-13,1999-10-13,1999-10-13,626,,Mike Foster,Unknown,55%,True,"October 13, 1999"
+1999,Louisiana,LA,governor,jungle,Primary,University of New Orleans,1999-10-07,1999-10-07,1999-10-07,803,,Mike Foster,Unknown,48%,True,"October 7, 1999"
+1999,Louisiana,LA,governor,jungle,Primary,Southern Media & Opinion Research,1999-10-06,1999-10-06,1999-10-06,500,,Mike Foster,Unknown,64%,True,"October 6, 1999"
+1999,Louisiana,LA,governor,jungle,Primary,Mason-Dixon Polling & Strategy,1999-10-13,1999-10-13,1999-10-13,626,,William J. Jefferson,Unknown,22%,False,"October 13, 1999"
+1999,Louisiana,LA,governor,jungle,Primary,University of New Orleans,1999-10-07,1999-10-07,1999-10-07,803,,William J. Jefferson,Unknown,20%,False,"October 7, 1999"
+1999,Louisiana,LA,governor,jungle,Primary,Southern Media & Opinion Research,1999-10-06,1999-10-06,1999-10-06,500,,William J. Jefferson,Unknown,16%,False,"October 6, 1999"

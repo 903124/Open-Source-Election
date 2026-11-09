@@ -339,9 +339,9 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2012,house,Illinois,IL,12,303947,William Enyart,Democratic,157000,51.5,True,False,True
 2012,house,Illinois,IL,12,303947,Jason Plummer,Republican,129902,42.9,False,False,True
 2012,house,Illinois,IL,12,303947,Paula Bradshaw,Green,17045,5.6,False,False,True
-2012,house,Illinois,IL,13,294385,Rodney Davis,Republican,,46.6,True,False,True
-2012,house,Illinois,IL,13,294385,David Gill,Democratic,136032,46.2,False,False,True
-2012,house,Illinois,IL,13,294385,John Hartman,Independent,21319,7.2,False,False,True
+2012,house,Illinois,IL,13,294385,Rodney Davis,Republican,,46.6,True,False,False
+2012,house,Illinois,IL,13,294385,David Gill,Democratic,136032,46.2,False,False,False
+2012,house,Illinois,IL,13,294385,John Hartman,Independent,21319,7.2,False,False,False
 2012,house,Illinois,IL,14,301954,Randy Hultgren,Republican,177603,58.8,True,False,False
 2012,house,Illinois,IL,14,301954,Dennis Anderson,Democratic,124351,41.2,False,False,False
 2012,house,Illinois,IL,15,299937,John Shimkus,Republican,205775,68.9,True,False,False

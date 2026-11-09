@@ -137,15 +137,15 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2002,South Dakota,Democratic primary results,Primary,Winning,True,Tim Johnson,Democratic Party (United States),"65,438",94.84%
 2002,South Dakota,Democratic primary results,Primary,Candidate,False,Herman Eilers,Democratic Party (United States),"3,558",5.16%
 2002,South Dakota,Democratic primary results,Primary,Total,False,,,"68,996",100.00%
-2002,Tennessee,Republican Primary results,Primary,Winning,False,Lamar Alexander,Republican Party (United States),"295,052",53.79%
-2002,Tennessee,Republican Primary results,Primary,Candidate,False,Ed Bryant,Republican Party (United States),"233,678",42.60%
-2002,Tennessee,Republican Primary results,Primary,Candidate,False,Mary Taylor-Shelby,Republican Party (United States),"5,589",1.02%
-2002,Tennessee,Republican Primary results,Primary,Candidate,False,June Griffin,Republican Party (United States),"4,930",0.90%
-2002,Tennessee,Republican Primary results,Primary,Candidate,False,Michael Brent Todd,Republican Party (United States),"4,002",0.73%
-2002,Tennessee,Republican Primary results,Primary,Candidate,False,James E. DuBose,Republican Party (United States),"3,572",0.65%
-2002,Tennessee,Republican Primary results,Primary,Candidate,False,Christopher G. Fenner,Republican Party (United States),"1,552",0.28%
-2002,Tennessee,Republican Primary results,Primary,Candidate,False,Write-ins,Republican Party (United States),107,0.03%
-2002,Tennessee,Republican Primary results,Primary,Total,False,,,"548,482",100.00%
+2002,Tennessee,Republican primary results,Primary,Winning,False,Lamar Alexander,Republican Party (United States),"295,052",53.79%
+2002,Tennessee,Republican primary results,Primary,Candidate,False,Ed Bryant,Republican Party (United States),"233,678",42.60%
+2002,Tennessee,Republican primary results,Primary,Candidate,False,Mary Taylor-Shelby,Republican Party (United States),"5,589",1.02%
+2002,Tennessee,Republican primary results,Primary,Candidate,False,June Griffin,Republican Party (United States),"4,930",0.90%
+2002,Tennessee,Republican primary results,Primary,Candidate,False,Michael Brent Todd,Republican Party (United States),"4,002",0.73%
+2002,Tennessee,Republican primary results,Primary,Candidate,False,James E. DuBose,Republican Party (United States),"3,572",0.65%
+2002,Tennessee,Republican primary results,Primary,Candidate,False,Christopher G. Fenner,Republican Party (United States),"1,552",0.28%
+2002,Tennessee,Republican primary results,Primary,Candidate,False,Write-ins,Republican Party (United States),107,0.03%
+2002,Tennessee,Republican primary results,Primary,Total,False,,,"548,482",100.00%
 2002,Tennessee,Democratic primary results,Primary,Winning,False,Bob Clement,Democratic Party (United States),"418,172",82.18%
 2002,Tennessee,Democratic primary results,Primary,Candidate,False,Gary G. Davis,Democratic Party (United States),"50,563",9.94%
 2002,Tennessee,Democratic primary results,Primary,Candidate,False,Cher A. Hopkey,Democratic Party (United States),"14,481",2.85%

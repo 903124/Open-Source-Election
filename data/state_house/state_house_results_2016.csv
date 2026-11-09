@@ -333,7 +333,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2016,Connecticut,CT,State House,10,general,Henry Genga,Democratic,6246.0,70.4,True,False
 2016,Connecticut,CT,State House,10,general,Travis J. Simpson,Republican,2070.0,24.9,False,False
 2016,Connecticut,CT,State House,11,general,Jeffrey Currey,Democratic,5794.0,100.0,True,True
-2016,Connecticut,CT,State House,12,general,Kelly J.S. Luxenberg,Democratic,6313.0,56.3,True,False
+2016,Connecticut,CT,State House,12,general,Kelly Juleson Scopino,Democratic,5810.0,56.3,True,False
+2016,Connecticut,CT,State House,12,general,Kelly Juleson-Scopino,Working Families,503.0,4.9,False,False
 2016,Connecticut,CT,State House,12,general,John D. Topping,Republican,4000.0,35.7,False,False
 2016,Connecticut,CT,State House,13,general,Mark Tweedie,Republican,5912.0,47.6,True,False
 2016,Connecticut,CT,State House,13,general,Joe Diminico,Democratic,5517.0,45.6,False,False

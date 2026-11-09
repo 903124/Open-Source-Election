@@ -5444,562 +5444,283 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2000,Montana,MT,Yellowstone,County,Other,Other,3207,5.58,57499,Republican
 2000,Nebraska,NE,Adams,County,George W. Bush,Republican,8162,65.62,12438,Republican
 2000,Nebraska,NE,Adams,County,Al Gore,Democratic,3686,29.63,12438,Republican
-2000,Nebraska,NE,Adams,County,Ralph Nader,Green,472,3.79,12438,Republican
-2000,Nebraska,NE,Adams,County,Pat Buchanan,Independent,64,0.51,12438,Republican
-2000,Nebraska,NE,Adams,County,Harry E. Browne,Libertarian,31,0.25,12438,Republican
-2000,Nebraska,NE,Adams,County,Other,Other,23,0.18,12438,Republican
+2000,Nebraska,NE,Adams,County,Other,Other,590,4.75,12438,Republican
 2000,Nebraska,NE,Antelope,County,George W. Bush,Republican,2562,76.07,3368,Republican
 2000,Nebraska,NE,Antelope,County,Al Gore,Democratic,678,20.13,3368,Republican
-2000,Nebraska,NE,Antelope,County,Ralph Nader,Green,84,2.49,3368,Republican
-2000,Nebraska,NE,Antelope,County,Pat Buchanan,Independent,31,0.92,3368,Republican
-2000,Nebraska,NE,Antelope,County,Harry E. Browne,Libertarian,7,0.21,3368,Republican
-2000,Nebraska,NE,Antelope,County,Other,Other,6,0.18,3368,Republican
+2000,Nebraska,NE,Antelope,County,Other,Other,128,3.8,3368,Republican
 2000,Nebraska,NE,Arthur,County,George W. Bush,Republican,235,86.4,272,Republican
 2000,Nebraska,NE,Arthur,County,Al Gore,Democratic,26,9.56,272,Republican
-2000,Nebraska,NE,Arthur,County,Ralph Nader,Green,6,2.21,272,Republican
-2000,Nebraska,NE,Arthur,County,Pat Buchanan,Independent,4,1.47,272,Republican
-2000,Nebraska,NE,Arthur,County,Harry E. Browne,Libertarian,1,0.37,272,Republican
-2000,Nebraska,NE,Arthur,County,Other,Other,0,0.0,272,Republican
+2000,Nebraska,NE,Arthur,County,Other,Other,11,4.04,272,Republican
 2000,Nebraska,NE,Banner,County,George W. Bush,Republican,390,84.42,462,Republican
 2000,Nebraska,NE,Banner,County,Al Gore,Democratic,65,14.07,462,Republican
-2000,Nebraska,NE,Banner,County,Ralph Nader,Green,2,0.43,462,Republican
-2000,Nebraska,NE,Banner,County,Pat Buchanan,Independent,4,0.87,462,Republican
-2000,Nebraska,NE,Banner,County,Harry E. Browne,Libertarian,1,0.22,462,Republican
-2000,Nebraska,NE,Banner,County,Other,Other,0,0.0,462,Republican
+2000,Nebraska,NE,Banner,County,Other,Other,7,1.51,462,Republican
 2000,Nebraska,NE,Blaine,County,George W. Bush,Republican,299,85.67,349,Republican
 2000,Nebraska,NE,Blaine,County,Al Gore,Democratic,43,12.32,349,Republican
-2000,Nebraska,NE,Blaine,County,Ralph Nader,Green,5,1.43,349,Republican
-2000,Nebraska,NE,Blaine,County,Pat Buchanan,Independent,1,0.29,349,Republican
-2000,Nebraska,NE,Blaine,County,Harry E. Browne,Libertarian,1,0.29,349,Republican
-2000,Nebraska,NE,Blaine,County,Other,Other,0,0.0,349,Republican
+2000,Nebraska,NE,Blaine,County,Other,Other,7,2.01,349,Republican
 2000,Nebraska,NE,Boone,County,George W. Bush,Republican,2196,76.73,2862,Republican
 2000,Nebraska,NE,Boone,County,Al Gore,Democratic,575,20.09,2862,Republican
-2000,Nebraska,NE,Boone,County,Ralph Nader,Green,65,2.27,2862,Republican
-2000,Nebraska,NE,Boone,County,Pat Buchanan,Independent,22,0.77,2862,Republican
-2000,Nebraska,NE,Boone,County,Harry E. Browne,Libertarian,4,0.14,2862,Republican
-2000,Nebraska,NE,Boone,County,Other,Other,0,0.0,2862,Republican
+2000,Nebraska,NE,Boone,County,Other,Other,91,3.18,2862,Republican
 2000,Nebraska,NE,Box Butte,County,George W. Bush,Republican,3208,63.04,5089,Republican
 2000,Nebraska,NE,Box Butte,County,Al Gore,Democratic,1614,31.72,5089,Republican
-2000,Nebraska,NE,Box Butte,County,Ralph Nader,Green,203,3.99,5089,Republican
-2000,Nebraska,NE,Box Butte,County,Pat Buchanan,Independent,40,0.79,5089,Republican
-2000,Nebraska,NE,Box Butte,County,Harry E. Browne,Libertarian,12,0.24,5089,Republican
-2000,Nebraska,NE,Box Butte,County,Other,Other,12,0.24,5089,Republican
+2000,Nebraska,NE,Box Butte,County,Other,Other,267,5.24,5089,Republican
 2000,Nebraska,NE,Boyd,County,George W. Bush,Republican,931,74.96,1242,Republican
 2000,Nebraska,NE,Boyd,County,Al Gore,Democratic,265,21.34,1242,Republican
-2000,Nebraska,NE,Boyd,County,Ralph Nader,Green,25,2.01,1242,Republican
-2000,Nebraska,NE,Boyd,County,Pat Buchanan,Independent,10,0.81,1242,Republican
-2000,Nebraska,NE,Boyd,County,Harry E. Browne,Libertarian,3,0.24,1242,Republican
-2000,Nebraska,NE,Boyd,County,Other,Other,8,0.64,1242,Republican
+2000,Nebraska,NE,Boyd,County,Other,Other,46,3.7,1242,Republican
 2000,Nebraska,NE,Brown,County,George W. Bush,Republican,1375,81.65,1684,Republican
 2000,Nebraska,NE,Brown,County,Al Gore,Democratic,250,14.85,1684,Republican
-2000,Nebraska,NE,Brown,County,Ralph Nader,Green,36,2.14,1684,Republican
-2000,Nebraska,NE,Brown,County,Pat Buchanan,Independent,14,0.83,1684,Republican
-2000,Nebraska,NE,Brown,County,Harry E. Browne,Libertarian,4,0.24,1684,Republican
-2000,Nebraska,NE,Brown,County,Other,Other,5,0.3,1684,Republican
+2000,Nebraska,NE,Brown,County,Other,Other,59,3.5,1684,Republican
 2000,Nebraska,NE,Buffalo,County,George W. Bush,Republican,11931,72.48,16461,Republican
 2000,Nebraska,NE,Buffalo,County,Al Gore,Democratic,3927,23.86,16461,Republican
-2000,Nebraska,NE,Buffalo,County,Ralph Nader,Green,483,2.93,16461,Republican
-2000,Nebraska,NE,Buffalo,County,Pat Buchanan,Independent,65,0.39,16461,Republican
-2000,Nebraska,NE,Buffalo,County,Harry E. Browne,Libertarian,42,0.26,16461,Republican
-2000,Nebraska,NE,Buffalo,County,Other,Other,13,0.08,16461,Republican
+2000,Nebraska,NE,Buffalo,County,Other,Other,603,3.66,16461,Republican
 2000,Nebraska,NE,Burt,County,George W. Bush,Republican,2056,60.61,3392,Republican
 2000,Nebraska,NE,Burt,County,Al Gore,Democratic,1223,36.06,3392,Republican
-2000,Nebraska,NE,Burt,County,Ralph Nader,Green,73,2.15,3392,Republican
-2000,Nebraska,NE,Burt,County,Pat Buchanan,Independent,22,0.65,3392,Republican
-2000,Nebraska,NE,Burt,County,Harry E. Browne,Libertarian,12,0.35,3392,Republican
-2000,Nebraska,NE,Burt,County,Other,Other,6,0.18,3392,Republican
+2000,Nebraska,NE,Burt,County,Other,Other,113,3.33,3392,Republican
 2000,Nebraska,NE,Butler,County,George W. Bush,Republican,2638,68.91,3828,Republican
 2000,Nebraska,NE,Butler,County,Al Gore,Democratic,1028,26.85,3828,Republican
-2000,Nebraska,NE,Butler,County,Ralph Nader,Green,108,2.82,3828,Republican
-2000,Nebraska,NE,Butler,County,Pat Buchanan,Independent,34,0.89,3828,Republican
-2000,Nebraska,NE,Butler,County,Harry E. Browne,Libertarian,11,0.29,3828,Republican
-2000,Nebraska,NE,Butler,County,Other,Other,9,0.24,3828,Republican
+2000,Nebraska,NE,Butler,County,Other,Other,162,4.24,3828,Republican
 2000,Nebraska,NE,Cass,County,George W. Bush,Republican,6144,59.77,10280,Republican
 2000,Nebraska,NE,Cass,County,Al Gore,Democratic,3656,35.56,10280,Republican
-2000,Nebraska,NE,Cass,County,Ralph Nader,Green,369,3.59,10280,Republican
-2000,Nebraska,NE,Cass,County,Pat Buchanan,Independent,55,0.54,10280,Republican
-2000,Nebraska,NE,Cass,County,Harry E. Browne,Libertarian,41,0.4,10280,Republican
-2000,Nebraska,NE,Cass,County,Other,Other,15,0.15,10280,Republican
+2000,Nebraska,NE,Cass,County,Other,Other,480,4.67,10280,Republican
 2000,Nebraska,NE,Cedar,County,George W. Bush,Republican,2989,70.02,4269,Republican
 2000,Nebraska,NE,Cedar,County,Al Gore,Democratic,1062,24.88,4269,Republican
-2000,Nebraska,NE,Cedar,County,Ralph Nader,Green,140,3.28,4269,Republican
-2000,Nebraska,NE,Cedar,County,Pat Buchanan,Independent,62,1.45,4269,Republican
-2000,Nebraska,NE,Cedar,County,Harry E. Browne,Libertarian,10,0.23,4269,Republican
-2000,Nebraska,NE,Cedar,County,Other,Other,6,0.14,4269,Republican
+2000,Nebraska,NE,Cedar,County,Other,Other,218,5.1,4269,Republican
 2000,Nebraska,NE,Chase,County,George W. Bush,Republican,1505,80.27,1875,Republican
 2000,Nebraska,NE,Chase,County,Al Gore,Democratic,306,16.32,1875,Republican
-2000,Nebraska,NE,Chase,County,Ralph Nader,Green,38,2.03,1875,Republican
-2000,Nebraska,NE,Chase,County,Pat Buchanan,Independent,15,0.8,1875,Republican
-2000,Nebraska,NE,Chase,County,Harry E. Browne,Libertarian,8,0.43,1875,Republican
-2000,Nebraska,NE,Chase,County,Other,Other,3,0.16,1875,Republican
+2000,Nebraska,NE,Chase,County,Other,Other,64,3.41,1875,Republican
 2000,Nebraska,NE,Cherry,County,George W. Bush,Republican,2322,81.56,2847,Republican
 2000,Nebraska,NE,Cherry,County,Al Gore,Democratic,446,15.67,2847,Republican
-2000,Nebraska,NE,Cherry,County,Ralph Nader,Green,50,1.76,2847,Republican
-2000,Nebraska,NE,Cherry,County,Pat Buchanan,Independent,20,0.7,2847,Republican
-2000,Nebraska,NE,Cherry,County,Harry E. Browne,Libertarian,4,0.14,2847,Republican
-2000,Nebraska,NE,Cherry,County,Other,Other,5,0.18,2847,Republican
+2000,Nebraska,NE,Cherry,County,Other,Other,79,2.77,2847,Republican
 2000,Nebraska,NE,Cheyenne,County,George W. Bush,Republican,3207,76.61,4186,Republican
 2000,Nebraska,NE,Cheyenne,County,Al Gore,Democratic,844,20.16,4186,Republican
-2000,Nebraska,NE,Cheyenne,County,Ralph Nader,Green,76,1.82,4186,Republican
-2000,Nebraska,NE,Cheyenne,County,Pat Buchanan,Independent,36,0.86,4186,Republican
-2000,Nebraska,NE,Cheyenne,County,Harry E. Browne,Libertarian,16,0.38,4186,Republican
-2000,Nebraska,NE,Cheyenne,County,Other,Other,7,0.17,4186,Republican
+2000,Nebraska,NE,Cheyenne,County,Other,Other,135,3.23,4186,Republican
 2000,Nebraska,NE,Clay,County,George W. Bush,Republican,2326,72.35,3215,Republican
 2000,Nebraska,NE,Clay,County,Al Gore,Democratic,774,24.07,3215,Republican
-2000,Nebraska,NE,Clay,County,Ralph Nader,Green,86,2.67,3215,Republican
-2000,Nebraska,NE,Clay,County,Pat Buchanan,Independent,17,0.53,3215,Republican
-2000,Nebraska,NE,Clay,County,Harry E. Browne,Libertarian,3,0.09,3215,Republican
-2000,Nebraska,NE,Clay,County,Other,Other,9,0.28,3215,Republican
+2000,Nebraska,NE,Clay,County,Other,Other,115,3.58,3215,Republican
 2000,Nebraska,NE,Colfax,County,George W. Bush,Republican,2338,70.53,3315,Republican
 2000,Nebraska,NE,Colfax,County,Al Gore,Democratic,863,26.03,3315,Republican
-2000,Nebraska,NE,Colfax,County,Ralph Nader,Green,72,2.17,3315,Republican
-2000,Nebraska,NE,Colfax,County,Pat Buchanan,Independent,29,0.87,3315,Republican
-2000,Nebraska,NE,Colfax,County,Harry E. Browne,Libertarian,6,0.18,3315,Republican
-2000,Nebraska,NE,Colfax,County,Other,Other,7,0.21,3315,Republican
+2000,Nebraska,NE,Colfax,County,Other,Other,114,3.44,3315,Republican
 2000,Nebraska,NE,Cuming,County,George W. Bush,Republican,3232,76.68,4215,Republican
 2000,Nebraska,NE,Cuming,County,Al Gore,Democratic,857,20.33,4215,Republican
-2000,Nebraska,NE,Cuming,County,Ralph Nader,Green,91,2.16,4215,Republican
-2000,Nebraska,NE,Cuming,County,Pat Buchanan,Independent,24,0.57,4215,Republican
-2000,Nebraska,NE,Cuming,County,Harry E. Browne,Libertarian,4,0.09,4215,Republican
-2000,Nebraska,NE,Cuming,County,Other,Other,7,0.17,4215,Republican
+2000,Nebraska,NE,Cuming,County,Other,Other,126,2.99,4215,Republican
 2000,Nebraska,NE,Custer,County,George W. Bush,Republican,4245,78.41,5414,Republican
 2000,Nebraska,NE,Custer,County,Al Gore,Democratic,976,18.03,5414,Republican
-2000,Nebraska,NE,Custer,County,Ralph Nader,Green,140,2.59,5414,Republican
-2000,Nebraska,NE,Custer,County,Pat Buchanan,Independent,32,0.59,5414,Republican
-2000,Nebraska,NE,Custer,County,Harry E. Browne,Libertarian,11,0.2,5414,Republican
-2000,Nebraska,NE,Custer,County,Other,Other,10,0.18,5414,Republican
+2000,Nebraska,NE,Custer,County,Other,Other,193,3.56,5414,Republican
 2000,Nebraska,NE,Dakota,County,George W. Bush,Republican,3119,51.46,6061,Republican
 2000,Nebraska,NE,Dakota,County,Al Gore,Democratic,2695,44.46,6061,Republican
-2000,Nebraska,NE,Dakota,County,Ralph Nader,Green,141,2.33,6061,Republican
-2000,Nebraska,NE,Dakota,County,Pat Buchanan,Independent,87,1.44,6061,Republican
-2000,Nebraska,NE,Dakota,County,Harry E. Browne,Libertarian,9,0.15,6061,Republican
-2000,Nebraska,NE,Dakota,County,Other,Other,10,0.16,6061,Republican
+2000,Nebraska,NE,Dakota,County,Other,Other,247,4.08,6061,Republican
 2000,Nebraska,NE,Dawes,County,George W. Bush,Republican,2549,70.39,3621,Republican
 2000,Nebraska,NE,Dawes,County,Al Gore,Democratic,823,22.73,3621,Republican
-2000,Nebraska,NE,Dawes,County,Ralph Nader,Green,212,5.85,3621,Republican
-2000,Nebraska,NE,Dawes,County,Pat Buchanan,Independent,22,0.61,3621,Republican
-2000,Nebraska,NE,Dawes,County,Harry E. Browne,Libertarian,12,0.33,3621,Republican
-2000,Nebraska,NE,Dawes,County,Other,Other,3,0.08,3621,Republican
+2000,Nebraska,NE,Dawes,County,Other,Other,249,6.88,3621,Republican
 2000,Nebraska,NE,Dawson,County,George W. Bush,Republican,5511,73.41,7507,Republican
 2000,Nebraska,NE,Dawson,County,Al Gore,Democratic,1740,23.18,7507,Republican
-2000,Nebraska,NE,Dawson,County,Ralph Nader,Green,143,1.9,7507,Republican
-2000,Nebraska,NE,Dawson,County,Pat Buchanan,Independent,84,1.12,7507,Republican
-2000,Nebraska,NE,Dawson,County,Harry E. Browne,Libertarian,22,0.29,7507,Republican
-2000,Nebraska,NE,Dawson,County,Other,Other,7,0.09,7507,Republican
+2000,Nebraska,NE,Dawson,County,Other,Other,256,3.41,7507,Republican
 2000,Nebraska,NE,Deuel,County,George W. Bush,Republican,783,75.8,1033,Republican
 2000,Nebraska,NE,Deuel,County,Al Gore,Democratic,213,20.62,1033,Republican
-2000,Nebraska,NE,Deuel,County,Ralph Nader,Green,27,2.61,1033,Republican
-2000,Nebraska,NE,Deuel,County,Pat Buchanan,Independent,6,0.58,1033,Republican
-2000,Nebraska,NE,Deuel,County,Harry E. Browne,Libertarian,4,0.39,1033,Republican
-2000,Nebraska,NE,Deuel,County,Other,Other,0,0.0,1033,Republican
+2000,Nebraska,NE,Deuel,County,Other,Other,37,3.58,1033,Republican
 2000,Nebraska,NE,Dixon,County,George W. Bush,Republican,1834,66.4,2762,Republican
 2000,Nebraska,NE,Dixon,County,Al Gore,Democratic,820,29.69,2762,Republican
-2000,Nebraska,NE,Dixon,County,Ralph Nader,Green,30,1.09,2762,Republican
-2000,Nebraska,NE,Dixon,County,Pat Buchanan,Independent,65,2.35,2762,Republican
-2000,Nebraska,NE,Dixon,County,Harry E. Browne,Libertarian,9,0.33,2762,Republican
-2000,Nebraska,NE,Dixon,County,Other,Other,4,0.14,2762,Republican
+2000,Nebraska,NE,Dixon,County,Other,Other,138,4.94,2762,Republican
 2000,Nebraska,NE,Dodge,County,George W. Bush,Republican,8871,61.3,14472,Republican
 2000,Nebraska,NE,Dodge,County,Al Gore,Democratic,5021,34.69,14472,Republican
-2000,Nebraska,NE,Dodge,County,Ralph Nader,Green,443,3.06,14472,Republican
-2000,Nebraska,NE,Dodge,County,Pat Buchanan,Independent,58,0.4,14472,Republican
-2000,Nebraska,NE,Dodge,County,Harry E. Browne,Libertarian,63,0.44,14472,Republican
-2000,Nebraska,NE,Dodge,County,Other,Other,16,0.11,14472,Republican
+2000,Nebraska,NE,Dodge,County,Other,Other,580,4.01,14472,Republican
 2000,Nebraska,NE,Douglas,County,George W. Bush,Republican,101025,55.16,183156,Republican
 2000,Nebraska,NE,Douglas,County,Al Gore,Democratic,73347,40.05,183156,Republican
-2000,Nebraska,NE,Douglas,County,Ralph Nader,Green,7109,3.88,183156,Republican
-2000,Nebraska,NE,Douglas,County,Pat Buchanan,Independent,690,0.38,183156,Republican
-2000,Nebraska,NE,Douglas,County,Harry E. Browne,Libertarian,749,0.41,183156,Republican
-2000,Nebraska,NE,Douglas,County,Other,Other,236,0.13,183156,Republican
+2000,Nebraska,NE,Douglas,County,Other,Other,8784,4.79,183156,Republican
 2000,Nebraska,NE,Dundy,County,George W. Bush,Republican,801,79.23,1011,Republican
 2000,Nebraska,NE,Dundy,County,Al Gore,Democratic,179,17.71,1011,Republican
-2000,Nebraska,NE,Dundy,County,Ralph Nader,Green,19,1.88,1011,Republican
-2000,Nebraska,NE,Dundy,County,Pat Buchanan,Independent,6,0.59,1011,Republican
-2000,Nebraska,NE,Dundy,County,Harry E. Browne,Libertarian,3,0.3,1011,Republican
-2000,Nebraska,NE,Dundy,County,Other,Other,3,0.3,1011,Republican
+2000,Nebraska,NE,Dundy,County,Other,Other,31,3.06,1011,Republican
 2000,Nebraska,NE,Fillmore,County,George W. Bush,Republican,2024,67.51,2998,Republican
 2000,Nebraska,NE,Fillmore,County,Al Gore,Democratic,848,28.29,2998,Republican
-2000,Nebraska,NE,Fillmore,County,Ralph Nader,Green,103,3.44,2998,Republican
-2000,Nebraska,NE,Fillmore,County,Pat Buchanan,Independent,14,0.47,2998,Republican
-2000,Nebraska,NE,Fillmore,County,Harry E. Browne,Libertarian,8,0.27,2998,Republican
-2000,Nebraska,NE,Fillmore,County,Other,Other,1,0.03,2998,Republican
+2000,Nebraska,NE,Fillmore,County,Other,Other,126,4.2,2998,Republican
 2000,Nebraska,NE,Franklin,County,George W. Bush,Republican,1196,71.7,1668,Republican
 2000,Nebraska,NE,Franklin,County,Al Gore,Democratic,420,25.18,1668,Republican
-2000,Nebraska,NE,Franklin,County,Ralph Nader,Green,36,2.16,1668,Republican
-2000,Nebraska,NE,Franklin,County,Pat Buchanan,Independent,9,0.54,1668,Republican
-2000,Nebraska,NE,Franklin,County,Harry E. Browne,Libertarian,2,0.12,1668,Republican
-2000,Nebraska,NE,Franklin,County,Other,Other,5,0.3,1668,Republican
+2000,Nebraska,NE,Franklin,County,Other,Other,52,3.12,1668,Republican
 2000,Nebraska,NE,Frontier,County,George W. Bush,Republican,1102,79.11,1393,Republican
 2000,Nebraska,NE,Frontier,County,Al Gore,Democratic,244,17.52,1393,Republican
-2000,Nebraska,NE,Frontier,County,Ralph Nader,Green,27,1.94,1393,Republican
-2000,Nebraska,NE,Frontier,County,Pat Buchanan,Independent,10,0.72,1393,Republican
-2000,Nebraska,NE,Frontier,County,Harry E. Browne,Libertarian,6,0.43,1393,Republican
-2000,Nebraska,NE,Frontier,County,Other,Other,4,0.29,1393,Republican
+2000,Nebraska,NE,Frontier,County,Other,Other,47,3.37,1393,Republican
 2000,Nebraska,NE,Furnas,County,George W. Bush,Republican,1849,76.06,2431,Republican
 2000,Nebraska,NE,Furnas,County,Al Gore,Democratic,534,21.97,2431,Republican
-2000,Nebraska,NE,Furnas,County,Ralph Nader,Green,29,1.19,2431,Republican
-2000,Nebraska,NE,Furnas,County,Pat Buchanan,Independent,12,0.49,2431,Republican
-2000,Nebraska,NE,Furnas,County,Harry E. Browne,Libertarian,6,0.25,2431,Republican
-2000,Nebraska,NE,Furnas,County,Other,Other,1,0.04,2431,Republican
+2000,Nebraska,NE,Furnas,County,Other,Other,48,1.97,2431,Republican
 2000,Nebraska,NE,Gage,County,George W. Bush,Republican,5538,58.26,9506,Republican
 2000,Nebraska,NE,Gage,County,Al Gore,Democratic,3516,36.99,9506,Republican
-2000,Nebraska,NE,Gage,County,Ralph Nader,Green,355,3.73,9506,Republican
-2000,Nebraska,NE,Gage,County,Pat Buchanan,Independent,57,0.6,9506,Republican
-2000,Nebraska,NE,Gage,County,Harry E. Browne,Libertarian,33,0.35,9506,Republican
-2000,Nebraska,NE,Gage,County,Other,Other,7,0.07,9506,Republican
+2000,Nebraska,NE,Gage,County,Other,Other,452,4.75,9506,Republican
 2000,Nebraska,NE,Garden,County,George W. Bush,Republican,963,79.0,1219,Republican
 2000,Nebraska,NE,Garden,County,Al Gore,Democratic,203,16.65,1219,Republican
-2000,Nebraska,NE,Garden,County,Ralph Nader,Green,38,3.12,1219,Republican
-2000,Nebraska,NE,Garden,County,Pat Buchanan,Independent,8,0.66,1219,Republican
-2000,Nebraska,NE,Garden,County,Harry E. Browne,Libertarian,4,0.33,1219,Republican
-2000,Nebraska,NE,Garden,County,Other,Other,3,0.25,1219,Republican
+2000,Nebraska,NE,Garden,County,Other,Other,53,4.35,1219,Republican
 2000,Nebraska,NE,Garfield,County,George W. Bush,Republican,718,74.56,963,Republican
 2000,Nebraska,NE,Garfield,County,Al Gore,Democratic,202,20.98,963,Republican
-2000,Nebraska,NE,Garfield,County,Ralph Nader,Green,33,3.43,963,Republican
-2000,Nebraska,NE,Garfield,County,Pat Buchanan,Independent,9,0.93,963,Republican
-2000,Nebraska,NE,Garfield,County,Harry E. Browne,Libertarian,1,0.1,963,Republican
-2000,Nebraska,NE,Garfield,County,Other,Other,0,0.0,963,Republican
+2000,Nebraska,NE,Garfield,County,Other,Other,43,4.46,963,Republican
 2000,Nebraska,NE,Gosper,County,George W. Bush,Republican,757,74.65,1014,Republican
 2000,Nebraska,NE,Gosper,County,Al Gore,Democratic,228,22.49,1014,Republican
-2000,Nebraska,NE,Gosper,County,Ralph Nader,Green,19,1.87,1014,Republican
-2000,Nebraska,NE,Gosper,County,Pat Buchanan,Independent,9,0.89,1014,Republican
-2000,Nebraska,NE,Gosper,County,Harry E. Browne,Libertarian,1,0.1,1014,Republican
-2000,Nebraska,NE,Gosper,County,Other,Other,0,0.0,1014,Republican
+2000,Nebraska,NE,Gosper,County,Other,Other,29,2.86,1014,Republican
 2000,Nebraska,NE,Grant,County,George W. Bush,Republican,324,84.16,385,Republican
 2000,Nebraska,NE,Grant,County,Al Gore,Democratic,49,12.73,385,Republican
-2000,Nebraska,NE,Grant,County,Ralph Nader,Green,10,2.6,385,Republican
-2000,Nebraska,NE,Grant,County,Pat Buchanan,Independent,2,0.52,385,Republican
-2000,Nebraska,NE,Grant,County,Harry E. Browne,Libertarian,0,0.0,385,Republican
-2000,Nebraska,NE,Grant,County,Other,Other,0,0.0,385,Republican
+2000,Nebraska,NE,Grant,County,Other,Other,12,3.11,385,Republican
 2000,Nebraska,NE,Greeley,County,George W. Bush,Republican,839,64.05,1310,Republican
 2000,Nebraska,NE,Greeley,County,Al Gore,Democratic,416,31.76,1310,Republican
-2000,Nebraska,NE,Greeley,County,Ralph Nader,Green,37,2.82,1310,Republican
-2000,Nebraska,NE,Greeley,County,Pat Buchanan,Independent,13,0.99,1310,Republican
-2000,Nebraska,NE,Greeley,County,Harry E. Browne,Libertarian,4,0.31,1310,Republican
-2000,Nebraska,NE,Greeley,County,Other,Other,1,0.08,1310,Republican
+2000,Nebraska,NE,Greeley,County,Other,Other,55,4.19,1310,Republican
 2000,Nebraska,NE,Hall,County,George W. Bush,Republican,11803,63.64,18546,Republican
 2000,Nebraska,NE,Hall,County,Al Gore,Democratic,5952,32.09,18546,Republican
-2000,Nebraska,NE,Hall,County,Ralph Nader,Green,595,3.21,18546,Republican
-2000,Nebraska,NE,Hall,County,Pat Buchanan,Independent,116,0.63,18546,Republican
-2000,Nebraska,NE,Hall,County,Harry E. Browne,Libertarian,52,0.28,18546,Republican
-2000,Nebraska,NE,Hall,County,Other,Other,28,0.15,18546,Republican
+2000,Nebraska,NE,Hall,County,Other,Other,791,4.27,18546,Republican
 2000,Nebraska,NE,Hamilton,County,George W. Bush,Republican,3251,72.39,4491,Republican
 2000,Nebraska,NE,Hamilton,County,Al Gore,Democratic,1066,23.74,4491,Republican
-2000,Nebraska,NE,Hamilton,County,Ralph Nader,Green,141,3.14,4491,Republican
-2000,Nebraska,NE,Hamilton,County,Pat Buchanan,Independent,21,0.47,4491,Republican
-2000,Nebraska,NE,Hamilton,County,Harry E. Browne,Libertarian,10,0.22,4491,Republican
-2000,Nebraska,NE,Hamilton,County,Other,Other,2,0.04,4491,Republican
+2000,Nebraska,NE,Hamilton,County,Other,Other,174,3.87,4491,Republican
 2000,Nebraska,NE,Harlan,County,George W. Bush,Republican,1358,73.33,1852,Republican
 2000,Nebraska,NE,Harlan,County,Al Gore,Democratic,438,23.65,1852,Republican
-2000,Nebraska,NE,Harlan,County,Ralph Nader,Green,37,2.0,1852,Republican
-2000,Nebraska,NE,Harlan,County,Pat Buchanan,Independent,11,0.59,1852,Republican
-2000,Nebraska,NE,Harlan,County,Harry E. Browne,Libertarian,7,0.38,1852,Republican
-2000,Nebraska,NE,Harlan,County,Other,Other,1,0.05,1852,Republican
+2000,Nebraska,NE,Harlan,County,Other,Other,56,3.02,1852,Republican
 2000,Nebraska,NE,Hayes,County,George W. Bush,Republican,486,85.11,571,Republican
 2000,Nebraska,NE,Hayes,County,Al Gore,Democratic,66,11.56,571,Republican
-2000,Nebraska,NE,Hayes,County,Ralph Nader,Green,8,1.4,571,Republican
-2000,Nebraska,NE,Hayes,County,Pat Buchanan,Independent,8,1.4,571,Republican
-2000,Nebraska,NE,Hayes,County,Harry E. Browne,Libertarian,3,0.53,571,Republican
-2000,Nebraska,NE,Hayes,County,Other,Other,0,0.0,571,Republican
+2000,Nebraska,NE,Hayes,County,Other,Other,19,3.33,571,Republican
 2000,Nebraska,NE,Hitchcock,County,George W. Bush,Republican,1126,76.08,1480,Republican
 2000,Nebraska,NE,Hitchcock,County,Al Gore,Democratic,312,21.08,1480,Republican
-2000,Nebraska,NE,Hitchcock,County,Ralph Nader,Green,21,1.42,1480,Republican
-2000,Nebraska,NE,Hitchcock,County,Pat Buchanan,Independent,14,0.95,1480,Republican
-2000,Nebraska,NE,Hitchcock,County,Harry E. Browne,Libertarian,3,0.2,1480,Republican
-2000,Nebraska,NE,Hitchcock,County,Other,Other,4,0.27,1480,Republican
+2000,Nebraska,NE,Hitchcock,County,Other,Other,42,2.84,1480,Republican
 2000,Nebraska,NE,Holt,County,George W. Bush,Republican,3954,79.73,4959,Republican
 2000,Nebraska,NE,Holt,County,Al Gore,Democratic,846,17.06,4959,Republican
-2000,Nebraska,NE,Holt,County,Ralph Nader,Green,93,1.88,4959,Republican
-2000,Nebraska,NE,Holt,County,Pat Buchanan,Independent,48,0.97,4959,Republican
-2000,Nebraska,NE,Holt,County,Harry E. Browne,Libertarian,5,0.1,4959,Republican
-2000,Nebraska,NE,Holt,County,Other,Other,13,0.26,4959,Republican
+2000,Nebraska,NE,Holt,County,Other,Other,159,3.21,4959,Republican
 2000,Nebraska,NE,Hooker,County,George W. Bush,Republican,317,77.51,409,Republican
 2000,Nebraska,NE,Hooker,County,Al Gore,Democratic,74,18.09,409,Republican
-2000,Nebraska,NE,Hooker,County,Ralph Nader,Green,13,3.18,409,Republican
-2000,Nebraska,NE,Hooker,County,Pat Buchanan,Independent,4,0.98,409,Republican
-2000,Nebraska,NE,Hooker,County,Harry E. Browne,Libertarian,1,0.24,409,Republican
-2000,Nebraska,NE,Hooker,County,Other,Other,0,0.0,409,Republican
+2000,Nebraska,NE,Hooker,County,Other,Other,18,4.4,409,Republican
 2000,Nebraska,NE,Howard,County,George W. Bush,Republican,1760,62.26,2827,Republican
 2000,Nebraska,NE,Howard,County,Al Gore,Democratic,955,33.78,2827,Republican
-2000,Nebraska,NE,Howard,County,Ralph Nader,Green,71,2.51,2827,Republican
-2000,Nebraska,NE,Howard,County,Pat Buchanan,Independent,21,0.74,2827,Republican
-2000,Nebraska,NE,Howard,County,Harry E. Browne,Libertarian,13,0.46,2827,Republican
-2000,Nebraska,NE,Howard,County,Other,Other,7,0.25,2827,Republican
+2000,Nebraska,NE,Howard,County,Other,Other,112,3.96,2827,Republican
 2000,Nebraska,NE,Jefferson,County,George W. Bush,Republican,2351,61.11,3847,Republican
 2000,Nebraska,NE,Jefferson,County,Al Gore,Democratic,1361,35.38,3847,Republican
-2000,Nebraska,NE,Jefferson,County,Ralph Nader,Green,102,2.65,3847,Republican
-2000,Nebraska,NE,Jefferson,County,Pat Buchanan,Independent,15,0.39,3847,Republican
-2000,Nebraska,NE,Jefferson,County,Harry E. Browne,Libertarian,16,0.42,3847,Republican
-2000,Nebraska,NE,Jefferson,County,Other,Other,2,0.05,3847,Republican
+2000,Nebraska,NE,Jefferson,County,Other,Other,135,3.51,3847,Republican
 2000,Nebraska,NE,Johnson,County,George W. Bush,Republican,1210,57.29,2112,Republican
 2000,Nebraska,NE,Johnson,County,Al Gore,Democratic,794,37.59,2112,Republican
-2000,Nebraska,NE,Johnson,County,Ralph Nader,Green,74,3.5,2112,Republican
-2000,Nebraska,NE,Johnson,County,Pat Buchanan,Independent,11,0.52,2112,Republican
-2000,Nebraska,NE,Johnson,County,Harry E. Browne,Libertarian,11,0.52,2112,Republican
-2000,Nebraska,NE,Johnson,County,Other,Other,12,0.57,2112,Republican
+2000,Nebraska,NE,Johnson,County,Other,Other,108,5.12,2112,Republican
 2000,Nebraska,NE,Kearney,County,George W. Bush,Republican,2333,74.73,3122,Republican
 2000,Nebraska,NE,Kearney,County,Al Gore,Democratic,680,21.78,3122,Republican
-2000,Nebraska,NE,Kearney,County,Ralph Nader,Green,75,2.4,3122,Republican
-2000,Nebraska,NE,Kearney,County,Pat Buchanan,Independent,17,0.54,3122,Republican
-2000,Nebraska,NE,Kearney,County,Harry E. Browne,Libertarian,12,0.38,3122,Republican
-2000,Nebraska,NE,Kearney,County,Other,Other,5,0.16,3122,Republican
+2000,Nebraska,NE,Kearney,County,Other,Other,109,3.49,3122,Republican
 2000,Nebraska,NE,Keith,County,George W. Bush,Republican,2953,76.72,3849,Republican
 2000,Nebraska,NE,Keith,County,Al Gore,Democratic,778,20.21,3849,Republican
-2000,Nebraska,NE,Keith,County,Ralph Nader,Green,75,1.95,3849,Republican
-2000,Nebraska,NE,Keith,County,Pat Buchanan,Independent,30,0.78,3849,Republican
-2000,Nebraska,NE,Keith,County,Harry E. Browne,Libertarian,11,0.29,3849,Republican
-2000,Nebraska,NE,Keith,County,Other,Other,2,0.05,3849,Republican
+2000,Nebraska,NE,Keith,County,Other,Other,118,3.07,3849,Republican
 2000,Nebraska,NE,Keya Paha,County,George W. Bush,Republican,422,82.26,513,Republican
 2000,Nebraska,NE,Keya Paha,County,Al Gore,Democratic,78,15.2,513,Republican
-2000,Nebraska,NE,Keya Paha,County,Ralph Nader,Green,6,1.17,513,Republican
-2000,Nebraska,NE,Keya Paha,County,Pat Buchanan,Independent,6,1.17,513,Republican
-2000,Nebraska,NE,Keya Paha,County,Harry E. Browne,Libertarian,1,0.19,513,Republican
-2000,Nebraska,NE,Keya Paha,County,Other,Other,0,0.0,513,Republican
+2000,Nebraska,NE,Keya Paha,County,Other,Other,13,2.54,513,Republican
 2000,Nebraska,NE,Kimball,County,George W. Bush,Republican,1379,75.77,1820,Republican
 2000,Nebraska,NE,Kimball,County,Al Gore,Democratic,379,20.82,1820,Republican
-2000,Nebraska,NE,Kimball,County,Ralph Nader,Green,41,2.25,1820,Republican
-2000,Nebraska,NE,Kimball,County,Pat Buchanan,Independent,11,0.6,1820,Republican
-2000,Nebraska,NE,Kimball,County,Harry E. Browne,Libertarian,5,0.27,1820,Republican
-2000,Nebraska,NE,Kimball,County,Other,Other,5,0.27,1820,Republican
+2000,Nebraska,NE,Kimball,County,Other,Other,62,3.41,1820,Republican
 2000,Nebraska,NE,Knox,County,George W. Bush,Republican,2784,69.98,3978,Republican
 2000,Nebraska,NE,Knox,County,Al Gore,Democratic,1037,26.07,3978,Republican
-2000,Nebraska,NE,Knox,County,Ralph Nader,Green,110,2.77,3978,Republican
-2000,Nebraska,NE,Knox,County,Pat Buchanan,Independent,36,0.9,3978,Republican
-2000,Nebraska,NE,Knox,County,Harry E. Browne,Libertarian,5,0.13,3978,Republican
-2000,Nebraska,NE,Knox,County,Other,Other,6,0.15,3978,Republican
+2000,Nebraska,NE,Knox,County,Other,Other,157,3.95,3978,Republican
 2000,Nebraska,NE,Lancaster,County,George W. Bush,Republican,55514,51.82,107132,Republican
 2000,Nebraska,NE,Lancaster,County,Al Gore,Democratic,44650,41.68,107132,Republican
-2000,Nebraska,NE,Lancaster,County,Ralph Nader,Green,6182,5.77,107132,Republican
-2000,Nebraska,NE,Lancaster,County,Pat Buchanan,Independent,297,0.28,107132,Republican
-2000,Nebraska,NE,Lancaster,County,Harry E. Browne,Libertarian,360,0.34,107132,Republican
-2000,Nebraska,NE,Lancaster,County,Other,Other,129,0.12,107132,Republican
+2000,Nebraska,NE,Lancaster,County,Other,Other,6968,6.5,107132,Republican
 2000,Nebraska,NE,Lincoln,County,George W. Bush,Republican,9220,61.0,15114,Republican
 2000,Nebraska,NE,Lincoln,County,Al Gore,Democratic,5205,34.44,15114,Republican
-2000,Nebraska,NE,Lincoln,County,Ralph Nader,Green,502,3.32,15114,Republican
-2000,Nebraska,NE,Lincoln,County,Pat Buchanan,Independent,126,0.83,15114,Republican
-2000,Nebraska,NE,Lincoln,County,Harry E. Browne,Libertarian,41,0.27,15114,Republican
-2000,Nebraska,NE,Lincoln,County,Other,Other,20,0.13,15114,Republican
+2000,Nebraska,NE,Lincoln,County,Other,Other,689,4.56,15114,Republican
 2000,Nebraska,NE,Logan,County,George W. Bush,Republican,336,81.55,412,Republican
 2000,Nebraska,NE,Logan,County,Al Gore,Democratic,60,14.56,412,Republican
-2000,Nebraska,NE,Logan,County,Ralph Nader,Green,11,2.67,412,Republican
-2000,Nebraska,NE,Logan,County,Pat Buchanan,Independent,4,0.97,412,Republican
-2000,Nebraska,NE,Logan,County,Harry E. Browne,Libertarian,1,0.24,412,Republican
-2000,Nebraska,NE,Logan,County,Other,Other,0,0.0,412,Republican
+2000,Nebraska,NE,Logan,County,Other,Other,16,3.89,412,Republican
 2000,Nebraska,NE,Loup,County,George W. Bush,Republican,284,75.13,378,Republican
 2000,Nebraska,NE,Loup,County,Al Gore,Democratic,84,22.22,378,Republican
-2000,Nebraska,NE,Loup,County,Ralph Nader,Green,7,1.85,378,Republican
-2000,Nebraska,NE,Loup,County,Pat Buchanan,Independent,3,0.79,378,Republican
-2000,Nebraska,NE,Loup,County,Harry E. Browne,Libertarian,0,0.0,378,Republican
-2000,Nebraska,NE,Loup,County,Other,Other,0,0.0,378,Republican
+2000,Nebraska,NE,Loup,County,Other,Other,10,2.65,378,Republican
 2000,Nebraska,NE,Madison,County,George W. Bush,Republican,9636,74.97,12853,Republican
 2000,Nebraska,NE,Madison,County,Al Gore,Democratic,2772,21.57,12853,Republican
-2000,Nebraska,NE,Madison,County,Ralph Nader,Green,290,2.26,12853,Republican
-2000,Nebraska,NE,Madison,County,Pat Buchanan,Independent,108,0.84,12853,Republican
-2000,Nebraska,NE,Madison,County,Harry E. Browne,Libertarian,28,0.22,12853,Republican
-2000,Nebraska,NE,Madison,County,Other,Other,19,0.15,12853,Republican
+2000,Nebraska,NE,Madison,County,Other,Other,445,3.46,12853,Republican
 2000,Nebraska,NE,McPherson,County,George W. Bush,Republican,244,81.06,301,Republican
 2000,Nebraska,NE,McPherson,County,Al Gore,Democratic,48,15.95,301,Republican
-2000,Nebraska,NE,McPherson,County,Ralph Nader,Green,1,0.33,301,Republican
-2000,Nebraska,NE,McPherson,County,Pat Buchanan,Independent,4,1.33,301,Republican
-2000,Nebraska,NE,McPherson,County,Harry E. Browne,Libertarian,4,1.33,301,Republican
-2000,Nebraska,NE,McPherson,County,Other,Other,0,0.0,301,Republican
+2000,Nebraska,NE,McPherson,County,Other,Other,9,2.99,301,Republican
 2000,Nebraska,NE,Merrick,County,George W. Bush,Republican,2380,71.26,3340,Republican
 2000,Nebraska,NE,Merrick,County,Al Gore,Democratic,848,25.39,3340,Republican
-2000,Nebraska,NE,Merrick,County,Ralph Nader,Green,84,2.51,3340,Republican
-2000,Nebraska,NE,Merrick,County,Pat Buchanan,Independent,22,0.66,3340,Republican
-2000,Nebraska,NE,Merrick,County,Harry E. Browne,Libertarian,3,0.09,3340,Republican
-2000,Nebraska,NE,Merrick,County,Other,Other,3,0.09,3340,Republican
+2000,Nebraska,NE,Merrick,County,Other,Other,112,3.35,3340,Republican
 2000,Nebraska,NE,Morrill,County,George W. Bush,Republican,1597,74.7,2138,Republican
 2000,Nebraska,NE,Morrill,County,Al Gore,Democratic,460,21.52,2138,Republican
-2000,Nebraska,NE,Morrill,County,Ralph Nader,Green,46,2.15,2138,Republican
-2000,Nebraska,NE,Morrill,County,Pat Buchanan,Independent,26,1.22,2138,Republican
-2000,Nebraska,NE,Morrill,County,Harry E. Browne,Libertarian,6,0.28,2138,Republican
-2000,Nebraska,NE,Morrill,County,Other,Other,3,0.14,2138,Republican
+2000,Nebraska,NE,Morrill,County,Other,Other,81,3.78,2138,Republican
 2000,Nebraska,NE,Nance,County,George W. Bush,Republican,1105,66.37,1665,Republican
 2000,Nebraska,NE,Nance,County,Al Gore,Democratic,497,29.85,1665,Republican
-2000,Nebraska,NE,Nance,County,Ralph Nader,Green,46,2.76,1665,Republican
-2000,Nebraska,NE,Nance,County,Pat Buchanan,Independent,11,0.66,1665,Republican
-2000,Nebraska,NE,Nance,County,Harry E. Browne,Libertarian,3,0.18,1665,Republican
-2000,Nebraska,NE,Nance,County,Other,Other,3,0.18,1665,Republican
+2000,Nebraska,NE,Nance,County,Other,Other,63,3.78,1665,Republican
 2000,Nebraska,NE,Nemaha,County,George W. Bush,Republican,2177,64.62,3369,Republican
 2000,Nebraska,NE,Nemaha,County,Al Gore,Democratic,1063,31.55,3369,Republican
-2000,Nebraska,NE,Nemaha,County,Ralph Nader,Green,94,2.79,3369,Republican
-2000,Nebraska,NE,Nemaha,County,Pat Buchanan,Independent,18,0.53,3369,Republican
-2000,Nebraska,NE,Nemaha,County,Harry E. Browne,Libertarian,10,0.3,3369,Republican
-2000,Nebraska,NE,Nemaha,County,Other,Other,7,0.21,3369,Republican
+2000,Nebraska,NE,Nemaha,County,Other,Other,129,3.83,3369,Republican
 2000,Nebraska,NE,Nuckolls,County,George W. Bush,Republican,1701,69.63,2443,Republican
 2000,Nebraska,NE,Nuckolls,County,Al Gore,Democratic,644,26.36,2443,Republican
-2000,Nebraska,NE,Nuckolls,County,Ralph Nader,Green,66,2.7,2443,Republican
-2000,Nebraska,NE,Nuckolls,County,Pat Buchanan,Independent,21,0.86,2443,Republican
-2000,Nebraska,NE,Nuckolls,County,Harry E. Browne,Libertarian,8,0.33,2443,Republican
-2000,Nebraska,NE,Nuckolls,County,Other,Other,3,0.12,2443,Republican
+2000,Nebraska,NE,Nuckolls,County,Other,Other,98,4.01,2443,Republican
 2000,Nebraska,NE,Otoe,County,George W. Bush,Republican,4178,62.71,6662,Republican
 2000,Nebraska,NE,Otoe,County,Al Gore,Democratic,2208,33.14,6662,Republican
-2000,Nebraska,NE,Otoe,County,Ralph Nader,Green,218,3.27,6662,Republican
-2000,Nebraska,NE,Otoe,County,Pat Buchanan,Independent,35,0.53,6662,Republican
-2000,Nebraska,NE,Otoe,County,Harry E. Browne,Libertarian,13,0.2,6662,Republican
-2000,Nebraska,NE,Otoe,County,Other,Other,10,0.15,6662,Republican
+2000,Nebraska,NE,Otoe,County,Other,Other,276,4.15,6662,Republican
 2000,Nebraska,NE,Pawnee,County,George W. Bush,Republican,937,61.69,1519,Republican
 2000,Nebraska,NE,Pawnee,County,Al Gore,Democratic,522,34.36,1519,Republican
-2000,Nebraska,NE,Pawnee,County,Ralph Nader,Green,38,2.5,1519,Republican
-2000,Nebraska,NE,Pawnee,County,Pat Buchanan,Independent,11,0.72,1519,Republican
-2000,Nebraska,NE,Pawnee,County,Harry E. Browne,Libertarian,8,0.53,1519,Republican
-2000,Nebraska,NE,Pawnee,County,Other,Other,3,0.2,1519,Republican
+2000,Nebraska,NE,Pawnee,County,Other,Other,60,3.95,1519,Republican
 2000,Nebraska,NE,Perkins,County,George W. Bush,Republican,1170,80.58,1452,Republican
 2000,Nebraska,NE,Perkins,County,Al Gore,Democratic,243,16.74,1452,Republican
-2000,Nebraska,NE,Perkins,County,Ralph Nader,Green,31,2.13,1452,Republican
-2000,Nebraska,NE,Perkins,County,Pat Buchanan,Independent,4,0.28,1452,Republican
-2000,Nebraska,NE,Perkins,County,Harry E. Browne,Libertarian,4,0.28,1452,Republican
-2000,Nebraska,NE,Perkins,County,Other,Other,0,0.0,1452,Republican
+2000,Nebraska,NE,Perkins,County,Other,Other,39,2.68,1452,Republican
 2000,Nebraska,NE,Phelps,County,George W. Bush,Republican,3575,77.26,4627,Republican
 2000,Nebraska,NE,Phelps,County,Al Gore,Democratic,934,20.19,4627,Republican
-2000,Nebraska,NE,Phelps,County,Ralph Nader,Green,86,1.86,4627,Republican
-2000,Nebraska,NE,Phelps,County,Pat Buchanan,Independent,14,0.3,4627,Republican
-2000,Nebraska,NE,Phelps,County,Harry E. Browne,Libertarian,15,0.32,4627,Republican
-2000,Nebraska,NE,Phelps,County,Other,Other,3,0.06,4627,Republican
+2000,Nebraska,NE,Phelps,County,Other,Other,118,2.55,4627,Republican
 2000,Nebraska,NE,Pierce,County,George W. Bush,Republican,2534,78.99,3208,Republican
 2000,Nebraska,NE,Pierce,County,Al Gore,Democratic,570,17.77,3208,Republican
-2000,Nebraska,NE,Pierce,County,Ralph Nader,Green,52,1.62,3208,Republican
-2000,Nebraska,NE,Pierce,County,Pat Buchanan,Independent,43,1.34,3208,Republican
-2000,Nebraska,NE,Pierce,County,Harry E. Browne,Libertarian,4,0.12,3208,Republican
-2000,Nebraska,NE,Pierce,County,Other,Other,5,0.16,3208,Republican
+2000,Nebraska,NE,Pierce,County,Other,Other,104,3.24,3208,Republican
 2000,Nebraska,NE,Platte,County,George W. Bush,Republican,9861,76.69,12859,Republican
 2000,Nebraska,NE,Platte,County,Al Gore,Democratic,2612,20.31,12859,Republican
-2000,Nebraska,NE,Platte,County,Ralph Nader,Green,266,2.07,12859,Republican
-2000,Nebraska,NE,Platte,County,Pat Buchanan,Independent,66,0.51,12859,Republican
-2000,Nebraska,NE,Platte,County,Harry E. Browne,Libertarian,38,0.3,12859,Republican
-2000,Nebraska,NE,Platte,County,Other,Other,16,0.12,12859,Republican
+2000,Nebraska,NE,Platte,County,Other,Other,386,3.0,12859,Republican
 2000,Nebraska,NE,Polk,County,George W. Bush,Republican,1925,73.67,2613,Republican
 2000,Nebraska,NE,Polk,County,Al Gore,Democratic,610,23.34,2613,Republican
-2000,Nebraska,NE,Polk,County,Ralph Nader,Green,52,1.99,2613,Republican
-2000,Nebraska,NE,Polk,County,Pat Buchanan,Independent,15,0.57,2613,Republican
-2000,Nebraska,NE,Polk,County,Harry E. Browne,Libertarian,8,0.31,2613,Republican
-2000,Nebraska,NE,Polk,County,Other,Other,3,0.11,2613,Republican
+2000,Nebraska,NE,Polk,County,Other,Other,78,2.99,2613,Republican
 2000,Nebraska,NE,Red Willow,County,George W. Bush,Republican,3680,73.23,5025,Republican
 2000,Nebraska,NE,Red Willow,County,Al Gore,Democratic,1188,23.64,5025,Republican
-2000,Nebraska,NE,Red Willow,County,Ralph Nader,Green,103,2.05,5025,Republican
-2000,Nebraska,NE,Red Willow,County,Pat Buchanan,Independent,33,0.66,5025,Republican
-2000,Nebraska,NE,Red Willow,County,Harry E. Browne,Libertarian,15,0.3,5025,Republican
-2000,Nebraska,NE,Red Willow,County,Other,Other,6,0.12,5025,Republican
+2000,Nebraska,NE,Red Willow,County,Other,Other,157,3.13,5025,Republican
 2000,Nebraska,NE,Richardson,County,George W. Bush,Republican,2623,63.2,4150,Republican
 2000,Nebraska,NE,Richardson,County,Al Gore,Democratic,1382,33.3,4150,Republican
-2000,Nebraska,NE,Richardson,County,Ralph Nader,Green,83,2.0,4150,Republican
-2000,Nebraska,NE,Richardson,County,Pat Buchanan,Independent,33,0.8,4150,Republican
-2000,Nebraska,NE,Richardson,County,Harry E. Browne,Libertarian,16,0.39,4150,Republican
-2000,Nebraska,NE,Richardson,County,Other,Other,13,0.31,4150,Republican
+2000,Nebraska,NE,Richardson,County,Other,Other,145,3.5,4150,Republican
 2000,Nebraska,NE,Rock,County,George W. Bush,Republican,725,81.1,894,Republican
 2000,Nebraska,NE,Rock,County,Al Gore,Democratic,141,15.77,894,Republican
-2000,Nebraska,NE,Rock,County,Ralph Nader,Green,17,1.9,894,Republican
-2000,Nebraska,NE,Rock,County,Pat Buchanan,Independent,9,1.01,894,Republican
-2000,Nebraska,NE,Rock,County,Harry E. Browne,Libertarian,1,0.11,894,Republican
-2000,Nebraska,NE,Rock,County,Other,Other,1,0.11,894,Republican
+2000,Nebraska,NE,Rock,County,Other,Other,28,3.13,894,Republican
 2000,Nebraska,NE,Saline,County,George W. Bush,Republican,2581,50.17,5145,Republican
 2000,Nebraska,NE,Saline,County,Al Gore,Democratic,2321,45.11,5145,Republican
-2000,Nebraska,NE,Saline,County,Ralph Nader,Green,187,3.63,5145,Republican
-2000,Nebraska,NE,Saline,County,Pat Buchanan,Independent,35,0.68,5145,Republican
-2000,Nebraska,NE,Saline,County,Harry E. Browne,Libertarian,15,0.29,5145,Republican
-2000,Nebraska,NE,Saline,County,Other,Other,6,0.12,5145,Republican
+2000,Nebraska,NE,Saline,County,Other,Other,243,4.72,5145,Republican
 2000,Nebraska,NE,Sarpy,County,George W. Bush,Republican,28979,64.0,45278,Republican
 2000,Nebraska,NE,Sarpy,County,Al Gore,Democratic,14637,32.33,45278,Republican
-2000,Nebraska,NE,Sarpy,County,Ralph Nader,Green,1308,2.89,45278,Republican
-2000,Nebraska,NE,Sarpy,County,Pat Buchanan,Independent,140,0.31,45278,Republican
-2000,Nebraska,NE,Sarpy,County,Harry E. Browne,Libertarian,165,0.36,45278,Republican
-2000,Nebraska,NE,Sarpy,County,Other,Other,49,0.11,45278,Republican
+2000,Nebraska,NE,Sarpy,County,Other,Other,1662,3.67,45278,Republican
 2000,Nebraska,NE,Saunders,County,George W. Bush,Republican,5688,63.77,8919,Republican
 2000,Nebraska,NE,Saunders,County,Al Gore,Democratic,2852,31.98,8919,Republican
-2000,Nebraska,NE,Saunders,County,Ralph Nader,Green,277,3.11,8919,Republican
-2000,Nebraska,NE,Saunders,County,Pat Buchanan,Independent,68,0.76,8919,Republican
-2000,Nebraska,NE,Saunders,County,Harry E. Browne,Libertarian,24,0.27,8919,Republican
-2000,Nebraska,NE,Saunders,County,Other,Other,10,0.11,8919,Republican
+2000,Nebraska,NE,Saunders,County,Other,Other,379,4.25,8919,Republican
 2000,Nebraska,NE,Scotts Bluff,County,George W. Bush,Republican,9397,67.9,13839,Republican
 2000,Nebraska,NE,Scotts Bluff,County,Al Gore,Democratic,3937,28.45,13839,Republican
-2000,Nebraska,NE,Scotts Bluff,County,Ralph Nader,Green,400,2.89,13839,Republican
-2000,Nebraska,NE,Scotts Bluff,County,Pat Buchanan,Independent,62,0.45,13839,Republican
-2000,Nebraska,NE,Scotts Bluff,County,Harry E. Browne,Libertarian,29,0.21,13839,Republican
-2000,Nebraska,NE,Scotts Bluff,County,Other,Other,14,0.1,13839,Republican
+2000,Nebraska,NE,Scotts Bluff,County,Other,Other,505,3.65,13839,Republican
 2000,Nebraska,NE,Seward,County,George W. Bush,Republican,4457,63.53,7016,Republican
 2000,Nebraska,NE,Seward,County,Al Gore,Democratic,2250,32.07,7016,Republican
-2000,Nebraska,NE,Seward,County,Ralph Nader,Green,245,3.49,7016,Republican
-2000,Nebraska,NE,Seward,County,Pat Buchanan,Independent,36,0.51,7016,Republican
-2000,Nebraska,NE,Seward,County,Harry E. Browne,Libertarian,14,0.2,7016,Republican
-2000,Nebraska,NE,Seward,County,Other,Other,14,0.2,7016,Republican
+2000,Nebraska,NE,Seward,County,Other,Other,309,4.4,7016,Republican
 2000,Nebraska,NE,Sheridan,County,George W. Bush,Republican,2105,81.72,2576,Republican
 2000,Nebraska,NE,Sheridan,County,Al Gore,Democratic,392,15.22,2576,Republican
-2000,Nebraska,NE,Sheridan,County,Ralph Nader,Green,54,2.1,2576,Republican
-2000,Nebraska,NE,Sheridan,County,Pat Buchanan,Independent,18,0.7,2576,Republican
-2000,Nebraska,NE,Sheridan,County,Harry E. Browne,Libertarian,5,0.19,2576,Republican
-2000,Nebraska,NE,Sheridan,County,Other,Other,2,0.08,2576,Republican
+2000,Nebraska,NE,Sheridan,County,Other,Other,79,3.06,2576,Republican
 2000,Nebraska,NE,Sherman,County,George W. Bush,Republican,1072,62.87,1705,Republican
 2000,Nebraska,NE,Sherman,County,Al Gore,Democratic,564,33.08,1705,Republican
-2000,Nebraska,NE,Sherman,County,Ralph Nader,Green,48,2.82,1705,Republican
-2000,Nebraska,NE,Sherman,County,Pat Buchanan,Independent,9,0.53,1705,Republican
-2000,Nebraska,NE,Sherman,County,Harry E. Browne,Libertarian,7,0.41,1705,Republican
-2000,Nebraska,NE,Sherman,County,Other,Other,5,0.29,1705,Republican
+2000,Nebraska,NE,Sherman,County,Other,Other,69,4.05,1705,Republican
 2000,Nebraska,NE,Sioux,County,George W. Bush,Republican,629,83.75,751,Republican
 2000,Nebraska,NE,Sioux,County,Al Gore,Democratic,98,13.05,751,Republican
-2000,Nebraska,NE,Sioux,County,Ralph Nader,Green,17,2.26,751,Republican
-2000,Nebraska,NE,Sioux,County,Pat Buchanan,Independent,4,0.53,751,Republican
-2000,Nebraska,NE,Sioux,County,Harry E. Browne,Libertarian,2,0.27,751,Republican
-2000,Nebraska,NE,Sioux,County,Other,Other,1,0.13,751,Republican
+2000,Nebraska,NE,Sioux,County,Other,Other,25,3.33,751,Republican
 2000,Nebraska,NE,Stanton,County,George W. Bush,Republican,1895,76.23,2486,Republican
 2000,Nebraska,NE,Stanton,County,Al Gore,Democratic,500,20.11,2486,Republican
-2000,Nebraska,NE,Stanton,County,Ralph Nader,Green,53,2.13,2486,Republican
-2000,Nebraska,NE,Stanton,County,Pat Buchanan,Independent,21,0.84,2486,Republican
-2000,Nebraska,NE,Stanton,County,Harry E. Browne,Libertarian,8,0.32,2486,Republican
-2000,Nebraska,NE,Stanton,County,Other,Other,9,0.36,2486,Republican
+2000,Nebraska,NE,Stanton,County,Other,Other,91,3.66,2486,Republican
 2000,Nebraska,NE,Thayer,County,George W. Bush,Republican,2096,69.73,3006,Republican
 2000,Nebraska,NE,Thayer,County,Al Gore,Democratic,821,27.31,3006,Republican
-2000,Nebraska,NE,Thayer,County,Ralph Nader,Green,65,2.16,3006,Republican
-2000,Nebraska,NE,Thayer,County,Pat Buchanan,Independent,13,0.43,3006,Republican
-2000,Nebraska,NE,Thayer,County,Harry E. Browne,Libertarian,5,0.17,3006,Republican
-2000,Nebraska,NE,Thayer,County,Other,Other,6,0.2,3006,Republican
+2000,Nebraska,NE,Thayer,County,Other,Other,89,2.96,3006,Republican
 2000,Nebraska,NE,Thomas,County,George W. Bush,Republican,329,83.29,395,Republican
 2000,Nebraska,NE,Thomas,County,Al Gore,Democratic,55,13.92,395,Republican
-2000,Nebraska,NE,Thomas,County,Ralph Nader,Green,9,2.28,395,Republican
-2000,Nebraska,NE,Thomas,County,Pat Buchanan,Independent,2,0.51,395,Republican
-2000,Nebraska,NE,Thomas,County,Harry E. Browne,Libertarian,0,0.0,395,Republican
-2000,Nebraska,NE,Thomas,County,Other,Other,0,0.0,395,Republican
+2000,Nebraska,NE,Thomas,County,Other,Other,11,2.79,395,Republican
 2000,Nebraska,NE,Thurston,County,George W. Bush,Republican,1040,49.95,2082,Republican
 2000,Nebraska,NE,Thurston,County,Al Gore,Democratic,924,44.38,2082,Republican
-2000,Nebraska,NE,Thurston,County,Ralph Nader,Green,56,2.69,2082,Republican
-2000,Nebraska,NE,Thurston,County,Pat Buchanan,Independent,51,2.45,2082,Republican
-2000,Nebraska,NE,Thurston,County,Harry E. Browne,Libertarian,5,0.24,2082,Republican
-2000,Nebraska,NE,Thurston,County,Other,Other,6,0.29,2082,Republican
+2000,Nebraska,NE,Thurston,County,Other,Other,118,5.67,2082,Republican
 2000,Nebraska,NE,Valley,County,George W. Bush,Republican,1610,71.18,2262,Republican
 2000,Nebraska,NE,Valley,County,Al Gore,Democratic,583,25.77,2262,Republican
-2000,Nebraska,NE,Valley,County,Ralph Nader,Green,45,1.99,2262,Republican
-2000,Nebraska,NE,Valley,County,Pat Buchanan,Independent,17,0.75,2262,Republican
-2000,Nebraska,NE,Valley,County,Harry E. Browne,Libertarian,4,0.18,2262,Republican
-2000,Nebraska,NE,Valley,County,Other,Other,3,0.13,2262,Republican
+2000,Nebraska,NE,Valley,County,Other,Other,70,3.1,2262,Republican
 2000,Nebraska,NE,Washington,County,George W. Bush,Republican,5758,66.75,8626,Republican
 2000,Nebraska,NE,Washington,County,Al Gore,Democratic,2550,29.56,8626,Republican
-2000,Nebraska,NE,Washington,County,Ralph Nader,Green,234,2.71,8626,Republican
-2000,Nebraska,NE,Washington,County,Pat Buchanan,Independent,30,0.35,8626,Republican
-2000,Nebraska,NE,Washington,County,Harry E. Browne,Libertarian,41,0.48,8626,Republican
-2000,Nebraska,NE,Washington,County,Other,Other,13,0.15,8626,Republican
+2000,Nebraska,NE,Washington,County,Other,Other,318,3.69,8626,Republican
 2000,Nebraska,NE,Wayne,County,George W. Bush,Republican,2774,70.41,3940,Republican
 2000,Nebraska,NE,Wayne,County,Al Gore,Democratic,1001,25.41,3940,Republican
-2000,Nebraska,NE,Wayne,County,Ralph Nader,Green,119,3.02,3940,Republican
-2000,Nebraska,NE,Wayne,County,Pat Buchanan,Independent,33,0.84,3940,Republican
-2000,Nebraska,NE,Wayne,County,Harry E. Browne,Libertarian,6,0.15,3940,Republican
-2000,Nebraska,NE,Wayne,County,Other,Other,7,0.18,3940,Republican
+2000,Nebraska,NE,Wayne,County,Other,Other,165,4.18,3940,Republican
 2000,Nebraska,NE,Webster,County,George W. Bush,Republican,1302,66.94,1945,Republican
 2000,Nebraska,NE,Webster,County,Al Gore,Democratic,584,30.03,1945,Republican
-2000,Nebraska,NE,Webster,County,Ralph Nader,Green,48,2.47,1945,Republican
-2000,Nebraska,NE,Webster,County,Pat Buchanan,Independent,9,0.46,1945,Republican
-2000,Nebraska,NE,Webster,County,Harry E. Browne,Libertarian,1,0.05,1945,Republican
-2000,Nebraska,NE,Webster,County,Other,Other,1,0.05,1945,Republican
+2000,Nebraska,NE,Webster,County,Other,Other,59,3.03,1945,Republican
 2000,Nebraska,NE,Wheeler,County,George W. Bush,Republican,351,77.48,453,Republican
 2000,Nebraska,NE,Wheeler,County,Al Gore,Democratic,85,18.76,453,Republican
-2000,Nebraska,NE,Wheeler,County,Ralph Nader,Green,11,2.43,453,Republican
-2000,Nebraska,NE,Wheeler,County,Pat Buchanan,Independent,4,0.88,453,Republican
-2000,Nebraska,NE,Wheeler,County,Harry E. Browne,Libertarian,2,0.44,453,Republican
-2000,Nebraska,NE,Wheeler,County,Other,Other,0,0.0,453,Republican
+2000,Nebraska,NE,Wheeler,County,Other,Other,17,3.76,453,Republican
 2000,Nebraska,NE,York,County,George W. Bush,Republican,4816,74.55,6460,Republican
 2000,Nebraska,NE,York,County,Al Gore,Democratic,1407,21.78,6460,Republican
-2000,Nebraska,NE,York,County,Ralph Nader,Green,161,2.49,6460,Republican
-2000,Nebraska,NE,York,County,Pat Buchanan,Independent,59,0.91,6460,Republican
-2000,Nebraska,NE,York,County,Harry E. Browne,Libertarian,8,0.12,6460,Republican
-2000,Nebraska,NE,York,County,Other,Other,9,0.14,6460,Republican
+2000,Nebraska,NE,York,County,Other,Other,237,3.67,6460,Republican
 2000,Nevada,NV,Carson City,County,George W. Bush,Republican,11084,56.98,19452,Republican
 2000,Nevada,NV,Carson City,County,Al Gore,Democratic,7354,37.81,19452,Republican
 2000,Nevada,NV,Carson City,County,Other,Other,1014,5.21,19452,Republican
@@ -9719,6 +9440,681 @@ year,state,state_code,county,subdivision_type,candidate,party,votes,percentage,t
 2000,Vermont,VT,Windsor,County,George W. Bush,Republican,11713,40.19,29147,Democratic
 2000,Vermont,VT,Windsor,County,Ralph Nader,Green,1792,6.15,29147,Democratic
 2000,Vermont,VT,Windsor,County,Other,Other,502,1.72,29147,Democratic
+2000,Virginia,VA,Accomack,County,George W. Bush,Republican,6352,53.27,11925,Republican
+2000,Virginia,VA,Accomack,County,Al Gore,Democratic,5092,42.7,11925,Republican
+2000,Virginia,VA,Accomack,County,Ralph Nader,Green,220,1.84,11925,Republican
+2000,Virginia,VA,Accomack,County,Harry Browne,Libertarian,188,1.58,11925,Republican
+2000,Virginia,VA,Accomack,County,Other,Other,73,0.61,11925,Republican
+2000,Virginia,VA,Albemarle,County,George W. Bush,Republican,18291,49.64,36846,Republican
+2000,Virginia,VA,Albemarle,County,Al Gore,Democratic,16255,44.12,36846,Republican
+2000,Virginia,VA,Albemarle,County,Ralph Nader,Green,2043,5.54,36846,Republican
+2000,Virginia,VA,Albemarle,County,Harry Browne,Libertarian,167,0.45,36846,Republican
+2000,Virginia,VA,Albemarle,County,Other,Other,90,0.24,36846,Republican
+2000,Virginia,VA,Alexandria,County,George W. Bush,Republican,19043,34.5,55199,Democratic
+2000,Virginia,VA,Alexandria,County,Al Gore,Democratic,33633,60.93,55199,Democratic
+2000,Virginia,VA,Alexandria,County,Ralph Nader,Green,2094,3.79,55199,Democratic
+2000,Virginia,VA,Alexandria,County,Harry Browne,Libertarian,223,0.4,55199,Democratic
+2000,Virginia,VA,Alexandria,County,Other,Other,206,0.37,55199,Democratic
+2000,Virginia,VA,Alleghany,County,George W. Bush,Republican,2808,54.81,5123,Republican
+2000,Virginia,VA,Alleghany,County,Al Gore,Democratic,2214,43.22,5123,Republican
+2000,Virginia,VA,Alleghany,County,Ralph Nader,Green,62,1.21,5123,Republican
+2000,Virginia,VA,Alleghany,County,Harry Browne,Libertarian,25,0.49,5123,Republican
+2000,Virginia,VA,Alleghany,County,Other,Other,14,0.27,5123,Republican
+2000,Virginia,VA,Amelia,County,George W. Bush,Republican,2947,61.55,4788,Republican
+2000,Virginia,VA,Amelia,County,Al Gore,Democratic,1754,36.63,4788,Republican
+2000,Virginia,VA,Amelia,County,Ralph Nader,Green,40,0.84,4788,Republican
+2000,Virginia,VA,Amelia,County,Harry Browne,Libertarian,24,0.5,4788,Republican
+2000,Virginia,VA,Amelia,County,Other,Other,23,0.48,4788,Republican
+2000,Virginia,VA,Amherst,County,George W. Bush,Republican,6660,56.86,11712,Republican
+2000,Virginia,VA,Amherst,County,Al Gore,Democratic,4812,41.09,11712,Republican
+2000,Virginia,VA,Amherst,County,Ralph Nader,Green,135,1.15,11712,Republican
+2000,Virginia,VA,Amherst,County,Harry Browne,Libertarian,67,0.57,11712,Republican
+2000,Virginia,VA,Amherst,County,Other,Other,38,0.32,11712,Republican
+2000,Virginia,VA,Appomattox,County,George W. Bush,Republican,3654,61.65,5927,Republican
+2000,Virginia,VA,Appomattox,County,Al Gore,Democratic,2132,35.97,5927,Republican
+2000,Virginia,VA,Appomattox,County,Ralph Nader,Green,62,1.05,5927,Republican
+2000,Virginia,VA,Appomattox,County,Harry Browne,Libertarian,60,1.01,5927,Republican
+2000,Virginia,VA,Appomattox,County,Other,Other,19,0.32,5927,Republican
+2000,Virginia,VA,Arlington,County,George W. Bush,Republican,28555,34.17,83559,Democratic
+2000,Virginia,VA,Arlington,County,Al Gore,Democratic,50260,60.15,83559,Democratic
+2000,Virginia,VA,Arlington,County,Ralph Nader,Green,3952,4.73,83559,Democratic
+2000,Virginia,VA,Arlington,County,Harry Browne,Libertarian,463,0.55,83559,Democratic
+2000,Virginia,VA,Arlington,County,Other,Other,329,0.39,83559,Democratic
+2000,Virginia,VA,Augusta,County,George W. Bush,Republican,17744,70.21,25271,Republican
+2000,Virginia,VA,Augusta,County,Al Gore,Democratic,6643,26.29,25271,Republican
+2000,Virginia,VA,Augusta,County,Ralph Nader,Green,527,2.09,25271,Republican
+2000,Virginia,VA,Augusta,County,Harry Browne,Libertarian,269,1.06,25271,Republican
+2000,Virginia,VA,Augusta,County,Other,Other,88,0.35,25271,Republican
+2000,Virginia,VA,Bath,County,George W. Bush,Republican,1311,59.32,2210,Republican
+2000,Virginia,VA,Bath,County,Al Gore,Democratic,822,37.19,2210,Republican
+2000,Virginia,VA,Bath,County,Ralph Nader,Green,35,1.58,2210,Republican
+2000,Virginia,VA,Bath,County,Harry Browne,Libertarian,27,1.22,2210,Republican
+2000,Virginia,VA,Bath,County,Other,Other,15,0.68,2210,Republican
+2000,Virginia,VA,Bedford,County,George W. Bush,Republican,17224,65.87,26149,Republican
+2000,Virginia,VA,Bedford,County,Al Gore,Democratic,8160,31.21,26149,Republican
+2000,Virginia,VA,Bedford,County,Ralph Nader,Green,376,1.44,26149,Republican
+2000,Virginia,VA,Bedford,County,Harry Browne,Libertarian,268,1.02,26149,Republican
+2000,Virginia,VA,Bedford,County,Other,Other,121,0.46,26149,Republican
+2000,Virginia,VA,Bedford City,County,George W. Bush,Republican,1269,51.99,2441,Republican
+2000,Virginia,VA,Bedford City,County,Al Gore,Democratic,1078,44.16,2441,Republican
+2000,Virginia,VA,Bedford City,County,Ralph Nader,Green,38,1.56,2441,Republican
+2000,Virginia,VA,Bedford City,County,Harry Browne,Libertarian,35,1.43,2441,Republican
+2000,Virginia,VA,Bedford City,County,Other,Other,21,0.86,2441,Republican
+2000,Virginia,VA,Bland,County,George W. Bush,Republican,1759,65.44,2688,Republican
+2000,Virginia,VA,Bland,County,Al Gore,Democratic,851,31.66,2688,Republican
+2000,Virginia,VA,Bland,County,Ralph Nader,Green,42,1.56,2688,Republican
+2000,Virginia,VA,Bland,County,Harry Browne,Libertarian,20,0.74,2688,Republican
+2000,Virginia,VA,Bland,County,Other,Other,16,0.6,2688,Republican
+2000,Virginia,VA,Botetourt,County,George W. Bush,Republican,8867,64.07,13840,Republican
+2000,Virginia,VA,Botetourt,County,Al Gore,Democratic,4627,33.43,13840,Republican
+2000,Virginia,VA,Botetourt,County,Ralph Nader,Green,207,1.5,13840,Republican
+2000,Virginia,VA,Botetourt,County,Harry Browne,Libertarian,88,0.64,13840,Republican
+2000,Virginia,VA,Botetourt,County,Other,Other,51,0.37,13840,Republican
+2000,Virginia,VA,Bristol,County,George W. Bush,Republican,3495,55.66,6279,Republican
+2000,Virginia,VA,Bristol,County,Al Gore,Democratic,2646,42.14,6279,Republican
+2000,Virginia,VA,Bristol,County,Ralph Nader,Green,89,1.42,6279,Republican
+2000,Virginia,VA,Bristol,County,Harry Browne,Libertarian,20,0.32,6279,Republican
+2000,Virginia,VA,Bristol,County,Other,Other,29,0.46,6279,Republican
+2000,Virginia,VA,Brunswick,County,George W. Bush,Republican,2561,42.7,5997,Democratic
+2000,Virginia,VA,Brunswick,County,Al Gore,Democratic,3387,56.48,5997,Democratic
+2000,Virginia,VA,Brunswick,County,Ralph Nader,Green,28,0.47,5997,Democratic
+2000,Virginia,VA,Brunswick,County,Harry Browne,Libertarian,13,0.22,5997,Democratic
+2000,Virginia,VA,Brunswick,County,Other,Other,8,0.13,5997,Democratic
+2000,Virginia,VA,Buchanan,County,George W. Bush,Republican,3867,39.23,9856,Democratic
+2000,Virginia,VA,Buchanan,County,Al Gore,Democratic,5745,58.29,9856,Democratic
+2000,Virginia,VA,Buchanan,County,Ralph Nader,Green,65,0.66,9856,Democratic
+2000,Virginia,VA,Buchanan,County,Harry Browne,Libertarian,132,1.34,9856,Democratic
+2000,Virginia,VA,Buchanan,County,Other,Other,47,0.48,9856,Democratic
+2000,Virginia,VA,Buckingham,County,George W. Bush,Republican,2738,50.2,5454,Republican
+2000,Virginia,VA,Buckingham,County,Al Gore,Democratic,2561,46.96,5454,Republican
+2000,Virginia,VA,Buckingham,County,Ralph Nader,Green,96,1.76,5454,Republican
+2000,Virginia,VA,Buckingham,County,Harry Browne,Libertarian,39,0.72,5454,Republican
+2000,Virginia,VA,Buckingham,County,Other,Other,20,0.37,5454,Republican
+2000,Virginia,VA,Buena Vista,County,George W. Bush,Republican,980,49.62,1975,Republican
+2000,Virginia,VA,Buena Vista,County,Al Gore,Democratic,941,47.65,1975,Republican
+2000,Virginia,VA,Buena Vista,County,Ralph Nader,Green,27,1.37,1975,Republican
+2000,Virginia,VA,Buena Vista,County,Harry Browne,Libertarian,19,0.96,1975,Republican
+2000,Virginia,VA,Buena Vista,County,Other,Other,8,0.41,1975,Republican
+2000,Virginia,VA,Campbell,County,George W. Bush,Republican,13162,64.75,20327,Republican
+2000,Virginia,VA,Campbell,County,Al Gore,Democratic,6659,32.76,20327,Republican
+2000,Virginia,VA,Campbell,County,Ralph Nader,Green,236,1.16,20327,Republican
+2000,Virginia,VA,Campbell,County,Harry Browne,Libertarian,199,0.98,20327,Republican
+2000,Virginia,VA,Campbell,County,Other,Other,71,0.35,20327,Republican
+2000,Virginia,VA,Caroline,County,George W. Bush,Republican,3873,46.38,8351,Democratic
+2000,Virginia,VA,Caroline,County,Al Gore,Democratic,4314,51.66,8351,Democratic
+2000,Virginia,VA,Caroline,County,Ralph Nader,Green,102,1.22,8351,Democratic
+2000,Virginia,VA,Caroline,County,Harry Browne,Libertarian,38,0.46,8351,Democratic
+2000,Virginia,VA,Caroline,County,Other,Other,24,0.29,8351,Democratic
+2000,Virginia,VA,Carroll,County,George W. Bush,Republican,7142,64.92,11001,Republican
+2000,Virginia,VA,Carroll,County,Al Gore,Democratic,3638,33.07,11001,Republican
+2000,Virginia,VA,Carroll,County,Ralph Nader,Green,126,1.15,11001,Republican
+2000,Virginia,VA,Carroll,County,Harry Browne,Libertarian,52,0.47,11001,Republican
+2000,Virginia,VA,Carroll,County,Other,Other,43,0.39,11001,Republican
+2000,Virginia,VA,Charles City,County,George W. Bush,Republican,1023,33.37,3066,Democratic
+2000,Virginia,VA,Charles City,County,Al Gore,Democratic,1981,64.61,3066,Democratic
+2000,Virginia,VA,Charles City,County,Ralph Nader,Green,31,1.01,3066,Democratic
+2000,Virginia,VA,Charles City,County,Harry Browne,Libertarian,19,0.62,3066,Democratic
+2000,Virginia,VA,Charles City,County,Other,Other,12,0.39,3066,Democratic
+2000,Virginia,VA,Charlotte,County,George W. Bush,Republican,2855,57.17,4994,Republican
+2000,Virginia,VA,Charlotte,County,Al Gore,Democratic,2017,40.39,4994,Republican
+2000,Virginia,VA,Charlotte,County,Ralph Nader,Green,43,0.86,4994,Republican
+2000,Virginia,VA,Charlotte,County,Harry Browne,Libertarian,46,0.92,4994,Republican
+2000,Virginia,VA,Charlotte,County,Other,Other,33,0.66,4994,Republican
+2000,Virginia,VA,Charlottesville,County,George W. Bush,Republican,4034,30.51,13224,Democratic
+2000,Virginia,VA,Charlottesville,County,Al Gore,Democratic,7762,58.7,13224,Democratic
+2000,Virginia,VA,Charlottesville,County,Ralph Nader,Green,1196,9.04,13224,Democratic
+2000,Virginia,VA,Charlottesville,County,Harry Browne,Libertarian,111,0.84,13224,Democratic
+2000,Virginia,VA,Charlottesville,County,Other,Other,121,0.92,13224,Democratic
+2000,Virginia,VA,Chesapeake,County,George W. Bush,Republican,39684,53.21,74585,Republican
+2000,Virginia,VA,Chesapeake,County,Al Gore,Democratic,33578,45.02,74585,Republican
+2000,Virginia,VA,Chesapeake,County,Ralph Nader,Green,732,0.98,74585,Republican
+2000,Virginia,VA,Chesapeake,County,Harry Browne,Libertarian,322,0.43,74585,Republican
+2000,Virginia,VA,Chesapeake,County,Other,Other,269,0.36,74585,Republican
+2000,Virginia,VA,Chesterfield,County,George W. Bush,Republican,69924,63.02,110951,Republican
+2000,Virginia,VA,Chesterfield,County,Al Gore,Democratic,38638,34.82,110951,Republican
+2000,Virginia,VA,Chesterfield,County,Ralph Nader,Green,1646,1.48,110951,Republican
+2000,Virginia,VA,Chesterfield,County,Harry Browne,Libertarian,335,0.3,110951,Republican
+2000,Virginia,VA,Chesterfield,County,Other,Other,408,0.37,110951,Republican
+2000,Virginia,VA,Clarke,County,George W. Bush,Republican,2883,54.56,5284,Republican
+2000,Virginia,VA,Clarke,County,Al Gore,Democratic,2166,40.99,5284,Republican
+2000,Virginia,VA,Clarke,County,Ralph Nader,Green,195,3.69,5284,Republican
+2000,Virginia,VA,Clarke,County,Harry Browne,Libertarian,19,0.36,5284,Republican
+2000,Virginia,VA,Clarke,County,Other,Other,21,0.4,5284,Republican
+2000,Virginia,VA,Clifton Forge,County,George W. Bush,Republican,613,40.01,1532,Democratic
+2000,Virginia,VA,Clifton Forge,County,Al Gore,Democratic,868,56.66,1532,Democratic
+2000,Virginia,VA,Clifton Forge,County,Ralph Nader,Green,25,1.63,1532,Democratic
+2000,Virginia,VA,Clifton Forge,County,Harry Browne,Libertarian,20,1.31,1532,Democratic
+2000,Virginia,VA,Clifton Forge,County,Other,Other,6,0.39,1532,Democratic
+2000,Virginia,VA,Colonial Heights,County,George W. Bush,Republican,5519,70.92,7782,Republican
+2000,Virginia,VA,Colonial Heights,County,Al Gore,Democratic,2100,26.99,7782,Republican
+2000,Virginia,VA,Colonial Heights,County,Ralph Nader,Green,123,1.58,7782,Republican
+2000,Virginia,VA,Colonial Heights,County,Harry Browne,Libertarian,19,0.24,7782,Republican
+2000,Virginia,VA,Colonial Heights,County,Other,Other,21,0.27,7782,Republican
+2000,Virginia,VA,Covington,County,George W. Bush,Republican,966,43.63,2214,Democratic
+2000,Virginia,VA,Covington,County,Al Gore,Democratic,1168,52.76,2214,Democratic
+2000,Virginia,VA,Covington,County,Ralph Nader,Green,24,1.08,2214,Democratic
+2000,Virginia,VA,Covington,County,Harry Browne,Libertarian,40,1.81,2214,Democratic
+2000,Virginia,VA,Covington,County,Other,Other,16,0.72,2214,Democratic
+2000,Virginia,VA,Craig,County,George W. Bush,Republican,1580,63.38,2493,Republican
+2000,Virginia,VA,Craig,County,Al Gore,Democratic,851,34.14,2493,Republican
+2000,Virginia,VA,Craig,County,Ralph Nader,Green,39,1.56,2493,Republican
+2000,Virginia,VA,Craig,County,Harry Browne,Libertarian,14,0.56,2493,Republican
+2000,Virginia,VA,Craig,County,Other,Other,9,0.36,2493,Republican
+2000,Virginia,VA,Culpeper,County,George W. Bush,Republican,7440,60.76,12244,Republican
+2000,Virginia,VA,Culpeper,County,Al Gore,Democratic,4364,35.64,12244,Republican
+2000,Virginia,VA,Culpeper,County,Ralph Nader,Green,253,2.07,12244,Republican
+2000,Virginia,VA,Culpeper,County,Harry Browne,Libertarian,137,1.12,12244,Republican
+2000,Virginia,VA,Culpeper,County,Other,Other,50,0.41,12244,Republican
+2000,Virginia,VA,Cumberland,County,George W. Bush,Republican,1974,56.29,3507,Republican
+2000,Virginia,VA,Cumberland,County,Al Gore,Democratic,1405,40.06,3507,Republican
+2000,Virginia,VA,Cumberland,County,Ralph Nader,Green,35,1.0,3507,Republican
+2000,Virginia,VA,Cumberland,County,Harry Browne,Libertarian,75,2.14,3507,Republican
+2000,Virginia,VA,Cumberland,County,Other,Other,18,0.51,3507,Republican
+2000,Virginia,VA,Danville,County,George W. Bush,Republican,9427,51.49,18307,Republican
+2000,Virginia,VA,Danville,County,Al Gore,Democratic,8221,44.91,18307,Republican
+2000,Virginia,VA,Danville,County,Ralph Nader,Green,168,0.92,18307,Republican
+2000,Virginia,VA,Danville,County,Harry Browne,Libertarian,437,2.39,18307,Republican
+2000,Virginia,VA,Danville,County,Other,Other,54,0.29,18307,Republican
+2000,Virginia,VA,Dickenson,County,George W. Bush,Republican,3122,43.21,7226,Democratic
+2000,Virginia,VA,Dickenson,County,Al Gore,Democratic,3951,54.68,7226,Democratic
+2000,Virginia,VA,Dickenson,County,Ralph Nader,Green,85,1.18,7226,Democratic
+2000,Virginia,VA,Dickenson,County,Harry Browne,Libertarian,37,0.51,7226,Democratic
+2000,Virginia,VA,Dickenson,County,Other,Other,31,0.43,7226,Democratic
+2000,Virginia,VA,Dinwiddie,County,George W. Bush,Republican,4959,54.28,9136,Republican
+2000,Virginia,VA,Dinwiddie,County,Al Gore,Democratic,4001,43.79,9136,Republican
+2000,Virginia,VA,Dinwiddie,County,Ralph Nader,Green,74,0.81,9136,Republican
+2000,Virginia,VA,Dinwiddie,County,Harry Browne,Libertarian,58,0.63,9136,Republican
+2000,Virginia,VA,Dinwiddie,County,Other,Other,44,0.48,9136,Republican
+2000,Virginia,VA,Emporia,County,George W. Bush,Republican,938,45.1,2080,Democratic
+2000,Virginia,VA,Emporia,County,Al Gore,Democratic,1116,53.65,2080,Democratic
+2000,Virginia,VA,Emporia,County,Ralph Nader,Green,17,0.82,2080,Democratic
+2000,Virginia,VA,Emporia,County,Harry Browne,Libertarian,4,0.19,2080,Democratic
+2000,Virginia,VA,Emporia,County,Other,Other,5,0.24,2080,Democratic
+2000,Virginia,VA,Essex,County,George W. Bush,Republican,1995,52.08,3831,Republican
+2000,Virginia,VA,Essex,County,Al Gore,Democratic,1750,45.68,3831,Republican
+2000,Virginia,VA,Essex,County,Ralph Nader,Green,59,1.54,3831,Republican
+2000,Virginia,VA,Essex,County,Harry Browne,Libertarian,19,0.5,3831,Republican
+2000,Virginia,VA,Essex,County,Other,Other,8,0.21,3831,Republican
+2000,Virginia,VA,Fairfax,County,George W. Bush,Republican,202181,48.86,413775,Republican
+2000,Virginia,VA,Fairfax,County,Al Gore,Democratic,196501,47.49,413775,Republican
+2000,Virginia,VA,Fairfax,County,Ralph Nader,Green,12201,2.95,413775,Republican
+2000,Virginia,VA,Fairfax,County,Harry Browne,Libertarian,1546,0.37,413775,Republican
+2000,Virginia,VA,Fairfax,County,Other,Other,1346,0.33,413775,Republican
+2000,Virginia,VA,Fairfax City,County,George W. Bush,Republican,4762,49.83,9556,Republican
+2000,Virginia,VA,Fairfax City,County,Al Gore,Democratic,4361,45.64,9556,Republican
+2000,Virginia,VA,Fairfax City,County,Ralph Nader,Green,352,3.68,9556,Republican
+2000,Virginia,VA,Fairfax City,County,Harry Browne,Libertarian,39,0.41,9556,Republican
+2000,Virginia,VA,Fairfax City,County,Other,Other,42,0.44,9556,Republican
+2000,Virginia,VA,Falls Church,County,George W. Bush,Republican,2131,38.1,5593,Democratic
+2000,Virginia,VA,Falls Church,County,Al Gore,Democratic,3109,55.59,5593,Democratic
+2000,Virginia,VA,Falls Church,County,Ralph Nader,Green,285,5.1,5593,Democratic
+2000,Virginia,VA,Falls Church,County,Harry Browne,Libertarian,38,0.68,5593,Democratic
+2000,Virginia,VA,Falls Church,County,Other,Other,30,0.54,5593,Democratic
+2000,Virginia,VA,Fauquier,County,George W. Bush,Republican,14456,61.56,23481,Republican
+2000,Virginia,VA,Fauquier,County,Al Gore,Democratic,8296,35.33,23481,Republican
+2000,Virginia,VA,Fauquier,County,Ralph Nader,Green,570,2.43,23481,Republican
+2000,Virginia,VA,Fauquier,County,Harry Browne,Libertarian,60,0.26,23481,Republican
+2000,Virginia,VA,Fauquier,County,Other,Other,99,0.42,23481,Republican
+2000,Virginia,VA,Floyd,County,George W. Bush,Republican,3423,59.64,5739,Republican
+2000,Virginia,VA,Floyd,County,Al Gore,Democratic,1957,34.1,5739,Republican
+2000,Virginia,VA,Floyd,County,Ralph Nader,Green,244,4.25,5739,Republican
+2000,Virginia,VA,Floyd,County,Harry Browne,Libertarian,48,0.84,5739,Republican
+2000,Virginia,VA,Floyd,County,Other,Other,67,1.17,5739,Republican
+2000,Virginia,VA,Fluvanna,County,George W. Bush,Republican,4962,57.0,8706,Republican
+2000,Virginia,VA,Fluvanna,County,Al Gore,Democratic,3431,39.41,8706,Republican
+2000,Virginia,VA,Fluvanna,County,Ralph Nader,Green,252,2.89,8706,Republican
+2000,Virginia,VA,Fluvanna,County,Harry Browne,Libertarian,38,0.44,8706,Republican
+2000,Virginia,VA,Fluvanna,County,Other,Other,23,0.26,8706,Republican
+2000,Virginia,VA,Franklin,County,George W. Bush,Republican,11225,59.62,18829,Republican
+2000,Virginia,VA,Franklin,County,Al Gore,Democratic,7145,37.95,18829,Republican
+2000,Virginia,VA,Franklin,County,Ralph Nader,Green,303,1.61,18829,Republican
+2000,Virginia,VA,Franklin,County,Harry Browne,Libertarian,87,0.46,18829,Republican
+2000,Virginia,VA,Franklin,County,Other,Other,69,0.37,18829,Republican
+2000,Virginia,VA,Franklin City,County,George W. Bush,Republican,1393,43.65,3191,Democratic
+2000,Virginia,VA,Franklin City,County,Al Gore,Democratic,1763,55.25,3191,Democratic
+2000,Virginia,VA,Franklin City,County,Ralph Nader,Green,25,0.78,3191,Democratic
+2000,Virginia,VA,Franklin City,County,Harry Browne,Libertarian,8,0.25,3191,Democratic
+2000,Virginia,VA,Franklin City,County,Other,Other,2,0.06,3191,Democratic
+2000,Virginia,VA,Frederick,County,George W. Bush,Republican,14574,65.09,22392,Republican
+2000,Virginia,VA,Frederick,County,Al Gore,Democratic,7158,31.97,22392,Republican
+2000,Virginia,VA,Frederick,County,Ralph Nader,Green,483,2.16,22392,Republican
+2000,Virginia,VA,Frederick,County,Harry Browne,Libertarian,80,0.36,22392,Republican
+2000,Virginia,VA,Frederick,County,Other,Other,97,0.43,22392,Republican
+2000,Virginia,VA,Fredericksburg,County,George W. Bush,Republican,2935,43.93,6681,Democratic
+2000,Virginia,VA,Fredericksburg,County,Al Gore,Democratic,3360,50.29,6681,Democratic
+2000,Virginia,VA,Fredericksburg,County,Ralph Nader,Green,326,4.88,6681,Democratic
+2000,Virginia,VA,Fredericksburg,County,Harry Browne,Libertarian,36,0.54,6681,Democratic
+2000,Virginia,VA,Fredericksburg,County,Other,Other,24,0.36,6681,Democratic
+2000,Virginia,VA,Galax,County,George W. Bush,Republican,1160,52.42,2213,Republican
+2000,Virginia,VA,Galax,County,Al Gore,Democratic,996,45.01,2213,Republican
+2000,Virginia,VA,Galax,County,Ralph Nader,Green,42,1.9,2213,Republican
+2000,Virginia,VA,Galax,County,Harry Browne,Libertarian,5,0.23,2213,Republican
+2000,Virginia,VA,Galax,County,Other,Other,10,0.45,2213,Republican
+2000,Virginia,VA,Giles,County,George W. Bush,Republican,3574,52.4,6820,Republican
+2000,Virginia,VA,Giles,County,Al Gore,Democratic,3004,44.05,6820,Republican
+2000,Virginia,VA,Giles,County,Ralph Nader,Green,137,2.01,6820,Republican
+2000,Virginia,VA,Giles,County,Harry Browne,Libertarian,70,1.03,6820,Republican
+2000,Virginia,VA,Giles,County,Other,Other,35,0.51,6820,Republican
+2000,Virginia,VA,Gloucester,County,George W. Bush,Republican,8718,63.64,13699,Republican
+2000,Virginia,VA,Gloucester,County,Al Gore,Democratic,4553,33.24,13699,Republican
+2000,Virginia,VA,Gloucester,County,Ralph Nader,Green,225,1.64,13699,Republican
+2000,Virginia,VA,Gloucester,County,Harry Browne,Libertarian,148,1.08,13699,Republican
+2000,Virginia,VA,Gloucester,County,Other,Other,55,0.4,13699,Republican
+2000,Virginia,VA,Goochland,County,George W. Bush,Republican,5378,61.27,8777,Republican
+2000,Virginia,VA,Goochland,County,Al Gore,Democratic,3197,36.42,8777,Republican
+2000,Virginia,VA,Goochland,County,Ralph Nader,Green,139,1.58,8777,Republican
+2000,Virginia,VA,Goochland,County,Harry Browne,Libertarian,42,0.48,8777,Republican
+2000,Virginia,VA,Goochland,County,Other,Other,21,0.24,8777,Republican
+2000,Virginia,VA,Grayson,County,George W. Bush,Republican,4236,61.82,6852,Republican
+2000,Virginia,VA,Grayson,County,Al Gore,Democratic,2467,36.0,6852,Republican
+2000,Virginia,VA,Grayson,County,Ralph Nader,Green,102,1.49,6852,Republican
+2000,Virginia,VA,Grayson,County,Harry Browne,Libertarian,15,0.22,6852,Republican
+2000,Virginia,VA,Grayson,County,Other,Other,32,0.47,6852,Republican
+2000,Virginia,VA,Greene,County,George W. Bush,Republican,3375,62.36,5412,Republican
+2000,Virginia,VA,Greene,County,Al Gore,Democratic,1774,32.78,5412,Republican
+2000,Virginia,VA,Greene,County,Ralph Nader,Green,194,3.58,5412,Republican
+2000,Virginia,VA,Greene,County,Harry Browne,Libertarian,50,0.92,5412,Republican
+2000,Virginia,VA,Greene,County,Other,Other,19,0.35,5412,Republican
+2000,Virginia,VA,Greensville,County,George W. Bush,Republican,1565,40.07,3906,Democratic
+2000,Virginia,VA,Greensville,County,Al Gore,Democratic,2314,59.24,3906,Democratic
+2000,Virginia,VA,Greensville,County,Ralph Nader,Green,13,0.33,3906,Democratic
+2000,Virginia,VA,Greensville,County,Harry Browne,Libertarian,4,0.1,3906,Democratic
+2000,Virginia,VA,Greensville,County,Other,Other,10,0.26,3906,Democratic
+2000,Virginia,VA,Halifax,County,George W. Bush,Republican,7732,54.95,14072,Republican
+2000,Virginia,VA,Halifax,County,Al Gore,Democratic,5963,42.37,14072,Republican
+2000,Virginia,VA,Halifax,County,Ralph Nader,Green,110,0.78,14072,Republican
+2000,Virginia,VA,Halifax,County,Harry Browne,Libertarian,211,1.5,14072,Republican
+2000,Virginia,VA,Halifax,County,Other,Other,56,0.4,14072,Republican
+2000,Virginia,VA,Hampton,County,George W. Bush,Republican,19561,40.85,47887,Democratic
+2000,Virginia,VA,Hampton,County,Al Gore,Democratic,27490,57.41,47887,Democratic
+2000,Virginia,VA,Hampton,County,Ralph Nader,Green,563,1.18,47887,Democratic
+2000,Virginia,VA,Hampton,County,Harry Browne,Libertarian,154,0.32,47887,Democratic
+2000,Virginia,VA,Hampton,County,Other,Other,119,0.25,47887,Democratic
+2000,Virginia,VA,Hanover,County,George W. Bush,Republican,28614,68.81,41585,Republican
+2000,Virginia,VA,Hanover,County,Al Gore,Democratic,12044,28.96,41585,Republican
+2000,Virginia,VA,Hanover,County,Ralph Nader,Green,711,1.71,41585,Republican
+2000,Virginia,VA,Hanover,County,Harry Browne,Libertarian,117,0.28,41585,Republican
+2000,Virginia,VA,Hanover,County,Other,Other,99,0.24,41585,Republican
+2000,Virginia,VA,Harrisonburg,County,George W. Bush,Republican,5741,57.65,9958,Republican
+2000,Virginia,VA,Harrisonburg,County,Al Gore,Democratic,3482,34.97,9958,Republican
+2000,Virginia,VA,Harrisonburg,County,Ralph Nader,Green,641,6.44,9958,Republican
+2000,Virginia,VA,Harrisonburg,County,Harry Browne,Libertarian,45,0.45,9958,Republican
+2000,Virginia,VA,Harrisonburg,County,Other,Other,49,0.49,9958,Republican
+2000,Virginia,VA,Henrico,County,George W. Bush,Republican,62887,55.04,114252,Republican
+2000,Virginia,VA,Henrico,County,Al Gore,Democratic,48645,42.58,114252,Republican
+2000,Virginia,VA,Henrico,County,Ralph Nader,Green,1893,1.66,114252,Republican
+2000,Virginia,VA,Henrico,County,Harry Browne,Libertarian,367,0.32,114252,Republican
+2000,Virginia,VA,Henrico,County,Other,Other,460,0.4,114252,Republican
+2000,Virginia,VA,Henry,County,George W. Bush,Republican,11870,55.3,21463,Republican
+2000,Virginia,VA,Henry,County,Al Gore,Democratic,8898,41.46,21463,Republican
+2000,Virginia,VA,Henry,County,Ralph Nader,Green,234,1.09,21463,Republican
+2000,Virginia,VA,Henry,County,Harry Browne,Libertarian,331,1.54,21463,Republican
+2000,Virginia,VA,Henry,County,Other,Other,130,0.61,21463,Republican
+2000,Virginia,VA,Highland,County,George W. Bush,Republican,942,65.55,1437,Republican
+2000,Virginia,VA,Highland,County,Al Gore,Democratic,453,31.52,1437,Republican
+2000,Virginia,VA,Highland,County,Ralph Nader,Green,32,2.23,1437,Republican
+2000,Virginia,VA,Highland,County,Harry Browne,Libertarian,4,0.28,1437,Republican
+2000,Virginia,VA,Highland,County,Other,Other,6,0.42,1437,Republican
+2000,Virginia,VA,Hopewell,County,George W. Bush,Republican,3749,53.73,6978,Republican
+2000,Virginia,VA,Hopewell,County,Al Gore,Democratic,3024,43.34,6978,Republican
+2000,Virginia,VA,Hopewell,County,Ralph Nader,Green,73,1.05,6978,Republican
+2000,Virginia,VA,Hopewell,County,Harry Browne,Libertarian,92,1.32,6978,Republican
+2000,Virginia,VA,Hopewell,County,Other,Other,40,0.57,6978,Republican
+2000,Virginia,VA,Isle of Wight,County,George W. Bush,Republican,7587,58.59,12950,Republican
+2000,Virginia,VA,Isle of Wight,County,Al Gore,Democratic,5162,39.86,12950,Republican
+2000,Virginia,VA,Isle of Wight,County,Ralph Nader,Green,123,0.95,12950,Republican
+2000,Virginia,VA,Isle of Wight,County,Harry Browne,Libertarian,51,0.39,12950,Republican
+2000,Virginia,VA,Isle of Wight,County,Other,Other,27,0.21,12950,Republican
+2000,Virginia,VA,James City,County,George W. Bush,Republican,14628,59.73,24492,Republican
+2000,Virginia,VA,James City,County,Al Gore,Democratic,9090,37.11,24492,Republican
+2000,Virginia,VA,James City,County,Ralph Nader,Green,639,2.61,24492,Republican
+2000,Virginia,VA,James City,County,Harry Browne,Libertarian,94,0.38,24492,Republican
+2000,Virginia,VA,James City,County,Other,Other,41,0.17,24492,Republican
+2000,Virginia,VA,King and Queen,County,George W. Bush,Republican,1423,49.77,2859,Republican
+2000,Virginia,VA,King and Queen,County,Al Gore,Democratic,1387,48.51,2859,Republican
+2000,Virginia,VA,King and Queen,County,Ralph Nader,Green,33,1.15,2859,Republican
+2000,Virginia,VA,King and Queen,County,Harry Browne,Libertarian,11,0.38,2859,Republican
+2000,Virginia,VA,King and Queen,County,Other,Other,5,0.17,2859,Republican
+2000,Virginia,VA,King George,County,George W. Bush,Republican,3590,61.35,5852,Republican
+2000,Virginia,VA,King George,County,Al Gore,Democratic,2070,35.37,5852,Republican
+2000,Virginia,VA,King George,County,Ralph Nader,Green,132,2.26,5852,Republican
+2000,Virginia,VA,King George,County,Harry Browne,Libertarian,31,0.53,5852,Republican
+2000,Virginia,VA,King George,County,Other,Other,29,0.5,5852,Republican
+2000,Virginia,VA,King William,County,George W. Bush,Republican,3547,61.48,5769,Republican
+2000,Virginia,VA,King William,County,Al Gore,Democratic,2125,36.83,5769,Republican
+2000,Virginia,VA,King William,County,Ralph Nader,Green,74,1.28,5769,Republican
+2000,Virginia,VA,King William,County,Harry Browne,Libertarian,9,0.16,5769,Republican
+2000,Virginia,VA,King William,County,Other,Other,14,0.24,5769,Republican
+2000,Virginia,VA,Lancaster,County,George W. Bush,Republican,3411,62.53,5455,Republican
+2000,Virginia,VA,Lancaster,County,Al Gore,Democratic,1937,35.51,5455,Republican
+2000,Virginia,VA,Lancaster,County,Ralph Nader,Green,88,1.61,5455,Republican
+2000,Virginia,VA,Lancaster,County,Harry Browne,Libertarian,14,0.26,5455,Republican
+2000,Virginia,VA,Lancaster,County,Other,Other,5,0.09,5455,Republican
+2000,Virginia,VA,Lee,County,George W. Bush,Republican,4551,52.02,8748,Republican
+2000,Virginia,VA,Lee,County,Al Gore,Democratic,4031,46.08,8748,Republican
+2000,Virginia,VA,Lee,County,Ralph Nader,Green,79,0.9,8748,Republican
+2000,Virginia,VA,Lee,County,Harry Browne,Libertarian,34,0.39,8748,Republican
+2000,Virginia,VA,Lee,County,Other,Other,53,0.61,8748,Republican
+2000,Virginia,VA,Lexington,County,George W. Bush,Republican,957,44.72,2140,Democratic
+2000,Virginia,VA,Lexington,County,Al Gore,Democratic,1048,48.97,2140,Democratic
+2000,Virginia,VA,Lexington,County,Ralph Nader,Green,103,4.81,2140,Democratic
+2000,Virginia,VA,Lexington,County,Harry Browne,Libertarian,26,1.21,2140,Democratic
+2000,Virginia,VA,Lexington,County,Other,Other,6,0.28,2140,Democratic
+2000,Virginia,VA,Loudoun,County,George W. Bush,Republican,42453,56.12,75653,Republican
+2000,Virginia,VA,Loudoun,County,Al Gore,Democratic,30938,40.89,75653,Republican
+2000,Virginia,VA,Loudoun,County,Ralph Nader,Green,1665,2.2,75653,Republican
+2000,Virginia,VA,Loudoun,County,Harry Browne,Libertarian,276,0.36,75653,Republican
+2000,Virginia,VA,Loudoun,County,Other,Other,321,0.42,75653,Republican
+2000,Virginia,VA,Louisa,County,George W. Bush,Republican,5461,54.09,10096,Republican
+2000,Virginia,VA,Louisa,County,Al Gore,Democratic,4309,42.68,10096,Republican
+2000,Virginia,VA,Louisa,County,Ralph Nader,Green,222,2.2,10096,Republican
+2000,Virginia,VA,Louisa,County,Harry Browne,Libertarian,44,0.44,10096,Republican
+2000,Virginia,VA,Louisa,County,Other,Other,60,0.59,10096,Republican
+2000,Virginia,VA,Lunenburg,County,George W. Bush,Republican,2510,54.67,4591,Republican
+2000,Virginia,VA,Lunenburg,County,Al Gore,Democratic,2026,44.13,4591,Republican
+2000,Virginia,VA,Lunenburg,County,Ralph Nader,Green,33,0.72,4591,Republican
+2000,Virginia,VA,Lunenburg,County,Harry Browne,Libertarian,16,0.35,4591,Republican
+2000,Virginia,VA,Lunenburg,County,Other,Other,6,0.13,4591,Republican
+2000,Virginia,VA,Lynchburg,County,George W. Bush,Republican,12518,53.25,23506,Republican
+2000,Virginia,VA,Lynchburg,County,Al Gore,Democratic,10374,44.13,23506,Republican
+2000,Virginia,VA,Lynchburg,County,Ralph Nader,Green,441,1.88,23506,Republican
+2000,Virginia,VA,Lynchburg,County,Harry Browne,Libertarian,105,0.45,23506,Republican
+2000,Virginia,VA,Lynchburg,County,Other,Other,68,0.29,23506,Republican
+2000,Virginia,VA,Madison,County,George W. Bush,Republican,2940,58.48,5027,Republican
+2000,Virginia,VA,Madison,County,Al Gore,Democratic,1844,36.68,5027,Republican
+2000,Virginia,VA,Madison,County,Ralph Nader,Green,148,2.94,5027,Republican
+2000,Virginia,VA,Madison,County,Harry Browne,Libertarian,67,1.33,5027,Republican
+2000,Virginia,VA,Madison,County,Other,Other,28,0.56,5027,Republican
+2000,Virginia,VA,Manassas,County,George W. Bush,Republican,6752,54.41,12410,Republican
+2000,Virginia,VA,Manassas,County,Al Gore,Democratic,5262,42.4,12410,Republican
+2000,Virginia,VA,Manassas,County,Ralph Nader,Green,230,1.85,12410,Republican
+2000,Virginia,VA,Manassas,County,Harry Browne,Libertarian,93,0.75,12410,Republican
+2000,Virginia,VA,Manassas,County,Other,Other,73,0.59,12410,Republican
+2000,Virginia,VA,Manassas Park,County,George W. Bush,Republican,1460,56.59,2580,Republican
+2000,Virginia,VA,Manassas Park,County,Al Gore,Democratic,1048,40.62,2580,Republican
+2000,Virginia,VA,Manassas Park,County,Ralph Nader,Green,51,1.98,2580,Republican
+2000,Virginia,VA,Manassas Park,County,Harry Browne,Libertarian,9,0.35,2580,Republican
+2000,Virginia,VA,Manassas Park,County,Other,Other,12,0.47,2580,Republican
+2000,Virginia,VA,Martinsville,County,George W. Bush,Republican,2560,44.96,5694,Democratic
+2000,Virginia,VA,Martinsville,County,Al Gore,Democratic,3048,53.53,5694,Democratic
+2000,Virginia,VA,Martinsville,County,Ralph Nader,Green,59,1.04,5694,Democratic
+2000,Virginia,VA,Martinsville,County,Harry Browne,Libertarian,12,0.21,5694,Democratic
+2000,Virginia,VA,Martinsville,County,Other,Other,15,0.26,5694,Democratic
+2000,Virginia,VA,Mathews,County,George W. Bush,Republican,2951,64.03,4609,Republican
+2000,Virginia,VA,Mathews,County,Al Gore,Democratic,1499,32.52,4609,Republican
+2000,Virginia,VA,Mathews,County,Ralph Nader,Green,88,1.91,4609,Republican
+2000,Virginia,VA,Mathews,County,Harry Browne,Libertarian,54,1.17,4609,Republican
+2000,Virginia,VA,Mathews,County,Other,Other,17,0.37,4609,Republican
+2000,Virginia,VA,Mecklenburg,County,George W. Bush,Republican,6600,56.63,11654,Republican
+2000,Virginia,VA,Mecklenburg,County,Al Gore,Democratic,4797,41.16,11654,Republican
+2000,Virginia,VA,Mecklenburg,County,Ralph Nader,Green,104,0.89,11654,Republican
+2000,Virginia,VA,Mecklenburg,County,Harry Browne,Libertarian,96,0.82,11654,Republican
+2000,Virginia,VA,Mecklenburg,County,Other,Other,57,0.49,11654,Republican
+2000,Virginia,VA,Middlesex,County,George W. Bush,Republican,2844,60.65,4689,Republican
+2000,Virginia,VA,Middlesex,County,Al Gore,Democratic,1671,35.64,4689,Republican
+2000,Virginia,VA,Middlesex,County,Ralph Nader,Green,84,1.79,4689,Republican
+2000,Virginia,VA,Middlesex,County,Harry Browne,Libertarian,66,1.41,4689,Republican
+2000,Virginia,VA,Middlesex,County,Other,Other,24,0.51,4689,Republican
+2000,Virginia,VA,Montgomery,County,George W. Bush,Republican,13991,51.51,27160,Republican
+2000,Virginia,VA,Montgomery,County,Al Gore,Democratic,11720,43.15,27160,Republican
+2000,Virginia,VA,Montgomery,County,Ralph Nader,Green,1222,4.5,27160,Republican
+2000,Virginia,VA,Montgomery,County,Harry Browne,Libertarian,149,0.55,27160,Republican
+2000,Virginia,VA,Montgomery,County,Other,Other,78,0.29,27160,Republican
+2000,Virginia,VA,Nelson,County,George W. Bush,Republican,2913,47.4,6145,Republican
+2000,Virginia,VA,Nelson,County,Al Gore,Democratic,2907,47.31,6145,Republican
+2000,Virginia,VA,Nelson,County,Ralph Nader,Green,273,4.44,6145,Republican
+2000,Virginia,VA,Nelson,County,Harry Browne,Libertarian,27,0.44,6145,Republican
+2000,Virginia,VA,Nelson,County,Other,Other,25,0.41,6145,Republican
+2000,Virginia,VA,New Kent,County,George W. Bush,Republican,3934,64.34,6114,Republican
+2000,Virginia,VA,New Kent,County,Al Gore,Democratic,2055,33.61,6114,Republican
+2000,Virginia,VA,New Kent,County,Ralph Nader,Green,81,1.32,6114,Republican
+2000,Virginia,VA,New Kent,County,Harry Browne,Libertarian,20,0.33,6114,Republican
+2000,Virginia,VA,New Kent,County,Other,Other,24,0.39,6114,Republican
+2000,Virginia,VA,Newport News,County,George W. Bush,Republican,27006,46.7,57825,Democratic
+2000,Virginia,VA,Newport News,County,Al Gore,Democratic,29779,51.5,57825,Democratic
+2000,Virginia,VA,Newport News,County,Ralph Nader,Green,722,1.25,57825,Democratic
+2000,Virginia,VA,Newport News,County,Harry Browne,Libertarian,212,0.37,57825,Democratic
+2000,Virginia,VA,Newport News,County,Other,Other,106,0.18,57825,Democratic
+2000,Virginia,VA,Norfolk,County,George W. Bush,Republican,21920,35.39,61946,Democratic
+2000,Virginia,VA,Norfolk,County,Al Gore,Democratic,38221,61.7,61946,Democratic
+2000,Virginia,VA,Norfolk,County,Ralph Nader,Green,1153,1.86,61946,Democratic
+2000,Virginia,VA,Norfolk,County,Harry Browne,Libertarian,364,0.59,61946,Democratic
+2000,Virginia,VA,Norfolk,County,Other,Other,288,0.46,61946,Democratic
+2000,Virginia,VA,Northampton,County,George W. Bush,Republican,2299,47.0,4892,Democratic
+2000,Virginia,VA,Northampton,County,Al Gore,Democratic,2340,47.83,4892,Democratic
+2000,Virginia,VA,Northampton,County,Ralph Nader,Green,108,2.21,4892,Democratic
+2000,Virginia,VA,Northampton,County,Harry Browne,Libertarian,121,2.47,4892,Democratic
+2000,Virginia,VA,Northampton,County,Other,Other,24,0.49,4892,Democratic
+2000,Virginia,VA,Northumberland,County,George W. Bush,Republican,3362,59.98,5605,Republican
+2000,Virginia,VA,Northumberland,County,Al Gore,Democratic,2118,37.79,5605,Republican
+2000,Virginia,VA,Northumberland,County,Ralph Nader,Green,97,1.73,5605,Republican
+2000,Virginia,VA,Northumberland,County,Harry Browne,Libertarian,11,0.2,5605,Republican
+2000,Virginia,VA,Northumberland,County,Other,Other,17,0.3,5605,Republican
+2000,Virginia,VA,Norton,County,George W. Bush,Republican,639,41.76,1530,Democratic
+2000,Virginia,VA,Norton,County,Al Gore,Democratic,867,56.67,1530,Democratic
+2000,Virginia,VA,Norton,County,Ralph Nader,Green,20,1.31,1530,Democratic
+2000,Virginia,VA,Norton,County,Harry Browne,Libertarian,2,0.13,1530,Democratic
+2000,Virginia,VA,Norton,County,Other,Other,2,0.13,1530,Democratic
+2000,Virginia,VA,Nottoway,County,George W. Bush,Republican,2870,52.26,5492,Republican
+2000,Virginia,VA,Nottoway,County,Al Gore,Democratic,2460,44.79,5492,Republican
+2000,Virginia,VA,Nottoway,County,Ralph Nader,Green,46,0.84,5492,Republican
+2000,Virginia,VA,Nottoway,County,Harry Browne,Libertarian,98,1.78,5492,Republican
+2000,Virginia,VA,Nottoway,County,Other,Other,18,0.33,5492,Republican
+2000,Virginia,VA,Orange,County,George W. Bush,Republican,5991,57.15,10483,Republican
+2000,Virginia,VA,Orange,County,Al Gore,Democratic,4126,39.36,10483,Republican
+2000,Virginia,VA,Orange,County,Ralph Nader,Green,236,2.25,10483,Republican
+2000,Virginia,VA,Orange,County,Harry Browne,Libertarian,91,0.87,10483,Republican
+2000,Virginia,VA,Orange,County,Other,Other,39,0.37,10483,Republican
+2000,Virginia,VA,Page,County,George W. Bush,Republican,5089,63.64,7996,Republican
+2000,Virginia,VA,Page,County,Al Gore,Democratic,2726,34.09,7996,Republican
+2000,Virginia,VA,Page,County,Ralph Nader,Green,143,1.79,7996,Republican
+2000,Virginia,VA,Page,County,Harry Browne,Libertarian,15,0.19,7996,Republican
+2000,Virginia,VA,Page,County,Other,Other,23,0.29,7996,Republican
+2000,Virginia,VA,Patrick,County,George W. Bush,Republican,4901,66.36,7385,Republican
+2000,Virginia,VA,Patrick,County,Al Gore,Democratic,2254,30.52,7385,Republican
+2000,Virginia,VA,Patrick,County,Ralph Nader,Green,101,1.37,7385,Republican
+2000,Virginia,VA,Patrick,County,Harry Browne,Libertarian,86,1.16,7385,Republican
+2000,Virginia,VA,Patrick,County,Other,Other,43,0.58,7385,Republican
+2000,Virginia,VA,Petersburg,County,George W. Bush,Republican,2109,19.07,11062,Democratic
+2000,Virginia,VA,Petersburg,County,Al Gore,Democratic,8751,79.11,11062,Democratic
+2000,Virginia,VA,Petersburg,County,Ralph Nader,Green,117,1.06,11062,Democratic
+2000,Virginia,VA,Petersburg,County,Harry Browne,Libertarian,49,0.44,11062,Democratic
+2000,Virginia,VA,Petersburg,County,Other,Other,36,0.33,11062,Democratic
+2000,Virginia,VA,Pittsylvania,County,George W. Bush,Republican,15760,64.98,24255,Republican
+2000,Virginia,VA,Pittsylvania,County,Al Gore,Democratic,7834,32.3,24255,Republican
+2000,Virginia,VA,Pittsylvania,County,Ralph Nader,Green,207,0.85,24255,Republican
+2000,Virginia,VA,Pittsylvania,County,Harry Browne,Libertarian,374,1.54,24255,Republican
+2000,Virginia,VA,Pittsylvania,County,Other,Other,80,0.33,24255,Republican
+2000,Virginia,VA,Poquoson,County,George W. Bush,Republican,4271,72.87,5861,Republican
+2000,Virginia,VA,Poquoson,County,Al Gore,Democratic,1448,24.71,5861,Republican
+2000,Virginia,VA,Poquoson,County,Ralph Nader,Green,93,1.59,5861,Republican
+2000,Virginia,VA,Poquoson,County,Harry Browne,Libertarian,41,0.7,5861,Republican
+2000,Virginia,VA,Poquoson,County,Other,Other,8,0.14,5861,Republican
+2000,Virginia,VA,Portsmouth,County,George W. Bush,Republican,12628,35.62,35455,Democratic
+2000,Virginia,VA,Portsmouth,County,Al Gore,Democratic,22286,62.86,35455,Democratic
+2000,Virginia,VA,Portsmouth,County,Ralph Nader,Green,348,0.98,35455,Democratic
+2000,Virginia,VA,Portsmouth,County,Harry Browne,Libertarian,126,0.36,35455,Democratic
+2000,Virginia,VA,Portsmouth,County,Other,Other,67,0.19,35455,Democratic
+2000,Virginia,VA,Powhatan,County,George W. Bush,Republican,6820,70.23,9711,Republican
+2000,Virginia,VA,Powhatan,County,Al Gore,Democratic,2708,27.89,9711,Republican
+2000,Virginia,VA,Powhatan,County,Ralph Nader,Green,122,1.26,9711,Republican
+2000,Virginia,VA,Powhatan,County,Harry Browne,Libertarian,36,0.37,9711,Republican
+2000,Virginia,VA,Powhatan,County,Other,Other,25,0.26,9711,Republican
+2000,Virginia,VA,Prince Edward,County,George W. Bush,Republican,3214,50.51,6363,Republican
+2000,Virginia,VA,Prince Edward,County,Al Gore,Democratic,2922,45.92,6363,Republican
+2000,Virginia,VA,Prince Edward,County,Ralph Nader,Green,115,1.81,6363,Republican
+2000,Virginia,VA,Prince Edward,County,Harry Browne,Libertarian,94,1.48,6363,Republican
+2000,Virginia,VA,Prince Edward,County,Other,Other,18,0.28,6363,Republican
+2000,Virginia,VA,Prince George,County,George W. Bush,Republican,6579,60.36,10900,Republican
+2000,Virginia,VA,Prince George,County,Al Gore,Democratic,4182,38.37,10900,Republican
+2000,Virginia,VA,Prince George,County,Ralph Nader,Green,97,0.89,10900,Republican
+2000,Virginia,VA,Prince George,County,Harry Browne,Libertarian,19,0.17,10900,Republican
+2000,Virginia,VA,Prince George,County,Other,Other,23,0.21,10900,Republican
+2000,Virginia,VA,Prince William,County,George W. Bush,Republican,52788,52.52,100511,Republican
+2000,Virginia,VA,Prince William,County,Al Gore,Democratic,44745,44.52,100511,Republican
+2000,Virginia,VA,Prince William,County,Ralph Nader,Green,1927,1.92,100511,Republican
+2000,Virginia,VA,Prince William,County,Harry Browne,Libertarian,695,0.69,100511,Republican
+2000,Virginia,VA,Prince William,County,Other,Other,356,0.35,100511,Republican
+2000,Virginia,VA,Pulaski,County,George W. Bush,Republican,7089,55.83,12697,Republican
+2000,Virginia,VA,Pulaski,County,Al Gore,Democratic,5255,41.39,12697,Republican
+2000,Virginia,VA,Pulaski,County,Ralph Nader,Green,207,1.63,12697,Republican
+2000,Virginia,VA,Pulaski,County,Harry Browne,Libertarian,86,0.68,12697,Republican
+2000,Virginia,VA,Pulaski,County,Other,Other,60,0.47,12697,Republican
+2000,Virginia,VA,Radford,County,George W. Bush,Republican,2190,49.24,4448,Republican
+2000,Virginia,VA,Radford,County,Al Gore,Democratic,2063,46.38,4448,Republican
+2000,Virginia,VA,Radford,County,Ralph Nader,Green,172,3.87,4448,Republican
+2000,Virginia,VA,Radford,County,Harry Browne,Libertarian,16,0.36,4448,Republican
+2000,Virginia,VA,Radford,County,Other,Other,7,0.16,4448,Republican
+2000,Virginia,VA,Rappahannock,County,George W. Bush,Republican,1850,52.66,3513,Republican
+2000,Virginia,VA,Rappahannock,County,Al Gore,Democratic,1462,41.62,3513,Republican
+2000,Virginia,VA,Rappahannock,County,Ralph Nader,Green,161,4.58,3513,Republican
+2000,Virginia,VA,Rappahannock,County,Harry Browne,Libertarian,18,0.51,3513,Republican
+2000,Virginia,VA,Rappahannock,County,Other,Other,22,0.63,3513,Republican
+2000,Virginia,VA,Richmond,County,George W. Bush,Republican,1784,60.5,2949,Republican
+2000,Virginia,VA,Richmond,County,Al Gore,Democratic,1076,36.49,2949,Republican
+2000,Virginia,VA,Richmond,County,Ralph Nader,Green,44,1.49,2949,Republican
+2000,Virginia,VA,Richmond,County,Harry Browne,Libertarian,24,0.81,2949,Republican
+2000,Virginia,VA,Richmond,County,Other,Other,21,0.71,2949,Republican
+2000,Virginia,VA,Richmond City,County,George W. Bush,Republican,20265,30.74,65926,Democratic
+2000,Virginia,VA,Richmond City,County,Al Gore,Democratic,42717,64.8,65926,Democratic
+2000,Virginia,VA,Richmond City,County,Ralph Nader,Green,2425,3.68,65926,Democratic
+2000,Virginia,VA,Richmond City,County,Harry Browne,Libertarian,357,0.54,65926,Democratic
+2000,Virginia,VA,Richmond City,County,Other,Other,162,0.25,65926,Democratic
+2000,Virginia,VA,Roanoke,County,George W. Bush,Republican,25740,60.12,42817,Republican
+2000,Virginia,VA,Roanoke,County,Al Gore,Democratic,16141,37.7,42817,Republican
+2000,Virginia,VA,Roanoke,County,Ralph Nader,Green,681,1.59,42817,Republican
+2000,Virginia,VA,Roanoke,County,Harry Browne,Libertarian,169,0.39,42817,Republican
+2000,Virginia,VA,Roanoke,County,Other,Other,86,0.2,42817,Republican
+2000,Virginia,VA,Roanoke City,County,George W. Bush,Republican,14630,43.75,33442,Democratic
+2000,Virginia,VA,Roanoke City,County,Al Gore,Democratic,17920,53.59,33442,Democratic
+2000,Virginia,VA,Roanoke City,County,Ralph Nader,Green,603,1.8,33442,Democratic
+2000,Virginia,VA,Roanoke City,County,Harry Browne,Libertarian,202,0.6,33442,Democratic
+2000,Virginia,VA,Roanoke City,County,Other,Other,87,0.26,33442,Democratic
+2000,Virginia,VA,Rockbridge,County,George W. Bush,Republican,4522,57.77,7827,Republican
+2000,Virginia,VA,Rockbridge,County,Al Gore,Democratic,2953,37.73,7827,Republican
+2000,Virginia,VA,Rockbridge,County,Ralph Nader,Green,248,3.17,7827,Republican
+2000,Virginia,VA,Rockbridge,County,Harry Browne,Libertarian,65,0.83,7827,Republican
+2000,Virginia,VA,Rockbridge,County,Other,Other,39,0.5,7827,Republican
+2000,Virginia,VA,Rockingham,County,George W. Bush,Republican,17482,72.86,23994,Republican
+2000,Virginia,VA,Rockingham,County,Al Gore,Democratic,5834,24.31,23994,Republican
+2000,Virginia,VA,Rockingham,County,Ralph Nader,Green,539,2.25,23994,Republican
+2000,Virginia,VA,Rockingham,County,Harry Browne,Libertarian,53,0.22,23994,Republican
+2000,Virginia,VA,Rockingham,County,Other,Other,86,0.36,23994,Republican
+2000,Virginia,VA,Russell,County,George W. Bush,Republican,5065,46.93,10792,Democratic
+2000,Virginia,VA,Russell,County,Al Gore,Democratic,5442,50.43,10792,Democratic
+2000,Virginia,VA,Russell,County,Ralph Nader,Green,102,0.95,10792,Democratic
+2000,Virginia,VA,Russell,County,Harry Browne,Libertarian,123,1.14,10792,Democratic
+2000,Virginia,VA,Russell,County,Other,Other,60,0.56,10792,Democratic
+2000,Virginia,VA,Salem,County,George W. Bush,Republican,6188,57.46,10770,Republican
+2000,Virginia,VA,Salem,County,Al Gore,Democratic,4348,40.37,10770,Republican
+2000,Virginia,VA,Salem,County,Ralph Nader,Green,181,1.68,10770,Republican
+2000,Virginia,VA,Salem,County,Harry Browne,Libertarian,31,0.29,10770,Republican
+2000,Virginia,VA,Salem,County,Other,Other,22,0.2,10770,Republican
+2000,Virginia,VA,Scott,County,George W. Bush,Republican,5535,59.29,9335,Republican
+2000,Virginia,VA,Scott,County,Al Gore,Democratic,3552,38.05,9335,Republican
+2000,Virginia,VA,Scott,County,Ralph Nader,Green,85,0.91,9335,Republican
+2000,Virginia,VA,Scott,County,Harry Browne,Libertarian,114,1.22,9335,Republican
+2000,Virginia,VA,Scott,County,Other,Other,49,0.52,9335,Republican
+2000,Virginia,VA,Shenandoah,County,George W. Bush,Republican,9636,66.68,14452,Republican
+2000,Virginia,VA,Shenandoah,County,Al Gore,Democratic,4420,30.58,14452,Republican
+2000,Virginia,VA,Shenandoah,County,Ralph Nader,Green,294,2.03,14452,Republican
+2000,Virginia,VA,Shenandoah,County,Harry Browne,Libertarian,37,0.26,14452,Republican
+2000,Virginia,VA,Shenandoah,County,Other,Other,65,0.45,14452,Republican
+2000,Virginia,VA,Smyth,County,George W. Bush,Republican,6580,56.05,11740,Republican
+2000,Virginia,VA,Smyth,County,Al Gore,Democratic,4836,41.19,11740,Republican
+2000,Virginia,VA,Smyth,County,Ralph Nader,Green,131,1.12,11740,Republican
+2000,Virginia,VA,Smyth,County,Harry Browne,Libertarian,116,0.99,11740,Republican
+2000,Virginia,VA,Smyth,County,Other,Other,77,0.66,11740,Republican
+2000,Virginia,VA,Southampton,County,George W. Bush,Republican,3293,49.05,6714,Democratic
+2000,Virginia,VA,Southampton,County,Al Gore,Democratic,3359,50.03,6714,Democratic
+2000,Virginia,VA,Southampton,County,Ralph Nader,Green,44,0.66,6714,Democratic
+2000,Virginia,VA,Southampton,County,Harry Browne,Libertarian,4,0.06,6714,Democratic
+2000,Virginia,VA,Southampton,County,Other,Other,14,0.21,6714,Democratic
+2000,Virginia,VA,Spotsylvania,County,George W. Bush,Republican,20739,59.22,35021,Republican
+2000,Virginia,VA,Spotsylvania,County,Al Gore,Democratic,13455,38.42,35021,Republican
+2000,Virginia,VA,Spotsylvania,County,Ralph Nader,Green,586,1.67,35021,Republican
+2000,Virginia,VA,Spotsylvania,County,Harry Browne,Libertarian,94,0.27,35021,Republican
+2000,Virginia,VA,Spotsylvania,County,Other,Other,147,0.42,35021,Republican
+2000,Virginia,VA,Stafford,County,George W. Bush,Republican,20731,60.54,34246,Republican
+2000,Virginia,VA,Stafford,County,Al Gore,Democratic,12596,36.78,34246,Republican
+2000,Virginia,VA,Stafford,County,Ralph Nader,Green,657,1.92,34246,Republican
+2000,Virginia,VA,Stafford,County,Harry Browne,Libertarian,120,0.35,34246,Republican
+2000,Virginia,VA,Stafford,County,Other,Other,142,0.41,34246,Republican
+2000,Virginia,VA,Staunton,County,George W. Bush,Republican,4878,57.29,8514,Republican
+2000,Virginia,VA,Staunton,County,Al Gore,Democratic,3324,39.04,8514,Republican
+2000,Virginia,VA,Staunton,County,Ralph Nader,Green,278,3.27,8514,Republican
+2000,Virginia,VA,Staunton,County,Harry Browne,Libertarian,18,0.21,8514,Republican
+2000,Virginia,VA,Staunton,County,Other,Other,16,0.19,8514,Republican
+2000,Virginia,VA,Suffolk,County,George W. Bush,Republican,11836,47.99,24661,Democratic
+2000,Virginia,VA,Suffolk,County,Al Gore,Democratic,12471,50.57,24661,Democratic
+2000,Virginia,VA,Suffolk,County,Ralph Nader,Green,199,0.81,24661,Democratic
+2000,Virginia,VA,Suffolk,County,Harry Browne,Libertarian,96,0.39,24661,Democratic
+2000,Virginia,VA,Suffolk,County,Other,Other,59,0.24,24661,Democratic
+2000,Virginia,VA,Surry,County,George W. Bush,Republican,1313,40.65,3230,Democratic
+2000,Virginia,VA,Surry,County,Al Gore,Democratic,1845,57.12,3230,Democratic
+2000,Virginia,VA,Surry,County,Ralph Nader,Green,29,0.9,3230,Democratic
+2000,Virginia,VA,Surry,County,Harry Browne,Libertarian,30,0.93,3230,Democratic
+2000,Virginia,VA,Surry,County,Other,Other,13,0.4,3230,Democratic
+2000,Virginia,VA,Sussex,County,George W. Bush,Republican,1745,44.67,3906,Democratic
+2000,Virginia,VA,Sussex,County,Al Gore,Democratic,2006,51.36,3906,Democratic
+2000,Virginia,VA,Sussex,County,Ralph Nader,Green,41,1.05,3906,Democratic
+2000,Virginia,VA,Sussex,County,Harry Browne,Libertarian,83,2.12,3906,Democratic
+2000,Virginia,VA,Sussex,County,Other,Other,31,0.79,3906,Democratic
+2000,Virginia,VA,Tazewell,County,George W. Bush,Republican,8655,52.96,16344,Republican
+2000,Virginia,VA,Tazewell,County,Al Gore,Democratic,7227,44.22,16344,Republican
+2000,Virginia,VA,Tazewell,County,Ralph Nader,Green,162,0.99,16344,Republican
+2000,Virginia,VA,Tazewell,County,Harry Browne,Libertarian,217,1.33,16344,Republican
+2000,Virginia,VA,Tazewell,County,Other,Other,83,0.51,16344,Republican
+2000,Virginia,VA,Virginia Beach,County,George W. Bush,Republican,83674,55.87,149771,Republican
+2000,Virginia,VA,Virginia Beach,County,Al Gore,Democratic,62268,41.58,149771,Republican
+2000,Virginia,VA,Virginia Beach,County,Ralph Nader,Green,2370,1.58,149771,Republican
+2000,Virginia,VA,Virginia Beach,County,Harry Browne,Libertarian,809,0.54,149771,Republican
+2000,Virginia,VA,Virginia Beach,County,Other,Other,650,0.43,149771,Republican
+2000,Virginia,VA,Warren,County,George W. Bush,Republican,6335,56.73,11166,Republican
+2000,Virginia,VA,Warren,County,Al Gore,Democratic,4313,38.63,11166,Republican
+2000,Virginia,VA,Warren,County,Ralph Nader,Green,260,2.33,11166,Republican
+2000,Virginia,VA,Warren,County,Harry Browne,Libertarian,124,1.11,11166,Republican
+2000,Virginia,VA,Warren,County,Other,Other,134,1.2,11166,Republican
+2000,Virginia,VA,Washington,County,George W. Bush,Republican,12064,59.66,20222,Republican
+2000,Virginia,VA,Washington,County,Al Gore,Democratic,7549,37.33,20222,Republican
+2000,Virginia,VA,Washington,County,Ralph Nader,Green,288,1.42,20222,Republican
+2000,Virginia,VA,Washington,County,Harry Browne,Libertarian,232,1.15,20222,Republican
+2000,Virginia,VA,Washington,County,Other,Other,89,0.44,20222,Republican
+2000,Virginia,VA,Waynesboro,County,George W. Bush,Republican,4084,57.5,7102,Republican
+2000,Virginia,VA,Waynesboro,County,Al Gore,Democratic,2737,38.54,7102,Republican
+2000,Virginia,VA,Waynesboro,County,Ralph Nader,Green,233,3.28,7102,Republican
+2000,Virginia,VA,Waynesboro,County,Harry Browne,Libertarian,22,0.31,7102,Republican
+2000,Virginia,VA,Waynesboro,County,Other,Other,26,0.37,7102,Republican
+2000,Virginia,VA,Westmoreland,County,George W. Bush,Republican,2932,48.66,6026,Republican
+2000,Virginia,VA,Westmoreland,County,Al Gore,Democratic,2922,48.49,6026,Republican
+2000,Virginia,VA,Westmoreland,County,Ralph Nader,Green,88,1.46,6026,Republican
+2000,Virginia,VA,Westmoreland,County,Harry Browne,Libertarian,59,0.98,6026,Republican
+2000,Virginia,VA,Westmoreland,County,Other,Other,25,0.41,6026,Republican
+2000,Virginia,VA,Williamsburg,County,George W. Bush,Republican,1777,47.7,3725,Republican
+2000,Virginia,VA,Williamsburg,County,Al Gore,Democratic,1724,46.28,3725,Republican
+2000,Virginia,VA,Williamsburg,County,Ralph Nader,Green,188,5.05,3725,Republican
+2000,Virginia,VA,Williamsburg,County,Harry Browne,Libertarian,21,0.56,3725,Republican
+2000,Virginia,VA,Williamsburg,County,Other,Other,15,0.4,3725,Republican
+2000,Virginia,VA,Winchester,County,George W. Bush,Republican,4314,54.7,7886,Republican
+2000,Virginia,VA,Winchester,County,Al Gore,Democratic,3318,42.07,7886,Republican
+2000,Virginia,VA,Winchester,County,Ralph Nader,Green,209,2.65,7886,Republican
+2000,Virginia,VA,Winchester,County,Harry Browne,Libertarian,27,0.34,7886,Republican
+2000,Virginia,VA,Winchester,County,Other,Other,18,0.23,7886,Republican
+2000,Virginia,VA,Wise,County,George W. Bush,Republican,6504,48.87,13310,Republican
+2000,Virginia,VA,Wise,County,Al Gore,Democratic,6412,48.17,13310,Republican
+2000,Virginia,VA,Wise,County,Ralph Nader,Green,160,1.2,13310,Republican
+2000,Virginia,VA,Wise,County,Harry Browne,Libertarian,180,1.35,13310,Republican
+2000,Virginia,VA,Wise,County,Other,Other,54,0.41,13310,Republican
+2000,Virginia,VA,Wythe,County,George W. Bush,Republican,6539,63.95,10225,Republican
+2000,Virginia,VA,Wythe,County,Al Gore,Democratic,3462,33.86,10225,Republican
+2000,Virginia,VA,Wythe,County,Ralph Nader,Green,132,1.29,10225,Republican
+2000,Virginia,VA,Wythe,County,Harry Browne,Libertarian,16,0.16,10225,Republican
+2000,Virginia,VA,Wythe,County,Other,Other,76,0.74,10225,Republican
+2000,Virginia,VA,York,County,George W. Bush,Republican,15312,62.29,24583,Republican
+2000,Virginia,VA,York,County,Al Gore,Democratic,8622,35.07,24583,Republican
+2000,Virginia,VA,York,County,Ralph Nader,Green,480,1.95,24583,Republican
+2000,Virginia,VA,York,County,Harry Browne,Libertarian,114,0.46,24583,Republican
+2000,Virginia,VA,York,County,Other,Other,55,0.22,24583,Republican
 2000,Washington,WA,Adams,County,Al Gore,Democratic,1406,28.27,4974,Republican
 2000,Washington,WA,Adams,County,George W. Bush,Republican,3440,69.16,4974,Republican
 2000,Washington,WA,Adams,County,Other,Various Parties,128,2.57,4974,Republican

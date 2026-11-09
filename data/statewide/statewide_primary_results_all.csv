@@ -2048,9 +2048,19 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1991,Kentucky,KY,governor,Republican primary results,Winning,Larry J. Hopkins,Republican,81526,50.6,True,False
 1991,Kentucky,KY,governor,Republican primary results,Candidate,Larry Forgy,Republican,79581,49.4,False,False
 1991,Kentucky,KY,governor,Republican primary results,Total,,,161107,100.0,False,False
-1991,Louisiana,LA,governor,Primary election,Candidate,Democratic,,523096,,False,False
-1991,Louisiana,LA,governor,Primary election,Candidate,Republican,,491342,,False,False
-1991,Louisiana,LA,governor,Primary election,Candidate,Other,,9663,,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Edwin Edwards,Democratic,523096,33.76,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,David Duke,Republican,491342,31.71,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Buddy Roemer,Republican,410690,26.51,False,True
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Clyde C. Holloway,Republican,82683,5.34,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Sam S. Jones,Democratic,11847,0.76,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Ed Karst,Independent,9663,0.62,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Fred Dent,Democratic,7385,0.48,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Anne Thompson,Republican,4118,0.27,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Jim Crowley,Democratic,4000,0.26,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Albert Powell,Democratic,2053,0.13,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Ronnie Johnson,Independent,1372,0.09,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Cousin Ken Lewis,Democratic,1006,0.06,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Total,,,1549255,100.0,False,False
 1991,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1991",Winning,Ray Mabus,Democratic,368679,50.75,True,True
 1991,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1991",Candidate,Wayne Dowdy,Democratic,299172,41.18,False,False
 1991,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1991",Candidate,"George ""Wagon Wheel"" Blair",Democratic,58614,8.07,False,False
@@ -2613,13 +2623,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Arizona,AZ,governor,Libertarian primary results,Total,,,1650.0,100.0,False,False
 1998,Arizona,AZ,governor,Reform Party primary results,Winning,Scott Alan Malcomson,Reform,113.0,100.0,True,False
 1998,Arizona,AZ,governor,Reform Party primary results,Total,,,113.0,100.0,False,False
+1998,Arkansas,AR,governor,Republican Primary results,Winning,Mike Huckabee (inc.),Republican,64819.0,63.56,True,False
+1998,Arkansas,AR,governor,Republican Primary results,Candidate,Gene McVay,Republican,37160.0,36.44,False,False
+1998,Arkansas,AR,governor,Republican Primary results,Total,,,101979.0,100.0,False,False
 1998,Arkansas,AR,governor,Democratic Party primary results,Winning,Bill Bristow,Democratic,129639.0,55.22,True,False
 1998,Arkansas,AR,governor,Democratic Party primary results,Candidate,Johnny Hoyt,Democratic,90057.0,38.36,False,False
 1998,Arkansas,AR,governor,Democratic Party primary results,Candidate,Dirk Anderson,Democratic,15072.0,6.42,False,False
 1998,Arkansas,AR,governor,Democratic Party primary results,Total,,,234769.0,100.0,False,False
-1998,Arkansas,AR,governor,Republican Primary results,Winning,Mike Huckabee (inc.),Republican,64819.0,63.56,True,False
-1998,Arkansas,AR,governor,Republican Primary results,Candidate,Gene McVay,Republican,37160.0,36.44,False,False
-1998,Arkansas,AR,governor,Republican Primary results,Total,,,101979.0,100.0,False,False
 1998,California,CA,governor,Open primary results,Winning,Gray Davis,Democratic,2083396.0,34.74,True,False
 1998,California,CA,governor,Open primary results,Winning,Dan Lungren,Republican,2023618.0,33.75,True,False
 1998,California,CA,governor,Open primary results,Winning,Dan Hamburg,Green,92298.0,1.54,True,False
@@ -2702,12 +2712,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Iowa,IA,governor,Reform Party primary results,Candidate,"Jeffrey L. Hughes, Sr.",Reform,99.0,26.9,False,False
 1998,Iowa,IA,governor,Reform Party primary results,Candidate,Write-ins,Reform,39.0,10.6,False,False
 1998,Iowa,IA,governor,Reform Party primary results,Total,,,368.0,100.0,False,False
+1998,Kansas,KS,governor,Republican primary results,Winning,Bill Graves,Republican,225782.0,72.8,True,True
+1998,Kansas,KS,governor,Republican primary results,Candidate,David Miller,Republican,84368.0,27.2,False,False
+1998,Kansas,KS,governor,Republican primary results,Total,,,310150.0,100.0,False,False
 1998,Kansas,KS,governor,Democratic primary results,Winning,Tom Sawyer,Democratic,88248.0,85.28,True,False
 1998,Kansas,KS,governor,Democratic primary results,Candidate,Fred Phelps,Democratic,15233.0,14.72,False,False
 1998,Kansas,KS,governor,Democratic primary results,Total,,,103481.0,100.0,False,False
-1998,Kansas,KS,governor,Republican primary results,Winning,Bill Graves (inc.),Republican,225782.0,72.8,True,False
-1998,Kansas,KS,governor,Republican primary results,Candidate,David Miller,Republican,84368.0,27.2,False,False
-1998,Kansas,KS,governor,Republican primary results,Total,,,310150.0,100.0,False,False
 1998,Maine,ME,governor,Democratic primary results,Winning,Thomas J. Connolly,Democratic,36954.0,81.72,True,False
 1998,Maine,ME,governor,Democratic primary results,Candidate,Joseph Ricci,Democratic,8264.0,18.28,False,False
 1998,Maine,ME,governor,Democratic primary results,Total,,,45218.0,100.0,False,False
@@ -2797,16 +2807,6 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Nevada,NV,governor,Republican Primary results,Candidate,None of These Candidates,,5783.0,4.37,False,False
 1998,Nevada,NV,governor,Republican Primary results,Candidate,Bruce Westcott,Republican,1956.0,1.48,False,False
 1998,Nevada,NV,governor,Republican Primary results,Total,,,132353.0,100.0,False,False
-1998,New Mexico,NM,governor,Democratic primary results,Winning,Martin J. Chávez,Democratic,82147.0,48.11,True,False
-1998,New Mexico,NM,governor,Democratic primary results,Candidate,Gary K. King,Democratic,51847.0,30.37,False,False
-1998,New Mexico,NM,governor,Democratic primary results,Candidate,Jerry Apodaca,Democratic,16303.0,9.55,False,False
-1998,New Mexico,NM,governor,Democratic primary results,Candidate,Robert E. Vigil,Democratic,10483.0,6.14,False,False
-1998,New Mexico,NM,governor,Democratic primary results,Candidate,Reese P. Fullerton,Democratic,5800.0,3.4,False,False
-1998,New Mexico,NM,governor,Democratic primary results,Candidate,Ben Chavez,Democratic,4127.0,2.42,False,False
-1998,New Mexico,NM,governor,Democratic primary results,Candidate,Frances Salas (write-in),Democratic,29.0,0.02,False,False
-1998,New Mexico,NM,governor,Democratic primary results,Total,,,170736.0,100.0,False,False
-1998,New Mexico,NM,governor,Republican primary results,Winning,Gary Johnson,Republican,64669.0,100.0,True,True
-1998,New Mexico,NM,governor,Republican primary results,Total,,,64669.0,100.0,False,False
 1998,New York,NY,governor,"New York Democratic gubernatorial primary, 1998",Winning,Peter Vallone Sr.,Democratic,416147.0,56.38,True,False
 1998,New York,NY,governor,"New York Democratic gubernatorial primary, 1998",Candidate,Betsy McCaughey Ross,Democratic,156592.0,21.22,False,False
 1998,New York,NY,governor,"New York Democratic gubernatorial primary, 1998",Candidate,Charles Hynes,Democratic,109333.0,14.81,False,False
@@ -2839,8 +2839,8 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Rhode Island,RI,governor,Democratic primary results,Winning,Myrth York,Democratic,53561.0,82.89,True,False
 1998,Rhode Island,RI,governor,Democratic primary results,Candidate,Jack Dennison Potter,Democratic,11055.0,17.11,False,False
 1998,Rhode Island,RI,governor,Democratic primary results,Total,,,64616.0,100.0,False,False
-1998,South Carolina,SC,governor,Republican primary,Candidate,David Beasley,,114082.0,,False,True
-1998,South Carolina,SC,governor,Republican primary,Candidate,Bill Able,,43967.0,,False,False
+1998,South Carolina,SC,governor,1998 Republican gubernatorial primary,Winning,David Beasley,Republican,114082.0,72.2,True,True
+1998,South Carolina,SC,governor,1998 Republican gubernatorial primary,Candidate,Bill Able,Republican,43967.0,27.8,False,False
 1998,Tennessee,TN,governor,Republican primary results,Candidate,Don Sundquist,Republican,358786.0,92.5,False,True
 1998,Tennessee,TN,governor,Republican primary results,Candidate,Shirley Beck-Vosse,Republican,28951.0,7.46,False,False
 1998,Tennessee,TN,governor,Republican primary results,Write-in,Write-ins,Write-ins,123.0,0.03,False,False
@@ -2896,6 +2896,24 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1999,Kentucky,KY,governor,Republican primary results,Winning,Peppy Martin,Republican,19248,51.27,True,False
 1999,Kentucky,KY,governor,Republican primary results,Candidate,David Lynn Williams,Republican,18295,48.73,False,False
 1999,Kentucky,KY,governor,Republican primary results,Total,,,37543,100.0,False,False
+1999,Louisiana,LA,governor,1999 Louisiana gubernatorial election,Winning,Mike Foster,Republican,805203,62.17,True,True
+1999,Louisiana,LA,governor,1999 Louisiana gubernatorial election,Candidate,Bill Jefferson,Democratic,382445,29.53,False,False
+1999,Louisiana,LA,governor,1999 Louisiana gubernatorial election,Candidate,Tom Greene,Republican,35434,2.74,False,False
+1999,Louisiana,LA,governor,1999 Louisiana gubernatorial election,Candidate,Phil Preis,Democratic,23445,1.81,False,False
+1999,Louisiana,LA,governor,1999 Louisiana gubernatorial election,Candidate,Berl Bush,Democratic,12496,0.96,False,False
+1999,Louisiana,LA,governor,1999 Louisiana gubernatorial election,Candidate,Belinda Alexandrenko,Reform,8978,0.69,False,False
+1999,Louisiana,LA,governor,1999 Louisiana gubernatorial election,Candidate,Messiah Darryl Paul Ward,Democratic,7645,0.59,False,False
+1999,Louisiana,LA,governor,1999 Louisiana gubernatorial election,Candidate,Bob McElroy,Democratic,7511,0.58,False,False
+1999,Louisiana,LA,governor,1999 Louisiana gubernatorial election,Candidate,Charles V. Bellone,Democratic,5432,0.42,False,False
+1999,Louisiana,LA,governor,1999 Louisiana gubernatorial election,Candidate,Sid Baron,Independent,3669,0.28,False,False
+1999,Louisiana,LA,governor,1999 Louisiana gubernatorial election,Candidate,Ronnie Glynn Johnson,Independent,2946,0.23,False,False
+1999,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1999",Winning,Mike Parker,Republican,77674,50.72,True,False
+1999,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1999",Candidate,Eddie Briggs,Republican,42763,27.92,False,False
+1999,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1999",Candidate,Charlie Williams,Republican,17176,11.22,False,False
+1999,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1999",Candidate,Dan Gibson,Republican,11348,7.41,False,False
+1999,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1999",Candidate,"George ""Wagon Wheel"" Blair",Republican,2453,1.6,False,False
+1999,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1999",Candidate,Shawn O'Hara,Republican,1728,1.13,False,False
+1999,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1999",Total,,,153142,100.0,False,False
 1999,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1999",Winning,Ronnie Musgrove,Democratic,309519,56.74,True,False
 1999,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1999",Candidate,Jim Roberts,Democratic,142617,26.14,False,False
 1999,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1999",Candidate,Richard Barrett,Democratic,32383,5.94,False,False
@@ -2904,19 +2922,21 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1999,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1999",Candidate,Carrie Harris,Democratic,11645,2.14,False,False
 1999,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1999",Candidate,"James W. ""Bootie"" Hunt",Democratic,11572,2.12,False,False
 1999,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1999",Total,,,537371,100.0,False,False
-1999,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1999",Winning,Mike Parker,Republican,77674,50.72,True,False
-1999,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1999",Candidate,Eddie Briggs,Republican,42763,27.92,False,False
-1999,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1999",Candidate,Charlie Williams,Republican,17176,11.22,False,False
-1999,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1999",Candidate,Dan Gibson,Republican,11348,7.41,False,False
-1999,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1999",Candidate,"George ""Wagon Wheel"" Blair",Republican,2453,1.6,False,False
-1999,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1999",Candidate,Shawn O'Hara,Republican,1728,1.13,False,False
-1999,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1999",Total,,,153142,100.0,False,False
+2000,Delaware,DE,governor,Democratic primary results,Winning,Ruth Ann Minner,Democratic,38779,100.0,True,False
+2000,Delaware,DE,governor,Republican primary results,Winning,John M. Burris,Republican,13893,50.08,True,False
+2000,Delaware,DE,governor,Republican primary results,Candidate,Bill Lee,Republican,13847,49.92,False,False
+2000,Delaware,DE,governor,Republican primary results,Total,,,27740,100.0,False,False
+2000,Indiana,IN,governor,Democratic primary results,Winning,Frank O'Bannon,Democratic,272213,100.0,True,True
+2000,Indiana,IN,governor,Democratic primary results,Total,,,272213,100.0,False,False
+2000,Indiana,IN,governor,Republican primary results,Winning,David M. McIntosh,Republican,279920,70.96,True,False
+2000,Indiana,IN,governor,Republican primary results,Candidate,John Price,Republican,114580,29.04,False,False
+2000,Indiana,IN,governor,Republican primary results,Total,,,394500,100.0,False,False
+2000,Missouri,MO,governor,Democratic primary results,Winning,Bob Holden,Democratic,362457,100.0,True,False
+2000,Missouri,MO,governor,Democratic primary results,Total,,,362457,100.0,False,False
 2000,Missouri,MO,governor,Republican primary results,Winning,Jim Talent,Republican,296159,84.49,True,False
 2000,Missouri,MO,governor,Republican primary results,Candidate,Jen Sievers,Republican,33674,9.61,False,False
 2000,Missouri,MO,governor,Republican primary results,Candidate,Elgar Macy,Republican,20681,5.9,False,False
 2000,Missouri,MO,governor,Republican primary results,Total,,,350514,100.0,False,False
-2000,Missouri,MO,governor,Democratic primary results,Winning,Bob Holden,Democratic,362457,100.0,True,False
-2000,Missouri,MO,governor,Democratic primary results,Total,,,362457,100.0,False,False
 2000,Missouri,MO,governor,Libertarian primary results,Winning,John M. Swenson,Libertarian,1032,60.35,True,False
 2000,Missouri,MO,governor,Libertarian primary results,Candidate,Dick Illyes,Libertarian,678,39.65,False,False
 2000,Missouri,MO,governor,Libertarian primary results,Total,,,1710,100.0,False,False
@@ -2926,14 +2946,14 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2000,Missouri,MO,governor,Reform primary results,Candidate,Joseph C. Keller,Reform,231,31.17,False,False
 2000,Missouri,MO,governor,Reform primary results,Candidate,Kent A. Benson,Reform,193,26.05,False,False
 2000,Missouri,MO,governor,Reform primary results,Total,,,741,100.0,False,False
+2000,Montana,MT,governor,Republican Primary results,Winning,Judy Martz,Republican,64278,56.88,True,False
+2000,Montana,MT,governor,Republican Primary results,Candidate,Rob Natelson,Republican,48738,43.12,False,False
+2000,Montana,MT,governor,Republican Primary results,Total,,,113016,100.0,False,False
 2000,Montana,MT,governor,Democratic Party primary results,Winning,Mark O'Keefe,Democratic,46294,48.04,True,False
 2000,Montana,MT,governor,Democratic Party primary results,Candidate,Joseph Mazurek,Democratic,34385,35.69,False,False
 2000,Montana,MT,governor,Democratic Party primary results,Candidate,Mike Cooney,Democratic,15677,16.27,False,False
 2000,Montana,MT,governor,Democratic Party primary results,Total,,,96356,100.0,False,False
-2000,Montana,MT,governor,Republican Primary results,Winning,Judy Martz,Republican,64278,56.88,True,False
-2000,Montana,MT,governor,Republican Primary results,Candidate,Rob Natelson,Republican,48738,43.12,False,False
-2000,Montana,MT,governor,Republican Primary results,Total,,,113016,100.0,False,False
-2000,New Hampshire,NH,governor,Democratic primary results,Winning,Jeanne Shaheen (inc.),Democratic,45249,60.41,True,False
+2000,New Hampshire,NH,governor,Democratic primary results,Winning,Jeanne Shaheen,Democratic,45249,60.41,True,True
 2000,New Hampshire,NH,governor,Democratic primary results,Candidate,Mark Fernald,Democratic,28488,38.03,False,False
 2000,New Hampshire,NH,governor,Democratic primary results,Candidate,Write-ins,Democratic,1164,1.55,False,False
 2000,New Hampshire,NH,governor,Democratic primary results,Total,,,74901,100.0,False,False
@@ -2971,14 +2991,14 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2000,Washington,WA,governor,Blanket primary results,Candidate,Harold Hochstatter,Republican,93467,7.23,False,False
 2000,Washington,WA,governor,Blanket primary results,Candidate,Meta Heller,Democratic,28578,2.21,False,False
 2000,Washington,WA,governor,Blanket primary results,Total,,,1292302,100.0,False,False
-2000,West Virginia,WV,governor,Democratic primary results,Winning,Bob Wise,Democratic,174292,63.13,True,False
-2000,West Virginia,WV,governor,Democratic primary results,Candidate,Jim Lees,Democratic,101774,36.87,False,False
-2000,West Virginia,WV,governor,Democratic primary results,Total,,,276066,100.0,False,False
 2000,West Virginia,WV,governor,Republican primary results,Winning,Cecil Underwood,Republican,87190,80.88,True,True
 2000,West Virginia,WV,governor,Republican primary results,Candidate,Joseph Oliverio,Republican,11590,10.75,False,False
 2000,West Virginia,WV,governor,Republican primary results,Candidate,Donna H. McCase,Republican,5902,4.48,False,False
 2000,West Virginia,WV,governor,Republican primary results,Candidate,Larry Eugene Butcher,Republican,3117,2.89,False,False
 2000,West Virginia,WV,governor,Republican primary results,Total,,,107799,100.0,False,False
+2000,West Virginia,WV,governor,Democratic primary results,Winning,Bob Wise,Democratic,174292,63.13,True,False
+2000,West Virginia,WV,governor,Democratic primary results,Candidate,Jim Lees,Democratic,101774,36.87,False,False
+2000,West Virginia,WV,governor,Democratic primary results,Total,,,276066,100.0,False,False
 2001,New Jersey,NJ,governor,Democratic Primary results,Winning,Jim McGreevey,Democratic,250404,95.54,True,False
 2001,New Jersey,NJ,governor,Democratic Primary results,Candidate,Elliot Greenspan,Democratic,11682,4.46,False,False
 2001,New Jersey,NJ,governor,Democratic Primary results,Total,,,262086,100.0,False,False
@@ -3700,14 +3720,14 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2006,Tennessee,TN,governor,Democratic Party primary results,Candidate,Tim Sevier,Democratic,11562.0,2.6,False,False
 2006,Tennessee,TN,governor,Democratic Party primary results,Candidate,Walt Ward,Democratic,7555.0,1.7,False,False
 2006,Tennessee,TN,governor,Democratic Party primary results,Total,,,444054.0,100.0,False,False
-2006,Tennessee,TN,governor,Republican Primary results,Winning,Jim Bryson,Republican,160786.0,50.03,True,False
-2006,Tennessee,TN,governor,Republican Primary results,Candidate,David M. Farmer,Republican,50900.0,15.84,False,False
-2006,Tennessee,TN,governor,Republican Primary results,Candidate,Joe Kirkpatrick,Republican,34491.0,10.73,False,False
-2006,Tennessee,TN,governor,Republican Primary results,Candidate,Mark Albertini,Republican,29184.0,9.08,False,False
-2006,Tennessee,TN,governor,Republican Primary results,Candidate,Wayne Thomas Bailey,Republican,24273.0,7.55,False,False
-2006,Tennessee,TN,governor,Republican Primary results,Candidate,Wayne Young,Republican,11997.0,3.73,False,False
-2006,Tennessee,TN,governor,Republican Primary results,Candidate,Timothy Thomas,Republican,9747.0,3.03,False,False
-2006,Tennessee,TN,governor,Republican Primary results,Total,,,321378.0,100.0,False,False
+2006,Tennessee,TN,governor,Republican primary results,Winning,Jim Bryson,Republican,160786.0,50.03,True,False
+2006,Tennessee,TN,governor,Republican primary results,Candidate,David M. Farmer,Republican,50900.0,15.84,False,False
+2006,Tennessee,TN,governor,Republican primary results,Candidate,Joe Kirkpatrick,Republican,34491.0,10.73,False,False
+2006,Tennessee,TN,governor,Republican primary results,Candidate,Mark Albertini,Republican,29184.0,9.08,False,False
+2006,Tennessee,TN,governor,Republican primary results,Candidate,Wayne Thomas Bailey,Republican,24273.0,7.55,False,False
+2006,Tennessee,TN,governor,Republican primary results,Candidate,Wayne Young,Republican,11997.0,3.73,False,False
+2006,Tennessee,TN,governor,Republican primary results,Candidate,Timothy Thomas,Republican,9747.0,3.03,False,False
+2006,Tennessee,TN,governor,Republican primary results,Total,,,321378.0,100.0,False,False
 2006,Wisconsin,WI,governor,Democratic gubernatorial primary results,Winning,Jim Doyle,Democratic,318523.0,99.3,True,True
 2006,Wisconsin,WI,governor,Democratic gubernatorial primary results,Candidate,Scattering,Democratic,2259.0,0.7,False,False
 2006,Wisconsin,WI,governor,Democratic gubernatorial primary results,Total,,,320782.0,100.0,False,False
@@ -7063,7 +7083,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,California,CA,governor,Primary election results,Candidate,Margaret Trowe,No party preference,2286,0.02,False,False
 2026,California,CA,governor,Primary election results,Candidate,LivingForGod AndCountry DeMott,No party preference,2206,0.02,False,False
 2026,California,CA,governor,Primary election results,Candidate,Reza Safarnejad,No party preference,1990,0.02,False,False
-2026,California,CA,governor,Primary election results,Candidate,Duane Terrence Loynes Jr.,No party preference,1905,0.02,False,False
+2026,California,CA,governor,Primary election results,Candidate,Duane Terrence Loynes Jr.,Solidarity,1905,0.02,False,False
 2026,California,CA,governor,Primary election results,Candidate,Don J. Grundmann,No party preference,1903,0.02,False,False
 2026,California,CA,governor,Primary election results,Candidate,Anne Komarovsk,No party preference,1535,0.02,False,False
 2026,California,CA,governor,Primary election results,Candidate,Dawit Kellel,No party preference,1360,0.01,False,False

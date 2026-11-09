@@ -726,30 +726,30 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 1998,house,New York,NY,30,,Crystal Peoples,Democratic,,32.0,False,False,False
 1998,house,New York,NY,31,,Amo Houghton,Republican,,69.0,True,True,False
 1998,house,New York,NY,31,,Caleb Rossiter,Democratic,,25.0,False,False,False
-1998,house,North Carolina,NC,1,,Eva Clayton,Democratic,,63.0,True,True,False
-1998,house,North Carolina,NC,1,,Ted Tyler,Republican,,37.0,False,False,False
-1998,house,North Carolina,NC,2,,Bob Etheridge,Democratic,,58.0,True,True,False
-1998,house,North Carolina,NC,2,,Dan Page,Republican,,42.0,False,False,False
-1998,house,North Carolina,NC,3,,Walter B. Jones Jr.,Republican,,62.0,True,True,False
-1998,house,North Carolina,NC,3,,Jon Williams,Democratic,,38.0,False,False,False
-1998,house,North Carolina,NC,4,,David Price,Democratic,,58.0,True,True,False
-1998,house,North Carolina,NC,4,,Tom Roberg,Republican,,42.0,False,False,False
-1998,house,North Carolina,NC,5,,Richard Burr,Republican,,68.0,True,True,False
-1998,house,North Carolina,NC,5,,Mike Robinson,Democratic,,32.0,False,False,False
-1998,house,North Carolina,NC,6,,Howard Coble,Republican,,88.6,True,True,False
-1998,house,North Carolina,NC,6,,Jeffrey D. Bentley,Libertarian,,11.4,False,False,False
-1998,house,North Carolina,NC,7,,Mike McIntyre,Democratic,,91.3,True,True,False
-1998,house,North Carolina,NC,7,,Paul Meadows,Libertarian,,8.7,False,False,False
-1998,house,North Carolina,NC,8,,Robin Hayes,Republican,,51.0,True,False,True
-1998,house,North Carolina,NC,8,,Mike Taylor,Democratic,,49.0,False,False,True
-1998,house,North Carolina,NC,9,,Sue Myrick,Republican,,69.0,True,True,False
-1998,house,North Carolina,NC,9,,Rory Blake,Democratic,,30.0,False,False,False
-1998,house,North Carolina,NC,10,,Cass Ballenger,Republican,,85.6,True,True,False
-1998,house,North Carolina,NC,10,,Deborah Garrett Eddins,Libertarian,,14.4,False,False,False
-1998,house,North Carolina,NC,11,,Charles Taylor,Republican,,57.0,True,True,False
-1998,house,North Carolina,NC,11,,David Young,Democratic,,43.0,False,False,False
-1998,house,North Carolina,NC,12,,Mel Watt,Democratic,,56.0,True,True,False
-1998,house,North Carolina,NC,12,,Scott Keadle,Republican,,43.0,False,False,False
+1998,house,North Carolina,NC,1,136747,Eva Clayton,Democratic,,63.0,True,True,False
+1998,house,North Carolina,NC,1,136747,Ted Tyler,Republican,50578,37.0,False,False,False
+1998,house,North Carolina,NC,2,175194,Bob Etheridge,Democratic,100550,58.0,True,True,False
+1998,house,North Carolina,NC,2,175194,Dan Page,Republican,72997,42.0,False,False,False
+1998,house,North Carolina,NC,3,134912,Walter B. Jones Jr.,Republican,83529,62.0,True,True,False
+1998,house,North Carolina,NC,3,134912,Jon Williams,Democratic,50041,38.0,False,False,False
+1998,house,North Carolina,NC,4,224910,David Price,Democratic,129157,58.0,True,True,False
+1998,house,North Carolina,NC,4,224910,Tom Roberg,Republican,93469,42.0,False,False,False
+1998,house,North Carolina,NC,5,176291,Richard Burr,Republican,119103,68.0,True,True,False
+1998,house,North Carolina,NC,5,176291,Mike Robinson,Democratic,55806,32.0,False,False,False
+1998,house,North Carolina,NC,6,127194,Howard Coble,Republican,112740,88.6,True,True,False
+1998,house,North Carolina,NC,6,127194,Jeffrey D. Bentley,Libertarian,14454,11.4,False,False,False
+1998,house,North Carolina,NC,7,136290,Mike McIntyre,Democratic,124366,91.3,True,True,False
+1998,house,North Carolina,NC,7,136290,Paul Meadows,Libertarian,11924,8.7,False,False,False
+1998,house,North Carolina,NC,8,133124,Robin Hayes,Republican,67505,51.0,True,False,True
+1998,house,North Carolina,NC,8,133124,Mike Taylor,Democratic,64127,49.0,False,False,True
+1998,house,North Carolina,NC,9,174082,Sue Myrick,Republican,,69.0,True,True,False
+1998,house,North Carolina,NC,9,174082,Rory Blake,Democratic,51345,30.0,False,False,False
+1998,house,North Carolina,NC,10,138511,Cass Ballenger,Republican,118541,85.6,True,True,False
+1998,house,North Carolina,NC,10,138511,Deborah Garrett Eddins,Libertarian,19970,14.4,False,False,False
+1998,house,North Carolina,NC,11,199423,Charles Taylor,Republican,,57.0,True,True,False
+1998,house,North Carolina,NC,11,199423,David Young,Democratic,84256,43.0,False,False,False
+1998,house,North Carolina,NC,12,147088,Mel Watt,Democratic,82305,56.0,True,True,False
+1998,house,North Carolina,NC,12,147088,Scott Keadle,Republican,62070,43.0,False,False,False
 1998,house,North Dakota,ND,AL,,Earl Pomeroy,Democratic-NPL,,56.2,True,True,False
 1998,house,North Dakota,ND,AL,,Kevin Cramer,Republican,,41.1,False,False,False
 1998,house,North Dakota,ND,AL,,Kenneth R. Loughead,Independent,,2.7,False,False,False

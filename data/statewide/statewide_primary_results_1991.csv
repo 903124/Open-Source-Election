@@ -7,9 +7,19 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1991,Kentucky,KY,governor,Republican primary results,Winning,Larry J. Hopkins,Republican,81526,50.6,True,False
 1991,Kentucky,KY,governor,Republican primary results,Candidate,Larry Forgy,Republican,79581,49.4,False,False
 1991,Kentucky,KY,governor,Republican primary results,Total,,,161107,100.0,False,False
-1991,Louisiana,LA,governor,Primary election,Candidate,Democratic,,523096,,False,False
-1991,Louisiana,LA,governor,Primary election,Candidate,Republican,,491342,,False,False
-1991,Louisiana,LA,governor,Primary election,Candidate,Other,,9663,,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Edwin Edwards,Democratic,523096,33.76,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,David Duke,Republican,491342,31.71,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Buddy Roemer,Republican,410690,26.51,False,True
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Clyde C. Holloway,Republican,82683,5.34,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Sam S. Jones,Democratic,11847,0.76,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Ed Karst,Independent,9663,0.62,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Fred Dent,Democratic,7385,0.48,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Anne Thompson,Republican,4118,0.27,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Jim Crowley,Democratic,4000,0.26,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Albert Powell,Democratic,2053,0.13,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Ronnie Johnson,Independent,1372,0.09,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Candidate,Cousin Ken Lewis,Democratic,1006,0.06,False,False
+1991,Louisiana,LA,governor,1991 Louisiana gubernatorial election,Total,,,1549255,100.0,False,False
 1991,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1991",Winning,Ray Mabus,Democratic,368679,50.75,True,True
 1991,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1991",Candidate,Wayne Dowdy,Democratic,299172,41.18,False,False
 1991,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1991",Candidate,"George ""Wagon Wheel"" Blair",Democratic,58614,8.07,False,False

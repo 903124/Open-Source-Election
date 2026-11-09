@@ -1254,9 +1254,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Winning,John G. Rowland,Republican,415201,36.2,True,False
 1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Candidate,Bill Curry,Democratic,375133,32.7,False,False
 1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Candidate,Eunice Groark,Connecticut,216585,18.88,False,False
-1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Candidate,Tom Scott,Independent,130128,11.35,False,False
+1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Candidate,Tom Scott,Independent,130128,11.34,False,False
 1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Candidate,Joseph A. Zdonczyk,Citizens,10007,0.87,False,False
-1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Total,,,1147054,100.0,False,False
+1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Candidate,Various,Write-in,30,0.01,False,False
+1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Total,,,1147084,100.0,False,False
 1994,Florida,FL,governor,"Florida gubernatorial election, 1994",Winning,Lawton Chiles,Democratic,2135008,50.75,True,True
 1994,Florida,FL,governor,"Florida gubernatorial election, 1994",Candidate,Jeb Bush,Republican,2071068,49.23,False,False
 1994,Florida,FL,governor,"Florida gubernatorial election, 1994",Write-in,,,583,0.0,False,False
@@ -1468,9 +1469,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1996,Vermont,VT,governor,1996 Vermont gubernatorial election,Candidate,Neil Randall,Libertarian,2916,1.15,False,False
 1996,Vermont,VT,governor,1996 Vermont gubernatorial election,Write-in,,,661,0.26,False,False
 1996,Vermont,VT,governor,1996 Vermont gubernatorial election,Total,,,254648,100.0,False,False
-1996,Washington,WA,governor,1996 gubernatorial election,Winning,Gary Locke,Democratic,1296492,57.96,True,False
-1996,Washington,WA,governor,1996 gubernatorial election,Candidate,Ellen Craswell,Republican,940538,42.04,False,False
-1996,Washington,WA,governor,1996 gubernatorial election,Total,,,2237030,100.0,False,False
+1996,Washington,WA,governor,1996 Washington gubernatorial election,Winning,Gary Locke,Democratic,1296492,57.96,True,False
+1996,Washington,WA,governor,1996 Washington gubernatorial election,Candidate,Ellen Craswell,Republican,940538,42.04,False,False
+1996,Washington,WA,governor,1996 Washington gubernatorial election,Total,,,2237030,100.0,False,False
 1996,West Virginia,WV,governor,"West Virginia gubernatorial election, 1996",Winning,Cecil Underwood,Republican,324518,51.63,True,False
 1996,West Virginia,WV,governor,"West Virginia gubernatorial election, 1996",Candidate,Charlotte Pritt,Democratic,287870,45.8,False,False
 1996,West Virginia,WV,governor,"West Virginia gubernatorial election, 1996",Candidate,Wallace Johnson,Libertarian,16171,2.57,False,False
@@ -1548,7 +1549,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Iowa,IA,governor,"Iowa gubernatorial election, 1998",Candidate,Jim Schaefer,Law,3144,0.33,False,False
 1998,Iowa,IA,governor,"Iowa gubernatorial election, 1998",Candidate,Mark Kennis,Independent,2006,0.21,False,False
 1998,Iowa,IA,governor,"Iowa gubernatorial election, 1998",Write-in,,,641,0.07,False,False
-1998,Kansas,KS,governor,"Kansas gubernatorial election, 1998",Winning,Bill Graves (inc.),Republican,544882,73.37,True,False
+1998,Kansas,KS,governor,"Kansas gubernatorial election, 1998",Winning,Bill Graves,Republican,544882,73.37,True,True
 1998,Kansas,KS,governor,"Kansas gubernatorial election, 1998",Candidate,Tom Sawyer,Democratic,168243,22.65,False,False
 1998,Kansas,KS,governor,"Kansas gubernatorial election, 1998",Candidate,Kirt Poovey,Constitution,21710,2.92,False,False
 1998,Kansas,KS,governor,"Kansas gubernatorial election, 1998",Candidate,Darrel King,Reform,7830,1.05,False,False
@@ -1594,6 +1595,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Nevada,NV,governor,"Nevada gubernatorial election, 1998",Candidate,Chuck Horne,American,7509,1.73,False,False
 1998,Nevada,NV,governor,"Nevada gubernatorial election, 1998",Candidate,Terry C. Savage,Libertarian,7307,1.69,False,False
 1998,Nevada,NV,governor,"Nevada gubernatorial election, 1998",Total,,,433630,100.0,False,False
+1998,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 1998",Winning,Jeanne Shaheen (inc.),Democratic,210769,66.08,True,False
+1998,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 1998",Candidate,Jay Lucas,Republican,98473,30.88,False,False
+1998,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 1998",Candidate,Ken Blevens,Libertarian,8655,2.71,False,False
+1998,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 1998",Write-in,Write-ins,Write-ins,1043,0.33,False,False
 1998,New Mexico,NM,governor,1998 New Mexico gubernatorial election,Winning,Gary Johnson,Republican,271948,54.53,True,True
 1998,New Mexico,NM,governor,1998 New Mexico gubernatorial election,Candidate,Martin Chávez,Democratic,226755,45.47,False,False
 1998,New Mexico,NM,governor,1998 New Mexico gubernatorial election,Total,,,498703,100.0,False,False
@@ -1637,11 +1642,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 1998",Candidate,Robert J. Healey,Cool Moose,19250,6.28,False,False
 1998,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 1998",Candidate,Joseph F. Devine,Reform,1848,0.6,False,False
 1998,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 1998",Write-in,Write-ins,Write-ins,62,0.02,False,False
-1998,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1998",Winning,Jim Hodges,Democratic,570070,53.23,True,False
-1998,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1998",Candidate,David Beasley,Republican,484088,45.21,False,True
-1998,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1998",Candidate,Timothy Moultrie,Libertarian,14894,1.4,False,False
-1998,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1998",Candidate,Write-Ins,No,1553,0.2,False,False
-1998,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1998",Candidate,Bobby Eubanks,No,264,0.0,False,False
+1998,South Carolina,SC,governor,1998 South Carolina gubernatorial election,Winning,Jim Hodges,Democratic,570070,53.23,True,False
+1998,South Carolina,SC,governor,1998 South Carolina gubernatorial election,Candidate,David Beasley,Republican,484088,45.21,False,True
+1998,South Carolina,SC,governor,1998 South Carolina gubernatorial election,Candidate,Timothy Moultrie,Libertarian,14894,1.4,False,False
+1998,South Carolina,SC,governor,1998 South Carolina gubernatorial election,Candidate,Bobby Eubanks (write-in),Independent,264,0.0,False,False
+1998,South Carolina,SC,governor,1998 South Carolina gubernatorial election,Write-in,,,1553,0.2,False,False
+1998,South Carolina,SC,governor,1998 South Carolina gubernatorial election,Total,,,1070869,100.0,False,False
 1998,South Dakota,SD,governor,"South Dakota gubernatorial election, 1998",Winning,Bill Janklow,Republican,166621,64.04,True,True
 1998,South Dakota,SD,governor,"South Dakota gubernatorial election, 1998",Candidate,Bernie Hunhoff,Democratic,85473,32.85,False,False
 1998,South Dakota,SD,governor,"South Dakota gubernatorial election, 1998",Candidate,Bob Newland,Libertarian,4389,1.69,False,False
@@ -1684,17 +1690,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1999,Kentucky,KY,governor,1999 Kentucky gubernatorial election,Candidate,Nailah Jumoke-Yarbrough,Law,6934,1.2,False,False
 1999,Kentucky,KY,governor,1999 Kentucky gubernatorial election,Candidate,Hoby Anderson,Write-in,3323,0.57,False,False
 1999,Kentucky,KY,governor,1999 Kentucky gubernatorial election,Total,,,580074,100.0,False,False
-1999,Louisiana,LA,governor,"Louisiana Gubernatorial Election, 1999",Winning,Mike Foster,Republican,805203,62.17,True,True
-1999,Louisiana,LA,governor,"Louisiana Gubernatorial Election, 1999",Candidate,Bill Jefferson,Democratic,382445,29.53,False,False
-1999,Louisiana,LA,governor,"Louisiana Gubernatorial Election, 1999",Candidate,Tom Greene,Republican,35434,2.74,False,False
-1999,Louisiana,LA,governor,"Louisiana Gubernatorial Election, 1999",Candidate,Phil Preis,Democratic,23445,1.81,False,False
-1999,Louisiana,LA,governor,"Louisiana Gubernatorial Election, 1999",Candidate,Berl Bush,Democratic,12496,0.96,False,False
-1999,Louisiana,LA,governor,"Louisiana Gubernatorial Election, 1999",Candidate,Belinda Alexandrenko,Reform,8978,0.69,False,False
-1999,Louisiana,LA,governor,"Louisiana Gubernatorial Election, 1999",Candidate,Messiah Darryl Paul Ward,Democratic,7645,0.59,False,False
-1999,Louisiana,LA,governor,"Louisiana Gubernatorial Election, 1999",Candidate,Bob McElroy,Democratic,7511,0.58,False,False
-1999,Louisiana,LA,governor,"Louisiana Gubernatorial Election, 1999",Candidate,Charles V. Bellone,Democratic,5432,0.42,False,False
-1999,Louisiana,LA,governor,"Louisiana Gubernatorial Election, 1999",Candidate,Sid Baron,Independent,3669,0.28,False,False
-1999,Louisiana,LA,governor,"Louisiana Gubernatorial Election, 1999",Candidate,Ronnie Glynn Johnson,Independent,2946,0.23,False,False
+2000,Delaware,DE,governor,"Delaware gubernatorial election, 2000",Winning,Ruth Ann Minner,Democratic,191695,59.24,True,False
+2000,Delaware,DE,governor,"Delaware gubernatorial election, 2000",Candidate,John M. Burris,Republican,128603,39.75,False,False
+2000,Delaware,DE,governor,"Delaware gubernatorial election, 2000",Candidate,Floyd E. McDowell,Independent,3271,1.01,False,False
 2000,Indiana,IN,governor,"Indiana gubernatorial election, 2000",Winning,Frank O'Bannon/Joe Kernan (incumbents),Democratic,1232525,56.56,True,False
 2000,Indiana,IN,governor,"Indiana gubernatorial election, 2000",Candidate,David M. McIntosh/J. Murray Clark,Republican,908285,41.68,False,False
 2000,Indiana,IN,governor,"Indiana gubernatorial election, 2000",Candidate,Andrew Horning/Mark Schreiber,Libertarian,38458,1.76,False,False
@@ -1714,6 +1712,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2000,North Carolina,NC,governor,2000 North Carolina gubernatorial election,Candidate,Richard Vinroot,Republican,1360960,46.26,False,False
 2000,North Carolina,NC,governor,2000 North Carolina gubernatorial election,Candidate,Barbara Howe,Libertarian,42674,1.45,False,False
 2000,North Carolina,NC,governor,2000 North Carolina gubernatorial election,Candidate,Douglas Schell,Reform,8104,0.28,False,False
+2000,North Dakota,ND,governor,2000 North Dakota gubernatorial election,Winning,John Hoeven,Republican,159255,55.03,True,False
+2000,North Dakota,ND,governor,2000 North Dakota gubernatorial election,Candidate,Heidi Heitkamp,North Dakota Democratic-npl,130144,44.97,False,False
+2000,North Dakota,ND,governor,2000 North Dakota gubernatorial election,Write-in,,Write-ins,13,0.0,False,False
+2000,North Dakota,ND,governor,2000 North Dakota gubernatorial election,Total,,,289412,100.0,False,False
 2000,Utah,UT,governor,2000 Utah gubernatorial election,Winning,Mike Leavitt,Republican,424837,55.77,True,False
 2000,Utah,UT,governor,2000 Utah gubernatorial election,Candidate,Bill Orton,Democratic,321979,42.27,False,False
 2000,Utah,UT,governor,2000 Utah gubernatorial election,Candidate,Jeremy Friedbaum,Independent American,14990,1.97,False,False
@@ -1866,7 +1868,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2002,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 2002",Write-in,Write-ins,Write-ins,1008,0.23,False,False
 2002,New Mexico,NM,governor,2002 New Mexico gubernatorial election,Winning,Bill Richardson,Democratic,268693,55.49,True,False
 2002,New Mexico,NM,governor,2002 New Mexico gubernatorial election,Candidate,John A. Sanchez,Republican,189074,39.05,False,False
-2002,New Mexico,NM,governor,2002 New Mexico gubernatorial election,Candidate,David E. Bacon,Green,26465,5.47,False,False
+2002,New Mexico,NM,governor,2002 New Mexico gubernatorial election,Candidate,David E. Bacon,Green,26466,5.47,False,False
 2002,New Mexico,NM,governor,2002 New Mexico gubernatorial election,Total,,,484233,100.0,False,False
 2002,New York,NY,governor,"New York gubernatorial election, 2002",Winning,George Pataki,Total,2262255,49.4,True,True
 2002,New York,NY,governor,"New York gubernatorial election, 2002",Candidate,George Pataki,Republican,2085407,45.54,False,False
@@ -4157,9 +4159,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,California,CA,secretary of state,2026 California Secretary of State election,Candidate,Shirley Weber,Democratic,,,False,True
 2026,California,CA,secretary of state,2026 California Secretary of State election,Candidate,Donald P. Wagner,Republican,,,False,False
 2026,California,CA,secretary of state,2026 California Secretary of State election,Total,,,,,False,False
-2026,California,CA,governor,2026 California gubernatorial election,Winning,Xavier Becerra,Democratic,5671949,64.6,True,False
-2026,California,CA,governor,2026 California gubernatorial election,Candidate,Steve Hilton,Republican,3103607,35.4,False,False
-2026,California,CA,governor,2026 California gubernatorial election,Total,,,8775556,100.0,False,False
+2026,California,CA,governor,2026 California gubernatorial election,Winning,Xavier Becerra,Democratic,6773781,65.5,True,False
+2026,California,CA,governor,2026 California gubernatorial election,Candidate,Steve Hilton,Republican,3575025,34.5,False,False
+2026,California,CA,governor,2026 California gubernatorial election,Total,,,10348806,100.0,False,False
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Candidate,Jena Griswold,Democratic,,,False,False
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Candidate,Michael J. Allen,Republican,,,False,False
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Total,,,,100.0,False,False
@@ -4266,11 +4268,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election results,Candidate,John Norwood,Democratic,655768,49.65,False,False
 2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election results,Total,,,1320716,100.0,False,False
 2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Winning,Rob Sand,Democratic,757326,55.5,True,False
-2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Candidate,Zach Lahn,Republican,607415,45.5,False,False
+2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Candidate,Zach Lahn,Republican,607415,44.5,False,False
 2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Total,,,1364741,100.0,False,False
-2026,Kansas,KS,attorney general,2026 Kansas Attorney General election results,Candidate,Chris Mann,Democratic,551468,50.6,False,False
-2026,Kansas,KS,attorney general,2026 Kansas Attorney General election results,Candidate,Kris Kobach,Republican,538647,49.4,False,True
-2026,Kansas,KS,attorney general,2026 Kansas Attorney General election results,Total,,,1090115,100.0,False,False
+2026,Kansas,KS,attorney general,2026 Kansas Attorney General election,Winning,Chris Mann,Democratic,552753,50.62,True,False
+2026,Kansas,KS,attorney general,2026 Kansas Attorney General election,Candidate,Kris Kobach,Republican,539297,49.38,False,True
+2026,Kansas,KS,attorney general,2026 Kansas Attorney General election,Total,,,1092050,100.0,False,False
 2026,Kansas,KS,secretary of state,2026 Kansas Secretary of State election results,Candidate,Pat Proctor,Republican,523937,48.3,False,False
 2026,Kansas,KS,secretary of state,2026 Kansas Secretary of State election results,Candidate,Jennifer Day,Democratic,514512,47.4,False,False
 2026,Kansas,KS,secretary of state,2026 Kansas Secretary of State election results,Candidate,Scott Morgan,United Kansas,45942,4.2,False,False
@@ -4294,11 +4296,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Andrea Campbell,Democratic,,,False,True
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Michael Walsh,Republican,,,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Total,,,,100.0,False,False
-2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Maura Healey,Democratic,1623656,62.18,False,True
-2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Michael Minogue,Republican,901841,34.54,False,False
-2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Andrea C. James,Independent,85807,3.29,False,False
+2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Maura Healey,Democratic,1625487,61.97,False,True
+2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Michael Minogue,Republican,911234,34.74,False,False
+2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Andrea C. James,Independent,86279,3.29,False,False
 2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Write-in,,,0,0.0,False,False
-2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Total,,,2611312,100.0,False,False
+2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Total,,,2623000,100.0,False,False
 2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Winning,Eli Savit,Democratic,2468205,52.53,True,False
 2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Doug Lloyd,Republican,2100530,44.71,False,False
 2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Jason Dye,Libertarian,58614,1.25,False,False
@@ -4328,10 +4330,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Seth Kuhl-Stennes,Green,41389.0,1.48,False,False
 2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Write-in,,,1291.0,0.05,False,False
 2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Total,,,,100.0,False,False
-2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Winning,Amy Klobuchar,Minnesota Democratic–farmer–labor,1569057.0,55.47,True,False
-2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Candidate,Lisa Demuth,Republican,1205798.0,42.63,False,False
-2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Candidate,Steven Young,Green,51385.0,1.82,False,False
-2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Total,,,,100.0,False,False
+2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Winning,Amy Klobuchar,Minnesota Democratic–farmer–labor,1569057,55.47,True,False
+2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Candidate,Lisa Demuth,Republican,1205798,42.63,False,False
+2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Candidate,Steven Young,Green,51385,1.82,False,False
+2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Write-in,,,2474,0.09,False,False
+2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Total,,,2830125,100.0,False,False
 2026,Nebraska,NE,attorney general,2026 Nebraska Attorney General election,Candidate,Mike Hilgers,Republican,,,False,True
 2026,Nebraska,NE,attorney general,2026 Nebraska Attorney General election,Candidate,Jocelyn Brasher,Democratic,,,False,False
 2026,Nebraska,NE,attorney general,2026 Nebraska Attorney General election,Total,,,,100.0,False,False
@@ -4381,10 +4384,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Total,,,,100.0,False,False
 2026,New York,NY,attorney general,2026 New York Attorney General election,Candidate,Letitia James,New York State Democratic Committee,,,False,False
 2026,New York,NY,attorney general,2026 New York Attorney General election,Candidate,Saritha Komatireddy,New York Republican State Committee,,,False,False
-2026,New York,NY,attorney general,2026 New York Attorney General election,Total,,,,100.0,False,False
+2026,New York,NY,attorney general,2026 New York Attorney General election,Write-in,,,4446.0,0.1,False,False
+2026,New York,NY,attorney general,2026 New York Attorney General election,Total,,,6022299.0,100.0,False,False
+2026,New York,NY,governor,2026 New York gubernatorial election,Winning,Kathy Hochul,Total,3641811.0,59.7,True,True
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Kathy Hochul,New York State Democratic Committee,,,False,False
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Bruce Blakeman,New York Republican State Committee,,,False,False
-2026,New York,NY,governor,2026 New York gubernatorial election,Total,,,,100.0,False,False
+2026,New York,NY,governor,2026 New York gubernatorial election,Write-in,,,12800.0,0.2,False,False
+2026,New York,NY,governor,2026 New York gubernatorial election,Total,,,6097359.0,100.0,False,False
 2026,Northern Mariana Islands,MP,governor,2026 Northern Mariana Islands gubernatorial election,Candidate,Ralph Torres,Republican,6437,49.5,False,False
 2026,Northern Mariana Islands,MP,governor,2026 Northern Mariana Islands gubernatorial election,Candidate,Blas T. Attao,Independent,5043,38.7,False,False
 2026,Northern Mariana Islands,MP,governor,2026 Northern Mariana Islands gubernatorial election,Candidate,Lawrence F. Camacho,Independent,1537,11.8,False,False
@@ -4405,9 +4411,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Total,,,4595782,100.0,False,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Winning,Mike Mazzei,Republican,581706,51.93,True,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Cyndi Munson,Democratic,514342,45.92,False,False
-2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Orlando Lynn Bush,Independent,5009,0.45,False,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Robert E. Brooks Sr.,Independent,11649,1.04,False,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Jerry Griffin,Independent,7433,0.66,False,False
+2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Orlando Lynn Bush,Independent,5009,0.45,False,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Total,,,1120139,,False,False
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Tina Kotek,Democratic,,,False,True
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Christine Drazan,Republican,,,False,False
@@ -4471,15 +4477,15 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,June Goodband,Justice,,,False,False
 2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Dean Roy,Freedom And Unity,,,False,False
 2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Total,,,,100.0,False,False
-2026,Wisconsin,WI,attorney general,2026 Wisconsin Attorney General election,Candidate,Josh Kaul,Democratic,,,False,True
+2026,Wisconsin,WI,attorney general,2026 Wisconsin Attorney General election,Winning,Josh Kaul,Democratic,,,True,True
 2026,Wisconsin,WI,attorney general,2026 Wisconsin Attorney General election,Candidate,Eric Toney,Republican,,,False,False
 2026,Wisconsin,WI,attorney general,2026 Wisconsin Attorney General election,Total,,,,100.0,False,False
 2026,Wisconsin,WI,secretary of state,2026 Wisconsin Secretary of State election,Candidate,JoCasta Zamarripa,Democratic,,,False,False
 2026,Wisconsin,WI,secretary of state,2026 Wisconsin Secretary of State election,Candidate,Jay Schroeder,Republican,,,False,False
 2026,Wisconsin,WI,secretary of state,2026 Wisconsin Secretary of State election,Candidate,Pete Karas,Green,,,False,False
 2026,Wisconsin,WI,secretary of state,2026 Wisconsin Secretary of State election,Total,,,,100.0,False,False
-2026,Wisconsin,WI,state treasurer,2026 Wisconsin State Treasurer election,Candidate,John Leiber,Republican,,,False,True
-2026,Wisconsin,WI,state treasurer,2026 Wisconsin State Treasurer election,Candidate,Yee Leng Xiong,Democratic,,,False,False
+2026,Wisconsin,WI,state treasurer,2026 Wisconsin State Treasurer election,Candidate,John Leiber,Republican,942779.0,46.7,False,True
+2026,Wisconsin,WI,state treasurer,2026 Wisconsin State Treasurer election,Candidate,Yee Leng Xiong,Democratic,1075496.0,53.3,False,False
 2026,Wisconsin,WI,state treasurer,2026 Wisconsin State Treasurer election,Total,,,,100.0,False,False
 2026,Wisconsin,WI,governor,2026 Wisconsin gubernatorial election,Candidate,David Crowley,Democratic,,,False,False
 2026,Wisconsin,WI,governor,2026 Wisconsin gubernatorial election,Candidate,Tom Tiffany,Republican,,,False,False

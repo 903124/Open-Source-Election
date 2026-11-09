@@ -200,13 +200,13 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2006,West Virginia,2006 West Virginia United States Senate Election Republican Primary,Primary,Candidate,False,"Charles G. ""Bud"" Railey",Republican Party (United States),"4,364",5.4%
 2006,West Virginia,2006 West Virginia United States Senate Election Republican Primary,Primary,Candidate,False,Paul J. Brown,Republican Party (United States),"3,464",4.3%
 2006,West Virginia,2006 West Virginia United States Senate Election Republican Primary,Primary,Candidate,False,Zane Lawhorn,Republican Party (United States),"2,723",3.3%
-2006,Wisconsin,Democratic primary results [http://elections.state.wi.us/docview.asp?docid=9719&locid=47],Primary,Winning,True,Herb Kohl,Democratic Party (United States),"308,178",85.66%
-2006,Wisconsin,Democratic primary results [http://elections.state.wi.us/docview.asp?docid=9719&locid=47],Primary,Candidate,False,Ben Masel,Democratic Party (United States),"51,245",14.24%
-2006,Wisconsin,Democratic primary results [http://elections.state.wi.us/docview.asp?docid=9719&locid=47],Primary,Candidate,False,Write ins,Democratic Party (United States),335,0.09%
-2006,Wisconsin,Democratic primary results [http://elections.state.wi.us/docview.asp?docid=9719&locid=47],Primary,Total,False,,,359758,100%
-2006,Wisconsin,Republican primary results [http://elections.state.wi.us/docview.asp?docid=9719&locid=47],Primary,Winning,False,Robert Lorge,Republican Party (United States),"194,633",99.73%
-2006,Wisconsin,Republican primary results [http://elections.state.wi.us/docview.asp?docid=9719&locid=47],Primary,Candidate,False,Write ins,Republican Party (United States),530,0.27%
-2006,Wisconsin,Republican primary results [http://elections.state.wi.us/docview.asp?docid=9719&locid=47],Primary,Total,False,,,195163,100%
+2006,Wisconsin,Democratic primary results,Primary,Winning,True,Herb Kohl,Democratic Party (United States),"308,178",85.66%
+2006,Wisconsin,Democratic primary results,Primary,Candidate,False,Ben Masel,Democratic Party (United States),"51,245",14.24%
+2006,Wisconsin,Democratic primary results,Primary,Candidate,False,Write ins,Democratic Party (United States),335,0.09%
+2006,Wisconsin,Democratic primary results,Primary,Total,False,,,359758,100%
+2006,Wisconsin,Republican primary results,Primary,Winning,False,Robert Lorge,Republican Party (United States),"194,633",99.73%
+2006,Wisconsin,Republican primary results,Primary,Candidate,False,Write ins,Republican Party (United States),530,0.27%
+2006,Wisconsin,Republican primary results,Primary,Total,False,,,195163,100%
 2006,Wyoming,Republican primary results,Primary,Winning,True,Craig Thomas,Republican Party (United States),"78,211",100.00
 2006,Wyoming,Republican primary results,Primary,Total,False,,,"78,211",100.00
 2006,Wyoming,Democratic primary results,Primary,Winning,False,Dale Groutage,Democratic Party (United States),"24,924",100.00

@@ -114,7 +114,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2002,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 2002",Write-in,Write-ins,Write-ins,1008,0.23,False,False
 2002,New Mexico,NM,governor,2002 New Mexico gubernatorial election,Winning,Bill Richardson,Democratic,268693,55.49,True,False
 2002,New Mexico,NM,governor,2002 New Mexico gubernatorial election,Candidate,John A. Sanchez,Republican,189074,39.05,False,False
-2002,New Mexico,NM,governor,2002 New Mexico gubernatorial election,Candidate,David E. Bacon,Green,26465,5.47,False,False
+2002,New Mexico,NM,governor,2002 New Mexico gubernatorial election,Candidate,David E. Bacon,Green,26466,5.47,False,False
 2002,New Mexico,NM,governor,2002 New Mexico gubernatorial election,Total,,,484233,100.0,False,False
 2002,New York,NY,governor,"New York gubernatorial election, 2002",Winning,George Pataki,Total,2262255,49.4,True,True
 2002,New York,NY,governor,"New York gubernatorial election, 2002",Candidate,George Pataki,Republican,2085407,45.54,False,False

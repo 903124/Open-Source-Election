@@ -33,9 +33,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Winning,John G. Rowland,Republican,415201,36.2,True,False
 1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Candidate,Bill Curry,Democratic,375133,32.7,False,False
 1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Candidate,Eunice Groark,Connecticut,216585,18.88,False,False
-1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Candidate,Tom Scott,Independent,130128,11.35,False,False
+1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Candidate,Tom Scott,Independent,130128,11.34,False,False
 1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Candidate,Joseph A. Zdonczyk,Citizens,10007,0.87,False,False
-1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Total,,,1147054,100.0,False,False
+1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Candidate,Various,Write-in,30,0.01,False,False
+1994,Connecticut,CT,governor,1994 Connecticut gubernatorial election,Total,,,1147084,100.0,False,False
 1994,Florida,FL,governor,"Florida gubernatorial election, 1994",Winning,Lawton Chiles,Democratic,2135008,50.75,True,True
 1994,Florida,FL,governor,"Florida gubernatorial election, 1994",Candidate,Jeb Bush,Republican,2071068,49.23,False,False
 1994,Florida,FL,governor,"Florida gubernatorial election, 1994",Write-in,,,583,0.0,False,False

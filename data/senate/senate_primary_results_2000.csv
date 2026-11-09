@@ -39,17 +39,17 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2000,Minnesota,Republican primary results,Primary,Winning,True,Rod Grams,Republican Party (United States),"112,335",89.11
 2000,Minnesota,Republican primary results,Primary,Candidate,False,William Paul Dahn,Republican Party (United States),"13,728",10.89
 2000,Minnesota,Republican primary results,Primary,Total,False,,,"126,063",100.00
-2000,Missouri,Democratic primary results,Primary,Winning,False,Mel Carnahan,Democratic Party (United States),"323,841",78.20%
-2000,Missouri,Democratic primary results,Primary,Candidate,False,Ronald Waggoner,Democratic Party (United States),"90,251",21.80%
-2000,Missouri,Democratic primary results,Primary,Total,False,,,"414,092",100.0%
 2000,Missouri,Republican primary results,Primary,Winning,True,John Ashcroft,Republican Party (United States),"327,442",89.60%
 2000,Missouri,Republican primary results,Primary,Candidate,False,Marc Perkel,Republican Party (United States),"38,103",10.40%
 2000,Missouri,Republican primary results,Primary,Total,False,,,"365,545",100.0%
+2000,Missouri,Democratic primary results,Primary,Winning,False,Mel Carnahan,Democratic Party (United States),"323,841",78.20%
+2000,Missouri,Democratic primary results,Primary,Candidate,False,Ronald Waggoner,Democratic Party (United States),"90,251",21.80%
+2000,Missouri,Democratic primary results,Primary,Total,False,,,"414,092",100.0%
+2000,Montana,Republican Party primary results,Primary,Winning,True,Conrad Burns,Republican Party (United States),"102,125",100.00
+2000,Montana,Republican Party primary results,Primary,Total,False,,,"102,125",100.00
 2000,Montana,Democratic Party primary results,Primary,Winning,False,Brian Schweitzer,Democratic Party (United States),"59,189",66.18
 2000,Montana,Democratic Party primary results,Primary,Candidate,False,John Driscoll,Democratic Party (United States),"30,242",33.82
 2000,Montana,Democratic Party primary results,Primary,Total,False,,,"89,431",100.00
-2000,Montana,Republican Party primary results,Primary,Winning,True,Conrad Burns,Republican Party (United States),"102,125",100.00
-2000,Montana,Republican Party primary results,Primary,Total,False,,,"102,125",100.00
 2000,Montana,Reform Party primary results,Primary,Winning,False,Sam Rankin,Reform Party (United States),"1,110",100.00
 2000,Montana,Reform Party primary results,Primary,Total,False,,,"1,110",100.00
 2000,Nebraska,Democratic primary results,Primary,Winning,False,Ben Nelson,Democratic Party (United States),"105,661",92.12%
@@ -104,11 +104,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2000,Pennsylvania,2000 Democratic U.S. Senate primary,Primary,Candidate,False,Murray Levin,Democratic Party (US),"18,903",2.57
 2000,Pennsylvania,2000 Democratic U.S. Senate primary,Primary,Candidate,False,Phil Berg,Democratic Party (US),"9,636",1.31
 2000,Pennsylvania,2000 Democratic U.S. Senate primary,Primary,Total,False,,,"734,575",100.00
+2000,Rhode Island,Republican Party primary results,Primary,Winning,True,Lincoln Chafee,Republican Party (United States),"2,221",100.00
+2000,Rhode Island,Republican Party primary results,Primary,Total,False,,,"2,221",100.00
 2000,Rhode Island,Democratic primary results,Primary,Winning,False,Robert Weygand,Democratic Party (United States),"51,769",57.49
 2000,Rhode Island,Democratic primary results,Primary,Candidate,False,Richard A. Licht,Democratic Party (United States),"38,281",42.51
 2000,Rhode Island,Democratic primary results,Primary,Total,False,,,"90,050",100.00
-2000,Rhode Island,Republican Party primary results,Primary,Winning,True,Lincoln Chafee,Republican Party (United States),"2,221",100.00
-2000,Rhode Island,Republican Party primary results,Primary,Total,False,,,"2,221",100.00
 2000,Tennessee,Republican primary results,Primary,Winning,True,Bill Frist,Republican Party (US),"186,882",100.00%
 2000,Tennessee,Republican primary results,Primary,Total,False,,,"186,882",100.00%
 2000,Tennessee,Democratic primary results,Primary,Winning,False,Jeff Clark,Democratic Party (United States),"64,851",34.23%
@@ -126,14 +126,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2000,Texas,Democratic primary results,Primary,Candidate,False,Bobby Wightman,Texas Democratic Party,"83,643",13.53%
 2000,Texas,Democratic primary results,Primary,Candidate,False,H. Gerald Bintliff,Texas Democratic Party,"33,979",5.50%
 2000,Texas,Democratic primary results,Primary,Total,False,,,"618,032",100.00%
-2000,Vermont,Democratic Primary results,Primary,Winning,False,Ed Flanagan,Democratic Party (United States),"17,440",49.24
-2000,Vermont,Democratic Primary results,Primary,Candidate,False,Jan Backus,Democratic Party (United States),"16,444",46.43
-2000,Vermont,Democratic Primary results,Primary,Candidate,False,Write-ins,Democratic Party (United States),"1,533",4.33
-2000,Vermont,Democratic Primary results,Primary,Total,False,,,"35,417",100.00
 2000,Vermont,Republican primary results,Primary,Winning,True,Jim Jeffords,Republican Party (United States),"60,234",77.79
 2000,Vermont,Republican primary results,Primary,Candidate,False,Rick Hubbard,Republican Party (United States),"15,991",20.65
 2000,Vermont,Republican primary results,Primary,Candidate,False,Write-ins,Republican Party (United States),"1,204",1.55
 2000,Vermont,Republican primary results,Primary,Total,False,,,"77,429",100.00
+2000,Vermont,Democratic Primary results,Primary,Winning,False,Ed Flanagan,Democratic Party (United States),"17,440",49.24
+2000,Vermont,Democratic Primary results,Primary,Candidate,False,Jan Backus,Democratic Party (United States),"16,444",46.43
+2000,Vermont,Democratic Primary results,Primary,Candidate,False,Write-ins,Democratic Party (United States),"1,533",4.33
+2000,Vermont,Democratic Primary results,Primary,Total,False,,,"35,417",100.00
 2000,Washington,Blanket primary results,Primary,Winning,True,Slade Gorton,Republican Party (United States),"560,787",43.57%
 2000,Washington,Blanket primary results,Primary,Winning,False,Maria Cantwell,Democratic Party (United States),"472,609",36.71%
 2000,Washington,Blanket primary results,Primary,Winning,False,Jeff Jared,Libertarian Party (United States),"16,247",1.26%

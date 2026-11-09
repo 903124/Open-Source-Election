@@ -58,7 +58,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Iowa,IA,governor,"Iowa gubernatorial election, 1998",Candidate,Jim Schaefer,Law,3144,0.33,False,False
 1998,Iowa,IA,governor,"Iowa gubernatorial election, 1998",Candidate,Mark Kennis,Independent,2006,0.21,False,False
 1998,Iowa,IA,governor,"Iowa gubernatorial election, 1998",Write-in,,,641,0.07,False,False
-1998,Kansas,KS,governor,"Kansas gubernatorial election, 1998",Winning,Bill Graves (inc.),Republican,544882,73.37,True,False
+1998,Kansas,KS,governor,"Kansas gubernatorial election, 1998",Winning,Bill Graves,Republican,544882,73.37,True,True
 1998,Kansas,KS,governor,"Kansas gubernatorial election, 1998",Candidate,Tom Sawyer,Democratic,168243,22.65,False,False
 1998,Kansas,KS,governor,"Kansas gubernatorial election, 1998",Candidate,Kirt Poovey,Constitution,21710,2.92,False,False
 1998,Kansas,KS,governor,"Kansas gubernatorial election, 1998",Candidate,Darrel King,Reform,7830,1.05,False,False
@@ -104,6 +104,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Nevada,NV,governor,"Nevada gubernatorial election, 1998",Candidate,Chuck Horne,American,7509,1.73,False,False
 1998,Nevada,NV,governor,"Nevada gubernatorial election, 1998",Candidate,Terry C. Savage,Libertarian,7307,1.69,False,False
 1998,Nevada,NV,governor,"Nevada gubernatorial election, 1998",Total,,,433630,100.0,False,False
+1998,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 1998",Winning,Jeanne Shaheen (inc.),Democratic,210769,66.08,True,False
+1998,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 1998",Candidate,Jay Lucas,Republican,98473,30.88,False,False
+1998,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 1998",Candidate,Ken Blevens,Libertarian,8655,2.71,False,False
+1998,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 1998",Write-in,Write-ins,Write-ins,1043,0.33,False,False
 1998,New Mexico,NM,governor,1998 New Mexico gubernatorial election,Winning,Gary Johnson,Republican,271948,54.53,True,True
 1998,New Mexico,NM,governor,1998 New Mexico gubernatorial election,Candidate,Martin Chávez,Democratic,226755,45.47,False,False
 1998,New Mexico,NM,governor,1998 New Mexico gubernatorial election,Total,,,498703,100.0,False,False
@@ -147,11 +151,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1998,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 1998",Candidate,Robert J. Healey,Cool Moose,19250,6.28,False,False
 1998,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 1998",Candidate,Joseph F. Devine,Reform,1848,0.6,False,False
 1998,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 1998",Write-in,Write-ins,Write-ins,62,0.02,False,False
-1998,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1998",Winning,Jim Hodges,Democratic,570070,53.23,True,False
-1998,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1998",Candidate,David Beasley,Republican,484088,45.21,False,True
-1998,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1998",Candidate,Timothy Moultrie,Libertarian,14894,1.4,False,False
-1998,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1998",Candidate,Write-Ins,No,1553,0.2,False,False
-1998,South Carolina,SC,governor,"South Carolina Gubernatorial Election, 1998",Candidate,Bobby Eubanks,No,264,0.0,False,False
+1998,South Carolina,SC,governor,1998 South Carolina gubernatorial election,Winning,Jim Hodges,Democratic,570070,53.23,True,False
+1998,South Carolina,SC,governor,1998 South Carolina gubernatorial election,Candidate,David Beasley,Republican,484088,45.21,False,True
+1998,South Carolina,SC,governor,1998 South Carolina gubernatorial election,Candidate,Timothy Moultrie,Libertarian,14894,1.4,False,False
+1998,South Carolina,SC,governor,1998 South Carolina gubernatorial election,Candidate,Bobby Eubanks (write-in),Independent,264,0.0,False,False
+1998,South Carolina,SC,governor,1998 South Carolina gubernatorial election,Write-in,,,1553,0.2,False,False
+1998,South Carolina,SC,governor,1998 South Carolina gubernatorial election,Total,,,1070869,100.0,False,False
 1998,South Dakota,SD,governor,"South Dakota gubernatorial election, 1998",Winning,Bill Janklow,Republican,166621,64.04,True,True
 1998,South Dakota,SD,governor,"South Dakota gubernatorial election, 1998",Candidate,Bernie Hunhoff,Democratic,85473,32.85,False,False
 1998,South Dakota,SD,governor,"South Dakota gubernatorial election, 1998",Candidate,Bob Newland,Libertarian,4389,1.69,False,False

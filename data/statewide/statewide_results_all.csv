@@ -3388,7 +3388,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Idaho,ID,state treasurer,Kevin Jones,Democratic,,False,False
 2026,Illinois,IL,state treasurer,Mike Frerichs,Democratic,,True,True
 2026,Illinois,IL,state treasurer,Max Solomon,Republican,,False,False
-2026,Indiana,IN,state treasurer,Daniel Elliott,Republican,,False,True
+2026,Indiana,IN,state treasurer,Daniel Elliott,Republican,,True,True
 2026,Indiana,IN,state treasurer,Coumba Kebe,Democratic,,False,False
 2026,Iowa,IA,state treasurer,Roby Smith,Republican,,True,True
 2026,Iowa,IA,state treasurer,John Norwood,Democratic,,False,False

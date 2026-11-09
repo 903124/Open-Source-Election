@@ -9,10 +9,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1980,Alaska,"United States Senate election in Alaska, 1980",General,Candidate,False,Democratic Party (United States),Clark Gruening,"72,007",45.93%
 1980,Alaska,"United States Senate election in Alaska, 1980",General,Write-in,False,,,596,0.38%
 1980,Alaska,"United States Senate election in Alaska, 1980",General,Total,False,,,"156,762",100.00%
-1980,Arizona,"United States Senate election in Arizona, 1980",General,Winning,True,Republican Party (United States),Barry Goldwater,"432,371",49.46%
-1980,Arizona,"United States Senate election in Arizona, 1980",General,Candidate,False,Democratic Party (United States),Bill Schulz,"422,972",48.38%
-1980,Arizona,"United States Senate election in Arizona, 1980",General,Candidate,False,Libertarian Party (United States),Fred R. Esser,"12,008",1.37%
-1980,Arizona,"United States Senate election in Arizona, 1980",General,Candidate,False,Socialist Workers Party (United States),Josefina Otero,"3,266",0.37%
+1980,Arizona,1980 United States Senate election in Arizona,General,Winning,True,Republican Party (United States),Barry Goldwater,"432,371",49.46%
+1980,Arizona,1980 United States Senate election in Arizona,General,Candidate,False,Democratic Party (United States),Bill Schulz,"422,972",48.38%
+1980,Arizona,1980 United States Senate election in Arizona,General,Candidate,False,Libertarian Party (United States),Fred R. Esser,"12,008",1.37%
+1980,Arizona,1980 United States Senate election in Arizona,General,Candidate,False,Socialist Workers Party (United States),Josefina Otero,"3,266",0.37%
 1980,Arkansas,Arkansas Senate election 1980,General,Winning,True,Democratic Party (United States),Dale Bumpers,"477,905",59.09%
 1980,Arkansas,Arkansas Senate election 1980,General,Candidate,False,Republican Party (United States),Bill Clark,"360,576",40.87%
 1980,Arkansas,Arkansas Senate election 1980,General,Candidate,False,Independent (politician),Walter McCarty,331,0.04%

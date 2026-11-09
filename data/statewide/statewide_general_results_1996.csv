@@ -35,9 +35,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 1996,Vermont,VT,governor,1996 Vermont gubernatorial election,Candidate,Neil Randall,Libertarian,2916,1.15,False,False
 1996,Vermont,VT,governor,1996 Vermont gubernatorial election,Write-in,,,661,0.26,False,False
 1996,Vermont,VT,governor,1996 Vermont gubernatorial election,Total,,,254648,100.0,False,False
-1996,Washington,WA,governor,1996 gubernatorial election,Winning,Gary Locke,Democratic,1296492,57.96,True,False
-1996,Washington,WA,governor,1996 gubernatorial election,Candidate,Ellen Craswell,Republican,940538,42.04,False,False
-1996,Washington,WA,governor,1996 gubernatorial election,Total,,,2237030,100.0,False,False
+1996,Washington,WA,governor,1996 Washington gubernatorial election,Winning,Gary Locke,Democratic,1296492,57.96,True,False
+1996,Washington,WA,governor,1996 Washington gubernatorial election,Candidate,Ellen Craswell,Republican,940538,42.04,False,False
+1996,Washington,WA,governor,1996 Washington gubernatorial election,Total,,,2237030,100.0,False,False
 1996,West Virginia,WV,governor,"West Virginia gubernatorial election, 1996",Winning,Cecil Underwood,Republican,324518,51.63,True,False
 1996,West Virginia,WV,governor,"West Virginia gubernatorial election, 1996",Candidate,Charlotte Pritt,Democratic,287870,45.8,False,False
 1996,West Virginia,WV,governor,"West Virginia gubernatorial election, 1996",Candidate,Wallace Johnson,Libertarian,16171,2.57,False,False

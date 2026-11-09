@@ -1,10 +1,19 @@
 year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2000,Delaware,DE,governor,Democratic primary results,Winning,Ruth Ann Minner,Democratic,38779,100.0,True,False
+2000,Delaware,DE,governor,Republican primary results,Winning,John M. Burris,Republican,13893,50.08,True,False
+2000,Delaware,DE,governor,Republican primary results,Candidate,Bill Lee,Republican,13847,49.92,False,False
+2000,Delaware,DE,governor,Republican primary results,Total,,,27740,100.0,False,False
+2000,Indiana,IN,governor,Democratic primary results,Winning,Frank O'Bannon,Democratic,272213,100.0,True,True
+2000,Indiana,IN,governor,Democratic primary results,Total,,,272213,100.0,False,False
+2000,Indiana,IN,governor,Republican primary results,Winning,David M. McIntosh,Republican,279920,70.96,True,False
+2000,Indiana,IN,governor,Republican primary results,Candidate,John Price,Republican,114580,29.04,False,False
+2000,Indiana,IN,governor,Republican primary results,Total,,,394500,100.0,False,False
+2000,Missouri,MO,governor,Democratic primary results,Winning,Bob Holden,Democratic,362457,100.0,True,False
+2000,Missouri,MO,governor,Democratic primary results,Total,,,362457,100.0,False,False
 2000,Missouri,MO,governor,Republican primary results,Winning,Jim Talent,Republican,296159,84.49,True,False
 2000,Missouri,MO,governor,Republican primary results,Candidate,Jen Sievers,Republican,33674,9.61,False,False
 2000,Missouri,MO,governor,Republican primary results,Candidate,Elgar Macy,Republican,20681,5.9,False,False
 2000,Missouri,MO,governor,Republican primary results,Total,,,350514,100.0,False,False
-2000,Missouri,MO,governor,Democratic primary results,Winning,Bob Holden,Democratic,362457,100.0,True,False
-2000,Missouri,MO,governor,Democratic primary results,Total,,,362457,100.0,False,False
 2000,Missouri,MO,governor,Libertarian primary results,Winning,John M. Swenson,Libertarian,1032,60.35,True,False
 2000,Missouri,MO,governor,Libertarian primary results,Candidate,Dick Illyes,Libertarian,678,39.65,False,False
 2000,Missouri,MO,governor,Libertarian primary results,Total,,,1710,100.0,False,False
@@ -14,14 +23,14 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2000,Missouri,MO,governor,Reform primary results,Candidate,Joseph C. Keller,Reform,231,31.17,False,False
 2000,Missouri,MO,governor,Reform primary results,Candidate,Kent A. Benson,Reform,193,26.05,False,False
 2000,Missouri,MO,governor,Reform primary results,Total,,,741,100.0,False,False
+2000,Montana,MT,governor,Republican Primary results,Winning,Judy Martz,Republican,64278,56.88,True,False
+2000,Montana,MT,governor,Republican Primary results,Candidate,Rob Natelson,Republican,48738,43.12,False,False
+2000,Montana,MT,governor,Republican Primary results,Total,,,113016,100.0,False,False
 2000,Montana,MT,governor,Democratic Party primary results,Winning,Mark O'Keefe,Democratic,46294,48.04,True,False
 2000,Montana,MT,governor,Democratic Party primary results,Candidate,Joseph Mazurek,Democratic,34385,35.69,False,False
 2000,Montana,MT,governor,Democratic Party primary results,Candidate,Mike Cooney,Democratic,15677,16.27,False,False
 2000,Montana,MT,governor,Democratic Party primary results,Total,,,96356,100.0,False,False
-2000,Montana,MT,governor,Republican Primary results,Winning,Judy Martz,Republican,64278,56.88,True,False
-2000,Montana,MT,governor,Republican Primary results,Candidate,Rob Natelson,Republican,48738,43.12,False,False
-2000,Montana,MT,governor,Republican Primary results,Total,,,113016,100.0,False,False
-2000,New Hampshire,NH,governor,Democratic primary results,Winning,Jeanne Shaheen (inc.),Democratic,45249,60.41,True,False
+2000,New Hampshire,NH,governor,Democratic primary results,Winning,Jeanne Shaheen,Democratic,45249,60.41,True,True
 2000,New Hampshire,NH,governor,Democratic primary results,Candidate,Mark Fernald,Democratic,28488,38.03,False,False
 2000,New Hampshire,NH,governor,Democratic primary results,Candidate,Write-ins,Democratic,1164,1.55,False,False
 2000,New Hampshire,NH,governor,Democratic primary results,Total,,,74901,100.0,False,False
@@ -59,11 +68,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2000,Washington,WA,governor,Blanket primary results,Candidate,Harold Hochstatter,Republican,93467,7.23,False,False
 2000,Washington,WA,governor,Blanket primary results,Candidate,Meta Heller,Democratic,28578,2.21,False,False
 2000,Washington,WA,governor,Blanket primary results,Total,,,1292302,100.0,False,False
-2000,West Virginia,WV,governor,Democratic primary results,Winning,Bob Wise,Democratic,174292,63.13,True,False
-2000,West Virginia,WV,governor,Democratic primary results,Candidate,Jim Lees,Democratic,101774,36.87,False,False
-2000,West Virginia,WV,governor,Democratic primary results,Total,,,276066,100.0,False,False
 2000,West Virginia,WV,governor,Republican primary results,Winning,Cecil Underwood,Republican,87190,80.88,True,True
 2000,West Virginia,WV,governor,Republican primary results,Candidate,Joseph Oliverio,Republican,11590,10.75,False,False
 2000,West Virginia,WV,governor,Republican primary results,Candidate,Donna H. McCase,Republican,5902,4.48,False,False
 2000,West Virginia,WV,governor,Republican primary results,Candidate,Larry Eugene Butcher,Republican,3117,2.89,False,False
 2000,West Virginia,WV,governor,Republican primary results,Total,,,107799,100.0,False,False
+2000,West Virginia,WV,governor,Democratic primary results,Winning,Bob Wise,Democratic,174292,63.13,True,False
+2000,West Virginia,WV,governor,Democratic primary results,Candidate,Jim Lees,Democratic,101774,36.87,False,False
+2000,West Virginia,WV,governor,Democratic primary results,Total,,,276066,100.0,False,False

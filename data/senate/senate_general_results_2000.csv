@@ -3,14 +3,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2000,Arizona,General election results,General,Candidate,False,Independent,William Toel,"109,230",7.82%
 2000,Arizona,General election results,General,Candidate,False,Green Party (United States),Vance Hansen,"108,926",7.80%
 2000,Arizona,General election results,General,Candidate,False,Arizona Libertarian Party,Barry Hess,"70,724",5.06%
-2000,California,"2000 U.S. Senate election, California",General,Winning,True,Democratic Party (United States),Dianne Feinstein,"5,932,522",55.84%
-2000,California,"2000 U.S. Senate election, California",General,Candidate,False,Republican Party (United States),Tom Campbell,"3,886,853",36.59%
-2000,California,"2000 U.S. Senate election, California",General,Candidate,False,Green Party (United States),Medea Susan Benjamin,"326,828",3.08%
-2000,California,"2000 U.S. Senate election, California",General,Candidate,False,Libertarian Party (United States),Gail Lightfoot,"187,718",1.77%
-2000,California,"2000 U.S. Senate election, California",General,Candidate,False,American Independent Party,Diane Beall Templin,"134,598",1.27%
-2000,California,"2000 U.S. Senate election, California",General,Candidate,False,Reform Party (United States),Jose Luis Olivares Camahort,"96,552",0.91%
-2000,California,"2000 U.S. Senate election, California",General,Candidate,False,Natural Law Party (United States),Brian M. Rees,"58,537",0.55%
-2000,California,"2000 U.S. Senate election, California",General,Total,False,,,"11,142,841",100.00%
+2000,California,2000 U.S. Senate election in California,General,Winning,True,Democratic Party (United States),Dianne Feinstein,"5,932,522",55.84%
+2000,California,2000 U.S. Senate election in California,General,Candidate,False,Republican Party (United States),Tom Campbell,"3,886,853",36.59%
+2000,California,2000 U.S. Senate election in California,General,Candidate,False,Green Party (United States),Medea Susan Benjamin,"326,828",3.08%
+2000,California,2000 U.S. Senate election in California,General,Candidate,False,Libertarian Party (United States),Gail Lightfoot,"187,718",1.77%
+2000,California,2000 U.S. Senate election in California,General,Candidate,False,American Independent Party,Diane Beall Templin,"134,598",1.27%
+2000,California,2000 U.S. Senate election in California,General,Candidate,False,Reform Party (United States),Jose Luis Olivares Camahort,"96,552",0.91%
+2000,California,2000 U.S. Senate election in California,General,Candidate,False,Natural Law Party (United States),Brian M. Rees,"58,537",0.55%
+2000,California,2000 U.S. Senate election in California,General,Total,False,,,"11,142,841",100.00%
 2000,Connecticut,General election results,General,Winning,True,Democratic Party (United States),Joe Lieberman,"828,902",63.21%
 2000,Connecticut,General election results,General,Candidate,False,Republican Party (United States),Philip Giordano,"448,077",34.17%
 2000,Connecticut,General election results,General,Candidate,False,Concerned Citizens Party,William Kozak,"25,509",1.95%
@@ -182,7 +182,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2000,Wisconsin,General election results,General,Candidate,False,Libertarian Party (United States),Tim Peterson,"21,348",0.84%
 2000,Wisconsin,General election results,General,Candidate,False,Independent (United States),Eugene A. Hem,"9,555",0.38%
 2000,Wisconsin,General election results,General,Candidate,False,Constitution Party (United States),Robert R. Raymond,"4,296",0.17%
-2000,Wisconsin,General election results,General,Candidate,False,Independent (United States),Write Ins,902,0.04%
+2000,Wisconsin,General election results,General,Candidate,False,Independent (United States),Write-ins,902,0.04%
 2000,Wisconsin,General election results,General,Total,False,,,"2,540,083",100%
 2000,Wyoming,General election results,General,Winning,True,Republican Party (United States),Craig Thomas,"157,622",73.77%
 2000,Wyoming,General election results,General,Candidate,False,Democratic Party (United States),Mel Logan,"47,087",22.04%
