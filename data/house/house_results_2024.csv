@@ -334,9 +334,9 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2024,house,Illinois,IL,16,311108,Darin LaHood,Republican,310925,100.0,True,False,False
 2024,house,Illinois,IL,17,312828,Eric Sorensen,Democratic,170261,54.4,True,False,False
 2024,house,Illinois,IL,17,312828,Joe McGraw,Republican,,45.6,False,False,False
-2024,house,Indiana,IN,1,322723,Frank J. Mrvan,Democratic,172467,53.4,True,False,False
-2024,house,Indiana,IN,1,322723,Randy Niemeyer,Republican,145056,44.9,False,False,False
-2024,house,Indiana,IN,1,322723,Dakotah Miskus,Libertarian,5200,1.6,False,False,False
+2024,house,Indiana,IN,1,322723,Frank J. Mrvan,Democratic,158967,53.4,True,False,False
+2024,house,Indiana,IN,1,322723,Randy Niemeyer,Republican,,44.9,False,False,False
+2024,house,Indiana,IN,1,322723,Dakotah Miskus,Libertarian,3700,1.6,False,False,False
 2024,house,Indiana,IN,2,294618,Rudy Yakym,Republican,184848,62.7,True,False,False
 2024,house,Indiana,IN,2,294618,Lori Camp,Democratic,101962,34.6,False,False,False
 2024,house,Indiana,IN,2,294618,William Henry,Libertarian,7795,2.6,False,False,False

@@ -719,16 +719,16 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,South Dakota,SD,governor,Republican primary runoff results,Winning,Larry Rhoden,Republican,83582,70.8,True,True
 2026,South Dakota,SD,governor,Republican primary runoff results,Candidate,Toby Doeden,Republican,34430,29.2,False,False
 2026,South Dakota,SD,governor,Republican primary runoff results,Total,,,118012,100.0,False,False
-2026,Tennessee,TN,governor,Republican primary results,Winning,Marsha Blackburn,Republican,311392,43.6,True,False
-2026,Tennessee,TN,governor,Republican primary results,Candidate,John Rose,Republican,235561,32.9,False,False
+2026,Tennessee,TN,governor,Republican primary results,Winning,Marsha Blackburn,Republican,311392,43.55,True,False
+2026,Tennessee,TN,governor,Republican primary results,Candidate,John Rose,Republican,235561,32.95,False,False
 2026,Tennessee,TN,governor,Republican primary results,Candidate,Monty Fritts,Republican,168004,23.5,False,False
 2026,Tennessee,TN,governor,Republican primary results,Write-in,,,1,0.0,False,False
 2026,Tennessee,TN,governor,Republican primary results,Total,,,714958,100.0,False,False
-2026,Tennessee,TN,governor,Democratic primary results,Winning,Jerri Green,Democratic,244277,69.0,True,False
-2026,Tennessee,TN,governor,Democratic primary results,Candidate,Carnita Atwater,Democratic,63289,17.9,False,False
-2026,Tennessee,TN,governor,Democratic primary results,Candidate,Kevin Lee McCants,Democratic,18972,5.4,False,False
-2026,Tennessee,TN,governor,Democratic primary results,Candidate,Tim Cyr,Democratic,14799,4.2,False,False
-2026,Tennessee,TN,governor,Democratic primary results,Candidate,Adam Kurtz,Democratic,12465,3.5,False,False
+2026,Tennessee,TN,governor,Democratic primary results,Winning,Jerri Green,Democratic,244277,69.04,True,False
+2026,Tennessee,TN,governor,Democratic primary results,Candidate,Carnita Atwater,Democratic,63289,17.89,False,False
+2026,Tennessee,TN,governor,Democratic primary results,Candidate,Kevin Lee McCants,Democratic,18972,5.36,False,False
+2026,Tennessee,TN,governor,Democratic primary results,Candidate,Tim Cyr,Democratic,14799,4.18,False,False
+2026,Tennessee,TN,governor,Democratic primary results,Candidate,Adam Kurtz,Democratic,12465,3.52,False,False
 2026,Tennessee,TN,governor,Democratic primary results,Total,,,353802,100.0,False,False
 2026,Texas,TX,attorney general,Republican primary,Winning,Mayes Middleton,Republican,811171,39.1,True,False
 2026,Texas,TX,attorney general,Republican primary,Winning,Chip Roy,Republican,655064,31.6,True,False

@@ -115,12 +115,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2018,Iowa,IA,governor,"Iowa gubernatorial election, 2018",Candidate,Gary Siegwarth,Independent,7463,0.56,False,False
 2018,Iowa,IA,governor,"Iowa gubernatorial election, 2018",Write-in,,,488,0.04,False,False
 2018,Iowa,IA,governor,"Iowa gubernatorial election, 2018",Total,,,1327638,100.0,False,False
-2018,Kansas,KS,governor,"Kansas gubernatorial election, 2018",Winning,Laura Kelly,Democratic,506727,48.01,True,False
-2018,Kansas,KS,governor,"Kansas gubernatorial election, 2018",Candidate,Kris Kobach,Republican,453645,42.98,False,False
-2018,Kansas,KS,governor,"Kansas gubernatorial election, 2018",Candidate,Greg Orman,Independent,68590,6.5,False,False
-2018,Kansas,KS,governor,"Kansas gubernatorial election, 2018",Candidate,Jeff Caldwell,Libertarian,20020,1.9,False,False
-2018,Kansas,KS,governor,"Kansas gubernatorial election, 2018",Candidate,Rick Kloos,Independent,6584,0.62,False,False
-2018,Kansas,KS,governor,"Kansas gubernatorial election, 2018",Total,,,1055566,100.0,False,False
+2018,Kansas,KS,governor,"Kansas gubernatorial election, 2018",Winning,Laura Kelly,Democratic,506509,48.03,True,False
+2018,Kansas,KS,governor,"Kansas gubernatorial election, 2018",Candidate,Kris Kobach,Republican,453030,42.96,False,False
+2018,Kansas,KS,governor,"Kansas gubernatorial election, 2018",Candidate,Greg Orman,Independent,68498,6.5,False,False
+2018,Kansas,KS,governor,"Kansas gubernatorial election, 2018",Candidate,Jeff Caldwell,Libertarian,20009,1.9,False,False
+2018,Kansas,KS,governor,"Kansas gubernatorial election, 2018",Candidate,Rick Kloos,Independent,6576,0.62,False,False
+2018,Kansas,KS,governor,"Kansas gubernatorial election, 2018",Total,,,1054622,100.0,False,False
 2018,Maine,ME,governor,"Maine gubernatorial election, 2018",Winning,Janet Mills,Democratic,320962,50.89,True,False
 2018,Maine,ME,governor,"Maine gubernatorial election, 2018",Candidate,Shawn Moody,Republican,272311,43.18,False,False
 2018,Maine,ME,governor,"Maine gubernatorial election, 2018",Candidate,Terry Hayes,Independent,37268,5.91,False,False

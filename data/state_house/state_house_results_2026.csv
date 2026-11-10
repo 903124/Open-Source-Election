@@ -1122,8 +1122,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Michigan,MI,State House,42,general,Nick Rowe,Democratic,22406,48.39,False,False
 2026,Michigan,MI,State House,43,general,Rachelle Smit,Republican,31255,68.74,True,True
 2026,Michigan,MI,State House,43,general,Alan Swank,Democratic,14216,31.26,False,False
-2026,Michigan,MI,State House,44,general,Steve Frisbie,Republican,15634,46.57,False,True
 2026,Michigan,MI,State House,44,general,Jim Haadsma,Democratic,17935,53.43,True,False
+2026,Michigan,MI,State House,44,general,Steve Frisbie,Republican,15634,46.57,False,True
 2026,Michigan,MI,State House,45,general,Sarah Lightner,Republican,27588,65.73,True,True
 2026,Michigan,MI,State House,45,general,Randy Davis,Democratic,14382,34.27,False,False
 2026,Michigan,MI,State House,46,general,Jan Maino,Democratic,18641,54.11,True,False
@@ -1787,20 +1787,21 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Ohio,OH,State House,91,general,Amy Wright,Democratic,,,False,False
 2026,Ohio,OH,State House,92,general,Mark Johnson,Republican,,,True,True
 2026,Ohio,OH,State House,92,general,Sarah Seniff,Democratic,,,False,False
-2026,Ohio,OH,State House,93,general,Jason Stephens,Republican,,,True,True
-2026,Ohio,OH,State House,93,general,Jessica Harper,Democratic,,,False,False
-2026,Ohio,OH,State House,94,general,Kevin Ritter,Republican,,,True,True
-2026,Ohio,OH,State House,94,general,Wenda Sheard,Democratic,,,False,False
-2026,Ohio,OH,State House,95,general,Ty Moore,Republican,,,True,True
-2026,Ohio,OH,State House,95,general,Paul Cameron,Democratic,,,False,False
-2026,Ohio,OH,State House,96,general,Ron Ferguson,Republican,,,True,True
-2026,Ohio,OH,State House,96,general,Charrie Foglio,Democratic,,,False,False
-2026,Ohio,OH,State House,97,general,Adam Holmes,Republican,,,True,True
-2026,Ohio,OH,State House,97,general,Tim Godwin,Libertarian,,,False,False
-2026,Ohio,OH,State House,98,general,Mark Hiner,Republican,,,True,True
-2026,Ohio,OH,State House,98,general,Scott Grund,Democratic,,,False,False
-2026,Ohio,OH,State House,99,general,Sarah Fowler Arthur,Republican,,,True,True
-2026,Ohio,OH,State House,99,general,Louis Murphy,Democratic,,,False,False
+2026,Ohio,OH,State House,93,general,Jason Stephens,Republican,25332.0,70.07,True,True
+2026,Ohio,OH,State House,93,general,Jessica Harper,Democratic,10822.0,29.93,False,False
+2026,Ohio,OH,State House,94,general,Kevin Ritter,Republican,25078.0,60.87,True,True
+2026,Ohio,OH,State House,94,general,Wenda Sheard,Democratic,16119.0,39.13,False,False
+2026,Ohio,OH,State House,95,general,Ty Moore,Republican,22414.0,60.27,True,True
+2026,Ohio,OH,State House,95,general,Paul Cameron,Democratic,14778.0,39.73,False,False
+2026,Ohio,OH,State House,96,general,Ron Ferguson,Republican,24985.0,65.81,True,True
+2026,Ohio,OH,State House,96,general,Charrie Foglio,Democratic,12981.0,34.19,False,False
+2026,Ohio,OH,State House,97,general,Adam Holmes,Republican,24818.0,69.19,True,True
+2026,Ohio,OH,State House,97,general,Tim Godwin,Libertarian,4514.0,12.58,False,False
+2026,Ohio,OH,State House,97,general,Kris Geis (Write-in),Write-in,6538.0,18.23,False,False
+2026,Ohio,OH,State House,98,general,Mark Hiner,Republican,25155.0,70.98,True,True
+2026,Ohio,OH,State House,98,general,Scott Grund,Democratic,10283.0,29.02,False,False
+2026,Ohio,OH,State House,99,general,Sarah Fowler Arthur,Republican,28521.0,58.51,True,True
+2026,Ohio,OH,State House,99,general,Louis Murphy,Democratic,20227.0,41.49,False,False
 2026,Oklahoma,OK,State House,35,general,Dillon Travis,Republican,,,False,False
 2026,Oklahoma,OK,State House,35,general,Luke Kruse (Democrat) Eliminated in the runoff,Democratic,,,False,False
 2026,Oklahoma,OK,State House,35,general,Mike Waters (Republican) Eliminated in the primary,Republican,,,False,False
@@ -2265,7 +2266,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Texas,TX,State House,35,general,Oscar Rosa,Republican,,,False,False
 2026,Texas,TX,State House,36,general,Sergio Muñoz,Democratic,,,True,True
 2026,Texas,TX,State House,37,general,Janie Lopez,Republican,,,True,True
-2026,Texas,TX,State House,37,general,"Oziel ""Ozzie"" Ochoa, Jr.",Democratic,,,False,False
+2026,Texas,TX,State House,37,general,Oziel Ochoa,Democratic,,,False,False
 2026,Texas,TX,State House,38,general,Erin Gamez,Democratic,,,True,True
 2026,Texas,TX,State House,38,general,Laura E. Cisneros,Republican,,,False,False
 2026,Texas,TX,State House,39,general,Armando Martinez,Democratic,,,True,True

@@ -1,3 +1,3 @@
-Year,State,State_Code,Office,Primary_Type,Poll_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
-1999,Mississippi,MS,governor,General,General,Mason-Dixon Polling & Strategy,1999-10-19,1999-10-19,1999-10-19,605,,Mike Parker,Unknown,47%,False,"October 19, 1999"
-1999,Mississippi,MS,governor,General,General,Mason-Dixon Polling & Strategy,1999-10-19,1999-10-19,1999-10-19,605,,Ronnie Musgrove,Unknown,42%,False,"October 19, 1999"
+Year,State,State_Code,Office,Primary_Type,Poll_Type,Matchup,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+1999,Mississippi,MS,governor,General,General,,Mason-Dixon Polling & Strategy,1999-10-19,1999-10-19,1999-10-19,605,,Mike Parker,Unknown,47%,False,"October 19, 1999"
+1999,Mississippi,MS,governor,General,General,,Mason-Dixon Polling & Strategy,1999-10-19,1999-10-19,1999-10-19,605,,Ronnie Musgrove,Unknown,42%,False,"October 19, 1999"

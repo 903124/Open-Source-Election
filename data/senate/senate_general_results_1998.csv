@@ -73,8 +73,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1998,Louisiana,"Louisiana United States Senate election, 1998",General,Winning,True,Democratic Party (United States),John Breaux,"620,502",64.02%
 1998,Louisiana,"Louisiana United States Senate election, 1998",General,Candidate,False,Republican Party (United States),Jim Donelon,"306,616",31.64%
 1998,Louisiana,"Louisiana United States Senate election, 1998",General,Candidate,False,Independent (United States),Raymond Brown,"12,203",1.26%
-1998,Louisiana,"Louisiana United States Senate election, 1998",General,Candidate,False,Independent (United States),Sam Houston Melton,"9,893",1.02%
-1998,Louisiana,"Louisiana United States Senate election, 1998",General,Candidate,False,Independent (United States),Darryl Paul Ward,"7,964",0.82%
+1998,Louisiana,"Louisiana United States Senate election, 1998",General,Candidate,False,Democratic Party (United States),Sam Houston Melton,"9,893",1.02%
+1998,Louisiana,"Louisiana United States Senate election, 1998",General,Candidate,False,Republican Party (United States),Darryl Paul Ward,"7,964",0.82%
 1998,Louisiana,"Louisiana United States Senate election, 1998",General,Candidate,False,Independent (United States),L. D. Knox,"6,366",0.66%
 1998,Louisiana,"Louisiana United States Senate election, 1998",General,Candidate,False,Independent (United States),Jeffrey H. Diket,"3,227",0.33%
 1998,Louisiana,"Louisiana United States Senate election, 1998",General,Candidate,False,Independent (United States),Martin A. Rosenthal,"2,398",0.25%

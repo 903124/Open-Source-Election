@@ -60658,9 +60658,9 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2024,house,Illinois,IL,8,303073,Raja Krishnamoorthi,Democratic,172920,57.1,True,False,False
 2024,house,Illinois,IL,9,338828,Jan Schakowsky,Democratic,,68.4,True,False,False
 2024,house,Illinois,IL,9,338828,Seth Cohen,Republican,107106,31.6,False,False,False
-2024,house,Indiana,IN,1,322723,Dakotah Miskus,Libertarian,5200,1.6,False,False,False
-2024,house,Indiana,IN,1,322723,Frank J. Mrvan,Democratic,172467,53.4,True,False,False
-2024,house,Indiana,IN,1,322723,Randy Niemeyer,Republican,145056,44.9,False,False,False
+2024,house,Indiana,IN,1,322723,Dakotah Miskus,Libertarian,3700,1.6,False,False,False
+2024,house,Indiana,IN,1,322723,Frank J. Mrvan,Democratic,158967,53.4,True,False,False
+2024,house,Indiana,IN,1,322723,Randy Niemeyer,Republican,,44.9,False,False,False
 2024,house,Indiana,IN,2,294618,Lori Camp,Democratic,101962,34.6,False,False,False
 2024,house,Indiana,IN,2,294618,Rudy Yakym,Republican,184848,62.7,True,False,False
 2024,house,Indiana,IN,2,294618,William Henry,Libertarian,7795,2.6,False,False,False
@@ -61441,10 +61441,11 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Alabama,AL,7,251908,Terri Sewell,Democratic,174823,100.0,True,False,False
 2026,house,American Samoa,AS,AL,6948,Amata Coleman Radewagen,Republican,4215,60.7,True,False,False
 2026,house,American Samoa,AS,AL,6948,Fualaau Rosie Lancaster,Independent,,2.0,False,False,False
-2026,house,American Samoa,AS,AL,6948,Meleagi Suitonu-Chapman,Independent,1,1.6,False,False,False
+2026,house,American Samoa,AS,AL,6948,Meleagi Suitonu-Chapman,Independent,108,1.6,False,False,False
 2026,house,American Samoa,AS,AL,6948,Sandra King-Young,Democratic,2169,31.2,False,False,False
 2026,house,American Samoa,AS,AL,6948,Tuifagaloa Afu Lefaoseu III,Independent,,4.5,False,False,False
 2026,house,Arizona,AZ,1,,Amish Shah,Democratic,,100.0,True,False,True
+2026,house,Arizona,AZ,2,,Eli Crane,Republican,,100.0,True,False,False
 2026,house,Arizona,AZ,3,,Yassamin Ansari,Democratic,,100.0,True,False,False
 2026,house,Arizona,AZ,4,,Greg Stanton,Democratic,,100.0,True,False,False
 2026,house,Arizona,AZ,5,,Mark Lamb,Republican,,100.0,True,False,True
@@ -61507,6 +61508,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Colorado,CO,1,,Melat Kiros,Democratic,,100.0,True,False,False
 2026,house,Colorado,CO,2,,Joe Neguse,Democratic,,100.0,True,False,False
 2026,house,Colorado,CO,3,,Jeff Hurd,Republican,,100.0,True,False,False
+2026,house,Colorado,CO,4,,Eileen Laubacher,Democratic,,100.0,True,False,False
 2026,house,Colorado,CO,5,,Jessica Killin,Democratic,,100.0,True,False,False
 2026,house,Colorado,CO,6,,Jason Crow,Democratic,,100.0,True,False,False
 2026,house,Colorado,CO,7,,Brittany Pettersen,Democratic,,100.0,True,False,False
@@ -61538,6 +61540,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Florida,FL,23,,Lois Frankel,Democratic,,100.0,True,False,False
 2026,house,Florida,FL,24,,Oliver Gilbert,Democratic,,100.0,True,False,True
 2026,house,Florida,FL,25,,Jared Moskowitz,Democratic,,100.0,True,False,False
+2026,house,Florida,FL,26,,Mario Díaz-Balart,Republican,,100.0,True,False,False
 2026,house,Florida,FL,28,,Carlos A. Giménez,Republican,,100.0,True,False,False
 2026,house,Florida,FL,3,300411,Kat Cammack,Republican,165655,100.0,True,False,False
 2026,house,Florida,FL,4,300985,Aaron Bean,Republican,151163,100.0,True,False,False
@@ -61545,7 +61548,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Florida,FL,6,,Randy Fine,Republican,,100.0,True,False,False
 2026,house,Florida,FL,8,,Mike Haridopolos,Republican,,100.0,True,False,False
 2026,house,Florida,FL,9,,Darren Soto,Democratic,,100.0,True,False,False
-2026,house,Georgia,GA,1,,Jim Kingston,Republican,,100.0,True,False,True
+2026,house,Georgia,GA,1,272875,Jim Kingston,Republican,140266,100.0,True,False,True
 2026,house,Georgia,GA,10,,Houston Gaines,Republican,,100.0,True,False,True
 2026,house,Georgia,GA,11,,John Cowan,Republican,,100.0,True,False,True
 2026,house,Georgia,GA,12,,Rick Allen,Republican,,100.0,True,False,False
@@ -61876,6 +61879,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Washington,WA,2,,Rick Larsen,Democratic,,100.0,True,False,False
 2026,house,Washington,WA,3,,Marie Gluesenkamp Perez,Democratic,,100.0,True,False,False
 2026,house,Washington,WA,4,,Amanda McKinney,Republican,,100.0,True,False,True
+2026,house,Washington,WA,5,,Michael Baumgartner,Republican,,100.0,True,False,False
 2026,house,Washington,WA,6,,Emily Randall,Democratic,,100.0,True,False,False
 2026,house,Washington,WA,7,,Pramila Jayapal,Democratic,,100.0,True,False,False
 2026,house,Washington,WA,8,,Kim Schrier,Democratic,,100.0,True,False,False

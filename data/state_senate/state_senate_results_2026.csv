@@ -655,6 +655,53 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Minnesota,MN,State Senate,67,general,Foung Hawj,Democratic-Farmer-Labor,,,True,False
 2026,Minnesota,MN,State Senate,67,general,Toby Hesselgrave,Republican,4402.0,18.54,False,False
 2026,Minnesota,MN,State Senate,67,general,*Races where the margin is under 0.5% fall within Minnesota's threshold for a state-funded recount.,,,,False,False
+2026,New Hampshire,NH,State Senate,1,general,David Rochefort,Republican,12987,53.32,True,True
+2026,New Hampshire,NH,State Senate,1,general,Cathleen Fountain,Democratic,11361,46.65,False,False
+2026,New Hampshire,NH,State Senate,2,general,Kurt Webber,Democratic,14563,52.12,True,False
+2026,New Hampshire,NH,State Senate,2,general,Timothy Lang Sr.,Republican,13365,47.83,False,True
+2026,New Hampshire,NH,State Senate,3,general,Mark McConkey,Republican,15945,52.51,True,True
+2026,New Hampshire,NH,State Senate,3,general,Bobbi Boudman,Democratic,14387,47.38,False,False
+2026,New Hampshire,NH,State Senate,4,general,David H. Watters,Democratic,17866,67.92,True,True
+2026,New Hampshire,NH,State Senate,4,general,Shawn Mickelonis,Republican,8422,32.02,False,False
+2026,New Hampshire,NH,State Senate,5,general,Suzanne Prentiss,Democratic,21132,74.39,True,True
+2026,New Hampshire,NH,State Senate,5,general,Conrad Schoeffter,Republican,7262,25.57,False,False
+2026,New Hampshire,NH,State Senate,6,general,James P. Gray,Republican,12245,51.57,True,True
+2026,New Hampshire,NH,State Senate,6,general,Cecil Abels (withdrawn),Democratic,11456,48.25,False,False
+2026,New Hampshire,NH,State Senate,7,general,Rebecca Harned,Democratic,13174,51.69,True,False
+2026,New Hampshire,NH,State Senate,7,general,Dan Innis,Republican,12285,48.2,False,True
+2026,New Hampshire,NH,State Senate,8,general,Jim Creighton,Republican,12539,50.76,True,False
+2026,New Hampshire,NH,State Senate,8,general,David Trumble,Democratic,12150,49.18,False,False
+2026,New Hampshire,NH,State Senate,9,general,Matthew McLaughlin,Democratic,14352,53.55,True,False
+2026,New Hampshire,NH,State Senate,9,general,Denise Ricciardi,Republican,12417,46.33,False,True
+2026,New Hampshire,NH,State Senate,10,general,Donovan Fenton,Democratic,19848,98.57,True,False
+2026,New Hampshire,NH,State Senate,11,general,Shannon Chandley,Democratic,16651,57.96,True,False
+2026,New Hampshire,NH,State Senate,11,general,Tim McGough,Republican,12038,41.91,False,True
+2026,New Hampshire,NH,State Senate,12,general,Carryl Roy,Democratic,14701,52.03,True,False
+2026,New Hampshire,NH,State Senate,12,general,Kevin Avard,Republican,13527,47.87,False,True
+2026,New Hampshire,NH,State Senate,13,general,Laura Telerski,Democratic,12210,64.25,True,False
+2026,New Hampshire,NH,State Senate,13,general,Daniel J. Paul,Republican,6774,35.65,False,False
+2026,New Hampshire,NH,State Senate,14,general,Sharon Carson,Republican,12959,50.91,True,False
+2026,New Hampshire,NH,State Senate,14,general,Timothy Wyatt,Democratic,12482,49.03,False,False
+2026,New Hampshire,NH,State Senate,15,general,Tara Reardon,Democratic,18751,71.45,True,False
+2026,New Hampshire,NH,State Senate,15,general,Dennis Blankenbeker,Republican,7472,28.47,False,False
+2026,New Hampshire,NH,State Senate,16,general,Dian McCarthy,Democratic,13386,52.44,True,False
+2026,New Hampshire,NH,State Senate,16,general,Keith Murphy,Republican,12119,47.48,False,True
+2026,New Hampshire,NH,State Senate,17,general,Howard Pearl,Republican,13842,51.99,True,True
+2026,New Hampshire,NH,State Senate,17,general,Robert Lawliss,Democratic,12752,47.89,False,False
+2026,New Hampshire,NH,State Senate,18,general,Leonard Bell,Democratic,10709,54.96,True,False
+2026,New Hampshire,NH,State Senate,18,general,Victoria Sullivan,Republican,8758,44.94,False,True
+2026,New Hampshire,NH,State Senate,19,general,Howard Pearl,Republican,12761,52.54,True,True
+2026,New Hampshire,NH,State Senate,19,general,Michelle Moge,Democratic,11514,47.41,False,False
+2026,New Hampshire,NH,State Senate,20,general,Pat Long,Democratic,11433,65.64,True,True
+2026,New Hampshire,NH,State Senate,20,general,Patrick Binder,Republican,5967,34.26,False,False
+2026,New Hampshire,NH,State Senate,21,general,Rebecca Perkins Kwoka,Democratic,20447,74.01,True,True
+2026,New Hampshire,NH,State Senate,21,general,Jeffrey Berlin,Republican,7160,25.91,False,False
+2026,New Hampshire,NH,State Senate,22,general,Daryl Abbas,Republican,15267,55.79,True,True
+2026,New Hampshire,NH,State Senate,22,general,Chris Tardif,Democratic,12096,44.2,False,False
+2026,New Hampshire,NH,State Senate,23,general,Bill Gannon,Republican,16112,56.24,True,True
+2026,New Hampshire,NH,State Senate,23,general,David Childs,Democratic,12518,43.69,False,False
+2026,New Hampshire,NH,State Senate,24,general,Debra Altschiller,Democratic,19403,60.45,True,True
+2026,New Hampshire,NH,State Senate,24,general,Lou Gargiulo,Republican,12681,39.51,False,False
 2026,New York,NY,State Senate,22,special general,Sam Sutton,Democratic,8970,67.0,True,False
 2026,New York,NY,State Senate,22,special general,Nachman Carl Caller,New York Republican,4272,27.9,False,False
 2026,New York,NY,State Senate,47,special general,Erik Bottcher,Democratic,13325,76.2,False,False
@@ -760,8 +807,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,North Carolina,NC,State Senate,48,general,Doyle Brown Jr.,Democratic,40065,44.8,False,False
 2026,North Carolina,NC,State Senate,49,general,Julie Mayfield,Democratic,77184,77.15,True,True
 2026,North Carolina,NC,State Senate,49,general,CJ Domingo,Republican,22866,22.85,False,False
-2026,North Carolina,NC,State Senate,50,general,Kevin Corbin,Republican,55374,58.19,True,True
-2026,North Carolina,NC,State Senate,50,general,Tom Downing,Democratic,39781,41.81,False,False
+2026,North Carolina,NC,State Senate,50,general,Kevin Corbin,Republican,55364,58.19,True,True
+2026,North Carolina,NC,State Senate,50,general,Tom Downing,Democratic,39776,41.81,False,False
 2026,North Dakota,ND,State Senate,,general,1st,,2014.0,,True,False
 2026,North Dakota,ND,State Senate,,general,3rd,,,,False,False
 2026,North Dakota,ND,State Senate,,general,5th,,,,False,False
