@@ -33,6 +33,13 @@ unnoticed into the surrounding primary/general bucket (2026 Georgia's
 ...).  Their ``Primary_Type`` keeps the section context ('Republican
 Primary', 'General', ...), ``Poll_Type`` marks the kind.
 
+Hypothetical rows also name the trial heat itself in a ``Matchup`` column
+('Susan Collins vs. Graham Platner', 'Dan S. Sullivan vs. Mary Peltola
+vs. Christopher Miklos vs. Ann Diener', ...).  The label comes from the
+bold/definition-list line (``'''A vs. B'''`` / ``;A vs. B``) Wikipedia
+places right above each matchup table; tables published without one (2026
+Georgia's hidden block) fall back to the poll's own candidate columns.
+
 Usage:
     python cli.py senate --start-year 2018 --end-year 2024
     python senate_elections.py           # direct run, defaults (2018-2024)
@@ -687,6 +694,42 @@ def _extract_tables_with_pos(segment: str) -> List[Tuple[int, str]]:
     return tables
 
 
+#: The matchup label Wikipedia parks right above a hypothetical matchup
+#: table: a bold ('''A vs. B''') or definition-list (';A vs. B') line —
+#: 'Susan Collins vs. Graham Platner' (Maine 2026), "'''Joni Ernst vs.
+#: \"Someone Else\"'''" (Iowa 2026), the three-way 'Dan S. Sullivan vs.
+#: Mary Peltola vs. ...' lines (Alaska 2026).  <br /> suffixes and trailing
+#: bold markers are tolerated; template/attribute lines never match.
+_MATCHUP_LABEL_RE = re.compile(
+    r"^(?:;+|'''+)\s*(\S.*?\s+vs\.?\s+\S.*?)\s*(?:'''+)?\s*(?:<br\s*/?>.*)?$",
+)
+_MATCHUP_LABEL_MAX_LEN = 200
+
+
+def _matchup_label_before(segment: str, start: int, prev_end: int) -> str:
+    """Matchup label ('A vs. B') from the wikitext between the previous
+    table (or the section/block start) and the table starting at *start*.
+
+    Hypothetical blocks label their tables with a bold or definition-list
+    'A vs. B' line immediately above each wikitable; the LAST such line in
+    the gap wins.  Template and heading lines never match (the pattern
+    requires the raw line to start with ';' or "'''", and lines containing
+    '|' or '{' are skipped outright).  Returns '' when no label is found —
+    callers then derive the matchup from the poll's own candidate columns.
+    """
+    gap = segment[max(prev_end, 0):start]
+    label = ""
+    for line in gap.split("\n"):
+        stripped = line.strip()
+        if (not stripped or len(stripped) > _MATCHUP_LABEL_MAX_LEN
+                or "|" in stripped or "{" in stripped):
+            continue
+        m = _MATCHUP_LABEL_RE.match(stripped)
+        if m:
+            label = re.sub(r"\s+", " ", m.group(1)).strip("';").strip()
+    return label
+
+
 def parse_polling_tables_classified(
     section_text: str,
     state_name: str,
@@ -702,9 +745,12 @@ def parse_polling_tables_classified(
     under a 'Hypothetical polling' heading within the polling section's
     scope go into the second frame; everything else into the first.  Both
     frames are wide-format, exactly as :func:`_parse_one_polling_table`
-    builds them.  With ``wide=True`` the polling heading is located with the
-    widened pattern (see :func:`iter_polling_spans`), matching the callers
-    that discovered the section with ``wide=True``.
+    builds them, plus a scalar ``Matchup`` column whenever the wikitext
+    right above the table carries a bold/definition-list 'A vs. B' line
+    (see :func:`_matchup_label_before`).  With ``wide=True`` the polling
+    heading is located with the widened pattern (see
+    :func:`iter_polling_spans`), matching the callers that discovered the
+    section with ``wide=True``.
     """
     span = (POLLING_HEADING_WIDE_RE if wide else POLLING_HEADING_RE).search(
         section_text
@@ -718,10 +764,15 @@ def parse_polling_tables_classified(
 
     regular: List[pd.DataFrame] = []
     hypothetical: List[pd.DataFrame] = []
+    prev_end = 0
     for start, table in _extract_tables_with_pos(scope):
         df = _parse_one_polling_table(table, state_name)
+        label = _matchup_label_before(scope, start, prev_end)
+        prev_end = start + len(table)          # keep advancing past empties
         if df.empty:
             continue
+        if label:
+            df["Matchup"] = label
         if any(s <= start < e for s, e in hypo_spans):
             hypothetical.append(df)
         else:
@@ -745,12 +796,21 @@ def parse_hypothetical_tables(span_text: str, state_name: str) -> pd.DataFrame:
     Parse every wikitable inside a *standalone* hypothetical span (a block
     or section returned by :func:`iter_hypothetical_polling_spans` that no
     ``Polling`` heading's scope covers) into a wide-format DataFrame.
+
+    Carries the 'A vs. B' label line above each table into a scalar
+    ``Matchup`` column, like :func:`parse_polling_tables_classified`.
     """
     frames: List[pd.DataFrame] = []
-    for _start, table in _extract_tables_with_pos(span_text):
+    prev_end = 0
+    for start, table in _extract_tables_with_pos(span_text):
         df = _parse_one_polling_table(table, state_name)
-        if not df.empty:
-            frames.append(df)
+        label = _matchup_label_before(span_text, start, prev_end)
+        prev_end = start + len(table)
+        if df.empty:
+            continue
+        if label:
+            df["Matchup"] = label
+        frames.append(df)
     if not frames:
         return pd.DataFrame()
     return (
@@ -1046,6 +1106,43 @@ def _parse_one_polling_table(table_content: str, state_name: str) -> pd.DataFram
     return pd.DataFrame(rows)
 
 
+def _fill_derived_matchups(df_long: pd.DataFrame) -> pd.DataFrame:
+    """Fill empty ``Matchup`` cells on hypothetical rows from each poll's own
+    candidate set.
+
+    Tables published without an 'A vs. B' label line (2026 Georgia's
+    ``{{hidden begin|title=Hypothetical polling}}`` block) still name their
+    trial heat implicitly: the non-dash candidate columns of one poll ARE
+    the matchup.  Rows are grouped by their poll identity (source, dates,
+    sample, MoE) and the ordered distinct candidates join with ' vs. ' —
+    'Jon Ossoff vs. Brian Kemp', multi-way trial heats included.  Rows that
+    already carry a captured label are left untouched.
+    """
+    if "Matchup" not in df_long.columns or not len(df_long):
+        return df_long
+    empty = df_long["Matchup"].isna() | (
+        df_long["Matchup"].astype(str).str.strip() == ""
+    )
+    if not empty.any():
+        return df_long
+    keys = [c for c in ("Poll_Source", "Date", "Sample", "MoE")
+            if c in df_long.columns]
+
+    def _join_candidates(values) -> str:
+        seen, out = set(), []
+        for cand in values:
+            if isinstance(cand, str) and cand.strip() and cand.strip() not in seen:
+                seen.add(cand.strip())
+                out.append(cand.strip())
+        return " vs. ".join(out)
+
+    derived = df_long.groupby(keys, dropna=False, sort=False)[
+        "Candidate"].transform(_join_candidates)
+    fillable = empty & derived.notna() & (derived.astype(str).str.strip() != "")
+    df_long.loc[fillable, "Matchup"] = derived[fillable]
+    return df_long
+
+
 def wide_to_long_polls(
     df_wide: pd.DataFrame,
     state_name: str,
@@ -1059,14 +1156,22 @@ def wide_to_long_polls(
     Melt a wide polling DataFrame into long format with metadata columns.
 
     Long format columns:
-        State, Primary_Type, [Poll_Type,] Poll_Source, Date, Sample, MoE,
-        Candidate, Party, Pct, Incumbent
+        State, Primary_Type, [Poll_Type, [Matchup,]] Poll_Source, Date,
+        Sample, MoE, Candidate, Party, Pct, Incumbent
 
     When *poll_type* is given ('Primary' / 'General' / 'Hypothetical') a
     ``Poll_Type`` column is emitted after ``Primary_Type`` — the label that
     separates ordinary polling from trial-heat ('Hypothetical') matchups.
     Omit it to keep the legacy schema (presidential post-labels its own
     rows).
+
+    A ``Matchup`` column follows ``Poll_Type`` when the wide frame carries
+    one (the 'A vs. B' label line above a hypothetical matchup table, see
+    :func:`parse_polling_tables_classified`) — hypothetical rows without a
+    captured label get one derived from their own poll's candidate set
+    ('Jon Ossoff vs. Brian Kemp', ...), so every trial-heat row names who
+    is matched against whom.  Rows from ordinary primary/general tables
+    leave ``Matchup`` empty.
 
     ``MoE`` is emitted as a numeric margin of error in percentage points
     (see :func:`_parse_moe_value`): the raw cell text ('± 4.3%') is parsed
@@ -1076,7 +1181,9 @@ def wide_to_long_polls(
     if df_wide.empty:
         return pd.DataFrame()
 
-    meta_cols = [c for c in ("Poll_Source", "Date", "Sample", "MoE") if c in df_wide.columns]
+    # 'Matchup' rides along as metadata so it is NOT melted as a candidate
+    meta_cols = [c for c in ("Poll_Source", "Date", "Sample", "MoE", "Matchup")
+                 if c in df_wide.columns]
     non_candidate = ("other", "undecided")
     candidate_cols = [
         c for c in df_wide.columns
@@ -1112,6 +1219,8 @@ def wide_to_long_polls(
     df_long["Primary_Type"] = primary_type
     if poll_type:
         df_long["Poll_Type"] = poll_type
+    if "Matchup" not in df_long.columns:
+        df_long["Matchup"] = ""
 
     # Placeholder / junk values seen in real polling tables — treat as missing
     # rather than letting '?' or '± ?' leak into the CSV.
@@ -1139,15 +1248,22 @@ def wide_to_long_polls(
     if "Sample" in df_long.columns:
         df_long["Sample"] = df_long["Sample"].replace(_MISSING, pd.NA)
 
+    if poll_type == "Hypothetical":
+        df_long = _fill_derived_matchups(df_long)
+
     # Multiple tables per polling section can repeat the same poll row; drop
-    # exact duplicates so combined CSVs stay tidy.
+    # exact duplicates so combined CSVs stay tidy.  'Matchup' joins the key
+    # so trial-heat tables sharing a pollster row across DIFFERENT matchups
+    # (Collins vs. Platner / Collins vs. Bellows polled back-to-back) are
+    # never collapsed into each other.
     df_long = df_long.drop_duplicates(
         subset=[c for c in ("State", "Primary_Type", "Poll_Source", "Date",
-                            "Candidate", "Pct") if c in df_long.columns]
+                            "Matchup", "Candidate", "Pct") if c in df_long.columns]
     )
 
-    col_order = ["State", "Primary_Type", "Poll_Type", "Poll_Source", "Date",
-                 "Sample", "MoE", "Candidate", "Party", "Pct", "Incumbent"]
+    col_order = ["State", "Primary_Type", "Poll_Type", "Matchup", "Poll_Source",
+                 "Date", "Sample", "MoE", "Candidate", "Party", "Pct",
+                 "Incumbent"]
     return df_long[[c for c in col_order if c in df_long.columns]]
 
 
