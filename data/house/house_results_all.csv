@@ -61489,6 +61489,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,California,CA,37,,Sydney Kamlager-Dove,Democratic,,100.0,True,False,False
 2026,house,California,CA,38,,Hilda Solis,Democratic,,100.0,True,False,True
 2026,house,California,CA,39,,Mark Takano,Democratic,,100.0,True,False,False
+2026,house,California,CA,40,,Ken Calvert,Republican,,100.0,True,False,False
 2026,house,California,CA,41,,Linda Sánchez,Democratic,,100.0,True,False,False
 2026,house,California,CA,42,,Robert Garcia,Democratic,,100.0,True,False,False
 2026,house,California,CA,43,,Maxine Waters,Democratic,,100.0,True,False,False
@@ -61506,8 +61507,8 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,California,CA,8,,John Garamendi,Democratic,,100.0,True,False,False
 2026,house,California,CA,9,,Josh Harder,Democratic,,100.0,True,False,False
 2026,house,Colorado,CO,1,,Melat Kiros,Democratic,,100.0,True,False,False
-2026,house,Colorado,CO,2,,Joe Neguse,Democratic,,100.0,True,False,False
-2026,house,Colorado,CO,3,,Jeff Hurd,Republican,,100.0,True,False,False
+2026,house,Colorado,CO,2,366709,Joe Neguse,Democratic,273365,100.0,True,False,False
+2026,house,Colorado,CO,3,321477,Jeff Hurd,Republican,163817,100.0,True,False,False
 2026,house,Colorado,CO,4,,Eileen Laubacher,Democratic,,100.0,True,False,False
 2026,house,Colorado,CO,5,,Jessica Killin,Democratic,,100.0,True,False,False
 2026,house,Colorado,CO,6,,Jason Crow,Democratic,,100.0,True,False,False
@@ -61787,12 +61788,12 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Pennsylvania,PA,9,,Dan Meuser,Republican,,100.0,True,False,False
 2026,house,Rhode Island,RI,1,,Gabe Amo,Democratic,,100.0,True,False,False
 2026,house,Rhode Island,RI,2,,Seth Magaziner,Democratic,,100.0,True,False,False
-2026,house,South Carolina,SC,1,326012,Nancy Lacore,Democratic,162103,100.0,True,False,True
-2026,house,South Carolina,SC,3,,Sheri Biggs,Republican,,100.0,True,False,False
+2026,house,South Carolina,SC,1,326423,Nancy Lacore,Democratic,162103,100.0,True,False,True
+2026,house,South Carolina,SC,3,273168,Sheri Biggs,Republican,173960,100.0,True,False,False
 2026,house,South Carolina,SC,4,,William Timmons,Republican,,100.0,True,False,False
-2026,house,South Carolina,SC,5,,Wes Climer,Republican,,100.0,True,False,True
-2026,house,South Carolina,SC,6,,Jim Clyburn,Democratic,,100.0,True,False,False
-2026,house,South Carolina,SC,7,,Russell Fry,Republican,,100.0,True,False,False
+2026,house,South Carolina,SC,5,286858,Wes Climer,Republican,151497,100.0,True,False,True
+2026,house,South Carolina,SC,6,260742,Jim Clyburn,Democratic,180840,100.0,True,False,False
+2026,house,South Carolina,SC,7,304088,Russell Fry,Republican,172439,100.0,True,False,False
 2026,house,South Dakota,SD,AL,305580,Marty Jackley,Republican,195587,100.0,True,False,True
 2026,house,Tennessee,TN,1,,Diana Harshbarger,Republican,,100.0,True,False,False
 2026,house,Tennessee,TN,2,,Tim Burchett,Republican,,100.0,True,False,False
@@ -61841,8 +61842,8 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Texas,TX,7,,Lizzie Fletcher,Democratic,,100.0,True,False,False
 2026,house,Texas,TX,8,,Jessica Steinmann,Republican,,100.0,True,False,True
 2026,house,Texas,TX,9,170419,Leticia Gutierrez,Democratic,98079,100.0,True,False,True
-2026,house,United States Virgin Islands,VI,AL,,Janelle Sarauw,Democratic,,76.9,True,False,False
-2026,house,United States Virgin Islands,VI,AL,,Shelley Moorhead,Independent,,21.2,False,False,False
+2026,house,United States Virgin Islands,VI,AL,,Janelle Sarauw,Democratic,,76.9,True,False,True
+2026,house,United States Virgin Islands,VI,AL,,Shelley Moorhead,Independent,,21.2,False,False,True
 2026,house,Utah,UT,1,235209,Ben McAdams,Democratic,165422,70.1,True,False,True
 2026,house,Utah,UT,1,235209,Elias Montgomery,Independent,,1.5,False,False,True
 2026,house,Utah,UT,1,235209,Jesse West,Libertarian,5227,2.3,False,False,True

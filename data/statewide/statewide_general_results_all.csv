@@ -4163,9 +4163,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,California,CA,secretary of state,2026 California Secretary of State election,Candidate,Shirley Weber,Democratic,,,False,True
 2026,California,CA,secretary of state,2026 California Secretary of State election,Candidate,Donald P. Wagner,Republican,,,False,False
 2026,California,CA,secretary of state,2026 California Secretary of State election,Total,,,,,False,False
-2026,California,CA,governor,2026 California gubernatorial election,Winning,Xavier Becerra,Democratic,6773781,65.5,True,False
-2026,California,CA,governor,2026 California gubernatorial election,Candidate,Steve Hilton,Republican,3575025,34.5,False,False
-2026,California,CA,governor,2026 California gubernatorial election,Total,,,10348806,100.0,False,False
+2026,California,CA,governor,2026 California gubernatorial election,Winning,Xavier Becerra,Democratic,7451961,65.8,True,False
+2026,California,CA,governor,2026 California gubernatorial election,Candidate,Steve Hilton,Republican,3879315,34.2,False,False
+2026,California,CA,governor,2026 California gubernatorial election,Total,,,11331276,100.0,False,False
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Candidate,Jena Griswold,Democratic,,,False,False
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Candidate,Michael J. Allen,Republican,,,False,False
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Total,,,,100.0,False,False
@@ -4294,15 +4294,16 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Cindy Holscher,Democratic,,,False,False
 2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Ty Masterson,Republican,,,False,False
 2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Total,,,,100.0,False,False
-2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Winning,Anthony Brown,Democratic,,,True,True
-2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,James B. Rutledge III,Republican,,,False,False
-2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Total,,,,100.0,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1306941,63.93,True,True
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,653070,31.79,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,42848,2.09,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,39692,1.93,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5356,0.26,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2054386,100.0,False,False
+2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Winning,Anthony Brown,Democratic,1416665,68.57,True,True
+2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,James B. Rutledge III,Republican,647345,31.33,False,False
+2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Write-in,,,2128,0.1,False,False
+2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Total,,,2066138,100.0,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1333883,64.16,True,True
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,656039,31.55,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,43570,2.1,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,40138,1.93,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5456,0.26,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2079086,100.0,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Andrea Campbell,Democratic,,,False,True
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Michael Walsh,Republican,,,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Total,,,,100.0,False,False
@@ -4466,22 +4467,22 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,South Dakota,SD,governor,2026 South Dakota gubernatorial election,Winning,Larry Rhoden,Republican,193333,63.49,True,False
 2026,South Dakota,SD,governor,2026 South Dakota gubernatorial election,Candidate,Dan Ahlers,Democratic,111157,36.51,False,False
 2026,South Dakota,SD,governor,2026 South Dakota gubernatorial election,Total,,,304490,100.0,False,False
-2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Winning,Marsha Blackburn,Republican,955298,45.49,True,False
-2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Jerri Green,Democratic,902615,42.98,False,False
-2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,David Hatley,Independent,195288,9.3,False,False
-2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Lauren Pinkston,Independent,26186,1.25,False,False
-2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Dean Brewer,Independent,4095,0.2,False,False
-2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Ray Brown,Independent,2869,0.14,False,False
-2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Wendell Jackson,Independent,2365,0.11,False,False
-2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Eddie Lee Murphy,Independent,2293,0.11,False,False
-2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Robert C. Vick,Independent,2240,0.11,False,False
+2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Winning,Marsha Blackburn,Republican,957136,45.52,True,False
+2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Jerri Green,Democratic,902953,42.95,False,False
+2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,David Hatley,Independent,195564,9.3,False,False
+2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Lauren Pinkston,Independent,26200,1.25,False,False
+2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Dean Brewer,Independent,4098,0.19,False,False
+2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Ray Brown,Independent,2880,0.14,False,False
+2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Wendell Jackson,Independent,2372,0.11,False,False
+2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Eddie Lee Murphy,Independent,2296,0.11,False,False
+2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Robert C. Vick,Independent,2248,0.11,False,False
 2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Misam Abidi,Independent,2110,0.1,False,False
-2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Charles Van Morgan,Independent,1317,0.06,False,False
-2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,L. Webb Taylor,Independent,1118,0.05,False,False
+2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Charles Van Morgan,Independent,1323,0.06,False,False
+2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,L. Webb Taylor,Independent,1113,0.05,False,False
 2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Dave Seeman,Independent,870,0.04,False,False
 2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Victor L. Scoggin,Independent,817,0.04,False,False
 2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Karl Knox Smithson,Independent,494,0.02,False,False
-2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Total,,,2099975,100.0,False,False
+2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Total,,,2102474,100.0,False,False
 2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Mayes Middleton,Republican,,,False,False
 2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Nathan Johnson,Democratic,,,False,False
 2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Tom Oxford,Libertarian,,,False,False
