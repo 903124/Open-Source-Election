@@ -203,8 +203,8 @@ Year,State,Primary_Type,Poll_Type,Matchup,Poll_Source,Date,Date_Start,Date_End,S
 2020,Kentucky,Democratic Primary,Primary,,YouGov Blue,2020-05,2020-05-01,2020-05-31,,,Amy McGrath,D,62%,False,May 2020
 2020,Kentucky,Democratic Primary,Primary,,YouGov Blue,2020-04,2020-04-01,2020-04-30,,,Amy McGrath,D,62%,False,April 2020
 2020,Kentucky,Democratic Primary,Primary,,YouGov Blue,2020-01,2020-01-01,2020-01-31,,,Amy McGrath,D,65%,False,January 2020
-2020,Maine,Republican Primary,Primary,,Public Policy Polling (D),2019-10-11 to 2019-10-13,2019-10-11,2019-10-13,271 (LV),6.0,Susan Collins,R,55%,True,"October 11–13, 2019"
-2020,Maine,Republican Primary,Primary,,Public Policy Polling (D),2019-10-11 to 2019-10-13,2019-10-11,2019-10-13,271 (LV),6.0,Derek Levasseur,R,10%,False,"October 11–13, 2019"
+2020,Maine,Republican Primary,Primary,,Public Policy Polling,2019-10-11 to 2019-10-13,2019-10-11,2019-10-13,271 (LV),6.0,Susan Collins,R,55%,True,"October 11–13, 2019"
+2020,Maine,Republican Primary,Primary,,Public Policy Polling,2019-10-11 to 2019-10-13,2019-10-11,2019-10-13,271 (LV),6.0,Derek Levasseur,R,10%,False,"October 11–13, 2019"
 2020,Maine,Republican Primary,Hypothetical,Susan Collins vs. Paul LePage vs. Shawn Moody vs. Generic Republican vs. Derek Levasseur,Public Policy Polling (D),2019-10-11 to 2019-10-13,2019-10-11,2019-10-13,271 (LV),6.0,Susan Collins,R,29%,True,"October 11–13, 2019"
 2020,Maine,Republican Primary,Hypothetical,Susan Collins vs. Paul LePage vs. Shawn Moody vs. Generic Republican vs. Derek Levasseur,Public Policy Polling (D),2019-10-11 to 2019-10-13,2019-10-11,2019-10-13,271 (LV),6.0,Susan Collins,R,36%,True,"October 11–13, 2019"
 2020,Maine,Republican Primary,Hypothetical,Susan Collins vs. Paul LePage vs. Shawn Moody vs. Generic Republican vs. Derek Levasseur,Public Policy Polling (D),2019-10-11 to 2019-10-13,2019-10-11,2019-10-13,271 (LV),6.0,Susan Collins,R,35%,True,"October 11–13, 2019"

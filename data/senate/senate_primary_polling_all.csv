@@ -4135,8 +4135,8 @@ Year,State,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidat
 2020,Kentucky,Democratic Primary,Civiqs,2020-06-13 to 2020-06-15,2020-06-13,2020-06-15,421 (LV),5.5,Amy McGrath,D,36%,False,"June 13–15, 2020",Primary,
 2020,Kentucky,Democratic Primary,Garin-Hart-Yang,2020-06-16 to 2020-06-18,2020-06-16,2020-06-18,,,Charles Booker,D,32%,False,"June 16–18, 2020",Primary,
 2020,Kentucky,Democratic Primary,Garin-Hart-Yang,2020-06-16 to 2020-06-18,2020-06-16,2020-06-18,,,Amy McGrath,D,42%,False,"June 16–18, 2020",Primary,
-2020,Maine,Republican Primary,Public Policy Polling (D),2019-10-11 to 2019-10-13,2019-10-11,2019-10-13,271 (LV),6.0,Susan Collins,R,55%,True,"October 11–13, 2019",Primary,
-2020,Maine,Republican Primary,Public Policy Polling (D),2019-10-11 to 2019-10-13,2019-10-11,2019-10-13,271 (LV),6.0,Derek Levasseur,R,10%,False,"October 11–13, 2019",Primary,
+2020,Maine,Republican Primary,Public Policy Polling,2019-10-11 to 2019-10-13,2019-10-11,2019-10-13,271 (LV),6.0,Susan Collins,R,55%,True,"October 11–13, 2019",Primary,
+2020,Maine,Republican Primary,Public Policy Polling,2019-10-11 to 2019-10-13,2019-10-11,2019-10-13,271 (LV),6.0,Derek Levasseur,R,10%,False,"October 11–13, 2019",Primary,
 2020,Maine,Republican Primary,Public Policy Polling (D),2019-10-11 to 2019-10-13,2019-10-11,2019-10-13,271 (LV),6.0,Susan Collins,R,29%,True,"October 11–13, 2019",Hypothetical,Susan Collins vs. Paul LePage vs. Shawn Moody vs. Generic Republican vs. Derek Levasseur
 2020,Maine,Republican Primary,Public Policy Polling (D),2019-10-11 to 2019-10-13,2019-10-11,2019-10-13,271 (LV),6.0,Susan Collins,R,36%,True,"October 11–13, 2019",Hypothetical,Susan Collins vs. Paul LePage vs. Shawn Moody vs. Generic Republican vs. Derek Levasseur
 2020,Maine,Republican Primary,Public Policy Polling (D),2019-10-11 to 2019-10-13,2019-10-11,2019-10-13,271 (LV),6.0,Susan Collins,R,35%,True,"October 11–13, 2019",Hypothetical,Susan Collins vs. Paul LePage vs. Shawn Moody vs. Generic Republican vs. Derek Levasseur

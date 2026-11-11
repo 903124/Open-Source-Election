@@ -6900,8 +6900,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Wyoming,WY,State Senate,28,general,James Lee Anderson (inc.),Republican,5354,94.49,True,False
 2024,Wyoming,WY,State Senate,30,general,Charles Scott (inc.),Republican,6404,96.78,True,False
 2026,Alabama,AL,State Senate,1,general,Tim Melson,Republican,,,True,True
-2026,Alabama,AL,State Senate,2,general,John Roberts,Republican,,,True,False
-2026,Alabama,AL,State Senate,2,general,Rudolph Valentino Drake,Democratic,,,False,False
+2026,Alabama,AL,State Senate,2,general,John Roberts,Republican,27130.0,44.0,False,False
+2026,Alabama,AL,State Senate,2,general,Rudolph Valentino Drake,Democratic,34585.0,56.0,True,False
 2026,Alabama,AL,State Senate,3,general,Arthur Orr,Republican,,,True,True
 2026,Alabama,AL,State Senate,3,general,John Dickey,Democratic,,,False,False
 2026,Alabama,AL,State Senate,4,general,Garlan Gudger,Republican,,,True,True
@@ -7608,10 +7608,10 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,New York,NY,State Senate,47,special general,Charlotte Friedman,New York Republican,1117,7.7,False,False
 2026,New York,NY,State Senate,61,special general,Jeremy Zellner,Democratic,19341,59.7,True,False
 2026,New York,NY,State Senate,61,special general,Dan R. Gagliardo,New York Republican,12886,30.4,False,False
-2026,North Carolina,NC,State Senate,1,general,Jerry Tillett,Republican,42924,52.07,True,False
-2026,North Carolina,NC,State Senate,1,general,Melissa Zehner,Democratic,39504,47.93,False,False
-2026,North Carolina,NC,State Senate,2,general,Norman Sanderson,Republican,47174,53.79,True,True
-2026,North Carolina,NC,State Senate,2,general,Roy Surrett,Democratic,40530,46.21,False,False
+2026,North Carolina,NC,State Senate,1,general,Jerry Tillett,Republican,42993,52.07,True,False
+2026,North Carolina,NC,State Senate,1,general,Melissa Zehner,Democratic,39570,47.93,False,False
+2026,North Carolina,NC,State Senate,2,general,Norman Sanderson,Republican,47275,53.8,True,True
+2026,North Carolina,NC,State Senate,2,general,Roy Surrett,Democratic,40595,46.2,False,False
 2026,North Carolina,NC,State Senate,3,general,Bob Brinson,Republican,44365,55.01,True,True
 2026,North Carolina,NC,State Senate,3,general,Charles Dudley,Democratic,36279,44.99,False,False
 2026,North Carolina,NC,State Senate,4,general,Jess Rivera,Democratic,37539,51.07,True,False
@@ -7625,7 +7625,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,North Carolina,NC,State Senate,8,general,Bill Rabon,Republican,59369,52.16,True,True
 2026,North Carolina,NC,State Senate,8,general,Richard Combes,Democratic,51954,45.64,False,False
 2026,North Carolina,NC,State Senate,8,general,Tim White,Libertarian,2502,2.2,False,False
-2026,North Carolina,NC,State Senate,9,general,Brent Jackson,Republican,48386,100.0,True,True
+2026,North Carolina,NC,State Senate,9,general,Brent Jackson,Republican,48454,100.0,True,True
 2026,North Carolina,NC,State Senate,10,general,Benton Sawrey,Republican,43863,49.7,True,True
 2026,North Carolina,NC,State Senate,10,general,Pat LeGrand,Democratic,42609,48.28,False,False
 2026,North Carolina,NC,State Senate,10,general,Kevin Terrett,Libertarian,1782,2.02,False,False
@@ -7658,8 +7658,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,North Carolina,NC,State Senate,22,general,Lakeshia Alston,Republican,12600,14.74,False,False
 2026,North Carolina,NC,State Senate,23,general,Jonah Garson,Democratic,69311,72.58,True,True
 2026,North Carolina,NC,State Senate,23,general,Laura Pichardo,Republican,26191,27.42,False,False
-2026,North Carolina,NC,State Senate,24,general,Danny Britt,Republican,27860,50.24,True,True
-2026,North Carolina,NC,State Senate,24,general,Catina Hamm,Democratic,27592,49.76,False,False
+2026,North Carolina,NC,State Senate,24,general,Danny Britt,Republican,27878,50.22,True,True
+2026,North Carolina,NC,State Senate,24,general,Catina Hamm,Democratic,27633,49.78,False,False
 2026,North Carolina,NC,State Senate,25,general,Amy Galey,Republican,42643,51.57,True,True
 2026,North Carolina,NC,State Senate,25,general,Southey Blanton,Democratic,40046,48.43,False,False
 2026,North Carolina,NC,State Senate,26,general,Sam Page,Republican,50217,53.75,True,False
@@ -7699,16 +7699,16 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,North Carolina,NC,State Senate,44,general,Rod Powell,Democratic,27752,35.57,False,False
 2026,North Carolina,NC,State Senate,45,general,Mark Hollo,Republican,49039,62.76,True,True
 2026,North Carolina,NC,State Senate,45,general,Greg Cranford,Democratic,29101,37.24,False,False
-2026,North Carolina,NC,State Senate,46,general,Warren Daniel,Republican,42610,56.14,True,True
-2026,North Carolina,NC,State Senate,46,general,Kyle Whisnant,Democratic,33287,43.86,False,False
+2026,North Carolina,NC,State Senate,46,general,Warren Daniel,Republican,42653,56.13,True,True
+2026,North Carolina,NC,State Senate,46,general,Kyle Whisnant,Democratic,33339,43.87,False,False
 2026,North Carolina,NC,State Senate,47,general,Ralph Hise,Republican,48503,55.54,True,True
 2026,North Carolina,NC,State Senate,47,general,Frank Patton Hughes III,Democratic,38829,44.46,False,False
-2026,North Carolina,NC,State Senate,48,general,Tim Moffitt,Republican,49359,55.2,True,True
-2026,North Carolina,NC,State Senate,48,general,Doyle Brown Jr.,Democratic,40065,44.8,False,False
+2026,North Carolina,NC,State Senate,48,general,Tim Moffitt,Republican,49414,55.2,True,True
+2026,North Carolina,NC,State Senate,48,general,Doyle Brown Jr.,Democratic,40104,44.8,False,False
 2026,North Carolina,NC,State Senate,49,general,Julie Mayfield,Democratic,77184,77.15,True,True
 2026,North Carolina,NC,State Senate,49,general,CJ Domingo,Republican,22866,22.85,False,False
-2026,North Carolina,NC,State Senate,50,general,Kevin Corbin,Republican,55364,58.19,True,True
-2026,North Carolina,NC,State Senate,50,general,Tom Downing,Democratic,39776,41.81,False,False
+2026,North Carolina,NC,State Senate,50,general,Kevin Corbin,Republican,55373,58.19,True,True
+2026,North Carolina,NC,State Senate,50,general,Tom Downing,Democratic,39783,41.81,False,False
 2026,North Dakota,ND,State Senate,,general,1st,,2014.0,,True,False
 2026,North Dakota,ND,State Senate,,general,3rd,,,,False,False
 2026,North Dakota,ND,State Senate,,general,5th,,,,False,False
@@ -7806,8 +7806,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Pennsylvania,PA,State Senate,36,general,Christine Tartaglione,Democratic,,,True,False
 2026,Pennsylvania,PA,State Senate,36,general,Art Haywood,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Todd Johnson,Republican,,,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Eileen Albillar,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Frank Farry,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Eileen T. Hartnett Albillar,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Anthony H. Williams,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Steve Santarsiero,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Gregory J. Bankos Jr.,Republican,,,False,False
@@ -7815,16 +7815,16 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Pennsylvania,PA,State Senate,36,general,Robert F. Costello III,Republican,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Nick Miller,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Omy Juriel Maldonado,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Jarrett Coleman,Republican,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Mark Pinsley,Democratic,,,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Jarrett Coleman,Republican,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Lisa Boscola,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Scott Janney,Republican,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Lisa Baker,Republican,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Jackie Baker,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Marty Flynn,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Sharon Soltis,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Tracy Pennycuick,Republican,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Christopher Thomas,Democratic,,,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Tracy Pennycuick,Republican,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Michael Schonewolf Jr,Green,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Tim Kearney,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Gail Scott,Republican,,,False,False
@@ -7835,12 +7835,12 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Pennsylvania,PA,State Senate,36,general,Patrick J. Stefano,Republican,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Greg Rothman,Republican,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Nathan Wood,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,James Malone,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Tom Jones,Republican,,,False,False
+2026,Pennsylvania,PA,State Senate,36,general,James Malone,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Lindsey Williams,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Thomas West,Republican,,,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Brian Wrightson,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Rosemary Brown,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Brian A. Wrightson,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Wayne D. Fontana,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Katie Muth,Democratic,,,False,False
 2026,Pennsylvania,PA,State Senate,36,general,Melissa C. Dicranian,Republican,,,False,False
