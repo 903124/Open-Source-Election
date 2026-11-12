@@ -124,9 +124,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Candidate,Therese Terlaje,Democratic,14925,48.15,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Write-in,,,124,0.4,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Total,,,30994,98.66,False,False
-2026,Hawaii,HI,governor,2026 Hawaii gubernatorial election,Winning,Josh Green,Democratic,278652,72.65,True,True
-2026,Hawaii,HI,governor,2026 Hawaii gubernatorial election,Candidate,Gary Cordery,Republican,104926,27.35,False,False
-2026,Hawaii,HI,governor,2026 Hawaii gubernatorial election,Total,,,383578,100.0,False,False
+2026,Hawaii,HI,governor,2026 Hawaii gubernatorial election,Winning,Josh Green,Democratic,279445,72.64,True,True
+2026,Hawaii,HI,governor,2026 Hawaii gubernatorial election,Candidate,Gary Cordery,Republican,105258,27.36,False,False
+2026,Hawaii,HI,governor,2026 Hawaii gubernatorial election,Total,,,384703,100.0,False,False
 2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Winning,Brad Little,Republican,407253,57.1,True,False
 2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Candidate,Terri Pickens,Democratic,230760,32.35,False,False
 2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Candidate,John Stegner,Independent,54210,7.6,False,False
@@ -178,18 +178,18 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Candidate,Juan Luengo,Democratic,478668,44.3,False,False
 2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Candidate,Eric Lund,Libertarian,49017,4.5,False,False
 2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Total,,,1081368,100.0,False,False
-2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Cindy Holscher,Democratic,,,False,False
-2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Ty Masterson,Republican,,,False,False
-2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Total,,,,100.0,False,False
+2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Cindy Holscher,Democratic,551467,50.35,False,False
+2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Ty Masterson,Republican,543903,49.65,False,False
+2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Total,,,1095370,100.0,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Winning,Anthony Brown,Democratic,1416665,68.57,True,True
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,James B. Rutledge III,Republican,647345,31.33,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Write-in,,,2128,0.1,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Total,,,2066138,100.0,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1333883,64.16,True,True
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,656039,31.55,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,43570,2.1,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,40138,1.93,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5456,0.26,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1356732,64.39,True,True
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,659871,31.32,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,44409,2.11,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,40623,1.93,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5555,0.26,False,False
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2079086,100.0,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Andrea Campbell,Democratic,,,False,True
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Michael Walsh,Republican,,,False,False
@@ -222,12 +222,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Candidate,Ronald J. Schutz,Republican,1276211.0,45.56,False,False
 2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Write-in,,,4226.0,0.15,False,False
 2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Total,,,,100.0,False,False
-2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Steve Simon,Minnesota Democratic–farmer–labor,1529169.0,54.71,False,True
-2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Tad Jude,Republican,1168649.0,41.81,False,False
-2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,"George ""Chip"" Tangen",Libertarian,54693.0,1.96,False,False
-2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Seth Kuhl-Stennes,Green,41389.0,1.48,False,False
-2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Write-in,,,1291.0,0.05,False,False
-2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Total,,,,100.0,False,False
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Steve Simon,Minnesota Democratic–farmer–labor,1529169,54.71,False,True
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Tad Jude,Republican,1168649,41.81,False,False
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,"George ""Chip"" Tangen",Libertarian,54693,1.96,False,False
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Seth Kuhl-Stennes,Green,41389,1.48,False,False
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Write-in,,,1291,0.05,False,False
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Total,,,2795174,100.0,False,False
 2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Winning,Amy Klobuchar,Minnesota Democratic–farmer–labor,1569698,55.46,True,False
 2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Candidate,Lisa Demuth,Republican,1206583,42.63,False,False
 2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Candidate,Steven Young,Green,51404,1.82,False,False
@@ -294,8 +294,8 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Northern Mariana Islands,MP,governor,2026 Northern Mariana Islands gubernatorial election,Candidate,Blas T. Attao,Independent,5043,38.7,False,False
 2026,Northern Mariana Islands,MP,governor,2026 Northern Mariana Islands gubernatorial election,Candidate,Lawrence F. Camacho,Independent,1537,11.8,False,False
 2026,Northern Mariana Islands,MP,governor,2026 Northern Mariana Islands gubernatorial election,Total,,,13017,100.0,False,False
+2026,Ohio,OH,attorney general,2026 Ohio Attorney General election,Winning,John Kulewicz,Democratic,2285117,50.3,True,False
 2026,Ohio,OH,attorney general,2026 Ohio Attorney General election,Candidate,Keith Faber,Republican,2256710,49.7,False,False
-2026,Ohio,OH,attorney general,2026 Ohio Attorney General election,Candidate,John Kulewicz,Democratic,2285117,50.3,False,False
 2026,Ohio,OH,attorney general,2026 Ohio Attorney General election,Total,,,4541827,100.0,False,False
 2026,Ohio,OH,secretary of state,2026 Ohio Secretary of State election,Winning,Allison Russo,Democratic,2287160,50.25,True,False
 2026,Ohio,OH,secretary of state,2026 Ohio Secretary of State election,Candidate,Robert Sprague,Republican,2129981,46.8,False,False
@@ -308,11 +308,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Vivek Ramaswamy,Republican,2039730,44.38,False,False
 2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Don Kissick,Libertarian,151874,3.3,False,False
 2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Total,,,4595782,100.0,False,False
-2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Winning,Mike Mazzei,Republican,581706,51.93,True,False
-2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Cyndi Munson,Democratic,514342,45.92,False,False
-2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Robert E. Brooks Sr.,Independent,11649,1.04,False,False
-2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Jerry Griffin,Independent,7433,0.66,False,False
-2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Orlando Lynn Bush,Independent,5009,0.45,False,False
+2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Winning,Mike Mazzei,Republican,582039,51.93,True,False
+2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Cyndi Munson,Democratic,514776,45.92,False,False
+2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Robert E. Brooks Sr.,Independent,11660,1.04,False,False
+2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Jerry Griffin,Independent,7441,0.66,False,False
+2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Orlando Lynn Bush,Independent,5014,0.45,False,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Total,,,1120139,,False,False
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Tina Kotek,Democratic,,,False,True
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Christine Drazan,Republican,,,False,False
@@ -327,12 +327,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Total,,,,100.0,False,False
 2026,Rhode Island,RI,secretary of state,2026 Rhode Island Secretary of State election,Winning,Gregg Amore,Democratic,275149,100.0,True,True
 2026,Rhode Island,RI,secretary of state,2026 Rhode Island Secretary of State election,Total,,,275149,100.0,False,False
-2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Helena Buonanno Foulkes,Democratic,,,False,False
-2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Aaron C. Guckian,Republican,,,False,False
-2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Kenneth Block,Independent,,,False,False
-2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Jasjit S. Gotra,Independent,,,False,False
-2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,C.D. Reynolds,Independent,,,False,False
-2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Total,,,,100.0,False,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Winning,Helena Buonanno Foulkes,Democratic,207580,57.71,True,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Kenneth Block,Independent,99828,27.75,False,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Aaron C. Guckian,Republican,47401,13.18,False,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,C.D. Reynolds,Independent,2050,0.57,False,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Jasjit S. Gotra,Independent,1674,0.47,False,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Write-in,,,1148,0.32,False,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Total,,,359681,100.0,False,False
 2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Candidate,David Stumbo,Republican,1058525,52.32,False,False
 2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Candidate,Richard Hricik,Democratic,963645,47.63,False,False
 2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Write-in,,,1132,0.06,False,False

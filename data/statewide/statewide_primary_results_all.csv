@@ -7293,10 +7293,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Iowa,IA,governor,Democratic primary results,Winning,Rob Sand,Democratic,189442,99.6,True,False
 2026,Iowa,IA,governor,Democratic primary results,Write-in,,,751,0.4,False,False
 2026,Iowa,IA,governor,Democratic primary results,Total,,,190193,100.0,False,False
-2026,Kansas,KS,attorney general,Republican primary results,Winning,Kris Kobach,Republican,278204,100.0,True,True
-2026,Kansas,KS,attorney general,Republican primary results,Total,,,278204,100.0,False,False
-2026,Kansas,KS,attorney general,Democratic primary results,Winning,Chris Mann,Democratic,199541,100.0,True,False
-2026,Kansas,KS,attorney general,Democratic primary results,Total,,,199541,100.0,False,False
+2026,Kansas,KS,attorney general,Republican primary results,Winning,Kris Kobach,Republican,280973,100.0,True,True
+2026,Kansas,KS,attorney general,Republican primary results,Total,,,280973,100.0,False,False
+2026,Kansas,KS,attorney general,Democratic primary results,Winning,Chris Mann,Democratic,202358,100.0,True,False
+2026,Kansas,KS,attorney general,Democratic primary results,Total,,,202358,100.0,False,False
 2026,Kansas,KS,secretary of state,Republican primary results,Winning,Pat Proctor,Republican,266853,100.0,True,False
 2026,Kansas,KS,secretary of state,Republican primary results,Total,,,266853,100.0,False,False
 2026,Kansas,KS,secretary of state,Democratic primary results,Winning,Jennifer Day,Democratic,176899,85.3,True,False

@@ -22,8 +22,8 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Florida,FL,governor,David Jolly,Democratic,48.7,False,False
 2026,Georgia,GA,governor,Keisha Lance Bottoms,Democratic,54.3,True,False
 2026,Georgia,GA,governor,Rick Jackson,Republican,45.7,False,False
-2026,Hawaii,HI,governor,Josh Green,Democratic,72.6,True,True
-2026,Hawaii,HI,governor,Gary Cordery,Republican,27.4,False,False
+2026,Hawaii,HI,governor,Josh Green,Democratic,71.2,True,True
+2026,Hawaii,HI,governor,Gary Cordery,Republican,26.8,False,False
 2026,Idaho,ID,governor,Brad Little,Republican,57.1,True,True
 2026,Idaho,ID,governor,Terri Pickens,Democratic,32.3,False,False
 2026,Idaho,ID,governor,John Stegner,Independent,7.6,False,False
@@ -96,9 +96,9 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Vermont,VT,governor,Amanda Janoo,Democratic,45.6,False,False
 2026,Wisconsin,WI,governor,David Crowley,Democratic,54.0,True,False
 2026,Wisconsin,WI,governor,Tom Tiffany,Republican,46.0,False,False
-2026,Wyoming,WY,governor,Eric Barlow,Republican,68.6,True,False
-2026,Wyoming,WY,governor,Rebecca Bextel,Constitution,16.8,False,False
-2026,Wyoming,WY,governor,Kenneth Casner,Democratic,14.7,False,False
+2026,Wyoming,WY,governor,Eric Barlow,Republican,68.1,True,False
+2026,Wyoming,WY,governor,Rebecca Bextel,Constitution,16.7,False,False
+2026,Wyoming,WY,governor,Kenneth Casner,Democratic,14.6,False,False
 2026,District of Columbia,DC,governor,Janeese Lewis George,Democratic,84.0,True,False
 2026,District of Columbia,DC,governor,Rhonda Hamilton,Independent,10.3,False,False
 2026,District of Columbia,DC,governor,Robert Gross,Green,3.6,False,False
