@@ -77,11 +77,11 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Colorado,CO,6,,Jason Crow,Democratic,,100.0,True,False,False
 2026,house,Colorado,CO,7,,Brittany Pettersen,Democratic,,100.0,True,False,False
 2026,house,Colorado,CO,8,,Manny Rutinel,Democratic,,100.0,True,False,False
-2026,house,Connecticut,CT,1,,Luke Bronin,Democratic,,100.0,True,False,False
-2026,house,Connecticut,CT,2,,Joe Courtney,Democratic,,100.0,True,False,False
-2026,house,Connecticut,CT,3,,Rosa DeLauro,Democratic,,100.0,True,False,False
-2026,house,Connecticut,CT,4,,Jim Himes,Democratic,,100.0,True,False,False
-2026,house,Connecticut,CT,5,,Jahana Hayes,Democratic,,100.0,True,False,False
+2026,house,Connecticut,CT,1,253392,Luke Bronin,Democratic,170479,100.0,True,False,False
+2026,house,Connecticut,CT,2,292064,Joe Courtney,Democratic,182381,100.0,True,False,False
+2026,house,Connecticut,CT,3,247131,Rosa DeLauro,Democratic,151261,100.0,True,False,False
+2026,house,Connecticut,CT,4,240138,Jim Himes,Democratic,157485,100.0,True,False,False
+2026,house,Connecticut,CT,5,253066,Jahana Hayes,Democratic,146353,100.0,True,False,False
 2026,house,Delaware,DE,AL,,Sarah McBride,Democratic,,64.3,True,False,False
 2026,house,Delaware,DE,AL,,Joseph Arminio,Republican,,35.6,False,False,False
 2026,house,Florida,FL,1,291010,Jimmy Patronis,Republican,181944,100.0,True,False,False
@@ -237,8 +237,8 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Missouri,MO,6,257824,Chris Stigall,Republican,151219,100.0,True,False,True
 2026,house,Missouri,MO,7,253572,Eric Burlison,Republican,157599,100.0,True,False,False
 2026,house,Missouri,MO,8,225424,Jason Smith,Republican,152677,100.0,True,False,False
-2026,house,Montana,MT,1,262219,Sam Forstag,Democratic,132003,100.0,True,False,True
-2026,house,Montana,MT,2,,Troy Downing,Republican,,100.0,True,False,False
+2026,house,Montana,MT,1,267562,Sam Forstag,Democratic,135096,100.0,True,False,True
+2026,house,Montana,MT,2,220611,Troy Downing,Republican,128188,100.0,True,False,False
 2026,house,Nebraska,NE,1,,Mike Flood,Republican,,100.0,True,False,False
 2026,house,Nebraska,NE,2,253836,Denise Powell,Democratic,143785,100.0,True,False,True
 2026,house,Nebraska,NE,3,,Adrian Smith,Republican,,100.0,True,False,False
@@ -255,7 +255,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,New Jersey,NJ,5,,Josh Gottheimer,Democratic,,100.0,True,False,False
 2026,house,New Jersey,NJ,6,,Frank Pallone,Democratic,,100.0,True,False,False
 2026,house,New Jersey,NJ,7,246308,Rebecca Bennett,Democratic,148433,100.0,True,False,False
-2026,house,New Jersey,NJ,8,,Rob Menendez,Democratic,,100.0,True,False,False
+2026,house,New Jersey,NJ,8,126543,Rob Menendez,Democratic,112079,100.0,True,False,False
 2026,house,New Jersey,NJ,9,,Nellie Pou,Democratic,,100.0,True,False,False
 2026,house,New Jersey,NJ,10,,LaMonica McIver,Democratic,,100.0,True,False,False
 2026,house,New Jersey,NJ,11,,Analilia Mejia,Democratic,,100.0,True,False,False
@@ -439,7 +439,12 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Utah,UT,4,,Jonny Larsen,Democratic,,38.9,False,False,True
 2026,house,Utah,UT,4,,Steven Burt,Independent,,4.3,False,False,True
 2026,house,Utah,UT,4,,Taylor Wright,Libertarian,,3.2,False,False,True
-2026,house,Vermont,VT,AL,304769,Becca Balint,Democratic,198766,100.0,True,False,False
+2026,house,Vermont,VT,AL,304769,Becca Balint,Democratic,198766,65.2,True,False,False
+2026,house,Vermont,VT,AL,304769,Gerald Malloy,Republican,94071,30.9,False,False,False
+2026,house,Vermont,VT,AL,304769,Suz Seymour,Independent,,1.4,False,False,False
+2026,house,Vermont,VT,AL,304769,Ryan Walton,Independent,,0.9,False,False,False
+2026,house,Vermont,VT,AL,304769,Phoenix Altair,Independent,,0.8,False,False,False
+2026,house,Vermont,VT,AL,304769,Adam Ortiz,Independent,2195,0.7,False,False,False
 2026,house,Virginia,VA,1,,Shannon Taylor,Democratic,,100.0,True,False,False
 2026,house,Virginia,VA,2,,Elaine Luria,Democratic,,100.0,True,False,False
 2026,house,Virginia,VA,3,,Bobby Scott,Democratic,,100.0,True,False,False

@@ -4660,7 +4660,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,North Carolina,NC,State Senate,12,general,Richard Chapman,Democratic,20914.0,36.55,False,False
 2022,North Carolina,NC,State Senate,13,general,Lisa Grafstein,Democratic,50937.0,62.34,True,False
 2022,North Carolina,NC,State Senate,13,general,David Bankert,Republican,28001.0,34.27,False,False
-2022,North Carolina,NC,State Senate,13,general,Michael C. Munger,Libertarian,2769.0,3.39,False,False
+2022,North Carolina,NC,State Senate,13,general,Michael Munger,Libertarian,2769.0,3.39,False,False
 2022,North Carolina,NC,State Senate,14,general,Dan Blue,Democratic,45020.0,68.97,True,True
 2022,North Carolina,NC,State Senate,14,general,Chris Baker,Republican,18378.0,28.16,False,False
 2022,North Carolina,NC,State Senate,14,general,Matthew Laszacs,Libertarian,1875.0,2.87,False,False
@@ -7144,8 +7144,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Indiana,IN,State Senate,1,general,Trevor De Vries,Republican,19941.0,42.87,False,False
 2026,Indiana,IN,State Senate,4,general,Rodney Pol Jr.,Democratic,24169.0,61.0,True,True
 2026,Indiana,IN,State Senate,4,general,Nate Uldricks,Republican,15462.0,39.0,False,False
-2026,Indiana,IN,State Senate,6,general,Jay Starkey,Republican,25497.0,56.6,True,False
-2026,Indiana,IN,State Senate,6,general,Kate-Lynn Holley,Democratic,19547.0,43.4,False,False
+2026,Indiana,IN,State Senate,6,general,Jay Starkey,Republican,25623.0,56.7,True,False
+2026,Indiana,IN,State Senate,6,general,Kate-Lynn Holley,Democratic,19583.0,43.3,False,False
 2026,Indiana,IN,State Senate,11,general,Gabrianna Gratzol,Democratic,19450.0,51.4,True,False
 2026,Indiana,IN,State Senate,11,general,Brian Schmutzler,Republican,18381.0,48.6,False,False
 2026,Indiana,IN,State Senate,14,general,Tyler Johnson,Republican,16297.0,53.9,True,True
@@ -7611,7 +7611,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,North Carolina,NC,State Senate,1,general,Jerry Tillett,Republican,43074,52.01,True,False
 2026,North Carolina,NC,State Senate,1,general,Melissa Zehner,Democratic,39745,47.99,False,False
 2026,North Carolina,NC,State Senate,2,general,Norman Sanderson,Republican,47316,53.75,True,True
-2026,North Carolina,NC,State Senate,2,general,Roy Surrett,Democratic,40710,46.25,False,False
+2026,North Carolina,NC,State Senate,2,general,Roy Surrett,Democratic,40711,46.25,False,False
 2026,North Carolina,NC,State Senate,3,general,Bob Brinson,Republican,44494,54.92,True,True
 2026,North Carolina,NC,State Senate,3,general,Charles Dudley,Democratic,36526,45.08,False,False
 2026,North Carolina,NC,State Senate,4,general,Jess Rivera,Democratic,37832,51.17,True,False
@@ -7625,11 +7625,11 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,North Carolina,NC,State Senate,8,general,Bill Rabon,Republican,59591,52.15,True,True
 2026,North Carolina,NC,State Senate,8,general,Richard Combes,Democratic,52156,45.65,False,False
 2026,North Carolina,NC,State Senate,8,general,Tim White,Libertarian,2516,2.2,False,False
-2026,North Carolina,NC,State Senate,9,general,Brent Jackson,Republican,48596,100.0,True,True
-2026,North Carolina,NC,State Senate,10,general,Benton Sawrey,Republican,43994,49.64,True,True
-2026,North Carolina,NC,State Senate,10,general,Pat LeGrand,Democratic,42841,48.34,False,False
-2026,North Carolina,NC,State Senate,10,general,Kevin Terrett,Libertarian,1790,2.02,False,False
-2026,North Carolina,NC,State Senate,11,general,James Gailliard,Democratic,45647,51.46,True,False
+2026,North Carolina,NC,State Senate,9,general,Brent Jackson,Republican,48599,100.0,True,True
+2026,North Carolina,NC,State Senate,10,general,Benton Sawrey,Republican,44011,49.63,True,True
+2026,North Carolina,NC,State Senate,10,general,Pat LeGrand,Democratic,42879,48.35,False,False
+2026,North Carolina,NC,State Senate,10,general,Kevin Terrett,Libertarian,1791,2.02,False,False
+2026,North Carolina,NC,State Senate,11,general,James Gailliard,Democratic,45648,51.46,True,False
 2026,North Carolina,NC,State Senate,11,general,Lisa Stone Barnes,Republican,40967,46.19,False,True
 2026,North Carolina,NC,State Senate,11,general,Gavin Bell,Libertarian,2085,2.35,False,False
 2026,North Carolina,NC,State Senate,12,general,Jim Burgin,Republican,35025,51.72,True,True
@@ -7649,7 +7649,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,North Carolina,NC,State Senate,18,general,Haseeb Fatmi,Democratic,54365,54.81,True,True
 2026,North Carolina,NC,State Senate,18,general,Chris Stock,Republican,42404,42.75,False,False
 2026,North Carolina,NC,State Senate,18,general,Brad Hessel,Libertarian,2414,2.43,False,False
-2026,North Carolina,NC,State Senate,19,general,Val Applewhite,Democratic,45730,73.6,True,True
+2026,North Carolina,NC,State Senate,19,general,Val Applewhite,Democratic,45731,73.6,True,True
 2026,North Carolina,NC,State Senate,19,general,Venus de la Cruz,Republican,16406,26.4,False,False
 2026,North Carolina,NC,State Senate,20,general,Natalie Murdock,Democratic,85823,100.0,True,True
 2026,North Carolina,NC,State Senate,21,general,Tom McInnis,Republican,42087,54.36,True,True
@@ -7703,8 +7703,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,North Carolina,NC,State Senate,46,general,Kyle Whisnant,Democratic,33395,43.85,False,False
 2026,North Carolina,NC,State Senate,47,general,Ralph Hise,Republican,48756,55.5,True,True
 2026,North Carolina,NC,State Senate,47,general,Frank Patton Hughes III,Democratic,39098,44.5,False,False
-2026,North Carolina,NC,State Senate,48,general,Tim Moffitt,Republican,49472,55.21,True,True
-2026,North Carolina,NC,State Senate,48,general,Doyle Brown Jr.,Democratic,40134,44.79,False,False
+2026,North Carolina,NC,State Senate,48,general,Tim Moffitt,Republican,49468,55.21,True,True
+2026,North Carolina,NC,State Senate,48,general,Doyle Brown Jr.,Democratic,40131,44.79,False,False
 2026,North Carolina,NC,State Senate,49,general,Julie Mayfield,Democratic,77482,77.15,True,True
 2026,North Carolina,NC,State Senate,49,general,CJ Domingo,Republican,22953,22.85,False,False
 2026,North Carolina,NC,State Senate,50,general,Kevin Corbin,Republican,55528,58.17,True,True
@@ -7800,54 +7800,54 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Oregon,OR,State Senate,24,general,TBD,Republican,,,False,False
 2026,Oregon,OR,State Senate,26,general,Jeff Helfrich,Republican,,,True,False
 2026,Oregon,OR,State Senate,26,general,Nicole Bassett,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,special general,James Andrew Malone,Democratic,27034.0,49.99,False,False
-2026,Pennsylvania,PA,State Senate,36,special general,Josh Parsons,Republican,26508.0,49.02,False,False
-2026,Pennsylvania,PA,State Senate,36,special general,Zachary Moore,Libertarian,483.0,0.89,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Christine Tartaglione,Democratic,,,True,False
-2026,Pennsylvania,PA,State Senate,36,general,Art Haywood,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Todd Johnson,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Eileen Albillar,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Frank Farry,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Anthony H. Williams,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Steve Santarsiero,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Gregory J. Bankos Jr.,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Maria Collett,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Robert F. Costello III,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Nick Miller,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Omy Juriel Maldonado,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Mark Pinsley,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Jarrett Coleman,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Lisa Boscola,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Scott Janney,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Lisa Baker,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Jackie Baker,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Marty Flynn,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Sharon Soltis,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Christopher Thomas,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Tracy Pennycuick,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Michael Schonewolf Jr,Green,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Tim Kearney,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Gail Scott,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Kristin Phillips-Hill,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Thomas Johnson,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Judy Ward,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Sean Steeg,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Patrick J. Stefano,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Greg Rothman,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Nathan Wood,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Tom Jones,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,James Malone,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Lindsey Williams,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Thomas West,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Brian Wrightson,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Rosemary Brown,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Wayne D. Fontana,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Katie Muth,Democratic,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Melissa C. Dicranian,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Camera C. Bartolotta,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Jodie Borello,Independent,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Chris Gebhard,Republican,,,False,False
-2026,Pennsylvania,PA,State Senate,36,general,Michele Brooks,Republican,,,False,False
+2026,Pennsylvania,PA,State Senate,36,special general,James Andrew Malone,Democratic,27034,49.99,False,False
+2026,Pennsylvania,PA,State Senate,36,special general,Josh Parsons,Republican,26508,49.02,False,False
+2026,Pennsylvania,PA,State Senate,36,special general,Zachary Moore,Libertarian,483,0.89,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Christine Tartaglione,Democratic,38998,100.0,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Art Haywood,Democratic,103620,88.2,True,False
+2026,Pennsylvania,PA,State Senate,36,general,Todd Johnson,Republican,13827,11.8,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Eileen Albillar,Democratic,61771,51.1,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Frank Farry,Republican,59146,48.9,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Anthony H. Williams,Democratic,74460,100.0,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Steve Santarsiero,Democratic,82221,64.2,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Gregory J. Bankos Jr.,Republican,45832,35.8,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Maria Collett,Democratic,81902,66.2,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Robert F. Costello III,Republican,41721,33.8,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Nick Miller,Democratic,54741,62.5,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Omy Juriel Maldonado,Republican,32833,37.5,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Mark Pinsley,Democratic,63536,51.3,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Jarrett Coleman,Republican,60315,48.7,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Lisa Boscola,Democratic,67988,65.0,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Scott Janney,Republican,36607,35.0,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Lisa Baker,Republican,65910,61.4,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Jackie Baker,Democratic,41518,38.6,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Marty Flynn,Democratic,58460,65.6,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Sharon Soltis,Republican,30610,34.4,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Christopher Thomas,Democratic,63073,54.3,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Tracy Pennycuick,Republican,50875,43.8,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Michael Schonewolf Jr,Green,2134,1.8,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Tim Kearney,Democratic,70646,68.5,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Gail Scott,Republican,32424,31.5,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Kristin Phillips-Hill,Republican,65546,61.4,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Thomas Johnson,Democratic,41136,38.6,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Judy Ward,Republican,63357,72.3,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Sean Steeg,Democratic,24263,27.7,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Patrick J. Stefano,Republican,60512,70.8,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Greg Rothman,Republican,65030,56.9,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Nathan Wood,Democratic,49351,43.1,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Tom Jones,Republican,65325,54.5,False,False
+2026,Pennsylvania,PA,State Senate,36,general,James Malone,Democratic,54579,45.5,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Lindsey Williams,Democratic,73941,63.7,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Thomas West,Republican,42100,36.3,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Brian Wrightson,Democratic,50549,51.5,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Rosemary Brown,Republican,47540,48.5,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Wayne D. Fontana,Democratic,83109,100.0,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Katie Muth,Democratic,77790,64.3,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Melissa C. Dicranian,Republican,43141,35.7,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Camera C. Bartolotta,Republican,50400,56.0,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Jodie Borello,Independent,39621,44.0,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Chris Gebhard,Republican,61192,62.0,False,False
+2026,Pennsylvania,PA,State Senate,36,general,Michele Brooks,Republican,59708,64.2,False,False
 2026,Rhode Island,RI,State Senate,4,general,Stefano Famiglietti,Democratic,1706.0,83.02,True,True
 2026,Rhode Island,RI,State Senate,4,general,Alex Asermely,Republican,333.0,16.2,False,False
 2026,Rhode Island,RI,State Senate,1,general,Jake Bissaillon,Democratic,,,True,True

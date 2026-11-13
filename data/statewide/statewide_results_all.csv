@@ -3112,10 +3112,10 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2025,Virginia,VA,governor,Winsome Earle-Sears,Republican,42.2,False,False
 2026,Alabama,AL,governor,Tommy Tuberville,Republican,52.0,True,False
 2026,Alabama,AL,governor,Doug Jones,Democratic,48.0,False,False
-2026,Alaska,AK,governor,Jonathan Kreiss-Tomkins,Democratic,49.1,False,False
-2026,Alaska,AK,governor,Bernadette Wilson,Republican,29.2,False,False
-2026,Alaska,AK,governor,Dave Bronson,Republican,14.2,False,False
-2026,Alaska,AK,governor,Treg Taylor,Republican,7.5,False,False
+2026,Alaska,AK,governor,Jonathan Kreiss-Tomkins,Democratic,50.2,True,False
+2026,Alaska,AK,governor,Bernadette Wilson,Republican,28.7,False,False
+2026,Alaska,AK,governor,Dave Bronson,Republican,13.8,False,False
+2026,Alaska,AK,governor,Treg Taylor,Republican,7.3,False,False
 2026,Arizona,AZ,governor,Katie Hobbs,Democratic,55.4,True,True
 2026,Arizona,AZ,governor,Andy Biggs,Republican,42.8,False,False
 2026,Arizona,AZ,governor,Risa Lombardo,Green,0.9,False,False
@@ -3145,7 +3145,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Illinois,IL,governor,Collin Corbett,Independent,3.4,False,False
 2026,Iowa,IA,governor,Rob Sand,Democratic,55.5,True,False
 2026,Iowa,IA,governor,Zach Lahn,Republican,44.5,False,False
-2026,Kansas,KS,governor,Cindy Holscher,Democratic,50.3,False,False
+2026,Kansas,KS,governor,Cindy Holscher,Democratic,50.3,True,False
 2026,Kansas,KS,governor,Ty Masterson,Republican,49.7,False,False
 2026,Maine,ME,governor,Hannah Pingree,Democratic,54.5,True,False
 2026,Maine,ME,governor,Robert B. Charles,Republican,37.4,False,False

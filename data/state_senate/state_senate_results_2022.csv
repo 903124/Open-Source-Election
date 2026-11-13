@@ -1236,7 +1236,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,North Carolina,NC,State Senate,12,general,Richard Chapman,Democratic,20914.0,36.55,False,False
 2022,North Carolina,NC,State Senate,13,general,Lisa Grafstein,Democratic,50937.0,62.34,True,False
 2022,North Carolina,NC,State Senate,13,general,David Bankert,Republican,28001.0,34.27,False,False
-2022,North Carolina,NC,State Senate,13,general,Michael C. Munger,Libertarian,2769.0,3.39,False,False
+2022,North Carolina,NC,State Senate,13,general,Michael Munger,Libertarian,2769.0,3.39,False,False
 2022,North Carolina,NC,State Senate,14,general,Dan Blue,Democratic,45020.0,68.97,True,True
 2022,North Carolina,NC,State Senate,14,general,Chris Baker,Republican,18378.0,28.16,False,False
 2022,North Carolina,NC,State Senate,14,general,Matthew Laszacs,Libertarian,1875.0,2.87,False,False

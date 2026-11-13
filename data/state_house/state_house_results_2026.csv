@@ -593,6 +593,61 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Georgia,GA,State House,80,general,Brian Anderson,Republican,7695,33.8,False,False
 2026,Georgia,GA,State House,81,general,Mishael White,Democratic,14773,53.8,True,False
 2026,Georgia,GA,State House,81,general,Noelle Kahaian,Republican,12689,46.2,False,True
+2026,Georgia,GA,State House,82,general,Karen Mathiak,Republican,15294,56.0,True,True
+2026,Georgia,GA,State House,82,general,Anthony Dickson,Democratic,12023,44.0,False,False
+2026,Georgia,GA,State House,83,general,Karen Lupton,Democratic,14200,71.8,True,True
+2026,Georgia,GA,State House,83,general,James Smith,Republican,5575,28.2,False,False
+2026,Georgia,GA,State House,84,general,Mary Margaret Oliver,Democratic,26622,100.0,True,True
+2026,Georgia,GA,State House,85,general,Karla Drenner,Democratic,20216,90.4,True,True
+2026,Georgia,GA,State House,85,general,Tyion Fields,Republican,2139,9.6,False,False
+2026,Georgia,GA,State House,86,general,Imani Barnes,Democratic,20155,100.0,True,True
+2026,Georgia,GA,State House,87,general,Viola Davis,Democratic,19322,83.2,True,True
+2026,Georgia,GA,State House,87,general,Timothy Burson,Republican,3910,16.8,False,False
+2026,Georgia,GA,State House,88,general,Billy Mitchell,Democratic,19488,86.4,True,True
+2026,Georgia,GA,State House,88,general,William Freeman,Republican,3080,13.6,False,False
+2026,Georgia,GA,State House,89,general,Omari Crawford,Democratic,27601,100.0,True,True
+2026,Georgia,GA,State House,90,general,Bentley Hudgins,Democratic,27942,92.5,True,False
+2026,Georgia,GA,State House,90,general,Samantha Boston,Republican,2280,7.5,False,False
+2026,Georgia,GA,State House,91,general,Angela Moore,Democratic,22765,100.0,True,True
+2026,Georgia,GA,State House,92,general,Rhonda Taylor,Democratic,22549,100.0,True,True
+2026,Georgia,GA,State House,93,general,Doreen Carter,Democratic,20584,100.0,True,True
+2026,Georgia,GA,State House,94,general,Venola Mason,Democratic,23274,100.0,True,True
+2026,Georgia,GA,State House,95,general,Dar'shun Kendrick,Democratic,20748,87.1,True,True
+2026,Georgia,GA,State House,95,general,Reggie Hall,Republican,3079,12.9,False,False
+2026,Georgia,GA,State House,96,general,Arlene Beckles,Democratic,12167,100.0,True,True
+2026,Georgia,GA,State House,97,general,Jyot Singh,Democratic,13828,68.0,True,False
+2026,Georgia,GA,State House,97,general,Yassin Moghazy,Republican,6512,32.0,False,False
+2026,Georgia,GA,State House,98,general,Marvin Lim,Democratic,8176,100.0,True,True
+2026,Georgia,GA,State House,99,general,Michelle Kang,Democratic,13703,58.5,True,False
+2026,Georgia,GA,State House,99,general,Matt Reeves,Republican,9739,41.5,False,True
+2026,Georgia,GA,State House,100,general,Josh Clark,Republican,12990,52.5,True,False
+2026,Georgia,GA,State House,100,general,Jennifer Ambler,Democratic,11774,47.5,False,False
+2026,Georgia,GA,State House,101,general,Scott Holcomb,Democratic,18022,78.6,True,True
+2026,Georgia,GA,State House,101,general,Jennifer Hutchison,Republican,4920,21.4,False,False
+2026,Georgia,GA,State House,102,general,Gabe Okoye,Democratic,16649,100.0,True,True
+2026,Georgia,GA,State House,103,general,Chris Luchey,Democratic,12016,50.1,True,False
+2026,Georgia,GA,State House,103,general,Soo Hong,Republican,11981,49.9,False,True
+2026,Georgia,GA,State House,104,general,Chuck Efstration,Republican,17893,100.0,True,False
+2026,Georgia,GA,State House,105,general,Farooq Mughal,Democratic,15250,60.7,True,False
+2026,Georgia,GA,State House,105,general,Sandy Donatucci,Republican,9854,39.3,False,True
+2026,Georgia,GA,State House,106,general,Akbar Ali,Democratic,16635,100.0,True,True
+2026,Georgia,GA,State House,107,general,Sam Park,Democratic,14794,70.9,True,True
+2026,Georgia,GA,State House,107,general,Murray Berkowitz,Republican,6059,29.1,False,False
+2026,Georgia,GA,State House,108,general,Rahim Asani,Democratic,15147,62.8,True,False
+2026,Georgia,GA,State House,108,general,Elvia Davila,Republican,8989,37.2,False,False
+2026,Georgia,GA,State House,109,general,Juan Estrada,Democratic,10666,100.0,True,False
+2026,Georgia,GA,State House,110,general,Segun Adeyina,Democratic,21703,75.6,True,True
+2026,Georgia,GA,State House,110,general,Charles Lollar,Republican,6993,24.4,False,False
+2026,Georgia,GA,State House,111,general,Reynaldo Martinez,Republican,14175,51.0,True,True
+2026,Georgia,GA,State House,111,general,Scott Jackson,Democratic,13642,49.0,False,False
+2026,Georgia,GA,State House,112,general,Bruce Williamson,Republican,16883,63.8,True,True
+2026,Georgia,GA,State House,112,general,Lisa Maria,Democratic,9559,36.2,False,False
+2026,Georgia,GA,State House,113,general,Karla Hooper,Democratic,19455,80.5,True,False
+2026,Georgia,GA,State House,113,general,Don Scarbrough,Republican,4719,19.5,False,False
+2026,Georgia,GA,State House,114,general,Brett Mauldin,Republican,18695,64.7,True,False
+2026,Georgia,GA,State House,114,general,Michael Caw,Democratic,10201,35.3,False,False
+2026,Georgia,GA,State House,115,general,Regina Lewis-Ward,Democratic,27109,88.2,True,True
+2026,Georgia,GA,State House,115,general,Darius Francis,Republican,3629,11.8,False,False
 2026,Indiana,IN,State House,4,general,Ryan Kominakis,Democratic,13638.0,54.1,True,False
 2026,Indiana,IN,State House,4,general,Edmond Soliday,Republican,10416.0,41.3,False,True
 2026,Indiana,IN,State House,4,general,Travis Gearhart,Libertarian,1153.0,4.6,False,False
@@ -1429,192 +1484,192 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Minnesota,MN,State House,67B,special general,Dan Walsh,Republican,254,4.36,False,False
 2026,Montana,MT,State House,1,general,Michelle Bianco,Republican,4476,76.12,True,False
 2026,Montana,MT,State House,1,general,Dakota Adams,Democratic,1404,23.88,False,False
-2026,Montana,MT,State House,2,general,Tom Millett,Republican,3746,75.25,True,True
-2026,Montana,MT,State House,2,general,Jane Maahs,Democratic,1232,24.75,False,False
-2026,Montana,MT,State House,3,general,Debo Powers,Democratic,3304,54.57,True,True
-2026,Montana,MT,State House,3,general,Derek Peachey,Republican,2751,45.43,False,False
-2026,Montana,MT,State House,4,general,Paula Koch,Democratic,2748,54.57,True,False
-2026,Montana,MT,State House,4,general,Shaun Pandina,Republican,2288,45.43,False,False
-2026,Montana,MT,State House,5,general,Braxton Mitchell,Republican,3731,70.81,True,True
-2026,Montana,MT,State House,5,general,Luca Welle,Democratic,1538,29.19,False,False
-2026,Montana,MT,State House,6,general,Jim Riley,Republican,3991,63.21,True,False
-2026,Montana,MT,State House,6,general,Darren Fix,Democratic,2323,36.79,False,False
-2026,Montana,MT,State House,7,general,Courtenay Sprunger,Republican,2151,55.81,True,True
-2026,Montana,MT,State House,7,general,Madison Evans,Democratic,1703,44.19,False,False
-2026,Montana,MT,State House,8,general,Lukas Schubert,Republican,3089,67.09,True,True
-2026,Montana,MT,State House,8,general,Calvin Lime,Democratic,1515,32.91,False,False
-2026,Montana,MT,State House,9,general,Steven Kelly,Republican,3662,69.15,True,True
-2026,Montana,MT,State House,9,general,Kate McLaughlin,Democratic,1634,30.85,False,False
-2026,Montana,MT,State House,10,general,Terry Falk,Republican,3226,68.42,True,True
-2026,Montana,MT,State House,10,general,Catherine Allen,Democratic,1489,31.58,False,False
-2026,Montana,MT,State House,11,general,Ed Byrne,Republican,4449,75.32,True,True
-2026,Montana,MT,State House,11,general,Maeve Kintzler,Democratic,1458,24.68,False,False
-2026,Montana,MT,State House,12,general,Tracy Sharp,Republican,4128,66.09,True,True
-2026,Montana,MT,State House,12,general,Cindy Bruckner,Democratic,2118,33.91,False,False
-2026,Montana,MT,State House,13,general,Finley Warden,Republican,2757,54.78,True,False
-2026,Montana,MT,State House,13,general,Dalton Bradford,Democratic,2276,45.22,False,False
-2026,Montana,MT,State House,14,general,Paul Fielder,Republican,4166,73.59,True,True
-2026,Montana,MT,State House,14,general,Colleen Hinds,Democratic,1495,26.41,False,False
-2026,Montana,MT,State House,15,general,Thedis Crowe,Democratic,1866,59.28,True,True
-2026,Montana,MT,State House,15,general,Ralph Foster,Republican,1282,40.72,False,False
-2026,Montana,MT,State House,16,general,Lona Running Wolf,Democratic,2473,100.0,True,False
-2026,Montana,MT,State House,17,general,Justin Cleveland,Republican,3721,70.09,True,False
-2026,Montana,MT,State House,17,general,Chris Bechtold,Democratic,1588,29.91,False,False
-2026,Montana,MT,State House,18,general,Bruce Gillespie,Republican,3688,100.0,True,False
+2026,Montana,MT,State House,2,general,Tom Millett,Republican,3763,75.32,True,True
+2026,Montana,MT,State House,2,general,Jane Maahs,Democratic,1233,24.68,False,False
+2026,Montana,MT,State House,3,general,Debo Powers,Democratic,3431,54.63,True,True
+2026,Montana,MT,State House,3,general,Derek Peachey,Republican,2849,45.37,False,False
+2026,Montana,MT,State House,4,general,Paula Koch,Democratic,2797,54.5,True,False
+2026,Montana,MT,State House,4,general,Shaun Pandina,Republican,2335,45.5,False,False
+2026,Montana,MT,State House,5,general,Braxton Mitchell,Republican,3790,70.74,True,True
+2026,Montana,MT,State House,5,general,Luca Welle,Democratic,1568,29.26,False,False
+2026,Montana,MT,State House,6,general,Jim Riley,Republican,4091,63.32,True,False
+2026,Montana,MT,State House,6,general,Darren Fix,Democratic,2370,36.68,False,False
+2026,Montana,MT,State House,7,general,Courtenay Sprunger,Republican,2195,55.77,True,True
+2026,Montana,MT,State House,7,general,Madison Evans,Democratic,1741,44.23,False,False
+2026,Montana,MT,State House,8,general,Lukas Schubert,Republican,3135,67.14,True,True
+2026,Montana,MT,State House,8,general,Calvin Lime,Democratic,1534,32.86,False,False
+2026,Montana,MT,State House,9,general,Steven Kelly,Republican,3730,69.29,True,True
+2026,Montana,MT,State House,9,general,Kate McLaughlin,Democratic,1653,30.71,False,False
+2026,Montana,MT,State House,10,general,Terry Falk,Republican,3288,68.54,True,True
+2026,Montana,MT,State House,10,general,Catherine Allen,Democratic,1509,31.46,False,False
+2026,Montana,MT,State House,11,general,Ed Byrne,Republican,4510,75.35,True,True
+2026,Montana,MT,State House,11,general,Maeve Kintzler,Democratic,1475,24.64,False,False
+2026,Montana,MT,State House,12,general,Tracy Sharp,Republican,4200,66.0,True,True
+2026,Montana,MT,State House,12,general,Cindy Bruckner,Democratic,2164,34.0,False,False
+2026,Montana,MT,State House,13,general,Finley Warden,Republican,2780,54.64,True,False
+2026,Montana,MT,State House,13,general,Dalton Bradford,Democratic,2308,45.36,False,False
+2026,Montana,MT,State House,14,general,Paul Fielder,Republican,4225,73.61,True,True
+2026,Montana,MT,State House,14,general,Colleen Hinds,Democratic,1515,26.39,False,False
+2026,Montana,MT,State House,15,general,Thedis Crowe,Democratic,1910,59.32,True,True
+2026,Montana,MT,State House,15,general,Ralph Foster,Republican,1310,40.68,False,False
+2026,Montana,MT,State House,16,general,Lona Running Wolf,Democratic,2546,100.0,True,False
+2026,Montana,MT,State House,17,general,Justin Cleveland,Republican,3751,70.03,True,False
+2026,Montana,MT,State House,17,general,Chris Bechtold,Democratic,1605,29.97,False,False
+2026,Montana,MT,State House,18,general,Bruce Gillespie,Republican,3708,100.0,True,False
 2026,Montana,MT,State House,19,general,Jane Weber,Democratic,1657,64.18,True,True
 2026,Montana,MT,State House,19,general,Hannah Trebas,Republican,925,35.82,False,False
-2026,Montana,MT,State House,20,general,Steve Keller,Democratic,1986,50.59,True,False
-2026,Montana,MT,State House,20,general,Melissa Nikolakakos,Republican,1940,49.41,False,True
-2026,Montana,MT,State House,21,general,Trevor Funseth,Republican,2510,58.26,True,False
-2026,Montana,MT,State House,21,general,Lela Graham,Democratic,1798,41.74,False,False
+2026,Montana,MT,State House,20,general,Steve Keller,Democratic,1988,50.61,True,False
+2026,Montana,MT,State House,20,general,Melissa Nikolakakos,Republican,1940,49.39,False,True
+2026,Montana,MT,State House,21,general,Trevor Funseth,Republican,2511,58.27,True,False
+2026,Montana,MT,State House,21,general,Lela Graham,Democratic,1798,41.73,False,False
 2026,Montana,MT,State House,22,general,Jason Lorang,Republican,1325,53.62,True,False
 2026,Montana,MT,State House,22,general,Neal Miller,Democratic,1146,46.38,False,False
-2026,Montana,MT,State House,23,general,Eric Tilleman,Republican,1847,51.41,True,True
-2026,Montana,MT,State House,23,general,Rebecca Bogden-Richards,Democratic,1746,48.59,False,False
+2026,Montana,MT,State House,23,general,Eric Tilleman,Republican,1848,51.42,True,True
+2026,Montana,MT,State House,23,general,Rebecca Bogden-Richards,Democratic,1746,48.58,False,False
 2026,Montana,MT,State House,24,general,Steve Fitzpatrick,Republican,2355,58.29,True,True
 2026,Montana,MT,State House,24,general,Pam Carroll,Democratic,1685,41.71,False,False
-2026,Montana,MT,State House,25,general,Steve Gist,Republican,2988,70.62,True,True
-2026,Montana,MT,State House,25,general,Jerry Ferderer,Democratic,1243,29.38,False,False
-2026,Montana,MT,State House,26,general,Russ Miner,Republican,3578,69.46,True,True
-2026,Montana,MT,State House,26,general,Paul Jefferson,Democratic,1573,30.54,False,False
-2026,Montana,MT,State House,27,general,Paul Tuss,Democratic,2141,66.97,True,True
-2026,Montana,MT,State House,27,general,Jordan Ophus,Libertarian,1056,33.03,False,False
-2026,Montana,MT,State House,28,general,Chisholm Christensen,Republican,3638,100.0,True,False
-2026,Montana,MT,State House,29,general,Valerie Moore,Republican,3655,79.3,True,True
-2026,Montana,MT,State House,29,general,Tess Fahlgren,Democratic,954,20.7,False,False
-2026,Montana,MT,State House,30,general,Morgan Thiel,Republican,2743,81.95,True,True
-2026,Montana,MT,State House,30,general,Jason Boeshore,Democratic,604,18.05,False,False
-2026,Montana,MT,State House,31,general,Natalie O'Neal,Democratic,1721,100.0,True,False
-2026,Montana,MT,State House,32,general,Mike Fox,Democratic,1823,100.0,True,True
-2026,Montana,MT,State House,33,general,Brandon Ler,Republican,3098,77.06,True,True
-2026,Montana,MT,State House,33,general,Tristan Veverka,Democratic,922,22.94,False,False
-2026,Montana,MT,State House,34,general,Jerry Schillinger,Republican,4386,86.9,True,True
-2026,Montana,MT,State House,34,general,Jasmine Erickson,Democratic,661,13.1,False,False
-2026,Montana,MT,State House,35,general,Gary Parry,Republican,3801,80.62,True,True
-2026,Montana,MT,State House,35,general,Natalie Parker,Democratic,914,19.38,False,False
-2026,Montana,MT,State House,36,general,Ty Linger,Republican,2749,73.0,True,False
-2026,Montana,MT,State House,36,general,Benjamin Keyes,Democratic,1017,27.0,False,False
+2026,Montana,MT,State House,25,general,Steve Gist,Republican,3017,70.72,True,True
+2026,Montana,MT,State House,25,general,Jerry Ferderer,Democratic,1249,29.28,False,False
+2026,Montana,MT,State House,26,general,Russ Miner,Republican,3579,69.47,True,True
+2026,Montana,MT,State House,26,general,Paul Jefferson,Democratic,1573,30.53,False,False
+2026,Montana,MT,State House,27,general,Paul Tuss,Democratic,2157,66.9,True,True
+2026,Montana,MT,State House,27,general,Jordan Ophus,Libertarian,1067,33.1,False,False
+2026,Montana,MT,State House,28,general,Chisholm Christensen,Republican,3649,100.0,True,False
+2026,Montana,MT,State House,29,general,Valerie Moore,Republican,3661,79.29,True,True
+2026,Montana,MT,State House,29,general,Tess Fahlgren,Democratic,956,20.71,False,False
+2026,Montana,MT,State House,30,general,Morgan Thiel,Republican,2769,81.95,True,True
+2026,Montana,MT,State House,30,general,Jason Boeshore,Democratic,610,18.05,False,False
+2026,Montana,MT,State House,31,general,Natalie O'Neal,Democratic,1724,100.0,True,False
+2026,Montana,MT,State House,32,general,Mike Fox,Democratic,1941,100.0,True,True
+2026,Montana,MT,State House,33,general,Brandon Ler,Republican,3109,77.13,True,True
+2026,Montana,MT,State House,33,general,Tristan Veverka,Democratic,922,22.87,False,False
+2026,Montana,MT,State House,34,general,Jerry Schillinger,Republican,4391,86.88,True,True
+2026,Montana,MT,State House,34,general,Jasmine Erickson,Democratic,663,13.12,False,False
+2026,Montana,MT,State House,35,general,Gary Parry,Republican,3823,80.6,True,True
+2026,Montana,MT,State House,35,general,Natalie Parker,Democratic,920,19.4,False,False
+2026,Montana,MT,State House,36,general,Ty Linger,Republican,2766,73.06,True,False
+2026,Montana,MT,State House,36,general,Benjamin Keyes,Democratic,1020,26.94,False,False
 2026,Montana,MT,State House,37,general,Shane Klakken,Republican,3810,74.28,True,True
 2026,Montana,MT,State House,37,general,Tracey Miller Karcher,Democratic,1319,25.72,False,False
-2026,Montana,MT,State House,38,general,Greg Oblander,Republican,4563,100.0,True,True
-2026,Montana,MT,State House,39,general,Kerri Seekins-Crowe,Republican,2264,61.21,True,True
-2026,Montana,MT,State House,39,general,Melissa Smith,Democratic,1435,38.79,False,False
-2026,Montana,MT,State House,40,general,Mike Vinton,Republican,2604,70.0,True,True
-2026,Montana,MT,State House,40,general,Gabriel Bradshaw,Democratic,1116,30.0,False,False
-2026,Montana,MT,State House,41,general,Jade Sooktis,Democratic,1654,100.0,True,True
-2026,Montana,MT,State House,42,general,Sidney Fitzpatrick,Democratic,1616,54.78,True,True
-2026,Montana,MT,State House,42,general,Jeremiah Jabs,Republican,1334,45.22,False,False
-2026,Montana,MT,State House,43,general,Larry Brewster,Republican,2114,58.77,True,True
-2026,Montana,MT,State House,43,general,Rudolf Haden,Democratic,1483,41.23,False,False
-2026,Montana,MT,State House,44,general,Katie Zolnikov,Republican,2770,62.66,True,True
-2026,Montana,MT,State House,44,general,Mike Eaton,Democratic,1651,37.34,False,False
-2026,Montana,MT,State House,45,general,Denise Baum,Democratic,2391,58.89,True,True
-2026,Montana,MT,State House,45,general,Bryce Walston,Republican,1669,41.11,False,False
-2026,Montana,MT,State House,46,general,Denise Joy,Democratic,2142,57.32,True,True
-2026,Montana,MT,State House,46,general,Kim Welzenbach,Republican,1590,42.55,False,False
-2026,Montana,MT,State House,47,general,James Reavis,Democratic,1590,60.66,True,True
-2026,Montana,MT,State House,47,general,John Maxwell,Republican,1031,39.34,False,False
-2026,Montana,MT,State House,48,general,Curtis Schomer,Republican,1748,50.46,True,True
-2026,Montana,MT,State House,48,general,Tucker Colvin,Democratic,1716,49.54,False,False
-2026,Montana,MT,State House,49,general,Charlie Loveridge,Republican,2080,54.42,True,False
-2026,Montana,MT,State House,49,general,Rebecca Noell,Democratic,1742,45.58,False,False
-2026,Montana,MT,State House,50,general,Stewart Harris,Republican,3001,61.86,True,False
-2026,Montana,MT,State House,50,general,Mark Peters,Democratic,1850,38.14,False,False
-2026,Montana,MT,State House,51,general,Jodee Etchart,Republican,2537,57.61,True,True
-2026,Montana,MT,State House,51,general,Precious McKenzie,Democratic,1867,42.39,False,False
-2026,Montana,MT,State House,52,general,Stacy Zinn,Republican,3513,61.81,True,True
-2026,Montana,MT,State House,52,general,Elizabeth Heald,Democratic,2171,38.19,False,False
-2026,Montana,MT,State House,53,general,Troy Charbonneau,Republican,3624,72.23,True,False
-2026,Montana,MT,State House,53,general,Matthew Hankins,Democratic,1393,27.77,False,False
-2026,Montana,MT,State House,54,general,Lee Deming,Republican,2570,68.62,True,True
-2026,Montana,MT,State House,54,general,Janine Coole,Democratic,1175,31.38,False,False
-2026,Montana,MT,State House,55,general,Brad Barker,Republican,4125,69.04,True,True
-2026,Montana,MT,State House,55,general,Richard Gessling,Democratic,1850,30.96,False,False
-2026,Montana,MT,State House,56,general,Fiona Nave,Republican,4563,100.0,True,True
-2026,Montana,MT,State House,57,general,Becky Edwards,Democratic,3566,55.38,True,False
-2026,Montana,MT,State House,57,general,Bob Crank,Republican,2873,44.62,False,False
-2026,Montana,MT,State House,58,general,Jamie Isaly,Democratic,3463,61.69,True,True
-2026,Montana,MT,State House,58,general,Joshua Congleton,Republican,2151,38.31,False,False
-2026,Montana,MT,State House,59,general,Katie Fire Thunder,Democratic,4536,64.94,True,True
-2026,Montana,MT,State House,59,general,Marc Greendorfer,Republican,2449,35.06,False,False
-2026,Montana,MT,State House,60,general,Alanah Griffith,Democratic,2958,56.3,True,True
-2026,Montana,MT,State House,60,general,Greg Leman,Republican,2296,43.7,False,False
-2026,Montana,MT,State House,61,general,Rio Roland,Democratic,2246,86.19,True,False
-2026,Montana,MT,State House,61,general,Eric Jacobs,Republican,360,13.81,False,False
-2026,Montana,MT,State House,62,general,Josh Seckinger,Democratic,2755,59.48,True,True
-2026,Montana,MT,State House,62,general,Esther Fishbaugh,Republican,1877,40.52,False,False
-2026,Montana,MT,State House,63,general,Peter Strand,Democratic,3212,65.21,True,True
-2026,Montana,MT,State House,63,general,Lawrence Moore,Republican,1714,34.79,False,False
-2026,Montana,MT,State House,64,general,Brady Bremer,Democratic,3006,61.43,True,False
-2026,Montana,MT,State House,64,general,Daniel Martinez,Republican,1887,38.57,False,False
-2026,Montana,MT,State House,65,general,Brian Close,Democratic,3194,62.37,True,True
-2026,Montana,MT,State House,65,general,Joe Flynn,Republican,1927,37.63,False,False
-2026,Montana,MT,State House,66,general,Eric Matthews,Democratic,3992,63.09,True,True
-2026,Montana,MT,State House,66,general,Owen Lang,Republican,2335,36.91,False,False
-2026,Montana,MT,State House,67,general,Jedediah Hinkle,Republican,2396,53.55,True,True
-2026,Montana,MT,State House,67,general,Logan Henke,Democratic,2078,46.55,False,False
-2026,Montana,MT,State House,68,general,Randy Chamberlin,Republican,3039,67.53,True,False
-2026,Montana,MT,State House,68,general,Jocelyn Kent,Democratic,1461,32.47,False,False
-2026,Montana,MT,State House,69,general,Trevor Walter,Republican,4481,100.0,True,False
-2026,Montana,MT,State House,70,general,Shannon Maness,Republican,3575,68.86,True,True
-2026,Montana,MT,State House,70,general,Kobi Craddock,Democratic,1617,31.14,False,False
-2026,Montana,MT,State House,71,general,Scott DeMarois,Democratic,2866,63.21,True,True
-2026,Montana,MT,State House,71,general,Suzzann Nordwick,Republican,1668,36.79,False,False
-2026,Montana,MT,State House,72,general,Donavon Hawk,Democratic,2931,69.57,True,True
-2026,Montana,MT,State House,72,general,Michael Saul,Republican,1282,30.43,False,False
+2026,Montana,MT,State House,38,general,Greg Oblander,Republican,4604,100.0,True,True
+2026,Montana,MT,State House,39,general,Kerri Seekins-Crowe,Republican,2269,61.08,True,True
+2026,Montana,MT,State House,39,general,Melissa Smith,Democratic,1446,38.92,False,False
+2026,Montana,MT,State House,40,general,Mike Vinton,Republican,2631,69.81,True,True
+2026,Montana,MT,State House,40,general,Gabriel Bradshaw,Democratic,1138,30.19,False,False
+2026,Montana,MT,State House,41,general,Jade Sooktis,Democratic,1674,100.0,True,True
+2026,Montana,MT,State House,42,general,Sidney Fitzpatrick,Democratic,1622,54.72,True,True
+2026,Montana,MT,State House,42,general,Jeremiah Jabs,Republican,1342,45.28,False,False
+2026,Montana,MT,State House,43,general,Larry Brewster,Republican,2119,58.68,True,True
+2026,Montana,MT,State House,43,general,Rudolf Haden,Democratic,1492,41.32,False,False
+2026,Montana,MT,State House,44,general,Katie Zolnikov,Republican,2782,62.59,True,True
+2026,Montana,MT,State House,44,general,Mike Eaton,Democratic,1663,37.41,False,False
+2026,Montana,MT,State House,45,general,Denise Baum,Democratic,2406,58.99,True,True
+2026,Montana,MT,State House,45,general,Bryce Walston,Republican,1673,41.01,False,False
+2026,Montana,MT,State House,46,general,Denise Joy,Democratic,2163,57.45,True,True
+2026,Montana,MT,State House,46,general,Kim Welzenbach,Republican,1602,42.55,False,False
+2026,Montana,MT,State House,47,general,James Reavis,Democratic,1605,60.77,True,True
+2026,Montana,MT,State House,47,general,John Maxwell,Republican,1036,39.23,False,False
+2026,Montana,MT,State House,48,general,Curtis Schomer,Republican,1760,50.26,True,True
+2026,Montana,MT,State House,48,general,Tucker Colvin,Democratic,1742,49.74,False,False
+2026,Montana,MT,State House,49,general,Charlie Loveridge,Republican,2088,54.4,True,False
+2026,Montana,MT,State House,49,general,Rebecca Noell,Democratic,1750,45.6,False,False
+2026,Montana,MT,State House,50,general,Stewart Harris,Republican,3003,61.79,True,False
+2026,Montana,MT,State House,50,general,Mark Peters,Democratic,1857,38.21,False,False
+2026,Montana,MT,State House,51,general,Jodee Etchart,Republican,2544,57.53,True,True
+2026,Montana,MT,State House,51,general,Precious McKenzie,Democratic,1878,42.47,False,False
+2026,Montana,MT,State House,52,general,Stacy Zinn,Republican,3519,61.7,True,True
+2026,Montana,MT,State House,52,general,Elizabeth Heald,Democratic,2184,38.3,False,False
+2026,Montana,MT,State House,53,general,Troy Charbonneau,Republican,3664,72.1,True,False
+2026,Montana,MT,State House,53,general,Matthew Hankins,Democratic,1418,27.9,False,False
+2026,Montana,MT,State House,54,general,Lee Deming,Republican,2610,68.43,True,True
+2026,Montana,MT,State House,54,general,Janine Coole,Democratic,1204,31.57,False,False
+2026,Montana,MT,State House,55,general,Brad Barker,Republican,4169,69.09,True,True
+2026,Montana,MT,State House,55,general,Richard Gessling,Democratic,1865,30.91,False,False
+2026,Montana,MT,State House,56,general,Fiona Nave,Republican,4576,100.0,True,True
+2026,Montana,MT,State House,57,general,Becky Edwards,Democratic,3654,55.41,True,False
+2026,Montana,MT,State House,57,general,Bob Crank,Republican,2941,44.59,False,False
+2026,Montana,MT,State House,58,general,Jamie Isaly,Democratic,3515,61.56,True,True
+2026,Montana,MT,State House,58,general,Joshua Congleton,Republican,2195,38.44,False,False
+2026,Montana,MT,State House,59,general,Katie Fire Thunder,Democratic,4630,64.84,True,True
+2026,Montana,MT,State House,59,general,Marc Greendorfer,Republican,2511,35.16,False,False
+2026,Montana,MT,State House,60,general,Alanah Griffith,Democratic,3035,56.22,True,True
+2026,Montana,MT,State House,60,general,Greg Leman,Republican,2363,43.78,False,False
+2026,Montana,MT,State House,61,general,Rio Roland,Democratic,2421,85.82,True,False
+2026,Montana,MT,State House,61,general,Eric Jacobs,Republican,400,14.18,False,False
+2026,Montana,MT,State House,62,general,Josh Seckinger,Democratic,2868,59.74,True,True
+2026,Montana,MT,State House,62,general,Esther Fishbaugh,Republican,1933,40.26,False,False
+2026,Montana,MT,State House,63,general,Peter Strand,Democratic,3330,65.02,True,True
+2026,Montana,MT,State House,63,general,Lawrence Moore,Republican,1791,34.97,False,False
+2026,Montana,MT,State House,64,general,Brady Bremer,Democratic,3114,61.51,True,False
+2026,Montana,MT,State House,64,general,Daniel Martinez,Republican,1949,38.49,False,False
+2026,Montana,MT,State House,65,general,Brian Close,Democratic,3333,62.79,True,True
+2026,Montana,MT,State House,65,general,Joe Flynn,Republican,1975,37.21,False,False
+2026,Montana,MT,State House,66,general,Eric Matthews,Democratic,4090,63.31,True,True
+2026,Montana,MT,State House,66,general,Owen Lang,Republican,2370,36.69,False,False
+2026,Montana,MT,State House,67,general,Jedediah Hinkle,Republican,2457,53.25,True,True
+2026,Montana,MT,State House,67,general,Logan Henke,Democratic,2157,46.75,False,False
+2026,Montana,MT,State House,68,general,Randy Chamberlin,Republican,3120,67.34,True,False
+2026,Montana,MT,State House,68,general,Jocelyn Kent,Democratic,1513,32.66,False,False
+2026,Montana,MT,State House,69,general,Trevor Walter,Republican,4532,100.0,True,False
+2026,Montana,MT,State House,70,general,Shannon Maness,Republican,3592,68.83,True,True
+2026,Montana,MT,State House,70,general,Kobi Craddock,Democratic,1627,31.17,False,False
+2026,Montana,MT,State House,71,general,Scott DeMarois,Democratic,2898,63.19,True,True
+2026,Montana,MT,State House,71,general,Suzzann Nordwick,Republican,1688,36.81,False,False
+2026,Montana,MT,State House,72,general,Donavon Hawk,Democratic,2932,69.58,True,True
+2026,Montana,MT,State House,72,general,Michael Saul,Republican,1282,30.42,False,False
 2026,Montana,MT,State House,73,general,Jennifer Lynch,Democratic,2425,66.93,True,True
 2026,Montana,MT,State House,73,general,Gerry Kennedy,Republican,1198,33.07,False,False
-2026,Montana,MT,State House,74,general,Marc Lee,Democratic,3478,66.15,True,True
-2026,Montana,MT,State House,74,general,Trenin Bayless,Republican,1780,33.85,False,False
-2026,Montana,MT,State House,75,general,Mark Reinschmidt,Republican,3742,62.0,True,True
-2026,Montana,MT,State House,75,general,Patrick Sullivan,Democratic,2045,33.89,False,False
-2026,Montana,MT,State House,75,general,Greg DeVries,Libertarian,248,4.11,False,False
-2026,Montana,MT,State House,76,general,John Fitzpatrick,Republican,3619,66.66,True,True
-2026,Montana,MT,State House,76,general,Shayne Morgan,Nonpartisan,1810,33.34,False,False
-2026,Montana,MT,State House,77,general,Jane Gillette,Republican,4541,100.0,True,True
-2026,Montana,MT,State House,78,general,Randyn Gregg,Republican,3944,77.49,True,True
-2026,Montana,MT,State House,78,general,Mark White,Democratic,1146,22.51,False,False
-2026,Montana,MT,State House,79,general,Luke Muszkiewicz,Democratic,3553,60.31,True,True
-2026,Montana,MT,State House,79,general,Chiko Olson,Republican,2338,39.69,False,False
-2026,Montana,MT,State House,80,general,Megan Lane,Democratic,2557,57.82,True,False
-2026,Montana,MT,State House,80,general,Katie Fruits,Republican,1865,42.18,False,False
-2026,Montana,MT,State House,81,general,Janet Ellis,Democratic,3127,60.79,True,False
-2026,Montana,MT,State House,81,general,"John Looney, Sr.",Republican,2017,39.21,False,False
-2026,Montana,MT,State House,82,general,Pete Elverum,Democratic,2634,60.58,True,True
-2026,Montana,MT,State House,82,general,Clinton McKay,Republican,1714,39.42,False,False
-2026,Montana,MT,State House,83,general,Joe Cohenour,Democratic,3316,62.41,True,False
-2026,Montana,MT,State House,83,general,Aaron Leas,Republican,1997,37.59,False,False
-2026,Montana,MT,State House,84,general,Roy Caldwell,Republican,3760,63.2,True,False
-2026,Montana,MT,State House,84,general,Tia Nelson,Democratic,2189,36.8,False,False
-2026,Montana,MT,State House,85,general,Kim Dailey,Republican,4332,72.21,True,False
-2026,Montana,MT,State House,85,general,Laura Jackson,Democratic,1667,27.79,False,False
-2026,Montana,MT,State House,86,general,Wayne Rusk,Republican,3242,59.86,True,False
-2026,Montana,MT,State House,86,general,Archie Thomas,Democratic,2174,40.14,False,False
-2026,Montana,MT,State House,87,general,Terry Nelson,Republican,4154,70.73,True,True
-2026,Montana,MT,State House,87,general,Bill Jones,Democratic,1719,29.27,False,False
-2026,Montana,MT,State House,88,general,Greg Overstreet,Republican,3962,65.31,True,True
-2026,Montana,MT,State House,88,general,Evan Schroedel,Democratic,2104,34.69,False,False
-2026,Montana,MT,State House,89,general,Mark Thane,Democratic,3345,62.07,True,True
-2026,Montana,MT,State House,89,general,Lyn Hellegaard,Republican,2044,37.93,False,False
-2026,Montana,MT,State House,90,general,Jeff Stanek,Republican,4247,100.0,True,False
-2026,Montana,MT,State House,91,general,Shelly Fyant,Democratic,2937,59.14,True,True
-2026,Montana,MT,State House,91,general,Charles Headley,Republican,2029,40.86,False,False
-2026,Montana,MT,State House,92,general,Monica Tranel,Democratic,4021,100.0,True,False
-2026,Montana,MT,State House,93,general,Ben Davis,Democratic,3817,67.92,True,False
-2026,Montana,MT,State House,93,general,Roy Handley,Republican,1803,32.08,False,False
-2026,Montana,MT,State House,94,general,Robin Kendall,Democratic,4046,65.6,True,False
-2026,Montana,MT,State House,94,general,Greg Woodward,Republican,2122,34.4,False,False
-2026,Montana,MT,State House,95,general,Zooey Zephyr,Democratic,4761,100.0,True,True
-2026,Montana,MT,State House,96,general,Bob Carter,Democratic,3644,100.0,True,True
-2026,Montana,MT,State House,97,general,Melody Cunningham,Democratic,3385,67.0,True,True
-2026,Montana,MT,State House,97,general,Michael Hagestad,Republican,1667,33.0,False,False
-2026,Montana,MT,State House,98,general,Jonathan Karlen,Democratic,3394,67.19,True,True
-2026,Montana,MT,State House,98,general,Bryan Muzzana,Republican,1657,32.81,False,False
-2026,Montana,MT,State House,99,general,Tom France,Democratic,3557,64.1,True,True
-2026,Montana,MT,State House,99,general,Ryan Darling,Republican,1992,35.9,False,False
-2026,Montana,MT,State House,100,general,SJ Howell,Democratic,3941,83.71,True,True
-2026,Montana,MT,State House,100,general,Michael Bowles,Republican,633,13.45,False,False
-2026,Montana,MT,State House,100,general,JC Windmueller,Libertarian,134,2.84,False,False
+2026,Montana,MT,State House,74,general,Marc Lee,Democratic,3478,66.13,True,True
+2026,Montana,MT,State House,74,general,Trenin Bayless,Republican,1781,33.87,False,False
+2026,Montana,MT,State House,75,general,Mark Reinschmidt,Republican,3754,62.05,True,True
+2026,Montana,MT,State House,75,general,Patrick Sullivan,Democratic,2046,33.82,False,False
+2026,Montana,MT,State House,75,general,Greg DeVries,Libertarian,250,4.13,False,False
+2026,Montana,MT,State House,76,general,Trish Schreiber,Republican,3632,66.67,True,False
+2026,Montana,MT,State House,76,general,Shayne Morgan,Nonpartisan,1816,33.33,False,False
+2026,Montana,MT,State House,77,general,Jane Gillette,Republican,4582,100.0,True,True
+2026,Montana,MT,State House,78,general,Randyn Gregg,Republican,3957,77.42,True,True
+2026,Montana,MT,State House,78,general,Mark White,Democratic,1154,22.58,False,False
+2026,Montana,MT,State House,79,general,Luke Muszkiewicz,Democratic,3593,60.19,True,True
+2026,Montana,MT,State House,79,general,Chiko Olson,Republican,2376,39.81,False,False
+2026,Montana,MT,State House,80,general,Megan Lane,Democratic,2603,57.82,True,False
+2026,Montana,MT,State House,80,general,Katie Fruits,Republican,1899,42.18,False,False
+2026,Montana,MT,State House,81,general,Janet Ellis,Democratic,3182,60.71,True,False
+2026,Montana,MT,State House,81,general,"John Looney, Sr.",Republican,2059,39.29,False,False
+2026,Montana,MT,State House,82,general,Pete Elverum,Democratic,2695,60.43,True,True
+2026,Montana,MT,State House,82,general,Clinton McKay,Republican,1765,39.57,False,False
+2026,Montana,MT,State House,83,general,Joe Cohenour,Democratic,3376,62.2,True,False
+2026,Montana,MT,State House,83,general,Aaron Leas,Republican,2052,37.8,False,False
+2026,Montana,MT,State House,84,general,Roy Caldwell,Republican,3815,63.19,True,False
+2026,Montana,MT,State House,84,general,Tia Nelson,Democratic,2222,36.81,False,False
+2026,Montana,MT,State House,85,general,Kim Dailey,Republican,4411,72.36,True,False
+2026,Montana,MT,State House,85,general,Laura Jackson,Democratic,1685,27.64,False,False
+2026,Montana,MT,State House,86,general,Wayne Rusk,Republican,3314,59.99,True,False
+2026,Montana,MT,State House,86,general,Archie Thomas,Democratic,2210,40.01,False,False
+2026,Montana,MT,State House,87,general,Terry Nelson,Republican,4251,70.98,True,True
+2026,Montana,MT,State House,87,general,Bill Jones,Democratic,1738,29.02,False,False
+2026,Montana,MT,State House,88,general,Greg Overstreet,Republican,4028,65.21,True,True
+2026,Montana,MT,State House,88,general,Evan Schroedel,Democratic,2149,34.79,False,False
+2026,Montana,MT,State House,89,general,Mark Thane,Democratic,3412,62.17,True,True
+2026,Montana,MT,State House,89,general,Lyn Hellegaard,Republican,2076,37.83,False,False
+2026,Montana,MT,State House,90,general,Jeff Stanek,Republican,4301,100.0,True,False
+2026,Montana,MT,State House,91,general,Shelly Fyant,Democratic,2992,59.17,True,True
+2026,Montana,MT,State House,91,general,Charles Headley,Republican,2065,40.83,False,False
+2026,Montana,MT,State House,92,general,Monica Tranel,Democratic,4107,100.0,True,False
+2026,Montana,MT,State House,93,general,Ben Davis,Democratic,3918,68.09,True,False
+2026,Montana,MT,State House,93,general,Roy Handley,Republican,1836,31.91,False,False
+2026,Montana,MT,State House,94,general,Robin Kendall,Democratic,4104,65.45,True,False
+2026,Montana,MT,State House,94,general,Greg Woodward,Republican,2166,34.55,False,False
+2026,Montana,MT,State House,95,general,Zooey Zephyr,Democratic,4951,100.0,True,True
+2026,Montana,MT,State House,96,general,Bob Carter,Democratic,3723,100.0,True,True
+2026,Montana,MT,State House,97,general,Melody Cunningham,Democratic,3440,66.87,True,True
+2026,Montana,MT,State House,97,general,Michael Hagestad,Republican,1704,33.13,False,False
+2026,Montana,MT,State House,98,general,Jonathan Karlen,Democratic,3518,67.45,True,True
+2026,Montana,MT,State House,98,general,Bryan Muzzana,Republican,1698,32.55,False,False
+2026,Montana,MT,State House,99,general,Tom France,Democratic,3632,64.0,True,True
+2026,Montana,MT,State House,99,general,Ryan Darling,Republican,2043,36.0,False,False
+2026,Montana,MT,State House,100,general,SJ Howell,Democratic,4095,83.67,True,True
+2026,Montana,MT,State House,100,general,Michael Bowles,Republican,651,13.3,False,False
+2026,Montana,MT,State House,100,general,JC Windmueller,Libertarian,148,3.02,False,False
 2026,New York,NY,State House,115,special general,Michael Cashman,Democratic,19797,47.97,False,False
 2026,New York,NY,State House,115,special general,Brent M. Davison,New York Republican,18043,42.86,False,False
 2026,New York,NY,State House,36,special general,Diana Moreno,Democratic,6472,38.8,False,False
@@ -1622,67 +1677,67 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,New York,NY,State House,36,special general,Mary Jobaida,People First,665,7.61,False,False
 2026,New York,NY,State House,74,special general,Keith Powers,Democratic,4203,82.53,True,False
 2026,New York,NY,State House,74,special general,Joseph W. Foley,New York Republican,839,14.12,False,False
-2026,North Carolina,NC,State House,1,general,Ed Goodwin,Republican,22506,60.1,True,True
-2026,North Carolina,NC,State House,1,general,Miriam Rollin,Democratic,14939,39.9,False,False
-2026,North Carolina,NC,State House,2,general,Ray Jeffers,Democratic,28177,100.0,True,True
-2026,North Carolina,NC,State House,3,general,Steve Tyson,Republican,20885,55.96,True,True
-2026,North Carolina,NC,State House,3,general,Diannia Bright,Democratic,15547,41.66,False,False
-2026,North Carolina,NC,State House,3,general,Angela Humphries,Libertarian,888,2.38,False,False
-2026,North Carolina,NC,State House,4,general,Jimmy Dixon,Republican,13780,55.16,True,True
-2026,North Carolina,NC,State House,4,general,Vernon Moore,Democratic,11204,44.84,False,False
-2026,North Carolina,NC,State House,5,general,Sam Davis III,Democratic,16085,52.78,True,False
-2026,North Carolina,NC,State House,5,general,Bill Ward,Republican,14390,47.22,False,True
-2026,North Carolina,NC,State House,6,general,Joe Pike,Republican,14489,51.06,True,True
-2026,North Carolina,NC,State House,6,general,Tony Spears,Democratic,13887,48.94,False,False
-2026,North Carolina,NC,State House,7,general,Mark Speed,Democratic,19901,51.56,True,False
-2026,North Carolina,NC,State House,7,general,Cory Thornton,Republican,18698,48.44,False,False
-2026,North Carolina,NC,State House,8,general,Gloristine Brown,Democratic,18488,71.31,True,True
-2026,North Carolina,NC,State House,8,general,Cathy Thorne Bynum,Republican,7440,28.69,False,False
-2026,North Carolina,NC,State House,9,general,Claire Kempner,Democratic,18187,50.24,True,False
-2026,North Carolina,NC,State House,9,general,Timothy Reeder,Republican,18012,49.76,False,True
-2026,North Carolina,NC,State House,10,general,John Bell,Republican,16019,54.86,True,True
-2026,North Carolina,NC,State House,10,general,Zyaire Webb,Democratic,13180,45.14,False,False
-2026,North Carolina,NC,State House,11,general,Allison Dahle,Democratic,30013,81.41,True,True
-2026,North Carolina,NC,State House,11,general,Matthew Kordon,Libertarian,6854,18.59,False,False
-2026,North Carolina,NC,State House,12,general,Chris Humphrey,Republican,15422,52.15,True,True
-2026,North Carolina,NC,State House,12,general,Don Hardy,Democratic,14153,47.85,False,False
-2026,North Carolina,NC,State House,13,general,Celeste Cairns,Republican,25600,65.26,True,True
-2026,North Carolina,NC,State House,13,general,Jason Moore,Democratic,13628,34.74,False,False
-2026,North Carolina,NC,State House,14,general,Wyatt Gable,Republican,10557,100.0,True,True
-2026,North Carolina,NC,State House,15,general,Phil Shepard,Republican,13610,56.86,True,True
-2026,North Carolina,NC,State House,15,general,Christopher Schulte,Democratic,10328,43.14,False,False
-2026,North Carolina,NC,State House,16,general,Carson Smith,Republican,21921,62.57,True,True
-2026,North Carolina,NC,State House,16,general,Jim Harris,Democratic,13111,37.43,False,False
-2026,North Carolina,NC,State House,17,general,Frank Iler,Republican,29965,54.5,True,True
-2026,North Carolina,NC,State House,17,general,Dennis Breen,Democratic,25019,45.5,False,False
-2026,North Carolina,NC,State House,18,general,Deb Butler,Democratic,24899,70.42,True,True
-2026,North Carolina,NC,State House,18,general,Latisha Grady,Republican,10460,29.58,False,False
-2026,North Carolina,NC,State House,19,general,Charlie Miller,Republican,29735,55.24,True,True
-2026,North Carolina,NC,State House,19,general,Scott Nasif,Democratic,24093,44.76,False,False
-2026,North Carolina,NC,State House,20,general,Tim Merrick,Democratic,22054,50.11,True,False
-2026,North Carolina,NC,State House,20,general,Dane Scalise,Republican,21953,49.89,False,False
-2026,North Carolina,NC,State House,21,general,Ya Liu,Democratic,29171,71.33,True,True
-2026,North Carolina,NC,State House,21,general,Bryson Johnson,Republican,11722,28.67,False,False
-2026,North Carolina,NC,State House,22,general,Wellie Jackson,Republican,19136,100.0,True,False
-2026,North Carolina,NC,State House,23,general,Patricia Smith,Democratic,20714,61.49,True,False
-2026,North Carolina,NC,State House,23,general,Brent Roberson,Republican,12974,38.51,False,False
-2026,North Carolina,NC,State House,24,general,Dante Pittman,Democratic,18017,58.26,True,True
-2026,North Carolina,NC,State House,24,general,Blake Boykin,Republican,12910,41.74,False,False
-2026,North Carolina,NC,State House,25,general,Lorenza Wilkins,Democratic,20420,52.67,True,False
-2026,North Carolina,NC,State House,25,general,Allen Chesser,Republican,17340,44.73,False,True
-2026,North Carolina,NC,State House,25,general,Nick Taylor,Libertarian,1010,2.61,False,False
-2026,North Carolina,NC,State House,26,general,L'Bertice Solomon,Democratic,21655,52.99,True,False
-2026,North Carolina,NC,State House,26,general,Donna McDowell White,Republican,19212,47.01,False,True
-2026,North Carolina,NC,State House,27,general,Rodney Pierce,Democratic,20657,63.52,True,True
-2026,North Carolina,NC,State House,27,general,David Woodson,Republican,11864,36.48,False,False
-2026,North Carolina,NC,State House,28,general,Larry Strickland,Republican,17117,58.3,True,True
-2026,North Carolina,NC,State House,28,general,D. Matthew Bailey,Democratic,12241,41.7,False,False
-2026,North Carolina,NC,State House,29,general,Vernetta Alston,Democratic,40935,100.0,True,True
-2026,North Carolina,NC,State House,30,general,Marcia Morey,Democratic,34703,92.96,True,True
-2026,North Carolina,NC,State House,30,general,Ray Ubinger,Libertarian,2627,7.04,False,False
-2026,North Carolina,NC,State House,31,general,Zack Forde-Hawkins,Democratic,37012,100.0,True,True
-2026,North Carolina,NC,State House,32,general,Bryan Cohn,Democratic,18410,55.39,True,True
-2026,North Carolina,NC,State House,32,general,Frank Sossamon,Republican,14827,44.61,False,False
+2026,North Carolina,NC,State House,1,general,Ed Goodwin,Republican,22517,60.1,True,True
+2026,North Carolina,NC,State House,1,general,Miriam Rollin,Democratic,14949,39.9,False,False
+2026,North Carolina,NC,State House,2,general,Ray Jeffers,Democratic,28311,100.0,True,True
+2026,North Carolina,NC,State House,3,general,Steve Tyson,Republican,20928,55.88,True,True
+2026,North Carolina,NC,State House,3,general,Diannia Bright,Democratic,15631,41.74,False,False
+2026,North Carolina,NC,State House,3,general,Angela Humphries,Libertarian,891,2.38,False,False
+2026,North Carolina,NC,State House,4,general,Jimmy Dixon,Republican,13832,55.01,True,True
+2026,North Carolina,NC,State House,4,general,Vernon Moore,Democratic,11314,44.99,False,False
+2026,North Carolina,NC,State House,5,general,Sam Davis III,Democratic,16215,52.92,True,False
+2026,North Carolina,NC,State House,5,general,Bill Ward,Republican,14426,47.08,False,True
+2026,North Carolina,NC,State House,6,general,Joe Pike,Republican,14621,50.96,True,True
+2026,North Carolina,NC,State House,6,general,Tony Spears,Democratic,14068,49.04,False,False
+2026,North Carolina,NC,State House,7,general,Mark Speed,Democratic,19998,51.62,True,False
+2026,North Carolina,NC,State House,7,general,Cory Thornton,Republican,18744,48.38,False,False
+2026,North Carolina,NC,State House,8,general,Gloristine Brown,Democratic,18820,71.46,True,True
+2026,North Carolina,NC,State House,8,general,Cathy Thorne Bynum,Republican,7516,28.54,False,False
+2026,North Carolina,NC,State House,9,general,Claire Kempner,Democratic,18363,50.31,True,False
+2026,North Carolina,NC,State House,9,general,Timothy Reeder,Republican,18137,49.69,False,True
+2026,North Carolina,NC,State House,10,general,John Bell,Republican,16084,54.78,True,True
+2026,North Carolina,NC,State House,10,general,Zyaire Webb,Democratic,13275,45.22,False,False
+2026,North Carolina,NC,State House,11,general,Allison Dahle,Democratic,30074,81.4,True,True
+2026,North Carolina,NC,State House,11,general,Matthew Kordon,Libertarian,6871,18.6,False,False
+2026,North Carolina,NC,State House,12,general,Chris Humphrey,Republican,15489,52.04,True,True
+2026,North Carolina,NC,State House,12,general,Don Hardy,Democratic,14275,47.96,False,False
+2026,North Carolina,NC,State House,13,general,Celeste Cairns,Republican,25607,65.24,True,True
+2026,North Carolina,NC,State House,13,general,Jason Moore,Democratic,13646,34.76,False,False
+2026,North Carolina,NC,State House,14,general,Wyatt Gable,Republican,10593,100.0,True,True
+2026,North Carolina,NC,State House,15,general,Phil Shepard,Republican,13682,56.82,True,True
+2026,North Carolina,NC,State House,15,general,Christopher Schulte,Democratic,10396,43.18,False,False
+2026,North Carolina,NC,State House,16,general,Carson Smith,Republican,22026,62.56,True,True
+2026,North Carolina,NC,State House,16,general,Jim Harris,Democratic,13179,37.44,False,False
+2026,North Carolina,NC,State House,17,general,Frank Iler,Republican,30077,54.51,True,True
+2026,North Carolina,NC,State House,17,general,Dennis Breen,Democratic,25099,45.49,False,False
+2026,North Carolina,NC,State House,18,general,Deb Butler,Democratic,25061,70.44,True,True
+2026,North Carolina,NC,State House,18,general,Latisha Grady,Republican,10518,29.56,False,False
+2026,North Carolina,NC,State House,19,general,Charlie Miller,Republican,29844,55.26,True,True
+2026,North Carolina,NC,State House,19,general,Scott Nasif,Democratic,24161,44.74,False,False
+2026,North Carolina,NC,State House,20,general,Tim Merrick,Democratic,22160,50.09,True,False
+2026,North Carolina,NC,State House,20,general,Dane Scalise,Republican,22079,49.91,False,False
+2026,North Carolina,NC,State House,21,general,Ya Liu,Democratic,29222,71.33,True,True
+2026,North Carolina,NC,State House,21,general,Bryson Johnson,Republican,11744,28.67,False,False
+2026,North Carolina,NC,State House,22,general,Wellie Jackson,Republican,19188,100.0,True,False
+2026,North Carolina,NC,State House,23,general,Patricia Smith,Democratic,20807,61.55,True,False
+2026,North Carolina,NC,State House,23,general,Brent Roberson,Republican,12996,38.45,False,False
+2026,North Carolina,NC,State House,24,general,Dante Pittman,Democratic,18130,58.31,True,True
+2026,North Carolina,NC,State House,24,general,Blake Boykin,Republican,12964,41.69,False,False
+2026,North Carolina,NC,State House,25,general,Lorenza Wilkins,Democratic,20576,52.78,True,False
+2026,North Carolina,NC,State House,25,general,Allen Chesser,Republican,17393,44.61,False,True
+2026,North Carolina,NC,State House,25,general,Nick Taylor,Libertarian,1018,2.61,False,False
+2026,North Carolina,NC,State House,26,general,L'Bertice Solomon,Democratic,21754,53.03,True,False
+2026,North Carolina,NC,State House,26,general,Donna McDowell White,Republican,19265,46.97,False,True
+2026,North Carolina,NC,State House,27,general,Rodney Pierce,Democratic,20760,63.56,True,True
+2026,North Carolina,NC,State House,27,general,David Woodson,Republican,11904,36.44,False,False
+2026,North Carolina,NC,State House,28,general,Larry Strickland,Republican,17180,58.17,True,True
+2026,North Carolina,NC,State House,28,general,D. Matthew Bailey,Democratic,12353,41.83,False,False
+2026,North Carolina,NC,State House,29,general,Vernetta Alston,Democratic,41140,100.0,True,True
+2026,North Carolina,NC,State House,30,general,Marcia Morey,Democratic,34946,92.95,True,True
+2026,North Carolina,NC,State House,30,general,Ray Ubinger,Libertarian,2651,7.05,False,False
+2026,North Carolina,NC,State House,31,general,Zack Forde-Hawkins,Democratic,37303,100.0,True,True
+2026,North Carolina,NC,State House,32,general,Bryan Cohn,Democratic,18565,55.5,True,True
+2026,North Carolina,NC,State House,32,general,Frank Sossamon,Republican,14886,44.5,False,False
 2026,North Carolina,NC,State House,33,general,Monika Johnson-Hostler,Democratic,29474,79.09,True,True
 2026,North Carolina,NC,State House,33,general,Matthew Orr,Republican,7793,20.91,False,False
 2026,North Carolina,NC,State House,34,general,Tim Longest,Democratic,29813,81.58,True,True
@@ -2657,8 +2712,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,West Virginia,WV,State House,50,general,Eric Walton,Write-in,,,False,False
 2026,Wisconsin,WI,State House,1,general,Joel Kitchens,Republican,18292.0,57.4,True,True
 2026,Wisconsin,WI,State House,1,general,Renee Paplham,Democratic,13603.0,42.6,False,False
-2026,Wisconsin,WI,State House,2,general,Alicia Saunders,Democratic,11774.0,42.3,False,False
 2026,Wisconsin,WI,State House,2,general,Shae Sortwell,Republican,16071.0,57.7,True,True
+2026,Wisconsin,WI,State House,2,general,Alicia Saunders,Democratic,11774.0,42.3,False,False
 2026,Wisconsin,WI,State House,3,general,Ron Tusler,Republican,16727.0,59.1,True,True
 2026,Wisconsin,WI,State House,3,general,Michael J. Goodwin,Democratic,11596.0,40.9,False,False
 2026,Wisconsin,WI,State House,4,general,David Steffen,Republican,17935.0,61.9,True,True
@@ -2695,8 +2750,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Wisconsin,WI,State House,19,general,Yasmine B. Outlaw,Republican,3852.0,12.9,False,False
 2026,Wisconsin,WI,State House,20,general,Christine Sinicki,Democratic,17979.0,68.9,True,True
 2026,Wisconsin,WI,State House,20,general,Kyle Cleary,Republican,8106.0,31.1,False,False
-2026,Wisconsin,WI,State House,21,general,Dylan Pfaffenbach,Republican,9567.0,37.5,False,False
 2026,Wisconsin,WI,State House,21,general,Dan J. Bukiewicz,Democratic,15942.0,62.5,True,False
+2026,Wisconsin,WI,State House,21,general,Dylan Pfaffenbach,Republican,9567.0,37.5,False,False
 2026,Wisconsin,WI,State House,22,general,Paul Melotik,Republican,17739.0,53.1,True,True
 2026,Wisconsin,WI,State House,22,general,Dana Glasstein,Democratic,15696.0,46.9,False,False
 2026,Wisconsin,WI,State House,23,general,Deb Andraca,Democratic,22387.0,68.6,True,True
@@ -2712,8 +2767,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Wisconsin,WI,State House,28,general,Robin Lillesve,Democratic,10274.0,36.8,False,False
 2026,Wisconsin,WI,State House,29,general,Treig Pronschinske,Republican,15887.0,60.8,True,True
 2026,Wisconsin,WI,State House,29,general,Chris Danou,Democratic,10243.0,39.2,False,False
-2026,Wisconsin,WI,State House,30,general,Shannon Zimmerman,Republican,14513.0,47.0,False,True
 2026,Wisconsin,WI,State House,30,general,Kevin Knoke,Democratic,16336.0,53.0,True,False
+2026,Wisconsin,WI,State House,30,general,Shannon Zimmerman,Republican,14513.0,47.0,False,True
 2026,Wisconsin,WI,State House,31,general,Tyler August,Republican,15232.0,58.9,True,True
 2026,Wisconsin,WI,State House,31,general,John Perryman,Democratic,10613.0,41.1,False,False
 2026,Wisconsin,WI,State House,32,general,Amanda Nedweski,Republican,16364.0,61.5,True,True
@@ -2754,14 +2809,14 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Wisconsin,WI,State House,49,general,John Rindy,Democratic,10186.0,43.2,False,False
 2026,Wisconsin,WI,State House,50,general,Bill Oemichen,Democratic,18462.0,61.2,True,False
 2026,Wisconsin,WI,State House,50,general,Jon Aleckson,Republican,11709.0,38.8,False,False
-2026,Wisconsin,WI,State House,51,general,Todd Novak,Republican,11907.0,43.7,False,True
 2026,Wisconsin,WI,State House,51,general,Ben Gruber,Democratic,14863.0,54.6,True,False
+2026,Wisconsin,WI,State House,51,general,Todd Novak,Republican,11907.0,43.7,False,True
 2026,Wisconsin,WI,State House,51,general,Nathan Tataje,Solidarity,447.0,1.6,False,False
 2026,Wisconsin,WI,State House,52,general,Lee Snodgrass,Democratic,15878.0,63.6,True,True
 2026,Wisconsin,WI,State House,52,general,Reive Pullen,Republican,9086.0,36.4,False,False
+2026,Wisconsin,WI,State House,53,general,Becky Nichols,Democratic,13177.0,54.7,True,False
 2026,Wisconsin,WI,State House,53,general,David Daniels,Republican,9394.0,39.0,False,False
 2026,Wisconsin,WI,State House,53,general,Rachael Dowling,Independent,1530.0,6.3,False,False
-2026,Wisconsin,WI,State House,53,general,Becky Nichols,Democratic,13177.0,54.7,True,False
 2026,Wisconsin,WI,State House,54,general,Lori Palmeri,Democratic,12294.0,60.7,True,True
 2026,Wisconsin,WI,State House,54,general,Tim Paterson,Republican,7964.0,39.3,False,False
 2026,Wisconsin,WI,State House,55,general,Nate Gustafson,Republican,16608.0,55.7,True,True
@@ -2776,8 +2831,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Wisconsin,WI,State House,59,general,Jack Holzman,Democratic,8332.0,27.4,False,False
 2026,Wisconsin,WI,State House,60,general,Marty Ryan,Republican,12091.0,56.6,True,False
 2026,Wisconsin,WI,State House,60,general,Tiffany Brault,Independent,9273.0,43.4,False,False
-2026,Wisconsin,WI,State House,61,general,Bob Donovan,Republican,11745.0,43.8,False,True
 2026,Wisconsin,WI,State House,61,general,Ben Brist,Democratic,15100.0,56.2,True,False
+2026,Wisconsin,WI,State House,61,general,Bob Donovan,Republican,11745.0,43.8,False,True
 2026,Wisconsin,WI,State House,62,general,Angelina Cruz,Democratic,13444.0,66.4,True,True
 2026,Wisconsin,WI,State House,62,general,Mike Bellagio,Republican,6789.0,33.6,False,False
 2026,Wisconsin,WI,State House,63,general,Robert Wittke,Republican,15635.0,53.5,True,True
@@ -2823,22 +2878,22 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Wisconsin,WI,State House,82,general,Rico Comancho,Democratic,12002.0,48.8,False,False
 2026,Wisconsin,WI,State House,83,general,Dave Maxey,Republican,,100.0,True,True
 2026,Wisconsin,WI,State House,84,general,Chuck Wichgers,Republican,,100.0,True,True
-2026,Wisconsin,WI,State House,85,general,Patrick Snyder,Republican,10512.0,45.9,False,True
 2026,Wisconsin,WI,State House,85,general,John Kroll,Democratic,12377.0,54.1,True,False
+2026,Wisconsin,WI,State House,85,general,Patrick Snyder,Republican,10512.0,45.9,False,True
 2026,Wisconsin,WI,State House,86,general,John Spiros,Republican,16760.0,61.5,True,True
 2026,Wisconsin,WI,State House,86,general,Andy Wuethrich,Democratic,10477.0,38.5,False,False
 2026,Wisconsin,WI,State House,87,general,Brent Jacobson,Republican,17269.0,61.1,True,True
 2026,Wisconsin,WI,State House,87,general,Bob Look,Democratic,10977.0,38.9,False,False
-2026,Wisconsin,WI,State House,88,general,Ben Franklin,Republican,12267.0,45.7,False,True
 2026,Wisconsin,WI,State House,88,general,Brandy Tollefson,Democratic,14593.0,54.3,True,False
+2026,Wisconsin,WI,State House,88,general,Ben Franklin,Republican,12267.0,45.7,False,True
 2026,Wisconsin,WI,State House,89,general,Ryan Spaude,Democratic,12608.0,56.5,True,True
 2026,Wisconsin,WI,State House,89,general,Bobby Lindsey,Republican,9717.0,43.5,False,False
 2026,Wisconsin,WI,State House,90,general,Amaad Rivera-Wagner,Democratic,11320.0,61.3,True,True
 2026,Wisconsin,WI,State House,90,general,Jessica Henderson,Republican,7133.0,38.7,False,False
 2026,Wisconsin,WI,State House,91,general,Jodi Emerson,Democratic,16495.0,59.5,True,True
 2026,Wisconsin,WI,State House,91,general,Bruce Stabenow,Republican,11209.0,40.5,False,False
-2026,Wisconsin,WI,State House,92,general,Clint Moses,Republican,12106.0,46.6,False,True
 2026,Wisconsin,WI,State House,92,general,Jeremiah Fredrickson,Democratic,13870.0,53.4,True,False
+2026,Wisconsin,WI,State House,92,general,Clint Moses,Republican,12106.0,46.6,False,True
 2026,Wisconsin,WI,State House,93,general,Christian Phelps,Democratic,17627.0,61.7,True,True
 2026,Wisconsin,WI,State House,93,general,Michael Ayala,Republican,10953.0,38.3,False,False
 2026,Wisconsin,WI,State House,94,general,Steve Doyle,Democratic,16847.0,56.7,True,True

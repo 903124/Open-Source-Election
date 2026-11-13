@@ -50,9 +50,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,California,CA,secretary of state,2026 California Secretary of State election,Candidate,Shirley Weber,Democratic,,,False,True
 2026,California,CA,secretary of state,2026 California Secretary of State election,Candidate,Donald P. Wagner,Republican,,,False,False
 2026,California,CA,secretary of state,2026 California Secretary of State election,Total,,,,,False,False
-2026,California,CA,governor,2026 California gubernatorial election,Winning,Xavier Becerra,Democratic,7922872,65.6,True,False
-2026,California,CA,governor,2026 California gubernatorial election,Candidate,Steve Hilton,Republican,4148630,34.4,False,False
-2026,California,CA,governor,2026 California gubernatorial election,Total,,,12071502,100.0,False,False
+2026,California,CA,governor,2026 California gubernatorial election,Winning,Xavier Becerra,Democratic,8318536.0,65.6,True,False
+2026,California,CA,governor,2026 California gubernatorial election,Candidate,Steve Hilton,Republican,4362766.0,34.4,False,False
+2026,California,CA,governor,2026 California gubernatorial election,Total,,,,100.0,False,False
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Candidate,Jena Griswold,Democratic,,,False,False
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Candidate,Michael J. Allen,Republican,,,False,False
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Total,,,,100.0,False,False
@@ -178,19 +178,19 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Candidate,Juan Luengo,Democratic,478668,44.3,False,False
 2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Candidate,Eric Lund,Libertarian,49017,4.5,False,False
 2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Total,,,1081368,100.0,False,False
-2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Cindy Holscher,Democratic,551467,50.35,False,False
+2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Winning,Cindy Holscher,Democratic,551467,50.35,True,False
 2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Ty Masterson,Republican,543903,49.65,False,False
 2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Total,,,1095370,100.0,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Winning,Anthony Brown,Democratic,1416665,68.57,True,True
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,James B. Rutledge III,Republican,647345,31.33,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Write-in,,,2128,0.1,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Total,,,2066138,100.0,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1356732,64.39,True,True
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,659871,31.32,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,44409,2.11,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,40623,1.93,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5555,0.26,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2079086,100.0,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1368151,64.38,True,True
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,665170,31.3,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,45026,2.12,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,41052,1.93,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5613,0.26,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2125012,100.0,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Andrea Campbell,Democratic,,,False,True
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Michael Walsh,Republican,,,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Total,,,,100.0,False,False
@@ -218,11 +218,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Donna Brandenburg,U.s. Taxpayers,20129,0.42,False,False
 2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Douglas Campbell,Green,17599,0.36,False,False
 2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Total,,,4785110,100.0,False,False
-2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Candidate,Keith Ellison,Minnesota Democratic–farmer–labor,1520967.0,54.29,False,True
+2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Winning,Keith Ellison,Minnesota Democratic–farmer–labor,1520967.0,54.29,True,True
 2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Candidate,Ronald J. Schutz,Republican,1276211.0,45.56,False,False
 2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Write-in,,,4226.0,0.15,False,False
 2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Total,,,,100.0,False,False
-2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Steve Simon,Minnesota Democratic–farmer–labor,1529169,54.71,False,True
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Winning,Steve Simon,Minnesota Democratic–farmer–labor,1529169,54.71,True,True
 2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Tad Jude,Republican,1168649,41.81,False,False
 2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,"George ""Chip"" Tangen",Libertarian,54693,1.96,False,False
 2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Seth Kuhl-Stennes,Green,41389,1.48,False,False
@@ -285,11 +285,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,New York,NY,attorney general,2026 New York Attorney General election,Candidate,Saritha Komatireddy,New York Republican State Committee,,,False,False
 2026,New York,NY,attorney general,2026 New York Attorney General election,Write-in,,,4446.0,0.1,False,False
 2026,New York,NY,attorney general,2026 New York Attorney General election,Total,,,6022299.0,100.0,False,False
-2026,New York,NY,governor,2026 New York gubernatorial election,Winning,Kathy Hochul,Total,3641811.0,59.7,True,True
+2026,New York,NY,governor,2026 New York gubernatorial election,Winning,Kathy Hochul,Total,3651791.0,59.7,True,True
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Kathy Hochul,New York State Democratic Committee,,,False,False
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Bruce Blakeman,New York Republican State Committee,,,False,False
-2026,New York,NY,governor,2026 New York gubernatorial election,Write-in,,,12800.0,0.2,False,False
-2026,New York,NY,governor,2026 New York gubernatorial election,Total,,,6097359.0,100.0,False,False
+2026,New York,NY,governor,2026 New York gubernatorial election,Write-in,,,12855.0,0.2,False,False
+2026,New York,NY,governor,2026 New York gubernatorial election,Total,,,6112761.0,100.0,False,False
 2026,Northern Mariana Islands,MP,governor,2026 Northern Mariana Islands gubernatorial election,Candidate,Ralph Torres,Republican,6437,49.5,False,False
 2026,Northern Mariana Islands,MP,governor,2026 Northern Mariana Islands gubernatorial election,Candidate,Blas T. Attao,Independent,5043,38.7,False,False
 2026,Northern Mariana Islands,MP,governor,2026 Northern Mariana Islands gubernatorial election,Candidate,Lawrence F. Camacho,Independent,1537,11.8,False,False
@@ -308,7 +308,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Vivek Ramaswamy,Republican,2039730,44.38,False,False
 2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Don Kissick,Libertarian,151874,3.3,False,False
 2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Total,,,4595782,100.0,False,False
-2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Winning,Mike Mazzei,Republican,582039,51.93,True,False
+2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Winning,Mike Mazzei,Republican,582039,51.92,True,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Cyndi Munson,Democratic,514776,45.92,False,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Robert E. Brooks Sr.,Independent,11660,1.04,False,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Jerry Griffin,Independent,7441,0.66,False,False
@@ -390,12 +390,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Candidate,Lynn LaFleur,Republican,,,False,False
 2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Candidate,Zachary Hampl,Progressive,,,False,False
 2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Total,,,,100.0,False,False
-2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Winning,Phil Scott,Republican,162050,52.5,True,True
-2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Amanda Janoo,Democratic/progressive,141618,45.88,False,False
-2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Brian Judd,Independent,2614,0.85,False,False
-2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,June Goodband,Justice,1233,0.4,False,False
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Winning,Phil Scott,Republican,162048,52.43,True,True
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Amanda Janoo,Democratic/progressive,141631,45.83,False,False
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Brian Judd,Independent,2614,0.84,False,False
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,June Goodband,Justice,1227,0.4,False,False
 2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Dean Roy,Freedom And Unity,1137,0.37,False,False
-2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Total,,,308652,100.0,False,False
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Write-in,,,398,0.13,False,False
+2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Total,,,309055,100.0,False,False
 2026,Wisconsin,WI,attorney general,2026 Wisconsin Attorney General election,Winning,Josh Kaul,Democratic,1450695.0,54.64,True,True
 2026,Wisconsin,WI,attorney general,2026 Wisconsin Attorney General election,Candidate,Eric Toney,Republican,1204176.0,45.36,False,False
 2026,Wisconsin,WI,attorney general,2026 Wisconsin Attorney General election,Total,,,,100.0,False,False
@@ -411,6 +412,6 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Wisconsin,WI,governor,2026 Wisconsin gubernatorial election,Total,,,2668669,100.0,False,False
 2026,Wyoming,WY,governor,2026 Wyoming gubernatorial election,Winning,Eric Barlow,Republican,128496,68.12,True,False
 2026,Wyoming,WY,governor,2026 Wyoming gubernatorial election,Candidate,Rebecca Bextel,Constitution,31444,16.67,False,False
-2026,Wyoming,WY,governor,2026 Wyoming gubernatorial election,Candidate,Kenneth Casner,Democratic,27472,14.57,False,False
+2026,Wyoming,WY,governor,2026 Wyoming gubernatorial election,Candidate,Kenneth Casner,Democratic,27472,14.56,False,False
 2026,Wyoming,WY,governor,2026 Wyoming gubernatorial election,Write-in,,,1212,0.64,False,False
 2026,Wyoming,WY,governor,2026 Wyoming gubernatorial election,Total,,,188624,100.0,False,False

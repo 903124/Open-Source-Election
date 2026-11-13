@@ -3770,7 +3770,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,North Carolina,NC,State House,33,general,Sammie Brooks,Libertarian,2057.0,4.38,False,False
 2020,North Carolina,NC,State House,34,general,Grier Martin,Democratic,31784.0,56.53,True,True
 2020,North Carolina,NC,State House,34,general,Ronald L. Smith,Republican,21989.0,39.11,False,False
-2020,North Carolina,NC,State House,34,general,Michael C. Munger,Libertarian,2449.0,4.36,False,False
+2020,North Carolina,NC,State House,34,general,Michael Munger,Libertarian,2449.0,4.36,False,False
 2020,North Carolina,NC,State House,35,general,Terence Everitt,Democratic,31630.0,50.67,True,True
 2020,North Carolina,NC,State House,35,general,Fred Von Canon,Republican,28528.0,45.7,False,False
 2020,North Carolina,NC,State House,35,general,Michael Nelson,Libertarian,2262.0,3.63,False,False
