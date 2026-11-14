@@ -61489,6 +61489,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,California,CA,37,,Sydney Kamlager-Dove,Democratic,,100.0,True,False,False
 2026,house,California,CA,38,,Hilda Solis,Democratic,,100.0,True,False,True
 2026,house,California,CA,39,,Mark Takano,Democratic,,100.0,True,False,False
+2026,house,California,CA,4,,Eric Jones,Democratic,,100.0,True,False,False
 2026,house,California,CA,40,,Ken Calvert,Republican,,100.0,True,False,False
 2026,house,California,CA,41,,Linda Sánchez,Democratic,,100.0,True,False,False
 2026,house,California,CA,42,,Robert Garcia,Democratic,,100.0,True,False,False
@@ -61683,7 +61684,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Montana,MT,1,267562,Sam Forstag,Democratic,135096,100.0,True,False,True
 2026,house,Montana,MT,2,220611,Troy Downing,Republican,128188,100.0,True,False,False
 2026,house,Nebraska,NE,1,,Mike Flood,Republican,,100.0,True,False,False
-2026,house,Nebraska,NE,2,253836,Denise Powell,Democratic,143785,100.0,True,False,True
+2026,house,Nebraska,NE,2,256577,Denise Powell,Democratic,145402,100.0,True,False,True
 2026,house,Nebraska,NE,3,,Adrian Smith,Republican,,100.0,True,False,False
 2026,house,Nevada,NV,1,,Dina Titus,Democratic,,100.0,True,False,False
 2026,house,Nevada,NV,2,,Teresa Benitez-Thompson,Democratic,,100.0,True,False,True
@@ -61732,17 +61733,18 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,New York,NY,7,,Claire Valdez,Democratic,,100.0,True,False,True
 2026,house,New York,NY,8,,Hakeem Jeffries,Democratic,,100.0,True,False,False
 2026,house,New York,NY,9,,Yvette Clarke,Democratic,,100.0,True,False,False
-2026,house,North Carolina,NC,1,312740,Don Davis,Democratic,156572,100.0,True,False,False
-2026,house,North Carolina,NC,11,342409,Jamie Ager,Democratic,195637,100.0,True,False,False
-2026,house,North Carolina,NC,12,270536,Alma Adams,Democratic,219672,100.0,True,False,False
-2026,house,North Carolina,NC,13,316789,Paul Barringer,Democratic,159981,100.0,True,False,False
-2026,house,North Carolina,NC,14,288361,LaKesha Womack,Democratic,147388,100.0,True,False,False
-2026,house,North Carolina,NC,2,326962,Deborah Ross,Democratic,245402,100.0,True,False,False
-2026,house,North Carolina,NC,3,239382,Raymond Smith Jr.,Democratic,118341,100.0,True,False,False
-2026,house,North Carolina,NC,4,358015,Valerie Foushee,Democratic,283255,100.0,True,False,False
-2026,house,North Carolina,NC,6,273738,Cyril Jefferson,Democratic,140001,100.0,True,False,False
-2026,house,North Carolina,NC,8,291899,Mark Harris,Republican,147094,100.0,True,False,False
-2026,house,North Carolina,NC,9,271399,Richard Ojeda,Democratic,138707,100.0,True,False,False
+2026,house,North Carolina,NC,1,314130,Don Davis,Democratic,157490,100.0,True,False,False
+2026,house,North Carolina,NC,10,295381,Pat Harrigan,Republican,146590,100.0,True,False,False
+2026,house,North Carolina,NC,11,343505,Jamie Ager,Democratic,196251,100.0,True,False,False
+2026,house,North Carolina,NC,12,271792,Alma Adams,Democratic,220770,100.0,True,False,False
+2026,house,North Carolina,NC,13,318235,Paul Barringer,Democratic,160860,100.0,True,False,False
+2026,house,North Carolina,NC,14,289273,LaKesha Womack,Democratic,147920,100.0,True,False,False
+2026,house,North Carolina,NC,2,328256,Deborah Ross,Democratic,246446,100.0,True,False,False
+2026,house,North Carolina,NC,3,239614,Raymond Smith Jr.,Democratic,118434,100.0,True,False,False
+2026,house,North Carolina,NC,4,359571,Valerie Foushee,Democratic,284548,100.0,True,False,False
+2026,house,North Carolina,NC,6,274810,Cyril Jefferson,Democratic,140707,100.0,True,False,False
+2026,house,North Carolina,NC,8,293251,Mark Harris,Republican,147683,100.0,True,False,False
+2026,house,North Carolina,NC,9,272652,Richard Ojeda,Democratic,139456,100.0,True,False,False
 2026,house,North Dakota,ND,AL,234255,Julie Fedorchak,Republican,134477,100.0,True,False,False
 2026,house,Northern Mariana Islands,MP,AL,,Galvin Deleon Guerrero,Independent,,36.3,False,False,False
 2026,house,Northern Mariana Islands,MP,AL,,Kimberlyn King-Hinds,Republican,,63.7,True,False,False
@@ -61761,20 +61763,20 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Ohio,OH,7,148177,Brian Poindexter,Democratic,180614,100.0,True,False,False
 2026,house,Ohio,OH,8,323517,Warren Davidson,Republican,168689,100.0,True,False,False
 2026,house,Ohio,OH,9,302136,Marcy Kaptur,Democratic,159306,100.0,True,False,False
-2026,house,Oklahoma,OK,1,231781,John Croisant,Democratic,110521,47.7,False,False,True
-2026,house,Oklahoma,OK,1,231781,Mark Tedford,Republican,121260,52.3,True,False,True
-2026,house,Oklahoma,OK,2,211874,Brandon Wade,Democratic,61378,29.0,False,False,False
-2026,house,Oklahoma,OK,2,211874,Josh Brecheen,Republican,143983,68.0,True,False,False
-2026,house,Oklahoma,OK,2,211874,Ronnie Hopkins,Independent,6513,3.1,False,False,False
-2026,house,Oklahoma,OK,3,190925,Frank Lucas,Republican,122138,64.0,True,False,False
-2026,house,Oklahoma,OK,3,190925,Suzie Byrd,Democratic,68787,36.0,False,False,False
-2026,house,Oklahoma,OK,4,213955,Mitchell Jacob,Democratic,83644,39.5,False,False,False
-2026,house,Oklahoma,OK,4,213955,Rocco Bonacci,Independent,6260,2.9,False,False,False
-2026,house,Oklahoma,OK,4,213955,Tom Cole,Republican,124051,57.6,True,False,False
-2026,house,Oklahoma,OK,5,264647,Austin Nieves,Independent,2043,0.8,False,False,False
-2026,house,Oklahoma,OK,5,264647,Jena Nelson,Democratic,127608,48.2,False,False,False
-2026,house,Oklahoma,OK,5,264647,Robert Henri,Independent,4024,1.5,False,False,False
-2026,house,Oklahoma,OK,5,264647,Stephanie Bice,Republican,130972,49.5,True,False,False
+2026,house,Oklahoma,OK,1,232104,John Croisant,Democratic,110707,47.7,False,False,True
+2026,house,Oklahoma,OK,1,232104,Mark Tedford,Republican,121397,52.3,True,False,True
+2026,house,Oklahoma,OK,2,211983,Brandon Wade,Democratic,61409,29.0,False,False,False
+2026,house,Oklahoma,OK,2,211983,Josh Brecheen,Republican,144054,68.0,True,False,False
+2026,house,Oklahoma,OK,2,211983,Ronnie Hopkins,Independent,6513,3.1,False,False,False
+2026,house,Oklahoma,OK,3,191013,Frank Lucas,Republican,122181,64.0,True,False,False
+2026,house,Oklahoma,OK,3,191013,Suzie Byrd,Democratic,68832,36.0,False,False,False
+2026,house,Oklahoma,OK,4,218128,Mitchell Jacob,Democratic,86108,39.5,False,False,False
+2026,house,Oklahoma,OK,4,218128,Rocco Bonacci,Independent,6389,2.9,False,False,False
+2026,house,Oklahoma,OK,4,218128,Tom Cole,Republican,125631,57.6,True,False,False
+2026,house,Oklahoma,OK,5,264647,Austin Nieves,Independent,2047,0.8,False,False,False
+2026,house,Oklahoma,OK,5,264647,Jena Nelson,Democratic,127687,48.2,False,False,False
+2026,house,Oklahoma,OK,5,264647,Robert Henri,Independent,4027,1.5,False,False,False
+2026,house,Oklahoma,OK,5,264647,Stephanie Bice,Republican,131023,49.5,True,False,False
 2026,house,Oregon,OR,1,,Suzanne Bonamici,Democratic,,100.0,True,False,False
 2026,house,Oregon,OR,2,,Cliff Bentz,Republican,,100.0,True,False,False
 2026,house,Oregon,OR,3,,Maxine Dexter,Democratic,,100.0,True,False,False

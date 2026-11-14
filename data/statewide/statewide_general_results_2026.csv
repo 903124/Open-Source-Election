@@ -67,14 +67,14 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Jodie Barr,Libertarian,,,False,False
 2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Marilee Langner Sturgis,Voting,,,False,False
 2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Total,,,,100.0,False,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Winning,Phil Weiser,Democratic,,,True,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Victor Marx,Republican,,,False,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Stephen T. Hamilton,American Constitution Party (colorado),,,False,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Greg Lopez,Independent,,,False,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Erik Mulder,Libertarian,,,False,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Jeff Peckman,Unity,,,False,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Erik Underwood,Voting,,,False,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Total,,,,100.0,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Winning,Phil Weiser,Democratic,1628795,61.07,True,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Victor Marx,Republican,887672,33.28,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Greg Lopez,Independent,73866,2.77,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Erik Mulder,Libertarian,44370,1.66,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Stephen T. Hamilton,American Constitution Party (colorado),17255,0.65,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Erik Underwood,Voting,9413,0.35,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Jeff Peckman,Unity,5956,0.22,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Total,,,2667327,100.0,False,False
 2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Candidate,William Tong,Democratic,,,False,False
 2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Candidate,John Bolton,Republican,,,False,False
 2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Total,,,,100.0,False,False
@@ -142,10 +142,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Candidate,Mike Frerichs,Democratic,,,False,True
 2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Candidate,Max Solomon,Republican,,,False,False
 2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Total,,,,100.0,False,False
-2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,JB Pritzker,Democratic,2458101,60.1,False,True
-2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Darren Bailey,Republican,1495629,36.6,False,False
-2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Collin Corbett,Independent,137448,3.4,False,False
-2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Total,,,4091178,100.0,False,False
+2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,JB Pritzker,Democratic,2540792,60.6,False,True
+2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Darren Bailey,Republican,1509625,36.0,False,False
+2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Collin Corbett,Independent,140541,3.4,False,False
+2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Total,,,4190958,100.0,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Winning,Beau Bayh,Democratic,1007084.0,51.8,True,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Max Engling,Republican,828024.0,42.6,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Greg Ballard,Lincoln,70024.0,3.6,False,False
@@ -178,19 +178,19 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Candidate,Juan Luengo,Democratic,478668,44.3,False,False
 2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Candidate,Eric Lund,Libertarian,49017,4.5,False,False
 2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Total,,,1081368,100.0,False,False
-2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Winning,Cindy Holscher,Democratic,551467,50.35,True,False
-2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Ty Masterson,Republican,543903,49.65,False,False
+2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Winning,Cindy Holscher,Democratic,552076,50.33,True,False
+2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Ty Masterson,Republican,544791,49.67,False,False
 2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Total,,,1095370,100.0,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Winning,Anthony Brown,Democratic,1416665,68.57,True,True
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,James B. Rutledge III,Republican,647345,31.33,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Write-in,,,2128,0.1,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Total,,,2066138,100.0,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1368151,64.38,True,True
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,665170,31.3,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,45026,2.12,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,41052,1.93,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5613,0.26,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2125012,100.0,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1425121,64.79,True,True
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,678733,30.86,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,47185,2.15,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,42603,1.94,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5816,0.26,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2182107,100.0,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Andrea Campbell,Democratic,,,False,True
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Michael Walsh,Republican,,,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Total,,,,100.0,False,False
@@ -241,7 +241,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Paul Rumbaugh,People,22487.0,3.1,False,False
 2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Bob Krist,America First Party (nebraska),18749.0,2.6,False,False
 2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Total,,,,100.0,False,False
-2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Candidate,Joey Spellerberg,Republican,,,False,True
+2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Winning,Joey Spellerberg,Republican,,,True,True
 2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Candidate,Daniel Ebers,Democratic,,,False,False
 2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Total,,,,100.0,False,False
 2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Jim Pillen (incumbent) Joe Kelly,Republican,,,False,True
@@ -304,9 +304,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Ohio,OH,state treasurer,2026 Ohio state treasurer election,Winning,Seth Walsh,Democratic,,,True,False
 2026,Ohio,OH,state treasurer,2026 Ohio state treasurer election,Candidate,Jay Edwards,Republican,,,False,False
 2026,Ohio,OH,state treasurer,2026 Ohio state treasurer election,Total,,,,100.0,False,False
-2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Winning,Amy Acton,Democratic,2404178,52.31,True,False
-2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Vivek Ramaswamy,Republican,2039730,44.38,False,False
-2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Don Kissick,Libertarian,151874,3.3,False,False
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Winning,Amy Acton,Democratic,2405510,52.31,True,False
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Vivek Ramaswamy,Republican,2041281,44.39,False,False
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Don Kissick,Libertarian,151994,3.31,False,False
 2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Total,,,4595782,100.0,False,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Winning,Mike Mazzei,Republican,582039,51.92,True,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Cyndi Munson,Democratic,514776,45.92,False,False
@@ -386,10 +386,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Vermont,VT,secretary of state,2026 Vermont Secretary of State election,Candidate,H. Brooke Paige,Republican,,,False,False
 2026,Vermont,VT,secretary of state,2026 Vermont Secretary of State election,Candidate,Rachel Shaw,Progressive,,,False,False
 2026,Vermont,VT,secretary of state,2026 Vermont Secretary of State election,Total,,,,100.0,False,False
-2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Candidate,Mike Pieciak,Democratic,,,False,True
-2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Candidate,Lynn LaFleur,Republican,,,False,False
-2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Candidate,Zachary Hampl,Progressive,,,False,False
-2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Total,,,,100.0,False,False
+2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Winning,Mike Pieciak,Democratic,185802,62.29,True,True
+2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Candidate,Lynn LaFleur,Republican,92845,31.13,False,False
+2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Candidate,Zachary Hampl,Progressive,19245,6.45,False,False
+2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Write-in,,,388,0.13,False,False
+2026,Vermont,VT,state treasurer,2026 Vermont State Treasurer election,Total,,,298280,100.0,False,False
 2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Winning,Phil Scott,Republican,162048,52.43,True,True
 2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Amanda Janoo,Democratic/progressive,141631,45.83,False,False
 2026,Vermont,VT,governor,2026 Vermont gubernatorial election,Candidate,Brian Judd,Independent,2614,0.84,False,False

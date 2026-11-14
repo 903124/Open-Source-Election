@@ -648,6 +648,11 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Georgia,GA,State House,114,general,Michael Caw,Democratic,10201,35.3,False,False
 2026,Georgia,GA,State House,115,general,Regina Lewis-Ward,Democratic,27109,88.2,True,True
 2026,Georgia,GA,State House,115,general,Darius Francis,Republican,3629,11.8,False,False
+2026,Georgia,GA,State House,116,general,El-Mahdi Holly,Democratic,22692,87.5,True,True
+2026,Georgia,GA,State House,116,general,Samie Conyers,Republican,3255,12.5,False,False
+2026,Georgia,GA,State House,117,general,Kim Thomas Smith,Democratic,22822,100.0,True,False
+2026,Georgia,GA,State House,118,general,Clint Crowe,Republican,14676,58.9,True,True
+2026,Georgia,GA,State House,118,general,Sharonda Bell,Democratic,10229,41.1,False,False
 2026,Indiana,IN,State House,4,general,Ryan Kominakis,Democratic,13638.0,54.1,True,False
 2026,Indiana,IN,State House,4,general,Edmond Soliday,Republican,10416.0,41.3,False,True
 2026,Indiana,IN,State House,4,general,Travis Gearhart,Libertarian,1153.0,4.6,False,False
@@ -1479,6 +1484,53 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Minnesota,MN,State House,14A,general,Mike Conway,Republican,8570,48.25,False,False
 2026,Minnesota,MN,State House,14B,general,Zach Dorholt,Democratic-Farmer-Labor,9896,56.88,True,False
 2026,Minnesota,MN,State House,14B,general,Sue Ek,Republican,7480,42.99,False,False
+2026,Minnesota,MN,State House,15A,general,Bradley Hennen,Republican,12374,66.04,True,False
+2026,Minnesota,MN,State House,15A,general,Nathan Schmig,Democratic-Farmer-Labor,6350,33.89,False,False
+2026,Minnesota,MN,State House,15B,general,Geri Theis,Republican,12401,65.85,True,False
+2026,Minnesota,MN,State House,15B,general,Keith R. Klawitter,Democratic-Farmer-Labor,6421,34.1,False,False
+2026,Minnesota,MN,State House,16A,general,Scott Van Binsbergen,Republican,12625,68.84,True,False
+2026,Minnesota,MN,State House,16A,general,David Torgelson,Democratic-Farmer-Labor,5699,31.07,False,False
+2026,Minnesota,MN,State House,16B,general,Dave Baker,Republican,12694,67.12,True,False
+2026,Minnesota,MN,State House,16B,general,Julie Henslin,Democratic-Farmer-Labor,6207,32.82,False,False
+2026,Minnesota,MN,State House,17A,general,Dawn Gillman,Republican,13917,69.38,True,False
+2026,Minnesota,MN,State House,17A,general,Mali Anderson,Democratic-Farmer-Labor,6123,30.53,False,False
+2026,Minnesota,MN,State House,17B,general,Bobbie Harder,Republican,14782,66.9,True,False
+2026,Minnesota,MN,State House,17B,general,Ben Wieman,Democratic-Farmer-Labor,7299,33.03,False,False
+2026,Minnesota,MN,State House,18A,general,Leah Hanson,Democratic-Farmer-Labor,10827,52.54,True,False
+2026,Minnesota,MN,State House,18A,general,Erica Schwartz,Republican,9759,47.36,False,False
+2026,Minnesota,MN,State House,18B,general,Luke Frederick,Democratic-Farmer-Labor,12114,96.06,True,False
+2026,Minnesota,MN,State House,19A,general,Keith Allen,Republican,10812,59.59,True,False
+2026,Minnesota,MN,State House,19A,general,Martha Brown,Democratic-Farmer-Labor,7313,40.31,False,False
+2026,Minnesota,MN,State House,19B,general,Thomas Sexton,Republican,11394,59.15,True,False
+2026,Minnesota,MN,State House,19B,general,Zack Meyman,Democratic-Farmer-Labor,7856,40.78,False,False
+2026,Minnesota,MN,State House,20A,general,Pam Altendorf,Republican,11622,53.81,True,False
+2026,Minnesota,MN,State House,20A,general,Heather Arndt,Democratic-Farmer-Labor,9962,46.12,False,False
+2026,Minnesota,MN,State House,20B,general,Sara Bertschinger,Republican,13529,62.54,True,False
+2026,Minnesota,MN,State House,20B,general,Steve Holm,Democratic-Farmer-Labor,8084,37.37,False,False
+2026,Minnesota,MN,State House,21A,general,Krist Wollum,Republican,13384,70.25,True,False
+2026,Minnesota,MN,State House,21A,general,LS Rusty Nelson,Democratic-Farmer-Labor,5661,29.71,False,False
+2026,Minnesota,MN,State House,21B,general,Marj Fogelman,Republican,9353,61.34,True,False
+2026,Minnesota,MN,State House,21B,general,Jon Wilson,Democratic-Farmer-Labor,5887,38.61,False,False
+2026,Minnesota,MN,State House,22A,general,Bjorn Olson,Republican,12450,67.07,True,False
+2026,Minnesota,MN,State House,22A,general,Sonja Denn,Democratic-Farmer-Labor,6099,32.86,False,False
+2026,Minnesota,MN,State House,22B,general,Terry Stier,Republican,14102,66.41,True,False
+2026,Minnesota,MN,State House,22B,general,Mary Nesgoda,Democratic-Farmer-Labor,7119,33.52,False,False
+2026,Minnesota,MN,State House,23A,general,Nick Ronnenberg,Republican,11034,58.16,True,False
+2026,Minnesota,MN,State House,23A,general,Joe Staloch,Democratic-Farmer-Labor,7914,41.72,False,False
+2026,Minnesota,MN,State House,23B,general,Patricia Mueller,Republican,8742,52.3,True,False
+2026,Minnesota,MN,State House,23B,general,Christoph Dundas,Democratic-Farmer-Labor,7960,47.62,False,False
+2026,Minnesota,MN,State House,24A,general,Duane Quam,Republican,12280,58.35,True,False
+2026,Minnesota,MN,State House,24A,general,Heather Holmes,Democratic-Farmer-Labor,8754,41.6,False,False
+2026,Minnesota,MN,State House,24B,general,Tina Liebling,Democratic-Farmer-Labor,12849,63.07,True,False
+2026,Minnesota,MN,State House,24B,general,John Michael Ajouri,Republican,7501,36.82,False,False
+2026,Minnesota,MN,State House,25A,general,Kim Hicks,Democratic-Farmer-Labor,13103,61.35,True,False
+2026,Minnesota,MN,State House,25A,general,Brad Trahan,Republican,8243,38.59,False,False
+2026,Minnesota,MN,State House,25B,general,Andy Smith,Democratic-Farmer-Labor,12676,70.23,True,False
+2026,Minnesota,MN,State House,25B,general,Wes Lund,Republican,5338,29.58,False,False
+2026,Minnesota,MN,State House,26A,general,Dan Wilson,Democratic-Farmer-Labor,10701,55.02,True,False
+2026,Minnesota,MN,State House,26A,general,Aaron Repinski,Republican,8741,44.94,False,False
+2026,Minnesota,MN,State House,26B,general,Greg Davids,Republican,12253,59.1,True,False
+2026,Minnesota,MN,State House,26B,general,Allie Wolf,Democratic-Farmer-Labor,8438,40.7,False,False
 2026,Minnesota,MN,State House,67B,special general,Shelley Buck,Democratic-Farmer-Labor,1913,97.55,False,False
 2026,Minnesota,MN,State House,67B,special general,Meg Luger-Nikolai,Democratic-Farmer-Labor,5557,95.28,True,False
 2026,Minnesota,MN,State House,67B,special general,Dan Walsh,Republican,254,4.36,False,False
@@ -2875,7 +2927,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Wisconsin,WI,State House,81,general,Alex Joers,Democratic,25180.0,72.6,True,True
 2026,Wisconsin,WI,State House,81,general,Mark S. Maier,Republican,9494.0,27.4,False,False
 2026,Wisconsin,WI,State House,82,general,Bryson Reyes,Republican,12603.0,51.2,True,False
-2026,Wisconsin,WI,State House,82,general,Rico Comancho,Democratic,12002.0,48.8,False,False
+2026,Wisconsin,WI,State House,82,general,Rico Camacho,Democratic,12002.0,48.8,False,False
 2026,Wisconsin,WI,State House,83,general,Dave Maxey,Republican,,100.0,True,True
 2026,Wisconsin,WI,State House,84,general,Chuck Wichgers,Republican,,100.0,True,True
 2026,Wisconsin,WI,State House,85,general,John Kroll,Democratic,12377.0,54.1,True,False
@@ -3026,6 +3078,53 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Minnesota House of Representatives election#Special,MI,State House,14A,general,Mike Conway,Republican,8570,48.25,False,False
 2026,Minnesota House of Representatives election#Special,MI,State House,14B,general,Zach Dorholt,Democratic-Farmer-Labor,9896,56.88,True,False
 2026,Minnesota House of Representatives election#Special,MI,State House,14B,general,Sue Ek,Republican,7480,42.99,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,15A,general,Bradley Hennen,Republican,12374,66.04,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,15A,general,Nathan Schmig,Democratic-Farmer-Labor,6350,33.89,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,15B,general,Geri Theis,Republican,12401,65.85,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,15B,general,Keith R. Klawitter,Democratic-Farmer-Labor,6421,34.1,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,16A,general,Scott Van Binsbergen,Republican,12625,68.84,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,16A,general,David Torgelson,Democratic-Farmer-Labor,5699,31.07,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,16B,general,Dave Baker,Republican,12694,67.12,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,16B,general,Julie Henslin,Democratic-Farmer-Labor,6207,32.82,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,17A,general,Dawn Gillman,Republican,13917,69.38,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,17A,general,Mali Anderson,Democratic-Farmer-Labor,6123,30.53,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,17B,general,Bobbie Harder,Republican,14782,66.9,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,17B,general,Ben Wieman,Democratic-Farmer-Labor,7299,33.03,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,18A,general,Leah Hanson,Democratic-Farmer-Labor,10827,52.54,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,18A,general,Erica Schwartz,Republican,9759,47.36,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,18B,general,Luke Frederick,Democratic-Farmer-Labor,12114,96.06,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,19A,general,Keith Allen,Republican,10812,59.59,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,19A,general,Martha Brown,Democratic-Farmer-Labor,7313,40.31,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,19B,general,Thomas Sexton,Republican,11394,59.15,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,19B,general,Zack Meyman,Democratic-Farmer-Labor,7856,40.78,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,20A,general,Pam Altendorf,Republican,11622,53.81,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,20A,general,Heather Arndt,Democratic-Farmer-Labor,9962,46.12,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,20B,general,Sara Bertschinger,Republican,13529,62.54,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,20B,general,Steve Holm,Democratic-Farmer-Labor,8084,37.37,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,21A,general,Krist Wollum,Republican,13384,70.25,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,21A,general,LS Rusty Nelson,Democratic-Farmer-Labor,5661,29.71,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,21B,general,Marj Fogelman,Republican,9353,61.34,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,21B,general,Jon Wilson,Democratic-Farmer-Labor,5887,38.61,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,22A,general,Bjorn Olson,Republican,12450,67.07,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,22A,general,Sonja Denn,Democratic-Farmer-Labor,6099,32.86,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,22B,general,Terry Stier,Republican,14102,66.41,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,22B,general,Mary Nesgoda,Democratic-Farmer-Labor,7119,33.52,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,23A,general,Nick Ronnenberg,Republican,11034,58.16,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,23A,general,Joe Staloch,Democratic-Farmer-Labor,7914,41.72,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,23B,general,Patricia Mueller,Republican,8742,52.3,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,23B,general,Christoph Dundas,Democratic-Farmer-Labor,7960,47.62,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,24A,general,Duane Quam,Republican,12280,58.35,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,24A,general,Heather Holmes,Democratic-Farmer-Labor,8754,41.6,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,24B,general,Tina Liebling,Democratic-Farmer-Labor,12849,63.07,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,24B,general,John Michael Ajouri,Republican,7501,36.82,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,25A,general,Kim Hicks,Democratic-Farmer-Labor,13103,61.35,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,25A,general,Brad Trahan,Republican,8243,38.59,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,25B,general,Andy Smith,Democratic-Farmer-Labor,12676,70.23,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,25B,general,Wes Lund,Republican,5338,29.58,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,26A,general,Dan Wilson,Democratic-Farmer-Labor,10701,55.02,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,26A,general,Aaron Repinski,Republican,8741,44.94,False,False
+2026,Minnesota House of Representatives election#Special,MI,State House,26B,general,Greg Davids,Republican,12253,59.1,True,False
+2026,Minnesota House of Representatives election#Special,MI,State House,26B,general,Allie Wolf,Democratic-Farmer-Labor,8438,40.7,False,False
 2026,Minnesota House of Representatives election#Special,MI,State House,67B,special general,Shelley Buck,Democratic-Farmer-Labor,1913,97.55,False,False
 2026,Minnesota House of Representatives election#Special,MI,State House,67B,special general,Meg Luger-Nikolai,Democratic-Farmer-Labor,5557,95.28,True,False
 2026,Minnesota House of Representatives election#Special,MI,State House,67B,special general,Dan Walsh,Republican,254,4.36,False,False

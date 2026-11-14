@@ -361,27 +361,27 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Kentucky,KY,State Senate,36,general,Sarah Cole McIntosh,Democratic,26755.0,52.03,True,False
 2026,Kentucky,KY,State Senate,36,general,Julie Raque Adams,Republican,24663.0,47.97,False,True
 2026,Kentucky,KY,State Senate,38,general,Mike Nemes,Republican,,,True,True
-2026,Maryland,MD,State Senate,1,general,Mike McKay,Republican,,,True,True
-2026,Maryland,MD,State Senate,1,general,Ashley Emerick,Democratic,,,False,False
-2026,Maryland,MD,State Senate,2,general,Paul Corderman,Republican,,,True,True
-2026,Maryland,MD,State Senate,2,general,Eric Van Buren,Democratic,,,False,False
-2026,Maryland,MD,State Senate,3,general,Karen Lewis Young,Democratic,,,True,True
-2026,Maryland,MD,State Senate,3,general,Shelley Aloi,Republican,,,False,False
-2026,Maryland,MD,State Senate,4,general,William Folden,Republican,,,True,True
-2026,Maryland,MD,State Senate,4,general,Lara Westdorp,Democratic,,,False,False
-2026,Maryland,MD,State Senate,5,general,Justin Ready,Republican,,,True,True
-2026,Maryland,MD,State Senate,5,general,Gary Foote,Democratic,,,False,False
-2026,Maryland,MD,State Senate,6,general,Johnny Ray Salling,Republican,,,True,True
-2026,Maryland,MD,State Senate,6,general,Justin Holliday,Democratic,,,False,False
-2026,Maryland,MD,State Senate,7,general,J. B. Jennings,Republican,,,True,True
-2026,Maryland,MD,State Senate,7,general,Bill Geibler,Democratic,,,False,False
-2026,Maryland,MD,State Senate,8,general,Carl W. Jackson,Democratic,,,True,True
-2026,Maryland,MD,State Senate,8,general,Yahu Blackwell,Republican,,,False,False
+2026,Maryland,MD,State Senate,1,general,Mike McKay,Republican,30691.0,67.95,True,True
+2026,Maryland,MD,State Senate,1,general,Ashley Emerick,Democratic,14419.0,31.92,False,False
+2026,Maryland,MD,State Senate,2,general,Paul Corderman,Republican,23212.0,54.69,True,True
+2026,Maryland,MD,State Senate,2,general,Eric Van Buren,Democratic,19183.0,45.2,False,False
+2026,Maryland,MD,State Senate,3,general,Karen Lewis Young,Democratic,36337.0,74.19,True,True
+2026,Maryland,MD,State Senate,3,general,Shelley Aloi,Republican,12583.0,25.69,False,False
+2026,Maryland,MD,State Senate,4,general,Lara Westdorp,Democratic,30870.0,51.9,True,False
+2026,Maryland,MD,State Senate,4,general,William Folden,Republican,28565.0,48.02,False,True
+2026,Maryland,MD,State Senate,5,general,Justin Ready,Republican,32761.0,58.79,True,True
+2026,Maryland,MD,State Senate,5,general,Gary Foote,Democratic,22926.0,41.14,False,False
+2026,Maryland,MD,State Senate,6,general,Johnny Ray Salling,Republican,18068.0,52.23,True,True
+2026,Maryland,MD,State Senate,6,general,Justin Holliday,Democratic,16453.0,47.56,False,False
+2026,Maryland,MD,State Senate,7,general,J. B. Jennings,Republican,31518.0,56.54,True,True
+2026,Maryland,MD,State Senate,7,general,Bill Geibler,Democratic,24170.0,43.36,False,False
+2026,Maryland,MD,State Senate,8,general,Carl W. Jackson,Democratic,28135.0,71.18,True,True
+2026,Maryland,MD,State Senate,8,general,Yahu Blackwell,Republican,11321.0,28.64,False,False
 2026,Maryland,MD,State Senate,9,general,Katie Fry Hester,Democratic,,,True,True
 2026,Maryland,MD,State Senate,9,general,Ben Hightower,Republican,,,False,False
-2026,Maryland,MD,State Senate,10,general,Benjamin Brooks,Democratic,,,True,True
-2026,Maryland,MD,State Senate,11,general,Shelly Hettleman,Democratic,,,True,True
-2026,Maryland,MD,State Senate,11,general,Jim Simpson,Republican,,,False,False
+2026,Maryland,MD,State Senate,10,general,Benjamin Brooks,Democratic,40046.0,98.07,True,True
+2026,Maryland,MD,State Senate,11,general,Shelly Hettleman,Democratic,37812.0,76.34,True,True
+2026,Maryland,MD,State Senate,11,general,Jim Simpson,Republican,11668.0,23.56,False,False
 2026,Maryland,MD,State Senate,12,general,Clarence Lam,Democratic,,,True,True
 2026,Maryland,MD,State Senate,13,general,Guy Guzzone,Democratic,,,True,True
 2026,Maryland,MD,State Senate,14,general,Craig Zucker,Democratic,,,True,True
@@ -404,8 +404,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Maryland,MD,State Senate,27,general,Kevin Harris,Democratic,,,True,True
 2026,Maryland,MD,State Senate,27,general,Al Larsen,Republican,,,False,False
 2026,Maryland,MD,State Senate,28,general,C. T. Wilson,Democratic,,,True,False
-2026,Maryland,MD,State Senate,29,general,Jack Bailey,Republican,,,True,True
-2026,Maryland,MD,State Senate,29,general,Chuck Borges,Democratic,,,False,False
+2026,Maryland,MD,State Senate,29,general,Jack Bailey,Republican,27655.0,54.44,True,True
+2026,Maryland,MD,State Senate,29,general,Chuck Borges,Democratic,23103.0,45.48,False,False
 2026,Maryland,MD,State Senate,30,general,Shaneka Henson,Democratic,,,True,True
 2026,Maryland,MD,State Senate,30,general,Jessica Haire,Republican,,,False,False
 2026,Maryland,MD,State Senate,31,general,Nic Kipke,Republican,,,True,False
@@ -414,22 +414,22 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Maryland,MD,State Senate,32,general,Justin Gallucci,Republican,,,False,False
 2026,Maryland,MD,State Senate,33,general,Dawn Gile,Democratic,,,True,True
 2026,Maryland,MD,State Senate,33,general,Amy Leahy,Republican,,,False,False
-2026,Maryland,MD,State Senate,34,general,Mary-Dulany James,Democratic,,,True,True
-2026,Maryland,MD,State Senate,34,general,Raj Goel,Republican,,,False,False
-2026,Maryland,MD,State Senate,35,general,Jason C. Gallion,Republican,,,True,True
-2026,Maryland,MD,State Senate,35,general,Neil Jennings,Democratic,,,False,False
-2026,Maryland,MD,State Senate,36,general,Steve Hershey,Republican,,,True,True
-2026,Maryland,MD,State Senate,36,general,Nivek Johnson,Democratic,,,False,False
-2026,Maryland,MD,State Senate,37,general,Johnny Mautz,Republican,,,True,False
-2026,Maryland,MD,State Senate,37,general,Katie Clendaniel,Democratic,,,False,False
+2026,Maryland,MD,State Senate,34,general,Mary-Dulany James,Democratic,31161.0,60.32,True,True
+2026,Maryland,MD,State Senate,34,general,Raj Goel,Republican,20397.0,39.48,False,False
+2026,Maryland,MD,State Senate,35,general,Jason C. Gallion,Republican,37412.0,66.21,True,True
+2026,Maryland,MD,State Senate,35,general,Neil Jennings,Democratic,19046.0,33.71,False,False
+2026,Maryland,MD,State Senate,36,general,Steve Hershey,Republican,32117.0,59.2,True,True
+2026,Maryland,MD,State Senate,36,general,Nivek Johnson,Democratic,22099.0,40.74,False,False
+2026,Maryland,MD,State Senate,37,general,Johnny Mautz,Republican,29419.0,55.24,True,True
+2026,Maryland,MD,State Senate,37,general,Katie Clendaniel,Democratic,23819.0,44.72,False,False
 2026,Maryland,MD,State Senate,38,general,Mary Beth Carozza,Republican,,,True,True
 2026,Maryland,MD,State Senate,38,general,Lino Cressotti,Democratic,,,False,False
 2026,Maryland,MD,State Senate,39,general,Amar Mukunda,Democratic,,,True,False
 2026,Maryland,MD,State Senate,40,general,Antonio Hayes,Democratic,,,True,True
 2026,Maryland,MD,State Senate,40,general,Alan Rebar,Class,,,False,False
 2026,Maryland,MD,State Senate,41,general,Malcolm Ruff,Democratic,,,True,False
-2026,Maryland,MD,State Senate,42,general,Kevin Ford,Republican,,,True,False
-2026,Maryland,MD,State Senate,42,general,Stephanie Popescu,Democratic,,,False,False
+2026,Maryland,MD,State Senate,42,general,Kevin Ford,Republican,29667.0,53.3,True,False
+2026,Maryland,MD,State Senate,42,general,Stephanie Popescu,Democratic,25942.0,46.61,False,False
 2026,Maryland,MD,State Senate,43,general,Mary L. Washington,Democratic,,,True,True
 2026,Maryland,MD,State Senate,44,general,Charles E. Sydnor III,Democratic,,,True,True
 2026,Maryland,MD,State Senate,45,general,Cory McCray,Democratic,,,True,True
@@ -708,107 +708,107 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,New York,NY,State Senate,47,special general,Charlotte Friedman,New York Republican,1117,7.7,False,False
 2026,New York,NY,State Senate,61,special general,Jeremy Zellner,Democratic,19341,59.7,True,False
 2026,New York,NY,State Senate,61,special general,Dan R. Gagliardo,New York Republican,12886,30.4,False,False
-2026,North Carolina,NC,State Senate,1,general,Jerry Tillett,Republican,43074,52.01,True,False
-2026,North Carolina,NC,State Senate,1,general,Melissa Zehner,Democratic,39745,47.99,False,False
-2026,North Carolina,NC,State Senate,2,general,Norman Sanderson,Republican,47316,53.75,True,True
-2026,North Carolina,NC,State Senate,2,general,Roy Surrett,Democratic,40711,46.25,False,False
-2026,North Carolina,NC,State Senate,3,general,Bob Brinson,Republican,44494,54.92,True,True
-2026,North Carolina,NC,State Senate,3,general,Charles Dudley,Democratic,36526,45.08,False,False
-2026,North Carolina,NC,State Senate,4,general,Jess Rivera,Democratic,37832,51.17,True,False
-2026,North Carolina,NC,State Senate,4,general,Buck Newton,Republican,36109,48.83,False,True
-2026,North Carolina,NC,State Senate,5,general,Kandie Smith,Democratic,50036,61.85,True,True
-2026,North Carolina,NC,State Senate,5,general,Henry Hostetler,Republican,30862,38.15,False,False
-2026,North Carolina,NC,State Senate,6,general,Michael Lazzara,Republican,30299,60.28,True,True
-2026,North Carolina,NC,State Senate,6,general,Andi Morrow,Democratic,19961,39.72,False,False
-2026,North Carolina,NC,State Senate,7,general,Jessica Bichler,Democratic,48566,52.62,True,False
-2026,North Carolina,NC,State Senate,7,general,Michael Lee,Republican,43722,47.38,False,True
-2026,North Carolina,NC,State Senate,8,general,Bill Rabon,Republican,59591,52.15,True,True
-2026,North Carolina,NC,State Senate,8,general,Richard Combes,Democratic,52156,45.65,False,False
+2026,North Carolina,NC,State Senate,1,general,Jerry Tillett,Republican,43069,52.01,True,False
+2026,North Carolina,NC,State Senate,1,general,Melissa Zehner,Democratic,39748,47.99,False,False
+2026,North Carolina,NC,State Senate,2,general,Norman Sanderson,Republican,47311,53.75,True,True
+2026,North Carolina,NC,State Senate,2,general,Roy Surrett,Democratic,40707,46.25,False,False
+2026,North Carolina,NC,State Senate,3,general,Bob Brinson,Republican,44488,54.92,True,True
+2026,North Carolina,NC,State Senate,3,general,Charles Dudley,Democratic,36514,45.08,False,False
+2026,North Carolina,NC,State Senate,4,general,Jess Rivera,Democratic,37821,51.16,True,False
+2026,North Carolina,NC,State Senate,4,general,Buck Newton,Republican,36109,48.84,False,True
+2026,North Carolina,NC,State Senate,5,general,Kandie Smith,Democratic,50024,61.85,True,True
+2026,North Carolina,NC,State Senate,5,general,Henry Hostetler,Republican,30861,38.15,False,False
+2026,North Carolina,NC,State Senate,6,general,Michael Lazzara,Republican,30285,60.29,True,True
+2026,North Carolina,NC,State Senate,6,general,Andi Morrow,Democratic,19944,39.71,False,False
+2026,North Carolina,NC,State Senate,7,general,Jessica Bichler,Democratic,48535,52.61,True,False
+2026,North Carolina,NC,State Senate,7,general,Michael Lee,Republican,43718,47.39,False,True
+2026,North Carolina,NC,State Senate,8,general,Bill Rabon,Republican,59587,52.16,True,True
+2026,North Carolina,NC,State Senate,8,general,Richard Combes,Democratic,52142,45.64,False,False
 2026,North Carolina,NC,State Senate,8,general,Tim White,Libertarian,2516,2.2,False,False
-2026,North Carolina,NC,State Senate,9,general,Brent Jackson,Republican,48599,100.0,True,True
-2026,North Carolina,NC,State Senate,10,general,Benton Sawrey,Republican,44011,49.63,True,True
-2026,North Carolina,NC,State Senate,10,general,Pat LeGrand,Democratic,42879,48.35,False,False
+2026,North Carolina,NC,State Senate,9,general,Brent Jackson,Republican,48596,100.0,True,True
+2026,North Carolina,NC,State Senate,10,general,Benton Sawrey,Republican,44010,49.63,True,True
+2026,North Carolina,NC,State Senate,10,general,Pat LeGrand,Democratic,42874,48.35,False,False
 2026,North Carolina,NC,State Senate,10,general,Kevin Terrett,Libertarian,1791,2.02,False,False
-2026,North Carolina,NC,State Senate,11,general,James Gailliard,Democratic,45648,51.46,True,False
-2026,North Carolina,NC,State Senate,11,general,Lisa Stone Barnes,Republican,40967,46.19,False,True
+2026,North Carolina,NC,State Senate,11,general,James Gailliard,Democratic,45634,51.46,True,False
+2026,North Carolina,NC,State Senate,11,general,Lisa Stone Barnes,Republican,40966,46.19,False,True
 2026,North Carolina,NC,State Senate,11,general,Gavin Bell,Libertarian,2085,2.35,False,False
 2026,North Carolina,NC,State Senate,12,general,Jim Burgin,Republican,35025,51.72,True,True
-2026,North Carolina,NC,State Senate,12,general,Tanya White Anderson,Democratic,32700,48.28,False,False
-2026,North Carolina,NC,State Senate,13,general,Lisa Grafstein,Democratic,63974,60.8,True,True
-2026,North Carolina,NC,State Senate,13,general,Robert van Brederode,Republican,41252,39.2,False,False
-2026,North Carolina,NC,State Senate,14,general,Dan Blue,Democratic,68334,82.02,True,True
-2026,North Carolina,NC,State Senate,14,general,Angela McCarty,Republican,14976,17.98,False,False
-2026,North Carolina,NC,State Senate,15,general,Jay Chaudhuri,Democratic,61610,75.11,True,True
-2026,North Carolina,NC,State Senate,15,general,David Bankert,Republican,20418,24.89,False,False
-2026,North Carolina,NC,State Senate,16,general,Gale Adcock,Democratic,66862,74.6,True,True
-2026,North Carolina,NC,State Senate,16,general,Philip Hensley,Republican,21002,23.43,False,False
+2026,North Carolina,NC,State Senate,12,general,Tanya White Anderson,Democratic,32695,48.28,False,False
+2026,North Carolina,NC,State Senate,13,general,Lisa Grafstein,Democratic,63972,60.8,True,True
+2026,North Carolina,NC,State Senate,13,general,Robert van Brederode,Republican,41253,39.2,False,False
+2026,North Carolina,NC,State Senate,14,general,Dan Blue,Democratic,68329,82.02,True,True
+2026,North Carolina,NC,State Senate,14,general,Angela McCarty,Republican,14974,17.98,False,False
+2026,North Carolina,NC,State Senate,15,general,Jay Chaudhuri,Democratic,61597,75.11,True,True
+2026,North Carolina,NC,State Senate,15,general,David Bankert,Republican,20422,24.89,False,False
+2026,North Carolina,NC,State Senate,16,general,Gale Adcock,Democratic,66849,74.6,True,True
+2026,North Carolina,NC,State Senate,16,general,Philip Hensley,Republican,21001,23.43,False,False
 2026,North Carolina,NC,State Senate,16,general,Jonathan Miller,Libertarian,1765,1.97,False,False
-2026,North Carolina,NC,State Senate,17,general,Sydney Batch,Democratic,61777,72.7,True,True
+2026,North Carolina,NC,State Senate,17,general,Sydney Batch,Democratic,61775,72.7,True,True
 2026,North Carolina,NC,State Senate,17,general,Shirley Johnson,Republican,21424,25.21,False,False
 2026,North Carolina,NC,State Senate,17,general,Patrick Bowersox,Libertarian,1769,2.08,False,False
-2026,North Carolina,NC,State Senate,18,general,Haseeb Fatmi,Democratic,54365,54.81,True,True
-2026,North Carolina,NC,State Senate,18,general,Chris Stock,Republican,42404,42.75,False,False
-2026,North Carolina,NC,State Senate,18,general,Brad Hessel,Libertarian,2414,2.43,False,False
-2026,North Carolina,NC,State Senate,19,general,Val Applewhite,Democratic,45731,73.6,True,True
-2026,North Carolina,NC,State Senate,19,general,Venus de la Cruz,Republican,16406,26.4,False,False
-2026,North Carolina,NC,State Senate,20,general,Natalie Murdock,Democratic,85823,100.0,True,True
-2026,North Carolina,NC,State Senate,21,general,Tom McInnis,Republican,42087,54.36,True,True
-2026,North Carolina,NC,State Senate,21,general,Paul Taylor,Democratic,35334,45.64,False,False
-2026,North Carolina,NC,State Senate,22,general,Sophia Chitlik,Democratic,73421,85.25,True,True
-2026,North Carolina,NC,State Senate,22,general,Lakeshia Alston,Republican,12702,14.75,False,False
-2026,North Carolina,NC,State Senate,23,general,Jonah Garson,Democratic,69490,72.57,True,True
-2026,North Carolina,NC,State Senate,23,general,Laura Pichardo,Republican,26263,27.43,False,False
-2026,North Carolina,NC,State Senate,24,general,Danny Britt,Republican,28047,50.2,True,True
-2026,North Carolina,NC,State Senate,24,general,Catina Hamm,Democratic,27819,49.8,False,False
-2026,North Carolina,NC,State Senate,25,general,Amy Galey,Republican,42777,51.48,True,True
-2026,North Carolina,NC,State Senate,25,general,Southey Blanton,Democratic,40313,48.52,False,False
-2026,North Carolina,NC,State Senate,26,general,Sam Page,Republican,50371,53.71,True,False
-2026,North Carolina,NC,State Senate,26,general,Steve Luking,Democratic,43417,46.29,False,False
-2026,North Carolina,NC,State Senate,27,general,Michael Garrett,Democratic,61400,100.0,True,True
-2026,North Carolina,NC,State Senate,28,general,Gladys Robinson,Democratic,61394,100.0,True,True
-2026,North Carolina,NC,State Senate,29,general,Dave Craven,Republican,43271,60.91,True,True
-2026,North Carolina,NC,State Senate,29,general,Judy Little,Democratic,27768,39.09,False,False
-2026,North Carolina,NC,State Senate,30,general,Steve Jarvis,Republican,52335,66.07,True,True
-2026,North Carolina,NC,State Senate,30,general,Pamela McAfee,Democratic,26871,33.93,False,False
-2026,North Carolina,NC,State Senate,31,general,Dana Caudill Jones,Republican,50134,53.63,True,True
-2026,North Carolina,NC,State Senate,31,general,Andy Bowline,Democratic,43349,46.37,False,False
-2026,North Carolina,NC,State Senate,32,general,Paul Lowe Jr.,Democratic,57582,75.97,True,True
+2026,North Carolina,NC,State Senate,18,general,Haseeb Fatmi,Democratic,54360,54.81,True,True
+2026,North Carolina,NC,State Senate,18,general,Chris Stock,Republican,42402,42.76,False,False
+2026,North Carolina,NC,State Senate,18,general,Brad Hessel,Libertarian,2412,2.43,False,False
+2026,North Carolina,NC,State Senate,19,general,Val Applewhite,Democratic,45711,73.59,True,True
+2026,North Carolina,NC,State Senate,19,general,Venus de la Cruz,Republican,16403,26.41,False,False
+2026,North Carolina,NC,State Senate,20,general,Natalie Murdock,Democratic,85783,100.0,True,True
+2026,North Carolina,NC,State Senate,21,general,Tom McInnis,Republican,42089,54.37,True,True
+2026,North Carolina,NC,State Senate,21,general,Paul Taylor,Democratic,35329,45.63,False,False
+2026,North Carolina,NC,State Senate,22,general,Sophia Chitlik,Democratic,73404,85.25,True,True
+2026,North Carolina,NC,State Senate,22,general,Lakeshia Alston,Republican,12701,14.75,False,False
+2026,North Carolina,NC,State Senate,23,general,Jonah Garson,Democratic,69464,72.57,True,True
+2026,North Carolina,NC,State Senate,23,general,Laura Pichardo,Republican,26259,27.43,False,False
+2026,North Carolina,NC,State Senate,24,general,Danny Britt,Republican,28055,50.2,True,True
+2026,North Carolina,NC,State Senate,24,general,Catina Hamm,Democratic,27830,49.8,False,False
+2026,North Carolina,NC,State Senate,25,general,Amy Galey,Republican,42774,51.49,True,True
+2026,North Carolina,NC,State Senate,25,general,Southey Blanton,Democratic,40304,48.51,False,False
+2026,North Carolina,NC,State Senate,26,general,Sam Page,Republican,50369,53.71,True,False
+2026,North Carolina,NC,State Senate,26,general,Steve Luking,Democratic,43410,46.29,False,False
+2026,North Carolina,NC,State Senate,27,general,Michael Garrett,Democratic,61401,100.0,True,True
+2026,North Carolina,NC,State Senate,28,general,Gladys Robinson,Democratic,61383,100.0,True,True
+2026,North Carolina,NC,State Senate,29,general,Dave Craven,Republican,43275,60.92,True,True
+2026,North Carolina,NC,State Senate,29,general,Judy Little,Democratic,27766,39.08,False,False
+2026,North Carolina,NC,State Senate,30,general,Steve Jarvis,Republican,52335,66.08,True,True
+2026,North Carolina,NC,State Senate,30,general,Pamela McAfee,Democratic,26869,33.92,False,False
+2026,North Carolina,NC,State Senate,31,general,Dana Caudill Jones,Republican,50134,53.64,True,True
+2026,North Carolina,NC,State Senate,31,general,Andy Bowline,Democratic,43338,46.36,False,False
+2026,North Carolina,NC,State Senate,32,general,Paul Lowe Jr.,Democratic,57567,75.96,True,True
 2026,North Carolina,NC,State Senate,32,general,Peter Antinozzi,Republican,16840,22.22,False,False
-2026,North Carolina,NC,State Senate,32,general,Keenan Altic,Green,1378,1.82,False,False
-2026,North Carolina,NC,State Senate,33,general,Carl Ford,Republican,46881,62.41,True,True
-2026,North Carolina,NC,State Senate,33,general,Gary Weart,Democratic,28234,37.59,False,False
-2026,North Carolina,NC,State Senate,34,general,April Cook,Democratic,47034,57.73,True,False
-2026,North Carolina,NC,State Senate,34,general,Kevin Crutchfield,Republican,34437,42.27,False,False
-2026,North Carolina,NC,State Senate,35,general,Todd Johnson,Republican,52240,53.99,True,True
-2026,North Carolina,NC,State Senate,35,general,Christine Winward,Democratic,44517,46.01,False,False
-2026,North Carolina,NC,State Senate,36,general,Eddie Settle,Republican,54246,72.84,True,True
-2026,North Carolina,NC,State Senate,36,general,Trevor Cole Hardwick,Democratic,20222,27.16,False,False
-2026,North Carolina,NC,State Senate,37,general,Vickie Sawyer,Republican,51821,56.61,True,True
-2026,North Carolina,NC,State Senate,37,general,Raygan Angel,Democratic,39718,43.39,False,False
-2026,North Carolina,NC,State Senate,38,general,Mujtaba Mohammed,Democratic,75326,100.0,True,True
-2026,North Carolina,NC,State Senate,39,general,DeAndrea Salvador,Democratic,69759,100.0,True,True
-2026,North Carolina,NC,State Senate,40,general,Joyce Waddell,Democratic,57235,83.58,True,True
+2026,North Carolina,NC,State Senate,32,general,Keenan Altic,Green,1377,1.82,False,False
+2026,North Carolina,NC,State Senate,33,general,Carl Ford,Republican,46878,62.41,True,True
+2026,North Carolina,NC,State Senate,33,general,Gary Weart,Democratic,28229,37.59,False,False
+2026,North Carolina,NC,State Senate,34,general,April Cook,Democratic,47029,57.73,True,False
+2026,North Carolina,NC,State Senate,34,general,Kevin Crutchfield,Republican,34432,42.27,False,False
+2026,North Carolina,NC,State Senate,35,general,Todd Johnson,Republican,52239,53.99,True,True
+2026,North Carolina,NC,State Senate,35,general,Christine Winward,Democratic,44511,46.01,False,False
+2026,North Carolina,NC,State Senate,36,general,Eddie Settle,Republican,54239,72.85,True,True
+2026,North Carolina,NC,State Senate,36,general,Trevor Cole Hardwick,Democratic,20219,27.15,False,False
+2026,North Carolina,NC,State Senate,37,general,Vickie Sawyer,Republican,51818,56.61,True,True
+2026,North Carolina,NC,State Senate,37,general,Raygan Angel,Democratic,39719,43.39,False,False
+2026,North Carolina,NC,State Senate,38,general,Mujtaba Mohammed,Democratic,75320,100.0,True,True
+2026,North Carolina,NC,State Senate,39,general,DeAndrea Salvador,Democratic,69754,100.0,True,True
+2026,North Carolina,NC,State Senate,40,general,Joyce Waddell,Democratic,57230,83.58,True,True
 2026,North Carolina,NC,State Senate,40,general,Bobbie Shields,Republican,11242,16.42,False,False
-2026,North Carolina,NC,State Senate,41,general,Caleb Theodros,Democratic,70091,84.56,True,True
-2026,North Carolina,NC,State Senate,41,general,Kevin Gray,Republican,12798,15.44,False,False
-2026,North Carolina,NC,State Senate,42,general,Woodson Bradley,Democratic,57301,58.89,True,True
-2026,North Carolina,NC,State Senate,42,general,Stacie McGinn,Republican,40009,41.11,False,False
-2026,North Carolina,NC,State Senate,43,general,Brad Overcash,Republican,39263,50.86,True,True
-2026,North Carolina,NC,State Senate,43,general,Steve Rutherford,Democratic,37928,49.14,False,False
-2026,North Carolina,NC,State Senate,44,general,Ted Alexander,Republican,50427,64.39,True,True
-2026,North Carolina,NC,State Senate,44,general,Rod Powell,Democratic,27887,35.61,False,False
-2026,North Carolina,NC,State Senate,45,general,Mark Hollo,Republican,49165,62.73,True,True
-2026,North Carolina,NC,State Senate,45,general,Greg Cranford,Democratic,29215,37.27,False,False
+2026,North Carolina,NC,State Senate,41,general,Caleb Theodros,Democratic,70084,84.56,True,True
+2026,North Carolina,NC,State Senate,41,general,Kevin Gray,Republican,12797,15.44,False,False
+2026,North Carolina,NC,State Senate,42,general,Woodson Bradley,Democratic,57296,58.88,True,True
+2026,North Carolina,NC,State Senate,42,general,Stacie McGinn,Republican,40008,41.12,False,False
+2026,North Carolina,NC,State Senate,43,general,Brad Overcash,Republican,39263,50.87,True,True
+2026,North Carolina,NC,State Senate,43,general,Steve Rutherford,Democratic,37925,49.13,False,False
+2026,North Carolina,NC,State Senate,44,general,Ted Alexander,Republican,50426,64.39,True,True
+2026,North Carolina,NC,State Senate,44,general,Rod Powell,Democratic,27884,35.61,False,False
+2026,North Carolina,NC,State Senate,45,general,Mark Hollo,Republican,49160,62.73,True,True
+2026,North Carolina,NC,State Senate,45,general,Greg Cranford,Democratic,29207,37.27,False,False
 2026,North Carolina,NC,State Senate,46,general,Warren Daniel,Republican,42754,56.15,True,True
-2026,North Carolina,NC,State Senate,46,general,Kyle Whisnant,Democratic,33395,43.85,False,False
-2026,North Carolina,NC,State Senate,47,general,Ralph Hise,Republican,48756,55.5,True,True
-2026,North Carolina,NC,State Senate,47,general,Frank Patton Hughes III,Democratic,39098,44.5,False,False
-2026,North Carolina,NC,State Senate,48,general,Tim Moffitt,Republican,49468,55.21,True,True
-2026,North Carolina,NC,State Senate,48,general,Doyle Brown Jr.,Democratic,40131,44.79,False,False
-2026,North Carolina,NC,State Senate,49,general,Julie Mayfield,Democratic,77482,77.15,True,True
-2026,North Carolina,NC,State Senate,49,general,CJ Domingo,Republican,22953,22.85,False,False
-2026,North Carolina,NC,State Senate,50,general,Kevin Corbin,Republican,55528,58.17,True,True
-2026,North Carolina,NC,State Senate,50,general,Tom Downing,Democratic,39927,41.83,False,False
+2026,North Carolina,NC,State Senate,46,general,Kyle Whisnant,Democratic,33388,43.85,False,False
+2026,North Carolina,NC,State Senate,47,general,Ralph Hise,Republican,48754,55.49,True,True
+2026,North Carolina,NC,State Senate,47,general,Frank Patton Hughes III,Democratic,39099,44.51,False,False
+2026,North Carolina,NC,State Senate,48,general,Tim Moffitt,Republican,49460,55.21,True,True
+2026,North Carolina,NC,State Senate,48,general,Doyle Brown Jr.,Democratic,40120,44.79,False,False
+2026,North Carolina,NC,State Senate,49,general,Julie Mayfield,Democratic,77461,77.15,True,True
+2026,North Carolina,NC,State Senate,49,general,CJ Domingo,Republican,22946,22.85,False,False
+2026,North Carolina,NC,State Senate,50,general,Kevin Corbin,Republican,55526,58.17,True,True
+2026,North Carolina,NC,State Senate,50,general,Tom Downing,Democratic,39924,41.83,False,False
 2026,North Dakota,ND,State Senate,,general,1st,,2014.0,,True,False
 2026,North Dakota,ND,State Senate,,general,3rd,,,,False,False
 2026,North Dakota,ND,State Senate,,general,5th,,,,False,False
