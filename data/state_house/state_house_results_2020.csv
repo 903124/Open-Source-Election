@@ -209,7 +209,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Arkansas,AR,State House,32,general,Jim Sorvillo,Republican,8380.0,49.93,False,True
 2020,Arkansas,AR,State House,33,general,Tippi McCullough,Democratic,11734.0,100.0,True,True
 2020,Arkansas,AR,State House,34,general,Joy C. Springer,Democratic,6463.0,70.36,True,False
-2020,Arkansas,AR,State House,34,general,Roderick Greer Talley,Libertarian,2722.0,29.64,False,False
+2020,Arkansas,AR,State House,34,general,Roderick Greer Talley,Independent,2722.0,29.64,False,False
 2020,Arkansas,AR,State House,35,general,Andrew Collins,Democratic,12638.0,100.0,True,True
 2020,Arkansas,AR,State House,36,general,Denise Ennett,Democratic,8180.0,100.0,True,True
 2020,Arkansas,AR,State House,37,general,Jamie Aleshia Scott,Democratic,7727.0,100.0,True,True

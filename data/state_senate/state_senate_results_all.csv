@@ -7322,8 +7322,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Maryland,MD,State Senate,36,general,Nivek Johnson,Democratic,22099.0,40.74,False,False
 2026,Maryland,MD,State Senate,37,general,Johnny Mautz,Republican,29419.0,55.24,True,True
 2026,Maryland,MD,State Senate,37,general,Katie Clendaniel,Democratic,23819.0,44.72,False,False
-2026,Maryland,MD,State Senate,38,general,Mary Beth Carozza,Republican,,,True,True
-2026,Maryland,MD,State Senate,38,general,Lino Cressotti,Democratic,,,False,False
+2026,Maryland,MD,State Senate,38,general,Mary Beth Carozza,Republican,31748.0,61.23,True,True
+2026,Maryland,MD,State Senate,38,general,Lino Cressotti,Democratic,20067.0,38.7,False,False
 2026,Maryland,MD,State Senate,39,general,Amar Mukunda,Democratic,,,True,False
 2026,Maryland,MD,State Senate,40,general,Antonio Hayes,Democratic,,,True,True
 2026,Maryland,MD,State Senate,40,general,Alan Rebar,Class,,,False,False

@@ -61632,7 +61632,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Louisiana,LA,4,,Mike Johnson,Republican,,100.0,True,False,False
 2026,house,Maine,ME,1,,Chellie Pingree,Democratic,,100.0,True,False,False
 2026,house,Maine,ME,2,,Paul LePage,Republican,,100.0,True,False,True
-2026,house,Maryland,MD,1,,Andy Harris,Republican,,100.0,True,False,False
+2026,house,Maryland,MD,1,317083,Andy Harris,Republican,165256,100.0,True,False,False
 2026,house,Maryland,MD,2,,Johnny Olszewski,Democratic,,100.0,True,False,False
 2026,house,Maryland,MD,3,,Sarah Elfreth,Democratic,,100.0,True,False,False
 2026,house,Maryland,MD,4,,Glenn Ivey,Democratic,,100.0,True,False,False
@@ -61686,10 +61686,10 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Nebraska,NE,1,,Mike Flood,Republican,,100.0,True,False,False
 2026,house,Nebraska,NE,2,256577,Denise Powell,Democratic,145402,100.0,True,False,True
 2026,house,Nebraska,NE,3,,Adrian Smith,Republican,,100.0,True,False,False
-2026,house,Nevada,NV,1,,Dina Titus,Democratic,,100.0,True,False,False
-2026,house,Nevada,NV,2,,Teresa Benitez-Thompson,Democratic,,100.0,True,False,True
-2026,house,Nevada,NV,3,,Susie Lee,Democratic,,100.0,True,False,False
-2026,house,Nevada,NV,4,,Steven Horsford,Democratic,,100.0,True,False,False
+2026,house,Nevada,NV,1,239488,Dina Titus,Democratic,142035,100.0,True,False,False
+2026,house,Nevada,NV,2,324866,Teresa Benitez-Thompson,Democratic,,100.0,True,False,True
+2026,house,Nevada,NV,3,272539,Susie Lee,Democratic,162520,100.0,True,False,False
+2026,house,Nevada,NV,4,253675,Steven Horsford,Democratic,153396,100.0,True,False,False
 2026,house,New Hampshire,NH,1,,Stefany Shaheen,Democratic,,100.0,True,False,True
 2026,house,New Hampshire,NH,2,,Maggie Goodlander,Democratic,,100.0,True,False,False
 2026,house,New Jersey,NJ,1,,Donald Norcross,Democratic,,100.0,True,False,False
@@ -61701,7 +61701,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,New Jersey,NJ,4,,Chris Smith,Republican,,100.0,True,False,False
 2026,house,New Jersey,NJ,5,,Josh Gottheimer,Democratic,,100.0,True,False,False
 2026,house,New Jersey,NJ,6,,Frank Pallone,Democratic,,100.0,True,False,False
-2026,house,New Jersey,NJ,7,246308,Rebecca Bennett,Democratic,148433,100.0,True,False,False
+2026,house,New Jersey,NJ,7,336263,Rebecca Bennett,Democratic,193473,100.0,True,False,False
 2026,house,New Jersey,NJ,8,126543,Rob Menendez,Democratic,112079,100.0,True,False,False
 2026,house,New Jersey,NJ,9,,Nellie Pou,Democratic,,100.0,True,False,False
 2026,house,New Mexico,NM,1,,Melanie Stansbury,Democratic,,100.0,True,False,False
