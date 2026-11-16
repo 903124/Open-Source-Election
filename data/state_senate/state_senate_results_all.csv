@@ -7709,7 +7709,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,North Carolina,NC,State Senate,49,general,CJ Domingo,Republican,22946,22.85,False,False
 2026,North Carolina,NC,State Senate,50,general,Kevin Corbin,Republican,55526,58.17,True,True
 2026,North Carolina,NC,State Senate,50,general,Tom Downing,Democratic,39924,41.83,False,False
-2026,North Dakota,ND,State Senate,,general,1st,,2014.0,,True,False
+2026,North Dakota,ND,State Senate,,general,1st,,2014.0,,False,False
 2026,North Dakota,ND,State Senate,,general,3rd,,,,False,False
 2026,North Dakota,ND,State Senate,,general,5th,,,,False,False
 2026,North Dakota,ND,State Senate,,general,7th,,,,False,False
@@ -7730,7 +7730,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,North Dakota,ND,State Senate,,general,37th,,,,False,False
 2026,North Dakota,ND,State Senate,,general,39th,,,,False,False
 2026,North Dakota,ND,State Senate,,general,41st,,,,False,False
-2026,North Dakota,ND,State Senate,,general,43rd,,,,False,False
+2026,North Dakota,ND,State Senate,,general,Incumbent lost re-election. Democratic-NPL gain.,,,,True,False
 2026,North Dakota,ND,State Senate,,general,45th,,,,False,False
 2026,North Dakota,ND,State Senate,,general,47th,,,,False,False
 2026,Oklahoma,OK,State Senate,17,general,Justin Freeland Wood,Republican,,,True,False
@@ -7956,8 +7956,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Utah,UT,State Senate,14,general,Stephanie Pitcher,Democratic,,,True,True
 2026,Utah,UT,State Senate,18,general,Doug Fiefia,Republican,,,True,False
 2026,Utah,UT,State Senate,18,general,A. Dane Anderson,Democratic,,,False,False
-2026,Utah,UT,State Senate,19,general,Kirk Cullimore Jr.,Republican,,,True,True
-2026,Utah,UT,State Senate,19,general,Shana Anderson,Democratic,,,False,False
+2026,Utah,UT,State Senate,19,general,Shana Anderson,Democratic,,,True,False
+2026,Utah,UT,State Senate,19,general,Kirk Cullimore Jr.,Republican,,,False,True
 2026,Utah,UT,State Senate,20,general,Ronald Winterton,Republican,,,True,True
 2026,Utah,UT,State Senate,20,general,Annette McRae,Forward,,,False,False
 2026,Utah,UT,State Senate,21,general,Brady Brammer,Republican,,,True,True

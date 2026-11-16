@@ -61523,8 +61523,8 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Connecticut,CT,5,253066,Jahana Hayes,Democratic,146353,100.0,True,False,False
 2026,house,Delaware,DE,AL,,Joseph Arminio,Republican,,35.6,False,False,False
 2026,house,Delaware,DE,AL,,Sarah McBride,Democratic,,64.3,True,False,False
-2026,house,District of Columbia,DC,AL,,Denise Rosado,Republican,,6.5,False,False,True
-2026,house,District of Columbia,DC,AL,,Kymone Freeman,Green,,5.6,False,False,True
+2026,house,District of Columbia,DC,AL,,Denise Rosado,Republican,,6.3,False,False,True
+2026,house,District of Columbia,DC,AL,,Kymone Freeman,Green,,5.8,False,False,True
 2026,house,District of Columbia,DC,AL,,Robert White,Democratic,,87.3,True,False,True
 2026,house,Florida,FL,1,291010,Jimmy Patronis,Republican,181944,100.0,True,False,False
 2026,house,Florida,FL,10,,Maxwell Frost,Democratic,,100.0,True,False,False
@@ -61820,7 +61820,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,South Carolina,SC,6,260742,John Peterson,Republican,79584,30.6,False,False,False
 2026,house,South Carolina,SC,7,304088,John Vincent,Democratic,131445,43.2,False,False,False
 2026,house,South Carolina,SC,7,304088,Russell Fry,Republican,172439,56.7,True,False,False
-2026,house,South Dakota,SD,AL,305580,Marty Jackley,Republican,195587,100.0,True,False,True
+2026,house,South Dakota,SD,AL,305586,Marty Jackley,Republican,195589,100.0,True,False,True
 2026,house,Tennessee,TN,1,,Diana Harshbarger,Republican,,100.0,True,False,False
 2026,house,Tennessee,TN,2,,Tim Burchett,Republican,,100.0,True,False,False
 2026,house,Tennessee,TN,3,,Chuck Fleischmann,Republican,,100.0,True,False,False
