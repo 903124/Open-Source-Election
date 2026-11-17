@@ -382,8 +382,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Maryland,MD,State Senate,10,general,Benjamin Brooks,Democratic,40046.0,98.07,True,True
 2026,Maryland,MD,State Senate,11,general,Shelly Hettleman,Democratic,37812.0,76.34,True,True
 2026,Maryland,MD,State Senate,11,general,Jim Simpson,Republican,11668.0,23.56,False,False
-2026,Maryland,MD,State Senate,12,general,Clarence Lam,Democratic,,,True,True
-2026,Maryland,MD,State Senate,13,general,Guy Guzzone,Democratic,,,True,True
+2026,Maryland,MD,State Senate,12,general,Clarence Lam,Democratic,40139.0,96.79,True,True
+2026,Maryland,MD,State Senate,13,general,Guy Guzzone,Democratic,44653.0,97.64,True,True
 2026,Maryland,MD,State Senate,14,general,Craig Zucker,Democratic,,,True,True
 2026,Maryland,MD,State Senate,15,general,Brian Feldman,Democratic,,,True,True
 2026,Maryland,MD,State Senate,16,general,Sara N. Love,Democratic,,,True,False
@@ -403,17 +403,17 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Maryland,MD,State Senate,26,general,C. Anthony Muse,Democratic,,,True,True
 2026,Maryland,MD,State Senate,27,general,Kevin Harris,Democratic,,,True,True
 2026,Maryland,MD,State Senate,27,general,Al Larsen,Republican,,,False,False
-2026,Maryland,MD,State Senate,28,general,C. T. Wilson,Democratic,,,True,False
+2026,Maryland,MD,State Senate,28,general,C. T. Wilson,Democratic,48477.0,97.02,True,False
 2026,Maryland,MD,State Senate,29,general,Jack Bailey,Republican,27655.0,54.44,True,True
 2026,Maryland,MD,State Senate,29,general,Chuck Borges,Democratic,23103.0,45.48,False,False
-2026,Maryland,MD,State Senate,30,general,Shaneka Henson,Democratic,,,True,True
-2026,Maryland,MD,State Senate,30,general,Jessica Haire,Republican,,,False,False
-2026,Maryland,MD,State Senate,31,general,Nic Kipke,Republican,,,True,False
-2026,Maryland,MD,State Senate,31,general,Brent Mulrooney,Democratic,,,False,False
-2026,Maryland,MD,State Senate,32,general,Mark S. Chang,Democratic,,,True,False
-2026,Maryland,MD,State Senate,32,general,Justin Gallucci,Republican,,,False,False
-2026,Maryland,MD,State Senate,33,general,Dawn Gile,Democratic,,,True,True
-2026,Maryland,MD,State Senate,33,general,Amy Leahy,Republican,,,False,False
+2026,Maryland,MD,State Senate,30,general,Shaneka Henson,Democratic,31776.0,58.92,True,True
+2026,Maryland,MD,State Senate,30,general,Jessica Haire,Republican,22043.0,40.87,False,False
+2026,Maryland,MD,State Senate,31,general,Nic Kipke,Republican,29612.0,54.38,True,False
+2026,Maryland,MD,State Senate,31,general,Brent Mulrooney,Democratic,24783.0,45.51,False,False
+2026,Maryland,MD,State Senate,32,general,Mark S. Chang,Democratic,30932.0,73.6,True,False
+2026,Maryland,MD,State Senate,32,general,Justin Gallucci,Republican,11040.0,26.27,False,False
+2026,Maryland,MD,State Senate,33,general,Dawn Gile,Democratic,37066.0,63.78,True,True
+2026,Maryland,MD,State Senate,33,general,Amy Leahy,Republican,20972.0,36.09,False,False
 2026,Maryland,MD,State Senate,34,general,Mary-Dulany James,Democratic,31161.0,60.32,True,True
 2026,Maryland,MD,State Senate,34,general,Raj Goel,Republican,20397.0,39.48,False,False
 2026,Maryland,MD,State Senate,35,general,Jason C. Gallion,Republican,37412.0,66.21,True,True

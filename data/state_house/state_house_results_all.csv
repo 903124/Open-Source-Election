@@ -24816,6 +24816,9 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Texas,TX,State House,150,general,Valoree Swanson,Republican,,,True,True
 2026,Texas,TX,State House,150,general,A'Yonna Kellum,Democratic,,,False,False
 2026,Utah,UT,State House,,general,"Results as of November 9, 2026",,,,True,False
+2026,Utah,UT,State House,3,general,Incumbent lost re-election. Independent gain.,,,,True,False
+2026,Utah,UT,State House,4,general,Incumbent lost re-election. Democratic gain.,,,,True,False
+2026,Utah,UT,State House,7,general,},,,,True,False
 2026,West Virginia,WV,State House,1,general,Pat McGeehan,Republican,,,True,True
 2026,West Virginia,WV,State House,1,general,Quincy Wilson,Democratic,,,False,False
 2026,West Virginia,WV,State House,2,general,Tony Viola,Republican,,,True,False

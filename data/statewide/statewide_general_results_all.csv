@@ -3365,59 +3365,59 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2020,West Virginia,WV,governor,"West Virginia gubernatorial election, 2020",Candidate,Daniel Lutz,Mountain,11309,1.44,False,False
 2020,West Virginia,WV,governor,"West Virginia gubernatorial election, 2020",Write-in,,,363,0.05,False,False
 2020,West Virginia,WV,governor,"West Virginia gubernatorial election, 2020",Total,,,784287,100.0,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Larry Elder,Republican,3563867,48.4,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Larry Elder,Republican,3563867,48.41,False,False
 2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Kevin Paffrath,Democratic,706778,9.6,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Kevin Faulconer,Republican,590346,8.0,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Brandon M. Ross,Democratic,392029,5.3,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,John Cox,Republican,305095,4.1,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Kevin Kiley,Republican,255490,3.5,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Jacqueline McGowan,Democratic,214242,2.9,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Joel Ventresca,Democratic,186345,2.5,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Daniel Watts,Democratic,167355,2.3,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Holly L. Baade,Democratic,92218,1.3,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Patrick Kilpatrick,Democratic,86617,1.2,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,"Armando ""Mando"" Perez-Serrato",Democratic,85061,1.2,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Caitlyn Jenner,Republican,75215,1.0,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,John R. Drake,Democratic,68545,0.9,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Dan Kapelovitz,Green,64375,0.9,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Jeff Hewitt,Libertarian,50378,0.7,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Ted Gaines,Republican,47937,0.7,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Angelyne,No party preference,35900,0.5,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,David Moore,No party preference,31224,0.4,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Anthony Trimino,Republican,28101,0.4,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Doug Ose,Republican,26204,0.4,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Michael Loebs,No party preference,25468,0.3,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Heather Collins,Green,24260,0.3,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Major Singh,No party preference,21394,0.3,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,David Lozano,Republican,19945,0.3,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Denver Stoner,Republican,19588,0.3,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Sam Gallucci,Republican,18134,0.2,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Steve Chavez Lodge,Republican,17435,0.2,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Jenny Rae Le Roux,Republican,16032,0.2,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,David Alexander Bramante,Republican,11501,0.2,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Diego Martinez,Republican,10860,0.1,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Robert C. Newman II,Republican,10602,0.1,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Sarah Stephens,Republican,10583,0.1,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Dennis Richter,No party preference,10468,0.1,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Major Williams (write-in),Republican,8965,0.1,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Denis Lucey,No party preference,8182,0.1,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Kevin Faulconer,Republican,590346,8.02,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Brandon M. Ross,Democratic,392029,5.33,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,John Cox,Republican,305095,4.14,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Kevin Kiley,Republican,255490,3.47,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Jacqueline McGowan,Democratic,214242,2.91,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Joel Ventresca,Democratic,186345,2.53,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Daniel Watts,Democratic,167355,2.27,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Holly L. Baade,Democratic,92218,1.25,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Patrick Kilpatrick,Democratic,86617,1.18,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,"Armando ""Mando"" Perez-Serrato",Democratic,85061,1.16,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Caitlyn Jenner,Republican,75215,1.02,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,John R. Drake,Democratic,68545,0.93,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Dan Kapelovitz,Green,64375,0.88,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Jeff Hewitt,Libertarian,50378,0.68,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Ted Gaines,Republican,47937,0.65,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Angelyne,No party preference,35900,0.49,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,David Moore,No party preference,31224,0.42,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Anthony Trimino,Republican,28101,0.38,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Doug Ose,Republican,26204,0.36,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Michael Loebs,No party preference,25468,0.35,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Heather Collins,Green,24260,0.33,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Major Singh,No party preference,21394,0.29,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,David Lozano,Republican,19945,0.27,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Denver Stoner,Republican,19588,0.27,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Sam Gallucci,Republican,18134,0.25,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Steve Chavez Lodge,Republican,17435,0.24,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Jenny Rae Le Roux,Republican,16032,0.22,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,David Alexander Bramante,Republican,11501,0.16,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Diego Martinez,Republican,10860,0.15,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Robert C. Newman II,Republican,10602,0.14,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Sarah Stephens,Republican,10583,0.14,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Dennis Richter,No party preference,10468,0.14,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Major Williams (write-in),Republican,8965,0.12,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Denis Lucey,No party preference,8182,0.11,False,False
 2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,James G. Hanink,No party preference,7193,0.1,False,False
 2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Daniel Mercuri,Republican,7110,0.1,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,"Chauncey ""Slim"" Killens",Republican,6879,0.1,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Leo S. Zacky,Republican,6099,0.1,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Kevin Kaul,No party preference,5600,0.1,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,David Hillberg,Republican,4435,0.1,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Adam Papagan,No party preference,4021,0.1,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Rhonda Furin,Republican,3964,0.1,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Nickolas Wildstar,Republican,3811,0.1,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,"Jeremiah ""Jeremy"" Marciniak",No party preference,2894,0.0,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Joe M. Symmon,Republican,2397,0.0,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Miki Habryn (write-in),No party preference,137,0.0,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Roxanne (write-in),Democratic,116,0.0,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Stacy Smith (write-in),Democratic,81,0.0,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Vivek B. Mohan (write-in),No party preference,68,0.0,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Thuy E. Hugens (write-in),Independent,19,0.0,False,False
-2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Vince Lundgren (write-in),No party preference,5,0.0,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,"Chauncey ""Slim"" Killens",Republican,6879,0.09,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Leo S. Zacky,Republican,6099,0.08,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Kevin Kaul,No party preference,5600,0.08,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,David Hillberg,Republican,4435,0.06,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Adam Papagan,No party preference,4021,0.06,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Rhonda Furin,Republican,3964,0.05,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Nickolas Wildstar,Republican,3811,0.05,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,"Jeremiah ""Jeremy"" Marciniak",No party preference,2894,0.04,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Joe M. Symmon,Republican,2397,0.03,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Miki Habryn (write-in),No party preference,137,0.01,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Roxanne (write-in),Democratic,116,0.01,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Stacy Smith (write-in),Democratic,81,0.01,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Vivek B. Mohan (write-in),No party preference,68,0.01,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Thuy E. Hugens (write-in),Independent,19,0.01,False,False
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Candidate,Vince Lundgren (write-in),No party preference,5,0.01,False,False
 2021,California,CA,governor,2021 California gubernatorial recall election (question 2),Total,,,7361568,100.0,False,False
 2021,New Jersey,NJ,governor,2021 New Jersey gubernatorial election,Winning,Phil Murphy,Democratic,1339471,51.22,True,True
 2021,New Jersey,NJ,governor,2021 New Jersey gubernatorial election,Candidate,Jack Ciattarelli,Republican,1255185,48.0,False,False
@@ -4120,16 +4120,19 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Candidate,Wayne Rogers,Democratic,756411,45.39,False,False
 2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Write-in,,,1257,0.08,False,False
 2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Total,,,1666647,100.0,False,False
-2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Candidate,Young Boozer,Republican,,,False,True
-2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Candidate,Rosilyn Houston,Democratic,,,False,False
-2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Total,,,,100.0,False,False
+2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Winning,Young Boozer,Republican,917177,54.98,True,True
+2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Candidate,Rosilyn Houston,Democratic,749785,44.95,False,False
+2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Write-in,,,1100,0.07,False,False
+2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Total,,,1668062,100.0,False,False
 2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Winning,Tommy Tuberville,Republican,873332,52.0,True,False
 2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Candidate,Doug Jones,Democratic,806270,48.0,False,False
 2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Total,,,1679602,100.0,False,False
-2026,Alaska,AK,governor,2026 Alaska's at-large congressional district election,Candidate,Dan S. Sullivan,Republican,,,False,True
-2026,Alaska,AK,governor,2026 Alaska's at-large congressional district election,Candidate,Mary Peltola,Democratic,,,False,False
-2026,Alaska,AK,governor,2026 Alaska's at-large congressional district election,Candidate,TBD,Republican,,,False,False
-2026,Alaska,AK,governor,2026 Alaska's at-large congressional district election,Total,,,,,False,False
+2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Winning,Jonathan Kreiss-Tomkins Zac Johnson,Democratic,142591,50.93,True,False
+2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Candidate,Bernadette Wilson Mike Shower,Republican,78305,27.97,False,False
+2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Candidate,Dave Bronson Josh Church,Republican,38179,13.64,False,False
+2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Candidate,Treg Taylor Candice English,Republican,20112,7.18,False,False
+2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Write-in,,,808,0.29,False,False
+2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Total,,,279995,100.0,False,False
 2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Candidate,Kris Mayes,Democratic,,,False,True
 2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Candidate,Warren Petersen,Republican,,,False,False
 2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Total,,,,100.0,False,False
@@ -4142,18 +4145,18 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Arizona,AZ,state treasurer,2026 Arizona State Treasurer election,Candidate,Elijah Norton,Republican,1009322,46.27,False,False
 2026,Arizona,AZ,state treasurer,2026 Arizona State Treasurer election,Write-in,,,1839,0.09,False,False
 2026,Arizona,AZ,state treasurer,2026 Arizona State Treasurer election,Total,,,2181181,100.0,False,False
-2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Katie Hobbs,Democratic,1424282,55.65,False,True
-2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Andy Biggs,Republican,1087326,42.49,False,False
-2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Risa Lombardo,Green,24330,0.95,False,False
-2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Teri Ann Hourihan,Labels,23298,0.91,False,False
-2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Write-in,,,16,0.0,False,False
-2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Total,,,2559252,100.0,False,False
+2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Katie Hobbs,Democratic,1434813,55.67,False,True
+2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Andy Biggs,Republican,1094388,42.46,False,False
+2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Risa Lombardo,Green,24644,0.96,False,False
+2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Teri Ann Hourihan,Labels,23520,0.91,False,False
+2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Write-in,,,18,0.0,False,False
+2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Total,,,2577383,100.0,False,False
 2026,Arkansas,AR,attorney general,2026 Arkansas Attorney General election,Candidate,Tim Griffin incumbent),Republican,,,False,False
 2026,Arkansas,AR,attorney general,2026 Arkansas Attorney General election,Total,,,,100.0,False,False
-2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Candidate,Kim Hammer,Republican,,,False,False
-2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Candidate,Kelly Grappe,Democratic,,,False,False
-2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Candidate,Michael Pakko,Libertarian,,,False,False
-2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Total,,,,,False,False
+2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Winning,Kim Hammer,Republican,490605,55.85,True,False
+2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Candidate,Kelly Grappe,Democratic,347639,39.58,False,False
+2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Candidate,Michael Pakko,Libertarian,40174,4.57,False,False
+2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Total,,,878418,100.0,False,False
 2026,Arkansas,AR,governor,2026 Arkansas gubernatorial election,Winning,Sarah Huckabee Sanders,Republican,477304,53.87,True,False
 2026,Arkansas,AR,governor,2026 Arkansas gubernatorial election,Candidate,Fredrick Love,Democratic,341842,38.58,False,False
 2026,Arkansas,AR,governor,2026 Arkansas gubernatorial election,Candidate,Colt Shelby,Libertarian,66913,7.55,False,False
@@ -4181,14 +4184,14 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Jodie Barr,Libertarian,,,False,False
 2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Marilee Langner Sturgis,Voting,,,False,False
 2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Total,,,,100.0,False,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Winning,Phil Weiser,Democratic,1628795,61.07,True,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Victor Marx,Republican,887672,33.28,False,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Greg Lopez,Independent,73866,2.77,False,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Erik Mulder,Libertarian,44370,1.66,False,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Stephen T. Hamilton,American Constitution Party (colorado),17255,0.65,False,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Erik Underwood,Voting,9413,0.35,False,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Jeff Peckman,Unity,5956,0.22,False,False
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Total,,,2667327,100.0,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Winning,Phil Weiser,Democratic,1639109,61.13,True,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Victor Marx,Republican,890472,33.21,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Greg Lopez,Independent,74134,2.76,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Erik Mulder,Libertarian,44643,1.67,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Stephen T. Hamilton,American Constitution Party (colorado),17340,0.65,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Erik Underwood,Voting,9533,0.36,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Jeff Peckman,Unity,6013,0.22,False,False
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Total,,,2681244,100.0,False,False
 2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Winning,William Tong,Total,807844,63.24,True,True
 2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Candidate,William Tong,Democratic,767127,60.05,False,False
 2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Candidate,John Bolton,Republican,469545,36.76,False,False
@@ -4214,28 +4217,29 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Florida,FL,attorney general,2026 Florida Attorney General election,Candidate,James Uthmeier,Republican,,,False,True
 2026,Florida,FL,attorney general,2026 Florida Attorney General election,Candidate,Jose Javier Rodriguez,Democratic,,,False,False
 2026,Florida,FL,attorney general,2026 Florida Attorney General election,Total,,,,100.0,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Winning,Byron Donalds Bryan Avila,Republican,4135701,50.01,True,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,David Jolly Gwen Graham,Democratic,4029461,48.72,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Scott Eckhard Jewett Nicole Skelly,Libertarian,37939,0.46,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Frank J. Russo Rachel Rodriguez,Independent Candidate,23240,0.28,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Charles Burkett Ruben A. Coto,Independent Candidate,15259,0.19,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Dean Ocean Abrams Joe Van Vactor,Independent Candidate,12564,0.15,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Winning,Byron Donalds Bryan Avila,Republican,4135955,50.0,True,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,David Jolly Gwen Graham,Democratic,4030579,48.73,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Scott Eckhard Jewett Nicole Skelly,Libertarian,37951,0.46,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Frank J. Russo Rachel Rodriguez,Independent Candidate,23244,0.28,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Charles Burkett Ruben A. Coto,Independent Candidate,15261,0.19,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Dean Ocean Abrams Joe Van Vactor,Independent Candidate,12568,0.15,False,False
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,"Jeffrey Peter ""Dr. Jeff"" Datto Juan Santana",Independent Candidate,8331,0.1,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Moliere Dimanche Benjiman Rojas,Independent Candidate,7606,0.09,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Write-in,Various write-in candidates,Write-in,0,0.0,False,False
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Total,,,8270101,100.0,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Moliere Dimanche Benjiman Rojas,Independent Candidate,7609,0.09,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Write-in,Various write-in candidates,Write-in,129,0.0,False,False
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Total,,,8271627,100.0,False,False
 2026,Georgia,GA,attorney general,2026 Georgia Attorney General election,Candidate,Brian Strickland,Republican,,,False,False
 2026,Georgia,GA,attorney general,2026 Georgia Attorney General election,Candidate,Tanya Miller,Democratic,,,False,False
 2026,Georgia,GA,attorney general,2026 Georgia Attorney General election,Total,,,,100.0,False,False
-2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Candidate,Keisha Lance Bottoms,Democratic,2273305,54.33,False,False
-2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Candidate,Rick Jackson,Republican,1910706,45.67,False,False
-2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Total,,,4184011,100.0,False,False
-2026,Guam,GU,attorney general,2026 Guam Attorney General election,Winning,Phil Tydingco,Independent,,,True,False
-2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Douglas Moylan,Independent,,,False,True
-2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Tom Fisher,Independent,,,False,False
-2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Pete Santos,Independent,,,False,False
-2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Jordan Pauluhn,Independent,,,False,False
-2026,Guam,GU,attorney general,2026 Guam Attorney General election,Total,,,,100.0,False,False
+2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Candidate,Keisha Lance Bottoms,Democratic,2273861,54.34,False,False
+2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Candidate,Rick Jackson,Republican,1910910,45.66,False,False
+2026,Georgia,GA,governor,2026 Georgia gubernatorial election,Total,,,4184771,100.0,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Winning,Phil Tydingco,Independent,11583,38.29,True,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Douglas Moylan,Independent,10008,33.08,False,True
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Tom Fisher,Independent,3842,12.7,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Pete Santos,Independent,3353,11.08,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Candidate,Jordan Pauluhn,Independent,1448,4.79,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Write-in,,,20,0.07,False,False
+2026,Guam,GU,attorney general,2026 Guam Attorney General election,Total,,,30254,100.0,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Winning,Vicente Ada,Republican,15945,51.45,True,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Candidate,Therese Terlaje,Democratic,14925,48.15,False,False
 2026,Guam,GU,governor,2026 Guam gubernatorial election,Write-in,,,124,0.4,False,False
@@ -4263,14 +4267,15 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Darren Bailey,Republican,1509625,36.0,False,False
 2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Collin Corbett,Independent,140541,3.4,False,False
 2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Total,,,4190958,100.0,False,False
-2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Winning,Beau Bayh,Democratic,1007084.0,51.8,True,False
-2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Max Engling,Republican,828024.0,42.6,False,False
-2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Greg Ballard,Lincoln,70024.0,3.6,False,False
-2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Lauri Shillings,Libertarian,38619.0,2.0,False,False
-2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Total,,,,100.0,False,False
-2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Candidate,Daniel Elliott,Republican,979897.0,51.0,False,True
-2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Candidate,Coumba Kebe,Democratic,940964.0,49.0,False,False
-2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Total,,,,100.0,False,False
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Winning,Beau Bayh,Democratic,1006139,51.77,True,False
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Max Engling,Republican,828418,42.63,False,False
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Greg Ballard,Lincoln,70040,3.6,False,False
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Lauri Shillings,Libertarian,38627,1.99,False,False
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Write-in,,,0,112.0,False,False
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Total,,,1943336,100.0,False,False
+2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Winning,Daniel Elliott,Republican,979897,51.01,True,True
+2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Candidate,Coumba Kebe,Democratic,940964,49.99,False,False
+2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Total,,,1920861,100.0,False,False
 2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Winning,Nathan Willems,Democratic,681107.0,50.9,True,False
 2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Candidate,Brenna Bird,Republican,657405.0,49.1,False,True
 2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Write-in,,,1338512.0,100.0,False,False
@@ -4281,9 +4286,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election results,Winning,Roby Smith,Republican,664948,50.35,True,True
 2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election results,Candidate,John Norwood,Democratic,655768,49.65,False,False
 2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election results,Total,,,1320716,100.0,False,False
-2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Winning,Rob Sand,Democratic,759250,55.53,True,False
-2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Candidate,Zach Lahn,Republican,607983,44.47,False,False
-2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Total,,,1367233,100.0,False,False
+2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Winning,Rob Sand,Democratic,759705,55.54,True,False
+2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Candidate,Zach Lahn,Republican,608231,44.46,False,False
+2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Total,,,1367936,100.0,False,False
 2026,Kansas,KS,attorney general,2026 Kansas Attorney General election,Winning,Chris Mann,Democratic,552753,50.62,True,False
 2026,Kansas,KS,attorney general,2026 Kansas Attorney General election,Candidate,Kris Kobach,Republican,539297,49.38,False,True
 2026,Kansas,KS,attorney general,2026 Kansas Attorney General election,Total,,,1092050,100.0,False,False
@@ -4295,9 +4300,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Candidate,Juan Luengo,Democratic,478668,44.3,False,False
 2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Candidate,Eric Lund,Libertarian,49017,4.5,False,False
 2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Total,,,1081368,100.0,False,False
-2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Winning,Cindy Holscher,Democratic,552076,50.33,True,False
-2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Ty Masterson,Republican,544791,49.67,False,False
-2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Total,,,1095370,100.0,False,False
+2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Winning,Cindy Holscher,Democratic,561475,50.52,True,False
+2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Ty Masterson,Republican,549988,49.48,False,False
+2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Total,,,1111463,100.0,False,False
 2026,Maine,ME,governor,2026 Maine gubernatorial election,Winning,Hannah Pingree,Democratic,388721,55.69,True,False
 2026,Maine,ME,governor,2026 Maine gubernatorial election,Candidate,Robert B. Charles,Republican,267346,37.44,False,False
 2026,Maine,ME,governor,2026 Maine gubernatorial election,Candidate,Rick Bennett,Independent,57707,8.08,False,False
@@ -4306,20 +4311,20 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,James B. Rutledge III,Republican,647345,31.33,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Write-in,,,2128,0.1,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Total,,,2066138,100.0,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1436663,64.93,True,True
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,679752,30.72,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,47593,2.15,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,42915,1.94,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5854,0.26,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2212777,100.0,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1438312,64.94,True,True
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,679978,30.7,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,47641,2.15,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,42944,1.94,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5859,0.26,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2214734,100.0,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Andrea Campbell,Democratic,,,False,True
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Michael Walsh,Republican,,,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Total,,,,100.0,False,False
-2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Winning,Maura Healey,Democratic,1625849,61.97,True,True
-2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Michael Minogue,Republican,911357,34.74,False,False
-2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Andrea C. James,Independent,86302,3.29,False,False
+2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Winning,Maura Healey,Democratic,1628936,61.99,True,True
+2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Michael Minogue,Republican,912300,34.72,False,False
+2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Andrea C. James,Independent,86460,3.29,False,False
 2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Write-in,,,0,0.0,False,False
-2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Total,,,2623508,100.0,False,False
+2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Total,,,2627696,100.0,False,False
 2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Winning,Eli Savit,Democratic,2468205,52.53,True,False
 2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Doug Lloyd,Republican,2100530,44.71,False,False
 2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Jason Dye,Libertarian,58614,1.25,False,False
@@ -4333,12 +4338,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Scott E. Aughney,U.s. Taxpayers,28261,0.6,False,False
 2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Eric Borregard,Green,21516,0.45,False,False
 2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Total,,,4736323,100.0,False,False
-2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Winning,Jocelyn Benson,Democratic,2611110,54.57,True,False
-2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,John James,Republican,2091828,43.72,False,False
-2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Anthony Hudson,Libertarian,44444,0.93,False,False
-2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Donna Brandenburg,U.s. Taxpayers,20129,0.42,False,False
-2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Douglas Campbell,Green,17599,0.36,False,False
-2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Total,,,4785110,100.0,False,False
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Winning,Jocelyn Benson,Democratic,2614277,54.56,True,False
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,John James,Republican,2095233,43.72,False,False
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Anthony Hudson,Libertarian,44504,0.93,False,False
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Donna Brandenburg,U.s. Taxpayers,20146,0.42,False,False
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Douglas Campbell,Green,17616,0.37,False,False
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Total,,,4791776,100.0,False,False
 2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Winning,Keith Ellison,Minnesota Democratic–farmer–labor,1520967.0,54.29,True,True
 2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Candidate,Ronald J. Schutz,Republican,1276211.0,45.56,False,False
 2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Write-in,,,4226.0,0.15,False,False
@@ -4365,11 +4370,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Winning,Joey Spellerberg,Republican,,,True,True
 2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Candidate,Daniel Ebers,Democratic,,,False,False
 2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Total,,,,100.0,False,False
-2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Jim Pillen (incumbent) Joe Kelly,Republican,,,False,True
-2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Lynne Walz Ben Steffen,Democratic,,,False,False
-2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Rick Beard Keenya Barnes,Now,,,False,False
-2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Brett Lindstrom Mike Picard,America First Party (nebraska),,,False,False
-2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Total,,,,100.0,False,False
+2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Jim Pillen (incumbent) Joe Kelly,Republican,384579,50.28,False,True
+2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Lynne Walz Ben Steffen,Democratic,326179,42.64,False,False
+2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Brett Lindstrom Mike Picard,America First Party (nebraska),33658,4.4,False,False
+2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Rick Beard Keenya Barnes,Now,20471,2.68,False,False
+2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Total,,,764887,100.0,False,False
 2026,Nevada,NV,attorney general,2026 Nevada Attorney General election,Candidate,Nicole Cannizzaro,Democratic,,,False,False
 2026,Nevada,NV,attorney general,2026 Nevada Attorney General election,Candidate,Adriana Guzmán Fralick,Republican,,,False,False
 2026,Nevada,NV,attorney general,2026 Nevada Attorney General election,Total,,,,100.0,False,False
@@ -4425,36 +4430,42 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Ohio,OH,state treasurer,2026 Ohio state treasurer election,Winning,Seth Walsh,Democratic,,,True,False
 2026,Ohio,OH,state treasurer,2026 Ohio state treasurer election,Candidate,Jay Edwards,Republican,,,False,False
 2026,Ohio,OH,state treasurer,2026 Ohio state treasurer election,Total,,,,100.0,False,False
-2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Winning,Amy Acton,Democratic,2405510,52.31,True,False
-2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Vivek Ramaswamy,Republican,2041281,44.39,False,False
-2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Don Kissick,Libertarian,151994,3.31,False,False
-2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Total,,,4595782,100.0,False,False
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Winning,Amy Acton,Democratic,2405922,52.31,True,False
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Vivek Ramaswamy,Republican,2041393,44.39,False,False
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Don Kissick,Libertarian,151893,3.3,False,False
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Total,,,4599208,97.88,False,False
+2026,Oklahoma,OK,attorney general,2026 Oklahoma Attorney General election,Winning,Jon Echols,Republican,617671,55.33,True,False
+2026,Oklahoma,OK,attorney general,2026 Oklahoma Attorney General election,Candidate,Nick Coffey,Democratic,498671,44.67,False,False
+2026,Oklahoma,OK,attorney general,2026 Oklahoma Attorney General election,Total,,,1116342,100.0,False,False
+2026,Oklahoma,OK,state treasurer,2026 Oklahoma State Treasurer election,Winning,Cindy Byrd,Republican,780978,75.38,True,False
+2026,Oklahoma,OK,state treasurer,2026 Oklahoma State Treasurer election,Candidate,Kiefer Perry,Libertarian,255029,24.62,False,False
+2026,Oklahoma,OK,state treasurer,2026 Oklahoma State Treasurer election,Total,,,1036007,100.0,False,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Winning,Mike Mazzei,Republican,582039,51.92,True,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Cyndi Munson,Democratic,514776,45.92,False,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Robert E. Brooks Sr.,Independent,11660,1.04,False,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Jerry Griffin,Independent,7441,0.66,False,False
 2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Candidate,Orlando Lynn Bush,Independent,5014,0.45,False,False
-2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Total,,,1120139,,False,False
+2026,Oklahoma,OK,governor,2026 Oklahoma gubernatorial election,Total,,,1120930,,False,False
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Tina Kotek,Democratic,,,False,True
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Christine Drazan,Republican,,,False,False
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Brett Smith,Green,,,False,False
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Total,,,,100.0,False,False
-2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Winning,Josh Shapiro,Democratic,3034792.0,60.54,True,True
-2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Stacy Garrity,Republican,1913175.0,38.17,False,False
-2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Ken Krawchuk,Libertarian,64907.0,1.29,False,False
+2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Winning,Josh Shapiro,Democratic,3036075.0,60.55,True,True
+2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Stacy Garrity,Republican,1913522.0,38.16,False,False
+2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Ken Krawchuk,Libertarian,64925.0,1.29,False,False
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Total,,,,100.0,False,False
 2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Candidate,James Diossa,Democratic,,,False,True
 2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Candidate,Micholas A. Credle,Republican,,,False,False
 2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Total,,,,100.0,False,False
 2026,Rhode Island,RI,secretary of state,2026 Rhode Island Secretary of State election,Winning,Gregg Amore,Democratic,275149,100.0,True,True
 2026,Rhode Island,RI,secretary of state,2026 Rhode Island Secretary of State election,Total,,,275149,100.0,False,False
-2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Winning,Helena Buonanno Foulkes,Democratic,207580,57.71,True,False
-2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Kenneth Block,Independent,99828,27.75,False,False
-2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Aaron C. Guckian,Republican,47401,13.18,False,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Winning,Helena Buonanno Foulkes,Democratic,207588,57.71,True,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Kenneth Block,Independent,99829,27.75,False,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Aaron C. Guckian,Republican,47402,13.18,False,False
 2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,C.D. Reynolds,Independent,2050,0.57,False,False
 2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Jasjit S. Gotra,Independent,1674,0.47,False,False
 2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Write-in,,,1148,0.32,False,False
-2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Total,,,359681,100.0,False,False
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Total,,,359691,100.0,False,False
 2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Candidate,David Stumbo,Republican,1058525,52.32,False,False
 2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Candidate,Richard Hricik,Democratic,963645,47.63,False,False
 2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Write-in,,,1132,0.06,False,False
@@ -4473,9 +4484,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Candidate,Walid Hakim,Green,9078,0.45,False,False
 2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Write-in,,,1143,0.06,False,False
 2026,South Carolina,SC,governor,2026 South Carolina gubernatorial election,Total,,,2038214,100.0,False,False
-2026,South Dakota,SD,governor,2026 South Dakota gubernatorial election,Winning,Larry Rhoden,Republican,193333,63.49,True,False
-2026,South Dakota,SD,governor,2026 South Dakota gubernatorial election,Candidate,Dan Ahlers,Democratic,111157,36.51,False,False
-2026,South Dakota,SD,governor,2026 South Dakota gubernatorial election,Total,,,304490,100.0,False,False
+2026,South Dakota,SD,governor,2026 South Dakota gubernatorial election,Winning,Larry Rhoden,Republican,193335,63.49,True,False
+2026,South Dakota,SD,governor,2026 South Dakota gubernatorial election,Candidate,Dan Ahlers,Democratic,111161,36.51,False,False
+2026,South Dakota,SD,governor,2026 South Dakota gubernatorial election,Total,,,304496,100.0,False,False
 2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Winning,Marsha Blackburn,Republican,957136,45.52,True,False
 2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Jerri Green,Democratic,902953,42.95,False,False
 2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,David Hatley,Independent,195564,9.3,False,False
@@ -4492,14 +4503,15 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Victor L. Scoggin,Independent,817,0.04,False,False
 2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Candidate,Karl Knox Smithson,Independent,494,0.02,False,False
 2026,Tennessee,TN,governor,2026 Tennessee gubernatorial election,Total,,,2102474,100.0,False,False
-2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Mayes Middleton,Republican,,,False,False
-2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Nathan Johnson,Democratic,,,False,False
-2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Tom Oxford,Libertarian,,,False,False
-2026,Texas,TX,attorney general,2026 Texas Attorney General election,Total,,,,100.0,False,False
-2026,Texas,TX,governor,2026 Texas gubernatorial election,Winning,Gina Hinojosa,Democratic,5232679,52.82,True,False
-2026,Texas,TX,governor,2026 Texas gubernatorial election,Candidate,Greg Abbott,Republican,4525947,45.68,False,True
+2026,Texas,TX,attorney general,2026 Texas Attorney General election,Winning,Nathan Johnson,Democratic,5135525,52.4,True,False
+2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Mayes Middleton,Republican,4503855,45.9,False,False
+2026,Texas,TX,attorney general,2026 Texas Attorney General election,Candidate,Tom Oxford,Libertarian,165620,1.7,False,False
+2026,Texas,TX,attorney general,2026 Texas Attorney General election,Total,,,9805000,100.0,False,False
+2026,Texas,TX,governor,2026 Texas gubernatorial election,Winning,Gina Hinojosa,Democratic,5232690,52.82,True,False
+2026,Texas,TX,governor,2026 Texas gubernatorial election,Candidate,Greg Abbott,Republican,4525990,45.68,False,True
 2026,Texas,TX,governor,2026 Texas gubernatorial election,Candidate,Pat Dixon,Libertarian,148140,1.5,False,False
-2026,Texas,TX,governor,2026 Texas gubernatorial election,Total,,,9906766,100.0,False,False
+2026,Texas,TX,governor,2026 Texas gubernatorial election,Write-in,,,3987,0.0,False,False
+2026,Texas,TX,governor,2026 Texas gubernatorial election,Total,,,9910807,100.0,False,False
 2026,Vermont,VT,attorney general,2026 Vermont Attorney General election,Winning,Charity Clark,Democratic,200480,67.74,True,True
 2026,Vermont,VT,attorney general,2026 Vermont Attorney General election,Candidate,Edwin Kemon,Republican,94948,32.08,False,False
 2026,Vermont,VT,attorney general,2026 Vermont Attorney General election,Write-in,,,528,0.18,False,False
