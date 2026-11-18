@@ -3127,7 +3127,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Missouri,MO,State House,103,general,Dave Hinman,Republican,10286.0,56.95,True,True
 2024,Missouri,MO,State House,103,general,Amanda Taylor,Democratic,7776.0,43.05,False,False
 2024,Missouri,MO,State House,104,general,Terri Violet,Republican,10929.0,54.91,True,False
-2024,Missouri,MO,State House,104,general,Tara L Murray,Democratic,8974.0,45.09,False,False
+2024,Missouri,MO,State House,104,general,Tara Murray,Democratic,8974.0,45.09,False,False
 2024,Missouri,MO,State House,105,general,Colin Wellenkamp,Republican,8178.0,52.91,True,False
 2024,Missouri,MO,State House,105,general,Ron Odenthal,Democratic,7280.0,47.09,False,False
 2024,Missouri,MO,State House,106,general,Travis Wilson,Republican,11236.0,55.28,True,True

@@ -61527,7 +61527,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,District of Columbia,DC,AL,,Denise Rosado,Republican,,6.3,False,False,True
 2026,house,District of Columbia,DC,AL,,Kymone Freeman,Green,,5.8,False,False,True
 2026,house,District of Columbia,DC,AL,,Robert White,Democratic,,87.3,True,False,True
-2026,house,Florida,FL,1,291010,Gay Valimont,Democratic,103729,37.5,False,False,False
+2026,house,Florida,FL,1,291010,Gay Valimont,Democratic,103729,35.7,False,False,False
 2026,house,Florida,FL,1,291010,Jimmy Patronis,Republican,181944,62.5,True,False,False
 2026,house,Florida,FL,1,291010,Tyler Davis,Independent,5337,1.8,False,False,False
 2026,house,Florida,FL,10,,Maxwell Frost,Democratic,,100.0,True,False,False
@@ -61673,19 +61673,19 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Kentucky,KY,6,263561,Pete Lynch,Kentucky,3836,1.5,False,False,True
 2026,house,Kentucky,KY,6,263561,Ralph Alvarado,Republican,114030,43.3,False,False,True
 2026,house,Kentucky,KY,6,263561,Zach Dembo,Democratic,138777,52.7,True,False,True
-2026,house,Louisiana,LA,1,,Steve Scalise,Republican,,100.0,True,False,False
-2026,house,Louisiana,LA,2,,Troy Carter,Democratic,,100.0,True,False,False
-2026,house,Louisiana,LA,3,,Clay Higgins,Republican,,100.0,True,False,False
-2026,house,Louisiana,LA,4,,Mike Johnson,Republican,,100.0,True,False,False
+2026,house,Louisiana,LA,1,263391,Steve Scalise,Republican,159896,100.0,True,False,False
+2026,house,Louisiana,LA,2,240616,Troy Carter,Democratic,192286,100.0,True,False,False
+2026,house,Louisiana,LA,3,234995,Clay Higgins,Republican,129203,100.0,True,False,False
+2026,house,Louisiana,LA,4,230359,Mike Johnson,Republican,134750,100.0,True,False,False
 2026,house,Maine,ME,1,,Chellie Pingree,Democratic,,100.0,True,False,False
 2026,house,Maine,ME,2,,Paul LePage,Republican,,100.0,True,False,True
 2026,house,Maryland,MD,1,317083,Andy Harris,Republican,165256,100.0,True,False,False
-2026,house,Maryland,MD,2,,Johnny Olszewski,Democratic,,100.0,True,False,False
+2026,house,Maryland,MD,2,291916,Johnny Olszewski,Democratic,189851,100.0,True,False,False
 2026,house,Maryland,MD,3,313067,Sarah Elfreth,Democratic,212087,100.0,True,False,False
 2026,house,Maryland,MD,4,,Glenn Ivey,Democratic,,100.0,True,False,False
 2026,house,Maryland,MD,5,,Adrian Boafo,Democratic,,100.0,True,False,False
 2026,house,Maryland,MD,6,,April McClain Delaney,Democratic,,100.0,True,False,False
-2026,house,Maryland,MD,7,,Kweisi Mfume,Democratic,,100.0,True,False,True
+2026,house,Maryland,MD,7,219595,Kweisi Mfume,Democratic,186917,100.0,True,False,True
 2026,house,Maryland,MD,8,,Jamie Raskin,Democratic,,100.0,True,False,False
 2026,house,Massachusetts,MA,1,,Richard Neal,Democratic,,100.0,True,False,False
 2026,house,Massachusetts,MA,2,,Jim McGovern,Democratic,,100.0,True,False,False
@@ -61905,7 +61905,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Texas,TX,30,,Frederick Haynes III,Democratic,,100.0,True,False,True
 2026,house,Texas,TX,31,,John Carter,Republican,,100.0,True,False,False
 2026,house,Texas,TX,32,,Jace Yarbrough,Republican,,100.0,True,False,True
-2026,house,Texas,TX,33,,Colin Allred,Democratic,,100.0,True,False,True
+2026,house,Texas,TX,33,,Colin Allred,Democratic,,100.0,True,False,False
 2026,house,Texas,TX,34,,Vicente Gonzalez,Democratic,,100.0,True,False,False
 2026,house,Texas,TX,35,,Johnny Garcia,Democratic,,100.0,True,False,True
 2026,house,Texas,TX,36,,Brian Babin,Republican,,100.0,True,False,False

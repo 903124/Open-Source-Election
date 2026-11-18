@@ -198,34 +198,123 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Florida,FL,State Senate,40,general,Ana Maria Rodriguez,Republican,,,True,False
 2026,Florida,FL,State Senate,40,general,Jose Antonion Stoute,Democratic,,,False,False
 2026,Florida,FL,State Senate,40,general,Ramiro Orta,Independent,,,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 21,special general,Debra Shigley,Democratic,20399.0,38.54,True,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 21,special general,Jason T. Dickerson,Republican,22774.0,61.46,True,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 21,special general,Steve West,Republican,3642.0,17.04,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 21,special general,Brian Will,Republican,2192.0,10.26,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 21,special general,Brice Futch,Republican,1749.0,8.19,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 21,special general,Lance Calvert,Republican,1424.0,6.66,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 21,special general,Stephanie Donegan,Republican,207.0,0.97,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 35,special general,Jaha V. Howard,Democratic,8367.0,32.63,True,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 35,special general,Roger Bruce,Democratic,6985.0,25.37,True,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 35,special general,Josh Tolbert,Republican,2765.0,17.57,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 35,special general,Erica-Denise Solomon,Democratic,2721.0,17.29,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 35,special general,John D. Williams,Democratic,832.0,5.29,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 35,special general,Corenza Morris,Independent,290.0,1.84,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 18,special general,LeMario Nicholas Brown,Democratic,18194.0,40.59,True,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 18,special general,Steven McNeel,Republican,19579.0,59.41,True,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 18,special general,Eric S. Wilson,Republican,4357.0,20.25,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 18,special general,Lauren Daniel,Republican,4052.0,18.83,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 18,special general,Nathan Warnock,Republican,310.0,1.44,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 18,special general,Eugene Allison,Republican,271.0,1.26,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 53,special general,Lanny Thomas,Republican,33932.0,68.66,True,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 53,special general,"John Bentley ""Jack"" Zibluk",Democratic,18330.0,31.34,True,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 53,special general,Denise Pierce Burns,Republican,6372.0,20.9,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 53,special general,Blake Elsberry,Republican,4087.0,13.41,False,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 7,special general,Aizaz Shahbaz Shaikh,Republican,18026.0,33.7,True,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 7,special general,Adrienne White,Democratic,18302.0,33.37,True,False
-2026,Georgia,GA,State Senate,SENATE DISTRICT 7,special general,Astrid S. Ross,Democratic,9671.0,32.93,False,False
-2026,Georgia,GA,State Senate,1,general,Ben Watson,Republican,,,True,True
-2026,Georgia,GA,State Senate,1,general,Corey Foreman,Democratic,,,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 21,special general,Debra Shigley,Democratic,20399,38.54,True,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 21,special general,Jason T. Dickerson,Republican,22774,61.46,True,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 21,special general,Steve West,Republican,3642,17.04,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 21,special general,Brian Will,Republican,2192,10.26,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 21,special general,Brice Futch,Republican,1749,8.19,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 21,special general,Lance Calvert,Republican,1424,6.66,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 21,special general,Stephanie Donegan,Republican,207,0.97,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 35,special general,Jaha V. Howard,Democratic,8367,32.63,True,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 35,special general,Roger Bruce,Democratic,6985,25.37,True,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 35,special general,Josh Tolbert,Republican,2765,17.57,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 35,special general,Erica-Denise Solomon,Democratic,2721,17.29,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 35,special general,John D. Williams,Democratic,832,5.29,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 35,special general,Corenza Morris,Independent,290,1.84,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 18,special general,LeMario Nicholas Brown,Democratic,18194,40.59,True,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 18,special general,Steven McNeel,Republican,19579,59.41,True,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 18,special general,Eric S. Wilson,Republican,4357,20.25,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 18,special general,Lauren Daniel,Republican,4052,18.83,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 18,special general,Nathan Warnock,Republican,310,1.44,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 18,special general,Eugene Allison,Republican,271,1.26,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 53,special general,Lanny Thomas,Republican,33932,68.66,True,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 53,special general,"John Bentley ""Jack"" Zibluk",Democratic,18330,31.34,True,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 53,special general,Denise Pierce Burns,Republican,6372,20.9,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 53,special general,Blake Elsberry,Republican,4087,13.41,False,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 7,special general,Aizaz Shahbaz Shaikh,Republican,18026,33.7,True,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 7,special general,Adrienne White,Democratic,18302,33.37,True,False
+2026,Georgia,GA,State Senate,SENATE DISTRICT 7,special general,Astrid S. Ross,Democratic,9671,32.93,False,False
+2026,Georgia,GA,State Senate,1,general,Ben Watson,Republican,38705,52.23,True,True
+2026,Georgia,GA,State Senate,1,general,Corey Foreman,Democratic,35396,47.77,False,False
+2026,Georgia,GA,State Senate,2,general,Derek Mallow,Democratic,54214,100.0,True,True
+2026,Georgia,GA,State Senate,3,general,Mike Hodges,Republican,53529,100.0,True,True
+2026,Georgia,GA,State Senate,4,general,Billy Hickman,Republican,50538,100.0,True,True
+2026,Georgia,GA,State Senate,5,general,Sheikh Rahman,Democratic,35109,100.0,True,True
+2026,Georgia,GA,State Senate,6,general,Matt Brass,Republican,55673,66.09,True,True
+2026,Georgia,GA,State Senate,6,general,Jermarkus Jacobs,Democratic,28563,33.91,False,False
+2026,Georgia,GA,State Senate,7,general,Ruwa Romman,Democratic,45729,66.0,True,False
+2026,Georgia,GA,State Senate,7,general,Aizaz Shaikh,Republican,23556,34.0,False,False
+2026,Georgia,GA,State Senate,8,general,Russ Goodman,Republican,44698,100.0,True,True
+2026,Georgia,GA,State Senate,9,general,Nikki Merritt,Democratic,52989,71.07,True,True
+2026,Georgia,GA,State Senate,9,general,Michael Johnson,Republican,21570,28.93,False,False
+2026,Georgia,GA,State Senate,10,general,Larry Johnson,Democratic,80838,89.78,True,False
+2026,Georgia,GA,State Senate,10,general,Furquan Stafford,Republican,9200,10.22,False,False
+2026,Georgia,GA,State Senate,11,general,Sam Watson,Republican,46219,100.0,True,True
+2026,Georgia,GA,State Senate,12,general,Edward Brown,Democratic,46632,100.0,True,False
+2026,Georgia,GA,State Senate,13,general,Carden Summers,Republican,50370,100.0,True,True
+2026,Georgia,GA,State Senate,14,general,Kevin Abel,Democratic,50505,62.76,True,False
+2026,Georgia,GA,State Senate,14,general,Mike Dvorscak,Republican,29971,37.24,False,False
+2026,Georgia,GA,State Senate,15,general,Teddy Reese,Democratic,36680,71.25,True,False
+2026,Georgia,GA,State Senate,15,general,Chuck Hand,Republican,14804,28.75,False,False
+2026,Georgia,GA,State Senate,16,general,Marty Harbin,Republican,51365,58.41,True,False
+2026,Georgia,GA,State Senate,16,general,Sonya Hawkins,Democratic,36569,41.59,False,False
+2026,Georgia,GA,State Senate,17,general,Gail Davenport,Democratic,73397,100.0,True,True
+2026,Georgia,GA,State Senate,18,general,Steven McNeel,Republican,58730,100.0,True,True
+2026,Georgia,GA,State Senate,19,general,David Sikes,Republican,39582,70.68,True,False
+2026,Georgia,GA,State Senate,19,general,Joshua Wilkerson,Democratic,16423,29.32,False,False
+2026,Georgia,GA,State Senate,20,general,Larry Walker III,Republican,58829,100.0,True,True
+2026,Georgia,GA,State Senate,21,general,Jason Dickerson,Republican,60092,64.29,True,False
+2026,Georgia,GA,State Senate,21,general,Kori Simmons,Democratic,33377,35.71,False,False
+2026,Georgia,GA,State Senate,22,general,Harold V. Jones II,Democratic,53405,100.0,True,True
+2026,Georgia,GA,State Senate,23,general,Max Burns,Republican,37457,53.5,True,True
+2026,Georgia,GA,State Senate,23,general,Shayna Boston,Democratic,32562,46.5,False,False
+2026,Georgia,GA,State Senate,24,general,Lee Anderson,Republican,57103,65.0,True,True
+2026,Georgia,GA,State Senate,24,general,Lorraine Thomas,Democratic,30753,35.0,False,False
+2026,Georgia,GA,State Senate,25,general,Rick Williams,Republican,57824,100.0,True,True
+2026,Georgia,GA,State Senate,26,general,David Lucas,Democratic,40504,68.41,True,True
+2026,Georgia,GA,State Senate,26,general,Tracy Wheeler,Republican,18705,31.59,False,False
+2026,Georgia,GA,State Senate,27,general,Mike Dudgeon,Republican,52048,63.28,True,False
+2026,Georgia,GA,State Senate,27,general,Jessica Roper,Democratic,30206,36.72,False,False
+2026,Georgia,GA,State Senate,28,general,Donzella James,Democratic,72664,100.0,True,True
+2026,Georgia,GA,State Senate,29,general,Randy Robertson,Republican,43108,57.75,True,True
+2026,Georgia,GA,State Senate,29,general,Jeff Lowe,Democratic,31539,42.25,False,False
+2026,Georgia,GA,State Senate,30,general,Tim Bearden,Republican,41640,55.76,True,True
+2026,Georgia,GA,State Senate,30,general,Wanda Cooper,Democratic,33037,44.24,False,False
+2026,Georgia,GA,State Senate,31,general,Jason Anavitarte,Republican,44597,56.17,True,True
+2026,Georgia,GA,State Senate,31,general,Alec Miller,Democratic,34795,43.83,False,False
+2026,Georgia,GA,State Senate,32,general,Kay Kirkpatrick,Republican,42424,51.0,True,True
+2026,Georgia,GA,State Senate,32,general,Michael Hettig,Democratic,40763,49.0,False,False
+2026,Georgia,GA,State Senate,33,general,Michael Rhett,Democratic,57651,100.0,True,True
+2026,Georgia,GA,State Senate,34,general,Kenya Wicks,Democratic,54864,100.0,True,True
+2026,Georgia,GA,State Senate,35,general,Jaha Howard,Democratic,74072,100.0,True,True
+2026,Georgia,GA,State Senate,36,general,Nan Orrock,Democratic,72091,91.97,True,True
+2026,Georgia,GA,State Senate,36,general,Katie Corkren,Republican,6293,8.03,False,False
+2026,Georgia,GA,State Senate,37,general,Darcy Castro,Democratic,47653,50.76,True,False
+2026,Georgia,GA,State Senate,37,general,Ed Setzler,Republican,46232,49.24,False,True
+2026,Georgia,GA,State Senate,38,general,RaShaun Kemp,Democratic,68348,81.06,True,True
+2026,Georgia,GA,State Senate,38,general,Eric Helvy,Republican,15969,18.94,False,False
+2026,Georgia,GA,State Senate,39,general,RaShaun Kemp,Democratic,64855,88.52,True,True
+2026,Georgia,GA,State Senate,39,general,John Guest Jr.,Republican,8407,11.48,False,False
+2026,Georgia,GA,State Senate,40,general,Sally Harrell,Democratic,48578,69.64,True,True
+2026,Georgia,GA,State Senate,40,general,Melina Mast,Republican,21178,30.36,False,False
+2026,Georgia,GA,State Senate,41,general,Kim Jackson,Democratic,58974,87.37,True,True
+2026,Georgia,GA,State Senate,41,general,Jeff Newlin,Republican,8426,12.63,False,False
+2026,Georgia,GA,State Senate,42,general,Eric Lee,Democratic,45573,52.05,True,False
+2026,Georgia,GA,State Senate,42,general,Bret Dunn,Republican,41985,47.95,False,False
+2026,Georgia,GA,State Senate,43,general,Tonya Anderson,Democratic,72217,100.0,True,True
+2026,Georgia,GA,State Senate,44,general,Saira Draper,Democratic,81092,92.47,True,True
+2026,Georgia,GA,State Senate,44,general,Ngozi Orabueze,Republican,6601,7.53,False,False
+2026,Georgia,GA,State Senate,45,general,Scott Tippetts,Democratic,39546,52.4,True,False
+2026,Georgia,GA,State Senate,45,general,Clint Dixon,Republican,35924,47.6,False,True
+2026,Georgia,GA,State Senate,46,general,Marc McMain,Republican,44682,54.66,True,False
+2026,Georgia,GA,State Senate,46,general,Ray Smith,Democratic,37063,45.34,False,False
+2026,Georgia,GA,State Senate,47,general,Frank Ginn,Republican,42644,100.0,True,True
+2026,Georgia,GA,State Senate,48,general,Laura Murvartian,Democratic,41049,52.88,True,False
+2026,Georgia,GA,State Senate,48,general,Shawn Still,Republican,36580,47.12,False,True
+2026,Georgia,GA,State Senate,49,general,Drew Echols,Republican,50090,66.56,True,False
+2026,Georgia,GA,State Senate,49,general,William Wallace,Democratic,25161,33.44,False,False
+2026,Georgia,GA,State Senate,50,general,Bo Hatchett,Republican,57897,78.31,True,True
+2026,Georgia,GA,State Senate,50,general,Dave Cooper,Democratic,16033,21.69,False,False
+2026,Georgia,GA,State Senate,51,general,Will Wade,Republican,70190,79.08,True,False
+2026,Georgia,GA,State Senate,51,general,Gary St. Lawrence,Democratic,18573,20.92,False,False
+2026,Georgia,GA,State Senate,52,general,Chuck Hufstetler,Republican,55687,100.0,True,True
+2026,Georgia,GA,State Senate,53,general,Lanny Thomas,Republican,45648,73.93,True,True
+2026,Georgia,GA,State Senate,53,general,John Zibluck,Democratic,16101,26.07,False,False
+2026,Georgia,GA,State Senate,54,general,Chuck Payne,Republican,45754,100.0,True,True
+2026,Georgia,GA,State Senate,55,general,Randal Mangham,Democratic,66267,83.44,True,True
+2026,Georgia,GA,State Senate,55,general,Mary Benefield,Republican,13152,16.56,False,False
+2026,Georgia,GA,State Senate,56,general,John Albers,Republican,52410,53.97,True,True
+2026,Georgia,GA,State Senate,56,general,Patrick Thompson,Democratic,44704,46.03,False,False
 2026,Illinois,IL,State Senate,2,general,Omar Aquino,Democratic,,,True,True
 2026,Illinois,IL,State Senate,3,general,Mattie Hunter,Democratic,,,True,True
 2026,Illinois,IL,State Senate,5,general,Lakesia Collins,Democratic,,,True,True
@@ -396,7 +485,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Maryland,MD,State Senate,21,general,Lee Havis,Republican,,,False,False
 2026,Maryland,MD,State Senate,22,general,Alonzo T. Washington,Democratic,,,True,True
 2026,Maryland,MD,State Senate,22,general,Jim Wass,Republican,,,False,False
-2026,Maryland,MD,State Senate,23,general,Ron Watson,Democratic,,,True,False
+2026,Maryland,MD,State Senate,23,general,Ron Watson,Democratic,,,True,True
 2026,Maryland,MD,State Senate,23,general,James A. T. Amah,Republican,,,False,False
 2026,Maryland,MD,State Senate,24,general,Tiffany T. Alston,Democratic,,,True,False
 2026,Maryland,MD,State Senate,25,general,Nick Charles,Democratic,,,True,True
@@ -425,16 +514,16 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Maryland,MD,State Senate,38,general,Mary Beth Carozza,Republican,31748.0,61.23,True,True
 2026,Maryland,MD,State Senate,38,general,Lino Cressotti,Democratic,20067.0,38.7,False,False
 2026,Maryland,MD,State Senate,39,general,Amar Mukunda,Democratic,,,True,False
-2026,Maryland,MD,State Senate,40,general,Antonio Hayes,Democratic,,,True,True
-2026,Maryland,MD,State Senate,40,general,Alan Rebar,Class,,,False,False
-2026,Maryland,MD,State Senate,41,general,Malcolm Ruff,Democratic,,,True,False
+2026,Maryland,MD,State Senate,40,general,Antonio Hayes,Democratic,27646.0,89.07,True,True
+2026,Maryland,MD,State Senate,40,general,Alan Rebar,Class,3284.0,10.58,False,False
+2026,Maryland,MD,State Senate,41,general,Malcolm Ruff,Democratic,35111.0,98.43,True,False
 2026,Maryland,MD,State Senate,42,general,Kevin Ford,Republican,29667.0,53.3,True,False
 2026,Maryland,MD,State Senate,42,general,Stephanie Popescu,Democratic,25942.0,46.61,False,False
-2026,Maryland,MD,State Senate,43,general,Mary L. Washington,Democratic,,,True,True
-2026,Maryland,MD,State Senate,44,general,Charles E. Sydnor III,Democratic,,,True,True
-2026,Maryland,MD,State Senate,45,general,Cory McCray,Democratic,,,True,True
-2026,Maryland,MD,State Senate,46,general,Bill Ferguson,Democratic,,,True,True
-2026,Maryland,MD,State Senate,46,general,Emmanuel Digman,Republican,,,False,False
+2026,Maryland,MD,State Senate,43,general,Mary L. Washington,Democratic,37297.0,98.79,True,True
+2026,Maryland,MD,State Senate,44,general,Charles E. Sydnor III,Democratic,36505.0,97.59,True,True
+2026,Maryland,MD,State Senate,45,general,Cory McCray,Democratic,31905.0,99.04,True,True
+2026,Maryland,MD,State Senate,46,general,Bill Ferguson,Democratic,30467.0,87.66,True,True
+2026,Maryland,MD,State Senate,46,general,Emmanuel Digman,Republican,4065.0,11.7,False,False
 2026,Maryland,MD,State Senate,47,general,Malcolm Augustine,Democratic,,,True,True
 2026,Michigan,MI,State Senate,35,general,Chedrick Greene,Democratic,104840,55.56,True,True
 2026,Michigan,MI,State Senate,35,general,Jason Tunney,Republican,77254,42.95,False,False
@@ -710,8 +799,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,New York,NY,State Senate,61,special general,Dan R. Gagliardo,New York Republican,12886,30.4,False,False
 2026,North Carolina,NC,State Senate,1,general,Jerry Tillett,Republican,43069,52.01,True,False
 2026,North Carolina,NC,State Senate,1,general,Melissa Zehner,Democratic,39748,47.99,False,False
-2026,North Carolina,NC,State Senate,2,general,Norman Sanderson,Republican,47311,53.75,True,True
-2026,North Carolina,NC,State Senate,2,general,Roy Surrett,Democratic,40707,46.25,False,False
+2026,North Carolina,NC,State Senate,2,general,Norman Sanderson,Republican,47298,53.75,True,True
+2026,North Carolina,NC,State Senate,2,general,Roy Surrett,Democratic,40705,46.25,False,False
 2026,North Carolina,NC,State Senate,3,general,Bob Brinson,Republican,44488,54.92,True,True
 2026,North Carolina,NC,State Senate,3,general,Charles Dudley,Democratic,36514,45.08,False,False
 2026,North Carolina,NC,State Senate,4,general,Jess Rivera,Democratic,37821,51.16,True,False
