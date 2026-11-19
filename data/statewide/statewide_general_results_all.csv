@@ -4263,15 +4263,15 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Winning,Mike Frerichs,Democratic,,,True,True
 2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Candidate,Max Solomon,Republican,,,False,False
 2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Total,,,,100.0,False,False
-2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Winning,JB Pritzker,Democratic,2540792,60.6,True,True
-2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Darren Bailey,Republican,1509625,36.0,False,False
-2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Collin Corbett,Independent,140541,3.4,False,False
+2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Winning,JB Pritzker,Democratic,2574606,60.82,True,True
+2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Darren Bailey,Republican,1516219,35.82,False,False
+2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Collin Corbett,Independent,142368,3.36,False,False
 2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Total,,,4190958,100.0,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Winning,Beau Bayh,Democratic,1006139,51.77,True,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Max Engling,Republican,828418,42.63,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Greg Ballard,Lincoln,70040,3.6,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Lauri Shillings,Libertarian,38627,1.99,False,False
-2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Write-in,,,0,112.0,False,False
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Write-in,,,112,0.01,False,False
 2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Total,,,1943336,100.0,False,False
 2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Winning,Daniel Elliott,Republican,979897,51.01,True,True
 2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Candidate,Coumba Kebe,Democratic,940964,49.99,False,False
@@ -4311,12 +4311,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,James B. Rutledge III,Republican,647345,31.33,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Write-in,,,2128,0.1,False,False
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Total,,,2066138,100.0,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1460213,65.19,True,True
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,682141,30.45,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,48328,2.16,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,43463,1.94,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1460319,65.19,True,True
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,682143,30.45,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,48329,2.16,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,43465,1.94,False,False
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5916,0.26,False,False
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2240061,100.0,False,False
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2240172,100.0,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Andrea Campbell,Democratic,,,False,True
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Michael Walsh,Republican,,,False,False
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Total,,,,100.0,False,False
@@ -4409,8 +4409,8 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Total,,,,100.0,False,False
 2026,New York,NY,attorney general,2026 New York Attorney General election,Candidate,Letitia James,New York State Democratic Committee,,,False,False
 2026,New York,NY,attorney general,2026 New York Attorney General election,Candidate,Saritha Komatireddy,New York Republican State Committee,,,False,False
-2026,New York,NY,attorney general,2026 New York Attorney General election,Write-in,,,4446.0,0.1,False,False
-2026,New York,NY,attorney general,2026 New York Attorney General election,Total,,,6022299.0,100.0,False,False
+2026,New York,NY,attorney general,2026 New York Attorney General election,Write-in,,,4484.0,0.1,False,False
+2026,New York,NY,attorney general,2026 New York Attorney General election,Total,,,6049658.0,100.0,False,False
 2026,New York,NY,governor,2026 New York gubernatorial election,Winning,Kathy Hochul,Total,3659917.0,59.75,True,True
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Kathy Hochul,New York State Democratic Committee,,,False,False
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Bruce Blakeman,New York Republican State Committee,,,False,False

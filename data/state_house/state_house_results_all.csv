@@ -24684,6 +24684,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Texas,TX,State House,65,general,Detrick DeBurr,Democratic,,,False,False
 2026,Texas,TX,State House,66,general,Matt Shaheen,Republican,,,True,True
 2026,Texas,TX,State House,66,general,Sandeep Srivastava,Democratic,,,False,False
+2026,Texas,TX,State House,67,general,Jordan Wheatley,Democratic,,,True,False
+2026,Texas,TX,State House,67,general,Jeff Leach,Republican,,,False,True
 2026,Texas,TX,State House,68,general,David Spiller,Republican,,,True,True
 2026,Texas,TX,State House,68,general,Jasmine Henderson,Democratic,,,False,False
 2026,Texas,TX,State House,69,general,James Frank,Republican,,,True,True

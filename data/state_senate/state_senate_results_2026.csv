@@ -514,16 +514,16 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Maryland,MD,State Senate,38,general,Mary Beth Carozza,Republican,31748.0,61.23,True,True
 2026,Maryland,MD,State Senate,38,general,Lino Cressotti,Democratic,20067.0,38.7,False,False
 2026,Maryland,MD,State Senate,39,general,Amar Mukunda,Democratic,,,True,False
-2026,Maryland,MD,State Senate,40,general,Antonio Hayes,Democratic,27646.0,89.07,True,True
+2026,Maryland,MD,State Senate,40,general,Antonio Hayes,Democratic,27661.0,89.07,True,True
 2026,Maryland,MD,State Senate,40,general,Alan Rebar,Class,3284.0,10.58,False,False
-2026,Maryland,MD,State Senate,41,general,Malcolm Ruff,Democratic,35111.0,98.43,True,False
+2026,Maryland,MD,State Senate,41,general,Malcolm Ruff,Democratic,35113.0,98.43,True,False
 2026,Maryland,MD,State Senate,42,general,Kevin Ford,Republican,29667.0,53.3,True,False
 2026,Maryland,MD,State Senate,42,general,Stephanie Popescu,Democratic,25942.0,46.61,False,False
-2026,Maryland,MD,State Senate,43,general,Mary L. Washington,Democratic,37297.0,98.79,True,True
+2026,Maryland,MD,State Senate,43,general,Mary L. Washington,Democratic,37330.0,98.79,True,True
 2026,Maryland,MD,State Senate,44,general,Charles E. Sydnor III,Democratic,36505.0,97.59,True,True
-2026,Maryland,MD,State Senate,45,general,Cory McCray,Democratic,31905.0,99.04,True,True
-2026,Maryland,MD,State Senate,46,general,Bill Ferguson,Democratic,30467.0,87.66,True,True
-2026,Maryland,MD,State Senate,46,general,Emmanuel Digman,Republican,4065.0,11.7,False,False
+2026,Maryland,MD,State Senate,45,general,Cory McCray,Democratic,31912.0,99.04,True,True
+2026,Maryland,MD,State Senate,46,general,Bill Ferguson,Democratic,30475.0,87.67,True,True
+2026,Maryland,MD,State Senate,46,general,Emmanuel Digman,Republican,4065.0,11.69,False,False
 2026,Maryland,MD,State Senate,47,general,Malcolm Augustine,Democratic,,,True,True
 2026,Michigan,MI,State Senate,35,general,Chedrick Greene,Democratic,104840,55.56,True,True
 2026,Michigan,MI,State Senate,35,general,Jason Tunney,Republican,77254,42.95,False,False

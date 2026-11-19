@@ -1,11 +1,17 @@
 year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
 2026,house,Alabama,AL,1,231965,Jerry Carl,Republican,137025,100.0,True,False,True
-2026,house,Alabama,AL,2,231471,Shomari Figures,Democratic,124422,100.0,True,False,True
+2026,house,Alabama,AL,2,231471,Shomari Figures,Democratic,124422,100.0,True,False,False
 2026,house,Alabama,AL,3,221726,Mike Rogers,Republican,141800,100.0,True,False,False
 2026,house,Alabama,AL,4,213641,Robert Aderholt,Republican,160008,100.0,True,False,False
 2026,house,Alabama,AL,5,266843,Dale Strong,Republican,152080,100.0,True,False,False
 2026,house,Alabama,AL,6,260878,Gary Palmer,Republican,149921,100.0,True,False,False
 2026,house,Alabama,AL,7,251908,Terri Sewell,Democratic,174823,100.0,True,False,False
+2026,house,Alaska,AK,AL,,Nick Begich III,Republican,,47.5,False,False,False
+2026,house,Alaska,AK,AL,,Bill Hill,Independent,,41.8,False,False,False
+2026,house,Alaska,AK,AL,,Eric Hafner,Democratic,,7.9,False,False,False
+2026,house,Alaska,AK,AL,,Jim McDermott,Libertarian,,2.6,False,False,False
+2026,house,Alaska,AK,AL,,Nick Begich III,Republican,,51.4,True,False,False
+2026,house,Alaska,AK,AL,,Bill Hill,Independent,,48.6,False,False,False
 2026,house,Arizona,AZ,1,,Amish Shah,Democratic,,100.0,True,False,True
 2026,house,Arizona,AZ,2,,Eli Crane,Republican,,100.0,True,False,False
 2026,house,Arizona,AZ,3,,Yassamin Ansari,Democratic,,100.0,True,False,False
@@ -103,9 +109,9 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Florida,FL,6,,Randy Fine,Republican,,58.9,True,False,False
 2026,house,Florida,FL,6,,Eric Yonce,Democratic,,39.9,False,False,False
 2026,house,Florida,FL,6,,Andrew Parrott,Libertarian,,1.1,False,False,False
-2026,house,Florida,FL,7,,Ryan Elijah,Republican,,49.7,True,False,False
-2026,house,Florida,FL,7,,Bale Dalton,Democratic,,49.2,False,False,False
-2026,house,Florida,FL,7,,Christopher Dennison,Libertarian,,1.1,False,False,False
+2026,house,Florida,FL,7,324454,Ryan Elijah,Republican,161300,49.7,True,False,False
+2026,house,Florida,FL,7,324454,Bale Dalton,Democratic,159669,49.2,False,False,False
+2026,house,Florida,FL,7,324454,Christopher Dennison,Libertarian,3485,1.1,False,False,False
 2026,house,Florida,FL,8,,Mike Haridopolos,Republican,,53.2,True,False,False
 2026,house,Florida,FL,8,,Jennifer Jenkins,Democratic,,46.8,False,False,False
 2026,house,Florida,FL,9,,Darren Soto,Democratic,,50.3,True,False,False
@@ -285,8 +291,8 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Missouri,MO,6,257824,Chris Stigall,Republican,151219,100.0,True,False,True
 2026,house,Missouri,MO,7,253572,Eric Burlison,Republican,157599,100.0,True,False,False
 2026,house,Missouri,MO,8,225424,Jason Smith,Republican,152677,100.0,True,False,False
-2026,house,Montana,MT,1,267562,Sam Forstag,Democratic,135096,100.0,True,False,True
-2026,house,Montana,MT,2,220611,Troy Downing,Republican,128188,100.0,True,False,False
+2026,house,Montana,MT,1,267707,Sam Forstag,Democratic,135132,100.0,True,False,True
+2026,house,Montana,MT,2,220596,Troy Downing,Republican,128172,100.0,True,False,False
 2026,house,Nebraska,NE,1,,Mike Flood,Republican,,100.0,True,False,False
 2026,house,Nebraska,NE,2,256577,Denise Powell,Democratic,145402,100.0,True,False,True
 2026,house,Nebraska,NE,3,,Adrian Smith,Republican,,100.0,True,False,False
