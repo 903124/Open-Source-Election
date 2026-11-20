@@ -2567,8 +2567,19 @@ def _margin_from_general_rows(gdf: pd.DataFrame) -> Optional[Dict]:
         return None
     # no Winning row parsed (fallback tables) → the vote leader is the winner
     if not agg["winner"].any():
-        leader = agg["votes"].idxmax() if agg["votes"].notna().any() else \
-            agg["percentage"].idxmax()
+        if agg["votes"].notna().any():
+            leader = agg["votes"].idxmax()
+        elif agg["percentage"].notna().any():
+            leader = agg["percentage"].idxmax()
+        else:
+            # candidates listed but no results published yet — e.g. an
+            # upcoming race whose table carries neither vote counts nor
+            # percentages (CI crash: pandas "Encountered all NA values").
+            # Nothing to rank: skip the race; the overview-summary fill may
+            # still cover this (state, office) later.
+            logger.info("  %s — no results published yet, margin skipped",
+                        race_label or election_label or "unnamed race")
+            return None
         agg.loc[leader, "winner"] = True
 
     win_pool = agg[agg["winner"]]
@@ -2600,7 +2611,7 @@ def _margin_from_general_rows(gdf: pd.DataFrame) -> Optional[Dict]:
         """Published %, falling back to the computed vote share."""
         if row["percentage"] is not None and not pd.isna(row["percentage"]):
             return float(row["percentage"])
-        if row["votes"] is not None and total_votes:
+        if pd.notna(row["votes"]) and total_votes:
             return round(100.0 * row["votes"] / total_votes, 2)
         return None
 
@@ -2612,8 +2623,11 @@ def _margin_from_general_rows(gdf: pd.DataFrame) -> Optional[Dict]:
     else:
         run = None
 
-    win_votes = win["votes"] if win["votes"] is not None else None
-    run_votes = run["votes"] if run is not None and run["votes"] is not None else None
+    # NaN-safe: an all-numeric column turns stored Nones into NaN, so a
+    # plain ``is not None`` test lets NaN slip into int()/arithmetic below
+    win_votes = None if pd.isna(win["votes"]) else float(win["votes"])
+    run_votes = (None if run is None or pd.isna(run["votes"])
+                 else float(run["votes"]))
     margin_votes = (round(win_votes - run_votes)
                     if win_votes is not None and run_votes is not None else None)
     margin_pct_votes = (round(100.0 * margin_votes / total_votes, 2)
