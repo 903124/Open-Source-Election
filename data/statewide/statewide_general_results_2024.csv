@@ -1,168 +1,433 @@
-year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
-2024,Delaware,DE,governor,2024 Delaware gubernatorial election,Winning,Matt Meyer,Democratic,279585,56.07,True,False
-2024,Delaware,DE,governor,2024 Delaware gubernatorial election,Candidate,Mike Ramone,Republican,219050,43.93,False,False
-2024,Delaware,DE,governor,2024 Delaware gubernatorial election,Total,,,498635,100.0,False,False
-2024,Indiana,IN,attorney general,2024 Indiana Attorney General election,Winning,Todd Rokita,Republican,1669586,58.83,True,True
-2024,Indiana,IN,attorney general,2024 Indiana Attorney General election,Candidate,Destiny Wells,Democratic,1168512,41.17,False,False
-2024,Indiana,IN,attorney general,2024 Indiana Attorney General election,Total,,,2838098,100.0,False,False
-2024,Indiana,IN,governor,2024 Indiana gubernatorial election,Winning,Mike Braun Micah Beckwith,Republican,1566081,54.38,True,False
-2024,Indiana,IN,governor,2024 Indiana gubernatorial election,Candidate,Jennifer McCormick Terry Goodin,Democratic,1183741,41.11,False,False
-2024,Indiana,IN,governor,2024 Indiana gubernatorial election,Candidate,Donald Rainwater Tonya Hudson,Libertarian,129781,4.51,False,False
-2024,Indiana,IN,governor,2024 Indiana gubernatorial election,Candidate,Write-ins,Write-ins,52,0.0,False,False
-2024,Indiana,IN,governor,2024 Indiana gubernatorial election,Total,,,2879655,100.0,False,False
-2024,Missouri,MO,attorney general,2024 Missouri Attorney General election,Winning,Andrew Bailey,Republican,1739626,59.78,True,True
-2024,Missouri,MO,attorney general,2024 Missouri Attorney General election,Candidate,Elad Gross,Democratic,1103482,37.92,False,False
-2024,Missouri,MO,attorney general,2024 Missouri Attorney General election,Candidate,Ryan Munro,Libertarian,66878,2.3,False,False
-2024,Missouri,MO,attorney general,2024 Missouri Attorney General election,Total,,,2909986,100.0,False,False
-2024,Missouri,MO,secretary of state,2024 Missouri Secretary of State election,Winning,Denny Hoskins,Republican,1677902,57.66,True,False
-2024,Missouri,MO,secretary of state,2024 Missouri Secretary of State election,Candidate,Barbara Phifer,Democratic,1154090,39.66,False,False
-2024,Missouri,MO,secretary of state,2024 Missouri Secretary of State election,Candidate,Carl Freese,Libertarian,49113,1.69,False,False
-2024,Missouri,MO,secretary of state,2024 Missouri Secretary of State election,Candidate,Jerome Bauer,Green,29012,1.0,False,False
-2024,Missouri,MO,secretary of state,2024 Missouri Secretary of State election,Total,,,2910117,100.0,False,False
-2024,Missouri,MO,state treasurer,2024 Missouri State Treasurer election,Winning,Vivek Malek,Republican,1684714,57.93,True,True
-2024,Missouri,MO,state treasurer,2024 Missouri State Treasurer election,Candidate,Mark Osmack,Democratic,1106236,38.04,False,False
-2024,Missouri,MO,state treasurer,2024 Missouri State Treasurer election,Candidate,John Hartwig,Libertarian,81443,2.8,False,False
-2024,Missouri,MO,state treasurer,2024 Missouri State Treasurer election,Candidate,Reagan Haas,Green,35745,1.23,False,False
-2024,Missouri,MO,state treasurer,2024 Missouri State Treasurer election,Total,,,2908138,100.0,False,False
-2024,Missouri,MO,governor,2024 Missouri gubernatorial election,Winning,Mike Kehoe,Republican,1750802,59.14,True,False
-2024,Missouri,MO,governor,2024 Missouri gubernatorial election,Candidate,Crystal Quade,Democratic,1146173,38.72,False,False
-2024,Missouri,MO,governor,2024 Missouri gubernatorial election,Candidate,Bill Slantz,Libertarian,40908,1.38,False,False
-2024,Missouri,MO,governor,2024 Missouri gubernatorial election,Candidate,Paul Lehmann,Green,22359,0.76,False,False
-2024,Missouri,MO,governor,2024 Missouri gubernatorial election,Write-in,,,24,0.0,False,False
-2024,Missouri,MO,governor,2024 Missouri gubernatorial election,Total,,,2960266,100.0,False,False
-2024,Montana,MT,attorney general,2024 Montana Attorney General election,Winning,Austin Knudsen,Republican,352682,59.71,True,True
-2024,Montana,MT,attorney general,2024 Montana Attorney General election,Candidate,Ben Alke,Democratic,237928,40.29,False,False
-2024,Montana,MT,attorney general,2024 Montana Attorney General election,Total,,,590610,100.0,False,False
-2024,Montana,MT,secretary of state,2024 Montana Secretary of State election,Winning,Christi Jacobsen,Republican,364319,61.39,True,True
-2024,Montana,MT,secretary of state,2024 Montana Secretary of State election,Candidate,Jesse Mullen,Democratic,210651,35.49,False,False
-2024,Montana,MT,secretary of state,2024 Montana Secretary of State election,Candidate,John Lamb,Libertarian,18500,3.12,False,False
-2024,Montana,MT,secretary of state,2024 Montana Secretary of State election,Total,,,593470,100.0,False,False
-2024,Montana,MT,governor,2024 Montana gubernatorial election,Winning,Greg Gianforte,Republican,354569,58.86,True,True
-2024,Montana,MT,governor,2024 Montana gubernatorial election,Candidate,Ryan Busse,Democratic,232644,38.62,False,False
-2024,Montana,MT,governor,2024 Montana gubernatorial election,Candidate,Kaiser Leib,Libertarian,15191,2.52,False,False
-2024,Montana,MT,governor,2024 Montana gubernatorial election,Total,,,602404,100.0,False,False
-2024,New Hampshire,NH,governor,2024 New Hampshire gubernatorial election,Winning,Kelly Ayotte,Republican,436122,53.61,True,False
-2024,New Hampshire,NH,governor,2024 New Hampshire gubernatorial election,Candidate,Joyce Craig,Democratic,360149,44.27,False,False
-2024,New Hampshire,NH,governor,2024 New Hampshire gubernatorial election,Candidate,Stephen Villee,Libertarian,16202,1.99,False,False
-2024,New Hampshire,NH,governor,2024 New Hampshire gubernatorial election,Write-in,,,1024,0.13,False,False
-2024,New Hampshire,NH,governor,2024 New Hampshire gubernatorial election,Total,,,813497,100.0,False,False
-2024,North Carolina,NC,attorney general,2024 North Carolina Attorney General election,Winning,Jeff Jackson,Democratic,2874960,51.43,True,False
-2024,North Carolina,NC,attorney general,2024 North Carolina Attorney General election,Candidate,Dan Bishop,Republican,2715411,48.57,False,False
-2024,North Carolina,NC,attorney general,2024 North Carolina Attorney General election,Total,,,5590371,100.0,False,False
-2024,North Carolina,NC,secretary of state,2024 North Carolina Secretary of State election,Winning,Elaine Marshall,Democratic,2837994,51.04,True,True
-2024,North Carolina,NC,secretary of state,2024 North Carolina Secretary of State election,Candidate,Chad Brown,Republican,2722794,48.96,False,False
-2024,North Carolina,NC,secretary of state,2024 North Carolina Secretary of State election,Total,,,5560788,100.0,False,False
-2024,North Carolina,NC,state treasurer,2024 North Carolina State Treasurer election,Winning,Brad Briner,Republican,2900059,52.45,True,False
-2024,North Carolina,NC,state treasurer,2024 North Carolina State Treasurer election,Candidate,Wesley Harris,Democratic,2629444,47.55,False,False
-2024,North Carolina,NC,state treasurer,2024 North Carolina State Treasurer election,Total,,,5529503,100.0,False,False
-2024,North Carolina,NC,governor,2024 North Carolina gubernatorial election,Winning,Josh Stein,Democratic,3069496,54.9,True,False
-2024,North Carolina,NC,governor,2024 North Carolina gubernatorial election,Candidate,Mark Robinson,Republican,2241309,40.08,False,False
-2024,North Carolina,NC,governor,2024 North Carolina gubernatorial election,Candidate,Mike Ross,Libertarian,176392,3.15,False,False
-2024,North Carolina,NC,governor,2024 North Carolina gubernatorial election,Candidate,Vinny Smith,Constitution,54738,0.98,False,False
-2024,North Carolina,NC,governor,2024 North Carolina gubernatorial election,Candidate,Wayne Turner,Green,49612,0.89,False,False
-2024,North Carolina,NC,governor,2024 North Carolina gubernatorial election,Total,,,5591547,100.0,False,False
-2024,North Dakota,ND,state treasurer,2024 North Dakota State Treasurer election,Winning,Thomas Beadle,Republican,303730,98.08,True,True
-2024,North Dakota,ND,state treasurer,2024 North Dakota State Treasurer election,Write-in,,,5952,1.92,False,False
-2024,North Dakota,ND,state treasurer,2024 North Dakota State Treasurer election,Total,,,309682,100.0,False,False
-2024,North Dakota,ND,governor,2024 North Dakota gubernatorial election,Winning,Kelly Armstrong Michelle Strinden,Republican,247056,68.26,True,False
-2024,North Dakota,ND,governor,2024 North Dakota gubernatorial election,Candidate,Merrill Piepkorn Patrick Hart,North Dakota Democratic–nonpartisan League,94043,25.98,False,False
-2024,North Dakota,ND,governor,2024 North Dakota gubernatorial election,Candidate,Michael Coachman Lydia Gessele,Independent,20322,5.61,False,False
-2024,North Dakota,ND,governor,2024 North Dakota gubernatorial election,Write-in,,,530,0.15,False,False
-2024,North Dakota,ND,governor,2024 North Dakota gubernatorial election,Total,,,361951,100.0,False,False
-2024,Oregon,OR,attorney general,2024 Oregon Attorney General election,Winning,Dan Rayfield,Democratic,1156489,54.37,True,False
-2024,Oregon,OR,attorney general,2024 Oregon Attorney General election,Candidate,Will Lathrop,Republican,967964,45.51,False,False
-2024,Oregon,OR,attorney general,2024 Oregon Attorney General election,Write-in,,,2612,0.12,False,False
-2024,Oregon,OR,attorney general,2024 Oregon Attorney General election,Total,,,2127065,100.0,False,False
-2024,Oregon,OR,secretary of state,2024 Oregon Secretary of State election,Winning,Tobias Read,Democratic,1166447,54.45,True,False
-2024,Oregon,OR,secretary of state,2024 Oregon Secretary of State election,Candidate,Dennis Linthicum,Republican,897704,41.9,False,False
-2024,Oregon,OR,secretary of state,2024 Oregon Secretary of State election,Candidate,Nathalie Paravicini,Green,76170,3.56,False,False
-2024,Oregon,OR,secretary of state,2024 Oregon Secretary of State election,Write-in,,,2011,0.09,False,False
-2024,Oregon,OR,secretary of state,2024 Oregon Secretary of State election,Total,,,2142332,100.0,False,False
-2024,Oregon,OR,state treasurer,2024 Oregon State Treasurer election,Winning,Elizabeth Steiner,Democratic,1050119,49.36,True,False
-2024,Oregon,OR,state treasurer,2024 Oregon State Treasurer election,Candidate,Brian Boquist,Republican,919794,43.24,False,False
-2024,Oregon,OR,state treasurer,2024 Oregon State Treasurer election,Candidate,Mary King,Families,155473,7.31,False,False
-2024,Oregon,OR,state treasurer,2024 Oregon State Treasurer election,Write-in,,,1882,0.09,False,False
-2024,Oregon,OR,state treasurer,2024 Oregon State Treasurer election,Total,,,2127268,100.0,False,False
-2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Winning,Dave Sunday,Republican,3496679,50.81,True,False
-2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Candidate,Eugene DePasquale,Democratic,3179376,46.2,False,False
-2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Candidate,Rob Cowburn,Libertarian,88835,1.29,False,False
-2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Candidate,Richard Weiss,Green,68046,0.99,False,False
-2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Candidate,Justin Magill,Constitution,31282,0.45,False,False
-2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Candidate,Eric Settle,Forward,18151,0.26,False,False
-2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Total,,,6882369,100.0,False,False
-2024,Pennsylvania,PA,state treasurer,2024 Pennsylvania State Treasurer election,Winning,Stacy Garrity,Republican,3542336,51.91,True,True
-2024,Pennsylvania,PA,state treasurer,2024 Pennsylvania State Treasurer election,Candidate,Erin McClelland,Democratic,3115393,45.65,False,False
-2024,Pennsylvania,PA,state treasurer,2024 Pennsylvania State Treasurer election,Candidate,Nick Ciesielski,Libertarian,99228,1.45,False,False
-2024,Pennsylvania,PA,state treasurer,2024 Pennsylvania State Treasurer election,Candidate,Troy Bowman,Constitution,40886,0.6,False,False
-2024,Pennsylvania,PA,state treasurer,2024 Pennsylvania State Treasurer election,Candidate,Chris Foster,Forward,26753,0.39,False,False
-2024,Pennsylvania,PA,state treasurer,2024 Pennsylvania State Treasurer election,Total,,,6824596,100.0,False,False
-2024,Utah,UT,attorney general,2024 Utah Attorney General election,Winning,Derek Brown,Republican,838445,57.84,True,False
-2024,Utah,UT,attorney general,2024 Utah Attorney General election,Candidate,Rudy Bautista,Democratic,401234,27.68,False,False
-2024,Utah,UT,attorney general,2024 Utah Attorney General election,Candidate,Michelle Quist,Utah,103831,7.16,False,False
-2024,Utah,UT,attorney general,2024 Utah Attorney General election,Candidate,Andrew McCullough,Libertarian,55932,3.86,False,False
-2024,Utah,UT,attorney general,2024 Utah Attorney General election,Candidate,Austin Hepworth,Independent,50053,3.45,False,False
-2024,Utah,UT,attorney general,2024 Utah Attorney General election,Total,,,1449495,100.0,False,False
-2024,Utah,UT,state treasurer,2024 Utah State Treasurer election,Winning,Marlo Oaks,Republican,920760,64.94,True,True
-2024,Utah,UT,state treasurer,2024 Utah State Treasurer election,Candidate,Neil Hansen,Democratic,420883,29.68,False,False
-2024,Utah,UT,state treasurer,2024 Utah State Treasurer election,Candidate,Miles Pomeroy,Forward,76212,5.38,False,False
-2024,Utah,UT,state treasurer,2024 Utah State Treasurer election,Total,,,1417855,100.0,False,False
-2024,Utah,UT,governor,2024 Utah gubernatorial election,Winning,Spencer Cox,Republican,781431,52.89,True,True
-2024,Utah,UT,governor,2024 Utah gubernatorial election,Candidate,Brian King,Democratic,420514,28.46,False,False
-2024,Utah,UT,governor,2024 Utah gubernatorial election,Candidate,Phil Lyman,Write-in Candidate,200551,13.57,False,False
-2024,Utah,UT,governor,2024 Utah gubernatorial election,Candidate,J. Robert Latham,Libertarian,41164,2.79,False,False
-2024,Utah,UT,governor,2024 Utah gubernatorial election,Candidate,Tommy Williams,Independent American,27480,1.86,False,False
-2024,Utah,UT,governor,2024 Utah gubernatorial election,Candidate,Tom Tomeny,Independent,5792,0.39,False,False
-2024,Utah,UT,governor,2024 Utah gubernatorial election,Candidate,Charlie Tautuaa,Write-in Candidate,525,0.04,False,False
-2024,Utah,UT,governor,2024 Utah gubernatorial election,Total,,,1477457,100.0,False,False
-2024,Vermont,VT,attorney general,2024 Vermont Attorney General election,Winning,Charity Clark,Democratic,200711,57.82,True,True
-2024,Vermont,VT,attorney general,2024 Vermont Attorney General election,Candidate,Ture Nelson,Republican,128798,37.1,False,False
-2024,Vermont,VT,attorney general,2024 Vermont Attorney General election,Candidate,Kevin Gustafson,Justice,17159,4.94,False,False
-2024,Vermont,VT,attorney general,2024 Vermont Attorney General election,Write-in,,,490,0.13,False,False
-2024,Vermont,VT,attorney general,2024 Vermont Attorney General election,Total,,,347158,100.0,False,False
-2024,Vermont,VT,secretary of state,2024 Vermont Secretary of State Election,Winning,Sarah Copeland Hanzas,Democratic,205378,59.61,True,True
-2024,Vermont,VT,secretary of state,2024 Vermont Secretary of State Election,Candidate,H. Brooke Paige,Republican,138673,40.25,False,False
-2024,Vermont,VT,secretary of state,2024 Vermont Secretary of State Election,Write-in,,,473,0.14,False,False
-2024,Vermont,VT,secretary of state,2024 Vermont Secretary of State Election,Total,,,344524,100.0,False,False
-2024,Vermont,VT,state treasurer,2024 Vermont State Treasurer election,Winning,Mike Pieciak,Democratic,211134,60.79,True,True
-2024,Vermont,VT,state treasurer,2024 Vermont State Treasurer election,Candidate,Joshua Bechhoefer,Republican,135763,39.09,False,False
-2024,Vermont,VT,state treasurer,2024 Vermont State Treasurer election,Write-in,,,415,0.12,False,False
-2024,Vermont,VT,state treasurer,2024 Vermont State Treasurer election,Total,,,347312,100.0,False,False
-2024,Vermont,VT,governor,2024 Vermont gubernatorial election,Winning,Phil Scott,Republican,266439,73.43,True,True
-2024,Vermont,VT,governor,2024 Vermont gubernatorial election,Candidate,Esther Charlestin,Democratic/progressive,79217,21.83,False,False
-2024,Vermont,VT,governor,2024 Vermont gubernatorial election,Candidate,Kevin Hoyt,Independent,9368,2.58,False,False
-2024,Vermont,VT,governor,2024 Vermont gubernatorial election,Candidate,June Goodband,Justice,4512,1.24,False,False
-2024,Vermont,VT,governor,2024 Vermont gubernatorial election,Candidate,"Eli ""Poa"" Mutino",Independent,2414,0.67,False,False
-2024,Vermont,VT,governor,2024 Vermont gubernatorial election,Write-in,,,891,0.25,False,False
-2024,Vermont,VT,governor,2024 Vermont gubernatorial election,Total,,,362841,100.0,False,False
-2024,Washington,WA,attorney general,2024 Washington Attorney General election,Winning,Nick Brown,Democratic,2093570,55.58,True,False
-2024,Washington,WA,attorney general,2024 Washington Attorney General election,Candidate,Pete Serrano,Republican,1669884,44.33,False,False
-2024,Washington,WA,attorney general,2024 Washington Attorney General election,Write-in,,,3616,0.1,False,False
-2024,Washington,WA,attorney general,2024 Washington Attorney General election,Total,,,3767070,100.0,False,False
-2024,Washington,WA,secretary of state,2024 Washington Secretary of State election,Winning,Steve Hobbs,Democratic,2234420,59.2,True,True
-2024,Washington,WA,secretary of state,2024 Washington Secretary of State election,Candidate,Dale Whitaker,Republican,1535977,40.7,False,False
-2024,Washington,WA,secretary of state,2024 Washington Secretary of State election,Write-in,,,3958,0.1,False,False
-2024,Washington,WA,secretary of state,2024 Washington Secretary of State election,Total,,,3774355,100.0,False,False
-2024,Washington,WA,state treasurer,2024 Washington State Treasurer election,Winning,Mike Pellicciotti,Democratic,2148764,57.26,True,True
-2024,Washington,WA,state treasurer,2024 Washington State Treasurer election,Candidate,Sharon Hanek,Republican,1600370,42.65,False,False
-2024,Washington,WA,state treasurer,2024 Washington State Treasurer election,Write-in,,,3261,0.09,False,False
-2024,Washington,WA,state treasurer,2024 Washington State Treasurer election,Total,,,3752395,100.0,False,False
-2024,Washington,WA,governor,2024 Washington gubernatorial election,Winning,Bob Ferguson,Democratic,2143368,55.51,True,False
-2024,Washington,WA,governor,2024 Washington gubernatorial election,Candidate,Dave Reichert,Republican,1709818,44.28,False,False
-2024,Washington,WA,governor,2024 Washington gubernatorial election,Write-in,,,8202,0.21,False,False
-2024,Washington,WA,governor,2024 Washington gubernatorial election,Total,,,3861388,100.0,False,False
-2024,West Virginia,WV,attorney general,2024 West Virginia Attorney General election,Winning,JB McCuskey,Republican,501452,70.02,True,False
-2024,West Virginia,WV,attorney general,2024 West Virginia Attorney General election,Candidate,Teresa Toriseva,Democratic,214654,29.98,False,False
-2024,West Virginia,WV,attorney general,2024 West Virginia Attorney General election,Total,,,716106,100.0,False,False
-2024,West Virginia,WV,secretary of state,2024 West Virginia Secretary of State election,Winning,Kris Warner,Republican,510992,71.15,True,False
-2024,West Virginia,WV,secretary of state,2024 West Virginia Secretary of State election,Candidate,Thornton Cooper,Democratic,207238,28.85,False,False
-2024,West Virginia,WV,secretary of state,2024 West Virginia Secretary of State election,Total,,,718230,100.0,False,False
-2024,West Virginia,WV,state treasurer,2024 West Virginia State Treasurer election,Winning,Larry Pack,Republican,602718,99.93,True,False
-2024,West Virginia,WV,state treasurer,2024 West Virginia State Treasurer election,Write-in,,,444,0.07,False,False
-2024,West Virginia,WV,state treasurer,2024 West Virginia State Treasurer election,Total,,,603162,100.0,False,False
-2024,West Virginia,WV,governor,2024 West Virginia gubernatorial election,Winning,Patrick Morrisey,Republican,459300,61.99,True,False
-2024,West Virginia,WV,governor,2024 West Virginia gubernatorial election,Candidate,Steve Williams,Democratic,233976,31.58,False,False
-2024,West Virginia,WV,governor,2024 West Virginia gubernatorial election,Candidate,Erika Kolenich,Libertarian,21228,2.87,False,False
-2024,West Virginia,WV,governor,2024 West Virginia gubernatorial election,Candidate,S. Marshall Wilson,Constitution,16828,2.27,False,False
-2024,West Virginia,WV,governor,2024 West Virginia gubernatorial election,Candidate,Chase Linko-Looper,Mountain,9596,1.3,False,False
-2024,West Virginia,WV,governor,2024 West Virginia gubernatorial election,Write-in,,,10,0.0,False,False
-2024,West Virginia,WV,governor,2024 West Virginia gubernatorial election,Total,,,740938,100.0,False,False
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent,race_article
+2024,Alabama,AL,judicial,"2024 Alabama Court of Civil Appeals, Place 1 election",Winning,Christy Edwards,Republican,1555361,97.88,True,True,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Civil Appeals, Place 1 election",Write-in,,,33716,2.12,False,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Civil Appeals, Place 1 election",Total,,,1589077,100.0,False,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Civil Appeals, Place 2 election",Winning,Chad Hanson,Republican,1549864,97.87,True,True,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Civil Appeals, Place 2 election",Write-in,,,33644,2.13,False,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Civil Appeals, Place 2 election",Total,,,1583508,100.0,False,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Civil Appeals, Place 3 election",Winning,Terry A. Moore,Republican,1551657,97.91,True,True,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Civil Appeals, Place 3 election",Write-in,,,33096,2.09,False,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Civil Appeals, Place 3 election",Total,,,1584753,100.0,False,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Criminal Appeals, Place 1 election",Winning,Richard Minor,Republican,1547401,97.9,True,True,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Criminal Appeals, Place 1 election",Write-in,,,33207,2.1,False,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Criminal Appeals, Place 1 election",Total,,,1580608,100.0,False,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Criminal Appeals, Place 2 election",Winning,Rich Anderson,Republican,1546549,97.91,True,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Criminal Appeals, Place 2 election",Write-in,,,32940,2.09,False,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Criminal Appeals, Place 2 election",Total,,,1579489,100.0,False,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Criminal Appeals, Place 3 election",Winning,Bill Cole,Republican,1547520,97.93,True,True,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Criminal Appeals, Place 3 election",Write-in,,,32746,2.07,False,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,"2024 Alabama Court of Criminal Appeals, Place 3 election",Total,,,1580266,100.0,False,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,public service commission,2024 Alabama Public Service Commission president election,Winning,Twinkle Andress Cavanaugh,Republican,1538888,97.34,True,True,2024 Alabama Public Service Commission election
+2024,Alabama,AL,public service commission,2024 Alabama Public Service Commission president election,Write-in,,,42061,2.66,False,False,2024 Alabama Public Service Commission election
+2024,Alabama,AL,public service commission,2024 Alabama Public Service Commission president election,Total,,,1580949,100.0,False,False,2024 Alabama Public Service Commission election
+2024,Alabama,AL,state board of education,District 1 – 2024 Alabama State Board of Education District 1 election,Winning,Jackie Zeigler,Republican,220386,98.62,True,True,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 1 – 2024 Alabama State Board of Education District 1 election,Write-in,,,3076,1.38,False,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 1 – 2024 Alabama State Board of Education District 1 election,Total,,,223462,100.0,False,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 3 – 2024 Alabama State Board of Education District 3 election,Winning,Kelly Mooney,Republican,226243,97.76,True,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 3 – 2024 Alabama State Board of Education District 3 election,Write-in,,,5179,2.24,False,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 3 – 2024 Alabama State Board of Education District 3 election,Total,,,231422,100.0,False,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 5 – 2024 Alabama State Board of Education District 5 election,Winning,Tonya Smith Chestnut,Democratic,142007,54.99,True,True,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 5 – 2024 Alabama State Board of Education District 5 election,Candidate,David Perry,Republican,115827,44.85,False,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 5 – 2024 Alabama State Board of Education District 5 election,Write-in,,,417,0.16,False,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 5 – 2024 Alabama State Board of Education District 5 election,Total,,,258251,100.0,False,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 7 – 2024 Alabama State Board of Education District 7 election,Winning,Allen Long,Republican,242663,98.84,True,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 7 – 2024 Alabama State Board of Education District 7 election,Write-in,,,2839,1.16,False,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 7 – 2024 Alabama State Board of Education District 7 election,Total,,,245502,100.0,False,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,judicial,2024 Alabama Chief Justice of the Supreme Court election,Winning,Sarah Stewart,Republican,1458501,65.77,True,False,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,2024 Alabama Chief Justice of the Supreme Court election,Candidate,Greg Griffin,Democratic,756675,34.12,False,False,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,2024 Alabama Chief Justice of the Supreme Court election,Write-in,,,2350,0.11,False,False,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,2024 Alabama Chief Justice of the Supreme Court election,Total,,,2217526,100.0,False,False,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,"Place 1 – 2024 Alabama Associate Justice of the Supreme Court, Place 1 election",Winning,Chris McCool,Republican,1564832,97.62,True,False,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,"Place 1 – 2024 Alabama Associate Justice of the Supreme Court, Place 1 election",Write-in,,,38088,2.38,False,False,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,"Place 1 – 2024 Alabama Associate Justice of the Supreme Court, Place 1 election",Total,,,1602920,100.0,False,False,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,"Place 2 – 2024 Alabama Associate Justice of the Supreme Court, Place 2 election",Winning,Tommy Bryan,Republican,1560072,97.69,True,True,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,"Place 2 – 2024 Alabama Associate Justice of the Supreme Court, Place 2 election",Write-in,,,36838,2.31,False,False,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,"Place 2 – 2024 Alabama Associate Justice of the Supreme Court, Place 2 election",Total,,,1596910,100.0,False,False,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,"Place 3 – 2024 Alabama Associate Justice of the Supreme Court, Place 3 election",Winning,Will Sellers,Republican,1557606,97.77,True,True,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,"Place 3 – 2024 Alabama Associate Justice of the Supreme Court, Place 3 election",Write-in,,,35479,2.23,False,False,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,"Place 3 – 2024 Alabama Associate Justice of the Supreme Court, Place 3 election",Total,,,1593085,100.0,False,False,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,"Place 4 – 2024 Alabama Associate Justice of the Supreme Court, Place 4 election",Winning,Jay Mitchell,Republican,1555235,97.8,True,True,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,"Place 4 – 2024 Alabama Associate Justice of the Supreme Court, Place 4 election",Write-in,,,35034,2.2,False,False,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,"Place 4 – 2024 Alabama Associate Justice of the Supreme Court, Place 4 election",Total,,,1590269,100.0,False,False,2024 Alabama Supreme Court election
+2024,Arizona,AZ,corporation commission,General election results,Candidate,Rachel Walden,Republican,1525622,17.89,False,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,General election results,Candidate,Rene Lopez,Republican,1481992,17.37,False,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,General election results,Candidate,Lea Márquez Peterson,Republican,1440681,16.89,False,True,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,General election results,Candidate,Ylenia Aguilar,Democratic,1336868,15.67,False,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,General election results,Candidate,Jonathon Hill,Democratic,1301904,15.26,False,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,General election results,Candidate,Joshua Polacheck,Democratic,1230440,14.43,False,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,General election results,Candidate,Nina Luxenberg,Green,110486,1.3,False,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,General election results,Candidate,Mike Cease,Green,101473,1.19,False,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,General election results,Candidate,Frank Bertone (Write-in),Democratic,144,0.0,False,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,General election results,Total,,,8529610,100.0,False,False,2024 Arizona Corporation Commission election
+2024,Arkansas,AR,judicial,2024 Arkansas Supreme Court Chief Justice election (first round),Winning,Karen Baker,,86850,27.17,True,False,2024 Arkansas Supreme Court Chief Justice election
+2024,Arkansas,AR,judicial,2024 Arkansas Supreme Court Chief Justice election (first round),Winning,Rhonda Wood,,84139,26.33,True,False,2024 Arkansas Supreme Court Chief Justice election
+2024,Arkansas,AR,judicial,2024 Arkansas Supreme Court Chief Justice election (first round),Candidate,Barbara Webb,,82735,25.89,False,False,2024 Arkansas Supreme Court Chief Justice election
+2024,Arkansas,AR,judicial,2024 Arkansas Supreme Court Chief Justice election (first round),Candidate,Jay Martin,,65875,20.61,False,False,2024 Arkansas Supreme Court Chief Justice election
+2024,Arkansas,AR,judicial,2024 Arkansas Supreme Court Chief Justice election (first round),Total,,,319599,100.0,False,False,2024 Arkansas Supreme Court Chief Justice election
+2024,Arkansas,AR,judicial,2024 Arkansas Supreme Court Chief Justice election (runoff),Winning,Karen Baker,,546713,52.68,True,False,2024 Arkansas Supreme Court Chief Justice election
+2024,Arkansas,AR,judicial,2024 Arkansas Supreme Court Chief Justice election (runoff),Candidate,Rhonda Wood,,491148,47.32,False,False,2024 Arkansas Supreme Court Chief Justice election
+2024,Arkansas,AR,judicial,2024 Arkansas Supreme Court Chief Justice election (runoff),Total,,,1037861,100.0,False,False,2024 Arkansas Supreme Court Chief Justice election
+2024,Delaware,DE,governor,2024 Delaware gubernatorial election,Winning,Matt Meyer,Democratic,279585,56.07,True,False,2024 Delaware gubernatorial election
+2024,Delaware,DE,governor,2024 Delaware gubernatorial election,Candidate,Mike Ramone,Republican,219050,43.93,False,False,2024 Delaware gubernatorial election
+2024,Delaware,DE,governor,2024 Delaware gubernatorial election,Total,,,498635,100.0,False,False,2024 Delaware gubernatorial election
+2024,Georgia,GA,judicial,Miller's seat – 2024 Georgia Jeff Davis's Court of Appeals election,Winning,Jeff Davis,Non-partisan Democracy,630089,57.02,True,False,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Miller's seat – 2024 Georgia Jeff Davis's Court of Appeals election,Candidate,Tabitha Ponder,Non-partisan Democracy,474950,42.98,False,False,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Miller's seat – 2024 Georgia Jeff Davis's Court of Appeals election,Total,,,1105039,100.0,False,False,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Dillard's seat – 2024 Georgia (Dillard's seat) Court of Appeals election,Winning,Stephen Dillard,Non-partisan Democracy,1041332,100.0,True,True,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Dillard's seat – 2024 Georgia (Dillard's seat) Court of Appeals election,Total,,,1041332,100.0,False,False,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Hodges's seat – 2024 Georgia (Hodges's seat) Court of Appeals election,Winning,Ken Hodges,Non-partisan Democracy,1043661,100.0,True,True,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Hodges's seat – 2024 Georgia (Hodges's seat) Court of Appeals election,Total,,,1043661,100.0,False,False,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Land's seat – 2024 Georgia (Land's seat) Court of Appeals election,Winning,Benjamin A. Land,Non-partisan Democracy,1035509,100.0,True,True,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Land's seat – 2024 Georgia (Land's seat) Court of Appeals election,Total,,,1035509,100.0,False,False,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Mercier's seat – 2024 Georgia (Mercier's seat) Court of Appeals election,Winning,Amanda H. Mercier,Non-partisan Democracy,1038811,100.0,True,True,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Mercier's seat – 2024 Georgia (Mercier's seat) Court of Appeals election,Total,,,1038811,100.0,False,False,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Rickman's seat – 2024 Georgia (Rickman's seat) Court of Appeals election,Winning,Brian M. Rickman,Non-partisan Democracy,1031763,100.0,True,True,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Rickman's seat – 2024 Georgia (Rickman's seat) Court of Appeals election,Total,,,1031763,100.0,False,False,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Watkin's seat – 2024 Georgia (Watkins's seat) Court of Appeals election,Winning,Jeffrey A. Watkins,Non-partisan Democracy,1033036,100.0,True,True,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Watkin's seat – 2024 Georgia (Watkins's seat) Court of Appeals election,Total,,,1033036,100.0,False,False,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Pinson's seat – 2024 Georgia (Pinson's seat) Supreme Court election,Winning,Andrew Pinson,Non-partisan Democracy,643131,54.98,True,True,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Pinson's seat – 2024 Georgia (Pinson's seat) Supreme Court election,Candidate,John Barrow,Non-partisan Democracy,526640,45.02,False,False,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Pinson's seat – 2024 Georgia (Pinson's seat) Supreme Court election,Total,,,1169771,100.0,False,False,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Boggs's seat – 2024 Georgia (Boggs's seat) Supreme Court election,Winning,Michael P. Boggs,Non-partisan Democracy,1045866,100.0,True,True,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Boggs's seat – 2024 Georgia (Boggs's seat) Supreme Court election,Total,,,1045866,100.0,False,False,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Ellington's seat – 2024 Georgia (Ellington's seat) Supreme Court election,Winning,John J. Ellington,Non-partisan Democracy,1046368,100.0,True,True,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Ellington's seat – 2024 Georgia (Ellington's seat) Supreme Court election,Total,,,1046368,100.0,False,False,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Peterson's seat – 2024 Georgia (Peterson's seat) Supreme Court election,Winning,Nels S. D. Peterson,Non-partisan Democracy,1037234,100.0,True,True,2024 Georgia judicial elections
+2024,Georgia,GA,judicial,Peterson's seat – 2024 Georgia (Peterson's seat) Supreme Court election,Total,,,1037234,100.0,False,False,2024 Georgia judicial elections
+2024,Indiana,IN,attorney general,2024 Indiana Attorney General election,Winning,Todd Rokita,Republican,1669586,58.83,True,True,2024 Indiana Attorney General election
+2024,Indiana,IN,attorney general,2024 Indiana Attorney General election,Candidate,Destiny Wells,Democratic,1168512,41.17,False,False,2024 Indiana Attorney General election
+2024,Indiana,IN,attorney general,2024 Indiana Attorney General election,Total,,,2838098,100.0,False,False,2024 Indiana Attorney General election
+2024,Indiana,IN,governor,2024 Indiana gubernatorial election,Winning,Mike Braun Micah Beckwith,Republican,1566081,54.38,True,False,2024 Indiana gubernatorial election
+2024,Indiana,IN,governor,2024 Indiana gubernatorial election,Candidate,Jennifer McCormick Terry Goodin,Democratic,1183741,41.11,False,False,2024 Indiana gubernatorial election
+2024,Indiana,IN,governor,2024 Indiana gubernatorial election,Candidate,Donald Rainwater Tonya Hudson,Libertarian,129781,4.51,False,False,2024 Indiana gubernatorial election
+2024,Indiana,IN,governor,2024 Indiana gubernatorial election,Candidate,Write-ins,Write-ins,52,0.0,False,False,2024 Indiana gubernatorial election
+2024,Indiana,IN,governor,2024 Indiana gubernatorial election,Total,,,2879655,100.0,False,False,2024 Indiana gubernatorial election
+2024,Kentucky,KY,judicial,2024 Kentucky Supreme Court 5th district election,Winning,Pamela R. Goodwine,,183821,76.94,True,False,2024 Kentucky Supreme Court election
+2024,Kentucky,KY,judicial,2024 Kentucky Supreme Court 5th district election,Candidate,Erin Izzo,,55085,23.06,False,False,2024 Kentucky Supreme Court election
+2024,Kentucky,KY,judicial,2024 Kentucky Supreme Court 5th district election,Total,,,238906,100.0,False,False,2024 Kentucky Supreme Court election
+2024,Massachusetts,MA,governor's council,District 1 – 2024 Massachusetts's 1st Governor's Council district election,Candidate,Joseph C. Ferreira,Democratic,242015,56.4,False,True,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 1 – 2024 Massachusetts's 1st Governor's Council district election,Candidate,Krysten Condon,Independent,185805,43.3,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 1 – 2024 Massachusetts's 1st Governor's Council district election,Write-in,,,1119,0.3,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 1 – 2024 Massachusetts's 1st Governor's Council district election,Total,,,238939,100.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 2 – 2024 Massachusetts's 2nd Governor's Council district election,Candidate,Tamisha Civil,Democratic,236686,57.2,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 2 – 2024 Massachusetts's 2nd Governor's Council district election,Candidate,Francis Crimmins Jr.,Republican,176372,42.6,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 2 – 2024 Massachusetts's 2nd Governor's Council district election,Write-in,,,511,0.1,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 2 – 2024 Massachusetts's 2nd Governor's Council district election,Total,,,413569,99.9,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 3 – 2024 Massachusetts's 3rd Governor's Council district election,Candidate,Mara Dolan,Democratic,330523,98.7,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 3 – 2024 Massachusetts's 3rd Governor's Council district election,Write-in,,,4203,1.3,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 3 – 2024 Massachusetts's 3rd Governor's Council district election,Total,,,334726,100.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 4 – 2024 Massachusetts's 4th Governor's Council district election,Candidate,Christopher A. Iannella Jr.,Democratic,319452,98.0,False,True,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 4 – 2024 Massachusetts's 4th Governor's Council district election,Write-in,,,6459,2.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 4 – 2024 Massachusetts's 4th Governor's Council district election,Total,,,325911,100.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 5 – 2024 Massachusetts's 5th Governor's Council district election,Candidate,Eunice Zeigler,Democratic,184275,47.2,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 5 – 2024 Massachusetts's 5th Governor's Council district election,Candidate,Anne Manning-Martin,Republican,158961,40.7,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 5 – 2024 Massachusetts's 5th Governor's Council district election,Candidate,Jody Elliott,Independent,46634,11.9,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 5 – 2024 Massachusetts's 5th Governor's Council district election,Write-in,,,705,0.2,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 5 – 2024 Massachusetts's 5th Governor's Council district election,Total,,,390575,100.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 6 – 2024 Massachusetts's 6th Governor's Council district election,Candidate,Terrence W. Kennedy,Democratic,282836,98.1,False,True,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 6 – 2024 Massachusetts's 6th Governor's Council district election,Write-in,,,5449,1.9,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 6 – 2024 Massachusetts's 6th Governor's Council district election,Total,,,288285,100.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 7 – 2024 Massachusetts's 7th Governor's Council district election,Candidate,Paul DePalo,Democratic,228944,57.3,False,True,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 7 – 2024 Massachusetts's 7th Governor's Council district election,Candidate,Andrew Couture,Republican,169936,42.5,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 7 – 2024 Massachusetts's 7th Governor's Council district election,Write-in,,,565,0.1,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 7 – 2024 Massachusetts's 7th Governor's Council district election,Total,,,399445,99.9,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 8 – 2024 Massachusetts's 8th Governor's Council district election,Candidate,Tara J. Jacobs,Democratic,61765,99.4,False,True,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 8 – 2024 Massachusetts's 8th Governor's Council district election,Write-in,,,375,0.6,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 8 – 2024 Massachusetts's 8th Governor's Council district election,Total,,,62140,100.0,False,False,2024 Massachusetts Governor's Council election
+2024,Missouri,MO,attorney general,2024 Missouri Attorney General election,Winning,Andrew Bailey,Republican,1739626,59.78,True,True,2024 Missouri Attorney General election
+2024,Missouri,MO,attorney general,2024 Missouri Attorney General election,Candidate,Elad Gross,Democratic,1103482,37.92,False,False,2024 Missouri Attorney General election
+2024,Missouri,MO,attorney general,2024 Missouri Attorney General election,Candidate,Ryan Munro,Libertarian,66878,2.3,False,False,2024 Missouri Attorney General election
+2024,Missouri,MO,attorney general,2024 Missouri Attorney General election,Total,,,2909986,100.0,False,False,2024 Missouri Attorney General election
+2024,Missouri,MO,secretary of state,2024 Missouri Secretary of State election,Winning,Denny Hoskins,Republican,1677902,57.66,True,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,2024 Missouri Secretary of State election,Candidate,Barbara Phifer,Democratic,1154090,39.66,False,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,2024 Missouri Secretary of State election,Candidate,Carl Freese,Libertarian,49113,1.69,False,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,2024 Missouri Secretary of State election,Candidate,Jerome Bauer,Green,29012,1.0,False,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,2024 Missouri Secretary of State election,Total,,,2910117,100.0,False,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,state treasurer,2024 Missouri State Treasurer election,Winning,Vivek Malek,Republican,1684714,57.93,True,True,2024 Missouri State Treasurer election
+2024,Missouri,MO,state treasurer,2024 Missouri State Treasurer election,Candidate,Mark Osmack,Democratic,1106236,38.04,False,False,2024 Missouri State Treasurer election
+2024,Missouri,MO,state treasurer,2024 Missouri State Treasurer election,Candidate,John Hartwig,Libertarian,81443,2.8,False,False,2024 Missouri State Treasurer election
+2024,Missouri,MO,state treasurer,2024 Missouri State Treasurer election,Candidate,Reagan Haas,Green,35745,1.23,False,False,2024 Missouri State Treasurer election
+2024,Missouri,MO,state treasurer,2024 Missouri State Treasurer election,Total,,,2908138,100.0,False,False,2024 Missouri State Treasurer election
+2024,Missouri,MO,governor,2024 Missouri gubernatorial election,Winning,Mike Kehoe,Republican,1750802,59.14,True,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,2024 Missouri gubernatorial election,Candidate,Crystal Quade,Democratic,1146173,38.72,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,2024 Missouri gubernatorial election,Candidate,Bill Slantz,Libertarian,40908,1.38,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,2024 Missouri gubernatorial election,Candidate,Paul Lehmann,Green,22359,0.76,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,2024 Missouri gubernatorial election,Write-in,,,24,0.0,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,2024 Missouri gubernatorial election,Total,,,2960266,100.0,False,False,2024 Missouri gubernatorial election
+2024,Montana,MT,attorney general,2024 Montana Attorney General election,Winning,Austin Knudsen,Republican,352682,59.71,True,True,2024 Montana Attorney General election
+2024,Montana,MT,attorney general,2024 Montana Attorney General election,Candidate,Ben Alke,Democratic,237928,40.29,False,False,2024 Montana Attorney General election
+2024,Montana,MT,attorney general,2024 Montana Attorney General election,Total,,,590610,100.0,False,False,2024 Montana Attorney General election
+2024,Montana,MT,secretary of state,2024 Montana Secretary of State election,Winning,Christi Jacobsen,Republican,364319,61.39,True,True,2024 Montana Secretary of State election
+2024,Montana,MT,secretary of state,2024 Montana Secretary of State election,Candidate,Jesse Mullen,Democratic,210651,35.49,False,False,2024 Montana Secretary of State election
+2024,Montana,MT,secretary of state,2024 Montana Secretary of State election,Candidate,John Lamb,Libertarian,18500,3.12,False,False,2024 Montana Secretary of State election
+2024,Montana,MT,secretary of state,2024 Montana Secretary of State election,Total,,,593470,100.0,False,False,2024 Montana Secretary of State election
+2024,Montana,MT,state auditor,2024 Montana State Auditor election,Winning,James Brown,Republican,358642,61.42,True,False,2024 Montana State Auditor election
+2024,Montana,MT,state auditor,2024 Montana State Auditor election,Candidate,John Repke,Democratic,225251,38.58,False,False,2024 Montana State Auditor election
+2024,Montana,MT,state auditor,2024 Montana State Auditor election,Total,,,583893,100.0,False,False,2024 Montana State Auditor election
+2024,Montana,MT,superintendent of public instruction,2024 Montana Superintendent of Public Instruction election,Winning,Susie Hedalen,Republican,348360,59.32,True,False,2024 Montana Superintendent of Public Instruction election
+2024,Montana,MT,superintendent of public instruction,2024 Montana Superintendent of Public Instruction election,Candidate,Shannon O'Brien,Democratic,238880,40.68,False,False,2024 Montana Superintendent of Public Instruction election
+2024,Montana,MT,superintendent of public instruction,2024 Montana Superintendent of Public Instruction election,Total,,,587240,100.0,False,False,2024 Montana Superintendent of Public Instruction election
+2024,Montana,MT,governor,2024 Montana gubernatorial election,Winning,Greg Gianforte,Republican,354569,58.86,True,True,2024 Montana gubernatorial election
+2024,Montana,MT,governor,2024 Montana gubernatorial election,Candidate,Ryan Busse,Democratic,232644,38.62,False,False,2024 Montana gubernatorial election
+2024,Montana,MT,governor,2024 Montana gubernatorial election,Candidate,Kaiser Leib,Libertarian,15191,2.52,False,False,2024 Montana gubernatorial election
+2024,Montana,MT,governor,2024 Montana gubernatorial election,Total,,,602404,100.0,False,False,2024 Montana gubernatorial election
+2024,New Hampshire,NH,executive council,District 1 – 2024 New Hampshire's 1st Executive Council district election,Winning,Joseph Kenney,Republican,87132,55.2,True,True,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 1 – 2024 New Hampshire's 1st Executive Council district election,Candidate,Emmett Soldati,Democratic,70647,44.76,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 1 – 2024 New Hampshire's 1st Executive Council district election,Write-in,,,71,0.04,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 1 – 2024 New Hampshire's 1st Executive Council district election,Total,,,157850,100.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – 2024 New Hampshire's 2nd Executive Council district election,Winning,Karen Liot Hill,Democratic,87633,56.92,True,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – 2024 New Hampshire's 2nd Executive Council district election,Candidate,Kim Strathdee,Republican,66150,42.96,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – 2024 New Hampshire's 2nd Executive Council district election,Write-in,,,180,0.12,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – 2024 New Hampshire's 2nd Executive Council district election,Total,,,153963,100.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 3 – 2024 New Hampshire's 3rd Executive Council district election,Winning,Janet Stevens,Republican,92634,55.05,True,True,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 3 – 2024 New Hampshire's 3rd Executive Council district election,Candidate,Jon Morgan,Democratic,75524,44.88,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 3 – 2024 New Hampshire's 3rd Executive Council district election,Write-in,,,116,0.07,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 3 – 2024 New Hampshire's 3rd Executive Council district election,Total,,,168274,100.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – 2024 New Hampshire's 4th Executive Council district election,Winning,John Stephen,Republican,77903,53.78,True,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – 2024 New Hampshire's 4th Executive Council district election,Candidate,Jim O'Connell,Democratic,66842,46.14,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – 2024 New Hampshire's 4th Executive Council district election,Write-in,,,111,0.08,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – 2024 New Hampshire's 4th Executive Council district election,Total,,,144856,100.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 5 – 2024 New Hampshire's 5th Executive Council district election,Winning,Dave Wheeler,Republican,81654,53.44,True,True,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 5 – 2024 New Hampshire's 5th Executive Council district election,Candidate,Melanie Levesque,Democratic,71093,46.52,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 5 – 2024 New Hampshire's 5th Executive Council district election,Write-in,,,63,0.04,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 5 – 2024 New Hampshire's 5th Executive Council district election,Total,,,152810,100.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,governor,2024 New Hampshire gubernatorial election,Winning,Kelly Ayotte,Republican,436122,53.61,True,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,2024 New Hampshire gubernatorial election,Candidate,Joyce Craig,Democratic,360149,44.27,False,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,2024 New Hampshire gubernatorial election,Candidate,Stephen Villee,Libertarian,16202,1.99,False,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,2024 New Hampshire gubernatorial election,Write-in,,,1024,0.13,False,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,2024 New Hampshire gubernatorial election,Total,,,813497,100.0,False,False,2024 New Hampshire gubernatorial election
+2024,North Carolina,NC,attorney general,2024 North Carolina Attorney General election,Winning,Jeff Jackson,Democratic,2874960,51.43,True,False,2024 North Carolina Attorney General election
+2024,North Carolina,NC,attorney general,2024 North Carolina Attorney General election,Candidate,Dan Bishop,Republican,2715411,48.57,False,False,2024 North Carolina Attorney General election
+2024,North Carolina,NC,attorney general,2024 North Carolina Attorney General election,Total,,,5590371,100.0,False,False,2024 North Carolina Attorney General election
+2024,North Carolina,NC,superintendent of public instruction,2024 North Carolina Superintendent of Public Instruction election,Winning,Mo Green,Democratic,2837606,51.18,True,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,superintendent of public instruction,2024 North Carolina Superintendent of Public Instruction election,Candidate,Michele Morrow,Republican,2706953,48.82,False,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,superintendent of public instruction,2024 North Carolina Superintendent of Public Instruction election,Total,,,5544559,100.0,False,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,agriculture commissioner,2024 North Carolina Commissioner of Agriculture election,Winning,Steve Troxler,Republican,2922483,52.61,True,True,2024 North Carolina Council of State elections
+2024,North Carolina,NC,agriculture commissioner,2024 North Carolina Commissioner of Agriculture election,Candidate,Sarah Taber,Democratic,2496474,44.95,False,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,agriculture commissioner,2024 North Carolina Commissioner of Agriculture election,Candidate,Sean Haugh,Libertarian,135513,2.44,False,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,agriculture commissioner,2024 North Carolina Commissioner of Agriculture election,Total,,,5554470,100.0,False,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,labor commissioner,2024 North Carolina Commissioner of Labor election,Winning,Luke Farley,Republican,2904331,52.75,True,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,labor commissioner,2024 North Carolina Commissioner of Labor election,Candidate,Braxton Winston II,Democratic,2601255,47.25,False,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,labor commissioner,2024 North Carolina Commissioner of Labor election,Total,,,5505586,100.0,False,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,insurance commissioner,2024 North Carolina Commissioner of Insurance election,Winning,Mike Causey,Republican,2883996,52.12,True,True,2024 North Carolina Council of State elections
+2024,North Carolina,NC,insurance commissioner,2024 North Carolina Commissioner of Insurance election,Candidate,Natasha Marcus,Democratic,2649353,47.88,False,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,insurance commissioner,2024 North Carolina Commissioner of Insurance election,Total,,,5533349,100.0,False,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,secretary of state,2024 North Carolina Secretary of State election,Winning,Elaine Marshall,Democratic,2837994,51.04,True,True,2024 North Carolina Secretary of State election
+2024,North Carolina,NC,secretary of state,2024 North Carolina Secretary of State election,Candidate,Chad Brown,Republican,2722794,48.96,False,False,2024 North Carolina Secretary of State election
+2024,North Carolina,NC,secretary of state,2024 North Carolina Secretary of State election,Total,,,5560788,100.0,False,False,2024 North Carolina Secretary of State election
+2024,North Carolina,NC,state auditor,2024 North Carolina State Auditor election,Winning,Dave Boliek,Republican,2729780,49.35,True,False,2024 North Carolina State Auditor election
+2024,North Carolina,NC,state auditor,2024 North Carolina State Auditor election,Candidate,Jessica Holmes,Democratic,2633607,47.62,False,True,2024 North Carolina State Auditor election
+2024,North Carolina,NC,state auditor,2024 North Carolina State Auditor election,Candidate,Bob Drach,Libertarian,167701,3.03,False,False,2024 North Carolina State Auditor election
+2024,North Carolina,NC,state auditor,2024 North Carolina State Auditor election,Total,,,5531088,100.0,False,False,2024 North Carolina State Auditor election
+2024,North Carolina,NC,state treasurer,2024 North Carolina State Treasurer election,Winning,Brad Briner,Republican,2900059,52.45,True,False,2024 North Carolina State Treasurer election
+2024,North Carolina,NC,state treasurer,2024 North Carolina State Treasurer election,Candidate,Wesley Harris,Democratic,2629444,47.55,False,False,2024 North Carolina State Treasurer election
+2024,North Carolina,NC,state treasurer,2024 North Carolina State Treasurer election,Total,,,5529503,100.0,False,False,2024 North Carolina State Treasurer election
+2024,North Carolina,NC,governor,2024 North Carolina gubernatorial election,Winning,Josh Stein,Democratic,3069496,54.9,True,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,governor,2024 North Carolina gubernatorial election,Candidate,Mark Robinson,Republican,2241309,40.08,False,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,governor,2024 North Carolina gubernatorial election,Candidate,Mike Ross,Libertarian,176392,3.15,False,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,governor,2024 North Carolina gubernatorial election,Candidate,Vinny Smith,Constitution,54738,0.98,False,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,governor,2024 North Carolina gubernatorial election,Candidate,Wayne Turner,Green,49612,0.89,False,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,governor,2024 North Carolina gubernatorial election,Total,,,5591547,100.0,False,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,judicial,"North Carolina Supreme Court election, 2024",Winning,Allison Riggs,Democratic,2770412,50.01,True,True,2024 North Carolina judicial elections
+2024,North Carolina,NC,judicial,"North Carolina Supreme Court election, 2024",Candidate,Jefferson Griffin,Republican,2769678,49.99,False,False,2024 North Carolina judicial elections
+2024,North Carolina,NC,judicial,"North Carolina Supreme Court election, 2024",Total,,,5540090,100.0,False,False,2024 North Carolina judicial elections
+2024,North Carolina,NC,judicial,"North Carolina Court of Appeals Seat 12 election, 2024",Winning,Tom Murry,Republican,2809458,50.89,True,False,2024 North Carolina judicial elections
+2024,North Carolina,NC,judicial,"North Carolina Court of Appeals Seat 12 election, 2024",Candidate,Carolyn Thompson,Democratic,2710863,49.11,False,True,2024 North Carolina judicial elections
+2024,North Carolina,NC,judicial,"North Carolina Court of Appeals Seat 12 election, 2024",Total,,,5520321,100.0,False,False,2024 North Carolina judicial elections
+2024,North Carolina,NC,judicial,"North Carolina Court of Appeals Seat 14 election, 2024",Winning,Valerie Zachary,Republican,2879049,52.28,True,True,2024 North Carolina judicial elections
+2024,North Carolina,NC,judicial,"North Carolina Court of Appeals Seat 14 election, 2024",Candidate,Ed Eldred,Democratic,2628453,47.72,False,False,2024 North Carolina judicial elections
+2024,North Carolina,NC,judicial,"North Carolina Court of Appeals Seat 14 election, 2024",Total,,,5507502,100.0,False,False,2024 North Carolina judicial elections
+2024,North Carolina,NC,judicial,"North Carolina Court of Appeals Seat 15 election, 2024",Winning,Chris Freeman,Republican,2844286,51.72,True,False,2024 North Carolina judicial elections
+2024,North Carolina,NC,judicial,"North Carolina Court of Appeals Seat 15 election, 2024",Candidate,Martin E. Moore,Democratic,2654765,48.28,False,False,2024 North Carolina judicial elections
+2024,North Carolina,NC,judicial,"North Carolina Court of Appeals Seat 15 election, 2024",Total,,,5499051,100.0,False,False,2024 North Carolina judicial elections
+2024,North Dakota,ND,state auditor,2024 North Dakota State Auditor election,Winning,Josh Gallion,Republican,241270,68.74,True,True,2024 North Dakota State Auditor election
+2024,North Dakota,ND,state auditor,2024 North Dakota State Auditor election,Candidate,Timothy Lamb,North Dakota Democratic–nonpartisan League,108962,31.04,False,False,2024 North Dakota State Auditor election
+2024,North Dakota,ND,state auditor,2024 North Dakota State Auditor election,Write-in,,,761,0.22,False,False,2024 North Dakota State Auditor election
+2024,North Dakota,ND,state auditor,2024 North Dakota State Auditor election,Total,,,350993,100.0,False,False,2024 North Dakota State Auditor election
+2024,North Dakota,ND,state treasurer,2024 North Dakota State Treasurer election,Winning,Thomas Beadle,Republican,303730,98.08,True,True,2024 North Dakota State Treasurer election
+2024,North Dakota,ND,state treasurer,2024 North Dakota State Treasurer election,Write-in,,,5952,1.92,False,False,2024 North Dakota State Treasurer election
+2024,North Dakota,ND,state treasurer,2024 North Dakota State Treasurer election,Total,,,309682,100.0,False,False,2024 North Dakota State Treasurer election
+2024,North Dakota,ND,governor,2024 North Dakota gubernatorial election,Winning,Kelly Armstrong Michelle Strinden,Republican,247056,68.26,True,False,2024 North Dakota gubernatorial election
+2024,North Dakota,ND,governor,2024 North Dakota gubernatorial election,Candidate,Merrill Piepkorn Patrick Hart,North Dakota Democratic–nonpartisan League,94043,25.98,False,False,2024 North Dakota gubernatorial election
+2024,North Dakota,ND,governor,2024 North Dakota gubernatorial election,Candidate,Michael Coachman Lydia Gessele,Independent,20322,5.61,False,False,2024 North Dakota gubernatorial election
+2024,North Dakota,ND,governor,2024 North Dakota gubernatorial election,Write-in,,,530,0.15,False,False,2024 North Dakota gubernatorial election
+2024,North Dakota,ND,governor,2024 North Dakota gubernatorial election,Total,,,361951,100.0,False,False,2024 North Dakota gubernatorial election
+2024,Oregon,OR,attorney general,2024 Oregon Attorney General election,Winning,Dan Rayfield,Democratic,1156489,54.37,True,False,2024 Oregon Attorney General election
+2024,Oregon,OR,attorney general,2024 Oregon Attorney General election,Candidate,Will Lathrop,Republican,967964,45.51,False,False,2024 Oregon Attorney General election
+2024,Oregon,OR,attorney general,2024 Oregon Attorney General election,Write-in,,,2612,0.12,False,False,2024 Oregon Attorney General election
+2024,Oregon,OR,attorney general,2024 Oregon Attorney General election,Total,,,2127065,100.0,False,False,2024 Oregon Attorney General election
+2024,Oregon,OR,secretary of state,2024 Oregon Secretary of State election,Winning,Tobias Read,Democratic,1166447,54.45,True,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,secretary of state,2024 Oregon Secretary of State election,Candidate,Dennis Linthicum,Republican,897704,41.9,False,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,secretary of state,2024 Oregon Secretary of State election,Candidate,Nathalie Paravicini,Green,76170,3.56,False,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,secretary of state,2024 Oregon Secretary of State election,Write-in,,,2011,0.09,False,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,secretary of state,2024 Oregon Secretary of State election,Total,,,2142332,100.0,False,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,state treasurer,2024 Oregon State Treasurer election,Winning,Elizabeth Steiner,Democratic,1050119,49.36,True,False,2024 Oregon State Treasurer election
+2024,Oregon,OR,state treasurer,2024 Oregon State Treasurer election,Candidate,Brian Boquist,Republican,919794,43.24,False,False,2024 Oregon State Treasurer election
+2024,Oregon,OR,state treasurer,2024 Oregon State Treasurer election,Candidate,Mary King,Families,155473,7.31,False,False,2024 Oregon State Treasurer election
+2024,Oregon,OR,state treasurer,2024 Oregon State Treasurer election,Write-in,,,1882,0.09,False,False,2024 Oregon State Treasurer election
+2024,Oregon,OR,state treasurer,2024 Oregon State Treasurer election,Total,,,2127268,100.0,False,False,2024 Oregon State Treasurer election
+2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Winning,Dave Sunday,Republican,3496679,50.81,True,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Candidate,Eugene DePasquale,Democratic,3179376,46.2,False,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Candidate,Rob Cowburn,Libertarian,88835,1.29,False,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Candidate,Richard Weiss,Green,68046,0.99,False,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Candidate,Justin Magill,Constitution,31282,0.45,False,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Candidate,Eric Settle,Forward,18151,0.26,False,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,attorney general,2024 Pennsylvania attorney general election,Total,,,6882369,100.0,False,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,state treasurer,2024 Pennsylvania State Treasurer election,Winning,Stacy Garrity,Republican,3542336,51.91,True,True,2024 Pennsylvania State Treasurer election
+2024,Pennsylvania,PA,state treasurer,2024 Pennsylvania State Treasurer election,Candidate,Erin McClelland,Democratic,3115393,45.65,False,False,2024 Pennsylvania State Treasurer election
+2024,Pennsylvania,PA,state treasurer,2024 Pennsylvania State Treasurer election,Candidate,Nick Ciesielski,Libertarian,99228,1.45,False,False,2024 Pennsylvania State Treasurer election
+2024,Pennsylvania,PA,state treasurer,2024 Pennsylvania State Treasurer election,Candidate,Troy Bowman,Constitution,40886,0.6,False,False,2024 Pennsylvania State Treasurer election
+2024,Pennsylvania,PA,state treasurer,2024 Pennsylvania State Treasurer election,Candidate,Chris Foster,Forward,26753,0.39,False,False,2024 Pennsylvania State Treasurer election
+2024,Pennsylvania,PA,state treasurer,2024 Pennsylvania State Treasurer election,Total,,,6824596,100.0,False,False,2024 Pennsylvania State Treasurer election
+2024,South Dakota,SD,public utilities commission,2024 South Dakota Public Utilities Commission election,Winning,Kristie Fiegen,Republican,272099,67.8,True,True,2024 South Dakota Public Utilities Commission election
+2024,South Dakota,SD,public utilities commission,2024 South Dakota Public Utilities Commission election,Candidate,Forrest Wilson,Democratic,108029,26.92,False,False,2024 South Dakota Public Utilities Commission election
+2024,South Dakota,SD,public utilities commission,2024 South Dakota Public Utilities Commission election,Candidate,Gideon Oakes,Libertarian,21176,5.28,False,False,2024 South Dakota Public Utilities Commission election
+2024,South Dakota,SD,public utilities commission,2024 South Dakota Public Utilities Commission election,Total,,,401304,100.0,False,False,2024 South Dakota Public Utilities Commission election
+2024,Texas,TX,railroad commissioner,2024 Texas Railroad Commissioner election,Winning,Christi Craddick,Republican,6100218,55.63,True,True,2024 Texas Railroad Commissioner election
+2024,Texas,TX,railroad commissioner,2024 Texas Railroad Commissioner election,Candidate,Katherine Culbert,Democratic,4275904,39.0,False,False,2024 Texas Railroad Commissioner election
+2024,Texas,TX,railroad commissioner,2024 Texas Railroad Commissioner election,Candidate,Eddie Espinoza,Green,301793,2.75,False,False,2024 Texas Railroad Commissioner election
+2024,Texas,TX,railroad commissioner,2024 Texas Railroad Commissioner election,Candidate,Hawkins Dunlap,Libertarian,285544,2.6,False,False,2024 Texas Railroad Commissioner election
+2024,Texas,TX,railroad commissioner,2024 Texas Railroad Commissioner election,Write-in,,,1656,0.02,False,False,2024 Texas Railroad Commissioner election
+2024,Texas,TX,railroad commissioner,2024 Texas Railroad Commissioner election,Total,,,10965115,100.0,False,False,2024 Texas Railroad Commissioner election
+2024,Utah,UT,attorney general,2024 Utah Attorney General election,Winning,Derek Brown,Republican,838445,57.84,True,False,2024 Utah Attorney General election
+2024,Utah,UT,attorney general,2024 Utah Attorney General election,Candidate,Rudy Bautista,Democratic,401234,27.68,False,False,2024 Utah Attorney General election
+2024,Utah,UT,attorney general,2024 Utah Attorney General election,Candidate,Michelle Quist,Utah,103831,7.16,False,False,2024 Utah Attorney General election
+2024,Utah,UT,attorney general,2024 Utah Attorney General election,Candidate,Andrew McCullough,Libertarian,55932,3.86,False,False,2024 Utah Attorney General election
+2024,Utah,UT,attorney general,2024 Utah Attorney General election,Candidate,Austin Hepworth,Independent,50053,3.45,False,False,2024 Utah Attorney General election
+2024,Utah,UT,attorney general,2024 Utah Attorney General election,Total,,,1449495,100.0,False,False,2024 Utah Attorney General election
+2024,Utah,UT,state auditor,2024 Utah State Auditor election,Winning,Tina Cannon,Republican,906531,63.53,True,False,2024 Utah State Auditor election
+2024,Utah,UT,state auditor,2024 Utah State Auditor election,Candidate,Catherine Voutaz,Democratic,446608,31.3,False,False,2024 Utah State Auditor election
+2024,Utah,UT,state auditor,2024 Utah State Auditor election,Candidate,Jeffrey Ostler,Constitution,73741,5.17,False,False,2024 Utah State Auditor election
+2024,Utah,UT,state auditor,2024 Utah State Auditor election,Total,,,1426880,100.0,False,False,2024 Utah State Auditor election
+2024,Utah,UT,state treasurer,2024 Utah State Treasurer election,Winning,Marlo Oaks,Republican,920760,64.94,True,True,2024 Utah State Treasurer election
+2024,Utah,UT,state treasurer,2024 Utah State Treasurer election,Candidate,Neil Hansen,Democratic,420883,29.68,False,False,2024 Utah State Treasurer election
+2024,Utah,UT,state treasurer,2024 Utah State Treasurer election,Candidate,Miles Pomeroy,Forward,76212,5.38,False,False,2024 Utah State Treasurer election
+2024,Utah,UT,state treasurer,2024 Utah State Treasurer election,Total,,,1417855,100.0,False,False,2024 Utah State Treasurer election
+2024,Utah,UT,governor,2024 Utah gubernatorial election,Winning,Spencer Cox,Republican,781431,52.89,True,True,2024 Utah gubernatorial election
+2024,Utah,UT,governor,2024 Utah gubernatorial election,Candidate,Brian King,Democratic,420514,28.46,False,False,2024 Utah gubernatorial election
+2024,Utah,UT,governor,2024 Utah gubernatorial election,Candidate,Phil Lyman,Write-in Candidate,200551,13.57,False,False,2024 Utah gubernatorial election
+2024,Utah,UT,governor,2024 Utah gubernatorial election,Candidate,J. Robert Latham,Libertarian,41164,2.79,False,False,2024 Utah gubernatorial election
+2024,Utah,UT,governor,2024 Utah gubernatorial election,Candidate,Tommy Williams,Independent American,27480,1.86,False,False,2024 Utah gubernatorial election
+2024,Utah,UT,governor,2024 Utah gubernatorial election,Candidate,Tom Tomeny,Independent,5792,0.39,False,False,2024 Utah gubernatorial election
+2024,Utah,UT,governor,2024 Utah gubernatorial election,Candidate,Charlie Tautuaa,Write-in Candidate,525,0.04,False,False,2024 Utah gubernatorial election
+2024,Utah,UT,governor,2024 Utah gubernatorial election,Total,,,1477457,100.0,False,False,2024 Utah gubernatorial election
+2024,Vermont,VT,attorney general,2024 Vermont Attorney General election,Winning,Charity Clark,Democratic,200711,57.82,True,True,2024 Vermont Attorney General election
+2024,Vermont,VT,attorney general,2024 Vermont Attorney General election,Candidate,Ture Nelson,Republican,128798,37.1,False,False,2024 Vermont Attorney General election
+2024,Vermont,VT,attorney general,2024 Vermont Attorney General election,Candidate,Kevin Gustafson,Justice,17159,4.94,False,False,2024 Vermont Attorney General election
+2024,Vermont,VT,attorney general,2024 Vermont Attorney General election,Write-in,,,490,0.13,False,False,2024 Vermont Attorney General election
+2024,Vermont,VT,attorney general,2024 Vermont Attorney General election,Total,,,347158,100.0,False,False,2024 Vermont Attorney General election
+2024,Vermont,VT,state auditor,2024 Vermont State Auditor Election,Winning,Doug Hoffer,Democratic,207195,60.62,True,True,2024 Vermont Auditor of Accounts election
+2024,Vermont,VT,state auditor,2024 Vermont State Auditor Election,Candidate,H. Brooke Paige,Republican,134066,39.22,False,False,2024 Vermont Auditor of Accounts election
+2024,Vermont,VT,state auditor,2024 Vermont State Auditor Election,Write-in,,,532,0.16,False,False,2024 Vermont Auditor of Accounts election
+2024,Vermont,VT,state auditor,2024 Vermont State Auditor Election,Total,,,341793,100.0,False,False,2024 Vermont Auditor of Accounts election
+2024,Vermont,VT,secretary of state,2024 Vermont Secretary of State Election,Winning,Sarah Copeland Hanzas,Democratic,205378,59.61,True,True,2024 Vermont Secretary of State election
+2024,Vermont,VT,secretary of state,2024 Vermont Secretary of State Election,Candidate,H. Brooke Paige,Republican,138673,40.25,False,False,2024 Vermont Secretary of State election
+2024,Vermont,VT,secretary of state,2024 Vermont Secretary of State Election,Write-in,,,473,0.14,False,False,2024 Vermont Secretary of State election
+2024,Vermont,VT,secretary of state,2024 Vermont Secretary of State Election,Total,,,344524,100.0,False,False,2024 Vermont Secretary of State election
+2024,Vermont,VT,state treasurer,2024 Vermont State Treasurer election,Winning,Mike Pieciak,Democratic,211134,60.79,True,True,2024 Vermont State Treasurer election
+2024,Vermont,VT,state treasurer,2024 Vermont State Treasurer election,Candidate,Joshua Bechhoefer,Republican,135763,39.09,False,False,2024 Vermont State Treasurer election
+2024,Vermont,VT,state treasurer,2024 Vermont State Treasurer election,Write-in,,,415,0.12,False,False,2024 Vermont State Treasurer election
+2024,Vermont,VT,state treasurer,2024 Vermont State Treasurer election,Total,,,347312,100.0,False,False,2024 Vermont State Treasurer election
+2024,Vermont,VT,governor,2024 Vermont gubernatorial election,Winning,Phil Scott,Republican,266439,73.43,True,True,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,2024 Vermont gubernatorial election,Candidate,Esther Charlestin,Democratic/progressive,79217,21.83,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,2024 Vermont gubernatorial election,Candidate,Kevin Hoyt,Independent,9368,2.58,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,2024 Vermont gubernatorial election,Candidate,June Goodband,Justice,4512,1.24,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,2024 Vermont gubernatorial election,Candidate,"Eli ""Poa"" Mutino",Independent,2414,0.67,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,2024 Vermont gubernatorial election,Write-in,,,891,0.25,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,2024 Vermont gubernatorial election,Total,,,362841,100.0,False,False,2024 Vermont gubernatorial election
+2024,Washington,WA,attorney general,2024 Washington Attorney General election,Winning,Nick Brown,Democratic,2093570,55.58,True,False,2024 Washington Attorney General election
+2024,Washington,WA,attorney general,2024 Washington Attorney General election,Candidate,Pete Serrano,Republican,1669884,44.33,False,False,2024 Washington Attorney General election
+2024,Washington,WA,attorney general,2024 Washington Attorney General election,Write-in,,,3616,0.1,False,False,2024 Washington Attorney General election
+2024,Washington,WA,attorney general,2024 Washington Attorney General election,Total,,,3767070,100.0,False,False,2024 Washington Attorney General election
+2024,Washington,WA,land commissioner,2024 Washington Public Lands Commissioner election,Winning,Dave Upthegrove,Democratic,1969936,52.62,True,False,2024 Washington Commissioner of Public Lands election
+2024,Washington,WA,land commissioner,2024 Washington Public Lands Commissioner election,Candidate,Jaime Herrera Beutler,Republican,1765121,47.15,False,False,2024 Washington Commissioner of Public Lands election
+2024,Washington,WA,land commissioner,2024 Washington Public Lands Commissioner election,Write-in,,,8394,0.22,False,False,2024 Washington Commissioner of Public Lands election
+2024,Washington,WA,land commissioner,2024 Washington Public Lands Commissioner election,Total,,,3743451,100.0,False,False,2024 Washington Commissioner of Public Lands election
+2024,Washington,WA,insurance commissioner,2024 Washington Insurance Commissioner election,Winning,Patty Kuderer,Democratic,2091969,56.62,True,False,2024 Washington Insurance Commissioner election
+2024,Washington,WA,insurance commissioner,2024 Washington Insurance Commissioner election,Candidate,Phil Fortunato,Republican,1598032,43.26,False,False,2024 Washington Insurance Commissioner election
+2024,Washington,WA,insurance commissioner,2024 Washington Insurance Commissioner election,Write-in,,,4430,0.12,False,False,2024 Washington Insurance Commissioner election
+2024,Washington,WA,insurance commissioner,2024 Washington Insurance Commissioner election,Total,,,3694431,100.0,False,False,2024 Washington Insurance Commissioner election
+2024,Washington,WA,secretary of state,2024 Washington Secretary of State election,Winning,Steve Hobbs,Democratic,2234420,59.2,True,True,2024 Washington Secretary of State election
+2024,Washington,WA,secretary of state,2024 Washington Secretary of State election,Candidate,Dale Whitaker,Republican,1535977,40.7,False,False,2024 Washington Secretary of State election
+2024,Washington,WA,secretary of state,2024 Washington Secretary of State election,Write-in,,,3958,0.1,False,False,2024 Washington Secretary of State election
+2024,Washington,WA,secretary of state,2024 Washington Secretary of State election,Total,,,3774355,100.0,False,False,2024 Washington Secretary of State election
+2024,Washington,WA,state auditor,2024 Washington State Auditor election,Winning,Pat McCarthy,Democratic,2170306,57.99,True,True,2024 Washington State Auditor election
+2024,Washington,WA,state auditor,2024 Washington State Auditor election,Candidate,Matt Hawkins,Republican,1568750,41.92,False,False,2024 Washington State Auditor election
+2024,Washington,WA,state auditor,2024 Washington State Auditor election,Write-in,,,3262,0.09,False,False,2024 Washington State Auditor election
+2024,Washington,WA,state auditor,2024 Washington State Auditor election,Total,,,3742318,100.0,False,False,2024 Washington State Auditor election
+2024,Washington,WA,state treasurer,2024 Washington State Treasurer election,Winning,Mike Pellicciotti,Democratic,2148764,57.26,True,True,2024 Washington State Treasurer election
+2024,Washington,WA,state treasurer,2024 Washington State Treasurer election,Candidate,Sharon Hanek,Republican,1600370,42.65,False,False,2024 Washington State Treasurer election
+2024,Washington,WA,state treasurer,2024 Washington State Treasurer election,Write-in,,,3261,0.09,False,False,2024 Washington State Treasurer election
+2024,Washington,WA,state treasurer,2024 Washington State Treasurer election,Total,,,3752395,100.0,False,False,2024 Washington State Treasurer election
+2024,Washington,WA,superintendent of public instruction,2024 Washington Superintendent of Public Instruction election,Winning,Chris Reykdal,Nonpartisan,1746848,52.77,True,True,2024 Washington Superintendent of Public Instruction election
+2024,Washington,WA,superintendent of public instruction,2024 Washington Superintendent of Public Instruction election,Candidate,David Olson,Nonpartisan,1543550,46.63,False,False,2024 Washington Superintendent of Public Instruction election
+2024,Washington,WA,superintendent of public instruction,2024 Washington Superintendent of Public Instruction election,Write-in,,,19932,0.6,False,False,2024 Washington Superintendent of Public Instruction election
+2024,Washington,WA,superintendent of public instruction,2024 Washington Superintendent of Public Instruction election,Total,,,3310330,100.0,False,False,2024 Washington Superintendent of Public Instruction election
+2024,Washington,WA,governor,2024 Washington gubernatorial election,Winning,Bob Ferguson,Democratic,2143368,55.51,True,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,2024 Washington gubernatorial election,Candidate,Dave Reichert,Republican,1709818,44.28,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,2024 Washington gubernatorial election,Write-in,,,8202,0.21,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,2024 Washington gubernatorial election,Total,,,3861388,100.0,False,False,2024 Washington gubernatorial election
+2024,West Virginia,WV,attorney general,2024 West Virginia Attorney General election,Winning,JB McCuskey,Republican,501452,70.02,True,False,2024 West Virginia Attorney General election
+2024,West Virginia,WV,attorney general,2024 West Virginia Attorney General election,Candidate,Teresa Toriseva,Democratic,214654,29.98,False,False,2024 West Virginia Attorney General election
+2024,West Virginia,WV,attorney general,2024 West Virginia Attorney General election,Total,,,716106,100.0,False,False,2024 West Virginia Attorney General election
+2024,West Virginia,WV,agriculture commissioner,2024 West Virginia Commissioner of Agriculture election,Winning,Kent Leonhardt,Republican,490964,69.14,True,True,2024 West Virginia Commissioner of Agriculture election
+2024,West Virginia,WV,agriculture commissioner,2024 West Virginia Commissioner of Agriculture election,Candidate,Deborah Stiles,Democratic,219131,30.86,False,False,2024 West Virginia Commissioner of Agriculture election
+2024,West Virginia,WV,agriculture commissioner,2024 West Virginia Commissioner of Agriculture election,Total,,,710095,100.0,False,False,2024 West Virginia Commissioner of Agriculture election
+2024,West Virginia,WV,secretary of state,2024 West Virginia Secretary of State election,Winning,Kris Warner,Republican,510992,71.15,True,False,2024 West Virginia Secretary of State election
+2024,West Virginia,WV,secretary of state,2024 West Virginia Secretary of State election,Candidate,Thornton Cooper,Democratic,207238,28.85,False,False,2024 West Virginia Secretary of State election
+2024,West Virginia,WV,secretary of state,2024 West Virginia Secretary of State election,Total,,,718230,100.0,False,False,2024 West Virginia Secretary of State election
+2024,West Virginia,WV,state auditor,2024 West Virginia State Auditor election,Winning,Mark Hunt,Republican,488737,68.72,True,False,2024 West Virginia State Auditor election
+2024,West Virginia,WV,state auditor,2024 West Virginia State Auditor election,Candidate,Mary Ann Claytor,Democratic,222491,31.28,False,False,2024 West Virginia State Auditor election
+2024,West Virginia,WV,state auditor,2024 West Virginia State Auditor election,Total,,,711228,100.0,False,False,2024 West Virginia State Auditor election
+2024,West Virginia,WV,state treasurer,2024 West Virginia State Treasurer election,Winning,Larry Pack,Republican,602718,99.93,True,False,2024 West Virginia State Treasurer election
+2024,West Virginia,WV,state treasurer,2024 West Virginia State Treasurer election,Write-in,,,444,0.07,False,False,2024 West Virginia State Treasurer election
+2024,West Virginia,WV,state treasurer,2024 West Virginia State Treasurer election,Total,,,603162,100.0,False,False,2024 West Virginia State Treasurer election
+2024,West Virginia,WV,governor,2024 West Virginia gubernatorial election,Winning,Patrick Morrisey,Republican,459300,61.99,True,False,2024 West Virginia gubernatorial election
+2024,West Virginia,WV,governor,2024 West Virginia gubernatorial election,Candidate,Steve Williams,Democratic,233976,31.58,False,False,2024 West Virginia gubernatorial election
+2024,West Virginia,WV,governor,2024 West Virginia gubernatorial election,Candidate,Erika Kolenich,Libertarian,21228,2.87,False,False,2024 West Virginia gubernatorial election
+2024,West Virginia,WV,governor,2024 West Virginia gubernatorial election,Candidate,S. Marshall Wilson,Constitution,16828,2.27,False,False,2024 West Virginia gubernatorial election
+2024,West Virginia,WV,governor,2024 West Virginia gubernatorial election,Candidate,Chase Linko-Looper,Mountain,9596,1.3,False,False,2024 West Virginia gubernatorial election
+2024,West Virginia,WV,governor,2024 West Virginia gubernatorial election,Write-in,,,10,0.0,False,False,2024 West Virginia gubernatorial election
+2024,West Virginia,WV,governor,2024 West Virginia gubernatorial election,Total,,,740938,100.0,False,False,2024 West Virginia gubernatorial election
+2024,Michigan,MI,judicial,2024 Michigan Supreme Court election (Full term),Winning,Kimberly Thomas,Nonpartisan Politician,2568043,61.11,True,False,2024 Michigan elections
+2024,Michigan,MI,judicial,2024 Michigan Supreme Court election (Full term),Candidate,Andrew Fink,Nonpartisan Politician,1634510,38.89,False,False,2024 Michigan elections
+2024,Michigan,MI,judicial,2024 Michigan Supreme Court election (Full term),Total,,,4202553,100.0,False,False,2024 Michigan elections
+2024,Michigan,MI,judicial,2024 Michigan Supreme Court election (Term ending 1/1/2029),Winning,Kyra Harris Bolden,Nonpartisan Politician,2597567,61.54,True,True,2024 Michigan elections
+2024,Michigan,MI,judicial,2024 Michigan Supreme Court election (Term ending 1/1/2029),Candidate,Patrick O'Grady,Nonpartisan Politician,1623460,38.46,False,False,2024 Michigan elections
+2024,Michigan,MI,judicial,2024 Michigan Supreme Court election (Term ending 1/1/2029),Total,,,4221027,100.0,False,False,2024 Michigan elections
+2024,North Dakota,ND,public service commission,Public Service Commissioner,Winning,Randy Christmann,Republican,242962,69.86,True,False,2024 North Dakota elections
+2024,North Dakota,ND,public service commission,Public Service Commissioner,Candidate,Tracey L. Wilkie,North Dakota Democratic–nonpartisan League,104133,29.94,False,False,2024 North Dakota elections
+2024,Ohio,OH,judicial,General election results,Winning,Megan E. Shanahan,Republican,3025884,55.61,True,False,2024 Ohio elections
+2024,Ohio,OH,judicial,General election results,Candidate,Michael P. Donnelly,Democratic,2415507,44.39,False,True,2024 Ohio elections
+2024,Ohio,OH,judicial,General election results,Total,,,5441391,100.0,False,False,2024 Ohio elections
+2024,Ohio,OH,judicial,General election results,Winning,Joe Deters,Republican,2997144,55.09,True,False,2024 Ohio elections
+2024,Ohio,OH,judicial,General election results,Candidate,Melody J. Stewart,Democratic,2443066,44.91,False,True,2024 Ohio elections
+2024,Ohio,OH,judicial,General election results,Winning,Dan Hawkins,Republican,2998592,54.97,True,False,2024 Ohio elections
+2024,Ohio,OH,judicial,General election results,Candidate,Lisa Forbes,Democratic,2456462,45.03,False,False,2024 Ohio elections
+2024,Oklahoma,OK,corporation commission,2024 Oklahoma Corporation Commissioner election,Winning,Brian Bingman,Republican,979802,63.7,True,False,2024 Oklahoma elections
+2024,Oklahoma,OK,corporation commission,2024 Oklahoma Corporation Commissioner election,Candidate,Harold D. Spradling,Democratic,444736,28.9,False,False,2024 Oklahoma elections
+2024,Oklahoma,OK,corporation commission,2024 Oklahoma Corporation Commissioner election,Candidate,Chad Williams,Libertarian,114257,7.4,False,False,2024 Oklahoma elections
+2024,Oklahoma,OK,corporation commission,2024 Oklahoma Corporation Commissioner election,Total,,,1538795,100.0,False,False,2024 Oklahoma elections
+2024,Texas,TX,judicial,Place 2 – 2024 Texas Supreme Court Place 2 election,Winning,Jimmy Blacklock,Republican,6372584,58.23,True,True,2024 Texas elections
+2024,Texas,TX,judicial,Place 2 – 2024 Texas Supreme Court Place 2 election,Candidate,DaSean Jones,Democratic,4571171,41.77,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 2 – 2024 Texas Supreme Court Place 2 election,Total,,,10943755,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 4 – 2024 Texas Supreme Court Place 4 election,Winning,John Devine,Republican,6256496,57.33,True,True,2024 Texas elections
+2024,Texas,TX,judicial,Place 4 – 2024 Texas Supreme Court Place 4 election,Candidate,Christine Vinh Weems,Democratic,4656560,42.67,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 4 – 2024 Texas Supreme Court Place 4 election,Total,,,10913056,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 6 – 2024 Texas Supreme Court Place 6 election,Winning,Jane Bland,Republican,6145167,56.24,True,True,2024 Texas elections
+2024,Texas,TX,judicial,Place 6 – 2024 Texas Supreme Court Place 6 election,Candidate,Bonnie Lee Goldstein,Democratic,4425189,40.5,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 6 – 2024 Texas Supreme Court Place 6 election,Candidate,David Roberson,Libertarian,355485,3.25,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 6 – 2024 Texas Supreme Court Place 6 election,Total,,,10925841,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,2024 Texas Court of Criminal Appeals Presiding Judge election,Winning,David Schenck,Republican,6330389,58.13,True,False,2024 Texas elections
+2024,Texas,TX,judicial,2024 Texas Court of Criminal Appeals Presiding Judge election,Candidate,Holly Taylor,Democratic,4558856,41.87,False,False,2024 Texas elections
+2024,Texas,TX,judicial,2024 Texas Court of Criminal Appeals Presiding Judge election,Total,,,10889245,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 7 – 2024 Texas Court of Criminal Appeals Place 7 election,Winning,Gina Parker,Republican,6340949,58.35,True,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 7 – 2024 Texas Court of Criminal Appeals Place 7 election,Candidate,Nancy Mulder,Democratic,4526924,41.65,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 7 – 2024 Texas Court of Criminal Appeals Place 7 election,Total,,,10867873,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 8 – 2024 Texas Court of Criminal Appeals Place 8 election,Winning,Lee Finley,Republican,6385238,58.87,True,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 8 – 2024 Texas Court of Criminal Appeals Place 8 election,Candidate,Chika Anyiam,Democratic,4461229,41.13,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 8 – 2024 Texas Court of Criminal Appeals Place 8 election,Total,,,10846467,100.0,False,False,2024 Texas elections
+2024,West Virginia,WV,judicial,"May 14, 2024 West Virginia Supreme Court of Appeals election - Division 1",Winning,C. Haley Bunn,Non-partisan Democracy,246109,100.0,True,True,2024 West Virginia elections
+2024,West Virginia,WV,judicial,"May 14, 2024 West Virginia Supreme Court of Appeals election - Division 1",Total,,,246109,100.0,False,False,2024 West Virginia elections
+2024,West Virginia,WV,judicial,"May 14, 2024 West Virginia Supreme Court of Appeals election - Division 2",Winning,Charles S. Trump,Non-partisan Democracy,230877,100.0,True,False,2024 West Virginia elections
+2024,West Virginia,WV,judicial,"May 14, 2024 West Virginia Supreme Court of Appeals election - Division 2",Total,,,230877,100.0,False,False,2024 West Virginia elections

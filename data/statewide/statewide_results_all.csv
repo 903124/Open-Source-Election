@@ -2979,6 +2979,61 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2022,Wisconsin,WI,state treasurer,Aaron Richardson,Democratic,48.1,False,False
 2022,Wisconsin,WI,state treasurer,Andrew Zuelke,Constitution,2.2,False,False
 2022,Wyoming,WY,state treasurer,Curt Meier,Republican,,True,True
+2022,Alabama,AL,state auditor,Andrew Sorrell,Republican,85.0,True,False
+2022,Alabama,AL,state auditor,Leigh Lachine,Libertarian,15.0,False,False
+2022,Arkansas,AR,state auditor,Dennis Milligan,Republican,66.8,True,False
+2022,Arkansas,AR,state auditor,Diamond Arnold-Johnson,Democratic,29.0,False,False
+2022,Arkansas,AR,state auditor,Simeon Snow,Libertarian,4.2,False,False
+2022,California,CA,state auditor,Malia Cohen,Democratic,55.3,True,False
+2022,California,CA,state auditor,Lanhee Chen,Republican,44.7,False,False
+2022,Connecticut,CT,state auditor,Sean Scanlon,Democratic,55.1,True,False
+2022,Connecticut,CT,state auditor,Mary Fay,Republican,44.9,False,False
+2022,Delaware,DE,state auditor,Lydia York,Democratic,54.2,True,False
+2022,Delaware,DE,state auditor,Janice Lorrah,Republican,45.8,False,False
+2022,Idaho,ID,state auditor,Brandon Woolf,Republican,69.5,True,True
+2022,Idaho,ID,state auditor,Dianna David,Democratic,26.8,False,False
+2022,Illinois,IL,state auditor,Susana Mendoza,Democratic,57.1,True,True
+2022,Illinois,IL,state auditor,Shannon Teresi,Republican,41.0,False,False
+2022,Illinois,IL,state auditor,Deirdre McCloskey,Libertarian,1.9,False,False
+2022,Indiana,IN,state auditor,Tera Klutz,Republican,60.1,True,True
+2022,Indiana,IN,state auditor,ZeNai Brooks,Democratic,36.4,False,False
+2022,Iowa,IA,state auditor,Rob Sand,Democratic,50.1,True,True
+2022,Iowa,IA,state auditor,Todd Halbur,Republican,49.8,False,False
+2022,Maryland,MD,state auditor,Brooke Lierman,Democratic,61.6,True,False
+2022,Maryland,MD,state auditor,Barry Glassman,Republican,38.3,False,False
+2022,Massachusetts,MA,state auditor,Diana DiZoglio,Democratic,55.1,True,False
+2022,Massachusetts,MA,state auditor,Anthony Amore,Republican,37.7,False,False
+2022,Massachusetts,MA,state auditor,Gloria Caballero-Roca,Green-rainbow,2.9,False,False
+2022,Massachusetts,MA,state auditor,Dominic Giannone,Workers,2.2,False,False
+2022,Massachusetts,MA,state auditor,Daniel Riek,Libertarian,2.0,False,False
+2022,Minnesota,MN,state auditor,Julie Blaha,Minnesota Democratic–farmer–labor,47.5,True,True
+2022,Minnesota,MN,state auditor,Ryan Wilson,Republican,47.1,False,False
+2022,Minnesota,MN,state auditor,Tim Davis,Now,3.6,False,False
+2022,Minnesota,MN,state auditor,Dominic Giannone,Grassroots–legalize Cannabis,1.8,False,False
+2022,Missouri,MO,state auditor,Scott Fitzpatrick,Republican,59.4,True,False
+2022,Missouri,MO,state auditor,Alan Green,Democratic,37.6,False,False
+2022,Missouri,MO,state auditor,John Hartwig,Libertarian,3.0,False,False
+2022,Nebraska,NE,state auditor,Mike Foley,Republican,68.5,True,False
+2022,Nebraska,NE,state auditor,Leroy Lopez,Now,19.3,False,False
+2022,Nebraska,NE,state auditor,Gene Siadek,Libertarian,12.2,False,False
+2022,Nevada,NV,state auditor,Andy Matthews,Republican,50.1,True,False
+2022,Nevada,NV,state auditor,Ellen Spiegel,Democratic,45.9,False,False
+2022,Nevada,NV,state auditor,None of These Candidates,None,2.5,False,False
+2022,Nevada,NV,state auditor,Jed Profeta,Libertarian,1.5,False,False
+2022,New Mexico,NM,state auditor,Joseph Maestas,Democratic,61.9,True,False
+2022,New Mexico,NM,state auditor,Travis Sanchez,Libertarian,38.1,False,False
+2022,New York,NY,state auditor,Thomas DiNapoli,Democratic,57.3,True,True
+2022,New York,NY,state auditor,Paul Rodriguez,Republican,42.7,False,False
+2022,Ohio,OH,state auditor,Keith Faber,Republican,58.7,True,True
+2022,Ohio,OH,state auditor,Taylor Sappington,Democratic,41.3,False,False
+2022,Oklahoma,OK,state auditor,Cindy Byrd,Republican,100.0,True,True
+2022,South Carolina,SC,state auditor,Richard Eckstrom,Republican,98.2,True,True
+2022,South Dakota,SD,state auditor,Rich Sattgast,Republican,62.7,True,True
+2022,South Dakota,SD,state auditor,Stephanie Marty,Democratic,31.9,False,False
+2022,South Dakota,SD,state auditor,Rene Meyer,Libertarian,5.5,False,False
+2022,Vermont,VT,state auditor,Doug Hoffer,Democratic,65.3,True,True
+2022,Vermont,VT,state auditor,Richard Morton,Republican,34.6,False,False
+2022,Wyoming,WY,state auditor,Kristi Racines,Republican,98.7,True,True
 2023,Kentucky,KY,attorney general,Russell Coleman,Republican,58.0,True,False
 2023,Kentucky,KY,attorney general,Pamela Stevenson,Democratic,42.0,False,False
 2023,Louisiana,LA,attorney general,Liz Murrill,Republican,66.4,True,False
@@ -3104,6 +3159,28 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2024,Washington,WA,state treasurer,Mike Pellicciotti,Democratic,57.26,True,True
 2024,Washington,WA,state treasurer,Sharon Hanek,Republican,42.65,False,False
 2024,West Virginia,WV,state treasurer,Larry Pack,Republican,99.93,True,False
+2024,Montana,MT,state auditor,James Brown,Republican,61.42,True,False
+2024,Montana,MT,state auditor,John Repke,Democratic,38.58,False,False
+2024,North Carolina,NC,state auditor,Dave Boliek,Republican,49.35,True,False
+2024,North Carolina,NC,state auditor,Jessica Holmes,Democratic,47.61,False,True
+2024,North Carolina,NC,state auditor,Bob Drach,Libertarian,3.03,False,False
+2024,North Dakota,ND,state auditor,Josh Gallion,Republican,68.74,True,True
+2024,North Dakota,ND,state auditor,Timothy Lamb,Democratic,31.04,False,False
+2024,Pennsylvania,PA,state auditor,Timothy DeFoor,Republican,51.13,True,True
+2024,Pennsylvania,PA,state auditor,Malcolm Kenyatta,Democratic,45.94,False,False
+2024,Pennsylvania,PA,state auditor,Reece Smith,Libertarian,1.81,False,False
+2024,Pennsylvania,PA,state auditor,Alan Goodrich,Constitution,0.82,False,False
+2024,Pennsylvania,PA,state auditor,Eric Anton,Solidarity,0.31,False,False
+2024,Utah,UT,state auditor,Tina Cannon,Republican,63.53,True,False
+2024,Utah,UT,state auditor,Catherine Voutaz,Democratic,31.3,False,False
+2024,Utah,UT,state auditor,Jeffery Ostler,Constitution,5.17,False,False
+2024,Vermont,VT,state auditor,Doug Hoffer,Democratic,60.62,True,True
+2024,Vermont,VT,state auditor,H. Brooke Paige,Republican,39.22,False,False
+2024,Washington,WA,state auditor,Pat McCarthy,Democratic,57.99,True,True
+2024,Washington,WA,state auditor,Matt Hawkins,Republican,41.92,False,False
+2024,West Virginia,WV,state auditor,Mark Hunt,Republican,68.72,True,False
+2024,West Virginia,WV,state auditor,Mary Ann Claytor,Democratic,31.28,False,False
+2024,Guam,GU,state auditor,Benjamin Cruz,Nonpartisan,99.1,True,True
 2025,New Jersey,NJ,governor,Mikie Sherrill,Democratic,56.9,True,False
 2025,New Jersey,NJ,governor,Jack Ciattarelli,Republican,42.5,False,False
 2025,New Jersey,NJ,governor,Vic Kaplan,Libertarian,0.4,False,False
@@ -3423,3 +3500,50 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,Wisconsin,WI,state treasurer,Yee Leng Xiong,Democratic,,True,False
 2026,Wisconsin,WI,state treasurer,John Leiber,Republican,,False,True
 2026,Wyoming,WY,state treasurer,Curt Meier,Republican,,True,True
+2026,Alabama,AL,state auditor,Andrew Sorrell,Republican,,True,True
+2026,Alabama,AL,state auditor,Violet Edwards,Democratic,,False,False
+2026,Arkansas,AR,state auditor,Dennis Milligan,Republican,,True,True
+2026,California,CA,state auditor,Malia Cohen,Democratic,,True,True
+2026,California,CA,state auditor,Herb Morgan,Republican,,False,False
+2026,Connecticut,CT,state auditor,Sean Scanlon,Democratic,,True,True
+2026,Connecticut,CT,state auditor,Jen Tooker,Republican,,False,False
+2026,Delaware,DE,state auditor,Lydia York,Democratic,,True,True
+2026,Delaware,DE,state auditor,April Callaway,Republican,,False,False
+2026,Delaware,DE,state auditor,Austin Cassidy,Independent,,False,False
+2026,Idaho,ID,state auditor,Brandon Woolf,Republican,,True,True
+2026,Idaho,ID,state auditor,Rakesh Mohan,Democratic,,False,False
+2026,Illinois,IL,state auditor,Margaret Croke,Democratic,,True,False
+2026,Illinois,IL,state auditor,Bryan Drew,Republican,,False,False
+2026,Indiana,IN,state auditor,Jessica Bailey,Democratic,,True,False
+2026,Indiana,IN,state auditor,Elise Nieshalla,Republican,,False,True
+2026,Indiana,IN,state auditor,John Schick,Libertarian,,False,False
+2026,Iowa,IA,state auditor,Taylor Wettach,Democratic,,True,False
+2026,Iowa,IA,state auditor,Chris Cournoyer,Republican,,False,False
+2026,Maryland,MD,state auditor,Brooke Lierman,Democratic,,True,True
+2026,Maryland,MD,state auditor,Sonya Dunn,Republican,,False,False
+2026,Massachusetts,MA,state auditor,Diana DiZoglio,Democratic,,True,True
+2026,Massachusetts,MA,state auditor,Al Ozonoff,Libertarian,,False,False
+2026,Minnesota,MN,state auditor,Zack Filipovich,Minnesota Democratic–farmer–labor,,True,False
+2026,Minnesota,MN,state auditor,Scott Jensen,Republican,,False,False
+2026,Minnesota,MN,state auditor,Jay Reeves,Forward,,False,False
+2026,Missouri,MO,state auditor,Scott Fitzpatrick,Republican,,True,True
+2026,Missouri,MO,state auditor,Quentin Wilson,Democratic,,False,False
+2026,Missouri,MO,state auditor,Dustin Coffell,Libertarian,,False,False
+2026,Nebraska,NE,state auditor,Mike Foley,Republican,,True,True
+2026,Nebraska,NE,state auditor,John Knight,America First Party (nebraska),,False,False
+2026,Nevada,NV,state auditor,Michael MacDougall,Democratic,,True,False
+2026,Nevada,NV,state auditor,Andy Matthews,Republican,,False,True
+2026,New Mexico,NM,state auditor,Joseph Maestas,Democratic,,True,True
+2026,New Mexico,NM,state auditor,Joshua Lawrence,Republican,,False,False
+2026,New York,NY,state auditor,Tom DiNapoli,Democratic,,True,True
+2026,New York,NY,state auditor,Joseph Hernandez,Republican,,False,False
+2026,Ohio,OH,state auditor,Frank LaRose,Republican,,True,False
+2026,Ohio,OH,state auditor,Annette Blackwell,Democratic,,False,False
+2026,Oklahoma,OK,state auditor,Melissa Capps,Republican,,True,False
+2026,South Carolina,SC,state auditor,Mike Burkhold,Republican,,True,False
+2026,South Carolina,SC,state auditor,Tiffany Boozer,Democratic,,False,False
+2026,South Dakota,SD,state auditor,Catherine Barranco,Republican,,True,False
+2026,South Dakota,SD,state auditor,Tom Cool,Democratic,,False,False
+2026,Vermont,VT,state auditor,Tim Ashe,Democratic,,True,False
+2026,Vermont,VT,state auditor,Ivar Kronick,Republican,,False,False
+2026,Wyoming,WY,state auditor,Kristi Racines,Republican,,True,True

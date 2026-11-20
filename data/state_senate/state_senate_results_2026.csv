@@ -1056,10 +1056,10 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Rhode Island,RI,State Senate,14,general,Brian Coogan,Independent,,,False,False
 2026,Rhode Island,RI,State Senate,15,general,Meghan Kallman,Democratic,,,True,True
 2026,Rhode Island,RI,State Senate,16,general,Jonathon Acosta,Democratic,,,True,True
-2026,Rhode Island,RI,State Senate,17,general,Thomas Paolino,Republican,,,True,True
-2026,Rhode Island,RI,State Senate,17,general,Nelly Burdette,Democratic,,,False,False
-2026,Rhode Island,RI,State Senate,17,general,John Douglas Barr II,Independent,,,False,False
-2026,Rhode Island,RI,State Senate,17,general,Jina N. Petrarca,Independent,,,False,False
+2026,Rhode Island,RI,State Senate,17,general,Nelly Burdette,Democratic,4851.0,43.47,True,False
+2026,Rhode Island,RI,State Senate,17,general,Thomas Paolino,Republican,4335.0,38.85,False,True
+2026,Rhode Island,RI,State Senate,17,general,Jina N. Petrarca,Independent,1447.0,12.97,False,False
+2026,Rhode Island,RI,State Senate,17,general,John Douglas Barr II,Independent,520.0,4.66,False,False
 2026,Rhode Island,RI,State Senate,18,general,Robert Britto,Democratic,,,True,True
 2026,Rhode Island,RI,State Senate,19,general,Ryan W. Pearson,Democratic,,,True,True
 2026,Rhode Island,RI,State Senate,20,general,Brian J. Thompson,Democratic,,,True,True

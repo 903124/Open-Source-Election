@@ -242,13 +242,17 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Louisiana,LA,4,230359,Mike Johnson,Republican,134750,100.0,True,False,False
 2026,house,Maine,ME,1,,Chellie Pingree,Democratic,,100.0,True,False,False
 2026,house,Maine,ME,2,,Paul LePage,Republican,,100.0,True,False,True
-2026,house,Maryland,MD,1,317083,Andy Harris,Republican,165256,100.0,True,False,False
-2026,house,Maryland,MD,2,291916,Johnny Olszewski,Democratic,189851,100.0,True,False,False
-2026,house,Maryland,MD,3,313067,Sarah Elfreth,Democratic,212087,100.0,True,False,False
+2026,house,Maryland,MD,1,317083,Andy Harris,Republican,165256,52.1,True,False,False
+2026,house,Maryland,MD,1,317083,Dan Schwartz,Democratic,151285,47.7,False,False,False
+2026,house,Maryland,MD,2,291920,Johnny Olszewski,Democratic,189855,65.0,True,False,False
+2026,house,Maryland,MD,2,291920,Dave Wallace,Republican,101464,34.8,False,False,False
+2026,house,Maryland,MD,3,313067,Sarah Elfreth,Democratic,212087,67.7,True,False,False
+2026,house,Maryland,MD,3,313067,Berney Flowers,Republican,100088,32.0,False,False,False
 2026,house,Maryland,MD,4,,Glenn Ivey,Democratic,,100.0,True,False,False
 2026,house,Maryland,MD,5,,Adrian Boafo,Democratic,,100.0,True,False,False
 2026,house,Maryland,MD,6,,April McClain Delaney,Democratic,,100.0,True,False,False
-2026,house,Maryland,MD,7,219595,Kweisi Mfume,Democratic,186917,100.0,True,False,True
+2026,house,Maryland,MD,7,219664,Kweisi Mfume,Democratic,186984,85.1,True,False,True
+2026,house,Maryland,MD,7,219664,Scott Collier,Republican,31818,14.5,False,False,True
 2026,house,Maryland,MD,8,,Jamie Raskin,Democratic,,100.0,True,False,False
 2026,house,Massachusetts,MA,1,,Richard Neal,Democratic,,100.0,True,False,False
 2026,house,Massachusetts,MA,2,,Jim McGovern,Democratic,,100.0,True,False,False
@@ -481,7 +485,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Utah,UT,1,235209,Ben McAdams,Democratic,165422,100.0,True,False,True
 2026,house,Utah,UT,2,253386,Blake Moore,Republican,126992,100.0,True,False,False
 2026,house,Utah,UT,3,246582,Celeste Maloy,Republican,144009,100.0,True,False,False
-2026,house,Utah,UT,4,,Mike Kennedy,Republican,,100.0,True,False,True
+2026,house,Utah,UT,4,271236,Mike Kennedy,Republican,144089,100.0,True,False,True
 2026,house,Vermont,VT,AL,304769,Becca Balint,Democratic,198766,65.2,True,False,False
 2026,house,Vermont,VT,AL,304769,Gerald Malloy,Republican,94071,30.9,False,False,False
 2026,house,Vermont,VT,AL,304769,Suz Seymour,Independent,,1.4,False,False,False

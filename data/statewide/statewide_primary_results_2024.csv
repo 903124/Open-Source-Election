@@ -1,280 +1,549 @@
-year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
-2024,Delaware,DE,governor,Democratic primary results,Winning,Matt Meyer,Democratic,40518.0,46.98,True,False
-2024,Delaware,DE,governor,Democratic primary results,Candidate,Bethany Hall-Long,Democratic,31588.0,36.62,False,False
-2024,Delaware,DE,governor,Democratic primary results,Candidate,Collin O'Mara,Democratic,14142.0,16.4,False,False
-2024,Delaware,DE,governor,Democratic primary results,Total,,,86248.0,100.0,False,False
-2024,Delaware,DE,governor,Republican primary results,Winning,Mike Ramone,Republican,26414.0,72.29,True,False
-2024,Delaware,DE,governor,Republican primary results,Candidate,Jerry Price,Republican,5971.0,16.34,False,False
-2024,Delaware,DE,governor,Republican primary results,Candidate,Bobby Williamson,Republican,4153.0,11.37,False,False
-2024,Delaware,DE,governor,Republican primary results,Total,,,36538.0,100.0,False,False
-2024,Indiana,IN,governor,Republican primary results,Winning,Mike Braun,Republican,236641.0,39.6,True,False
-2024,Indiana,IN,governor,Republican primary results,Candidate,Suzanne Crouch,Republican,130146.0,21.8,False,False
-2024,Indiana,IN,governor,Republican primary results,Candidate,Brad Chambers,Republican,104653.0,17.5,False,False
-2024,Indiana,IN,governor,Republican primary results,Candidate,Eric Doden,Republican,71135.0,11.9,False,False
-2024,Indiana,IN,governor,Republican primary results,Candidate,Jamie Reitenour,Republican,28757.0,4.8,False,False
-2024,Indiana,IN,governor,Republican primary results,Candidate,Curtis Hill,Republican,26837.0,4.5,False,False
-2024,Indiana,IN,governor,Republican primary results,Total,,,598169.0,100.0,False,False
-2024,Indiana,IN,governor,Democratic primary results,Winning,Jennifer McCormick,Democratic,180404.0,100.0,True,False
-2024,Indiana,IN,governor,Democratic primary results,Total,,,180404.0,100.0,False,False
-2024,Missouri,MO,attorney general,Republican primary results,Winning,Andrew Bailey,Republican,413465.0,63.0,True,True
-2024,Missouri,MO,attorney general,Republican primary results,Candidate,Will Scharf,Republican,242680.0,37.0,False,False
-2024,Missouri,MO,attorney general,Republican primary results,Total,,,656145.0,100.0,False,False
-2024,Missouri,MO,attorney general,Democratic primary results,Winning,Elad Gross,Democratic,343934.0,100.0,True,False
-2024,Missouri,MO,attorney general,Democratic primary results,Total,,,343934.0,100.0,False,False
-2024,Missouri,MO,attorney general,Libertarian primary results,Winning,Ryan Munro,Libertarian,2401.0,100.0,True,False
-2024,Missouri,MO,attorney general,Libertarian primary results,Total,,,2401.0,100.0,False,False
-2024,Missouri,MO,secretary of state,Republican primary results,Winning,Denny Hoskins,Republican,157116.0,24.42,True,False
-2024,Missouri,MO,secretary of state,Republican primary results,Candidate,Shane Schoeller,Republican,108289.0,16.83,False,False
-2024,Missouri,MO,secretary of state,Republican primary results,Candidate,Mike Carter,Republican,91866.0,14.28,False,False
-2024,Missouri,MO,secretary of state,Republican primary results,Candidate,Dean Plocher,Republican,86659.0,13.47,False,False
-2024,Missouri,MO,secretary of state,Republican primary results,Candidate,Mary Elizabeth Coleman,Republican,72938.0,11.34,False,False
-2024,Missouri,MO,secretary of state,Republican primary results,Candidate,Valentina Gomez,Republican,47931.0,7.45,False,False
-2024,Missouri,MO,secretary of state,Republican primary results,Candidate,Jamie Corley,Republican,46314.0,7.2,False,False
-2024,Missouri,MO,secretary of state,Republican primary results,Candidate,Adam Schwadron,Republican,32335.0,5.03,False,False
-2024,Missouri,MO,secretary of state,Republican primary results,Total,,,643448.0,100.0,False,False
-2024,Missouri,MO,secretary of state,Democratic primary results,Winning,Barbara Phifer,Democratic,146284.0,40.86,True,False
-2024,Missouri,MO,secretary of state,Democratic primary results,Candidate,Monique Williams,Democratic,123270.0,34.43,False,False
-2024,Missouri,MO,secretary of state,Democratic primary results,Candidate,Haley Jacobsen,Democratic,88491.0,24.72,False,False
-2024,Missouri,MO,secretary of state,Democratic primary results,Total,,,358045.0,100.0,False,False
-2024,Missouri,MO,state treasurer,Republican primary results,Winning,Vivek Malek,Republican,273930.0,41.51,True,True
-2024,Missouri,MO,state treasurer,Republican primary results,Candidate,Andrew Koenig,Republican,135828.0,20.58,False,False
-2024,Missouri,MO,state treasurer,Republican primary results,Candidate,Lori Rook,Republican,127970.0,19.39,False,False
-2024,Missouri,MO,state treasurer,Republican primary results,Candidate,Cody Smith,Republican,97029.0,14.7,False,False
-2024,Missouri,MO,state treasurer,Republican primary results,Candidate,Tina Goodrick,Republican,19115.0,2.9,False,False
-2024,Missouri,MO,state treasurer,Republican primary results,Candidate,Karan Pujji,Republican,6124.0,0.93,False,False
-2024,Missouri,MO,state treasurer,Republican primary results,Total,,,659996.0,100.0,False,False
-2024,Missouri,MO,state treasurer,Democratic primary results,Winning,Mark Osmack,Democratic,344166.0,100.0,True,False
-2024,Missouri,MO,state treasurer,Democratic primary results,Total,,,344166.0,100.0,False,False
-2024,Missouri,MO,state treasurer,Libertarian primary results,Winning,John Hartwig,Libertarian,2423.0,100.0,True,False
-2024,Missouri,MO,state treasurer,Libertarian primary results,Total,,,2423.0,100.0,False,False
-2024,Missouri,MO,governor,Republican primary results,Winning,Mike Kehoe,Republican,274840.0,39.4,True,False
-2024,Missouri,MO,governor,Republican primary results,Candidate,Bill Eigel,Republican,227012.0,32.6,False,False
-2024,Missouri,MO,governor,Republican primary results,Candidate,Jay Ashcroft,Republican,162086.0,23.2,False,False
-2024,Missouri,MO,governor,Republican primary results,Candidate,Amber Thomsen,Republican,10627.0,1.5,False,False
-2024,Missouri,MO,governor,Republican primary results,Candidate,Chris Wright,Republican,9358.0,1.3,False,False
-2024,Missouri,MO,governor,Republican primary results,Candidate,Darrell McClanahan,Republican,5637.0,0.8,False,False
-2024,Missouri,MO,governor,Republican primary results,Candidate,Robert Olson,Republican,2975.0,0.4,False,False
-2024,Missouri,MO,governor,Republican primary results,Candidate,Jeremy Gundel,Republican,2946.0,0.4,False,False
-2024,Missouri,MO,governor,Republican primary results,Candidate,Darren Grant,Republican,1866.0,0.3,False,False
-2024,Missouri,MO,governor,Republican primary results,Total,,,697347.0,100.0,False,False
-2024,Missouri,MO,governor,Democratic primary results,Winning,Crystal Quade,Democratic,189822.0,50.2,True,False
-2024,Missouri,MO,governor,Democratic primary results,Candidate,Mike Hamra,Democratic,119702.0,31.7,False,False
-2024,Missouri,MO,governor,Democratic primary results,Candidate,Eric Morrison,Democratic,36985.0,9.8,False,False
-2024,Missouri,MO,governor,Democratic primary results,Candidate,Sheryl Gladney,Democratic,25287.0,6.7,False,False
-2024,Missouri,MO,governor,Democratic primary results,Candidate,Hollis Laster,Democratic,5973.0,1.6,False,False
-2024,Missouri,MO,governor,Democratic primary results,Total,,,377769.0,100.0,False,False
-2024,Montana,MT,attorney general,Republican primary results,Winning,Austin Knudsen,Republican,148458.0,82.2,True,True
-2024,Montana,MT,attorney general,Republican primary results,Candidate,Logan Olson,Republican,32141.0,17.8,False,False
-2024,Montana,MT,attorney general,Republican primary results,Total,,,180599.0,100.0,False,False
-2024,Montana,MT,attorney general,Democratic primary results,Winning,Ben Alke,Democratic,93295.0,100.0,True,False
-2024,Montana,MT,attorney general,Democratic primary results,Total,,,93295.0,100.0,False,False
-2024,Montana,MT,secretary of state,Republican primary results,Winning,Christi Jacobsen,Republican,163359.0,100.0,True,True
-2024,Montana,MT,secretary of state,Republican primary results,Total,,,163359.0,100.0,False,False
-2024,Montana,MT,secretary of state,Democratic primary results,Winning,Jesse Mullen,Democratic,92149.0,100.0,True,False
-2024,Montana,MT,secretary of state,Democratic primary results,Total,,,92149.0,100.0,False,False
-2024,Montana,MT,governor,Republican primary results,Winning,Greg Gianforte (incumbent) Kristen Juras,Republican,144752.0,75.2,True,True
-2024,Montana,MT,governor,Republican primary results,Candidate,Tanner Smith Randy Pinocci,Republican,47747.0,24.8,False,False
-2024,Montana,MT,governor,Republican primary results,Total,,,192499.0,100.0,False,False
-2024,Montana,MT,governor,Democratic primary results,Winning,Ryan Busse Raph Graybill,Democratic,69184.0,70.9,True,False
-2024,Montana,MT,governor,Democratic primary results,Candidate,Jim Hunt Jerry Driscoll,Democratic,28354.0,29.1,False,False
-2024,Montana,MT,governor,Democratic primary results,Total,,,97538.0,100.0,False,False
-2024,New Hampshire,NH,governor,Republican primary results,Winning,Kelly Ayotte,Republican,88117.0,63.12,True,False
-2024,New Hampshire,NH,governor,Republican primary results,Candidate,Chuck Morse,Republican,47567.0,34.07,False,False
-2024,New Hampshire,NH,governor,Republican primary results,Candidate,Shaun Fife,Republican,876.0,0.63,False,False
-2024,New Hampshire,NH,governor,Republican primary results,Candidate,Robert McClory,Republican,839.0,0.6,False,False
-2024,New Hampshire,NH,governor,Republican primary results,Candidate,Frank Staples,Republican,809.0,0.58,False,False
-2024,New Hampshire,NH,governor,Republican primary results,Candidate,Richard McMenamon,Republican,527.0,0.38,False,False
-2024,New Hampshire,NH,governor,Republican primary results,Write-in,,,867.0,0.62,False,False
-2024,New Hampshire,NH,governor,Republican primary results,Total,,,139602.0,100.0,False,False
-2024,New Hampshire,NH,governor,Democratic primary results,Winning,Joyce Craig,Democratic,59976.0,47.88,True,False
-2024,New Hampshire,NH,governor,Democratic primary results,Candidate,Cinde Warmington,Democratic,52420.0,41.85,False,False
-2024,New Hampshire,NH,governor,Democratic primary results,Candidate,Jon Kiper,Democratic,11789.0,9.41,False,False
-2024,New Hampshire,NH,governor,Democratic primary results,Write-in,,,1076.0,0.86,False,False
-2024,New Hampshire,NH,governor,Democratic primary results,Total,,,125261.0,100.0,False,False
-2024,North Carolina,NC,attorney general,Democratic primary results,Winning,Jeff Jackson,Democratic,370666.0,54.83,True,False
-2024,North Carolina,NC,attorney general,Democratic primary results,Candidate,Satana Deberry,Democratic,223835.0,33.11,False,False
-2024,North Carolina,NC,attorney general,Democratic primary results,Candidate,Tim Dunn,Democratic,81492.0,12.06,False,False
-2024,North Carolina,NC,attorney general,Democratic primary results,Total,,,675993.0,100.0,False,False
-2024,North Carolina,NC,secretary of state,Republican primary results,Winning,Chad Brown,Republican,373166.0,43.26,True,False
-2024,North Carolina,NC,secretary of state,Republican primary results,Candidate,Christine Villaverde,Republican,258569.0,29.98,False,False
-2024,North Carolina,NC,secretary of state,Republican primary results,Candidate,Jesse Thomas,Republican,230829.0,26.76,False,False
-2024,North Carolina,NC,secretary of state,Republican primary results,Total,,,862564.0,100.0,False,False
-2024,North Carolina,NC,state treasurer,Republican primary results,Winning,Brad Briner,Republican,346160.0,39.94,True,False
-2024,North Carolina,NC,state treasurer,Republican primary results,Candidate,Rachel Johnson,Republican,299158.0,34.51,False,False
-2024,North Carolina,NC,state treasurer,Republican primary results,Candidate,A. J. Daoud,Republican,221442.0,25.55,False,False
-2024,North Carolina,NC,state treasurer,Republican primary results,Total,,,866760.0,100.0,False,False
-2024,North Carolina,NC,state treasurer,Democratic primary results,Winning,Wesley Harris,Democratic,433791.0,66.59,True,False
-2024,North Carolina,NC,state treasurer,Democratic primary results,Candidate,Gabe Esparza,Democratic,217689.0,33.41,False,False
-2024,North Carolina,NC,state treasurer,Democratic primary results,Total,,,651480.0,100.0,False,False
-2024,North Carolina,NC,governor,Democratic primary results,Winning,Josh Stein,Democratic,479026.0,69.6,True,False
-2024,North Carolina,NC,governor,Democratic primary results,Candidate,Michael R. Morgan,Democratic,98627.0,14.33,False,False
-2024,North Carolina,NC,governor,Democratic primary results,Candidate,Chrelle Booker,Democratic,46045.0,6.69,False,False
-2024,North Carolina,NC,governor,Democratic primary results,Candidate,Marcus Williams,Democratic,39257.0,5.7,False,False
-2024,North Carolina,NC,governor,Democratic primary results,Candidate,Gary Foxx,Democratic,25283.0,3.67,False,False
-2024,North Carolina,NC,governor,Democratic primary results,Total,,,688238.0,100.0,False,False
-2024,North Carolina,NC,governor,Republican primary results,Winning,Mark Robinson,Republican,666504.0,64.83,True,False
-2024,North Carolina,NC,governor,Republican primary results,Candidate,Dale Folwell,Republican,196955.0,19.16,False,False
-2024,North Carolina,NC,governor,Republican primary results,Candidate,Bill Graham,Republican,164572.0,16.01,False,False
-2024,North Carolina,NC,governor,Republican primary results,Total,,,1028031.0,100.0,False,False
-2024,North Dakota,ND,state treasurer,Republican primary results,Winning,Thomas Beadle,Republican,81014.0,99.51,True,True
-2024,North Dakota,ND,state treasurer,Republican primary results,Write-in,,,403.0,0.49,False,False
-2024,North Dakota,ND,state treasurer,Republican primary results,Total,,,81417.0,100.0,False,False
-2024,North Dakota,ND,governor,Republican primary results,Winning,Kelly Armstrong Michelle Strinden,Republican,67704.0,73.2,True,False
-2024,North Dakota,ND,governor,Republican primary results,Candidate,Tammy Miller Josh Teigen,Republican,24784.0,26.8,False,False
-2024,North Dakota,ND,governor,Republican primary results,Total,,,92488.0,100.0,False,False
-2024,North Dakota,ND,governor,Democratic–NPL primary results,Winning,Merrill Piepkorn Patrick Hart,North Dakota Democratic–nonpartisan League,19609.0,100.0,True,False
-2024,North Dakota,ND,governor,Democratic–NPL primary results,Total,,,19609.0,100.0,False,False
-2024,Oregon,OR,attorney general,Democratic primary results,Candidate,Dan Rayfield,Democratic,318313.0,75.71,False,False
-2024,Oregon,OR,attorney general,Democratic primary results,Candidate,Shaina Pomerantz,Democratic,102146.0,24.29,False,False
-2024,Oregon,OR,attorney general,Democratic primary results,Total,,,420459.0,100.0,False,False
-2024,Oregon,OR,attorney general,Republican primary results,Candidate,Will Lathrop,Republican,190995.0,64.57,False,False
-2024,Oregon,OR,attorney general,Republican primary results,Candidate,Michael Cross,Republican,104813.0,35.43,False,False
-2024,Oregon,OR,attorney general,Republican primary results,Total,,,295808.0,100.0,False,False
-2024,Oregon,OR,secretary of state,Democratic primary results,Winning,Tobias Read,Democratic,303089.0,69.4,True,False
-2024,Oregon,OR,secretary of state,Democratic primary results,Candidate,James Manning Jr.,Democratic,97427.0,22.31,False,False
-2024,Oregon,OR,secretary of state,Democratic primary results,Candidate,Jim Crary,Democratic,16340.0,3.74,False,False
-2024,Oregon,OR,secretary of state,Democratic primary results,Candidate,Paul Damian Wells,Democratic,9425.0,2.16,False,False
-2024,Oregon,OR,secretary of state,Democratic primary results,Candidate,Dave Stauffer,Democratic,7921.0,1.81,False,False
-2024,Oregon,OR,secretary of state,Democratic primary results,Write-in,,,2515.0,0.58,False,False
-2024,Oregon,OR,secretary of state,Democratic primary results,Total,,,436717.0,100.0,False,False
-2024,Oregon,OR,secretary of state,Republican primary results,Winning,Dennis Linthicum,Republican,199243.0,65.99,True,False
-2024,Oregon,OR,secretary of state,Republican primary results,Candidate,Brent Barker,Republican,61011.0,20.21,False,False
-2024,Oregon,OR,secretary of state,Republican primary results,Candidate,Tim McCloud,Republican,39109.0,12.95,False,False
-2024,Oregon,OR,secretary of state,Republican primary results,Write-in,,,2560.0,0.85,False,False
-2024,Oregon,OR,secretary of state,Republican primary results,Total,,,301923.0,100.0,False,False
-2024,Oregon,OR,state treasurer,Democratic primary results,Winning,Elizabeth Steiner,Democratic,335079.0,78.48,True,False
-2024,Oregon,OR,state treasurer,Democratic primary results,Candidate,Jeff Gudman,Democratic,89459.0,20.95,False,False
-2024,Oregon,OR,state treasurer,Democratic primary results,Candidate,Miscellaneous,Democratic,2418.0,0.57,False,False
-2024,Oregon,OR,state treasurer,Democratic primary results,Total,,,426956.0,100.0,False,False
-2024,Oregon,OR,state treasurer,Republican primary results,Winning,Brian Boquist,Republican,251064.0,98.85,True,False
-2024,Oregon,OR,state treasurer,Republican primary results,Candidate,Miscellaneous,Republican,2914.0,1.15,False,False
-2024,Oregon,OR,state treasurer,Republican primary results,Total,,,253978.0,100.0,False,False
-2024,Pennsylvania,PA,attorney general,Democratic primary results,Winning,Eugene DePasquale,Democratic,371911.0,35.4,True,False
-2024,Pennsylvania,PA,attorney general,Democratic primary results,Candidate,Jack Stollsteimer,Democratic,212413.0,20.22,False,False
-2024,Pennsylvania,PA,attorney general,Democratic primary results,Candidate,Joe Khan,Democratic,167895.0,15.98,False,False
-2024,Pennsylvania,PA,attorney general,Democratic primary results,Candidate,Keir Bradford-Grey,Democratic,160369.0,15.27,False,False
-2024,Pennsylvania,PA,attorney general,Democratic primary results,Candidate,Jared Solomon,Democratic,137920.0,13.13,False,False
-2024,Pennsylvania,PA,attorney general,Democratic primary results,Total,,,1050508.0,100.0,False,False
-2024,Pennsylvania,PA,attorney general,Republican primary results,Winning,Dave Sunday,Republican,620515.0,70.36,True,False
-2024,Pennsylvania,PA,attorney general,Republican primary results,Candidate,Craig Williams,Republican,261419.0,29.64,False,False
-2024,Pennsylvania,PA,attorney general,Republican primary results,Total,,,881934.0,100.0,False,False
-2024,Pennsylvania,PA,state treasurer,Republican primary results,Candidate,Stacy Garrity,Republican,,,False,True
-2024,Pennsylvania,PA,state treasurer,Republican primary results,Total,,,853284.0,100.0,False,False
-2024,Pennsylvania,PA,state treasurer,Democratic primary results,Winning,Erin McClelland,Democratic,547345.0,54.23,True,False
-2024,Pennsylvania,PA,state treasurer,Democratic primary results,Candidate,Ryan Bizzarro,Democratic,461905.0,45.77,False,False
-2024,Pennsylvania,PA,state treasurer,Democratic primary results,Total,,,1009250.0,100.0,False,False
-2024,Utah,UT,attorney general,Republican primary results,Winning,Derek Brown,Republican,178164.0,43.59,True,False
-2024,Utah,UT,attorney general,Republican primary results,Candidate,Rachel Terry,Republican,133019.0,32.55,False,False
-2024,Utah,UT,attorney general,Republican primary results,Candidate,Frank Mylar,Republican,97522.0,23.86,False,False
-2024,Utah,UT,attorney general,Republican primary results,Total,,,408705.0,100.0,False,False
-2024,Utah,UT,governor,Republican primary results,Winning,Spencer Cox (incumbent) Deidre Henderson,Republican,232164.0,54.4,True,True
-2024,Utah,UT,governor,Republican primary results,Candidate,Phil Lyman Natalie Clawson,Republican,194639.0,45.6,False,False
-2024,Utah,UT,governor,Republican primary results,Total,,,426803.0,100.0,False,False
-2024,Vermont,VT,attorney general,Democratic primary results,Winning,Charity Clark,Democratic,43275.0,99.05,True,True
-2024,Vermont,VT,attorney general,Democratic primary results,Write-in,,,416.0,0.95,False,False
-2024,Vermont,VT,attorney general,Democratic primary results,Total,,,43691.0,100.0,False,False
-2024,Vermont,VT,attorney general,Republican primary results,Winning,H. Brooke Paige,Republican,18081.0,97.06,True,False
-2024,Vermont,VT,attorney general,Republican primary results,Write-in,,,548.0,2.94,False,False
-2024,Vermont,VT,attorney general,Republican primary results,Total,,,18629.0,100.0,False,False
-2024,Vermont,VT,attorney general,Progressive primary results,Winning,Elijah Bergman,Progressive,270.0,87.95,True,False
-2024,Vermont,VT,attorney general,Progressive primary results,Write-in,,,37.0,12.05,False,False
-2024,Vermont,VT,attorney general,Progressive primary results,Total,,,307.0,100.0,False,False
-2024,Vermont,VT,secretary of state,Democratic primary results,Winning,Sarah Copeland Hanzas,Democratic,43182.0,99.32,True,True
-2024,Vermont,VT,secretary of state,Democratic primary results,Write-in,,,294.0,0.68,False,False
-2024,Vermont,VT,secretary of state,Democratic primary results,Total,,,43476.0,100.0,False,False
-2024,Vermont,VT,secretary of state,Republican primary results,Winning,H. Brooke Paige,Republican,18989.0,98.1,True,False
-2024,Vermont,VT,secretary of state,Republican primary results,Write-in,,,368.0,1.9,False,False
-2024,Vermont,VT,secretary of state,Republican primary results,Total,,,19357.0,100.0,False,False
-2024,Vermont,VT,state treasurer,Democratic primary results,Winning,Mike Pieciak,Democratic,45358.0,99.52,True,True
-2024,Vermont,VT,state treasurer,Democratic primary results,Write-in,,,221.0,0.48,False,False
-2024,Vermont,VT,state treasurer,Democratic primary results,Total,,,45579.0,100.0,False,False
-2024,Vermont,VT,state treasurer,Republican primary results,Winning,Joshua Bechhoefer,Republican,19286.0,97.27,True,False
-2024,Vermont,VT,state treasurer,Republican primary results,Write-in,,,542.0,2.73,False,False
-2024,Vermont,VT,state treasurer,Republican primary results,Total,,,19828.0,100.0,False,False
-2024,Vermont,VT,governor,Republican primary results,Winning,Phil Scott,Republican,23173.0,92.75,True,True
-2024,Vermont,VT,governor,Republican primary results,Candidate,Undervotes,Republican,1357.0,5.43,False,False
-2024,Vermont,VT,governor,Republican primary results,Candidate,Overvotes,Republican,7.0,0.03,False,False
-2024,Vermont,VT,governor,Republican primary results,Write-in,,,448.0,1.79,False,False
-2024,Vermont,VT,governor,Republican primary results,Total,,,23565.0,100.0,False,False
-2024,Vermont,VT,governor,Democratic primary results,Winning,Esther Charlestin,Democratic,24007.0,46.19,True,False
-2024,Vermont,VT,governor,Democratic primary results,Candidate,Undervotes,Democratic,13404.0,25.79,False,False
-2024,Vermont,VT,governor,Democratic primary results,Candidate,Peter Duval,Democratic,9377.0,18.04,False,False
-2024,Vermont,VT,governor,Democratic primary results,Candidate,Phil Scott (write-in),Republican,4558.0,8.77,False,False
-2024,Vermont,VT,governor,Democratic primary results,Candidate,Misc. Write-ins,Write-in,601.0,1.56,False,False
-2024,Vermont,VT,governor,Democratic primary results,Candidate,Overvotes,Democratic,22.0,0.04,False,False
-2024,Vermont,VT,governor,Democratic primary results,Total,,,51969.0,100.0,False,False
-2024,Vermont,VT,governor,Progressive primary results,Winning,Marielle Blais,Progressive,268.0,64.73,True,False
-2024,Vermont,VT,governor,Progressive primary results,Candidate,Undervotes,Progressive,71.0,17.11,False,False
-2024,Vermont,VT,governor,Progressive primary results,Candidate,Phil Scott (write-in),Republican,35.0,8.45,False,False
-2024,Vermont,VT,governor,Progressive primary results,Candidate,Esther Charlestin (write-in),Democratic,21.0,5.07,False,False
-2024,Vermont,VT,governor,Progressive primary results,Candidate,Misc. Write-ins,Write-in,19.0,4.59,False,False
-2024,Vermont,VT,governor,Progressive primary results,Total,,,414.0,100.0,False,False
-2024,Washington,WA,attorney general,Blanket primary election results,Winning,Pete Serrano,Republican,814372.0,42.11,True,False
-2024,Washington,WA,attorney general,Blanket primary election results,Winning,Nick Brown,Democratic,682360.0,35.28,True,False
-2024,Washington,WA,attorney general,Blanket primary election results,Candidate,Manka Dhingra,Democratic,435919.0,22.54,False,False
-2024,Washington,WA,attorney general,Blanket primary election results,Write-in,,,1284.0,0.07,False,False
-2024,Washington,WA,attorney general,Blanket primary election results,Total,,,1933935.0,100.0,False,False
-2024,Washington,WA,secretary of state,Blanket primary election results,Winning,Steve Hobbs,Democratic,930533.0,48.38,True,True
-2024,Washington,WA,secretary of state,Blanket primary election results,Winning,Dale Whitaker,Republican,709046.0,36.87,True,False
-2024,Washington,WA,secretary of state,Blanket primary election results,Candidate,Marquez Tiggs,Democratic,185628.0,9.65,False,False
-2024,Washington,WA,secretary of state,Blanket primary election results,Candidate,Damon Townsend,No Labels,96586.0,5.02,False,False
-2024,Washington,WA,secretary of state,Blanket primary election results,Write-in,,,1534.0,0.08,False,False
-2024,Washington,WA,secretary of state,Blanket primary election results,Total,,,1923327.0,100.0,False,False
-2024,Washington,WA,state treasurer,Blanket primary results,Winning,Mike Pellicciotti,Democratic,1118500.0,58.32,True,True
-2024,Washington,WA,state treasurer,Blanket primary results,Winning,Sharon Hanek,Republican,797824.0,41.6,True,False
-2024,Washington,WA,state treasurer,Blanket primary results,Write-in,,,1684.0,0.09,False,False
-2024,Washington,WA,state treasurer,Blanket primary results,Total,,,1918008.0,100.0,False,False
-2024,Washington,WA,governor,Blanket primary results,Winning,Bob Ferguson,Democratic,884268.0,44.88,True,False
-2024,Washington,WA,governor,Blanket primary results,Winning,Dave Reichert,Republican,541533.0,27.48,True,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Semi Bird,Republican,212692.0,10.79,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Mark Mullet,Democratic,119048.0,6.04,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Leon Lawson,Trump Republican,35971.0,1.83,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Jim Daniel,Republican,29907.0,1.52,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Cassondra Hanson,Democratic,24512.0,1.24,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,EL'ona Kearney,Democratic,24374.0,1.24,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Jennifer Hoover,Republican,15692.0,0.8,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Andre Stackhouse,Green,11962.0,0.61,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Don Rivers,Democratic,9453.0,0.48,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Martin Wheeler,Republican,7676.0,0.39,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Chaytan Inman,Democratic,6427.0,0.33,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Ricky Anthony,Democratic,6226.0,0.32,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Jeff Curry,Independent,6068.0,0.31,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Fred Grant,Democratic,5503.0,0.28,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Brian Bogen,Independent,4530.0,0.23,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,A.L. Brown,Republican,4232.0,0.21,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Michael DePaula,Libertarian,3957.0,0.2,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Rosetta Marshall-Williams,Independence,2960.0,0.15,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Jim Clark,Independent,2355.0,0.12,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Edward Cale,Democratic,1975.0,0.1,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Alex Tsimerman,Standup-america,1721.0,0.09,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Bill Hirt,Republican,1720.0,0.09,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Frank Dare,Independent,1115.0,0.06,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Alan Makayev,Nonsense Busters,1106.0,0.06,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,William Combs,Independent,1042.0,0.05,False,False
-2024,Washington,WA,governor,Blanket primary results,Candidate,Brad Mjelde,Independent,991.0,0.05,False,False
-2024,Washington,WA,governor,Blanket primary results,Write-in,,,1347.0,0.07,False,False
-2024,Washington,WA,governor,Blanket primary results,Total,,,1970363.0,100.0,False,False
-2024,West Virginia,WV,attorney general,Republican primary results,Winning,JB McCuskey,Republican,117263.0,59.83,True,False
-2024,West Virginia,WV,attorney general,Republican primary results,Candidate,Michael Stuart,Republican,78745.0,40.17,False,False
-2024,West Virginia,WV,attorney general,Republican primary results,Total,,,196008.0,100.0,False,False
-2024,West Virginia,WV,attorney general,Democratic primary results,Winning,Teresa Toriseva,Democratic,50480.0,52.67,True,False
-2024,West Virginia,WV,attorney general,Democratic primary results,Candidate,Richie Robb,Democratic,45356.0,47.33,False,False
-2024,West Virginia,WV,attorney general,Democratic primary results,Total,,,95836.0,100.0,False,False
-2024,West Virginia,WV,secretary of state,Republican primary results,Winning,Kris Warner,Republican,92488.0,45.89,True,False
-2024,West Virginia,WV,secretary of state,Republican primary results,Candidate,Doug Skaff,Republican,42291.0,20.98,False,False
-2024,West Virginia,WV,secretary of state,Republican primary results,Candidate,Ken Reed,Republican,33891.0,16.81,False,False
-2024,West Virginia,WV,secretary of state,Republican primary results,Candidate,Brian Wood,Republican,32892.0,16.32,False,False
-2024,West Virginia,WV,secretary of state,Republican primary results,Total,,,201562.0,100.0,False,False
-2024,West Virginia,WV,secretary of state,Democratic primary results,Winning,Thornton Cooper,Democratic,81773.0,100.0,True,False
-2024,West Virginia,WV,secretary of state,Democratic primary results,Total,,,81773.0,100.0,False,False
-2024,West Virginia,WV,state treasurer,Republican primary results,Winning,Larry Pack,Republican,166648.0,100.0,True,False
-2024,West Virginia,WV,state treasurer,Republican primary results,Total,,,166648.0,100.0,False,False
-2024,West Virginia,WV,governor,Republican primary results,Winning,Patrick Morrisey,Republican,75111.0,33.28,True,False
-2024,West Virginia,WV,governor,Republican primary results,Candidate,Moore Capito,Republican,62181.0,27.55,False,False
-2024,West Virginia,WV,governor,Republican primary results,Candidate,Chris Miller,Republican,46010.0,20.39,False,False
-2024,West Virginia,WV,governor,Republican primary results,Candidate,Mac Warner,Republican,36170.0,16.03,False,False
-2024,West Virginia,WV,governor,Republican primary results,Candidate,Mitch Roberts,Republican,3138.0,1.39,False,False
-2024,West Virginia,WV,governor,Republican primary results,Candidate,Kevin Christian,Republican,3088.0,1.37,False,False
-2024,West Virginia,WV,governor,Republican primary results,Total,,,225698.0,100.0,False,False
-2024,West Virginia,WV,governor,Democratic primary results,Winning,Steve Williams,Democratic,89545.0,100.0,True,False
-2024,West Virginia,WV,governor,Democratic primary results,Total,,,89545.0,100.0,False,False
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent,race_article
+2024,Alabama,AL,judicial,Republican primary results,Winning,Chad Hanson,Republican,264908.0,56.48,True,True,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,Republican primary results,Candidate,Stephen Davis Parker,Republican,204100.0,43.52,False,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,Republican primary results,Total,,,469008.0,100.0,False,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,Republican primary results,Winning,Rich Anderson,Republican,260934.0,55.35,True,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,judicial,Republican primary results,Candidate,Thomas Govan,Republican,210515.0,44.65,False,False,2024 Alabama Court of Civil Appeals election
+2024,Alabama,AL,public service commission,Republican primary results,Winning,Twinkle Andress Cavanaugh,Republican,330483.0,61.13,True,True,2024 Alabama Public Service Commission election
+2024,Alabama,AL,public service commission,Republican primary results,Candidate,Robert McCollum,Republican,210122.0,38.87,False,False,2024 Alabama Public Service Commission election
+2024,Alabama,AL,public service commission,Republican primary results,Total,,,540605.0,100.0,False,False,2024 Alabama Public Service Commission election
+2024,Alabama,AL,state board of education,District 3 – Republican primary,Winning,Kelly Mooney,Republican,38697.0,57.96,True,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 3 – Republican primary,Candidate,Charlotte Meadows,Republican,17532.0,26.26,False,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 3 – Republican primary,Candidate,Ann C. Eubank,Republican,10537.0,15.78,False,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 3 – Republican primary,Total,,,66766.0,100.0,False,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 7 – Republican primary,Winning,Allen Long,Republican,52769.0,60.91,True,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 7 – Republican primary,Candidate,Doug Bachuss,Republican,23348.0,26.95,False,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 7 – Republican primary,Candidate,Oscar S. Mann,Republican,10513.0,12.14,False,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,state board of education,District 7 – Republican primary,Total,,,86630.0,100.0,False,False,2024 Alabama State Board of Education election
+2024,Alabama,AL,judicial,Republican primary results,Winning,Sarah Stewart,Republican,334135.0,61.5,True,False,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,Republican primary results,Candidate,Bryan Taylor,Republican,209217.0,38.5,False,False,2024 Alabama Supreme Court election
+2024,Alabama,AL,judicial,Republican primary results,Total,,,543352.0,100.0,False,False,2024 Alabama Supreme Court election
+2024,Arizona,AZ,corporation commission,Republican primary results,Winning,Rachel Walden,Republican,300654.0,36.59,True,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,Republican primary results,Winning,Rene Lopez,Republican,264442.0,32.18,True,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,Republican primary results,Winning,Lea Márquez Peterson,Republican,251348.0,30.59,True,True,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,Republican primary results,Write-in,,,5273.0,0.64,False,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,Republican primary results,Total,,,821717.0,100.0,False,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,Democratic primary results,Winning,Ylenia Aguilar,Democratic,239841.0,35.98,True,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,Democratic primary results,Winning,Jonathon Hill,Democratic,215923.0,32.39,True,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,Democratic primary results,Winning,Joshua Polacheck,Democratic,208241.0,31.24,True,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,Democratic primary results,Write-in,,,2579.0,0.39,False,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,Democratic primary results,Total,,,666584.0,100.0,False,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,Green primary results,Winning,Mike Cease (write-in),Green,73.0,29.2,True,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,Green primary results,Winning,Nina Luxenberg (write-in),Green,72.0,28.8,True,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,Green primary results,Write-in,,,105.0,42.0,False,False,2024 Arizona Corporation Commission election
+2024,Arizona,AZ,corporation commission,Green primary results,Total,,,250.0,100.0,False,False,2024 Arizona Corporation Commission election
+2024,Delaware,DE,governor,Democratic primary results,Winning,Matt Meyer,Democratic,40518.0,46.98,True,False,2024 Delaware gubernatorial election
+2024,Delaware,DE,governor,Democratic primary results,Candidate,Bethany Hall-Long,Democratic,31588.0,36.62,False,False,2024 Delaware gubernatorial election
+2024,Delaware,DE,governor,Democratic primary results,Candidate,Collin O'Mara,Democratic,14142.0,16.4,False,False,2024 Delaware gubernatorial election
+2024,Delaware,DE,governor,Democratic primary results,Total,,,86248.0,100.0,False,False,2024 Delaware gubernatorial election
+2024,Delaware,DE,governor,Republican primary results,Winning,Mike Ramone,Republican,26414.0,72.29,True,False,2024 Delaware gubernatorial election
+2024,Delaware,DE,governor,Republican primary results,Candidate,Jerry Price,Republican,5971.0,16.34,False,False,2024 Delaware gubernatorial election
+2024,Delaware,DE,governor,Republican primary results,Candidate,Bobby Williamson,Republican,4153.0,11.37,False,False,2024 Delaware gubernatorial election
+2024,Delaware,DE,governor,Republican primary results,Total,,,36538.0,100.0,False,False,2024 Delaware gubernatorial election
+2024,Indiana,IN,governor,Republican primary results,Winning,Mike Braun,Republican,236641.0,39.6,True,False,2024 Indiana gubernatorial election
+2024,Indiana,IN,governor,Republican primary results,Candidate,Suzanne Crouch,Republican,130146.0,21.8,False,False,2024 Indiana gubernatorial election
+2024,Indiana,IN,governor,Republican primary results,Candidate,Brad Chambers,Republican,104653.0,17.5,False,False,2024 Indiana gubernatorial election
+2024,Indiana,IN,governor,Republican primary results,Candidate,Eric Doden,Republican,71135.0,11.9,False,False,2024 Indiana gubernatorial election
+2024,Indiana,IN,governor,Republican primary results,Candidate,Jamie Reitenour,Republican,28757.0,4.8,False,False,2024 Indiana gubernatorial election
+2024,Indiana,IN,governor,Republican primary results,Candidate,Curtis Hill,Republican,26837.0,4.5,False,False,2024 Indiana gubernatorial election
+2024,Indiana,IN,governor,Republican primary results,Total,,,598169.0,100.0,False,False,2024 Indiana gubernatorial election
+2024,Indiana,IN,governor,Democratic primary results,Winning,Jennifer McCormick,Democratic,180404.0,100.0,True,False,2024 Indiana gubernatorial election
+2024,Indiana,IN,governor,Democratic primary results,Total,,,180404.0,100.0,False,False,2024 Indiana gubernatorial election
+2024,Massachusetts,MA,governor's council,District 1 – Democratic primary results,Candidate,Joseph C. Ferreira,Democratic,68546.0,99.6,False,True,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 1 – Democratic primary results,Write-in,,,248.0,0.4,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 1 – Democratic primary results,Total,,,68794.0,100.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 2 – Democratic primary results,Winning,Tamisha Civil,Democratic,27702.0,38.7,True,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 2 – Democratic primary results,Candidate,Sean Murphy,Democratic,16002.0,22.3,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 2 – Democratic primary results,Candidate,Muriel Kramer,Democratic,15767.0,22.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 2 – Democratic primary results,Candidate,David Reservitz,Democratic,11975.0,16.7,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 2 – Democratic primary results,Write-in,,,155.0,0.2,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 2 – Democratic primary results,Total,,,71601.0,99.9,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 2 – Republican primary results,Candidate,Francis Crimmins Jr.,Republican,22357.0,99.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 2 – Republican primary results,Write-in,,,226.0,1.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 2 – Republican primary results,Total,,,22583.0,100.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 3 – Democratic primary results,Winning,Mara Dolan,Democratic,46250.0,52.0,True,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 3 – Democratic primary results,Candidate,Marilyn Petitto Devaney,Democratic,42580.0,47.9,False,True,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 3 – Democratic primary results,Write-in,,,123.0,0.1,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 3 – Democratic primary results,Total,,,88953.0,100.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 4 – Democratic primary results,Candidate,Christopher A. Iannella Jr.,Democratic,41849.0,56.4,False,True,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 4 – Democratic primary results,Candidate,Stacey Borden,Democratic,23884.0,32.2,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 4 – Democratic primary results,Candidate,Ronald Iacobucci,Democratic,8283.0,11.2,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 4 – Democratic primary results,Write-in,,,123.0,0.1,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 4 – Democratic primary results,Total,,,74139.0,99.9,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 5 – Democratic primary results,Candidate,Eunice Zeigler,Democratic,55871.0,99.4,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 5 – Democratic primary results,Write-in,,,319.0,0.6,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 5 – Democratic primary results,Total,,,56190.0,100.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 5 – Republican primary results,Candidate,Anne Manning-Martin,Republican,21462.0,99.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 5 – Republican primary results,Write-in,,,224.0,1.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 5 – Republican primary results,Total,,,21686.0,100.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 6 – Democratic primary results,Candidate,Terrence W. Kennedy,Democratic,65258.0,99.2,False,True,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 6 – Democratic primary results,Write-in,,,556.0,0.8,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 6 – Democratic primary results,Total,,,65814.0,100.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 7 – Democratic primary results,Candidate,Paul DePalo,Democratic,49094.0,99.6,False,True,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 7 – Democratic primary results,Write-in,,,191.0,0.4,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 7 – Democratic primary results,Total,,,49285.0,100.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 7 – Republican primary results,Candidate,Andrew Couture,Republican,24763.0,99.3,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 7 – Republican primary results,Write-in,,,169.0,0.7,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 7 – Republican primary results,Total,,,24932.0,100.0,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 8 – Democratic primary results,Candidate,Tara J. Jacobs,Democratic,61765.0,99.4,False,True,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 8 – Democratic primary results,Write-in,,,375.0,0.6,False,False,2024 Massachusetts Governor's Council election
+2024,Massachusetts,MA,governor's council,District 8 – Democratic primary results,Total,,,62140.0,100.0,False,False,2024 Massachusetts Governor's Council election
+2024,Missouri,MO,attorney general,Republican primary results,Winning,Andrew Bailey,Republican,413465.0,63.0,True,True,2024 Missouri Attorney General election
+2024,Missouri,MO,attorney general,Republican primary results,Candidate,Will Scharf,Republican,242680.0,37.0,False,False,2024 Missouri Attorney General election
+2024,Missouri,MO,attorney general,Republican primary results,Total,,,656145.0,100.0,False,False,2024 Missouri Attorney General election
+2024,Missouri,MO,attorney general,Democratic primary results,Winning,Elad Gross,Democratic,343934.0,100.0,True,False,2024 Missouri Attorney General election
+2024,Missouri,MO,attorney general,Democratic primary results,Total,,,343934.0,100.0,False,False,2024 Missouri Attorney General election
+2024,Missouri,MO,attorney general,Libertarian primary results,Winning,Ryan Munro,Libertarian,2401.0,100.0,True,False,2024 Missouri Attorney General election
+2024,Missouri,MO,attorney general,Libertarian primary results,Total,,,2401.0,100.0,False,False,2024 Missouri Attorney General election
+2024,Missouri,MO,secretary of state,Republican primary results,Winning,Denny Hoskins,Republican,157116.0,24.42,True,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,Republican primary results,Candidate,Shane Schoeller,Republican,108289.0,16.83,False,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,Republican primary results,Candidate,Mike Carter,Republican,91866.0,14.28,False,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,Republican primary results,Candidate,Dean Plocher,Republican,86659.0,13.47,False,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,Republican primary results,Candidate,Mary Elizabeth Coleman,Republican,72938.0,11.34,False,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,Republican primary results,Candidate,Valentina Gomez,Republican,47931.0,7.45,False,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,Republican primary results,Candidate,Jamie Corley,Republican,46314.0,7.2,False,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,Republican primary results,Candidate,Adam Schwadron,Republican,32335.0,5.03,False,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,Republican primary results,Total,,,643448.0,100.0,False,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,Democratic primary results,Winning,Barbara Phifer,Democratic,146284.0,40.86,True,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,Democratic primary results,Candidate,Monique Williams,Democratic,123270.0,34.43,False,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,Democratic primary results,Candidate,Haley Jacobsen,Democratic,88491.0,24.72,False,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,secretary of state,Democratic primary results,Total,,,358045.0,100.0,False,False,2024 Missouri Secretary of State election
+2024,Missouri,MO,state treasurer,Republican primary results,Winning,Vivek Malek,Republican,273930.0,41.51,True,True,2024 Missouri State Treasurer election
+2024,Missouri,MO,state treasurer,Republican primary results,Candidate,Andrew Koenig,Republican,135828.0,20.58,False,False,2024 Missouri State Treasurer election
+2024,Missouri,MO,state treasurer,Republican primary results,Candidate,Lori Rook,Republican,127970.0,19.39,False,False,2024 Missouri State Treasurer election
+2024,Missouri,MO,state treasurer,Republican primary results,Candidate,Cody Smith,Republican,97029.0,14.7,False,False,2024 Missouri State Treasurer election
+2024,Missouri,MO,state treasurer,Republican primary results,Candidate,Tina Goodrick,Republican,19115.0,2.9,False,False,2024 Missouri State Treasurer election
+2024,Missouri,MO,state treasurer,Republican primary results,Candidate,Karan Pujji,Republican,6124.0,0.93,False,False,2024 Missouri State Treasurer election
+2024,Missouri,MO,state treasurer,Republican primary results,Total,,,659996.0,100.0,False,False,2024 Missouri State Treasurer election
+2024,Missouri,MO,state treasurer,Democratic primary results,Winning,Mark Osmack,Democratic,344166.0,100.0,True,False,2024 Missouri State Treasurer election
+2024,Missouri,MO,state treasurer,Democratic primary results,Total,,,344166.0,100.0,False,False,2024 Missouri State Treasurer election
+2024,Missouri,MO,state treasurer,Libertarian primary results,Winning,John Hartwig,Libertarian,2423.0,100.0,True,False,2024 Missouri State Treasurer election
+2024,Missouri,MO,state treasurer,Libertarian primary results,Total,,,2423.0,100.0,False,False,2024 Missouri State Treasurer election
+2024,Missouri,MO,governor,Republican primary results,Winning,Mike Kehoe,Republican,274840.0,39.4,True,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,Republican primary results,Candidate,Bill Eigel,Republican,227012.0,32.6,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,Republican primary results,Candidate,Jay Ashcroft,Republican,162086.0,23.2,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,Republican primary results,Candidate,Amber Thomsen,Republican,10627.0,1.5,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,Republican primary results,Candidate,Chris Wright,Republican,9358.0,1.3,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,Republican primary results,Candidate,Darrell McClanahan,Republican,5637.0,0.8,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,Republican primary results,Candidate,Robert Olson,Republican,2975.0,0.4,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,Republican primary results,Candidate,Jeremy Gundel,Republican,2946.0,0.4,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,Republican primary results,Candidate,Darren Grant,Republican,1866.0,0.3,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,Republican primary results,Total,,,697347.0,100.0,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,Democratic primary results,Winning,Crystal Quade,Democratic,189822.0,50.2,True,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,Democratic primary results,Candidate,Mike Hamra,Democratic,119702.0,31.7,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,Democratic primary results,Candidate,Eric Morrison,Democratic,36985.0,9.8,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,Democratic primary results,Candidate,Sheryl Gladney,Democratic,25287.0,6.7,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,Democratic primary results,Candidate,Hollis Laster,Democratic,5973.0,1.6,False,False,2024 Missouri gubernatorial election
+2024,Missouri,MO,governor,Democratic primary results,Total,,,377769.0,100.0,False,False,2024 Missouri gubernatorial election
+2024,Montana,MT,attorney general,Republican primary results,Winning,Austin Knudsen,Republican,148458.0,82.2,True,True,2024 Montana Attorney General election
+2024,Montana,MT,attorney general,Republican primary results,Candidate,Logan Olson,Republican,32141.0,17.8,False,False,2024 Montana Attorney General election
+2024,Montana,MT,attorney general,Republican primary results,Total,,,180599.0,100.0,False,False,2024 Montana Attorney General election
+2024,Montana,MT,attorney general,Democratic primary results,Winning,Ben Alke,Democratic,93295.0,100.0,True,False,2024 Montana Attorney General election
+2024,Montana,MT,attorney general,Democratic primary results,Total,,,93295.0,100.0,False,False,2024 Montana Attorney General election
+2024,Montana,MT,secretary of state,Republican primary results,Winning,Christi Jacobsen,Republican,163359.0,100.0,True,True,2024 Montana Secretary of State election
+2024,Montana,MT,secretary of state,Republican primary results,Total,,,163359.0,100.0,False,False,2024 Montana Secretary of State election
+2024,Montana,MT,secretary of state,Democratic primary results,Winning,Jesse Mullen,Democratic,92149.0,100.0,True,False,2024 Montana Secretary of State election
+2024,Montana,MT,secretary of state,Democratic primary results,Total,,,92149.0,100.0,False,False,2024 Montana Secretary of State election
+2024,Montana,MT,state auditor,Republican primary results,Winning,James Brown,Republican,114508.0,69.55,True,False,2024 Montana State Auditor election
+2024,Montana,MT,state auditor,Republican primary results,Candidate,John Jay Willoughby,Republican,50131.0,30.45,False,False,2024 Montana State Auditor election
+2024,Montana,MT,state auditor,Republican primary results,Total,,,164639.0,100.0,False,False,2024 Montana State Auditor election
+2024,Montana,MT,state auditor,Democratic primary results,Winning,John Repke,Democratic,92296.0,100.0,True,False,2024 Montana State Auditor election
+2024,Montana,MT,state auditor,Democratic primary results,Total,,,92296.0,100.0,False,False,2024 Montana State Auditor election
+2024,Montana,MT,superintendent of public instruction,Republican primary results,Winning,Susie Hedalen,Republican,99717.0,62.3,True,False,2024 Montana Superintendent of Public Instruction election
+2024,Montana,MT,superintendent of public instruction,Republican primary results,Candidate,Sharyl Allen,Republican,60352.0,37.7,False,False,2024 Montana Superintendent of Public Instruction election
+2024,Montana,MT,superintendent of public instruction,Republican primary results,Total,,,160069.0,100.0,False,False,2024 Montana Superintendent of Public Instruction election
+2024,Montana,MT,superintendent of public instruction,Democratic primary results,Winning,Shannon O'Brien,Democratic,94474.0,100.0,True,False,2024 Montana Superintendent of Public Instruction election
+2024,Montana,MT,superintendent of public instruction,Democratic primary results,Total,,,94474.0,100.0,False,False,2024 Montana Superintendent of Public Instruction election
+2024,Montana,MT,governor,Republican primary results,Winning,Greg Gianforte (incumbent) Kristen Juras,Republican,144752.0,75.2,True,True,2024 Montana gubernatorial election
+2024,Montana,MT,governor,Republican primary results,Candidate,Tanner Smith Randy Pinocci,Republican,47747.0,24.8,False,False,2024 Montana gubernatorial election
+2024,Montana,MT,governor,Republican primary results,Total,,,192499.0,100.0,False,False,2024 Montana gubernatorial election
+2024,Montana,MT,governor,Democratic primary results,Winning,Ryan Busse Raph Graybill,Democratic,69184.0,70.9,True,False,2024 Montana gubernatorial election
+2024,Montana,MT,governor,Democratic primary results,Candidate,Jim Hunt Jerry Driscoll,Democratic,28354.0,29.1,False,False,2024 Montana gubernatorial election
+2024,Montana,MT,governor,Democratic primary results,Total,,,97538.0,100.0,False,False,2024 Montana gubernatorial election
+2024,New Hampshire,NH,executive council,District 1 – Republican primary results,Winning,Joseph Kenney,Republican,23807.0,99.34,True,True,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 1 – Republican primary results,Candidate,Emmett Soldati (write-in),Democratic,54.0,0.23,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 1 – Republican primary results,Write-in,,,104.0,0.43,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 1 – Republican primary results,Total,,,23965.0,100.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 1 – Democratic primary results,Winning,Emmett Soldati,Democratic,21036.0,99.47,True,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 1 – Democratic primary results,Candidate,"Joseph Kenney (incumbent, write-in)",Republican,49.0,0.23,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 1 – Democratic primary results,Write-in,,,64.0,0.3,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 1 – Democratic primary results,Total,,,21149.0,100.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – Democratic primary results,Winning,Karen Liot Hill,Democratic,18282.0,55.26,True,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – Democratic primary results,Candidate,Mike Liberty,Democratic,14750.0,44.59,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – Democratic primary results,Candidate,Kim Strathdee (write-in),Republican,3.0,0.01,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – Democratic primary results,Candidate,Mary Rose Deak (write-in),Republican,3.0,0.01,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – Democratic primary results,Write-in,,,44.0,0.13,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – Democratic primary results,Total,,,33082.0,100.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – Republican primary results,Winning,Kim Strathdee,Republican,9279.0,55.74,True,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – Republican primary results,Candidate,Mary Rose Deak,Republican,7065.0,42.44,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – Republican primary results,Candidate,Mike Liberty (write-in),Democratic,57.0,0.34,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – Republican primary results,Candidate,Karen Liot Hill (write-in),Democratic,41.0,0.25,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – Republican primary results,Write-in,,,206.0,1.23,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 2 – Republican primary results,Total,,,16648.0,100.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 3 – Republican primary results,Winning,Janet Stevens,Republican,25300.0,99.01,True,True,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 3 – Republican primary results,Candidate,Jon Morgan (write-in),Democratic,23.0,0.09,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 3 – Republican primary results,Write-in,,,229.0,0.9,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 3 – Republican primary results,Total,,,25552.0,100.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 3 – Democratic primary results,Winning,Jon Morgan,Democratic,20313.0,99.66,True,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 3 – Democratic primary results,Candidate,"Janet Stevens (incumbent, write-in)",Republican,12.0,0.06,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 3 – Democratic primary results,Write-in,,,58.0,0.28,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 3 – Democratic primary results,Total,,,20383.0,100.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Republican primary results,Winning,John Stephen,Republican,9312.0,36.85,True,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Republican primary results,Candidate,Robert Burns,Republican,5748.0,22.75,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Republican primary results,Candidate,Terese Bastarache,Republican,4167.0,16.49,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Republican primary results,Candidate,John Reagan,Republican,3758.0,14.87,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Republican primary results,Candidate,Ross Terrio,Republican,1295.0,5.12,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Republican primary results,Candidate,Ryan Terrell,Republican,908.0,3.59,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Republican primary results,Candidate,Jim O'Connell (write-in),Democratic,33.0,0.13,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Republican primary results,Write-in,,,51.0,0.2,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Republican primary results,Total,,,25272.0,100.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Democratic primary results,Winning,Jim O'Connell,Democratic,19431.0,99.32,True,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Democratic primary results,Candidate,John Stephen (write-in),Republican,22.0,0.11,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Democratic primary results,Candidate,Terese Bastarache (write-in),Republican,9.0,0.05,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Democratic primary results,Candidate,Robert Burns (write-in),Republican,7.0,0.04,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Democratic primary results,Candidate,John Reagan (write-in),Republican,6.0,0.03,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Democratic primary results,Candidate,Ryan Terrell (write-in),Republican,4.0,0.02,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Democratic primary results,Candidate,Ross Terrio (write-in),Republican,1.0,0.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Democratic primary results,Write-in,,,84.0,0.43,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 4 – Democratic primary results,Total,,,19564.0,100.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 5 – Republican primary results,Winning,Dave Wheeler,Republican,23068.0,99.3,True,True,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 5 – Republican primary results,Candidate,Melanie Levesque (write-in),Democratic,24.0,0.1,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 5 – Republican primary results,Candidate,Shoshanna Kelly (write-in),Democratic,16.0,0.07,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 5 – Republican primary results,Write-in,,,123.0,0.53,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 5 – Republican primary results,Total,,,23231.0,100.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 5 – Democratic primary results,Winning,Melanie Levesque,Democratic,12709.0,62.3,True,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 5 – Democratic primary results,Candidate,Shoshanna Kelly,Democratic,7641.0,37.46,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 5 – Democratic primary results,Candidate,"Dave Wheeler (incumbent, write-in)",Republican,21.0,0.1,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 5 – Democratic primary results,Write-in,,,29.0,0.14,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,executive council,District 5 – Democratic primary results,Total,,,20400.0,100.0,False,False,2024 New Hampshire Executive Council election
+2024,New Hampshire,NH,governor,Republican primary results,Winning,Kelly Ayotte,Republican,88117.0,63.12,True,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,Republican primary results,Candidate,Chuck Morse,Republican,47567.0,34.07,False,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,Republican primary results,Candidate,Shaun Fife,Republican,876.0,0.63,False,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,Republican primary results,Candidate,Robert McClory,Republican,839.0,0.6,False,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,Republican primary results,Candidate,Frank Staples,Republican,809.0,0.58,False,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,Republican primary results,Candidate,Richard McMenamon,Republican,527.0,0.38,False,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,Republican primary results,Write-in,,,867.0,0.62,False,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,Republican primary results,Total,,,139602.0,100.0,False,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,Democratic primary results,Winning,Joyce Craig,Democratic,59976.0,47.88,True,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,Democratic primary results,Candidate,Cinde Warmington,Democratic,52420.0,41.85,False,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,Democratic primary results,Candidate,Jon Kiper,Democratic,11789.0,9.41,False,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,Democratic primary results,Write-in,,,1076.0,0.86,False,False,2024 New Hampshire gubernatorial election
+2024,New Hampshire,NH,governor,Democratic primary results,Total,,,125261.0,100.0,False,False,2024 New Hampshire gubernatorial election
+2024,North Carolina,NC,attorney general,Democratic primary results,Winning,Jeff Jackson,Democratic,370666.0,54.83,True,False,2024 North Carolina Attorney General election
+2024,North Carolina,NC,attorney general,Democratic primary results,Candidate,Satana Deberry,Democratic,223835.0,33.11,False,False,2024 North Carolina Attorney General election
+2024,North Carolina,NC,attorney general,Democratic primary results,Candidate,Tim Dunn,Democratic,81492.0,12.06,False,False,2024 North Carolina Attorney General election
+2024,North Carolina,NC,attorney general,Democratic primary results,Total,,,675993.0,100.0,False,False,2024 North Carolina Attorney General election
+2024,North Carolina,NC,agriculture commissioner,Republican primary results,Winning,Steve Troxler,Republican,644720.0,69.1,True,True,2024 North Carolina Council of State elections
+2024,North Carolina,NC,agriculture commissioner,Republican primary results,Candidate,Bear Hammonds,Republican,288347.0,30.9,False,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,agriculture commissioner,Republican primary results,Total,,,933067.0,100.0,False,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,labor commissioner,Republican primary results,Winning,Luke Farley,Republican,315490.0,36.94,True,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,labor commissioner,Republican primary results,Candidate,Jon Hardister,Republican,239551.0,28.05,False,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,labor commissioner,Republican primary results,Candidate,Chuck Stanley,Republican,184458.0,21.6,False,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,labor commissioner,Republican primary results,Candidate,Travis Wilson,Republican,114563.0,13.41,False,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,labor commissioner,Republican primary results,Total,,,854062.0,100.0,False,False,2024 North Carolina Council of State elections
+2024,North Carolina,NC,secretary of state,Republican primary results,Winning,Chad Brown,Republican,373166.0,43.26,True,False,2024 North Carolina Secretary of State election
+2024,North Carolina,NC,secretary of state,Republican primary results,Candidate,Christine Villaverde,Republican,258569.0,29.98,False,False,2024 North Carolina Secretary of State election
+2024,North Carolina,NC,secretary of state,Republican primary results,Candidate,Jesse Thomas,Republican,230829.0,26.76,False,False,2024 North Carolina Secretary of State election
+2024,North Carolina,NC,secretary of state,Republican primary results,Total,,,862564.0,100.0,False,False,2024 North Carolina Secretary of State election
+2024,North Carolina,NC,state auditor,Republican primary results,Winning,Jack Clark,Republican,198793.0,23.24,True,False,2024 North Carolina State Auditor election
+2024,North Carolina,NC,state auditor,Republican primary results,Winning,Dave Boliek,Republican,189071.0,22.1,True,False,2024 North Carolina State Auditor election
+2024,North Carolina,NC,state auditor,Republican primary results,Candidate,Charles Dingee,Republican,159351.0,18.63,False,False,2024 North Carolina State Auditor election
+2024,North Carolina,NC,state auditor,Republican primary results,Candidate,Jeff Tarte,Republican,127981.0,14.96,False,False,2024 North Carolina State Auditor election
+2024,North Carolina,NC,state auditor,Republican primary results,Candidate,Anthony Wayne Street,Republican,95863.0,11.21,False,False,2024 North Carolina State Auditor election
+2024,North Carolina,NC,state auditor,Republican primary results,Candidate,Jim Kee,Republican,84302.0,9.86,False,False,2024 North Carolina State Auditor election
+2024,North Carolina,NC,state auditor,Republican primary results,Candidate,Jack Clark,Republican,59130.0,46.82,False,False,2024 North Carolina State Auditor election
+2024,North Carolina,NC,state auditor,Republican primary results,Total,,,855361.0,100.0,False,False,2024 North Carolina State Auditor election
+2024,North Carolina,NC,state treasurer,Republican primary results,Winning,Brad Briner,Republican,346160.0,39.94,True,False,2024 North Carolina State Treasurer election
+2024,North Carolina,NC,state treasurer,Republican primary results,Candidate,Rachel Johnson,Republican,299158.0,34.51,False,False,2024 North Carolina State Treasurer election
+2024,North Carolina,NC,state treasurer,Republican primary results,Candidate,A. J. Daoud,Republican,221442.0,25.55,False,False,2024 North Carolina State Treasurer election
+2024,North Carolina,NC,state treasurer,Republican primary results,Total,,,866760.0,100.0,False,False,2024 North Carolina State Treasurer election
+2024,North Carolina,NC,state treasurer,Democratic primary results,Winning,Wesley Harris,Democratic,433791.0,66.59,True,False,2024 North Carolina State Treasurer election
+2024,North Carolina,NC,state treasurer,Democratic primary results,Candidate,Gabe Esparza,Democratic,217689.0,33.41,False,False,2024 North Carolina State Treasurer election
+2024,North Carolina,NC,state treasurer,Democratic primary results,Total,,,651480.0,100.0,False,False,2024 North Carolina State Treasurer election
+2024,North Carolina,NC,governor,Democratic primary results,Winning,Josh Stein,Democratic,479026.0,69.6,True,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,governor,Democratic primary results,Candidate,Michael R. Morgan,Democratic,98627.0,14.33,False,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,governor,Democratic primary results,Candidate,Chrelle Booker,Democratic,46045.0,6.69,False,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,governor,Democratic primary results,Candidate,Marcus Williams,Democratic,39257.0,5.7,False,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,governor,Democratic primary results,Candidate,Gary Foxx,Democratic,25283.0,3.67,False,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,governor,Democratic primary results,Total,,,688238.0,100.0,False,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,governor,Republican primary results,Winning,Mark Robinson,Republican,666504.0,64.83,True,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,governor,Republican primary results,Candidate,Dale Folwell,Republican,196955.0,19.16,False,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,governor,Republican primary results,Candidate,Bill Graham,Republican,164572.0,16.01,False,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,governor,Republican primary results,Total,,,1028031.0,100.0,False,False,2024 North Carolina gubernatorial election
+2024,North Carolina,NC,judicial,Republican primary results,Winning,Chris Freeman,Republican,532794.0,62.64,True,False,2024 North Carolina judicial elections
+2024,North Carolina,NC,judicial,Republican primary results,Candidate,Hunter Murphy,Republican,317807.0,37.36,False,True,2024 North Carolina judicial elections
+2024,North Carolina,NC,judicial,Republican primary results,Total,,,850601.0,100.0,False,False,2024 North Carolina judicial elections
+2024,North Dakota,ND,state auditor,Republican primary results,Winning,Josh Gallion,Republican,81069.0,99.24,True,True,2024 North Dakota State Auditor election
+2024,North Dakota,ND,state auditor,Republican primary results,Write-in,,,617.0,0.76,False,False,2024 North Dakota State Auditor election
+2024,North Dakota,ND,state auditor,Republican primary results,Total,,,81686.0,100.0,False,False,2024 North Dakota State Auditor election
+2024,North Dakota,ND,state auditor,Democratic–NPL primary results,Winning,Timothy Lamb,North Dakota Democratic–nonpartisan League,18987.0,99.76,True,False,2024 North Dakota State Auditor election
+2024,North Dakota,ND,state auditor,Democratic–NPL primary results,Write-in,,,45.0,0.24,False,False,2024 North Dakota State Auditor election
+2024,North Dakota,ND,state auditor,Democratic–NPL primary results,Total,,,19032.0,100.0,False,False,2024 North Dakota State Auditor election
+2024,North Dakota,ND,state treasurer,Republican primary results,Winning,Thomas Beadle,Republican,81014.0,99.51,True,True,2024 North Dakota State Treasurer election
+2024,North Dakota,ND,state treasurer,Republican primary results,Write-in,,,403.0,0.49,False,False,2024 North Dakota State Treasurer election
+2024,North Dakota,ND,state treasurer,Republican primary results,Total,,,81417.0,100.0,False,False,2024 North Dakota State Treasurer election
+2024,North Dakota,ND,governor,Republican primary results,Winning,Kelly Armstrong Michelle Strinden,Republican,67704.0,73.2,True,False,2024 North Dakota gubernatorial election
+2024,North Dakota,ND,governor,Republican primary results,Candidate,Tammy Miller Josh Teigen,Republican,24784.0,26.8,False,False,2024 North Dakota gubernatorial election
+2024,North Dakota,ND,governor,Republican primary results,Total,,,92488.0,100.0,False,False,2024 North Dakota gubernatorial election
+2024,North Dakota,ND,governor,Democratic–NPL primary results,Winning,Merrill Piepkorn Patrick Hart,North Dakota Democratic–nonpartisan League,19609.0,100.0,True,False,2024 North Dakota gubernatorial election
+2024,North Dakota,ND,governor,Democratic–NPL primary results,Total,,,19609.0,100.0,False,False,2024 North Dakota gubernatorial election
+2024,Oregon,OR,attorney general,Democratic primary results,Candidate,Dan Rayfield,Democratic,318313.0,75.71,False,False,2024 Oregon Attorney General election
+2024,Oregon,OR,attorney general,Democratic primary results,Candidate,Shaina Pomerantz,Democratic,102146.0,24.29,False,False,2024 Oregon Attorney General election
+2024,Oregon,OR,attorney general,Democratic primary results,Total,,,420459.0,100.0,False,False,2024 Oregon Attorney General election
+2024,Oregon,OR,attorney general,Republican primary results,Candidate,Will Lathrop,Republican,190995.0,64.57,False,False,2024 Oregon Attorney General election
+2024,Oregon,OR,attorney general,Republican primary results,Candidate,Michael Cross,Republican,104813.0,35.43,False,False,2024 Oregon Attorney General election
+2024,Oregon,OR,attorney general,Republican primary results,Total,,,295808.0,100.0,False,False,2024 Oregon Attorney General election
+2024,Oregon,OR,secretary of state,Democratic primary results,Winning,Tobias Read,Democratic,303089.0,69.4,True,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,secretary of state,Democratic primary results,Candidate,James Manning Jr.,Democratic,97427.0,22.31,False,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,secretary of state,Democratic primary results,Candidate,Jim Crary,Democratic,16340.0,3.74,False,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,secretary of state,Democratic primary results,Candidate,Paul Damian Wells,Democratic,9425.0,2.16,False,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,secretary of state,Democratic primary results,Candidate,Dave Stauffer,Democratic,7921.0,1.81,False,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,secretary of state,Democratic primary results,Write-in,,,2515.0,0.58,False,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,secretary of state,Democratic primary results,Total,,,436717.0,100.0,False,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,secretary of state,Republican primary results,Winning,Dennis Linthicum,Republican,199243.0,65.99,True,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,secretary of state,Republican primary results,Candidate,Brent Barker,Republican,61011.0,20.21,False,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,secretary of state,Republican primary results,Candidate,Tim McCloud,Republican,39109.0,12.95,False,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,secretary of state,Republican primary results,Write-in,,,2560.0,0.85,False,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,secretary of state,Republican primary results,Total,,,301923.0,100.0,False,False,2024 Oregon Secretary of State election
+2024,Oregon,OR,state treasurer,Democratic primary results,Winning,Elizabeth Steiner,Democratic,335079.0,78.48,True,False,2024 Oregon State Treasurer election
+2024,Oregon,OR,state treasurer,Democratic primary results,Candidate,Jeff Gudman,Democratic,89459.0,20.95,False,False,2024 Oregon State Treasurer election
+2024,Oregon,OR,state treasurer,Democratic primary results,Candidate,Miscellaneous,Democratic,2418.0,0.57,False,False,2024 Oregon State Treasurer election
+2024,Oregon,OR,state treasurer,Democratic primary results,Total,,,426956.0,100.0,False,False,2024 Oregon State Treasurer election
+2024,Oregon,OR,state treasurer,Republican primary results,Winning,Brian Boquist,Republican,251064.0,98.85,True,False,2024 Oregon State Treasurer election
+2024,Oregon,OR,state treasurer,Republican primary results,Candidate,Miscellaneous,Republican,2914.0,1.15,False,False,2024 Oregon State Treasurer election
+2024,Oregon,OR,state treasurer,Republican primary results,Total,,,253978.0,100.0,False,False,2024 Oregon State Treasurer election
+2024,Pennsylvania,PA,attorney general,Democratic primary results,Winning,Eugene DePasquale,Democratic,371911.0,35.4,True,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,attorney general,Democratic primary results,Candidate,Jack Stollsteimer,Democratic,212413.0,20.22,False,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,attorney general,Democratic primary results,Candidate,Joe Khan,Democratic,167895.0,15.98,False,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,attorney general,Democratic primary results,Candidate,Keir Bradford-Grey,Democratic,160369.0,15.27,False,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,attorney general,Democratic primary results,Candidate,Jared Solomon,Democratic,137920.0,13.13,False,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,attorney general,Democratic primary results,Total,,,1050508.0,100.0,False,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,attorney general,Republican primary results,Winning,Dave Sunday,Republican,620515.0,70.36,True,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,attorney general,Republican primary results,Candidate,Craig Williams,Republican,261419.0,29.64,False,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,attorney general,Republican primary results,Total,,,881934.0,100.0,False,False,2024 Pennsylvania Attorney General election
+2024,Pennsylvania,PA,state treasurer,Republican primary results,Candidate,Stacy Garrity,Republican,,,False,True,2024 Pennsylvania State Treasurer election
+2024,Pennsylvania,PA,state treasurer,Republican primary results,Total,,,853284.0,100.0,False,False,2024 Pennsylvania State Treasurer election
+2024,Pennsylvania,PA,state treasurer,Democratic primary results,Winning,Erin McClelland,Democratic,547345.0,54.23,True,False,2024 Pennsylvania State Treasurer election
+2024,Pennsylvania,PA,state treasurer,Democratic primary results,Candidate,Ryan Bizzarro,Democratic,461905.0,45.77,False,False,2024 Pennsylvania State Treasurer election
+2024,Pennsylvania,PA,state treasurer,Democratic primary results,Total,,,1009250.0,100.0,False,False,2024 Pennsylvania State Treasurer election
+2024,Texas,TX,railroad commissioner,Republican primary results,Winning,Christi Craddick,Republican,982457.0,50.42,True,True,2024 Texas Railroad Commissioner election
+2024,Texas,TX,railroad commissioner,Republican primary results,Candidate,Jim Matlock,Republican,517624.0,26.56,False,False,2024 Texas Railroad Commissioner election
+2024,Texas,TX,railroad commissioner,Republican primary results,Candidate,Christie Clark,Republican,228395.0,11.72,False,False,2024 Texas Railroad Commissioner election
+2024,Texas,TX,railroad commissioner,Republican primary results,Candidate,Corey Howell,Republican,122802.0,6.3,False,False,2024 Texas Railroad Commissioner election
+2024,Texas,TX,railroad commissioner,Republican primary results,Candidate,Petra Reyes,Republican,97280.0,4.99,False,False,2024 Texas Railroad Commissioner election
+2024,Texas,TX,railroad commissioner,Republican primary results,Total,,,1948558.0,100.0,False,False,2024 Texas Railroad Commissioner election
+2024,Texas,TX,railroad commissioner,Democratic primary results,Winning,Katherine Culbert,Democratic,615965.0,67.64,True,False,2024 Texas Railroad Commissioner election
+2024,Texas,TX,railroad commissioner,Democratic primary results,Candidate,Bill Burch,Democratic,294628.0,32.36,False,False,2024 Texas Railroad Commissioner election
+2024,Texas,TX,railroad commissioner,Democratic primary results,Total,,,910593.0,100.0,False,False,2024 Texas Railroad Commissioner election
+2024,Utah,UT,attorney general,Republican primary results,Winning,Derek Brown,Republican,178164.0,43.59,True,False,2024 Utah Attorney General election
+2024,Utah,UT,attorney general,Republican primary results,Candidate,Rachel Terry,Republican,133019.0,32.55,False,False,2024 Utah Attorney General election
+2024,Utah,UT,attorney general,Republican primary results,Candidate,Frank Mylar,Republican,97522.0,23.86,False,False,2024 Utah Attorney General election
+2024,Utah,UT,attorney general,Republican primary results,Total,,,408705.0,100.0,False,False,2024 Utah Attorney General election
+2024,Utah,UT,state auditor,Republican primary results,Winning,Tina Cannon,Republican,226479.0,56.96,True,False,2024 Utah State Auditor election
+2024,Utah,UT,state auditor,Republican primary results,Candidate,Ricky Hatch,Republican,171144.0,43.04,False,False,2024 Utah State Auditor election
+2024,Utah,UT,state auditor,Republican primary results,Total,,,397623.0,100.0,False,False,2024 Utah State Auditor election
+2024,Utah,UT,governor,Republican primary results,Winning,Spencer Cox (incumbent) Deidre Henderson,Republican,232164.0,54.4,True,True,2024 Utah gubernatorial election
+2024,Utah,UT,governor,Republican primary results,Candidate,Phil Lyman Natalie Clawson,Republican,194639.0,45.6,False,False,2024 Utah gubernatorial election
+2024,Utah,UT,governor,Republican primary results,Total,,,426803.0,100.0,False,False,2024 Utah gubernatorial election
+2024,Vermont,VT,attorney general,Democratic primary results,Winning,Charity Clark,Democratic,43275.0,99.05,True,True,2024 Vermont Attorney General election
+2024,Vermont,VT,attorney general,Democratic primary results,Write-in,,,416.0,0.95,False,False,2024 Vermont Attorney General election
+2024,Vermont,VT,attorney general,Democratic primary results,Total,,,43691.0,100.0,False,False,2024 Vermont Attorney General election
+2024,Vermont,VT,attorney general,Republican primary results,Winning,H. Brooke Paige,Republican,18081.0,97.06,True,False,2024 Vermont Attorney General election
+2024,Vermont,VT,attorney general,Republican primary results,Write-in,,,548.0,2.94,False,False,2024 Vermont Attorney General election
+2024,Vermont,VT,attorney general,Republican primary results,Total,,,18629.0,100.0,False,False,2024 Vermont Attorney General election
+2024,Vermont,VT,attorney general,Progressive primary results,Winning,Elijah Bergman,Progressive,270.0,87.95,True,False,2024 Vermont Attorney General election
+2024,Vermont,VT,attorney general,Progressive primary results,Write-in,,,37.0,12.05,False,False,2024 Vermont Attorney General election
+2024,Vermont,VT,attorney general,Progressive primary results,Total,,,307.0,100.0,False,False,2024 Vermont Attorney General election
+2024,Vermont,VT,state auditor,Democratic primary results,Winning,Doug Hoffer,Democratic,43893.0,99.23,True,True,2024 Vermont Auditor of Accounts election
+2024,Vermont,VT,state auditor,Democratic primary results,Write-in,,,341.0,0.77,False,False,2024 Vermont Auditor of Accounts election
+2024,Vermont,VT,state auditor,Democratic primary results,Total,,,44204.0,100.0,False,False,2024 Vermont Auditor of Accounts election
+2024,Vermont,VT,state auditor,Republican primary results,Winning,H. Brooke Paige,Republican,18129.0,96.55,True,False,2024 Vermont Auditor of Accounts election
+2024,Vermont,VT,state auditor,Republican primary results,Write-in,,,647.0,3.45,False,False,2024 Vermont Auditor of Accounts election
+2024,Vermont,VT,state auditor,Republican primary results,Total,,,18776.0,100.0,False,False,2024 Vermont Auditor of Accounts election
+2024,Vermont,VT,state auditor,Progressive primary results,Winning,Linda Gravell,Progressive,277.0,87.38,True,False,2024 Vermont Auditor of Accounts election
+2024,Vermont,VT,state auditor,Progressive primary results,Write-in,,,40.0,12.62,False,False,2024 Vermont Auditor of Accounts election
+2024,Vermont,VT,state auditor,Progressive primary results,Total,,,317.0,100.0,False,False,2024 Vermont Auditor of Accounts election
+2024,Vermont,VT,secretary of state,Democratic primary results,Winning,Sarah Copeland Hanzas,Democratic,43182.0,99.32,True,True,2024 Vermont Secretary of State election
+2024,Vermont,VT,secretary of state,Democratic primary results,Write-in,,,294.0,0.68,False,False,2024 Vermont Secretary of State election
+2024,Vermont,VT,secretary of state,Democratic primary results,Total,,,43476.0,100.0,False,False,2024 Vermont Secretary of State election
+2024,Vermont,VT,secretary of state,Republican primary results,Winning,H. Brooke Paige,Republican,18989.0,98.1,True,False,2024 Vermont Secretary of State election
+2024,Vermont,VT,secretary of state,Republican primary results,Write-in,,,368.0,1.9,False,False,2024 Vermont Secretary of State election
+2024,Vermont,VT,secretary of state,Republican primary results,Total,,,19357.0,100.0,False,False,2024 Vermont Secretary of State election
+2024,Vermont,VT,state treasurer,Democratic primary results,Winning,Mike Pieciak,Democratic,45358.0,99.52,True,True,2024 Vermont State Treasurer election
+2024,Vermont,VT,state treasurer,Democratic primary results,Write-in,,,221.0,0.48,False,False,2024 Vermont State Treasurer election
+2024,Vermont,VT,state treasurer,Democratic primary results,Total,,,45579.0,100.0,False,False,2024 Vermont State Treasurer election
+2024,Vermont,VT,state treasurer,Republican primary results,Winning,Joshua Bechhoefer,Republican,19286.0,97.27,True,False,2024 Vermont State Treasurer election
+2024,Vermont,VT,state treasurer,Republican primary results,Write-in,,,542.0,2.73,False,False,2024 Vermont State Treasurer election
+2024,Vermont,VT,state treasurer,Republican primary results,Total,,,19828.0,100.0,False,False,2024 Vermont State Treasurer election
+2024,Vermont,VT,governor,Republican primary results,Winning,Phil Scott,Republican,23173.0,92.75,True,True,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Republican primary results,Candidate,Undervotes,Republican,1357.0,5.43,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Republican primary results,Candidate,Overvotes,Republican,7.0,0.03,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Republican primary results,Write-in,,,448.0,1.79,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Republican primary results,Total,,,23565.0,100.0,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Democratic primary results,Winning,Esther Charlestin,Democratic,24007.0,46.19,True,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Democratic primary results,Candidate,Undervotes,Democratic,13404.0,25.79,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Democratic primary results,Candidate,Peter Duval,Democratic,9377.0,18.04,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Democratic primary results,Candidate,Phil Scott (write-in),Republican,4558.0,8.77,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Democratic primary results,Candidate,Misc. Write-ins,Write-in,601.0,1.56,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Democratic primary results,Candidate,Overvotes,Democratic,22.0,0.04,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Democratic primary results,Total,,,51969.0,100.0,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Progressive primary results,Winning,Marielle Blais,Progressive,268.0,64.73,True,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Progressive primary results,Candidate,Undervotes,Progressive,71.0,17.11,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Progressive primary results,Candidate,Phil Scott (write-in),Republican,35.0,8.45,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Progressive primary results,Candidate,Esther Charlestin (write-in),Democratic,21.0,5.07,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Progressive primary results,Candidate,Misc. Write-ins,Write-in,19.0,4.59,False,False,2024 Vermont gubernatorial election
+2024,Vermont,VT,governor,Progressive primary results,Total,,,414.0,100.0,False,False,2024 Vermont gubernatorial election
+2024,Washington,WA,attorney general,Blanket primary election results,Winning,Pete Serrano,Republican,814372.0,42.11,True,False,2024 Washington Attorney General election
+2024,Washington,WA,attorney general,Blanket primary election results,Winning,Nick Brown,Democratic,682360.0,35.28,True,False,2024 Washington Attorney General election
+2024,Washington,WA,attorney general,Blanket primary election results,Candidate,Manka Dhingra,Democratic,435919.0,22.54,False,False,2024 Washington Attorney General election
+2024,Washington,WA,attorney general,Blanket primary election results,Write-in,,,1284.0,0.07,False,False,2024 Washington Attorney General election
+2024,Washington,WA,attorney general,Blanket primary election results,Total,,,1933935.0,100.0,False,False,2024 Washington Attorney General election
+2024,Washington,WA,land commissioner,Blanket primary election results,Winning,Jaime Herrera Beutler,Republican,419309.0,22.03,True,False,2024 Washington Commissioner of Public Lands election
+2024,Washington,WA,land commissioner,Blanket primary election results,Winning,Dave Upthegrove,Democratic,396304.0,20.82,True,False,2024 Washington Commissioner of Public Lands election
+2024,Washington,WA,land commissioner,Blanket primary election results,Candidate,Sue Kuehl Pederson,Republican,396255.0,20.82,False,False,2024 Washington Commissioner of Public Lands election
+2024,Washington,WA,land commissioner,Blanket primary election results,Candidate,Patrick DePoe,Democratic,267944.0,14.08,False,False,2024 Washington Commissioner of Public Lands election
+2024,Washington,WA,land commissioner,Blanket primary election results,Candidate,Allen Lebovitz,Democratic,194118.0,10.2,False,False,2024 Washington Commissioner of Public Lands election
+2024,Washington,WA,land commissioner,Blanket primary election results,Candidate,Kevin Van De Wege,Democratic,143174.0,7.52,False,False,2024 Washington Commissioner of Public Lands election
+2024,Washington,WA,land commissioner,Blanket primary election results,Candidate,Jeralee Anderson,Democratic,84353.0,4.43,False,False,2024 Washington Commissioner of Public Lands election
+2024,Washington,WA,land commissioner,Blanket primary election results,Write-in,,,1658.0,0.09,False,False,2024 Washington Commissioner of Public Lands election
+2024,Washington,WA,land commissioner,Blanket primary election results,Total,,,1903115.0,100.0,False,False,2024 Washington Commissioner of Public Lands election
+2024,Washington,WA,insurance commissioner,Blanket primary election results,Winning,Patty Kuderer,Democratic,845148.0,45.18,True,False,2024 Washington Insurance Commissioner election
+2024,Washington,WA,insurance commissioner,Blanket primary election results,Winning,Phil Fortunato,Republican,533560.0,28.52,True,False,2024 Washington Insurance Commissioner election
+2024,Washington,WA,insurance commissioner,Blanket primary election results,Candidate,Justin Murta,Republican,189582.0,10.13,False,False,2024 Washington Insurance Commissioner election
+2024,Washington,WA,insurance commissioner,Blanket primary election results,Candidate,John Pestinger,Democratic,103986.0,5.56,False,False,2024 Washington Insurance Commissioner election
+2024,Washington,WA,insurance commissioner,Blanket primary election results,Candidate,Jonathan Hendrix,No party preference,68961.0,3.69,False,False,2024 Washington Insurance Commissioner election
+2024,Washington,WA,insurance commissioner,Blanket primary election results,Candidate,Bill Boyd,Democratic,57387.0,3.07,False,False,2024 Washington Insurance Commissioner election
+2024,Washington,WA,insurance commissioner,Blanket primary election results,Candidate,Chris D. Chung,Democratic,54469.0,2.91,False,False,2024 Washington Insurance Commissioner election
+2024,Washington,WA,insurance commissioner,Blanket primary election results,Candidate,Tim Verzal,No party preference,15742.0,0.84,False,False,2024 Washington Insurance Commissioner election
+2024,Washington,WA,insurance commissioner,Blanket primary election results,Write-in,,,1738.0,0.09,False,False,2024 Washington Insurance Commissioner election
+2024,Washington,WA,insurance commissioner,Blanket primary election results,Total,,,1870573.0,100.0,False,False,2024 Washington Insurance Commissioner election
+2024,Washington,WA,secretary of state,Blanket primary election results,Winning,Steve Hobbs,Democratic,930533.0,48.38,True,True,2024 Washington Secretary of State election
+2024,Washington,WA,secretary of state,Blanket primary election results,Winning,Dale Whitaker,Republican,709046.0,36.87,True,False,2024 Washington Secretary of State election
+2024,Washington,WA,secretary of state,Blanket primary election results,Candidate,Marquez Tiggs,Democratic,185628.0,9.65,False,False,2024 Washington Secretary of State election
+2024,Washington,WA,secretary of state,Blanket primary election results,Candidate,Damon Townsend,No Labels,96586.0,5.02,False,False,2024 Washington Secretary of State election
+2024,Washington,WA,secretary of state,Blanket primary election results,Write-in,,,1534.0,0.08,False,False,2024 Washington Secretary of State election
+2024,Washington,WA,secretary of state,Blanket primary election results,Total,,,1923327.0,100.0,False,False,2024 Washington Secretary of State election
+2024,Washington,WA,state auditor,Blanket primary results,Winning,Pat McCarthy,Democratic,1125904.0,58.82,True,True,2024 Washington State Auditor election
+2024,Washington,WA,state auditor,Blanket primary results,Winning,Matt Hawkins,Republican,786529.0,41.09,True,False,2024 Washington State Auditor election
+2024,Washington,WA,state auditor,Blanket primary results,Write-in,,,1648.0,0.09,False,False,2024 Washington State Auditor election
+2024,Washington,WA,state auditor,Blanket primary results,Total,,,1914081.0,100.0,False,False,2024 Washington State Auditor election
+2024,Washington,WA,state treasurer,Blanket primary results,Winning,Mike Pellicciotti,Democratic,1118500.0,58.32,True,True,2024 Washington State Treasurer election
+2024,Washington,WA,state treasurer,Blanket primary results,Winning,Sharon Hanek,Republican,797824.0,41.6,True,False,2024 Washington State Treasurer election
+2024,Washington,WA,state treasurer,Blanket primary results,Write-in,,,1684.0,0.09,False,False,2024 Washington State Treasurer election
+2024,Washington,WA,state treasurer,Blanket primary results,Total,,,1918008.0,100.0,False,False,2024 Washington State Treasurer election
+2024,Washington,WA,superintendent of public instruction,Blanket primary election results,Winning,Chris Reykdal,Nonpartisan,702227.0,39.3,True,True,2024 Washington Superintendent of Public Instruction election
+2024,Washington,WA,superintendent of public instruction,Blanket primary election results,Winning,David Olson,Nonpartisan,557822.0,31.22,True,False,2024 Washington Superintendent of Public Instruction election
+2024,Washington,WA,superintendent of public instruction,Blanket primary election results,Candidate,Reid Saaris,Nonpartisan,427788.0,23.94,False,False,2024 Washington Superintendent of Public Instruction election
+2024,Washington,WA,superintendent of public instruction,Blanket primary election results,Candidate,John Blair,Nonpartisan,91410.0,5.12,False,False,2024 Washington Superintendent of Public Instruction election
+2024,Washington,WA,superintendent of public instruction,Blanket primary election results,Write-in,,,7404.0,0.41,False,False,2024 Washington Superintendent of Public Instruction election
+2024,Washington,WA,superintendent of public instruction,Blanket primary election results,Total,,,1786651.0,100.0,False,False,2024 Washington Superintendent of Public Instruction election
+2024,Washington,WA,governor,Blanket primary results,Winning,Bob Ferguson,Democratic,884268.0,44.88,True,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Winning,Dave Reichert,Republican,541533.0,27.48,True,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Semi Bird,Republican,212692.0,10.79,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Mark Mullet,Democratic,119048.0,6.04,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Leon Lawson,Trump Republican,35971.0,1.83,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Jim Daniel,Republican,29907.0,1.52,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Cassondra Hanson,Democratic,24512.0,1.24,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,EL'ona Kearney,Democratic,24374.0,1.24,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Jennifer Hoover,Republican,15692.0,0.8,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Andre Stackhouse,Green,11962.0,0.61,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Don Rivers,Democratic,9453.0,0.48,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Martin Wheeler,Republican,7676.0,0.39,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Chaytan Inman,Democratic,6427.0,0.33,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Ricky Anthony,Democratic,6226.0,0.32,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Jeff Curry,Independent,6068.0,0.31,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Fred Grant,Democratic,5503.0,0.28,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Brian Bogen,Independent,4530.0,0.23,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,A.L. Brown,Republican,4232.0,0.21,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Michael DePaula,Libertarian,3957.0,0.2,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Rosetta Marshall-Williams,Independence,2960.0,0.15,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Jim Clark,Independent,2355.0,0.12,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Edward Cale,Democratic,1975.0,0.1,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Alex Tsimerman,Standup-america,1721.0,0.09,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Bill Hirt,Republican,1720.0,0.09,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Frank Dare,Independent,1115.0,0.06,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Alan Makayev,Nonsense Busters,1106.0,0.06,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,William Combs,Independent,1042.0,0.05,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Candidate,Brad Mjelde,Independent,991.0,0.05,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Write-in,,,1347.0,0.07,False,False,2024 Washington gubernatorial election
+2024,Washington,WA,governor,Blanket primary results,Total,,,1970363.0,100.0,False,False,2024 Washington gubernatorial election
+2024,West Virginia,WV,attorney general,Republican primary results,Winning,JB McCuskey,Republican,117263.0,59.83,True,False,2024 West Virginia Attorney General election
+2024,West Virginia,WV,attorney general,Republican primary results,Candidate,Michael Stuart,Republican,78745.0,40.17,False,False,2024 West Virginia Attorney General election
+2024,West Virginia,WV,attorney general,Republican primary results,Total,,,196008.0,100.0,False,False,2024 West Virginia Attorney General election
+2024,West Virginia,WV,attorney general,Democratic primary results,Winning,Teresa Toriseva,Democratic,50480.0,52.67,True,False,2024 West Virginia Attorney General election
+2024,West Virginia,WV,attorney general,Democratic primary results,Candidate,Richie Robb,Democratic,45356.0,47.33,False,False,2024 West Virginia Attorney General election
+2024,West Virginia,WV,attorney general,Democratic primary results,Total,,,95836.0,100.0,False,False,2024 West Virginia Attorney General election
+2024,West Virginia,WV,agriculture commissioner,Republican primary results,Winning,Kent Leonhardt,Republican,97958.0,50.82,True,True,2024 West Virginia Commissioner of Agriculture election
+2024,West Virginia,WV,agriculture commissioner,Republican primary results,Candidate,Joshua Higginbotham,Republican,57950.0,30.07,False,False,2024 West Virginia Commissioner of Agriculture election
+2024,West Virginia,WV,agriculture commissioner,Republican primary results,Candidate,Roy Ramsey,Republican,36831.0,19.11,False,False,2024 West Virginia Commissioner of Agriculture election
+2024,West Virginia,WV,agriculture commissioner,Republican primary results,Total,,,192739.0,100.0,False,False,2024 West Virginia Commissioner of Agriculture election
+2024,West Virginia,WV,agriculture commissioner,Democratic primary results,Winning,Deborah Stiles,Democratic,84557.0,100.0,True,False,2024 West Virginia Commissioner of Agriculture election
+2024,West Virginia,WV,agriculture commissioner,Democratic primary results,Total,,,84557.0,100.0,False,False,2024 West Virginia Commissioner of Agriculture election
+2024,West Virginia,WV,secretary of state,Republican primary results,Winning,Kris Warner,Republican,92488.0,45.89,True,False,2024 West Virginia Secretary of State election
+2024,West Virginia,WV,secretary of state,Republican primary results,Candidate,Doug Skaff,Republican,42291.0,20.98,False,False,2024 West Virginia Secretary of State election
+2024,West Virginia,WV,secretary of state,Republican primary results,Candidate,Ken Reed,Republican,33891.0,16.81,False,False,2024 West Virginia Secretary of State election
+2024,West Virginia,WV,secretary of state,Republican primary results,Candidate,Brian Wood,Republican,32892.0,16.32,False,False,2024 West Virginia Secretary of State election
+2024,West Virginia,WV,secretary of state,Republican primary results,Total,,,201562.0,100.0,False,False,2024 West Virginia Secretary of State election
+2024,West Virginia,WV,secretary of state,Democratic primary results,Winning,Thornton Cooper,Democratic,81773.0,100.0,True,False,2024 West Virginia Secretary of State election
+2024,West Virginia,WV,secretary of state,Democratic primary results,Total,,,81773.0,100.0,False,False,2024 West Virginia Secretary of State election
+2024,West Virginia,WV,state auditor,Republican primary results,Winning,Mark Hunt,Republican,74912.0,39.26,True,False,2024 West Virginia State Auditor election
+2024,West Virginia,WV,state auditor,Republican primary results,Candidate,Eric Householder,Republican,48632.0,25.49,False,False,2024 West Virginia State Auditor election
+2024,West Virginia,WV,state auditor,Republican primary results,Candidate,Tricia Jackson,Republican,37039.0,19.41,False,False,2024 West Virginia State Auditor election
+2024,West Virginia,WV,state auditor,Republican primary results,Candidate,Caleb Hanna,Republican,30217.0,15.84,False,False,2024 West Virginia State Auditor election
+2024,West Virginia,WV,state auditor,Republican primary results,Total,,,190800.0,100.0,False,False,2024 West Virginia State Auditor election
+2024,West Virginia,WV,state auditor,Democratic primary results,Winning,Mary Ann Claytor,Democratic,84124.0,100.0,True,False,2024 West Virginia State Auditor election
+2024,West Virginia,WV,state auditor,Democratic primary results,Total,,,84124.0,100.0,False,False,2024 West Virginia State Auditor election
+2024,West Virginia,WV,state treasurer,Republican primary results,Winning,Larry Pack,Republican,166648.0,100.0,True,False,2024 West Virginia State Treasurer election
+2024,West Virginia,WV,state treasurer,Republican primary results,Total,,,166648.0,100.0,False,False,2024 West Virginia State Treasurer election
+2024,West Virginia,WV,governor,Republican primary results,Winning,Patrick Morrisey,Republican,75111.0,33.28,True,False,2024 West Virginia gubernatorial election
+2024,West Virginia,WV,governor,Republican primary results,Candidate,Moore Capito,Republican,62181.0,27.55,False,False,2024 West Virginia gubernatorial election
+2024,West Virginia,WV,governor,Republican primary results,Candidate,Chris Miller,Republican,46010.0,20.39,False,False,2024 West Virginia gubernatorial election
+2024,West Virginia,WV,governor,Republican primary results,Candidate,Mac Warner,Republican,36170.0,16.03,False,False,2024 West Virginia gubernatorial election
+2024,West Virginia,WV,governor,Republican primary results,Candidate,Mitch Roberts,Republican,3138.0,1.39,False,False,2024 West Virginia gubernatorial election
+2024,West Virginia,WV,governor,Republican primary results,Candidate,Kevin Christian,Republican,3088.0,1.37,False,False,2024 West Virginia gubernatorial election
+2024,West Virginia,WV,governor,Republican primary results,Total,,,225698.0,100.0,False,False,2024 West Virginia gubernatorial election
+2024,West Virginia,WV,governor,Democratic primary results,Winning,Steve Williams,Democratic,89545.0,100.0,True,False,2024 West Virginia gubernatorial election
+2024,West Virginia,WV,governor,Democratic primary results,Total,,,89545.0,100.0,False,False,2024 West Virginia gubernatorial election
+2024,Ohio,OH,judicial,Democratic primary results,Winning,Michael P. Donnelly,Democratic,462982.0,100.0,True,True,2024 Ohio elections
+2024,Ohio,OH,judicial,Democratic primary results,Total,,,462982.0,100.0,False,False,2024 Ohio elections
+2024,Ohio,OH,judicial,Republican primary results,Winning,Megan E. Shanahan,Republican,836768.0,100.0,True,False,2024 Ohio elections
+2024,Ohio,OH,judicial,Republican primary results,Total,,,836768.0,100.0,False,False,2024 Ohio elections
+2024,Ohio,OH,judicial,Democratic primary results,Winning,Melody J. Stewart,Democratic,459539.0,100.0,True,True,2024 Ohio elections
+2024,Ohio,OH,judicial,Republican primary results,Winning,Joe Deters,Republican,835968.0,100.0,True,False,2024 Ohio elections
+2024,Ohio,OH,judicial,Democratic primary results,Winning,Lisa Forbes,Democratic,310635.0,63.84,True,False,2024 Ohio elections
+2024,Ohio,OH,judicial,Democratic primary results,Candidate,Terri Jamison,Democratic,175965.0,36.16,False,False,2024 Ohio elections
+2024,Ohio,OH,judicial,Republican primary results,Winning,Dan Hawkins,Republican,810411.0,100.0,True,False,2024 Ohio elections
+2024,Oklahoma,OK,corporation commission,Republican primary results,Winning,Brian Bingman,Republican,126778.0,53.4,True,False,2024 Oklahoma elections
+2024,Oklahoma,OK,corporation commission,Republican primary results,Candidate,Justin Hornback,Republican,68039.0,28.7,False,False,2024 Oklahoma elections
+2024,Oklahoma,OK,corporation commission,Republican primary results,Candidate,Russell Ray,Republican,42516.0,17.9,False,False,2024 Oklahoma elections
+2024,Oklahoma,OK,corporation commission,Republican primary results,Total,,,237333.0,100.0,False,False,2024 Oklahoma elections
+2024,Texas,TX,judicial,Place 2 – Republican primary results,Winning,Jimmy Blacklock,Republican,1749450.0,100.0,True,True,2024 Texas elections
+2024,Texas,TX,judicial,Place 2 – Republican primary results,Total,,,1749450.0,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 2 – Democratic primary results,Winning,DaSean Jones,Democratic,529623.0,59.57,True,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 2 – Democratic primary results,Candidate,Randy Sarosdy,Democratic,359402.0,40.43,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 2 – Democratic primary results,Total,,,889025.0,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 4 – Republican primary results,Winning,John Devine,Republican,921556.0,50.44,True,True,2024 Texas elections
+2024,Texas,TX,judicial,Place 4 – Republican primary results,Candidate,Brian Walker,Republican,905418.0,49.56,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 4 – Republican primary results,Total,,,1826974.0,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 4 – Democratic primary results,Winning,Christine Vinh Weems,Democratic,825485.0,100.0,True,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 4 – Democratic primary results,Total,,,825485.0,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 6 – Republican primary results,Winning,Jane Bland,Republican,1690507.0,100.0,True,True,2024 Texas elections
+2024,Texas,TX,judicial,Place 6 – Republican primary results,Total,,,1690507.0,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 6 – Democratic primary results,Winning,Bonnie Lee Goldstein,Democratic,646690.0,73.14,True,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 6 – Democratic primary results,Candidate,Joe Pool,Democratic,237465.0,26.86,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 6 – Democratic primary results,Total,,,884155.0,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Republican primary results,Winning,David Schenck,Republican,1174795.0,62.58,True,False,2024 Texas elections
+2024,Texas,TX,judicial,Republican primary results,Candidate,Sharon Keller,Republican,702464.0,37.42,False,True,2024 Texas elections
+2024,Texas,TX,judicial,Republican primary results,Total,,,1877259.0,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Democratic primary results,Winning,Holly Taylor,Democratic,829500.0,100.0,True,False,2024 Texas elections
+2024,Texas,TX,judicial,Democratic primary results,Total,,,829500.0,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 7 – Republican primary results,Winning,Gina Parker,Republican,1210956.0,66.08,True,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 7 – Republican primary results,Candidate,Barbara Parker Hervey,Republican,621660.0,33.92,False,True,2024 Texas elections
+2024,Texas,TX,judicial,Place 7 – Republican primary results,Total,,,1832616.0,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 7 – Democratic primary results,Winning,Nancy Mulder,Democratic,819154.0,100.0,True,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 7 – Democratic primary results,Total,,,819154.0,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 8 – Republican primary results,Winning,Lee Finley,Republican,988824.0,53.88,True,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 8 – Republican primary results,Candidate,Michelle Slaughter,Republican,846549.0,46.12,False,True,2024 Texas elections
+2024,Texas,TX,judicial,Place 8 – Republican primary results,Total,,,1835373.0,100.0,False,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 8 – Democratic primary results,Winning,Chika Anyiam,Democratic,804891.0,100.0,True,False,2024 Texas elections
+2024,Texas,TX,judicial,Place 8 – Democratic primary results,Total,,,804891.0,100.0,False,False,2024 Texas elections

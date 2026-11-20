@@ -106,3 +106,25 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2024,Washington,WA,state treasurer,Mike Pellicciotti,Democratic,57.26,True,True
 2024,Washington,WA,state treasurer,Sharon Hanek,Republican,42.65,False,False
 2024,West Virginia,WV,state treasurer,Larry Pack,Republican,99.93,True,False
+2024,Montana,MT,state auditor,James Brown,Republican,61.42,True,False
+2024,Montana,MT,state auditor,John Repke,Democratic,38.58,False,False
+2024,North Carolina,NC,state auditor,Dave Boliek,Republican,49.35,True,False
+2024,North Carolina,NC,state auditor,Jessica Holmes,Democratic,47.61,False,True
+2024,North Carolina,NC,state auditor,Bob Drach,Libertarian,3.03,False,False
+2024,North Dakota,ND,state auditor,Josh Gallion,Republican,68.74,True,True
+2024,North Dakota,ND,state auditor,Timothy Lamb,Democratic,31.04,False,False
+2024,Pennsylvania,PA,state auditor,Timothy DeFoor,Republican,51.13,True,True
+2024,Pennsylvania,PA,state auditor,Malcolm Kenyatta,Democratic,45.94,False,False
+2024,Pennsylvania,PA,state auditor,Reece Smith,Libertarian,1.81,False,False
+2024,Pennsylvania,PA,state auditor,Alan Goodrich,Constitution,0.82,False,False
+2024,Pennsylvania,PA,state auditor,Eric Anton,Solidarity,0.31,False,False
+2024,Utah,UT,state auditor,Tina Cannon,Republican,63.53,True,False
+2024,Utah,UT,state auditor,Catherine Voutaz,Democratic,31.3,False,False
+2024,Utah,UT,state auditor,Jeffery Ostler,Constitution,5.17,False,False
+2024,Vermont,VT,state auditor,Doug Hoffer,Democratic,60.62,True,True
+2024,Vermont,VT,state auditor,H. Brooke Paige,Republican,39.22,False,False
+2024,Washington,WA,state auditor,Pat McCarthy,Democratic,57.99,True,True
+2024,Washington,WA,state auditor,Matt Hawkins,Republican,41.92,False,False
+2024,West Virginia,WV,state auditor,Mark Hunt,Republican,68.72,True,False
+2024,West Virginia,WV,state auditor,Mary Ann Claytor,Democratic,31.28,False,False
+2024,Guam,GU,state auditor,Benjamin Cruz,Nonpartisan,99.1,True,True

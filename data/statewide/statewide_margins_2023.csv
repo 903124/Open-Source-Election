@@ -1,0 +1,14 @@
+year,state,state_code,office,election,race,seats,winner_candidate,winner_party,winner_percentage,winner_votes,runner_up_candidate,runner_up_party,runner_up_percentage,runner_up_votes,total_votes,margin_pct,margin_votes,margin_pct_votes,source
+2023,Kentucky,KY,attorney general,2023 Kentucky Attorney General election,2023 Kentucky Attorney General election,1,Russell Coleman,Republican,58.01,752692.0,Pamela Stevenson,Democratic,41.99,544748.0,1297440.0,16.02,207944.0,16.03,race_article
+2023,Louisiana,LA,attorney general,2023 Louisiana Attorney General runoff,2023 Louisiana Attorney General election,1,Liz Murrill,Republican,66.37,444081.0,Lindsey Cheek,Democratic,33.63,225011.0,669092.0,32.74,219070.0,32.74,race_article
+2023,Mississippi,MS,attorney general,2023 Mississippi Attorney General election,2023 Mississippi Attorney General election,1,Lynn Fitch,Republican,58.07,470870.0,Greta Kemp Martin,Democratic,41.93,339948.0,810818.0,16.14,130922.0,16.15,race_article
+2023,Kentucky,KY,governor,2023 Kentucky gubernatorial election,2023 Kentucky gubernatorial election,1,Andy Beshear,Democratic,52.53,694482.0,Daniel Cameron,Republican,47.46,627457.0,1322022.0,5.07,67025.0,5.07,race_article
+2023,Mississippi,MS,governor,2023 Mississippi gubernatorial election,2023 Mississippi gubernatorial election,1,Tate Reeves,Republican,50.94,418233.0,Brandon Presley,Democratic,47.7,391614.0,821000.0,3.24,26619.0,3.24,race_article
+2023,Kentucky,KY,secretary of state,2023 Kentucky Secretary of State election,2023 Kentucky Secretary of State election,1,Michael Adams,Republican,60.6,785237.0,Buddy Wheatley,Democratic,39.36,510090.0,1295845.0,21.24,275147.0,21.23,race_article
+2023,Louisiana,LA,secretary of state,,,1,Nancy Landry,Republican,66.8,,Gwen Collins-Greenup,Democratic,33.2,,,33.6,,,overview_summary
+2023,Mississippi,MS,secretary of state,,,1,Michael Watson,Republican,59.5,,Ty Pinkins,Democratic,40.5,,,19.0,,,overview_summary
+2023,Kentucky,KY,state auditor,2023 Kentucky Auditor election results,2023 Kentucky Auditor election,1,Allison Ball,Republican,60.8,783217.0,Kim Reeder,Democratic,39.2,505924.0,1289141.0,21.6,277293.0,21.51,race_article
+2023,Mississippi,MS,state auditor,2023 Mississippi State Auditor election,2023 Mississippi State Auditor election,1,Shad White,Republican,58.65,474313.0,Larry Bradford,Democratic,41.35,334418.0,808731.0,17.3,139895.0,17.3,race_article
+2023,Kentucky,KY,state treasurer,,,1,Mark Metcalf,Republican,57.2,,Michael Bowman,Democratic,42.8,,,14.4,,,overview_summary
+2023,Louisiana,LA,state treasurer,,,1,John Fleming,Republican,65.4,,Dustin Granger,Democratic,34.6,,,30.8,,,overview_summary
+2023,Mississippi,MS,state treasurer,,,1,David McRae,Republican,58.4,,Addie Lee Green,Democratic,41.6,,,16.8,,,overview_summary

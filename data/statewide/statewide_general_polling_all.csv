@@ -8250,12 +8250,6 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2015,Mississippi,MS,governor,General,Public Policy Polling,2014-07-10 to 2014-07-13,2014-07-10,2014-07-13,691,Brandon Presley,D,26%,False,"July 10–13, 2014",Hypothetical,Phil Bryant vs. Jim Hood vs. Brandon Presley,3.7
 2015,Mississippi,MS,governor,General,Mason-Dixon,2015-04-21 to 2015-04-23,2015-04-21,2015-04-23,625,Valerie Short,D,28%,False,"April 21–23, 2015",Hypothetical,Phil Bryant vs. Valerie Short vs. Vicki Slater,4.0
 2015,Mississippi,MS,governor,General,Mason-Dixon,2015-04-21 to 2015-04-23,2015-04-21,2015-04-23,625,Vicki Slater,D,30%,False,"April 21–23, 2015",Hypothetical,Phil Bryant vs. Valerie Short vs. Vicki Slater,4.0
-2016,Indiana,IN,attorney general,General,Gravis Marketing,2016-10-30 to 2016-11-01,2016-10-30,2016-11-01,399,Curtis Hill,R,39%,False,"October 30 – November 1, 2016",General,,4.9
-2016,Indiana,IN,attorney general,General,Ball State Hoosier Survey,2016-10-10 to 2016-10-16,2016-10-10,2016-10-16,544,Curtis Hill,R,44%,False,"October 10–16, 2016",General,,4.8
-2016,Indiana,IN,attorney general,General,Gravis Marketing,2016-10-30 to 2016-11-01,2016-10-30,2016-11-01,399,Lorenzo Arredondo,D,29%,False,"October 30 – November 1, 2016",General,,4.9
-2016,Indiana,IN,attorney general,General,Ball State Hoosier Survey,2016-10-10 to 2016-10-16,2016-10-10,2016-10-16,544,Lorenzo Arredondo,D,32%,False,"October 10–16, 2016",General,,4.8
-2016,Indiana,IN,attorney general,General,Ball State Hoosier Survey,2016-10-10 to 2016-10-16,2016-10-10,2016-10-16,544,Glenda Ritz,D,45%,False,"October 10–16, 2016",General,,4.8
-2016,Indiana,IN,attorney general,General,Ball State Hoosier Survey,2016-10-10 to 2016-10-16,2016-10-10,2016-10-16,544,Jennifer McCormick,R,38%,False,"October 10–16, 2016",General,,4.8
 2016,Indiana,IN,governor,General,Real Clear Politics,2016-10-27 to 2016-11-03,2016-10-27,2016-11-03,,Eric Holcomb,R,40.7%,False,"October 27 – November 3, 2016",General,,
 2016,Indiana,IN,governor,General,SurveyMonkey,2016-11-01 to 2016-11-07,2016-11-01,2016-11-07,"1,700",Eric Holcomb,R,47%,False,"November 1–7, 2016",General,,4.6
 2016,Indiana,IN,governor,General,SurveyMonkey,2016-10-31 to 2016-11-06,2016-10-31,2016-11-06,"1,383",Eric Holcomb,R,46%,False,"October 31 – November 6, 2016",General,,4.6
@@ -8819,17 +8813,6 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2016,North Dakota,ND,governor,General,SurveyMonkey,2016-10-27 to 2016-11-02,2016-10-27,2016-11-02,260,Marvin Nelson,D,28%,False,"October 27–November 2, 2016",General,,4.6
 2016,North Dakota,ND,governor,General,SurveyMonkey,2016-10-26 to 2016-11-01,2016-10-26,2016-11-01,254,Marvin Nelson,D,30%,False,"October 26–November 1, 2016",General,,4.6
 2016,North Dakota,ND,governor,General,SurveyMonkey,2016-10-25 to 2016-10-31,2016-10-25,2016-10-31,279,Marvin Nelson,D,29%,False,"October 25–31, 2016",General,,4.6
-2016,Oregon,OR,attorney general,General,DHM Research,2016-10-25 to 2016-10-29,2016-10-25,2016-10-29,504,Brad Avakian,D,27%,False,"October 25–29, 2016",General,,4.4
-2016,Oregon,OR,attorney general,General,DHM Research,2016-10-06 to 2016-10-13,2016-10-06,2016-10-13,600,Brad Avakian,D,29%,False,"October 6–13, 2016",General,,4.0
-2016,Oregon,OR,attorney general,General,DHM Research,2016-09-02 to 2016-09-07,2016-09-02,2016-09-07,610,Brad Avakian,D,29%,False,"September 2–7, 2016",General,,4.0
-2016,Oregon,OR,attorney general,General,DHM Research,2016-07-09 to 2016-07-13,2016-07-09,2016-07-13,701,Brad Avakian,D,36%,False,"July 9–13, 2016",General,,3.71
-2016,Oregon,OR,attorney general,General,DHM Research,2016-10-25 to 2016-10-29,2016-10-25,2016-10-29,504,Dennis Richardson,R,32%,False,"October 25–29, 2016",General,,4.4
-2016,Oregon,OR,attorney general,General,DHM Research,2016-10-06 to 2016-10-13,2016-10-06,2016-10-13,600,Dennis Richardson,R,34%,False,"October 6–13, 2016",General,,4.0
-2016,Oregon,OR,attorney general,General,DHM Research,2016-09-02 to 2016-09-07,2016-09-02,2016-09-07,610,Dennis Richardson,R,26%,False,"September 2–7, 2016",General,,4.0
-2016,Oregon,OR,attorney general,General,DHM Research,2016-07-09 to 2016-07-13,2016-07-09,2016-07-13,701,Dennis Richardson,R,41%,False,"July 9–13, 2016",General,,3.71
-2016,Oregon,OR,attorney general,General,DHM Research,2016-10-25 to 2016-10-29,2016-10-25,2016-10-29,504,Paul Damian Wells,I,3%,False,"October 25–29, 2016",General,,4.4
-2016,Oregon,OR,attorney general,General,DHM Research,2016-10-06 to 2016-10-13,2016-10-06,2016-10-13,600,Paul Damian Wells,I,4%,False,"October 6–13, 2016",General,,4.0
-2016,Oregon,OR,attorney general,General,DHM Research,2016-09-02 to 2016-09-07,2016-09-02,2016-09-07,610,Paul Damian Wells,I,4%,False,"September 2–7, 2016",General,,4.0
 2016,Oregon,OR,governor,General,Real Clear Politics,2016-10-04 to 2016-10-29,2016-10-04,2016-10-29,,Kate Brown,D,45.5%,True,"October 4–29, 2016",General,,
 2016,Oregon,OR,governor,General,SurveyMonkey,2016-11-01 to 2016-11-07,2016-11-01,2016-11-07,"1,595",Kate Brown,D,56%,True,"November 1–7, 2016",General,,4.6
 2016,Oregon,OR,governor,General,SurveyMonkey,2016-10-31 to 2016-11-06,2016-10-31,2016-11-06,"1,483",Kate Brown,D,56%,True,"October 31 – November 6, 2016",General,,4.6
@@ -8904,9 +8887,16 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2016,Utah,UT,governor,General,Gravis Marketing,2016-05-31 to 2016-06-01,2016-05-31,2016-06-01,"1,519",Mike Weinholtz,D,29%,False,"May 31–June 1, 2016",Hypothetical,Jonathan Johnson vs. Mike Weinholtz,2.5
 2016,Utah,UT,governor,General,UtahPolicy,2015-03-30 to 2015-04-07,2015-03-30,2015-04-07,601,Gary Herbert,R,57%,True,"March 30–April 7, 2015",Hypothetical,Gary Herbert vs. Jim Matheson,4.0
 2016,Utah,UT,governor,General,UtahPolicy,2015-03-30 to 2015-04-07,2015-03-30,2015-04-07,601,Jim Matheson,D,33%,False,"March 30–April 7, 2015",Hypothetical,Gary Herbert vs. Jim Matheson,4.0
-2016,Vermont,VT,attorney general,General,RRH Elections,2016-10-24 to 2016-10-26,2016-10-24,2016-10-26,"1,052",Randy Brock,R,39%,False,"October 24–26, 2016",General,,3.0
-2016,Vermont,VT,attorney general,General,RRH Elections,2016-10-24 to 2016-10-26,2016-10-24,2016-10-26,"1,052",David Zuckerman (P/D),Unknown,40%,False,"October 24–26, 2016",General,,3.0
-2016,Vermont,VT,attorney general,General,RRH Elections,2016-10-24 to 2016-10-26,2016-10-24,2016-10-26,"1,052",Boots Wardinksi (LU),Unknown,1%,False,"October 24–26, 2016",General,,3.0
+2016,Washington,WA,insurance commissioner,General,Elway Poll,2016-10-20 to 2016-10-22,2016-10-20,2016-10-22,502 (RV),Mike Kreidler,D,44%,True,"October 20–22, 2016",General,,4.5
+2016,Washington,WA,insurance commissioner,General,Elway Poll,2016-10-20 to 2016-10-22,2016-10-20,2016-10-22,502 (RV),Richard Schrock,R,28%,False,"October 20–22, 2016",General,,4.5
+2016,Washington,WA,land commissioner,General,Elway Poll,2016-10-20 to 2016-10-22,2016-10-20,2016-10-22,502 (RV),Hilary Franz,D,36%,False,"October 20–22, 2016",General,,4.5
+2016,Washington,WA,land commissioner,General,Elway Poll,2016-08-09 to 2016-08-13,2016-08-09,2016-08-13,500 (RV),Hilary Franz,D,33%,False,"August 9–13, 2016",General,,4.5
+2016,Washington,WA,land commissioner,General,Elway Poll,2016-10-20 to 2016-10-22,2016-10-20,2016-10-22,502 (RV),Steve McLaughlin,R,31%,False,"October 20–22, 2016",General,,4.5
+2016,Washington,WA,land commissioner,General,Elway Poll,2016-08-09 to 2016-08-13,2016-08-09,2016-08-13,500 (RV),Steve McLaughlin,R,32%,False,"August 9–13, 2016",General,,4.5
+2016,Washington,WA,superintendent of public instruction,General,Elway Poll,2016-10-20 to 2016-10-22,2016-10-20,2016-10-22,502 (RV),Chris Reykdal,Unknown,17%,False,"October 20–22, 2016",General,,4.5
+2016,Washington,WA,superintendent of public instruction,General,Elway Poll,2016-08-09 to 2016-08-13,2016-08-09,2016-08-13,500 (RV),Chris Reykdal,Unknown,16%,False,"August 9–13, 2016",General,,4.5
+2016,Washington,WA,superintendent of public instruction,General,Elway Poll,2016-10-20 to 2016-10-22,2016-10-20,2016-10-22,502 (RV),Erin Jones,Unknown,18%,False,"October 20–22, 2016",General,,4.5
+2016,Washington,WA,superintendent of public instruction,General,Elway Poll,2016-08-09 to 2016-08-13,2016-08-09,2016-08-13,500 (RV),Erin Jones,Unknown,16%,False,"August 9–13, 2016",General,,4.5
 2016,Washington,WA,governor,General,Real Clear Politics,2016-10-06 to 2016-11-02,2016-10-06,2016-11-02,,Jay Inslee,D,50.7%,True,"October 6 – November 2, 2016",General,,
 2016,Washington,WA,governor,General,SurveyMonkey,2016-11-01 to 2016-11-07,2016-11-01,2016-11-07,"1,451",Jay Inslee,D,55%,True,"November 1–7, 2016",General,,4.6
 2016,Washington,WA,governor,General,SurveyMonkey,2016-11-04 to 2016-11-06,2016-11-04,2016-11-06,402,Jay Inslee,D,49%,True,"November 4–6, 2016",General,,4.9
@@ -9389,6 +9379,8 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2018,Arizona,AZ,attorney general,General,Data Orbital,2018-10-01 to 2018-10-03,2018-10-01,2018-10-03,550,Mark Brnovich,R,46%,True,"October 1–3, 2018",General,,4.2
 2018,Arizona,AZ,attorney general,General,OH Predictive Insights,2018-09-05 to 2018-09-06,2018-09-05,2018-09-06,597,January Contreras,D,36%,False,"September 5–6, 2018",General,,4.0
 2018,Arizona,AZ,attorney general,General,Data Orbital,2018-10-01 to 2018-10-03,2018-10-01,2018-10-03,550,January Contreras,D,33%,False,"October 1–3, 2018",General,,4.2
+2018,Arizona,AZ,superintendent of public instruction,General,OH Predictive Insights,2018-09-05 to 2018-09-06,2018-09-05,2018-09-06,597 (LV),Frank Riggs,R,41%,False,"September 5–6, 2018",General,,4.0
+2018,Arizona,AZ,superintendent of public instruction,General,OH Predictive Insights,2018-09-05 to 2018-09-06,2018-09-05,2018-09-06,597 (LV),Kathy Hoffman,D,39%,False,"September 5–6, 2018",General,,4.0
 2018,Arizona,AZ,governor,General,HarrisX,2018-11-03 to 2018-11-05,2018-11-03,2018-11-05,600,Doug Ducey,R,53%,True,"November 3–5, 2018",General,,4.0
 2018,Arizona,AZ,governor,General,HarrisX,2018-11-02 to 2018-11-04,2018-11-02,2018-11-04,600,Doug Ducey,R,55%,True,"November 2–4, 2018",General,,4.0
 2018,Arizona,AZ,governor,General,Emerson College,2018-11-01 to 2018-11-03,2018-11-01,2018-11-03,758,Doug Ducey,R,55%,True,"November 1–3, 2018",General,,3.7
@@ -9480,6 +9472,28 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2018,California,CA,attorney general,General,Gravis Marketing,2018-05-04 to 2018-05-05,2018-05-04,2018-05-05,525,Dave Jones,D,10%,False,"May 4–5, 2018",General,,
 2018,California,CA,attorney general,General,Gravis Marketing,2018-10-25 to 2018-10-26,2018-10-25,2018-10-26,743,Xavier Becerra,D,52%,True,"October 25–26, 2018",General,,3.6
 2018,California,CA,attorney general,General,Gravis Marketing,2018-10-25 to 2018-10-26,2018-10-25,2018-10-26,743,Steven Bailey,R,34%,False,"October 25–26, 2018",General,,3.6
+2018,California,CA,insurance commissioner,General,Thomas Partners Strategies,2018-10-25 to 2018-10-27,2018-10-25,2018-10-27,"1,068",Ricardo Lara,D,44%,False,"October 25–27, 2018",General,,3.5
+2018,California,CA,insurance commissioner,General,UC Berkeley,2018-10-19 to 2018-10-26,2018-10-19,2018-10-26,"1,339",Ricardo Lara,D,44%,False,"October 19–26, 2018",General,,4.0
+2018,California,CA,insurance commissioner,General,Thomas Partners Strategies,2018-10-12 to 2018-10-14,2018-10-12,2018-10-14,"1,068",Ricardo Lara,D,39%,False,"October 12–14, 2018",General,,3.5
+2018,California,CA,insurance commissioner,General,Thomas Partners Strategies,2018-09-28 to 2018-09-30,2018-09-28,2018-09-30,"1,068",Ricardo Lara,D,37%,False,"September 28–30, 2018",General,,3.5
+2018,California,CA,insurance commissioner,General,Thomas Partners Strategies,2018-09-21 to 2018-09-23,2018-09-21,2018-09-23,"1,068",Ricardo Lara,D,40%,False,"September 21–23, 2018",General,,3.5
+2018,California,CA,insurance commissioner,General,Thomas Partners Strategies,2018-09-14 to 2018-09-16,2018-09-14,2018-09-16,"1,040",Ricardo Lara,D,27%,False,"September 14–16, 2018",General,,3.5
+2018,California,CA,insurance commissioner,General,Thomas Partners Strategies,2018-09-07 to 2018-09-09,2018-09-07,2018-09-09,"1,227",Ricardo Lara,D,27%,False,"September 7–9, 2018",General,,3.3
+2018,California,CA,insurance commissioner,General,Thomas Partners Strategies,2018-10-25 to 2018-10-27,2018-10-25,2018-10-27,"1,068",Steve Poizner (NPP),Unknown,45%,False,"October 25–27, 2018",General,,3.5
+2018,California,CA,insurance commissioner,General,UC Berkeley,2018-10-19 to 2018-10-26,2018-10-19,2018-10-26,"1,339",Steve Poizner (NPP),Unknown,49%,False,"October 19–26, 2018",General,,4.0
+2018,California,CA,insurance commissioner,General,Thomas Partners Strategies,2018-10-12 to 2018-10-14,2018-10-12,2018-10-14,"1,068",Steve Poizner (NPP),Unknown,47%,False,"October 12–14, 2018",General,,3.5
+2018,California,CA,insurance commissioner,General,Thomas Partners Strategies,2018-09-28 to 2018-09-30,2018-09-28,2018-09-30,"1,068",Steve Poizner (NPP),Unknown,45%,False,"September 28–30, 2018",General,,3.5
+2018,California,CA,insurance commissioner,General,Thomas Partners Strategies,2018-09-21 to 2018-09-23,2018-09-21,2018-09-23,"1,068",Steve Poizner (NPP),Unknown,45%,False,"September 21–23, 2018",General,,3.5
+2018,California,CA,insurance commissioner,General,Thomas Partners Strategies,2018-09-14 to 2018-09-16,2018-09-14,2018-09-16,"1,040",Steve Poizner (NPP),Unknown,34%,False,"September 14–16, 2018",General,,3.5
+2018,California,CA,insurance commissioner,General,Thomas Partners Strategies,2018-09-07 to 2018-09-09,2018-09-07,2018-09-09,"1,227",Steve Poizner (NPP),Unknown,34%,False,"September 7–9, 2018",General,,3.3
+2018,California,CA,superintendent of public instruction,General,UC Berkeley,2018-10-19 to 2018-10-26,2018-10-19,2018-10-26,"1,339",Tony Thurmond,Unknown,36%,False,"October 19–26, 2018",General,,4.0
+2018,California,CA,superintendent of public instruction,General,Thomas Partners Strategies,2018-10-18 to 2018-10-20,2018-10-18,2018-10-20,"1,068",Tony Thurmond,Unknown,35%,False,"October 18–20, 2018",General,,3.5
+2018,California,CA,superintendent of public instruction,General,Thomas Partners Strategies,2018-10-05 to 2018-10-07,2018-10-05,2018-10-07,"1,068",Tony Thurmond,Unknown,28%,False,"October 5–7, 2018",General,,3.5
+2018,California,CA,superintendent of public instruction,General,Thomas Partners Strategies,2018-09-28 to 2018-09-30,2018-09-28,2018-09-30,"1,068",Tony Thurmond,Unknown,17%,False,"September 28–30, 2018",General,,3.5
+2018,California,CA,superintendent of public instruction,General,UC Berkeley,2018-10-19 to 2018-10-26,2018-10-19,2018-10-26,"1,339",Marshall Tuck,Unknown,48%,False,"October 19–26, 2018",General,,4.0
+2018,California,CA,superintendent of public instruction,General,Thomas Partners Strategies,2018-10-18 to 2018-10-20,2018-10-18,2018-10-20,"1,068",Marshall Tuck,Unknown,37%,False,"October 18–20, 2018",General,,3.5
+2018,California,CA,superintendent of public instruction,General,Thomas Partners Strategies,2018-10-05 to 2018-10-07,2018-10-05,2018-10-07,"1,068",Marshall Tuck,Unknown,30%,False,"October 5–7, 2018",General,,3.5
+2018,California,CA,superintendent of public instruction,General,Thomas Partners Strategies,2018-09-28 to 2018-09-30,2018-09-28,2018-09-30,"1,068",Marshall Tuck,Unknown,29%,False,"September 28–30, 2018",General,,3.5
 2018,California,CA,governor,General,Change Research,2018-11-02 to 2018-11-04,2018-11-02,2018-11-04,"1,108",Gavin Newsom,D,53%,False,"November 2–4, 2018",General,,
 2018,California,CA,governor,General,Research Co.,2018-11-01 to 2018-11-03,2018-11-01,2018-11-03,450,Gavin Newsom,D,58%,False,"November 1–3, 2018",General,,4.6
 2018,California,CA,governor,General,SurveyUSA,2018-11-01 to 2018-11-02,2018-11-01,2018-11-02,924,Gavin Newsom,D,53%,False,"November 1–2, 2018",General,,4.6
@@ -9638,6 +9652,16 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2018,Florida,FL,attorney general,General,Public Policy Polling,2018-04-10 to 2018-04-11,2018-04-10,2018-04-11,661,Frank White,R,32%,False,"April 10–11, 2018",Hypothetical,Frank White vs. Sean Shaw,
 2018,Florida,FL,attorney general,General,Anzalone Liszt Grove,2018-05-31 to 2018-06-06,2018-05-31,2018-06-06,"1,204",Sean Shaw,D,40%,False,"May 31 – June 6, 2018",Hypothetical,Frank White vs. Sean Shaw,
 2018,Florida,FL,attorney general,General,Public Policy Polling,2018-04-10 to 2018-04-11,2018-04-10,2018-04-11,661,Sean Shaw,D,33%,False,"April 10–11, 2018",Hypothetical,Frank White vs. Sean Shaw,
+2018,Florida,FL,agriculture commissioner,General,University of North Florida,2018-10-23 to 2018-10-26,2018-10-23,2018-10-26,"1,046",Matt Caldwell,R,41%,False,"October 23–26, 2018",General,,3.0
+2018,Florida,FL,agriculture commissioner,General,Cherry Communications,2018-09-19 to 2018-09-24,2018-09-19,2018-09-24,622,Matt Caldwell,R,37%,False,"September 19–24, 2018",General,,4.4
+2018,Florida,FL,agriculture commissioner,General,St. Pete Polls,2018-09-05 to 2018-09-06,2018-09-05,2018-09-06,"2,240",Matt Caldwell,R,45%,False,"September 5–6, 2018",General,,2.1
+2018,Florida,FL,agriculture commissioner,General,University of North Florida,2018-10-23 to 2018-10-26,2018-10-23,2018-10-26,"1,046",Nikki Fried,D,43%,False,"October 23–26, 2018",General,,3.0
+2018,Florida,FL,agriculture commissioner,General,Cherry Communications,2018-09-19 to 2018-09-24,2018-09-19,2018-09-24,622,Nikki Fried,D,42%,False,"September 19–24, 2018",General,,4.4
+2018,Florida,FL,agriculture commissioner,General,St. Pete Polls,2018-09-05 to 2018-09-06,2018-09-05,2018-09-06,"2,240",Nikki Fried,D,47%,False,"September 5–6, 2018",General,,2.1
+2018,Florida,FL,agriculture commissioner,General,Frederick Polls,2018-08-16 to 2018-08-20,2018-08-16,2018-08-20,500,Nikki Fried,D,42%,False,"August 16–20, 2018",Hypothetical,Nikki Fried vs. Denise Grimsley vs. Baxter Troutman,4.4
+2018,Florida,FL,agriculture commissioner,General,Frederick Polls,2018-08-16 to 2018-08-20,2018-08-16,2018-08-20,500,Nikki Fried,D,43%,False,"August 16–20, 2018",Hypothetical,Nikki Fried vs. Denise Grimsley vs. Baxter Troutman,4.4
+2018,Florida,FL,agriculture commissioner,General,Frederick Polls,2018-08-16 to 2018-08-20,2018-08-16,2018-08-20,500,Denise Grimsley,R,40%,False,"August 16–20, 2018",Hypothetical,Nikki Fried vs. Denise Grimsley vs. Baxter Troutman,4.4
+2018,Florida,FL,agriculture commissioner,General,Frederick Polls,2018-08-16 to 2018-08-20,2018-08-16,2018-08-20,500,Baxter Troutman,R,39%,False,"August 16–20, 2018",Hypothetical,Nikki Fried vs. Denise Grimsley vs. Baxter Troutman,4.4
 2018,Florida,FL,governor,General,The Trafalgar Group,2018-11-04 to 2018-11-05,2018-11-04,2018-11-05,"1,484",Ron DeSantis,R,50%,False,"November 4–5, 2018",General,,2.5
 2018,Florida,FL,governor,General,HarrisX,2018-11-03 to 2018-11-05,2018-11-03,2018-11-05,600,Ron DeSantis,R,46%,False,"November 3–5, 2018",General,,4.0
 2018,Florida,FL,governor,General,St. Pete Polls,2018-11-03 to 2018-11-04,2018-11-03,2018-11-04,"3,088",Ron DeSantis,R,45%,False,"November 3–4, 2018",General,,1.8
@@ -11598,6 +11622,8 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2020,Montana,MT,attorney general,General,Raph Graybill,2020-09-03,2020-09-03,2020-09-03,,Raph Graybill,D,38%,False,"Released September 3, 2020",General,,
 2020,Montana,MT,secretary of state,General,Bryce Bennett,2020-08-20 to 2020-08-26,2020-08-20,2020-08-26,,Christi Jacobsen,R,39%,False,"Released August 20–26, 2020",General,,4.4
 2020,Montana,MT,secretary of state,General,Bryce Bennett,2020-08-20 to 2020-08-26,2020-08-20,2020-08-26,,Bryce Bennett,D,36%,False,"Released August 20–26, 2020",General,,4.4
+2020,Montana,MT,superintendent of public instruction,General,Strategies 360,2020-10-15 to 2020-10-20,2020-10-15,2020-10-20,500 (LV),Elsie Arntzen,R,39%,True,"October 15–20, 2020",General,,4.4
+2020,Montana,MT,superintendent of public instruction,General,Strategies 360,2020-10-15 to 2020-10-20,2020-10-15,2020-10-20,500 (LV),Melissa Romano,D,41%,False,"October 15–20, 2020",General,,4.4
 2020,Montana,MT,governor,General,Change Research,2020-10-29 to 2020-11-02,2020-10-29,2020-11-02,920 (LV),Mike Cooney,D,44%,False,"October 29 – November 2, 2020",General,,3.5
 2020,Montana,MT,governor,General,Montana State University Billings,2020-10-19 to 2020-10-24,2020-10-19,2020-10-24,546 (LV),Mike Cooney,D,45%,False,"October 19–24, 2020",General,,4.2
 2020,Montana,MT,governor,General,Siena College,2020-10-18 to 2020-10-20,2020-10-18,2020-10-20,758 (LV),Mike Cooney,D,44%,False,"October 18–20, 2020",General,,4.4
@@ -12049,6 +12075,9 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2020,Puerto Rico,PR,governor,General,El Nuevo Día,2020-02-21 to 2020-02-25,2020-02-21,2020-02-25,"1,000 (RV)",Wanda Vázquez (PNP-R),Unknown,42%,False,"February 21–25, 2020",Hypothetical,Pedro Pierluisi (PNP-D) vs. Eduardo Bhatia (PPD-D) vs. Juan Dalmau Ramírez (PIP) vs. Alexandra Lúgaro (MVC) vs. Carmen Yulín Cruz (PPD-D) vs. Wanda Vázquez (PNP-R) vs. Charlie Delgado (PPD),3.1
 2020,Puerto Rico,PR,governor,General,Becaon Research,2020-07-20 to 2020-07-26,2020-07-20,2020-07-26,802 (V),Charlie Delgado (PPD),Unknown,23%,False,"July 20–26, 2020",Hypothetical,Pedro Pierluisi (PNP-D) vs. Eduardo Bhatia (PPD-D) vs. Juan Dalmau Ramírez (PIP) vs. Alexandra Lúgaro (MVC) vs. Wanda Vázquez (PNP-R) vs. Charlie Delgado (PPD),
 2020,Puerto Rico,PR,governor,General,El Nuevo Día,2020-02-21 to 2020-02-25,2020-02-21,2020-02-25,"1,000 (RV)",Charlie Delgado (PPD),Unknown,20%,False,"February 21–25, 2020",Hypothetical,Pedro Pierluisi (PNP-D) vs. Eduardo Bhatia (PPD-D) vs. Juan Dalmau Ramírez (PIP) vs. Alexandra Lúgaro (MVC) vs. Carmen Yulín Cruz (PPD-D) vs. Wanda Vázquez (PNP-R) vs. Charlie Delgado (PPD),3.1
+2020,South Dakota,SD,public utilities commission,General,Nielson Brothers Polling,2020-10-24 to 2020-10-28,2020-10-24,2020-10-28,469 (LV),Gary Hanson,R,50%,True,"October 24–28, 2020",General,,4.52
+2020,South Dakota,SD,public utilities commission,General,Nielson Brothers Polling,2020-10-24 to 2020-10-28,2020-10-24,2020-10-28,469 (LV),Remi Bald Eagle,D,30%,False,"October 24–28, 2020",General,,4.52
+2020,South Dakota,SD,public utilities commission,General,Nielson Brothers Polling,2020-10-24 to 2020-10-28,2020-10-24,2020-10-28,469 (LV),Devin Saxon,L,10%,False,"October 24–28, 2020",General,,4.52
 2020,Utah,UT,attorney general,General,Lighthouse Research,2020-08-31 to 2020-09-12,2020-08-31,2020-09-12,"2,000 (RV)",Sean Reyes,R,46%,True,"August 31 – September 12, 2020",General,,4.4
 2020,Utah,UT,attorney general,General,Lighthouse Research,2020-08-31 to 2020-09-12,2020-08-31,2020-09-12,"2,000 (RV)",Greg Skordas,D,25%,False,"August 31 – September 12, 2020",General,,4.4
 2020,Utah,UT,attorney general,General,Lighthouse Research,2020-08-31 to 2020-09-12,2020-08-31,2020-09-12,"2,000 (RV)",Rudy Bautista,L,5%,False,"August 31 – September 12, 2020",General,,4.4
@@ -12086,12 +12115,18 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2020,Washington,WA,attorney general,General,SurveyUSA,2020-10-08 to 2020-10-10,2020-10-08,2020-10-10,591 (LV),Bob Ferguson,D,49%,True,"October 8–10, 2020",General,,5.2
 2020,Washington,WA,attorney general,General,Public Policy Polling,2020-10-14 to 2020-10-15,2020-10-14,2020-10-15,610 (LV),Matt Larkin,R,39%,False,"October 14–15, 2020",General,,4.0
 2020,Washington,WA,attorney general,General,SurveyUSA,2020-10-08 to 2020-10-10,2020-10-08,2020-10-10,591 (LV),Matt Larkin,R,38%,False,"October 8–10, 2020",General,,5.2
+2020,Washington,WA,insurance commissioner,General,Public Policy Polling,2020-10-14 to 2020-10-15,2020-10-14,2020-10-15,610 (LV),Mike Kreidler,D,52%,True,"October 14–15, 2020",General,,4.0
+2020,Washington,WA,insurance commissioner,General,Public Policy Polling,2020-10-14 to 2020-10-15,2020-10-14,2020-10-15,610 (LV),Chirayu Avinash Patel,R,30%,False,"October 14–15, 2020",General,,4.0
+2020,Washington,WA,land commissioner,General,Public Policy Polling,2020-10-14 to 2020-10-15,2020-10-14,2020-10-15,610 (LV),Hilary Franz,D,49%,True,"October 14–15, 2020",General,,4.0
+2020,Washington,WA,land commissioner,General,Public Policy Polling,2020-10-14 to 2020-10-15,2020-10-14,2020-10-15,610 (LV),Sue Kuehl Pederson,R,36%,False,"October 14–15, 2020",General,,4.0
 2020,Washington,WA,secretary of state,General,Public Policy Polling,2020-10-14 to 2020-10-15,2020-10-14,2020-10-15,610 (LV),Kim Wyman,R,49%,True,"October 14–15, 2020",General,,4.0
 2020,Washington,WA,secretary of state,General,SurveyUSA,2020-10-08 to 2020-10-10,2020-10-08,2020-10-10,591 (LV),Kim Wyman,R,45%,True,"October 8–10, 2020",General,,5.2
 2020,Washington,WA,secretary of state,General,Public Policy Polling,2020-10-14 to 2020-10-15,2020-10-14,2020-10-15,610 (LV),Gael Tarleton,D,43%,False,"October 14–15, 2020",General,,4.0
 2020,Washington,WA,secretary of state,General,SurveyUSA,2020-10-08 to 2020-10-10,2020-10-08,2020-10-10,591 (LV),Gael Tarleton,D,40%,False,"October 8–10, 2020",General,,5.2
 2020,Washington,WA,state treasurer,General,Public Policy Polling,2020-10-14 to 2020-10-15,2020-10-14,2020-10-15,610 (LV),Duane Davidson,R,36%,True,"October 14–15, 2020",General,,4.0
 2020,Washington,WA,state treasurer,General,Public Policy Polling,2020-10-14 to 2020-10-15,2020-10-14,2020-10-15,610 (LV),Mike Pellicciotti,D,46%,False,"October 14–15, 2020",General,,4.0
+2020,Washington,WA,superintendent of public instruction,General,Public Policy Polling,2020-10-14 to 2020-10-15,2020-10-14,2020-10-15,610 (LV),Chris Rekydal,Unknown,30%,False,"October 14–15, 2020",General,,4.0
+2020,Washington,WA,superintendent of public instruction,General,Public Policy Polling,2020-10-14 to 2020-10-15,2020-10-14,2020-10-15,610 (LV),Maia Espinoza,Unknown,23%,False,"October 14–15, 2020",General,,4.0
 2020,Washington,WA,governor,General,Swayable,2020-10-23 to 2020-11-01,2020-10-23,2020-11-01,474 (LV),Jay Inslee,D,59%,True,"October 23 – November 1, 2020",General,,6.0
 2020,Washington,WA,governor,General,Public Policy Polling (D),2020-10-14 to 2020-10-15,2020-10-14,2020-10-15,615 (LV),Jay Inslee,D,56%,True,"October 14–15, 2020",General,,4.0
 2020,Washington,WA,governor,General,SurveyUSA,2020-10-08 to 2020-10-10,2020-10-08,2020-10-10,591 (LV),Jay Inslee,D,54%,True,"October 8–10, 2020",General,,5.2
@@ -12438,6 +12473,14 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2022,Arizona,AZ,secretary of state,General,OH Predictive Insights,2021-09-07 to 2021-09-12,2021-09-07,2021-09-12,882 (RV),Generic Republican,Unknown,37%,False,"September 7–12, 2021",Hypothetical,Generic Democrat vs. generic Republican,3.3
 2022,Arizona,AZ,state treasurer,General,BSP Research,2022-10-19 to 2022-10-26,2022-10-19,2022-10-26,"1,000 (RV)",Kimberly Yee,R,41%,True,"October 19–26, 2022",General,,3.1
 2022,Arizona,AZ,state treasurer,General,BSP Research,2022-10-19 to 2022-10-26,2022-10-19,2022-10-26,"1,000 (RV)",Martin Quezada,D,29%,False,"October 19–26, 2022",General,,3.1
+2022,Arizona,AZ,superintendent of public instruction,General,Data Orbital,2022-11-04 to 2022-11-06,2022-11-04,2022-11-06,550 (LV),Kathy Hoffman,D,44%,True,"November 4–6, 2022",General,,4.3
+2022,Arizona,AZ,superintendent of public instruction,General,HighGround Inc.,2022-11-01 to 2022-11-02,2022-11-01,2022-11-02,500 (LV),Kathy Hoffman,D,41%,True,"November 1–2, 2022",General,,4.4
+2022,Arizona,AZ,superintendent of public instruction,General,Data Orbital,2022-10-17 to 2022-10-19,2022-10-17,2022-10-19,550 (LV),Kathy Hoffman,D,43%,True,"October 17–19, 2022",General,,4.3
+2022,Arizona,AZ,superintendent of public instruction,General,HighGround Inc.,2022-10-12 to 2022-10-13,2022-10-12,2022-10-13,500 (LV),Kathy Hoffman,D,40%,True,"October 12–13, 2022",General,,4.4
+2022,Arizona,AZ,superintendent of public instruction,General,Data Orbital,2022-11-04 to 2022-11-06,2022-11-04,2022-11-06,550 (LV),Tom Horne,R,49%,False,"November 4–6, 2022",General,,4.3
+2022,Arizona,AZ,superintendent of public instruction,General,HighGround Inc.,2022-11-01 to 2022-11-02,2022-11-01,2022-11-02,500 (LV),Tom Horne,R,46%,False,"November 1–2, 2022",General,,4.4
+2022,Arizona,AZ,superintendent of public instruction,General,Data Orbital,2022-10-17 to 2022-10-19,2022-10-17,2022-10-19,550 (LV),Tom Horne,R,45%,False,"October 17–19, 2022",General,,4.3
+2022,Arizona,AZ,superintendent of public instruction,General,HighGround Inc.,2022-10-12 to 2022-10-13,2022-10-12,2022-10-13,500 (LV),Tom Horne,R,43%,False,"October 12–13, 2022",General,,4.4
 2022,Arizona,AZ,governor,General,RealClearPolitics,2022-11-01 to 2022-11-07,2022-11-01,2022-11-07,,Kari Lake,R,50.8%,False,"November 1–7, 2022",General,,
 2022,Arizona,AZ,governor,General,FiveThirtyEight,2022-10-17 to 2022-11-08,2022-10-17,2022-11-08,,Kari Lake,R,49.5%,False,"October 17 – November 8, 2022",General,,
 2022,Arizona,AZ,governor,General,270ToWin,2022-11-03 to 2022-11-07,2022-11-03,2022-11-07,,Kari Lake,R,48.9%,False,"November 3–7, 2022",General,,
@@ -12602,10 +12645,14 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2022,Arkansas,AR,governor,General,University of Arkansas,2021-10-12 to 2021-10-24,2021-10-12,2021-10-24,800 (A),Generic Republican,Unknown,46%,False,"October 12–24, 2021",Hypothetical,Generic Republican vs. generic Democrat,3.5
 2022,California,CA,attorney general,General,USC,2022-10-30 to 2022-11-02,2022-10-30,2022-11-02,802 (RV),Rob Bonta,D,60%,True,"October 30 – November 2, 2022",General,,3.5
 2022,California,CA,attorney general,General,USC,2022-10-30 to 2022-11-02,2022-10-30,2022-11-02,802 (RV),Nathan Hochman,R,40%,False,"October 30 – November 2, 2022",General,,3.5
+2022,California,CA,insurance commissioner,General,USC,2022-10-30 to 2022-11-02,2022-10-30,2022-11-02,802 (RV),Ricardo Lara,D,62%,True,"October 30 – November 2, 2022",General,,3.5
+2022,California,CA,insurance commissioner,General,USC,2022-10-30 to 2022-11-02,2022-10-30,2022-11-02,802 (RV),Robert Howell,R,38%,False,"October 30 – November 2, 2022",General,,3.5
 2022,California,CA,secretary of state,General,USC,2022-10-30 to 2022-11-02,2022-10-30,2022-11-02,802 (RV),Shirley Weber,D,63%,True,"October 30 – November 2, 2022",General,,3.5
 2022,California,CA,secretary of state,General,USC,2022-10-30 to 2022-11-02,2022-10-30,2022-11-02,802 (RV),Rob Bernosky,R,37%,False,"October 30 – November 2, 2022",General,,3.5
 2022,California,CA,state treasurer,General,USC,2022-10-30 to 2022-11-02,2022-10-30,2022-11-02,802 (RV),Fiona Ma,D,63%,True,"October 30 – November 2, 2022",General,,3.5
 2022,California,CA,state treasurer,General,USC,2022-10-30 to 2022-11-02,2022-10-30,2022-11-02,802 (RV),Jack Guerrero,R,37%,False,"October 30 – November 2, 2022",General,,3.5
+2022,California,CA,superintendent of public instruction,General,USC,2022-10-30 to 2022-11-02,2022-10-30,2022-11-02,802 (RV),Tony Thurmond,Unknown,64%,True,"October 30 – November 2, 2022",General,,3.5
+2022,California,CA,superintendent of public instruction,General,USC,2022-10-30 to 2022-11-02,2022-10-30,2022-11-02,802 (RV),Lance Christensen,Unknown,36%,False,"October 30 – November 2, 2022",General,,3.5
 2022,California,CA,governor,General,RealClearPolitics,2022-09-22 to 2022-10-23,2022-09-22,2022-10-23,,Gavin Newsom,D,55.0%,True,"September 22 – October 23, 2022",General,,
 2022,California,CA,governor,General,FiveThirtyEight,2022-09-02 to 2022-11-08,2022-09-02,2022-11-08,,Gavin Newsom,D,59.6%,True,"September 2 – November 8, 2022",General,,
 2022,California,CA,governor,General,270ToWin,2022-10-27 to 2022-11-07,2022-10-27,2022-11-07,,Gavin Newsom,D,57.4%,True,"October 27 – November 7, 2022",General,,
@@ -12755,6 +12802,10 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2022,Florida,FL,attorney general,General,Siena College,2022-09-18 to 2022-09-25,2022-09-18,2022-09-25,669 (LV),Aramis Ayala,D,34%,False,"September 18–25, 2022",General,,4.5
 2022,Florida,FL,attorney general,General,Data for Progress,2020-09-15 to 2020-09-22,2020-09-15,2020-09-22,620 (LV),Ashley Moody,R,40%,True,"September 15–22, 2020",Hypothetical,Ashley Moody vs. generic Democrat,3.9
 2022,Florida,FL,attorney general,General,Data for Progress,2020-09-15 to 2020-09-22,2020-09-15,2020-09-22,620 (LV),Generic Democrat,Unknown,42%,False,"September 15–22, 2020",Hypothetical,Ashley Moody vs. generic Democrat,3.9
+2022,Florida,FL,agriculture commissioner,General,University of North Florida,2022-10-17 to 2022-10-24,2022-10-17,2022-10-24,622 (LV),Naomi Esther Blemur,D,39%,False,"October 17–24, 2022",General,,4.7
+2022,Florida,FL,agriculture commissioner,General,Mason-Dixon Polling & Strategy,2022-09-26 to 2022-09-28,2022-09-26,2022-09-28,800 (LV),Naomi Esther Blemur,D,34%,False,"September 26–28, 2022",General,,3.5
+2022,Florida,FL,agriculture commissioner,General,University of North Florida,2022-10-17 to 2022-10-24,2022-10-17,2022-10-24,622 (LV),Wilton Simpson,R,44%,False,"October 17–24, 2022",General,,4.7
+2022,Florida,FL,agriculture commissioner,General,Mason-Dixon Polling & Strategy,2022-09-26 to 2022-09-28,2022-09-26,2022-09-28,800 (LV),Wilton Simpson,R,47%,False,"September 26–28, 2022",General,,3.5
 2022,Florida,FL,governor,General,Real Clear Politics,2022-10-17 to 2022-11-06,2022-10-17,2022-11-06,,Ron DeSantis,R,54.4%,True,"October 17 – November 6, 2022",General,,
 2022,Florida,FL,governor,General,FiveThirtyEight,2022-10-30 to 2022-11-07,2022-10-30,2022-11-07,,Ron DeSantis,R,54.5%,True,"October 30, 2022 – November 7, 2022",General,,
 2022,Florida,FL,governor,General,270 to win,2022-11-04 to 2022-11-07,2022-11-04,2022-11-07,,Ron DeSantis,R,54.0%,True,"November 4–7, 2022",General,,
@@ -13795,6 +13846,10 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2022,New Mexico,NM,attorney general,General,SurveyUSA,2022-09-08 to 2022-09-12,2022-09-08,2022-09-12,558 (LV),Jeremy Gay,R,34%,False,"September 8–12, 2022",General,,5.7
 2022,New Mexico,NM,attorney general,General,Research & Polling Inc.,2022-08-19 to 2022-08-25,2022-08-19,2022-08-25,518 (LV),Jeremy Gay,R,33%,False,"August 19–25, 2022",General,,4.3
 2022,New Mexico,NM,attorney general,General,Public Policy Polling,2022-06-13 to 2022-06-14,2022-06-13,2022-06-14,642 (V),Jeremy Gay,R,37%,False,"June 13–14, 2022",General,,3.9
+2022,New Mexico,NM,land commissioner,General,Research & Polling Inc.,2022-10-20 to 2022-10-27,2022-10-20,2022-10-27,625 (LV),Stephanie Garcia Richard,D,46%,True,"October 20–27, 2022",General,,3.9
+2022,New Mexico,NM,land commissioner,General,Research & Polling Inc.,2022-08-19 to 2022-08-25,2022-08-19,2022-08-25,518 (LV),Stephanie Garcia Richard,D,46%,True,"August 19–25, 2022",General,,4.3
+2022,New Mexico,NM,land commissioner,General,Research & Polling Inc.,2022-10-20 to 2022-10-27,2022-10-20,2022-10-27,625 (LV),Jefferson Boyd,R,38%,False,"October 20–27, 2022",General,,3.9
+2022,New Mexico,NM,land commissioner,General,Research & Polling Inc.,2022-08-19 to 2022-08-25,2022-08-19,2022-08-25,518 (LV),Jefferson Boyd,R,35%,False,"August 19–25, 2022",General,,4.3
 2022,New Mexico,NM,secretary of state,General,Research & Polling Inc.,2022-10-20 to 2022-10-27,2022-10-20,2022-10-27,625 (LV),Maggie Toulouse Oliver,D,50%,True,"October 20–27, 2022",General,,3.9
 2022,New Mexico,NM,secretary of state,General,SurveyUSA,2022-10-21 to 2022-10-26,2022-10-21,2022-10-26,650 (LV),Maggie Toulouse Oliver,D,43%,True,"October 21–26, 2022",General,,4.9
 2022,New Mexico,NM,secretary of state,General,SurveyUSA,2022-10-01 to 2022-10-06,2022-10-01,2022-10-06,570 (LV),Maggie Toulouse Oliver,D,47%,True,"October 1–6, 2022",General,,5.8
@@ -13895,12 +13950,12 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2022,New York,NY,attorney general,General,Emerson College,2022-03-09 to 2022-03-10,2022-03-09,2022-03-10,"1,000 (RV)",Generic Democrat,Unknown,36%,False,"March 9–10, 2022",Hypothetical,Generic Democrat vs. generic Republican with Andrew Cuomo as an independent,3.0
 2022,New York,NY,attorney general,General,Emerson College,2022-03-09 to 2022-03-10,2022-03-09,2022-03-10,"1,000 (RV)",Generic Republican,Unknown,34%,False,"March 9–10, 2022",Hypothetical,Generic Democrat vs. generic Republican with Andrew Cuomo as an independent,3.0
 2022,New York,NY,attorney general,General,Emerson College,2022-03-09 to 2022-03-10,2022-03-09,2022-03-10,"1,000 (RV)",Andrew Cuomo,I,13%,False,"March 9–10, 2022",Hypothetical,Generic Democrat vs. generic Republican with Andrew Cuomo as an independent,3.0
-2022,New York State,NY,state treasurer,General,Siena College,2022-10-12 to 2022-10-14,2022-10-12,2022-10-14,707 (LV),Thomas DiNapoli,D,54%,True,"October 12–14, 2022",General,,4.9
-2022,New York State,NY,state treasurer,General,Siena College,2022-09-16 to 2022-09-25,2022-09-16,2022-09-25,655 (LV),Thomas DiNapoli,D,52%,True,"September 16–25, 2022",General,,3.9
-2022,New York State,NY,state treasurer,General,Siena College,2022-07-24 to 2022-07-28,2022-07-24,2022-07-28,806 (LV),Thomas DiNapoli,D,51%,True,"July 24–28, 2022",General,,3.5
-2022,New York State,NY,state treasurer,General,Siena College,2022-10-12 to 2022-10-14,2022-10-12,2022-10-14,707 (LV),Paul Rodríguez,R,30%,False,"October 12–14, 2022",General,,4.9
-2022,New York State,NY,state treasurer,General,Siena College,2022-09-16 to 2022-09-25,2022-09-16,2022-09-25,655 (LV),Paul Rodríguez,R,29%,False,"September 16–25, 2022",General,,3.9
-2022,New York State,NY,state treasurer,General,Siena College,2022-07-24 to 2022-07-28,2022-07-24,2022-07-28,806 (LV),Paul Rodríguez,R,30%,False,"July 24–28, 2022",General,,3.5
+2022,New York,NY,state treasurer,General,Siena College,2022-10-12 to 2022-10-14,2022-10-12,2022-10-14,707 (LV),Thomas DiNapoli,D,54%,True,"October 12–14, 2022",General,,4.9
+2022,New York,NY,state treasurer,General,Siena College,2022-09-16 to 2022-09-25,2022-09-16,2022-09-25,655 (LV),Thomas DiNapoli,D,52%,True,"September 16–25, 2022",General,,3.9
+2022,New York,NY,state treasurer,General,Siena College,2022-07-24 to 2022-07-28,2022-07-24,2022-07-28,806 (LV),Thomas DiNapoli,D,51%,True,"July 24–28, 2022",General,,3.5
+2022,New York,NY,state treasurer,General,Siena College,2022-10-12 to 2022-10-14,2022-10-12,2022-10-14,707 (LV),Paul Rodríguez,R,30%,False,"October 12–14, 2022",General,,4.9
+2022,New York,NY,state treasurer,General,Siena College,2022-09-16 to 2022-09-25,2022-09-16,2022-09-25,655 (LV),Paul Rodríguez,R,29%,False,"September 16–25, 2022",General,,3.9
+2022,New York,NY,state treasurer,General,Siena College,2022-07-24 to 2022-07-28,2022-07-24,2022-07-28,806 (LV),Paul Rodríguez,R,30%,False,"July 24–28, 2022",General,,3.5
 2022,New York,NY,governor,General,Real Clear Politics,2022-10-26 to 2022-10-31,2022-10-26,2022-10-31,,Kathy Hochul,D,52.0%,True,"October 26–31, 2022",General,,
 2022,New York,NY,governor,General,FiveThirtyEight,2022-10-20 to 2022-11-08,2022-10-20,2022-11-08,,Kathy Hochul,D,51.7%,True,"October 20 – November 8, 2022",General,,
 2022,New York,NY,governor,General,Research Co.,2022-11-04 to 2022-11-06,2022-11-04,2022-11-06,450 (LV),Kathy Hochul,D,49%,True,"November 4–6, 2022",General,,4.6
@@ -14511,6 +14566,10 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2022,Texas,TX,attorney general,General,YouGov,2022-03-18 to 2022-03-28,2022-03-18,2022-03-28,"1,139 (LV)",Ken Paxton,R,48%,True,"March 18–28, 2022",Hypothetical,Ken Paxton vs. Joe Jaworski,2.6
 2022,Texas,TX,attorney general,General,Data for Progress,2020-09-15 to 2020-09-22,2020-09-15,2020-09-22,726 (LV),Ken Paxton,R,41%,True,"September 15–22, 2020",Hypothetical,Ken Paxton vs. Justin Nelson,3.6
 2022,Texas,TX,attorney general,General,Data for Progress,2020-09-15 to 2020-09-22,2020-09-15,2020-09-22,726 (LV),Justin Nelson,D,37%,False,"September 15–22, 2020",Hypothetical,Ken Paxton vs. Justin Nelson,3.6
+2022,Texas,TX,state treasurer,General,Texas Hispanic Policy Foundation,2022-09-06 to 2022-09-15,2022-09-06,2022-09-15,"1,172 (LV)",Glenn Hegar,R,46%,True,"September 6–15, 2022",General,,2.9
+2022,Texas,TX,state treasurer,General,Texas Hispanic Policy Foundation,2022-09-06 to 2022-09-15,2022-09-06,2022-09-15,"1,172 (LV)",Janet Dudding,D,38%,False,"September 6–15, 2022",General,,2.9
+2022,Texas,TX,land commissioner,General,Texas Hispanic Policy Foundation,2022-09-06 to 2022-09-15,2022-09-06,2022-09-15,"1,172 (LV)",Dawn Buckingham,R,46%,False,"September 6–15, 2022",General,,2.9
+2022,Texas,TX,land commissioner,General,Texas Hispanic Policy Foundation,2022-09-06 to 2022-09-15,2022-09-06,2022-09-15,"1,172 (LV)",Jay Kleberg,D,38%,False,"September 6–15, 2022",General,,2.9
 2022,Texas,TX,governor,General,Real Clear Politics,2022-10-03 to 2022-10-19,2022-10-03,2022-10-19,,Greg Abbott,R,52.8%,True,"October 3–19, 2022",General,,
 2022,Texas,TX,governor,General,FiveThirtyEight,2021-06-14 to 2022-10-25,2021-06-14,2022-10-25,,Greg Abbott,R,51.4%,True,"June 14, 2021 – October 25, 2022",General,,
 2022,Texas,TX,governor,General,CWS Research,2022-11-02 to 2022-11-05,2022-11-02,2022-11-05,786 (LV),Greg Abbott,R,53%,True,"November 2–5, 2022",General,,3.5
@@ -14959,6 +15018,10 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2024,Montana,MT,attorney general,General,Public Opinion Strategies,2024-06-11 to 2024-06-13,2024-06-11,2024-06-13,500 (LV),Ben Alke,D,33%,False,"June 11–13, 2024",General,,4.4
 2024,Montana,MT,secretary of state,General,Public Opinion Strategies,2024-09-29 to 2024-10-01,2024-09-29,2024-10-01,500 (LV),Christi Jacobsen,R,48%,True,"September 29 - October 1, 2024",General,,4.34
 2024,Montana,MT,secretary of state,General,Public Opinion Strategies,2024-09-29 to 2024-10-01,2024-09-29,2024-10-01,500 (LV),Jesse Mullen,D,31%,False,"September 29 - October 1, 2024",General,,4.34
+2024,Montana,MT,state auditor,General,Montana Republican Party,2024-09-29 to 2024-10-01,2024-09-29,2024-10-01,500 (LV),James Brown,R,49%,False,"September 29 - October 1, 2024",General,,4.34
+2024,Montana,MT,state auditor,General,Montana Republican Party,2024-09-29 to 2024-10-01,2024-09-29,2024-10-01,500 (LV),John Repke,D,33%,False,"September 29 - October 1, 2024",General,,4.34
+2024,Montana,MT,superintendent of public instruction,General,Public Opinion Strategies,2024-09-29 to 2024-10-01,2024-09-29,2024-10-01,500 (LV),Susie Hedalen,R,43%,False,"September 29 - October 1, 2024",General,,4.34
+2024,Montana,MT,superintendent of public instruction,General,Public Opinion Strategies,2024-09-29 to 2024-10-01,2024-09-29,2024-10-01,500 (LV),Shannon O'Brien,D,36%,False,"September 29 - October 1, 2024",General,,4.34
 2024,Montana,MT,governor,General,Montana State University,2024-09-30 to 2024-10-16,2024-09-30,2024-10-16,760 (A),Greg Gianforte,R,50%,True,"September 30 – October 16, 2024",General,,3.56
 2024,Montana,MT,governor,General,The New York Times,2024-10-05 to 2024-10-08,2024-10-05,2024-10-08,656 (LV),Greg Gianforte,R,57%,True,"October 5–8, 2024",General,,4.3
 2024,Montana,MT,governor,General,Public Opinion Strategies,2024-09-29 to 2024-10-01,2024-09-29,2024-10-01,500 (LV),Greg Gianforte,R,55%,True,"September 29 – October 1, 2024",General,,4.34
@@ -15047,6 +15110,19 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2024,North Carolina,NC,secretary of state,General,Cygnal,2024-10-12 to 2024-10-14,2024-10-12,2024-10-14,600 (LV),Chad Brown,R,43%,False,"October 12–14, 2024",General,,4.0
 2024,North Carolina,NC,secretary of state,General,ActiVote,2024-08-20 to 2024-09-22,2024-08-20,2024-09-22,400 (LV),Chad Brown,R,49%,False,"August 20 – September 22, 2024",General,,4.9
 2024,North Carolina,NC,secretary of state,General,Cygnal,2024-09-15 to 2024-09-16,2024-09-15,2024-09-16,600 (LV),Chad Brown,R,42%,False,"September 15–16, 2024",General,,3.99
+2024,North Carolina,NC,state auditor,General,The Carolina Journal,2024-10-12 to 2024-10-14,2024-10-12,2024-10-14,600 (LV),Jessica Holmes,D,40.1%,True,"October 12–14, 2024",General,,3.99
+2024,North Carolina,NC,state auditor,General,ActiVote,2024-08-20 to 2024-09-22,2024-08-20,2024-09-22,400 (LV),Jessica Holmes,D,51%,True,"August 20 – September 22, 2024",General,,4.9
+2024,North Carolina,NC,state auditor,General,Cygnal (R),2024-09-15 to 2024-09-16,2024-09-15,2024-09-16,600 (LV),Jessica Holmes,D,38%,True,"September 15–16, 2024",General,,3.99
+2024,North Carolina,NC,state auditor,General,YouGov,2024-08-05 to 2024-08-09,2024-08-05,2024-08-09,802 (RV),Jessica Holmes,D,41%,True,"August 5–9, 2024",General,,3.9
+2024,North Carolina,NC,state auditor,General,Cygnal (R),2024-08-04 to 2024-08-05,2024-08-04,2024-08-05,600 (LV),Jessica Holmes,D,35%,True,"August 4–5, 2024",General,,3.99
+2024,North Carolina,NC,state auditor,General,The Carolina Journal,2024-10-12 to 2024-10-14,2024-10-12,2024-10-14,600 (LV),Dave Boliek,R,40.4%,False,"October 12–14, 2024",General,,3.99
+2024,North Carolina,NC,state auditor,General,ActiVote,2024-08-20 to 2024-09-22,2024-08-20,2024-09-22,400 (LV),Dave Boliek,R,49%,False,"August 20 – September 22, 2024",General,,4.9
+2024,North Carolina,NC,state auditor,General,Cygnal (R),2024-09-15 to 2024-09-16,2024-09-15,2024-09-16,600 (LV),Dave Boliek,R,39%,False,"September 15–16, 2024",General,,3.99
+2024,North Carolina,NC,state auditor,General,YouGov,2024-08-05 to 2024-08-09,2024-08-05,2024-08-09,802 (RV),Dave Boliek,R,37%,False,"August 5–9, 2024",General,,3.9
+2024,North Carolina,NC,state auditor,General,Cygnal (R),2024-08-04 to 2024-08-05,2024-08-04,2024-08-05,600 (LV),Dave Boliek,R,36%,False,"August 4–5, 2024",General,,3.99
+2024,North Carolina,NC,state auditor,General,The Carolina Journal,2024-10-12 to 2024-10-14,2024-10-12,2024-10-14,600 (LV),Bob Drach,L,3%,False,"October 12–14, 2024",General,,3.99
+2024,North Carolina,NC,state auditor,General,Cygnal (R),2024-09-15 to 2024-09-16,2024-09-15,2024-09-16,600 (LV),Bob Drach,L,3%,False,"September 15–16, 2024",General,,3.99
+2024,North Carolina,NC,state auditor,General,Cygnal (R),2024-08-04 to 2024-08-05,2024-08-04,2024-08-05,600 (LV),Bob Drach,L,4%,False,"August 4–5, 2024",General,,3.99
 2024,North Carolina,NC,state treasurer,General,ActiVote,2024-10-08 to 2024-10-26,2024-10-08,2024-10-26,400 (LV),Brad Briner,R,49%,False,"October 8–26, 2024",General,,4.9
 2024,North Carolina,NC,state treasurer,General,Cygnal,2024-10-12 to 2024-10-14,2024-10-12,2024-10-14,600 (LV),Brad Briner,R,43%,False,"October 12–14, 2024",General,,3.99
 2024,North Carolina,NC,state treasurer,General,ActiVote,2024-08-20 to 2024-09-22,2024-08-20,2024-09-22,400 (LV),Brad Briner,R,50%,False,"August 20 – September 22, 2024",General,,4.9
@@ -15270,6 +15346,18 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2024,North Carolina,NC,governor,General,Cygnal (R),2023-05-12 to 2023-05-23,2023-05-12,2023-05-23,610 (LV),Mark Walker,R,37%,False,"May 12–23, 2023",Hypothetical,Josh Stein vs. Mark Walker,4.0
 2024,North Carolina,NC,governor,General,High Point University,2024-02-16 to 2024-02-23,2024-02-16,2024-02-23,753 (LV),Generic Democrat,Unknown,46%,False,"February 16–23, 2024",Hypothetical,Generic Democrat vs. generic Republican,3.9
 2024,North Carolina,NC,governor,General,High Point University,2024-02-16 to 2024-02-23,2024-02-16,2024-02-23,753 (LV),Generic Republican,Unknown,45%,False,"February 16–23, 2024",Hypothetical,Generic Democrat vs. generic Republican,3.9
+2024,North Carolina,NC,judicial,General,ActiVote,2024-10-08 to 2024-10-26,2024-10-08,2024-10-26,400 (LV),Carolyn Thompson,Unknown,48%,False,"October 8–26, 2024",General,,4.9
+2024,North Carolina,NC,judicial,General,ActiVote,2024-08-20 to 2024-09-22,2024-08-20,2024-09-22,400 (LV),Carolyn Thompson,Unknown,49%,False,"August 20 – September 22, 2024",General,,4.9
+2024,North Carolina,NC,judicial,General,ActiVote,2024-10-08 to 2024-10-26,2024-10-08,2024-10-26,400 (LV),Tom Murry,Unknown,52%,False,"October 8–26, 2024",General,,4.9
+2024,North Carolina,NC,judicial,General,ActiVote,2024-08-20 to 2024-09-22,2024-08-20,2024-09-22,400 (LV),Tom Murry,Unknown,51%,False,"August 20 – September 22, 2024",General,,4.9
+2024,North Carolina,NC,judicial,General,ActiVote,2024-10-08 to 2024-10-26,2024-10-08,2024-10-26,400 (LV),Valerie Zachary,Unknown,52%,False,"October 8–26, 2024",General,,4.9
+2024,North Carolina,NC,judicial,General,ActiVote,2024-08-20 to 2024-09-22,2024-08-20,2024-09-22,400 (LV),Valerie Zachary,Unknown,53%,False,"August 20 – September 22, 2024",General,,4.9
+2024,North Carolina,NC,judicial,General,ActiVote,2024-10-08 to 2024-10-26,2024-10-08,2024-10-26,400 (LV),Ed Eldred,Unknown,48%,False,"October 8–26, 2024",General,,4.9
+2024,North Carolina,NC,judicial,General,ActiVote,2024-08-20 to 2024-09-22,2024-08-20,2024-09-22,400 (LV),Ed Eldred,Unknown,47%,False,"August 20 – September 22, 2024",General,,4.9
+2024,North Carolina,NC,judicial,General,ActiVote,2024-10-08 to 2024-10-26,2024-10-08,2024-10-26,400 (LV),Chris Freeman,Unknown,53%,False,"October 8–26, 2024",General,,4.9
+2024,North Carolina,NC,judicial,General,ActiVote,2024-08-20 to 2024-09-22,2024-08-20,2024-09-22,400 (LV),Chris Freeman,Unknown,52%,False,"August 20 – September 22, 2024",General,,4.9
+2024,North Carolina,NC,judicial,General,ActiVote,2024-10-08 to 2024-10-26,2024-10-08,2024-10-26,400 (LV),Martin Moore,Unknown,47%,False,"October 8–26, 2024",General,,4.9
+2024,North Carolina,NC,judicial,General,ActiVote,2024-08-20 to 2024-09-22,2024-08-20,2024-09-22,400 (LV),Martin Moore,Unknown,48%,False,"August 20 – September 22, 2024",General,,4.9
 2024,North Dakota,ND,governor,General,WPA Intelligence,2024-09-28 to 2024-09-30,2024-09-28,2024-09-30,500 (LV),Kelly Armstrong,R,54%,False,"September 28–30, 2024",General,,4.4
 2024,North Dakota,ND,governor,General,Public Opinion Strategies,2024-06-15 to 2024-06-19,2024-06-15,2024-06-19,500 (LV),Kelly Armstrong,R,61%,False,"June 15–19, 2024",General,,4.38
 2024,North Dakota,ND,governor,General,WPA Intelligence,2024-09-28 to 2024-09-30,2024-09-28,2024-09-30,500 (LV),Merrill Piepkorn,D,24%,False,"September 28–30, 2024",General,,4.4
@@ -15445,14 +15533,26 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2024,Washington,WA,attorney general,General,Public Policy Polling,2024-10-16 to 2024-10-17,2024-10-16,2024-10-17,571 (LV),Pete Serrano,R,39%,False,"October 16–17, 2024",General,,4.1
 2024,Washington,WA,attorney general,General,Strategies 360,2024-10-11 to 2024-10-16,2024-10-11,2024-10-16,600 (RV),Pete Serrano,R,38%,False,"October 11–16, 2024",General,,4.0
 2024,Washington,WA,attorney general,General,Cascade PBS,2024-10-08 to 2024-10-12,2024-10-08,2024-10-12,401 (LV),Pete Serrano,R,29%,False,"October 8–12, 2024",General,,5.0
+2024,Washington,WA,land commissioner,General,Public Policy Polling,2024-10-16 to 2024-10-17,2024-10-16,2024-10-17,571 (LV),Dave Upthegrove,D,46%,False,"October 16–17, 2024",General,,4.1
+2024,Washington,WA,land commissioner,General,Strategies 360,2024-10-11 to 2024-10-16,2024-10-11,2024-10-16,600 (RV),Dave Upthegrove,D,47%,False,"October 11–16, 2024",General,,4.0
+2024,Washington,WA,land commissioner,General,Cascade PBS,2024-10-08 to 2024-10-12,2024-10-08,2024-10-12,401 (LV),Dave Upthegrove,D,41%,False,"October 8–12, 2024",General,,5.0
+2024,Washington,WA,land commissioner,General,Public Policy Polling,2024-10-16 to 2024-10-17,2024-10-16,2024-10-17,571 (LV),Jaime Herrera Beutler,R,38%,False,"October 16–17, 2024",General,,4.1
+2024,Washington,WA,land commissioner,General,Strategies 360,2024-10-11 to 2024-10-16,2024-10-11,2024-10-16,600 (RV),Jaime Herrera Beutler,R,38%,False,"October 11–16, 2024",General,,4.0
+2024,Washington,WA,land commissioner,General,Cascade PBS,2024-10-08 to 2024-10-12,2024-10-08,2024-10-12,401 (LV),Jaime Herrera Beutler,R,35%,False,"October 8–12, 2024",General,,5.0
+2024,Washington,WA,insurance commissioner,General,Public Policy Polling,2023-05-15 to 2023-05-16,2023-05-15,2023-05-16,615 (LV),Patty Kuderer,D,39%,False,"May 15–16, 2023",Hypothetical,Patty Kuderer vs. Chris Corry,4.0
+2024,Washington,WA,insurance commissioner,General,Public Policy Polling,2023-05-15 to 2023-05-16,2023-05-15,2023-05-16,615 (LV),Chris Corry,R,31%,False,"May 15–16, 2023",Hypothetical,Patty Kuderer vs. Chris Corry,4.0
 2024,Washington,WA,secretary of state,General,ActiVote,2024-10-03 to 2024-10-29,2024-10-03,2024-10-29,400 (LV),Steve Hobbs,D,64%,True,"October 3–29, 2024",General,,4.9
 2024,Washington,WA,secretary of state,General,Public Policy Polling,2024-10-16 to 2024-10-17,2024-10-16,2024-10-17,571 (LV),Steve Hobbs,D,47%,True,"October 16–17, 2024",General,,4.1
 2024,Washington,WA,secretary of state,General,ActiVote,2024-10-03 to 2024-10-29,2024-10-03,2024-10-29,400 (LV),Dale Whitaker,R,36%,False,"October 3–29, 2024",General,,4.9
 2024,Washington,WA,secretary of state,General,Public Policy Polling,2024-10-16 to 2024-10-17,2024-10-16,2024-10-17,571 (LV),Dale Whitaker,R,34%,False,"October 16–17, 2024",General,,4.1
+2024,Washington,WA,state auditor,General,Northwest Progressive Institute,2024-07-24 to 2024-07-25,2024-07-24,2024-07-25,581 (LV),Pat McCarthy,D,43%,True,"July 24–25, 2024",General,,4.0
+2024,Washington,WA,state auditor,General,Northwest Progressive Institute,2024-07-24 to 2024-07-25,2024-07-24,2024-07-25,581 (LV),Matt Hawkins,R,33%,False,"July 24–25, 2024",General,,4.0
 2024,Washington,WA,state treasurer,General,ActiVote,2024-10-03 to 2024-10-29,2024-10-03,2024-10-29,400 (LV),Mike Pellicciotti,D,59%,True,"October 3–29, 2024",General,,4.9
 2024,Washington,WA,state treasurer,General,Public Policy Polling,2024-07-24 to 2024-07-25,2024-07-24,2024-07-25,581 (LV),Mike Pellicciotti,D,43%,True,"July 24–25, 2024",General,,4.0
 2024,Washington,WA,state treasurer,General,ActiVote,2024-10-03 to 2024-10-29,2024-10-03,2024-10-29,400 (LV),Sharon Hanek,R,41%,False,"October 3–29, 2024",General,,4.9
 2024,Washington,WA,state treasurer,General,Public Policy Polling,2024-07-24 to 2024-07-25,2024-07-24,2024-07-25,581 (LV),Sharon Hanek,R,33%,False,"July 24–25, 2024",General,,4.0
+2024,Washington,WA,superintendent of public instruction,General,Public Policy Polling,2024-10-16 to 2024-10-17,2024-10-16,2024-10-17,571 (LV),Chris Reykdal,Unknown,21%,True,"October 16–17, 2024",General,,4.1
+2024,Washington,WA,superintendent of public instruction,General,Public Policy Polling,2024-10-16 to 2024-10-17,2024-10-16,2024-10-17,571 (LV),David Olson,Unknown,18%,False,"October 16–17, 2024",General,,4.1
 2024,Washington,WA,governor,General,270ToWin,2024-10-17 to 2024-11-04,2024-10-17,2024-11-04,,Bob Ferguson,D,50.8%,False,"October 17 – November 4, 2024",General,,
 2024,Washington,WA,governor,General,Research Co.,2024-11-02 to 2024-11-03,2024-11-02,2024-11-03,450 (LV),Bob Ferguson,D,54%,False,"November 2–3, 2024",General,,4.6
 2024,Washington,WA,governor,General,ActiVote,2024-10-03 to 2024-10-29,2024-10-03,2024-10-29,400 (LV),Bob Ferguson,D,59%,False,"October 3–29, 2024",General,,4.9
@@ -15594,6 +15694,12 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2025,New Jersey,NJ,governor,General,Rutgers-Eagleton,2025-06-13 to 2025-06-16,2025-06-13,2025-06-16,621 (LV),Jack Ciattarelli,R,31%,False,"June 13–16, 2025",General,,5.4
 2025,New Jersey,NJ,governor,General,The Washington Examiner,2025-06-11 to 2025-06-12,2025-06-11,2025-06-12,600 (LV),Jack Ciattarelli,R,42%,False,"June 11–12, 2025",General,,4.0
 2025,New Jersey,NJ,governor,General,SurveyUSA,2025-05-28 to 2025-05-30,2025-05-28,2025-05-30,576 (LV),Jack Ciattarelli,R,38%,False,"May 28–30, 2025",General,,6.1
+2025,Pennsylvania,PA,judicial,General,Franklin & Marshall,2025-09-24 to 2025-10-05,2025-09-24,2025-10-05,929 (RV),For retain,Unknown,31%,False,"September 24 – October 5, 2025",General,,4.0
+2025,Pennsylvania,PA,judicial,General,Franklin & Marshall,2025-09-24 to 2025-10-05,2025-09-24,2025-10-05,929 (RV),Against retain,Unknown,27%,False,"September 24 – October 5, 2025",General,,4.0
+2025,Pennsylvania,PA,judicial,General,Franklin & Marshall,2025-09-24 to 2025-10-05,2025-09-24,2025-10-05,929 (RV),For retain,Unknown,30%,False,"September 24 – October 5, 2025",General,,4.0
+2025,Pennsylvania,PA,judicial,General,Franklin & Marshall,2025-09-24 to 2025-10-05,2025-09-24,2025-10-05,929 (RV),Against retain,Unknown,19%,False,"September 24 – October 5, 2025",General,,4.0
+2025,Pennsylvania,PA,judicial,General,Franklin & Marshall,2025-09-24 to 2025-10-05,2025-09-24,2025-10-05,929 (RV),For retain,Unknown,25%,False,"September 24 – October 5, 2025",General,,4.0
+2025,Pennsylvania,PA,judicial,General,Franklin & Marshall,2025-09-24 to 2025-10-05,2025-09-24,2025-10-05,929 (RV),Against retain,Unknown,21%,False,"September 24 – October 5, 2025",General,,4.0
 2025,Virginia,VA,governor,General,270toWin,2025-10-27 to 2025-11-03,2025-10-27,2025-11-03,,Abigail Spanberger,D,53.3%,False,"October 27 – November 3, 2025",General,,
 2025,Virginia,VA,governor,General,Decision Desk HQ,through 2025-11-03,,2025-11-03,,Abigail Spanberger,D,52.3%,False,"through November 3, 2025",General,,
 2025,Virginia,VA,governor,General,FiftyPlusOne,through 2025-11-03,,2025-11-03,,Abigail Spanberger,D,53.1%,False,"through November 3, 2025",General,,
@@ -15714,12 +15820,38 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2025,Virginia,VA,governor,General,(R),2023-09-07 to 2023-09-10,2023-09-07,2023-09-10,834 (LV),Jason Miyares,R,22%,False,"September 7–10, 2023",Hypothetical,Jason Miyares vs. Abigail Spanberger,3.4
 2025,Virginia,VA,governor,General,Research America Inc.,2024-09-03 to 2024-09-09,2024-09-03,2024-09-09,"1,000 (A)",Abigail Spanberger,D,40%,False,"September 3–9, 2024",Hypothetical,Jason Miyares vs. Abigail Spanberger,3.1
 2025,Virginia,VA,governor,General,(R),2023-09-07 to 2023-09-10,2023-09-07,2023-09-10,834 (LV),Abigail Spanberger,D,26%,False,"September 7–10, 2023",Hypothetical,Jason Miyares vs. Abigail Spanberger,3.4
+2025,Wisconsin,WI,superintendent of public instruction,General,Napolitan Institute,2025-02-25 to 2025-02-28,2025-02-25,2025-02-28,800 (RV),Jill Underly,Unknown,20%,True,"February 25–28, 2025",General,,3.5
+2025,Wisconsin,WI,superintendent of public instruction,General,Napolitan Institute,2025-02-25 to 2025-02-28,2025-02-25,2025-02-28,800 (RV),Brittany Kinser,Unknown,22%,False,"February 25–28, 2025",General,,3.5
+2025,Wisconsin,WI,judicial,General,AtlasIntel,2025-03-27 to 2025-03-31,2025-03-27,2025-03-31,542 (LV),Susan Crawford,Unknown,53%,False,"March 27–31, 2025",General,,4.0
+2025,Wisconsin,WI,judicial,General,Trafalgar Group,2025-03-28 to 2025-03-30,2025-03-28,2025-03-30,"1,083 (LV)",Susan Crawford,Unknown,51%,False,"March 28–30, 2025",General,,2.9
+2025,Wisconsin,WI,judicial,General,Substack,2025-03-25 to 2025-03-26,2025-03-25,2025-03-26,500 (LV),Susan Crawford,Unknown,50%,False,"March 25–26, 2025",General,,
+2025,Wisconsin,WI,judicial,General,Building America's Future,2025-03-17 to 2025-03-18,2025-03-17,2025-03-18,600 (LV),Susan Crawford,Unknown,48%,False,"March 17–18, 2025",General,,4.0
+2025,Wisconsin,WI,judicial,General,Tyson Group (R),2025-03-10 to 2025-03-11,2025-03-10,2025-03-11,600 (LV),Susan Crawford,Unknown,47%,False,"March 10–11, 2025",General,,4.0
+2025,Wisconsin,WI,judicial,General,Wisconsin Manufacturers & Commerce,2025-03-09 to 2025-03-10,2025-03-09,2025-03-10,600 (LV),Susan Crawford,Unknown,47%,False,"March 9–10, 2025",General,,4.0
+2025,Wisconsin,WI,judicial,General,Tyson Group (R),2025-03-03 to 2025-03-06,2025-03-03,2025-03-06,600 (LV),Susan Crawford,Unknown,48%,False,"March 3–6, 2025",General,,4.0
+2025,Wisconsin,WI,judicial,General,Napolitan Institute,2025-02-25 to 2025-02-28,2025-02-25,2025-02-28,800 (RV),Susan Crawford,Unknown,42%,False,"February 25–28, 2025",General,,3.5
+2025,Wisconsin,WI,judicial,General,TIPP Insights (R),2025-02-07 to 2025-02-11,2025-02-07,2025-02-11,"1,045 (RV)",Susan Crawford,Unknown,38%,False,"February 7–11, 2025",General,,3.1
+2025,Wisconsin,WI,judicial,General,WisPolitics,2025-01-17 to 2025-01-21,2025-01-17,2025-01-21,800 (RV),Susan Crawford,Unknown,35%,False,"January 17–21, 2025",General,,3.5
+2025,Wisconsin,WI,judicial,General,AtlasIntel,2025-03-27 to 2025-03-31,2025-03-27,2025-03-31,542 (LV),Brad Schimel,Unknown,46%,False,"March 27–31, 2025",General,,4.0
+2025,Wisconsin,WI,judicial,General,Trafalgar Group,2025-03-28 to 2025-03-30,2025-03-28,2025-03-30,"1,083 (LV)",Brad Schimel,Unknown,49%,False,"March 28–30, 2025",General,,2.9
+2025,Wisconsin,WI,judicial,General,Substack,2025-03-25 to 2025-03-26,2025-03-25,2025-03-26,500 (LV),Brad Schimel,Unknown,42%,False,"March 25–26, 2025",General,,
+2025,Wisconsin,WI,judicial,General,Building America's Future,2025-03-17 to 2025-03-18,2025-03-17,2025-03-18,600 (LV),Brad Schimel,Unknown,43%,False,"March 17–18, 2025",General,,4.0
+2025,Wisconsin,WI,judicial,General,Tyson Group (R),2025-03-10 to 2025-03-11,2025-03-10,2025-03-11,600 (LV),Brad Schimel,Unknown,39%,False,"March 10–11, 2025",General,,4.0
+2025,Wisconsin,WI,judicial,General,Wisconsin Manufacturers & Commerce,2025-03-09 to 2025-03-10,2025-03-09,2025-03-10,600 (LV),Brad Schimel,Unknown,47%,False,"March 9–10, 2025",General,,4.0
+2025,Wisconsin,WI,judicial,General,Tyson Group (R),2025-03-03 to 2025-03-06,2025-03-03,2025-03-06,600 (LV),Brad Schimel,Unknown,35%,False,"March 3–6, 2025",General,,4.0
+2025,Wisconsin,WI,judicial,General,Napolitan Institute,2025-02-25 to 2025-02-28,2025-02-25,2025-02-28,800 (RV),Brad Schimel,Unknown,35%,False,"February 25–28, 2025",General,,3.5
+2025,Wisconsin,WI,judicial,General,TIPP Insights (R),2025-02-07 to 2025-02-11,2025-02-07,2025-02-11,"1,045 (RV)",Brad Schimel,Unknown,38%,False,"February 7–11, 2025",General,,3.1
+2025,Wisconsin,WI,judicial,General,WisPolitics,2025-01-17 to 2025-01-21,2025-01-17,2025-01-21,800 (RV),Brad Schimel,Unknown,40%,False,"January 17–21, 2025",General,,3.5
 2026,Alabama,AL,attorney general,General,Cygnal (R),2026-10-16 to 2026-10-17,2026-10-16,2026-10-17,500 (LV),Katherine Robertson,R,51%,False,"October 16–17, 2026",General,,4.4
 2026,Alabama,AL,attorney general,General,The Alabama Poll,2026-10-15 to 2026-10-16,2026-10-15,2026-10-16,600 (LV),Katherine Robertson,R,54%,False,"October 15–16, 2026",General,,
 2026,Alabama,AL,attorney general,General,yes. every kid.,2026-07-08 to 2026-07-11,2026-07-08,2026-07-11,601 (LV),Katherine Robertson,R,47%,False,"July 8–11, 2026",General,,4.0
 2026,Alabama,AL,attorney general,General,Cygnal (R),2026-10-16 to 2026-10-17,2026-10-16,2026-10-17,500 (LV),Jeff McLaughlin,D,34%,False,"October 16–17, 2026",General,,4.4
 2026,Alabama,AL,attorney general,General,The Alabama Poll,2026-10-15 to 2026-10-16,2026-10-15,2026-10-16,600 (LV),Jeff McLaughlin,D,35%,False,"October 15–16, 2026",General,,
 2026,Alabama,AL,attorney general,General,yes. every kid.,2026-07-08 to 2026-07-11,2026-07-08,2026-07-11,601 (LV),Jeff McLaughlin,D,31%,False,"July 8–11, 2026",General,,4.0
+2026,Alabama,AL,agriculture commissioner,General,Cygnal (R),2026-10-16 to 2026-10-17,2026-10-16,2026-10-17,500 (LV),Corey Hill,R,49%,False,"October 16–17, 2026",General,,4.4
+2026,Alabama,AL,agriculture commissioner,General,Cygnal (R),2026-10-16 to 2026-10-17,2026-10-16,2026-10-17,500 (LV),Ron Sparks,D,36%,False,"October 16–17, 2026",General,,4.4
+2026,Alabama,AL,public service commission,General,The Alabama Poll,2025-12-15,2025-12-15,2025-12-15,600 (LV),Jeremy Oden,Unknown,9%,True,"December 15, 2025",General,,4.0
+2026,Alabama,AL,public service commission,General,The Alabama Poll,2025-12-15,2025-12-15,2025-12-15,600 (LV),Matt Gentry,Unknown,15%,False,"December 15, 2025",General,,4.0
 2026,Alabama,AL,secretary of state,General,Cygnal (R),2026-10-16 to 2026-10-17,2026-10-16,2026-10-17,500 (LV),Caroleene Dobson,R,50%,False,"October 16–17, 2026",General,,4.4
 2026,Alabama,AL,secretary of state,General,Cygnal (R),2026-10-16 to 2026-10-17,2026-10-16,2026-10-17,500 (LV),Wayne Rogers,D,34%,False,"October 16–17, 2026",General,,4.4
 2026,Alabama,AL,governor,General,Chism Strategies (D),2026-10-22 to 2026-10-24,2026-10-22,2026-10-24,695 (LV),Tommy Tuberville,R,48%,False,"October 22–24, 2026",General,,3.7
@@ -15887,6 +16019,22 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Arizona,AZ,state treasurer,General,"HighGround, Inc.",2026-08-15 to 2026-08-18,2026-08-15,2026-08-18,400 (LV),Nick Mansour,D,42%,False,"August 15–18, 2026",General,,4.9
 2026,Arizona,AZ,state treasurer,General,Twitter,2026-08-11 to 2026-08-13,2026-08-11,2026-08-13,600 (LV),Nick Mansour,D,39%,False,"August 11–13, 2026",General,,4.0
 2026,Arizona,AZ,state treasurer,General,Stealth Analytics,2026-08-11 to 2026-08-13,2026-08-11,2026-08-13,530 (LV),Nick Mansour,D,35%,False,"August 11–13, 2026",General,,4.3
+2026,Arizona,AZ,superintendent of public instruction,General,Noble Predictive Insights,2026-10-26 to 2026-10-28,2026-10-26,2026-10-28,511 (LV),Kimberly Yee,R,48%,False,"October 26–28, 2026",General,,4.3
+2026,Arizona,AZ,superintendent of public instruction,General,"HighGround, Inc.",2026-10-21 to 2026-10-25,2026-10-21,2026-10-25,400 (LV),Kimberly Yee,R,43%,False,"October 21–25, 2026",General,,4.9
+2026,Arizona,AZ,superintendent of public instruction,General,"HighGround, Inc.",2026-10-06 to 2026-10-08,2026-10-06,2026-10-08,400 (LV),Kimberly Yee,R,38%,False,"October 6–8, 2026",General,,4.9
+2026,Arizona,AZ,superintendent of public instruction,General,Arizona State University,2026-08-18 to 2026-09-04,2026-08-18,2026-09-04,"1,300 (RV)",Kimberly Yee,R,35%,False,"August 18 – September 4, 2026",General,,2.7
+2026,Arizona,AZ,superintendent of public instruction,General,"HighGround, Inc.",2026-08-15 to 2026-08-18,2026-08-15,2026-08-18,400 (LV),Kimberly Yee,R,41%,False,"August 15–18, 2026",General,,4.9
+2026,Arizona,AZ,superintendent of public instruction,General,Twitter,2026-08-11 to 2026-08-13,2026-08-11,2026-08-13,600 (LV),Kimberly Yee,R,45%,False,"August 11–13, 2026",General,,4.0
+2026,Arizona,AZ,superintendent of public instruction,General,Stealth Analytics,2026-08-11 to 2026-08-13,2026-08-11,2026-08-13,530 (LV),Kimberly Yee,R,42%,False,"August 11–13, 2026",General,,4.3
+2026,Arizona,AZ,superintendent of public instruction,General,Noble Predictive Insights,2026-08-10 to 2026-08-13,2026-08-10,2026-08-13,923 (LV),Kimberly Yee,R,40%,False,"August 10–13, 2026",General,,3.2
+2026,Arizona,AZ,superintendent of public instruction,General,Noble Predictive Insights,2026-10-26 to 2026-10-28,2026-10-26,2026-10-28,511 (LV),Teresa Ruiz,D,46%,False,"October 26–28, 2026",General,,4.3
+2026,Arizona,AZ,superintendent of public instruction,General,"HighGround, Inc.",2026-10-21 to 2026-10-25,2026-10-21,2026-10-25,400 (LV),Teresa Ruiz,D,47%,False,"October 21–25, 2026",General,,4.9
+2026,Arizona,AZ,superintendent of public instruction,General,"HighGround, Inc.",2026-10-06 to 2026-10-08,2026-10-06,2026-10-08,400 (LV),Teresa Ruiz,D,45%,False,"October 6–8, 2026",General,,4.9
+2026,Arizona,AZ,superintendent of public instruction,General,Arizona State University,2026-08-18 to 2026-09-04,2026-08-18,2026-09-04,"1,300 (RV)",Teresa Ruiz,D,34%,False,"August 18 – September 4, 2026",General,,2.7
+2026,Arizona,AZ,superintendent of public instruction,General,"HighGround, Inc.",2026-08-15 to 2026-08-18,2026-08-15,2026-08-18,400 (LV),Teresa Ruiz,D,42%,False,"August 15–18, 2026",General,,4.9
+2026,Arizona,AZ,superintendent of public instruction,General,Twitter,2026-08-11 to 2026-08-13,2026-08-11,2026-08-13,600 (LV),Teresa Ruiz,D,42%,False,"August 11–13, 2026",General,,4.0
+2026,Arizona,AZ,superintendent of public instruction,General,Stealth Analytics,2026-08-11 to 2026-08-13,2026-08-11,2026-08-13,530 (LV),Teresa Ruiz,D,38%,False,"August 11–13, 2026",General,,4.3
+2026,Arizona,AZ,superintendent of public instruction,General,Noble Predictive Insights,2026-08-10 to 2026-08-13,2026-08-10,2026-08-13,923 (LV),Teresa Ruiz,D,37%,False,"August 10–13, 2026",General,,3.2
 2026,Arizona,AZ,governor,General,270toWin,2026-08-18 to 2026-10-08,2026-08-18,2026-10-08,,Katie Hobbs,D,49.3%,True,"August 18 – October 8, 2026",General,,
 2026,Arizona,AZ,governor,General,Decision Desk HQ,through 2026-10-20,,2026-10-20,,Katie Hobbs,D,50.6%,True,"through October 20, 2026",General,,
 2026,Arizona,AZ,governor,General,FiftyPlusOne,through 2026-10-20,,2026-10-20,,Katie Hobbs,D,49.6%,True,"through October 20, 2026",General,,
@@ -16000,8 +16148,14 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Arkansas,AR,governor,General,Hendrix College,2026-08-11 to 2026-08-12,2026-08-11,2026-08-12,"1,217 (LV)",Fredrick Love,D,40%,False,"August 11–12, 2026",General,,4.7
 2026,Arkansas,AR,governor,General,Hendrix College,2026-10-08 to 2026-10-13,2026-10-08,2026-10-13,709 (LV),Colt Shelby,L,11%,False,"October 8–13, 2026",General,,5.0
 2026,Arkansas,AR,governor,General,Hendrix College,2026-08-11 to 2026-08-12,2026-08-11,2026-08-12,"1,217 (LV)",Colt Shelby,L,7%,False,"August 11–12, 2026",General,,4.7
+2026,California,CA,insurance commissioner,General,Independent Voter Project,2026-09-23 to 2026-10-02,2026-09-23,2026-10-02,"2,906 (LV)",Ben Allen,D,11%,False,"September 23 – October 2, 2026",General,,2.5
+2026,California,CA,insurance commissioner,General,Independent Voter Project,2026-09-23 to 2026-10-02,2026-09-23,2026-10-02,"2,906 (LV)",Jane Kim,D,14%,False,"September 23 – October 2, 2026",General,,2.5
 2026,California,CA,secretary of state,General,Independent Voter Project,2026-09-23 to 2026-10-02,2026-09-23,2026-10-02,"2,906 (LV)",Shirley Weber,D,41%,True,"September 23 – October 2, 2026",General,,2.5
 2026,California,CA,secretary of state,General,Independent Voter Project,2026-09-23 to 2026-10-02,2026-09-23,2026-10-02,"2,906 (LV)",Donald P. Wagner,R,31%,False,"September 23 – October 2, 2026",General,,2.5
+2026,California,CA,superintendent of public instruction,General,SurveyUSA,2026-10-19 to 2026-10-24,2026-10-19,2026-10-24,799 (LV),Richard Barrera,Unknown,34%,False,"October 19–24, 2026",General,,5.3
+2026,California,CA,superintendent of public instruction,General,SurveyUSA,2026-09-15 to 2026-09-20,2026-09-15,2026-09-20,742 (LV),Richard Barrera,Unknown,26%,False,"September 15–20, 2026",General,,4.6
+2026,California,CA,superintendent of public instruction,General,SurveyUSA,2026-10-19 to 2026-10-24,2026-10-19,2026-10-24,799 (LV),Sonja Shaw,Unknown,25%,False,"October 19–24, 2026",General,,5.3
+2026,California,CA,superintendent of public instruction,General,SurveyUSA,2026-09-15 to 2026-09-20,2026-09-15,2026-09-20,742 (LV),Sonja Shaw,Unknown,20%,False,"September 15–20, 2026",General,,4.6
 2026,California,CA,governor,General,270toWin,2026-09-15 to 2026-10-16,2026-09-15,2026-10-16,,Xavier Becerra,D,56.2%,False,"September 15 – October 16, 2026",General,,
 2026,California,CA,governor,General,Silver Bulletin,through 2026-10-19,,2026-10-19,,Xavier Becerra,D,58.4%,False,"through October 19, 2026",General,,
 2026,California,CA,governor,General,ActiVote,2026-10-17 to 2026-10-31,2026-10-17,2026-10-31,400 (LV),Xavier Becerra,D,63%,False,"October 17–31, 2026",General,,4.9
@@ -16121,6 +16275,8 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Florida,FL,attorney general,General,Change Research,2026-05-13 to 2026-05-16,2026-05-13,2026-05-16,"1,593 (LV)",José Javier Rodríguez,D,45%,False,"May 13–16, 2026",General,,2.3
 2026,Florida,FL,attorney general,General,Florida Politics,2026-03-27 to 2026-04-03,2026-03-27,2026-04-03,"1,834 (LV)",José Javier Rodríguez,D,43%,False,"March 27 – April 3, 2026",General,,2.0
 2026,Florida,FL,attorney general,General,University of North Florida,2025-10-15 to 2025-10-25,2025-10-15,2025-10-25,728 (LV),José Javier Rodríguez,D,36%,False,"October 15–25, 2025",General,,4.3
+2026,Florida,FL,agriculture commissioner,General,James Madison Institute,2026-09-28 to 2026-10-04,2026-09-28,2026-10-04,847 (LV),Wilton Simpson,R,50%,True,"September 28 – October 4, 2026",General,,
+2026,Florida,FL,agriculture commissioner,General,James Madison Institute,2026-09-28 to 2026-10-04,2026-09-28,2026-10-04,847 (LV),Joey Mendoza Atkins,D,39%,False,"September 28 – October 4, 2026",General,,
 2026,Florida,FL,governor,General,270toWin,2026-10-12 to 2026-10-29,2026-10-12,2026-10-29,,Byron Donalds,R,48.8%,False,"October 12–29, 2026",General,,
 2026,Florida,FL,governor,General,Decision Desk HQ,through 2026-10-27,,2026-10-27,,Byron Donalds,R,48.0%,False,"through October 27, 2026",General,,
 2026,Florida,FL,governor,General,FiftyPlusOne,through 2026-10-30,,2026-10-30,,Byron Donalds,R,48.7%,False,"through October 30, 2026",General,,
@@ -16230,6 +16386,10 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Georgia,GA,attorney general,General,Democratic Attorneys General Association,2026-09-27 to 2026-10-01,2026-09-27,2026-10-01,,Brian Strickland,R,43%,False,"September 27 – October 1, 2026",General,,3.5
 2026,Georgia,GA,attorney general,General,The Atlanta Journal-Constitution,2026-10-07 to 2026-10-15,2026-10-07,2026-10-15,"1,000 (LV)",Tanya Miller,D,44%,False,"October 7–15, 2026",General,,3.1
 2026,Georgia,GA,attorney general,General,Democratic Attorneys General Association,2026-09-27 to 2026-10-01,2026-09-27,2026-10-01,,Tanya Miller,D,46%,False,"September 27 – October 1, 2026",General,,3.5
+2026,Georgia,GA,public service commission,General,Quantus Insights,2026-07-29 to 2026-08-01,2026-07-29,2026-08-01,815 (LV),Peter Hubbard,D,39%,True,"July 29 – August 1, 2026",General,,3.6
+2026,Georgia,GA,public service commission,General,Quantus Insights,2026-07-29 to 2026-08-01,2026-07-29,2026-08-01,815 (LV),Fitz Johnson,R,38%,False,"July 29 – August 1, 2026",General,,3.6
+2026,Georgia,GA,public service commission,General,Quantus Insights,2026-07-29 to 2026-08-01,2026-07-29,2026-08-01,815 (LV),Josh Tolbert,R,38%,False,"July 29 – August 1, 2026",General,,3.6
+2026,Georgia,GA,public service commission,General,Quantus Insights,2026-07-29 to 2026-08-01,2026-07-29,2026-08-01,815 (LV),Shelia Edwards,D,40%,False,"July 29 – August 1, 2026",General,,3.6
 2026,Georgia,GA,governor,General,270toWin,2026-10-07 to 2026-10-23,2026-10-07,2026-10-23,,Rick Jackson,R,48.8%,False,"October 7–23, 2026",General,,
 2026,Georgia,GA,governor,General,Decision Desk HQ,through 2026-10-27,,2026-10-27,,Rick Jackson,R,47.8%,False,"through October 27, 2026",General,,
 2026,Georgia,GA,governor,General,FiftyPlusOne,through 2026-10-27,,2026-10-27,,Rick Jackson,R,48.0%,False,"through October 27, 2026",General,,
@@ -16307,6 +16467,8 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Idaho,ID,governor,General,Change Research,2026-07-28 to 2026-07-30,2026-07-28,2026-07-30,"1,213 (LV)",John Stegner,I,11%,False,"July 28–30, 2026",General,,3.0
 2026,Illinois,IL,attorney general,General,Public Policy Polling,2026-09-30 to 2026-10-01,2026-09-30,2026-10-01,569 (LV),Kwame Raoul,D,52%,True,"September 30 – October 1, 2026",General,,
 2026,Illinois,IL,attorney general,General,Public Policy Polling,2026-09-30 to 2026-10-01,2026-09-30,2026-10-01,569 (LV),Bob Fioretti,R,38%,False,"September 30 – October 1, 2026",General,,
+2026,Illinois,IL,state auditor,General,Public Policy Polling,2026-09-30 to 2026-10-01,2026-09-30,2026-10-01,569 (LV),Margaret Croke,D,48%,False,"September 30 – October 1, 2026",General,,
+2026,Illinois,IL,state auditor,General,Public Policy Polling,2026-09-30 to 2026-10-01,2026-09-30,2026-10-01,569 (LV),Bryan Drew,R,37%,False,"September 30 – October 1, 2026",General,,
 2026,Illinois,IL,governor,General,Research Co.,2026-10-31 to 2026-11-02,2026-10-31,2026-11-02,450 (LV),JB Pritzker,D,57%,True,"October 31 – November 2, 2026",General,,4.6
 2026,Illinois,IL,governor,General,ActiVote,2026-10-23 to 2026-10-31,2026-10-23,2026-10-31,400 (LV),JB Pritzker,D,59%,True,"October 23–31, 2026",General,,4.9
 2026,Illinois,IL,governor,General,University of Illinois Springfield,2026-10-01 to 2026-10-22,2026-10-01,2026-10-22,550 (LV),JB Pritzker,D,56%,True,"October 1–22, 2026",General,,4.5
@@ -16343,6 +16505,12 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Indiana,IN,secretary of state,General,InAct LLC,2025-10-24 to 2025-11-01,2025-10-24,2025-11-01,400 (LV),Generic Republican,Unknown,44%,False,"October 24 – November 1, 2025",Hypothetical,Generic Republican vs. generic Democrat vs. generic Independent,4.9
 2026,Indiana,IN,secretary of state,General,InAct LLC,2025-10-24 to 2025-11-01,2025-10-24,2025-11-01,400 (LV),Generic Democrat,Unknown,34%,False,"October 24 – November 1, 2025",Hypothetical,Generic Republican vs. generic Democrat vs. generic Independent,4.9
 2026,Indiana,IN,secretary of state,General,InAct LLC,2025-10-24 to 2025-11-01,2025-10-24,2025-11-01,400 (LV),Generic Independent,Unknown,10%,False,"October 24 – November 1, 2025",Hypothetical,Generic Republican vs. generic Democrat vs. generic Independent,4.9
+2026,Indiana,IN,state auditor,General,Quantus Insights (R),2026-10-19 to 2026-10-21,2026-10-19,2026-10-21,757 (LV),Elise Nieshalla,R,42%,True,"October 19–21, 2026",General,,3.8
+2026,Indiana,IN,state auditor,General,Bellwether Research,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,896 (LV),Elise Nieshalla,R,36%,True,"October 8–11, 2026",General,,3.5
+2026,Indiana,IN,state auditor,General,Quantus Insights (R),2026-10-19 to 2026-10-21,2026-10-19,2026-10-21,757 (LV),Jessica Bailey,D,37%,False,"October 19–21, 2026",General,,3.8
+2026,Indiana,IN,state auditor,General,Bellwether Research,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,896 (LV),Jessica Bailey,D,39%,False,"October 8–11, 2026",General,,3.5
+2026,Indiana,IN,state auditor,General,Quantus Insights (R),2026-10-19 to 2026-10-21,2026-10-19,2026-10-21,757 (LV),John Schick,L,3%,False,"October 19–21, 2026",General,,3.8
+2026,Indiana,IN,state auditor,General,Bellwether Research,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,896 (LV),John Schick,L,4%,False,"October 8–11, 2026",General,,3.5
 2026,Indiana,IN,state treasurer,General,Quantus Insights (R),2026-10-19 to 2026-10-21,2026-10-19,2026-10-21,757 (LV),Daniel Elliott,R,44%,True,"October 19–21, 2026",General,,3.8
 2026,Indiana,IN,state treasurer,General,Bellwether Research,2026-10-08 to 2026-10-11,2026-10-08,2026-10-11,896 (LV),Daniel Elliott,R,43%,True,"October 8–11, 2026",General,,3.5
 2026,Indiana,IN,state treasurer,General,Quantus Insights (R),2026-10-19 to 2026-10-21,2026-10-19,2026-10-21,757 (LV),Coumba Kebe,D,36%,False,"October 19–21, 2026",General,,3.8
@@ -16357,6 +16525,10 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Iowa,IA,attorney general,General,Global Strategy Group,2026-04-06 to 2026-04-09,2026-04-06,2026-04-09,600 (LV),Nathan Willems,D,43%,False,"April 6–9, 2026",General,,4.0
 2026,Iowa,IA,attorney general,General,Fund for Economic Independence (R),2025-10-30 to 2025-11-02,2025-10-30,2025-11-02,"1,056 (LV)",Nathan Willems,D,41%,False,"October 30 – November 2, 2025",General,,
 2026,Iowa,IA,attorney general,General,Fund for Economic Independence (R),2025-09-09 to 2025-09-11,2025-09-09,2025-09-11,,Nathan Willems,D,15%,False,"September 9–11, 2025",General,,
+2026,Iowa,IA,agriculture commissioner,General,Cygnal (R),2026-09-09 to 2026-09-11,2026-09-09,2026-09-11,500 (LV),Mike Naig,R,43%,True,"September 9–11, 2026",General,,4.4
+2026,Iowa,IA,agriculture commissioner,General,Change Research,2026-07-28 to 2026-08-01,2026-07-28,2026-08-01,"1,071 (LV)",Mike Naig,R,42%,True,"July 28 – August 1, 2026",General,,3.1
+2026,Iowa,IA,agriculture commissioner,General,Cygnal (R),2026-09-09 to 2026-09-11,2026-09-09,2026-09-11,500 (LV),Chris Jones,D,36%,False,"September 9–11, 2026",General,,4.4
+2026,Iowa,IA,agriculture commissioner,General,Change Research,2026-07-28 to 2026-08-01,2026-07-28,2026-08-01,"1,071 (LV)",Chris Jones,D,40%,False,"July 28 – August 1, 2026",General,,3.1
 2026,Iowa,IA,secretary of state,General,Change Research,2026-09-11 to 2026-09-14,2026-09-11,2026-09-14,704 (LV),Paul Pate,R,42%,True,"September 11–14, 2026",General,,3.9
 2026,Iowa,IA,secretary of state,General,Change Research,2026-09-11 to 2026-09-14,2026-09-11,2026-09-14,704 (LV),Ryan Peterman,D,40%,False,"September 11–14, 2026",General,,3.9
 2026,Iowa,IA,governor,General,270toWin,2026-10-08 to 2026-11-01,2026-10-08,2026-11-01,,Zach Lahn,R,44.6%,False,"October 8 – November 1, 2026",General,,
@@ -16571,6 +16743,10 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Massachusetts,MA,attorney general,General,UMass Amherst,2026-10-05 to 2026-10-12,2026-10-05,2026-10-12,800 (RV),Andrea Campbell,D,55%,True,"October 5–12, 2026",General,,4.2
 2026,Massachusetts,MA,attorney general,General,Suffolk University,2026-10-14 to 2026-10-18,2026-10-14,2026-10-18,500 (LV),Michael Walsh,R,28%,False,"October 14–18, 2026",General,,4.4
 2026,Massachusetts,MA,attorney general,General,UMass Amherst,2026-10-05 to 2026-10-12,2026-10-05,2026-10-12,800 (RV),Michael Walsh,R,31%,False,"October 5–12, 2026",General,,4.2
+2026,Massachusetts,MA,state auditor,General,Suffolk University,2026-10-14 to 2026-10-18,2026-10-14,2026-10-18,500 (LV),Diana DiZoglio,D,62%,True,"October 14–18, 2026",General,,4.4
+2026,Massachusetts,MA,state auditor,General,UMass Amherst,2026-10-05 to 2026-10-12,2026-10-05,2026-10-12,800 (RV),Diana DiZoglio,D,60%,True,"October 5–12, 2026",General,,4.2
+2026,Massachusetts,MA,state auditor,General,Suffolk University,2026-10-14 to 2026-10-18,2026-10-14,2026-10-18,500 (LV),Al Ozonoff,L,15%,False,"October 14–18, 2026",General,,4.4
+2026,Massachusetts,MA,state auditor,General,UMass Amherst,2026-10-05 to 2026-10-12,2026-10-05,2026-10-12,800 (RV),Al Ozonoff,L,11%,False,"October 5–12, 2026",General,,4.2
 2026,Massachusetts,MA,governor,General,270toWin,2026-09-17 to 2026-10-18,2026-09-17,2026-10-18,,Maura Healey,D,56.0%,True,"September 17 – October 18, 2026",General,,
 2026,Massachusetts,MA,governor,General,RealClearPolitics,2026-09-14 to 2026-10-18,2026-09-14,2026-10-18,,Maura Healey,D,56.0%,True,"September 14 – October 18, 2026",General,,
 2026,Massachusetts,MA,governor,General,Silver Bulletin,through 2026-10-12,,2026-10-12,,Maura Healey,D,57.2%,True,"through October 12, 2026",General,,
@@ -16888,6 +17064,17 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Minnesota,MN,secretary of state,General,KSTP,2026-10-24 to 2026-10-28,2026-10-24,2026-10-28,714 (LV),Tad Jude,R,36%,False,"October 24–28, 2026",General,,4.2
 2026,Minnesota,MN,secretary of state,General,KSTP,2026-10-01 to 2026-10-24,2026-10-01,2026-10-24,"October 8–12, 2026",Tad Jude,R,43%,False,"access-date=October 24, 2026}}",General,,
 2026,Minnesota,MN,secretary of state,General,KSTP,2026-09-09 to 2026-09-14,2026-09-09,2026-09-14,654 (LV),Tad Jude,R,36%,False,"September 9–14, 2026",General,,4.4
+2026,Minnesota,MN,state auditor,General,KSTP,2026-10-24 to 2026-10-28,2026-10-24,2026-10-28,714 (LV),Zach Filipovich (DFL),Unknown,45%,False,"October 24–28, 2026",General,,4.2
+2026,Minnesota,MN,state auditor,General,KSTP,2026-10-01 to 2026-10-15,2026-10-01,2026-10-15,"October 8–12, 2026",Zach Filipovich (DFL),Unknown,±4.2%,False,"access-date=October 15, 2026}}",General,,
+2026,Minnesota,MN,state auditor,General,KSTP,2026-09-09 to 2026-09-14,2026-09-09,2026-09-14,654 (LV),Zach Filipovich (DFL),Unknown,36%,False,"September 9–14, 2026",General,,4.4
+2026,Minnesota,MN,state auditor,General,KSTP,2026-08-13 to 2026-08-17,2026-08-13,2026-08-17,661 (LV),Zach Filipovich (DFL),Unknown,39%,False,"August 13–17, 2026",General,,4.3
+2026,Minnesota,MN,state auditor,General,KSTP,2026-10-24 to 2026-10-28,2026-10-24,2026-10-28,714 (LV),Scott Jensen,R,39%,False,"October 24–28, 2026",General,,4.2
+2026,Minnesota,MN,state auditor,General,KSTP,2026-10-01 to 2026-10-15,2026-10-01,2026-10-15,"October 8–12, 2026",Scott Jensen,R,41%,False,"access-date=October 15, 2026}}",General,,
+2026,Minnesota,MN,state auditor,General,KSTP,2026-09-09 to 2026-09-14,2026-09-09,2026-09-14,654 (LV),Scott Jensen,R,43%,False,"September 9–14, 2026",General,,4.4
+2026,Minnesota,MN,state auditor,General,KSTP,2026-08-13 to 2026-08-17,2026-08-13,2026-08-17,661 (LV),Scott Jensen,R,39%,False,"August 13–17, 2026",General,,4.3
+2026,Minnesota,MN,state auditor,General,KSTP,2026-10-24 to 2026-10-28,2026-10-24,2026-10-28,714 (LV),Jay Reeves (FI),Unknown,4%,False,"October 24–28, 2026",General,,4.2
+2026,Minnesota,MN,state auditor,General,KSTP,2026-10-01 to 2026-10-15,2026-10-01,2026-10-15,"October 8–12, 2026",Jay Reeves (FI),Unknown,40%,False,"access-date=October 15, 2026}}",General,,
+2026,Minnesota,MN,state auditor,General,KSTP,2026-09-09 to 2026-09-14,2026-09-09,2026-09-14,654 (LV),Jay Reeves (FI),Unknown,4%,False,"September 9–14, 2026",General,,4.4
 2026,Minnesota,MN,governor,General,270toWin,2026-10-05 to 2026-11-01,2026-10-05,2026-11-01,,Amy Klobuchar (DFL),Unknown,52.4%,False,"October 5 – November 1, 2026",General,,
 2026,Minnesota,MN,governor,General,Decision Desk HQ,through 2026-11-01,,2026-11-01,,Amy Klobuchar (DFL),Unknown,52.7%,False,"through November 1, 2026",General,,
 2026,Minnesota,MN,governor,General,FiftyPlusOne,through 2026-11-01,,2026-11-01,,Amy Klobuchar (DFL),Unknown,52.3%,False,"through November 1, 2026",General,,
@@ -16959,6 +17146,8 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Minnesota,MN,governor,General,SurveyUSA,2025-09-15 to 2025-09-18,2025-09-15,2025-09-18,568 (LV),Tim Walz (DFL),Unknown,47%,False,"September 15–18, 2025",Hypothetical,Tim Walz vs. Kristin Robbins,4.8
 2026,Minnesota,MN,governor,General,RMG Research,2025-12-10 to 2025-12-16,2025-12-10,2025-12-16,800 (RV),Tim Walz (DFL),Unknown,40%,False,"December 10–16, 2025",Hypothetical,Tim Walz vs. Generic Republican,3.5
 2026,Minnesota,MN,governor,General,RMG Research,2025-12-10 to 2025-12-16,2025-12-10,2025-12-16,800 (RV),Generic Republican,Unknown,46%,False,"December 10–16, 2025",Hypothetical,Tim Walz vs. Generic Republican,3.5
+2026,Missouri,MO,state auditor,General,YouGov,2026-08-13 to 2026-08-24,2026-08-13,2026-08-24,449 (LV),Scott Fitzpatrick,R,45%,True,"August 13–24, 2026",General,,5.9
+2026,Missouri,MO,state auditor,General,YouGov,2026-08-13 to 2026-08-24,2026-08-13,2026-08-24,449 (LV),Quentin Wilson,D,43%,False,"August 13–24, 2026",General,,5.9
 2026,Nebraska,NE,governor,General,Silver Bulletin,through 2026-10-29,,2026-10-29,,Jim Pillen,R,47.0%,True,"through October 29, 2026",General,,
 2026,Nebraska,NE,governor,General,YouGov,2026-10-26 to 2026-10-29,2026-10-26,2026-10-29,"1,979 (LV)",Jim Pillen,R,50%,True,"October 26–29, 2026",General,,2.8
 2026,Nebraska,NE,governor,General,New York Times,2026-10-23 to 2026-10-29,2026-10-23,2026-10-29,809 (LV),Jim Pillen,R,53%,True,"October 23–29, 2026",General,,4.0
@@ -17022,6 +17211,8 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Nevada,NV,secretary of state,General,Noble Predictive Insights,2026-09-22 to 2026-09-26,2026-09-22,2026-09-26,800 (RV),Jim Marchant,R,32%,False,"September 22–26, 2026",General,,3.5
 2026,Nevada,NV,secretary of state,General,RightCount Nevada (R),2026-02-23 to 2026-02-26,2026-02-23,2026-02-26,600 (RV),Cisco Aguilar,D,49%,True,"February 23–26, 2026",Hypothetical,Aguilar vs. Folkins-Roberts,4.1
 2026,Nevada,NV,secretary of state,General,RightCount Nevada (R),2026-02-23 to 2026-02-26,2026-02-23,2026-02-26,600 (RV),Shirley Folkins-Roberts,R,47%,False,"February 23–26, 2026",Hypothetical,Aguilar vs. Folkins-Roberts,4.1
+2026,Nevada,NV,state auditor,General,Noble Predictive Insights,2026-09-22 to 2026-09-26,2026-09-22,2026-09-26,800 (RV),Andy Matthews,R,31%,True,"September 22–26, 2026",General,,3.5
+2026,Nevada,NV,state auditor,General,Noble Predictive Insights,2026-09-22 to 2026-09-26,2026-09-22,2026-09-26,800 (RV),Michael MacDougall,D,39%,False,"September 22–26, 2026",General,,3.5
 2026,Nevada,NV,state treasurer,General,Noble Predictive Insights,2026-09-22 to 2026-09-26,2026-09-22,2026-09-26,800 (RV),Tya Mathis-Coleman,D,37%,False,"September 22–26, 2026",General,,3.5
 2026,Nevada,NV,state treasurer,General,Noble Predictive Insights,2026-09-22 to 2026-09-26,2026-09-22,2026-09-26,800 (RV),Drew Johnson,R,33%,False,"September 22–26, 2026",General,,3.5
 2026,Nevada,NV,governor,General,270toWin,2026-09-05 to 2026-09-26,2026-09-05,2026-09-26,,Joe Lombardo,R,42.0%,True,"September 5–26, 2026",General,,
@@ -17145,6 +17336,12 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,New York,NY,attorney general,General,CNN-News18,2026-10-12 to 2026-10-14,2026-10-12,2026-10-14,"1,000 (LV)",Saritha Komatireddy,R,45%,False,"October 12–14, 2026",General,,2.8
 2026,New York,NY,attorney general,General,Siena College,2026-09-11 to 2026-09-17,2026-09-11,2026-09-17,"1,144 (LV)",Saritha Komatireddy,R,39%,False,"September 11–17, 2026",General,,3.9
 2026,New York,NY,attorney general,General,Siena College,2026-08-03 to 2026-08-06,2026-08-03,2026-08-06,811 (LV),Saritha Komatireddy,R,36%,False,"August 3–6, 2026",General,,4.2
+2026,New York,NY,state auditor,General,Siena College,2026-10-19 to 2026-10-22,2026-10-19,2026-10-22,807 (LV),Tom DiNapoli,D,59%,False,"October 19–22, 2026",General,,4.1
+2026,New York,NY,state auditor,General,Siena College,2026-09-11 to 2026-09-17,2026-09-11,2026-09-17,"1,144 (LV)",Tom DiNapoli,D,56%,False,"September 11–17, 2026",General,,3.9
+2026,New York,NY,state auditor,General,Siena College,2026-08-03 to 2026-08-06,2026-08-03,2026-08-06,811 (LV),Tom DiNapoli,D,55%,False,"August 3–6, 2026",General,,4.2
+2026,New York,NY,state auditor,General,Siena College,2026-10-19 to 2026-10-22,2026-10-19,2026-10-22,807 (LV),Joseph Hernandez,R,32%,False,"October 19–22, 2026",General,,4.1
+2026,New York,NY,state auditor,General,Siena College,2026-09-11 to 2026-09-17,2026-09-11,2026-09-17,"1,144 (LV)",Joseph Hernandez,R,33%,False,"September 11–17, 2026",General,,3.9
+2026,New York,NY,state auditor,General,Siena College,2026-08-03 to 2026-08-06,2026-08-03,2026-08-06,811 (LV),Joseph Hernandez,R,32%,False,"August 3–6, 2026",General,,4.2
 2026,New York,NY,governor,General,270toWin,2026-09-11 to 2026-10-06,2026-09-11,2026-10-06,,Kathy Hochul,Unknown,52.3%,True,"September 11 – October 6, 2026",General,,
 2026,New York,NY,governor,General,Decision Desk HQ,through 2026-10-19,,2026-10-19,,Kathy Hochul,Unknown,53.3%,True,"through October 19, 2026",General,,
 2026,New York,NY,governor,General,FiftyPlusOne,through 2026-10-19,,2026-10-19,,Kathy Hochul,Unknown,52.9%,True,"through October 19, 2026",General,,
@@ -17268,6 +17465,54 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,New York,NY,governor,General,Citizen Data,2025-02-10,2025-02-10,2025-02-10,"1,000 (RV)",Mike Lawler,R,38%,False,"February 10, 2025",Hypothetical,Kathy Hochul vs. Mike Lawler,3.1
 2026,New York,NY,governor,General,J.L. Partners (R),2025-11-09 to 2025-11-10,2025-11-09,2025-11-10,500 (LV),Generic Republican,Unknown,42%,False,"November 9–10, 2025",Hypothetical,Kathy Hochul vs. generic Republican,4.4
 2026,New York,NY,governor,General,Manhattan Institute,2025-10-22 to 2025-10-26,2025-10-22,2025-10-26,900 (LV/RV),Antonio Delgado,D,37%,False,"October 22–26, 2025",Hypothetical,Antonio Delgado vs. Elise Stefanik,3.3
+2026,North Carolina,NC,judicial,General,Harper Polling,2026-10-18 to 2026-10-20,2026-10-18,2026-10-20,600 (LV),Anita Earls,D,47%,True,"October 18–20, 2026",General,,4.0
+2026,North Carolina,NC,judicial,General,High Point University,2026-10-01 to 2026-10-20,2026-10-01,2026-10-20,620 (LV),Anita Earls,D,51%,True,"October 1–20, 2026",General,,4.7
+2026,North Carolina,NC,judicial,General,Change Research,2026-10-01 to 2026-10-07,2026-10-01,2026-10-07,829 (LV),Anita Earls,D,50%,True,"October 1–7, 2026",General,,3.7
+2026,North Carolina,NC,judicial,General,Catawba College,2026-09-04 to 2026-09-15,2026-09-04,2026-09-15,885 (LV),Anita Earls,D,44%,True,"September 4–15, 2026",General,,
+2026,North Carolina,NC,judicial,General,High Point University,2026-09-09 to 2026-09-16,2026-09-09,2026-09-16,813 (RV),Anita Earls,D,43%,True,"September 9–16, 2026",General,,3.8
+2026,North Carolina,NC,judicial,General,Harper Polling,2026-09-13 to 2026-09-15,2026-09-13,2026-09-15,608 (LV),Anita Earls,D,47%,True,"September 13–15, 2026",General,,4.0
+2026,North Carolina,NC,judicial,General,YouGov,2026-08-03 to 2026-08-12,2026-08-03,2026-08-12,660 (LV),Anita Earls,D,47%,True,"August 3–12, 2026",General,,3.8
+2026,North Carolina,NC,judicial,General,Harper Polling,2026-08-09 to 2026-08-10,2026-08-09,2026-08-10,600 (LV),Anita Earls,D,43%,True,"August 9–10, 2026",General,,4.0
+2026,North Carolina,NC,judicial,General,Change Research,2026-07-29 to 2026-08-01,2026-07-29,2026-08-01,967 (LV),Anita Earls,D,45%,True,"July 29 – August 1, 2026",General,,3.4
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-07-10 to 2026-07-11,2026-07-10,2026-07-11,759 (LV),Anita Earls,D,44%,True,"July 10–11, 2026",General,,3.6
+2026,North Carolina,NC,judicial,General,YouGov,2026-06-01 to 2026-06-10,2026-06-01,2026-06-10,906 (LV),Anita Earls,D,40%,True,"June 1–10, 2026",General,,3.8
+2026,North Carolina,NC,judicial,General,Harper Polling,2026-05-10 to 2026-05-11,2026-05-10,2026-05-11,600 (LV),Anita Earls,D,41%,True,"May 10–11, 2026",General,,4.0
+2026,North Carolina,NC,judicial,General,Change Research,2026-05-04 to 2026-05-08,2026-05-04,2026-05-08,957 (LV),Anita Earls,D,44%,True,"May 4–8, 2026",General,,3.3
+2026,North Carolina,NC,judicial,General,YouGov,2026-03-26 to 2026-04-06,2026-03-26,2026-04-06,703 (LV),Anita Earls,D,43%,True,"March 26 – April 6, 2026",General,,3.7
+2026,North Carolina,NC,judicial,General,Harper Polling,2026-03-22 to 2026-03-23,2026-03-22,2026-03-23,600 (LV),Anita Earls,D,41%,True,"March 22–23, 2026",General,,4.0
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-03-13 to 2026-03-14,2026-03-13,2026-03-14,,Anita Earls,D,± 4.2%,True,"March 13–14, 2026",General,,
+2026,North Carolina,NC,judicial,General,Change Research,2026-01-31 to 2026-02-04,2026-01-31,2026-02-04,"1,069 (V)",Anita Earls,D,45%,True,"January 31 – February 4, 2026",General,,3.1
+2026,North Carolina,NC,judicial,General,Change Research,2026-01-05 to 2026-01-07,2026-01-05,2026-01-07,"1,105 (LV)",Anita Earls,D,41%,True,"January 5–7, 2026",General,,3.5
+2026,North Carolina,NC,judicial,General,Harper Polling,2026-10-18 to 2026-10-20,2026-10-18,2026-10-20,600 (LV),Sarah Stevens,R,40%,False,"October 18–20, 2026",General,,4.0
+2026,North Carolina,NC,judicial,General,High Point University,2026-10-01 to 2026-10-20,2026-10-01,2026-10-20,620 (LV),Sarah Stevens,R,43%,False,"October 1–20, 2026",General,,4.7
+2026,North Carolina,NC,judicial,General,Change Research,2026-10-01 to 2026-10-07,2026-10-01,2026-10-07,829 (LV),Sarah Stevens,R,41%,False,"October 1–7, 2026",General,,3.7
+2026,North Carolina,NC,judicial,General,Catawba College,2026-09-04 to 2026-09-15,2026-09-04,2026-09-15,885 (LV),Sarah Stevens,R,36%,False,"September 4–15, 2026",General,,
+2026,North Carolina,NC,judicial,General,High Point University,2026-09-09 to 2026-09-16,2026-09-09,2026-09-16,813 (RV),Sarah Stevens,R,41%,False,"September 9–16, 2026",General,,3.8
+2026,North Carolina,NC,judicial,General,Harper Polling,2026-09-13 to 2026-09-15,2026-09-13,2026-09-15,608 (LV),Sarah Stevens,R,36%,False,"September 13–15, 2026",General,,4.0
+2026,North Carolina,NC,judicial,General,YouGov,2026-08-03 to 2026-08-12,2026-08-03,2026-08-12,660 (LV),Sarah Stevens,R,44%,False,"August 3–12, 2026",General,,3.8
+2026,North Carolina,NC,judicial,General,Harper Polling,2026-08-09 to 2026-08-10,2026-08-09,2026-08-10,600 (LV),Sarah Stevens,R,40%,False,"August 9–10, 2026",General,,4.0
+2026,North Carolina,NC,judicial,General,Change Research,2026-07-29 to 2026-08-01,2026-07-29,2026-08-01,967 (LV),Sarah Stevens,R,39%,False,"July 29 – August 1, 2026",General,,3.4
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-07-10 to 2026-07-11,2026-07-10,2026-07-11,759 (LV),Sarah Stevens,R,42%,False,"July 10–11, 2026",General,,3.6
+2026,North Carolina,NC,judicial,General,YouGov,2026-06-01 to 2026-06-10,2026-06-01,2026-06-10,906 (LV),Sarah Stevens,R,35%,False,"June 1–10, 2026",General,,3.8
+2026,North Carolina,NC,judicial,General,Harper Polling,2026-05-10 to 2026-05-11,2026-05-10,2026-05-11,600 (LV),Sarah Stevens,R,36%,False,"May 10–11, 2026",General,,4.0
+2026,North Carolina,NC,judicial,General,Change Research,2026-05-04 to 2026-05-08,2026-05-04,2026-05-08,957 (LV),Sarah Stevens,R,40%,False,"May 4–8, 2026",General,,3.3
+2026,North Carolina,NC,judicial,General,YouGov,2026-03-26 to 2026-04-06,2026-03-26,2026-04-06,703 (LV),Sarah Stevens,R,43%,False,"March 26 – April 6, 2026",General,,3.7
+2026,North Carolina,NC,judicial,General,Harper Polling,2026-03-22 to 2026-03-23,2026-03-22,2026-03-23,600 (LV),Sarah Stevens,R,38%,False,"March 22–23, 2026",General,,4.0
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-03-13 to 2026-03-14,2026-03-13,2026-03-14,,Sarah Stevens,R,43%,False,"March 13–14, 2026",General,,
+2026,North Carolina,NC,judicial,General,Change Research,2026-01-31 to 2026-02-04,2026-01-31,2026-02-04,"1,069 (V)",Sarah Stevens,R,43%,False,"January 31 – February 4, 2026",General,,3.1
+2026,North Carolina,NC,judicial,General,Change Research,2026-01-05 to 2026-01-07,2026-01-05,2026-01-07,"1,105 (LV)",Sarah Stevens,R,42%,False,"January 5–7, 2026",General,,3.5
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-07-10 to 2026-07-11,2026-07-10,2026-07-11,759 (LV),John Arrowood,D,40%,False,"July 10–11, 2026",General,,3.6
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-03-13 to 2026-03-14,2026-03-13,2026-03-14,556 (V),John Arrowood,D,43%,False,"March 13–14, 2026",General,,4.2
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-07-10 to 2026-07-11,2026-07-10,2026-07-11,759 (LV),Michael Byrne,R,41%,False,"July 10–11, 2026",General,,3.6
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-03-13 to 2026-03-14,2026-03-13,2026-03-14,556 (V),Michael Byrne,R,40%,False,"March 13–14, 2026",General,,4.2
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-07-10 to 2026-07-11,2026-07-10,2026-07-11,759 (LV),Toby Hampson,D,40%,False,"July 10–11, 2026",General,,3.6
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-03-13 to 2026-03-14,2026-03-13,2026-03-14,556 (V),Toby Hampson,D,41%,False,"March 13–14, 2026",General,,4.2
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-07-10 to 2026-07-11,2026-07-10,2026-07-11,759 (LV),George Bell,R,43%,False,"July 10–11, 2026",General,,3.6
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-03-13 to 2026-03-14,2026-03-13,2026-03-14,556 (V),George Bell,R,43%,False,"March 13–14, 2026",General,,4.2
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-07-10 to 2026-07-11,2026-07-10,2026-07-11,759 (LV),Christine Walczyk,D,41%,False,"July 10–11, 2026",General,,3.6
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-03-13 to 2026-03-14,2026-03-13,2026-03-14,556 (V),Christine Walczyk,D,42%,False,"March 13–14, 2026",General,,4.2
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-07-10 to 2026-07-11,2026-07-10,2026-07-11,759 (LV),Craig Collins,R,41%,False,"July 10–11, 2026",General,,3.6
+2026,North Carolina,NC,judicial,General,Public Policy Polling,2026-03-13 to 2026-03-14,2026-03-13,2026-03-14,556 (V),Craig Collins,R,41%,False,"March 13–14, 2026",General,,4.2
 2026,Ohio,OH,attorney general,General,DocumentCloud,2026-07-29 to 2026-08-04,2026-07-29,2026-08-04,600 (LV),Keith Faber,R,32%,False,"July 29 – August 4, 2026",General,,4.0
 2026,Ohio,OH,attorney general,General,Twitter,2026-06-02 to 2026-06-04,2026-06-02,2026-06-04,600 (LV),Keith Faber,R,34%,False,"June 2–4, 2026",General,,4.0
 2026,Ohio,OH,attorney general,General,DocumentCloud,2026-07-29 to 2026-08-04,2026-07-29,2026-08-04,600 (LV),John Kulewicz,D,36%,False,"July 29 – August 4, 2026",General,,4.0
@@ -17540,6 +17785,10 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,South Carolina,SC,attorney general,General,Trafalgar Group,2026-10-16 to 2026-10-18,2026-10-16,2026-10-18,"1,095 (LV)",David Stumbo,R,52%,False,"October 16–18, 2026",General,,2.9
 2026,South Carolina,SC,attorney general,General,Trafalgar Group,2026-10-31 to 2026-11-01,2026-10-31,2026-11-01,"1,091 (LV)",Richard Hricik,D,37%,False,"October 31 – November 1, 2026",General,,2.9
 2026,South Carolina,SC,attorney general,General,Trafalgar Group,2026-10-16 to 2026-10-18,2026-10-16,2026-10-18,"1,095 (LV)",Richard Hricik,D,37%,False,"October 16–18, 2026",General,,2.9
+2026,South Carolina,SC,agriculture commissioner,General,Trafalgar Group,2026-10-31 to 2026-11-01,2026-10-31,2026-11-01,"1,091 (LV)",Cody Simpson,R,51%,False,"October 31 – November 1, 2026",General,,2.9
+2026,South Carolina,SC,agriculture commissioner,General,Trafalgar Group,2026-10-16 to 2026-10-18,2026-10-16,2026-10-18,"1,095 (LV)",Cody Simpson,R,51%,False,"October 16–18, 2026",General,,2.9
+2026,South Carolina,SC,agriculture commissioner,General,Trafalgar Group,2026-10-31 to 2026-11-01,2026-10-31,2026-11-01,"1,091 (LV)",DeShawn Blanding,D,33%,False,"October 31 – November 1, 2026",General,,2.9
+2026,South Carolina,SC,agriculture commissioner,General,Trafalgar Group,2026-10-16 to 2026-10-18,2026-10-16,2026-10-18,"1,095 (LV)",DeShawn Blanding,D,33%,False,"October 16–18, 2026",General,,2.9
 2026,South Carolina,SC,governor,General,Trafalgar Group,2026-10-31 to 2026-11-01,2026-10-31,2026-11-01,"1,091 (LV)",Alan Wilson,R,54%,False,"October 31 – November 1, 2026",General,,2.9
 2026,South Carolina,SC,governor,General,Resonance Media Services (R),2026-10-30,2026-10-30,2026-10-30,600 (LV),Alan Wilson,R,51%,False,"October 30, 2026",General,,4.0
 2026,South Carolina,SC,governor,General,New York Times,2026-10-19 to 2026-10-26,2026-10-19,2026-10-26,707 (LV),Alan Wilson,R,51%,False,"October 19–26, 2026",General,,4.3
@@ -17584,6 +17833,18 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Tennessee,TN,governor,General,TargetSmart,2026-09-09 to 2026-09-12,2026-09-09,2026-09-12,600 (LV),David Hatley,I,10%,False,"September 9–12, 2026",General,,4.0
 2026,Tennessee,TN,governor,General,Quantus Insights (R),2025-08-05 to 2025-08-07,2025-08-05,2025-08-07,600 (RV),John Rose,R,43%,False,"August 5–7, 2025",Hypothetical,John Rose vs. Jerri Green,3.5
 2026,Tennessee,TN,governor,General,Quantus Insights (R),2025-08-05 to 2025-08-07,2025-08-05,2025-08-07,600 (RV),Jerri Green,D,27%,False,"August 5–7, 2025",Hypothetical,John Rose vs. Jerri Green,3.5
+2026,Texas,TX,agriculture commissioner,General,Substack,2026-10-15 to 2026-10-18,2026-10-15,2026-10-18,969 (LV),Nate Sheets,R,50%,False,"October 15–18, 2026",General,,3.9
+2026,Texas,TX,agriculture commissioner,General,University of Houston,2026-10-10 to 2026-10-14,2026-10-10,2026-10-14,"2,000 (LV)",Nate Sheets,R,46%,False,"October 10–14, 2026",General,,2.2
+2026,Texas,TX,agriculture commissioner,General,Politico,2026-09-22 to 2026-09-24,2026-09-22,2026-09-24,865 (LV),Nate Sheets,R,47%,False,"September 22–24, 2026",General,,3.5
+2026,Texas,TX,agriculture commissioner,General,Texas Public Opinion Research,2026-09-19 to 2026-09-22,2026-09-19,2026-09-22,"1,007 (LV)",Nate Sheets,R,46%,False,"September 19–22, 2026",General,,3.6
+2026,Texas,TX,agriculture commissioner,General,Texas Southern University,2026-09-15 to 2026-09-19,2026-09-15,2026-09-19,"1,800 (LV)",Nate Sheets,R,45%,False,"September 15–19, 2026",General,,2.3
+2026,Texas,TX,agriculture commissioner,General,Texas Public Opinion Research,2026-08-21 to 2026-08-24,2026-08-21,2026-08-24,"1,000 (LV)",Nate Sheets,R,44%,False,"August 21–24, 2026",General,,3.3
+2026,Texas,TX,agriculture commissioner,General,Substack,2026-10-15 to 2026-10-18,2026-10-15,2026-10-18,969 (LV),Clayton Tucker,D,48%,False,"October 15–18, 2026",General,,3.9
+2026,Texas,TX,agriculture commissioner,General,University of Houston,2026-10-10 to 2026-10-14,2026-10-10,2026-10-14,"2,000 (LV)",Clayton Tucker,D,40%,False,"October 10–14, 2026",General,,2.2
+2026,Texas,TX,agriculture commissioner,General,Politico,2026-09-22 to 2026-09-24,2026-09-22,2026-09-24,865 (LV),Clayton Tucker,D,41%,False,"September 22–24, 2026",General,,3.5
+2026,Texas,TX,agriculture commissioner,General,Texas Public Opinion Research,2026-09-19 to 2026-09-22,2026-09-19,2026-09-22,"1,007 (LV)",Clayton Tucker,D,44%,False,"September 19–22, 2026",General,,3.6
+2026,Texas,TX,agriculture commissioner,General,Texas Southern University,2026-09-15 to 2026-09-19,2026-09-15,2026-09-19,"1,800 (LV)",Clayton Tucker,D,39%,False,"September 15–19, 2026",General,,2.3
+2026,Texas,TX,agriculture commissioner,General,Texas Public Opinion Research,2026-08-21 to 2026-08-24,2026-08-21,2026-08-24,"1,000 (LV)",Clayton Tucker,D,40%,False,"August 21–24, 2026",General,,3.3
 2026,Texas,TX,attorney general,General,Texas Southern University,2026-10-21 to 2026-10-25,2026-10-21,2026-10-25,"2,000 (LV)",Mayes Middleton,R,49%,False,"October 21–25, 2026",General,,2.2
 2026,Texas,TX,attorney general,General,Substack,2026-10-15 to 2026-10-18,2026-10-15,2026-10-18,969 (LV),Mayes Middleton,R,50%,False,"October 15–18, 2026",General,,3.9
 2026,Texas,TX,attorney general,General,University of Houston,2026-10-10 to 2026-10-14,2026-10-10,2026-10-14,"2,000 (LV)",Mayes Middleton,R,47%,False,"October 10–14, 2026",General,,2.2
@@ -17620,6 +17881,60 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Texas,TX,attorney general,General,Slingshot Strategies (D),2026-04-17 to 2026-04-20,2026-04-17,2026-04-20,"1,018 (LV)",Joe Jaworski or Nathan Johnson,D,39%,False,"April 17–20, 2026",Hypothetical,Mayes Middleton or Chip Roy vs. Joe Jaworski or Nathan Johnson,3.3
 2026,Texas,TX,attorney general,General,Texas Public Opinion Research,2025-08-27 to 2025-08-29,2025-08-27,2025-08-29,843 (RV),Generic Republican,Unknown,47%,False,"August 27–29, 2025",Hypothetical,Generic Republican vs. generic Democrat,4.6
 2026,Texas,TX,attorney general,General,Texas Public Opinion Research,2025-08-27 to 2025-08-29,2025-08-27,2025-08-29,843 (RV),Generic Democrat,Unknown,44%,False,"August 27–29, 2025",Hypothetical,Generic Republican vs. generic Democrat,4.6
+2026,Texas,TX,state treasurer,General,Texas Southern University,2026-10-21 to 2026-10-25,2026-10-21,2026-10-25,"2,000 (LV)",Don Huffines,R,50%,True,"October 21–25, 2026",General,,2.2
+2026,Texas,TX,state treasurer,General,Substack,2026-10-15 to 2026-10-18,2026-10-15,2026-10-18,969 (LV),Don Huffines,R,50%,True,"October 15–18, 2026",General,,3.9
+2026,Texas,TX,state treasurer,General,University of Houston,2026-10-10 to 2026-10-14,2026-10-10,2026-10-14,"2,000 (LV)",Don Huffines,R,47%,True,"October 10–14, 2026",General,,2.2
+2026,Texas,TX,state treasurer,General,University of Texas,2026-09-25 to 2026-10-05,2026-09-25,2026-10-05,861 (LV),Don Huffines,R,47%,True,"September 25 – October 5, 2026",General,,3.3
+2026,Texas,TX,state treasurer,General,Politico,2026-09-22 to 2026-09-24,2026-09-22,2026-09-24,865 (LV),Don Huffines,R,49%,True,"September 22–24, 2026",General,,3.5
+2026,Texas,TX,state treasurer,General,Texas Public Opinion Research,2026-09-19 to 2026-09-22,2026-09-19,2026-09-22,"1,007 (LV)",Don Huffines,R,46%,True,"September 19–22, 2026",General,,3.6
+2026,Texas,TX,state treasurer,General,Texas Southern University,2026-09-15 to 2026-09-19,2026-09-15,2026-09-19,"1,800 (LV)",Don Huffines,R,47%,True,"September 15–19, 2026",General,,2.3
+2026,Texas,TX,state treasurer,General,Texas Public Opinion Research,2026-08-21 to 2026-08-24,2026-08-21,2026-08-24,"1,000 (LV)",Don Huffines,R,43%,True,"August 21–24, 2026",General,,3.3
+2026,Texas,TX,state treasurer,General,University of Texas,2026-08-05 to 2026-08-13,2026-08-05,2026-08-13,"1,200 (RV)",Don Huffines,R,41%,True,"August 5–13, 2026",General,,2.83
+2026,Texas,TX,state treasurer,General,Texas Southern University,2026-07-27 to 2026-07-30,2026-07-27,2026-07-30,"1,200 (LV)",Don Huffines,R,46%,True,"July 27–30, 2026",General,,2.8
+2026,Texas,TX,state treasurer,General,University of Texas,2026-06-05 to 2026-06-12,2026-06-05,2026-06-12,"1,200 (RV)",Don Huffines,R,40%,True,"June 5–12, 2026",General,,3.47
+2026,Texas,TX,state treasurer,General,Texas Southern University,2026-10-21 to 2026-10-25,2026-10-21,2026-10-25,"2,000 (LV)",Sarah Eckhardt,D,44%,False,"October 21–25, 2026",General,,2.2
+2026,Texas,TX,state treasurer,General,Substack,2026-10-15 to 2026-10-18,2026-10-15,2026-10-18,969 (LV),Sarah Eckhardt,D,48%,False,"October 15–18, 2026",General,,3.9
+2026,Texas,TX,state treasurer,General,University of Houston,2026-10-10 to 2026-10-14,2026-10-10,2026-10-14,"2,000 (LV)",Sarah Eckhardt,D,40%,False,"October 10–14, 2026",General,,2.2
+2026,Texas,TX,state treasurer,General,University of Texas,2026-09-25 to 2026-10-05,2026-09-25,2026-10-05,861 (LV),Sarah Eckhardt,D,46%,False,"September 25 – October 5, 2026",General,,3.3
+2026,Texas,TX,state treasurer,General,Politico,2026-09-22 to 2026-09-24,2026-09-22,2026-09-24,865 (LV),Sarah Eckhardt,D,43%,False,"September 22–24, 2026",General,,3.5
+2026,Texas,TX,state treasurer,General,Texas Public Opinion Research,2026-09-19 to 2026-09-22,2026-09-19,2026-09-22,"1,007 (LV)",Sarah Eckhardt,D,43%,False,"September 19–22, 2026",General,,3.6
+2026,Texas,TX,state treasurer,General,Texas Southern University,2026-09-15 to 2026-09-19,2026-09-15,2026-09-19,"1,800 (LV)",Sarah Eckhardt,D,39%,False,"September 15–19, 2026",General,,2.3
+2026,Texas,TX,state treasurer,General,Texas Public Opinion Research,2026-08-21 to 2026-08-24,2026-08-21,2026-08-24,"1,000 (LV)",Sarah Eckhardt,D,41%,False,"August 21–24, 2026",General,,3.3
+2026,Texas,TX,state treasurer,General,University of Texas,2026-08-05 to 2026-08-13,2026-08-05,2026-08-13,"1,200 (RV)",Sarah Eckhardt,D,34%,False,"August 5–13, 2026",General,,2.83
+2026,Texas,TX,state treasurer,General,Texas Southern University,2026-07-27 to 2026-07-30,2026-07-27,2026-07-30,"1,200 (LV)",Sarah Eckhardt,D,39%,False,"July 27–30, 2026",General,,2.8
+2026,Texas,TX,state treasurer,General,University of Texas,2026-06-05 to 2026-06-12,2026-06-05,2026-06-12,"1,200 (RV)",Sarah Eckhardt,D,34%,False,"June 5–12, 2026",General,,3.47
+2026,Texas,TX,land commissioner,General,Substack,2026-10-15 to 2026-10-18,2026-10-15,2026-10-18,969 (LV),Dawn Buckingham,R,49%,True,"October 15–18, 2026",General,,3.9
+2026,Texas,TX,land commissioner,General,University of Houston,2026-10-10 to 2026-10-14,2026-10-10,2026-10-14,"2,000 (LV)",Dawn Buckingham,R,47%,True,"October 10–14, 2026",General,,2.2
+2026,Texas,TX,land commissioner,General,Texas Public Opinion Research,2026-09-19 to 2026-09-22,2026-09-19,2026-09-22,"1,007 (LV)",Dawn Buckingham,R,46%,True,"September 19–22, 2026",General,,3.6
+2026,Texas,TX,land commissioner,General,Texas Southern University,2026-09-15 to 2026-09-19,2026-09-15,2026-09-19,"1,800 (LV)",Dawn Buckingham,R,47%,True,"September 15–19, 2026",General,,2.3
+2026,Texas,TX,land commissioner,General,Texas Public Opinion Research,2026-08-21 to 2026-08-24,2026-08-21,2026-08-24,"1,000 (LV)",Dawn Buckingham,R,44%,True,"August 21–24, 2026",General,,3.3
+2026,Texas,TX,land commissioner,General,Texas Southern University,2026-07-27 to 2026-07-30,2026-07-27,2026-07-30,"1,200 (LV)",Dawn Buckingham,R,45%,True,"July 27–30, 2026",General,,2.8
+2026,Texas,TX,land commissioner,General,Substack,2026-10-15 to 2026-10-18,2026-10-15,2026-10-18,969 (LV),Benjamin Flores,D,48%,False,"October 15–18, 2026",General,,3.9
+2026,Texas,TX,land commissioner,General,University of Houston,2026-10-10 to 2026-10-14,2026-10-10,2026-10-14,"2,000 (LV)",Benjamin Flores,D,40%,False,"October 10–14, 2026",General,,2.2
+2026,Texas,TX,land commissioner,General,Texas Public Opinion Research,2026-09-19 to 2026-09-22,2026-09-19,2026-09-22,"1,007 (LV)",Benjamin Flores,D,43%,False,"September 19–22, 2026",General,,3.6
+2026,Texas,TX,land commissioner,General,Texas Southern University,2026-09-15 to 2026-09-19,2026-09-15,2026-09-19,"1,800 (LV)",Benjamin Flores,D,39%,False,"September 15–19, 2026",General,,2.3
+2026,Texas,TX,land commissioner,General,Texas Public Opinion Research,2026-08-21 to 2026-08-24,2026-08-21,2026-08-24,"1,000 (LV)",Benjamin Flores,D,40%,False,"August 21–24, 2026",General,,3.3
+2026,Texas,TX,land commissioner,General,Texas Southern University,2026-07-27 to 2026-07-30,2026-07-27,2026-07-30,"1,200 (LV)",Benjamin Flores,D,40%,False,"July 27–30, 2026",General,,2.8
+2026,Texas,TX,railroad commissioner,General,Texas Southern University,2026-10-21 to 2026-10-25,2026-10-21,2026-10-25,"2,000 (LV)",Bo French,R,47%,False,"October 21–25, 2026",General,,2.2
+2026,Texas,TX,railroad commissioner,General,Substack,2026-10-15 to 2026-10-18,2026-10-15,2026-10-18,969 (LV),Bo French,R,50%,False,"October 15–18, 2026",General,,3.9
+2026,Texas,TX,railroad commissioner,General,ActiVote,2026-09-25 to 2026-10-17,2026-09-25,2026-10-17,400 (LV),Bo French,R,52%,False,"September 25 – October 17, 2026",General,,4.9
+2026,Texas,TX,railroad commissioner,General,University of Houston,2026-10-10 to 2026-10-14,2026-10-10,2026-10-14,"2,000 (LV)",Bo French,R,45%,False,"October 10–14, 2026",General,,2.2
+2026,Texas,TX,railroad commissioner,General,University of Texas,2026-09-25 to 2026-10-05,2026-09-25,2026-10-05,861 (LV),Bo French,R,46%,False,"September 25 – October 5, 2026",General,,3.3
+2026,Texas,TX,railroad commissioner,General,Stratus Intelligence,2026-09-22 to 2026-09-24,2026-09-22,2026-09-24,856 (LV),Bo French,R,46%,False,"September 22–24, 2026",General,,3.5
+2026,Texas,TX,railroad commissioner,General,Texas Public Opinion Research,2026-09-19 to 2026-09-22,2026-09-19,2026-09-22,"1,007 (LV)",Bo French,R,45%,False,"September 19–22, 2026",General,,3.6
+2026,Texas,TX,railroad commissioner,General,Texas Southern University,2026-09-15 to 2026-09-19,2026-09-15,2026-09-19,"1,800 (LV)",Bo French,R,44%,False,"September 15–19, 2026",General,,2.3
+2026,Texas,TX,railroad commissioner,General,Texas Public Opinion Research,2026-08-21 to 2026-08-24,2026-08-21,2026-08-24,"1,000 (LV)",Bo French,R,45%,False,"August 21–24, 2026",General,,3.3
+2026,Texas,TX,railroad commissioner,General,Texas Southern University,2026-07-27 to 2026-07-30,2026-07-27,2026-07-30,"1,200 (LV)",Bo French,R,44%,False,"July 27–30, 2026",General,,2.8
+2026,Texas,TX,railroad commissioner,General,Texas Southern University,2026-10-21 to 2026-10-25,2026-10-21,2026-10-25,"2,000 (LV)",Jon Rosenthal,D,46%,False,"October 21–25, 2026",General,,2.2
+2026,Texas,TX,railroad commissioner,General,Substack,2026-10-15 to 2026-10-18,2026-10-15,2026-10-18,969 (LV),Jon Rosenthal,D,48%,False,"October 15–18, 2026",General,,3.9
+2026,Texas,TX,railroad commissioner,General,ActiVote,2026-09-25 to 2026-10-17,2026-09-25,2026-10-17,400 (LV),Jon Rosenthal,D,48%,False,"September 25 – October 17, 2026",General,,4.9
+2026,Texas,TX,railroad commissioner,General,University of Houston,2026-10-10 to 2026-10-14,2026-10-10,2026-10-14,"2,000 (LV)",Jon Rosenthal,D,43%,False,"October 10–14, 2026",General,,2.2
+2026,Texas,TX,railroad commissioner,General,University of Texas,2026-09-25 to 2026-10-05,2026-09-25,2026-10-05,861 (LV),Jon Rosenthal,D,47%,False,"September 25 – October 5, 2026",General,,3.3
+2026,Texas,TX,railroad commissioner,General,Stratus Intelligence,2026-09-22 to 2026-09-24,2026-09-22,2026-09-24,856 (LV),Jon Rosenthal,D,44%,False,"September 22–24, 2026",General,,3.5
+2026,Texas,TX,railroad commissioner,General,Texas Public Opinion Research,2026-09-19 to 2026-09-22,2026-09-19,2026-09-22,"1,007 (LV)",Jon Rosenthal,D,44%,False,"September 19–22, 2026",General,,3.6
+2026,Texas,TX,railroad commissioner,General,Texas Southern University,2026-09-15 to 2026-09-19,2026-09-15,2026-09-19,"1,800 (LV)",Jon Rosenthal,D,42%,False,"September 15–19, 2026",General,,2.3
+2026,Texas,TX,railroad commissioner,General,Texas Public Opinion Research,2026-08-21 to 2026-08-24,2026-08-21,2026-08-24,"1,000 (LV)",Jon Rosenthal,D,41%,False,"August 21–24, 2026",General,,3.3
+2026,Texas,TX,railroad commissioner,General,Texas Southern University,2026-07-27 to 2026-07-30,2026-07-27,2026-07-30,"1,200 (LV)",Jon Rosenthal,D,41%,False,"July 27–30, 2026",General,,2.8
 2026,Texas,TX,governor,General,270toWin,2026-10-13 to 2026-11-01,2026-10-13,2026-11-01,,Greg Abbott,R,49.3%,True,"October 13 – November 1, 2026",General,,
 2026,Texas,TX,governor,General,Decision Desk HQ,through 2026-11-01,,2026-11-01,,Greg Abbott,R,49.1%,True,"through November 1, 2026",General,,
 2026,Texas,TX,governor,General,FiftyPlusOne,through 2026-11-01,,2026-11-01,,Greg Abbott,R,48.9%,True,"through November 1, 2026",General,,
@@ -17816,6 +18131,10 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2026,Vermont,VT,governor,General,University of New Hampshire,2026-06-18 to 2026-06-23,2026-06-18,2026-06-23,887 (LV),Aly Richards,D,25%,False,"June 18–23, 2026",Hypothetical,Phil Scott vs. Aly Richards,3.3
 2026,Wisconsin,WI,attorney general,General,Global Strategy Group,2026-09-27 to 2026-10-01,2026-09-27,2026-10-01,800 (LV),Josh Kaul,D,50%,True,"September 27 – October 1, 2026",General,,3.5
 2026,Wisconsin,WI,attorney general,General,Global Strategy Group,2026-09-27 to 2026-10-01,2026-09-27,2026-10-01,800 (LV),Eric Toney,R,43%,False,"September 27 – October 1, 2026",General,,3.5
+2026,Wisconsin,WI,judicial,General,Marquette University Law School,2026-03-11 to 2026-03-18,2026-03-11,2026-03-18,597 (LV),Chris Taylor,Unknown,30%,False,"March 11–18, 2026",General,,5.3
+2026,Wisconsin,WI,judicial,General,Marquette University Law School,2026-02-11 to 2026-02-19,2026-02-11,2026-02-19,818 (RV),Chris Taylor,Unknown,17%,False,"February 11–19, 2026",General,,4.3
+2026,Wisconsin,WI,judicial,General,Marquette University Law School,2026-03-11 to 2026-03-18,2026-03-11,2026-03-18,597 (LV),Maria Lazar,Unknown,22%,False,"March 11–18, 2026",General,,5.3
+2026,Wisconsin,WI,judicial,General,Marquette University Law School,2026-02-11 to 2026-02-19,2026-02-11,2026-02-19,818 (RV),Maria Lazar,Unknown,12%,False,"February 11–19, 2026",General,,4.3
 2026,Wisconsin,WI,governor,General,270toWin,2026-09-28 to 2026-10-22,2026-09-28,2026-10-22,,David Crowley,D,48.7%,False,"September 28 – October 22, 2026",General,,
 2026,Wisconsin,WI,governor,General,Decision Desk HQ,through 2026-10-23,,2026-10-23,,David Crowley,D,47.4%,False,"through October 23, 2026",General,,
 2026,Wisconsin,WI,governor,General,FiftyPlusOne,through 2026-10-23,,2026-10-23,,David Crowley,D,48.9%,False,"through October 23, 2026",General,,
