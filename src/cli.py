@@ -19,15 +19,24 @@ Subcommands:
                --no-include-off-years.  Polling extraction can be skipped
                with --no-include-polling.
     state-leg  Parse state legislature results (state senates + state houses).
-    statewide  Parse statewide executive results (gov, AG, SoS, treasurer)
-               AND the accompanying state-level opinion polling from the
-               same race articles plus any dedicated "Opinion polling for
+    statewide  Parse statewide executive results (gov, AG, SoS, treasurer,
+               auditor) AND the accompanying state-level opinion polling from
+               the same race articles plus any dedicated "Opinion polling for
                the {year} {State} ..." article the race links. Odd (off-year)
                cycles — NJ/VA gubernatorial, KY/LA/MS statewide slate — are
                included by default, with per-race primary AND general
                results (vote counts) for every cycle; pass
                --no-include-off-years to process even years only, or
                --no-include-polling to skip polling extraction.
+               State-dependent offices whose races exist only in some states
+               (agriculture commissioner, land commissioner, insurance
+               commissioner, boards, commissions, judicial slates) are
+               discovered FIRST from the "Other statewide elections" row of
+               the {year} United States elections page, then from a curated
+               per-state map, with an opt-in intitle: search fallback;
+               every parsed race also gets a vote-margin row (winner vs.
+               runner-up, pp + votes) in statewide_margins_{year}.csv.
+               Restrict offices with --offices.
     presidential  Parse county-level presidential results per state AND the
                cycle's opinion polling (nationwide + state-level) from the
                dedicated "Nationwide/Statewide opinion polling for the {year}
@@ -71,6 +80,10 @@ Examples:
     python cli.py house --start-year 2018 --end-year 2024 --no-include-polling
     python cli.py presidential --start-year 2020 --end-year 2024
     python cli.py presidential --start-year 2020 --end-year 2024 --no-include-polling
+    python cli.py statewide --start-year 2024 --end-year 2024 \
+        --offices "state treasurer,agriculture commissioner"   # margins too
+    python cli.py statewide --start-year 2018 --end-year 2024 --no-search-discovery
+    python cli.py statewide --start-year 2024 --end-year 2024 --no-year-page-discovery
     python cli.py lean                     # 2004-2024 from local presidential CSVs
     python cli.py lean --fetch-missing     # fetch missing presidential years first
     python cli.py lean --midterm           # midterm lean: house + senate + statewide + state-leg
@@ -201,6 +214,38 @@ def build_parser() -> argparse.ArgumentParser:
              "{year} {State} ...' companion article, writing "
              "statewide_{primary,general}_polling_{year}.csv (default: "
              "on; disable with --no-include-polling)",
+    )
+    statewide.add_argument(
+        "--search-discovery", action=argparse.BooleanOptionalAction,
+        default=False,
+        help="OPT-IN fallback: also run rate-limited intitle: searches for "
+             "state-dependent offices (comptroller, state auditor outside "
+             "2022+, …) beyond the year-page navbox and the curated per-state "
+             "map. Discovery is year-page-first by default — the navbox row "
+             "titles are fetched in batched article requests, so no search "
+             "calls are made unless this flag is passed. Long ranges with "
+             "this flag can trip Wikipedia's rate limiter (403)",
+    )
+    statewide.add_argument(
+        "--year-page-discovery", action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Discover state-dependent races (boards, commissions, "
+             "agriculture commissioner, judicial slates, …) from the "
+             "'Other statewide elections' row of the {year} United States "
+             "elections page and follow its links — dedicated race articles "
+             "are parsed whole, state-year umbrella anchors are sliced to "
+             "the office's section (default: on; disable with "
+             "--no-year-page-discovery to rely on the curated map only)",
+    )
+    statewide.add_argument(
+        "--offices", default=None,
+        help="Comma-separated canonical office labels restricting the run — "
+             "governor, attorney general, secretary of state, state "
+             "treasurer, state auditor, agriculture commissioner, land "
+             "commissioner, insurance commissioner, labor commissioner, "
+             "comptroller, superintendent of public instruction (default: "
+             "all). Example: --offices \"state treasurer,agriculture "
+             "commissioner\"",
     )
 
     sub.add_parser(
@@ -398,6 +443,11 @@ def main(argv: Optional[List[str]] = None) -> int:
         )
 
     if args.command in ("statewide", "all"):
+        offices_arg = getattr(args, "offices", None)
+        office_list = (
+            [o.strip() for o in offices_arg.split(",") if o.strip()]
+            if offices_arg else None
+        )
         statewide_elections.run(
             start_year=args.start_year,
             end_year=args.end_year,
@@ -405,6 +455,9 @@ def main(argv: Optional[List[str]] = None) -> int:
             client=client,
             include_off_years=getattr(args, "include_off_years", True),
             include_polling=getattr(args, "include_polling", True),
+            offices=office_list,
+            search_discovery=getattr(args, "search_discovery", False),
+            year_page_discovery=getattr(args, "year_page_discovery", True),
         )
 
     if args.command in ("presidential", "all"):
