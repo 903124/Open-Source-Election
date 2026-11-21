@@ -620,12 +620,14 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2018,Texas,TX,attorney general,Republican primary results,Total,,,1312172,100.0,False,False,2018 Texas Attorney General election
 2018,Texas,TX,attorney general,Democratic primary results,Winning,Justin Nelson,Democratic,884376,100.0,True,False,2018 Texas Attorney General election
 2018,Texas,TX,attorney general,Democratic primary results,Total,,,884376,100.0,False,False,2018 Texas Attorney General election
-2018,Texas,TX,railroad commissioner,Republican primary results,Winning,Christi Craddick,Republican,1042663,75.83,True,True,2018 Texas Railroad Commissioner election
-2018,Texas,TX,railroad commissioner,Republican primary results,Candidate,Weston Martinez,Republican,332374,24.17,False,False,2018 Texas Railroad Commissioner election
-2018,Texas,TX,railroad commissioner,Republican primary results,Total,,,1375007,100.0,False,False,2018 Texas Railroad Commissioner election
-2018,Texas,TX,railroad commissioner,Democratic primary results,Winning,Roman McAllen,Democratic,539785,58.51,True,False,2018 Texas Railroad Commissioner election
-2018,Texas,TX,railroad commissioner,Democratic primary results,Candidate,Chris Spellmon,Democratic,382795,41.49,False,False,2018 Texas Railroad Commissioner election
-2018,Texas,TX,railroad commissioner,Democratic primary results,Total,,,922580,100.0,False,False,2018 Texas Railroad Commissioner election
+2018,Texas,TX,land commissioner,Republican primary results,Winning,George P. Bush,Republican,856512,58.22,True,True,2018 Texas Land Commissioner election
+2018,Texas,TX,land commissioner,Republican primary results,Candidate,Jerry Patterson,Republican,439602,29.67,False,False,2018 Texas Land Commissioner election
+2018,Texas,TX,land commissioner,Republican primary results,Candidate,Davey Edwards,Republican,101359,6.84,False,False,2018 Texas Land Commissioner election
+2018,Texas,TX,land commissioner,Republican primary results,Candidate,Rick Range,Republican,78124,5.27,False,False,2018 Texas Land Commissioner election
+2018,Texas,TX,land commissioner,Republican primary results,Total,,,1481597,100.0,False,False,2018 Texas Land Commissioner election
+2018,Texas,TX,land commissioner,Democratic primary results,Winning,Miguel Suazo,Democratic,665344,70.15,True,False,2018 Texas Land Commissioner election
+2018,Texas,TX,land commissioner,Democratic primary results,Candidate,Tex Morgan,Democratic,283096,29.85,False,False,2018 Texas Land Commissioner election
+2018,Texas,TX,land commissioner,Democratic primary results,Total,,,948440,100.0,False,False,2018 Texas Land Commissioner election
 2018,Texas,TX,governor,Republican primary results,Winning,Greg Abbott,Republican,1392310,90.38,True,True,2018 Texas gubernatorial election
 2018,Texas,TX,governor,Republican primary results,Candidate,Barbara Krueger,Republican,127549,8.28,False,False,2018 Texas gubernatorial election
 2018,Texas,TX,governor,Republican primary results,Candidate,Larry Kilgore,Republican,20504,1.33,False,False,2018 Texas gubernatorial election

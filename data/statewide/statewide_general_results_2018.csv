@@ -335,10 +335,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2018,Texas,TX,attorney general,General election results,Candidate,Justin Nelson,Democratic,3898098,47.01,False,False,2018 Texas Attorney General election
 2018,Texas,TX,attorney general,General election results,Candidate,Michael Ray Harris,Libertarian,201310,2.43,False,False,2018 Texas Attorney General election
 2018,Texas,TX,attorney general,General election results,Total,,,8292615,100.0,False,False,2018 Texas Attorney General election
-2018,Texas,TX,railroad commissioner,2018 Texas Railroad Commissioner election,Winning,Christi Craddick,Republican,4376729,53.2,True,True,2018 Texas Railroad Commissioner election
-2018,Texas,TX,railroad commissioner,2018 Texas Railroad Commissioner election,Candidate,Roman McAllen,Democratic,3612130,43.91,False,False,2018 Texas Railroad Commissioner election
-2018,Texas,TX,railroad commissioner,2018 Texas Railroad Commissioner election,Candidate,Mike Wright,Libertarian,237984,2.89,False,False,2018 Texas Railroad Commissioner election
-2018,Texas,TX,railroad commissioner,2018 Texas Railroad Commissioner election,Total,,,8226843,100.0,False,False,2018 Texas Railroad Commissioner election
+2018,Texas,TX,land commissioner,2018 Texas Commissioner of the General Land Office election,Winning,George P. Bush,Republican,4435202,53.68,True,True,2018 Texas Land Commissioner election
+2018,Texas,TX,land commissioner,2018 Texas Commissioner of the General Land Office election,Candidate,Miguel Suazo,Democratic,3567927,43.19,False,False,2018 Texas Land Commissioner election
+2018,Texas,TX,land commissioner,2018 Texas Commissioner of the General Land Office election,Candidate,Matt Piña,Libertarian,258482,3.13,False,False,2018 Texas Land Commissioner election
+2018,Texas,TX,land commissioner,2018 Texas Commissioner of the General Land Office election,Total,,,8261611,100.0,False,False,2018 Texas Land Commissioner election
 2018,Texas,TX,governor,2018 Texas gubernatorial election,Winning,Greg Abbott,Republican,4656196,55.81,True,True,2018 Texas gubernatorial election
 2018,Texas,TX,governor,2018 Texas gubernatorial election,Candidate,Lupe Valdez,Democratic,3546615,42.51,False,False,2018 Texas gubernatorial election
 2018,Texas,TX,governor,2018 Texas gubernatorial election,Candidate,Mark Tippetts,Libertarian,140632,1.69,False,False,2018 Texas gubernatorial election

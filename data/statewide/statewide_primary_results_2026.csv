@@ -24,6 +24,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Alabama,AL,public service commission,Place 2 – Republican primary,Candidate,Brent Woodall,Republican,77185.0,18.2,False,False,2026 Alabama Public Service Commission election
 2026,Alabama,AL,public service commission,Place 2 – Republican primary,Candidate,Priscilla Andrews,Republican,52371.0,12.4,False,False,2026 Alabama Public Service Commission election
 2026,Alabama,AL,public service commission,Place 2 – Republican primary,Total,,,423115.0,100.0,False,False,2026 Alabama Public Service Commission election
+2026,Alabama,AL,public service commission,"Place 2 – 2026 Alabama Public Service Commission election, place 2",Winning,Jim Zeigler,Republican,909902.0,54.73,True,False,2026 Alabama Public Service Commission election
 2026,Alabama,AL,public service commission,"Place 2 – 2026 Alabama Public Service Commission election, place 2",Candidate,Sheila McNeil,Democratic,751315.0,45.19,False,False,2026 Alabama Public Service Commission election
 2026,Alabama,AL,public service commission,"Place 2 – 2026 Alabama Public Service Commission election, place 2",Write-in,,,1289.0,0.08,False,False,2026 Alabama Public Service Commission election
 2026,Alabama,AL,public service commission,"Place 2 – 2026 Alabama Public Service Commission election, place 2",Total,,,1662506.0,100.0,False,False,2026 Alabama Public Service Commission election
