@@ -1,10 +1,33 @@
-year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
-2025,New Jersey,NJ,governor,2025 New Jersey gubernatorial election,Winning,Mikie Sherrill Dale Caldwell,Democratic,1896610,56.88,True,False
-2025,New Jersey,NJ,governor,2025 New Jersey gubernatorial election,Candidate,Jack Ciattarelli Jim Gannon,Republican,1417705,42.52,False,False
-2025,New Jersey,NJ,governor,2025 New Jersey gubernatorial election,Candidate,Vic Kaplan Bruno Pereira,Libertarian,11880,0.36,False,False
-2025,New Jersey,NJ,governor,2025 New Jersey gubernatorial election,Candidate,Joanne Kuniansky Craig Honts,Workers,8164,0.24,False,False
-2025,New Jersey,NJ,governor,2025 New Jersey gubernatorial election,Total,,,3334359,100.0,False,False
-2025,Virginia,VA,governor,2025 Virginia gubernatorial election,Winning,Abigail Spanberger,Democratic,1976857,57.58,True,False
-2025,Virginia,VA,governor,2025 Virginia gubernatorial election,Candidate,Winsome Earle-Sears,Republican,1449586,42.22,False,False
-2025,Virginia,VA,governor,2025 Virginia gubernatorial election,Write-in,,,6897,0.2,False,False
-2025,Virginia,VA,governor,2025 Virginia gubernatorial election,Total,,,3433340,100.0,False,False
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent,race_article
+2025,Georgia,GA,public service commission,"District 2 – 2025 Georgia Public Service Commission special election, district 2",Winning,Alicia Johnson,Democratic,980471,62.74,True,False,2025 Georgia Public Service Commission election
+2025,Georgia,GA,public service commission,"District 2 – 2025 Georgia Public Service Commission special election, district 2",Candidate,Tim Echols,Republican,582402,37.26,False,True,2025 Georgia Public Service Commission election
+2025,Georgia,GA,public service commission,"District 2 – 2025 Georgia Public Service Commission special election, district 2",Total,,,1562873,100.0,False,False,2025 Georgia Public Service Commission election
+2025,Georgia,GA,public service commission,District 3 – Democratic primary runoff,Winning,Peter Hubbard,Democratic,66141,58.18,True,False,2025 Georgia Public Service Commission election
+2025,Georgia,GA,public service commission,District 3 – Democratic primary runoff,Candidate,Keisha Waites,Democratic,47551,41.82,False,False,2025 Georgia Public Service Commission election
+2025,Georgia,GA,public service commission,District 3 – Democratic primary runoff,Total,,,113692,100.0,False,False,2025 Georgia Public Service Commission election
+2025,New Jersey,NJ,governor,2025 New Jersey gubernatorial election,Winning,Mikie Sherrill Dale Caldwell,Democratic,1896610,56.88,True,False,2025 New Jersey gubernatorial election
+2025,New Jersey,NJ,governor,2025 New Jersey gubernatorial election,Candidate,Jack Ciattarelli Jim Gannon,Republican,1417705,42.52,False,False,2025 New Jersey gubernatorial election
+2025,New Jersey,NJ,governor,2025 New Jersey gubernatorial election,Candidate,Vic Kaplan Bruno Pereira,Libertarian,11880,0.36,False,False,2025 New Jersey gubernatorial election
+2025,New Jersey,NJ,governor,2025 New Jersey gubernatorial election,Candidate,Joanne Kuniansky Craig Honts,Workers,8164,0.24,False,False,2025 New Jersey gubernatorial election
+2025,New Jersey,NJ,governor,2025 New Jersey gubernatorial election,Total,,,3334359,100.0,False,False,2025 New Jersey gubernatorial election
+2025,Virginia,VA,governor,2025 Virginia gubernatorial election,Winning,Abigail Spanberger,Democratic,1976857,57.58,True,False,2025 Virginia gubernatorial election
+2025,Virginia,VA,governor,2025 Virginia gubernatorial election,Candidate,Winsome Earle-Sears,Republican,1449586,42.22,False,False,2025 Virginia gubernatorial election
+2025,Virginia,VA,governor,2025 Virginia gubernatorial election,Write-in,,,6897,0.2,False,False,2025 Virginia gubernatorial election
+2025,Virginia,VA,governor,2025 Virginia gubernatorial election,Total,,,3433340,100.0,False,False,2025 Virginia gubernatorial election
+2025,Wisconsin,WI,superintendent of public instruction,2025 Wisconsin Superintendent of Public Instruction election,Winning,Jill Underly,Nonpartisan,1148427,52.71,True,True,2025 Wisconsin Superintendent of Public Instruction election
+2025,Wisconsin,WI,superintendent of public instruction,2025 Wisconsin Superintendent of Public Instruction election,Candidate,Brittany Kinser,Nonpartisan,1022489,46.93,False,False,2025 Wisconsin Superintendent of Public Instruction election
+2025,Wisconsin,WI,superintendent of public instruction,2025 Wisconsin Superintendent of Public Instruction election,Candidate,Adrianne Melby (write-in),Nonpartisan,348,0.02,False,False,2025 Wisconsin Superintendent of Public Instruction election
+2025,Wisconsin,WI,superintendent of public instruction,2025 Wisconsin Superintendent of Public Instruction election,Write-in,,,7305,0.34,False,False,2025 Wisconsin Superintendent of Public Instruction election
+2025,Wisconsin,WI,superintendent of public instruction,2025 Wisconsin Superintendent of Public Instruction election,Total,,,2178569,100.0,False,False,2025 Wisconsin Superintendent of Public Instruction election
+2025,Wisconsin,WI,judicial,"General election, April 1, 2025",Winning,Susan Crawford,,1301137,55.02,True,False,2025 Wisconsin Supreme Court election
+2025,Wisconsin,WI,judicial,"General election, April 1, 2025",Candidate,Brad Schimel,,1062330,44.92,False,False,2025 Wisconsin Supreme Court election
+2025,Wisconsin,WI,judicial,"General election, April 1, 2025",Write-in,,,1420,0.06,False,False,2025 Wisconsin Supreme Court election
+2025,Wisconsin,WI,judicial,"General election, April 1, 2025",Total,,,2364887,100.0,False,False,2025 Wisconsin Supreme Court election
+2025,Pennsylvania,PA,judicial,2025 Pennsylvania Superior Court election,Winning,Brandon Neuman,Democratic,2056528,55.93,True,False,2025 Pennsylvania elections
+2025,Pennsylvania,PA,judicial,2025 Pennsylvania Superior Court election,Candidate,Maria Battista,Republican,1548563,42.12,False,False,2025 Pennsylvania elections
+2025,Pennsylvania,PA,judicial,2025 Pennsylvania Superior Court election,Candidate,Dan Wassmer,Liberal Party Usa,71648,1.95,False,False,2025 Pennsylvania elections
+2025,Pennsylvania,PA,judicial,2025 Pennsylvania Superior Court election,Total,,,3676739,100.0,False,False,2025 Pennsylvania elections
+2025,Wisconsin,WI,judicial,"Wisconsin Supreme Court election, 2025",Winning,Susan Crawford,Nonpartisan Politician,1301137,55.02,True,False,2025_Wisconsin_elections
+2025,Wisconsin,WI,judicial,"Wisconsin Supreme Court election, 2025",Candidate,Brad Schimel,Nonpartisan Politician,1062330,44.92,False,False,2025_Wisconsin_elections
+2025,Wisconsin,WI,judicial,"Wisconsin Supreme Court election, 2025",Candidate,Scattering,,1420,0.06,False,False,2025_Wisconsin_elections
+2025,Wisconsin,WI,judicial,"Wisconsin Supreme Court election, 2025",Total,,,2364887,100.0,False,False,2025_Wisconsin_elections

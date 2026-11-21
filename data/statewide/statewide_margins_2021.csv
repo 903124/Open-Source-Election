@@ -1,0 +1,5 @@
+year,state,state_code,office,election,race,seats,winner_candidate,winner_party,winner_percentage,winner_votes,runner_up_candidate,runner_up_party,runner_up_percentage,runner_up_votes,total_votes,margin_pct,margin_votes,margin_pct_votes,source
+2021,California,CA,governor,2021 California gubernatorial recall election (question 2),2021 California gubernatorial recall election,1,Larry Elder,Republican,48.41,3563867.0,Kevin Paffrath,Democratic,9.6,706778.0,7361568.0,38.81,2857089.0,38.81,race_article
+2021,California {{small|,,governor,,,1,No,,61.9,,Yes,,38.1,,,23.8,,,overview_summary
+2021,New Jersey,NJ,governor,2021 New Jersey gubernatorial election,2021 New Jersey gubernatorial election,1,Phil Murphy,Democratic,51.22,1339471.0,Jack Ciattarelli,Republican,48.0,1255185.0,2614886.0,3.22,84286.0,3.22,race_article
+2021,Virginia,VA,governor,2021 Virginia gubernatorial election,2021 Virginia gubernatorial election,1,Glenn Youngkin,Republican,50.58,1663158.0,Terry McAuliffe,Democratic,48.64,1599470.0,3288327.0,1.94,63688.0,1.94,race_article
