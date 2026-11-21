@@ -402,6 +402,7 @@ def extract_incumbent_flag(name: str) -> Tuple[str, bool]:
         return name, False
     patterns = [
         r"\s*\(incumbent\)\s*$",
+        r"\s*\(\s*incumbent\s*\.?\s*$",   # unclosed paren: '[[Name]] (incumbent'
         r"\s*[-–]\s*incumbent\s*$",
         r"\s+incumbent\s*$",
     ]

@@ -3,20 +3,47 @@ state_legislatures.py — Parse U.S. **state legislature** election results
 (state senates + state houses/assemblies) from Wikipedia chamber articles,
 fetched via the MediaWiki Action API.
 
-For every even year in [start_year, end_year] the overview article
+For every year in [start_year, end_year] the overview article
 ``{year} United States state legislative elections`` is fetched and its
 per-state ``{{main|<year> X Senate election|<year> X ... House election}}``
 links are followed to discover every chamber article (regular cycles only;
 special elections appear inside the same articles). Wikitext is then
 retrieved in rate-limited batches of <= 50 titles.
 
-Chamber articles fall into two format families:
+Even years cover all states. Four states elect their legislature in ODD
+years — New Jersey and Virginia (2-year House cycles), Louisiana and
+Mississippi (4-year terms offset from the federal calendar) — so odd years
+are processed for ODD_YEAR_STATES only (New Jersey seats its Senate under a
+2-4-4 term system, so some odd cycles legitimately have no Senate race).
+Nebraska's nonpartisan unicameral body is discovered from its
+``{year} Nebraska Legislature election`` articles and emitted as chamber
+"State Senate" with an empty party column.
+
+Chamber-article format families handled:
 
 * ``===District N===`` sections holding ``{{Election box ...}}`` templates
-  (the vast majority), and
+  (the vast majority),
 * articles without district headers whose boxes carry the district inside
   the box ``|title=`` (e.g. ``[[California's 1st State Assembly district]]
-  election, 2018`` or ``Vermont Senate Addison district general election``).
+  election, 2018`` or ``Vermont Senate Addison district general election``),
+* top-two "open primary" boxes (Washington / California / Nebraska):
+  ``{{Election box open primary begin}}`` holds the August primary rows,
+  then the ``{{Election box open primary general election}}`` divider
+  switches the box to its November general-election rows — only the rows
+  after the divider are captured,
+* Pennsylvania-style "inline" boxes: one ``{{Election box inline begin}}``
+  wrapper with per-district ``{{Election box inline incumbent|race=...}}``
+  headers followed by ``{{Election box inline candidate ...}}`` rows,
+* ordinal-first district headers (``=== 140th legislative district ===``,
+  Pennsylvania) and named-district headers inside a "Detailed Results"/
+  "Results summary" zone (``===1st Barnstable===`` / ``=== 1st Bristol and
+  Plymouth District ===``, Massachusetts),
+* articles without election boxes at all: ``District | Party | Candidates |
+  Votes | %`` summary tables (Minnesota) and plainlist candidate cells in
+  both ``{{Plainlist|* item}}`` and ``{{plainlist}}…{{endplainlist}}``
+  forms, including ``*{{Party stripe|...}}{{Aye}} '''[[Name]]''' (Party)
+  56.62%`` items and Primary/General or First-round/Runoff round markers
+  (Mississippi / Nebraska summary tables).
 
 Row templates handled: winning candidate / candidate (with or without party
 link), total, hold/gain/majority/swing (skipped). Party names such as
@@ -26,6 +53,9 @@ as ``{{percentage|a|{{sum|a|b}}|2}}`` are computed from the vote counts.
 Outputs (written under *output_dir*, default ``data/``):
     state_senate/state_senate_results_{year}.csv + _all.csv
     state_house/state_house_results_{year}.csv   + _all.csv
+
+The combined _all.csv files are rebuilt from every per-year file on disk
+after each run, so partial re-runs stay consistent.
 
 Columns: year, state, state_code, chamber, district, race, candidate,
 party, votes, percentage, winner, incumbent
@@ -37,6 +67,7 @@ Usage:
 
 from __future__ import annotations
 
+import glob
 import logging
 import os
 import re
@@ -46,7 +77,6 @@ import pandas as pd
 
 from wiki_utils import (
     WikiAPIClient,
-    even_years,
     extract_incumbent_flag,
     get_default_client,
 )
@@ -63,7 +93,7 @@ OVERVIEW_PAT = "{y} United States state legislative elections"
 _CHAMBER_WORDS = (
     r"(?:State\s+)?(?:Senate|Senatorial|House\s+of\s+Representatives|"
     r"General\s+Assembly|State\s+Assembly|Assembly|House\s+of\s+Delegates|"
-    r"State\s+House(?:\s+of\s+Representatives)?|House)"
+    r"State\s+House(?:\s+of\s+Representatives)?|Legislature|House)"
 )
 
 _COLUMNS = [
@@ -83,7 +113,70 @@ _COUNTY_DISTRICT_HEADER_RE = re.compile(
     r"(?m)^={2,5}\s*(?!district\b)([A-Za-z][A-Za-z .'-]*?)\s+([0-9]{1,3}[A-Za-z]?)\s*=+\s*$",
     re.I,
 )
+# hyphenated county-number districts, e.g. '===Addison-1===' /
+# '===Chittenden-6-7===' (Vermont House): the whole '<name>-<number>'
+# token becomes the district (same token style as the article's own box
+# titles, e.g. 'ORLEANS-1').
+_HYPHEN_DISTRICT_HEADER_RE = re.compile(
+    r"(?m)^={2,5}\s*([A-Za-z][A-Za-z .']*?-[0-9]{1,3}(?:-[0-9]{1,3})?)\s*=+\s*$",
+    re.I,
+)
 _BOX_START_RE = re.compile(r"\{\{\s*[Ee]lection box[- ]", re.I)
+
+# Odd-year legislative cycles: these four states elect their legislature in
+# odd-numbered years (NJ Assembly 2-year terms + 2-4-4 Senate terms, VA
+# House 2-year terms vs 4-year Senate terms, LA/MS 4-year terms offset from
+# the federal calendar).  All other states are even-year only.
+ODD_YEAR_STATES = frozenset({"NJ", "VA", "LA", "MS"})
+
+# '=== 140th legislative district ===' / '=== 5th senatorial district ==='
+# (Pennsylvania style: ordinal number BEFORE the word 'district').
+_ORDINAL_DISTRICT_HEADER_RE = re.compile(
+    r"(?m)^={2,5}\s*(\d{1,3})(?:st|nd|rd|th)?\s+"
+    r"(?:legislative|senatorial|senate|assembly|house)?\s*district\s*=+\s*$",
+    re.I,
+)
+# '===1st Barnstable===' / '=== Norfolk, Plymouth and Bristol ===' /
+# '=== 1st Bristol and Plymouth District ===' (Massachusetts style: named
+# districts, optionally ordinal-prefixed, optionally suffixed 'District').
+# Only trusted inside a detailed-results zone (see _ZONE_MARKER_RE).
+_NAMED_DISTRICT_HEADER_RE = re.compile(
+    r"(?m)^={3,5}\s*((?:\d{1,3}(?:st|nd|rd|th)\s+)?[A-Za-z][A-Za-z ,'\u2019-]*?)"
+    r"(?:\s+district)?\s*=+\s*$",
+    re.I,
+)
+# level-2 headings that open a per-district results section
+_ZONE_MARKER_RE = re.compile(
+    r"(?m)^==(?!==)[^=\n]*(?:detailed (?:election )?results|results summary"
+    r"|summary of results|results by district|results by .* district)"
+    r"[^=\n]*==\s*$",
+    re.I,
+)
+_ZONE_HEADING_RE = re.compile(r"(?m)^==(?!=)[^=\n]*==\s*$")
+
+# generic headings that must never become named-district tokens
+_NAMED_HEADER_EXCLUDE = {
+    "election", "elections", "overview", "predictions", "see also",
+    "references", "background", "notes", "external links", "candidates",
+    "candidate", "district", "districts", "results", "detailed results",
+    "summary", "close races", "closest races", "retirements",
+    "special elections", "composition", "polls", "endorsements", "debates",
+    "finances", "fundraising", "charts", "general election",
+    "primary election", "primary", "general", "runoff", "redistricting",
+    "democrats", "republicans", "independents", "competitive", "statewide",
+    "by district", "withdrawals", "resignations", "deaths", "incumbents",
+    "outgoing incumbents", "incoming incumbents", "new members",
+}
+
+# narrative rows leaking into election boxes (Nebraska 'Retirements' boxes:
+# candidate = 'Incumbent term-limited. Democratic gain.').  The incumbent/
+# retired words are anchored to the value start so real candidates written
+# as '[[Name]] (incumbent' (unclosed paren, KS style) are not killed.
+_BOX_JUNK_CAND_RE = re.compile(
+    r"^\s*incumbent\b|term.?limited|^\s*retired\b|lost re.?election"
+    r"|(?:democratic|republican|independent)\s+(?:gain|hold|loss)",
+    re.I,
+)
 
 # ────────────────────────────────────────────────────────────────────────────
 # SMALL TEXT HELPERS
@@ -146,30 +239,48 @@ def _digits(s: str) -> str:
 
 
 def _eval_percentage(raw: str, votes: Optional[int]) -> Optional[float]:
-    """percentage field: '48.5', '48.5%', {{percentage|a|{{sum|..}}|2}} -> float."""
+    """percentage field: '48.5', '48.5%', \"'''{{percentage|a|{{sum|..}}|2}}'''\"
+    -> float.  The ``{{percentage ...}}`` template is located anywhere in the
+    value (PA inline boxes bold-wrap it); a bare-number fallback must not
+    grab a prefix of a longer number (vote counts)."""
     if raw is None:
         return None
-    t = raw.strip()
-    if t.lower().startswith("{{percentage"):
-        inner = t[2:-2] if t.endswith("}}") else t[2:]
-        args = _split_top_level(inner)
-        args = args[1:] if args else args          # drop the template name
-        num = _digits(args[0]) if args else ""
-        den = 0
-        if len(args) > 1:
-            da = args[1].strip()
-            if da.lower().startswith("{{sum"):
-                d_inner = da[2:-2] if da.endswith("}}") else da[2:]
-                sum_args = _split_top_level(d_inner)[1:]
-                den = sum(int(_digits(a) or 0) for a in sum_args)
-            else:
-                den = int(_digits(da) or 0)
-        if num and den:
-            return round(int(num) / den * 100, 2)
-        return None
-    m = re.search(r"(\d{1,3}(?:\.\d+)?)\s*%?", t)
+    t = raw.strip().replace("'''", "").replace("''", "").strip()
+    m = re.search(r"\{\{\s*percentage\s*\|", t, re.I)
     if m:
-        return float(m.group(1))
+        # balanced-scan the {{percentage ...}} template
+        depth, j, end = 0, m.start(), None
+        while j < len(t) - 1:
+            if t.startswith("{{", j):
+                depth += 1
+                j += 2
+            elif t.startswith("}}", j):
+                depth -= 1
+                j += 2
+                if depth == 0:
+                    end = j
+                    break
+            else:
+                j += 1
+        if end is not None:
+            inner = t[m.start() + 2:end - 2]
+            args = _split_top_level(inner)[1:]
+            num = _digits(args[0]) if args else ""
+            den = 0
+            if len(args) > 1:
+                da = args[1].strip()
+                if da.lower().startswith("{{sum"):
+                    d_inner = da[2:-2] if da.endswith("}}") else da[2:]
+                    sum_args = _split_top_level(d_inner)[1:]
+                    den = sum(int(_digits(a) or 0) for a in sum_args)
+                else:
+                    den = int(_digits(da) or 0)
+            if num and den:
+                return round(int(num) / den * 100, 2)
+            return None
+    mm = re.search(r"(?<!\d)(\d{1,3}(?:\.\d+)?)\s*%?(?!\d)", t)
+    if mm:
+        return float(mm.group(1))
     return None
 
 
@@ -179,7 +290,7 @@ def normalize_party(raw: str) -> str:
     if not p:
         return ""
     key = re.sub(r"\s+", " ", p).strip().lower()
-    key = re.sub(r"\s*\((?:us|united states)\)\s*$", "", key)
+    key = re.sub(r"\s*\((?:us|united states|politician)\)\s*$", "", key)
     key = re.sub(r"[\u2013\u2014]", "-", key)   # en/em dashes -> hyphen
     key = re.sub(r"\s+(?:state\s+)?committee$", "", key)   # 'NY State Democratic Committee'
     key = re.sub(r"\s+of\s+[a-z '.-]+$", "", key)          # ... Party of New York State
@@ -229,15 +340,12 @@ def normalize_party(raw: str) -> str:
 def _iter_box_templates(text: str) -> List[Tuple[str, str, int]]:
     """Yield (kind, full_template, start_pos) for every top-level
     ``{{Election box ...}}`` template, handling nested ``{{...}}`` inside
-    parameter values."""
+    parameter values (and optional whitespace after the opening braces,
+    e.g. ``{{ Election box inline candidate ...}}``)."""
     out: List[Tuple[str, str, int]] = []
-    i = 0
     n = len(text)
-    low_prefix = "election box"
-    while i < n:
-        idx = text.lower().find("{{" + low_prefix, i)
-        if idx == -1:
-            break
+    for m in re.finditer(r"\{\{\s*[Ee]lection\s+box", text):
+        idx = m.start()
         # walk forward with brace-depth counting
         depth = 0
         j = idx
@@ -255,12 +363,11 @@ def _iter_box_templates(text: str) -> List[Tuple[str, str, int]]:
             else:
                 j += 1
         if end == -1:
-            break
+            continue
         template = text[idx:end]
         inner = template[2:-2]
-        kind = re.match(r"\s*[Ee]lection box ([a-zA-Z ]+)", inner)
+        kind = re.match(r"\s*[Ee]lection\s+box ([a-zA-Z ]+)", inner)
         out.append((kind.group(1).strip().lower() if kind else "", template, idx))
-        i = end
     return out
 
 
@@ -390,14 +497,45 @@ def parse_chamber(text: str, year: int, state: str, chamber: str) -> pd.DataFram
     """Parse one chamber article into per-candidate result rows."""
     text = _strip_refs(text)
 
+    # detailed-results / results-summary zones: named-district headings
+    # (Massachusetts style) are only trusted inside these
+    zones: List[Tuple[int, int]] = []
+    for m in _ZONE_MARKER_RE.finditer(text):
+        nxt = _ZONE_HEADING_RE.search(text, m.end())
+        zones.append((m.start(), nxt.start() if nxt else len(text)))
+
+    def _in_zone(pos: int) -> bool:
+        return any(a <= pos < b for a, b in zones)
+
     # district section headers -> offset-sorted (pos, token) list
-    sections: List[Tuple[int, str]] = [
+    numeric_sections: List[Tuple[int, str]] = [
         (m.start(), m.group(1).upper()) for m in _DISTRICT_HEADER_RE.finditer(text)
     ]
-    sections += [
+    numeric_sections += [
         (m.start(), f"{m.group(1)} {m.group(2)}".upper())
         for m in _COUNTY_DISTRICT_HEADER_RE.finditer(text)
     ]
+    numeric_sections += [
+        (m.start(), m.group(1).upper())
+        for m in _HYPHEN_DISTRICT_HEADER_RE.finditer(text)
+    ]
+    # ordinal-first headers: '=== 140th legislative district ===' (PA)
+    numeric_sections += [
+        (m.start(), m.group(1)) for m in _ORDINAL_DISTRICT_HEADER_RE.finditer(text)
+    ]
+    sections = list(numeric_sections)
+    # named-district headers (MA): only inside results zones, never the
+    # generic section headings listed in _NAMED_HEADER_EXCLUDE
+    for m in _NAMED_DISTRICT_HEADER_RE.finditer(text):
+        name = m.group(1).strip()
+        low = name.lower()
+        if low in _NAMED_HEADER_EXCLUDE or re.search(
+            r"\b(?:results|summary|primary|party|election)\b", low
+        ):
+            continue
+        if not _in_zone(m.start()):
+            continue
+        sections.append((m.start(), name.upper()))
     sections.sort(key=lambda t: t[0])
 
     def section_district_at(pos: int) -> str:
@@ -412,32 +550,53 @@ def parse_chamber(text: str, year: int, state: str, chamber: str) -> pd.DataFram
     stream = _iter_box_templates(text)
     rows: List[Dict] = []
 
-    # articles with >= 2 district headers: only boxes INSIDE a district
-    # section belong to legislative races (others cover e.g. statewide
-    # executive races bundled into the same article)
-    strict_sections = len(sections) >= 2
+    # articles with >= 2 numeric district headers: boxes outside them are
+    # treated cautiously (named/ordinal sections do not trigger strictness)
+    strict_sections = len(numeric_sections) >= 2
 
     i = 0
     while i < len(stream):
         kind, template, pos = stream[i]
-        if "begin" not in kind:
+        if "inline" in kind or "begin" not in kind:
             i += 1
             continue
 
         box_title = _template_params(template).get("title", "")
-        race = _race_from_box(box_title, kind)
+        # top-two 'open primary' boxes (WA/CA/NE): the box holds the August
+        # primary rows first; the '{{Election box open primary general
+        # election}}' divider switches it to its November general rows
+        top_two = "open primary begin" in kind
+        race = "primary" if top_two else _race_from_box(box_title, kind)
 
         # collect row templates until the box's {{Election box end}}
         j = i + 1
         box_rows: List[Tuple[str, Dict[str, str]]] = []
+        gen_start: Optional[int] = None
         while j < len(stream):
             k2, t2, _p2 = stream[j]
             if "begin" in k2:
                 break                      # malformed box (no end) — stop early
             if "end" in k2:
                 break
+            if top_two and "open primary general election" in k2:
+                gen_start = len(box_rows)  # divider: general rows start here
+                j += 1
+                continue
             box_rows.append((k2, _template_params(t2)))
             j += 1
+
+        if top_two:
+            if gen_start is not None:      # WA/CA/NE: general rows after divider
+                box_rows = box_rows[gen_start:]
+                race = "general"
+            elif any("winning" in k2 for k2, _t2 in box_rows):
+                # LA-style jungle primary: no runoff section, but the box
+                # declares a winner — the October primary WAS the decisive
+                # (general) round; keep its rows
+                race = "general"
+            else:                          # primary inconclusive -> runoff held
+                i = j + 1 if j < len(stream) and "end" in stream[j][0] else j
+                continue
 
         district = section_district_at(pos)
         if not district:
@@ -452,6 +611,10 @@ def parse_chamber(text: str, year: int, state: str, chamber: str) -> pd.DataFram
             _rows_from_box(box_rows, race, district, state, chamber, year, box_title)
         )
         i = j + 1 if j < len(stream) and "end" in stream[j][0] else j
+
+    # Pennsylvania-style inline election boxes (one wrapper, per-district
+    # incumbent headers followed by inline candidate rows)
+    rows.extend(_rows_from_inline_boxes(stream, year, state, chamber))
 
     df = pd.DataFrame(rows, columns=_COLUMNS)
     if not len(df):
@@ -491,6 +654,63 @@ def parse_chamber(text: str, year: int, state: str, chamber: str) -> pd.DataFram
         logger.info("    winner fallback applied to %d general race(s)", len(top))
 
     return df
+
+
+def _district_from_inline_race(race_raw: str) -> str:
+    """District from an inline-box ``|race=`` value:
+    ``[[Pennsylvania House of Representatives, District 1|1]]<ref>...</ref>``
+    -> '1' (display text preferred, then the target's District number)."""
+    t = re.sub(r"<ref[^>]*/>", "", race_raw or "")
+    t = re.sub(r"<ref[^>]*>.*?</ref>", "", t, flags=re.S | re.I)
+    t = t.replace("'''", "")
+    m = re.search(r"\|\s*(\d{1,3}[A-Za-z]?)\s*\]\]", t)
+    if m:
+        return m.group(1)
+    m = re.search(r"district\s*(\d{1,3}[A-Za-z]?)", t, re.I)
+    return m.group(1) if m else ""
+
+
+def _rows_from_inline_boxes(
+    stream: List[Tuple[str, str, int]],
+    year: int,
+    state: str,
+    chamber: str,
+) -> List[Dict]:
+    """Pennsylvania-style 'inline' election-box family: a single
+    ``{{Election box inline begin}}`` wrapper holds, per district, an
+    ``{{Election box inline incumbent|race=[[... District 12|12]]|...}}``
+    header followed by ``{{Election box inline candidate ...}}`` rows
+    (winner = bolded candidate; totals and hold rows are absent)."""
+    rows: List[Dict] = []
+    district = ""
+    for kind, template, _pos in stream:
+        if "inline" not in kind:
+            continue
+        params = _template_params(template)
+        if "incumbent" in kind:
+            district = _district_from_inline_race(params.get("race", ""))
+            continue
+        if "candidate" not in kind or not district:
+            continue
+        if re.search(r"\bwrite.?in\b", kind, re.I):
+            continue
+        raw_cand = params.get("candidate", "")
+        cand, inc = extract_incumbent_flag(_clean_name(raw_cand))
+        if not cand or cand.lower().rstrip("s") in _TABLE_JUNK_CANDS:
+            continue
+        if _BOX_JUNK_CAND_RE.search(cand):
+            continue
+        party = normalize_party(params.get("party", ""))
+        votes = _eval_number(params.get("votes", ""))
+        pct = _eval_percentage(params.get("percentage", ""), votes)
+        rows.append({
+            "year": year, "state": state, "state_code": _state_code(state),
+            "chamber": chamber, "district": district, "race": "general",
+            "candidate": cand, "party": party, "votes": votes,
+            "percentage": pct,
+            "winner": "'''" in raw_cand, "incumbent": inc,
+        })
+    return rows
 
 
 def _race_from_box(box_title: str, begin_kind: str) -> str:
@@ -536,6 +756,8 @@ def _rows_from_box(
             "other", "total", "none of these", "no valid", "spoil",
         }:
             continue
+        if _BOX_JUNK_CAND_RE.search(cand):
+            continue
         party = normalize_party(params.get("party", ""))
         if party.lower() in ("total", "majority", "swing"):
             continue
@@ -555,31 +777,59 @@ def _rows_from_box(
 # ────────────────────────────────────────────────────────────────────────────
 
 def _wikitables(text: str) -> List[Tuple[str, int]]:
-    """Split wikitext into outermost {| ... |} tables with offsets."""
+    """Split wikitext into outermost {| ... |} tables with offsets.
+    Skips balanced ``{{...}}`` templates while scanning (so a ``|}}`` inside
+    ``{{Refn|...|}}`` etc. is not mistaken for a table closer) and tolerates
+    stray ``|}`` closers from broken upstream markup by clamping the nesting
+    depth at 0 instead of going negative, which would swallow later tables."""
     tables, depth, start, i = [], 0, None, 0
-    while i < len(text):
+    n = len(text)
+    while i < n:
         if text.startswith("{|", i):
             if depth == 0:
                 start = i
             depth += 1
             i += 2
         elif text.startswith("|}", i):
-            depth -= 1
-            if depth == 0 and start is not None:
-                tables.append((text[start:i + 2], start))
-                start = None
+            if depth > 0:
+                depth -= 1
+                if depth == 0 and start is not None:
+                    tables.append((text[start:i + 2], start))
+                    start = None
             i += 2
+        elif text.startswith("{{", i):
+            # skip one balanced template
+            t_depth, j = 0, i
+            while j < n - 1:
+                if text.startswith("{{", j):
+                    t_depth += 1
+                    j += 2
+                elif text.startswith("}}", j):
+                    t_depth -= 1
+                    j += 2
+                    if t_depth == 0:
+                        break
+                else:
+                    j += 1
+            i = j if t_depth == 0 else i + 2
         else:
             i += 1
     return tables
 
 
 def _table_headers(table: str) -> List[str]:
-    """Lower-cased header cell labels of the first chunk carrying '!' cells."""
+    """Lower-cased header cell labels of the first chunk carrying '!' cells.
+    Cells may be ``!!``-separated on a single line (MS-style two-row
+    headers) or one per line."""
     for chunk in re.split(r"(?m)^\|-.*$", table):
         if re.search(r"(?m)^!", chunk):
-            cells = re.findall(r"(?m)^!(?:[^!\n]*)", chunk)
-            return [re.sub(r"<[^>]+>", " ", c).strip(" !|\n").lower() for c in cells]
+            cells: List[str] = []
+            for ln in re.findall(r"(?m)^!.*$", chunk):
+                for piece in ln.split("!!"):
+                    cells.append(
+                        re.sub(r"<[^>]+>", " ", piece).strip(" !|\n").lower()
+                    )
+            return cells
     return []
 
 
@@ -597,9 +847,12 @@ def _is_bold_cell(cell: str) -> bool:
     """True when a table cell renders a bolded *candidate* name - the
     winner marker in summary tables.  Covers ``'''Name'''`` wiki-bold and
     ``style="font-weight:bold"`` CSS-bold, while rejecting numeric cells
-    (votes are often bold-styled too) and bare party labels."""
+    (votes are often bold-styled too), bare party labels and seat-result
+    cells (``'''Republican gain'''`` - bolded when the seat flipped)."""
     v = _cell_value(cell).strip()
     if not v or re.fullmatch(r"[\d,.]+%?", v) or _is_party_text(v):
+        return False
+    if re.search(r"\b(?:hold|gain|loss)\b", v, re.I):
         return False
     if "'''" in cell:
         return True
@@ -681,7 +934,24 @@ def _section_heading_at(text: str, pos: int) -> str:
 
 
 _PLAINLIST_RE = re.compile(
-    r"\{\{\s*(?:[Pp]lainlist|[Uu]nbulleted ?list|[Uu]bl)\s*\|"
+    r"\{\{\s*(?:[Pp]lainlist|[Uu]nbulleted ?list|[Uu]bl)\s*(\||\})"
+)
+# {{plainlist}} with the items OUTSIDE the template, terminated by
+# {{endplainlist}} (Mississippi / Nebraska summary tables)
+_PLAINLIST_NOPARAM_RE = re.compile(r"\{\{\s*[Pp]lainlist\s*\}\}")
+_ENDPLAINLIST_RE = re.compile(r"\{\{\s*end\s*plainlist\s*\}\}", re.I)
+
+# inline trailing party label + share: '(Republican) 56.62%'
+_INLINE_PARTY_PCT_RE = re.compile(
+    r"\(([^()]{2,40}?)\)\s*:?\s*([\d,.]+)\s*%\s*$", re.I
+)
+_INLINE_PCT_RE = re.compile(r"([\d,.]+)\s*%\s*$")
+_INLINE_PARTY_PAREN_RE = re.compile(
+    r"\(\s*(republican|democratic|independent|libertarian|green|"
+    r"nonpartisan|constitution|progressive|no\s+party|write.?in|dfl|"
+    r"democratic.farmer.labor|democratic.npl|working\s+families|"
+    r"legal\s+marijuana|independence)\s*\)\s*$",
+    re.I,
 )
 
 # Non-candidate cell values that must never become result rows: blank/write-in
@@ -696,18 +966,18 @@ _TABLE_JUNK_CANDS = frozenset({
     "registered", "before", "after", "location", "member",
     "status", "seat", "strength", "change", "swing", "first",
     "elected", "total vote", "popular vote", "rank", "preferences",
+    "first round", "second round", "runoff", "general election",
+    "primary election",
 })
 
 
-def _rows_from_plainlist_cell(
-    chunk: str, year: int, state: str, chamber: str, district: str
-) -> List[Dict]:
-    """Candidate rows from a row chunk whose candidates cell bundles
-    '*{{Party stripe|...}} [[Name]] - 53%' items inside a {{Plainlist|...}}
-    template (Oklahoma-style summary tables).  The template may span several
-    lines, so the whole chunk is scanned; every plainlist in the chunk is
-    unpacked.  Items after an 'Eliminated in primary' marker are
-    primary-only and skipped."""
+def _plainlist_items(chunk: str) -> Tuple[bool, List[str]]:
+    """All bullet items inside every plainlist template in *chunk*.
+
+    Handles both ``{{Plainlist|* item * item}}`` (items inside the
+    template's first parameter, Oklahoma style) and ``{{plainlist}}``
+    followed by starred lines up to ``{{endplainlist}}`` (Mississippi /
+    Nebraska summary-table style)."""
     items: List[str] = []
     pos = 0
     found = False
@@ -729,17 +999,84 @@ def _rows_from_plainlist_cell(
                     break
             else:
                 j += 1
-        items.extend(re.split(r"(?m)^\*+", chunk[m.end():j - 2]))
+        if depth != 0:            # malformed template — skip the rest
+            break
+        body = chunk[m.end():j - 2] if m.group(1) == "|" else ""
+        if body.strip():
+            items.extend(re.split(r"(?m)^\*+", body))
+        else:
+            # parameterless {{plainlist}}: items live between the template
+            # and its {{endplainlist}} terminator
+            end_m = _ENDPLAINLIST_RE.search(chunk, j)
+            # NB: search() positions are absolute — do NOT re-add j
+            stop = end_m.start() if end_m else len(chunk)
+            items.extend(re.split(r"(?m)^\*+", chunk[j:stop]))
         pos = j
+    return found, items
+
+
+def _rows_from_plainlist_cell(
+    chunk: str, year: int, state: str, chamber: str, district: str
+) -> List[Dict]:
+    """Candidate rows from a row chunk whose candidates cell bundles
+    '*{{Party stripe|...}} [[Name]] - 53%' items inside a plainlist
+    template.  The template may span several lines, so the whole chunk is
+    scanned; every plainlist in the chunk is unpacked.
+
+    Mississippi / Nebraska style items ('''[[Name]]''' (Party) 56.62%) are
+    handled too, including bold winner marking, {{Aye}} checkmarks and
+    inline '(Nonpartisan) 48.5%' labels.  Round markers inside the list
+    ('''Primary election:''', '''General election:''', 'First round:',
+    'Runoff:') split the items into rounds — when a final round (general
+    election / runoff / second round) exists, only its rows are kept, so
+    two-round nonpartisan specials do not double-count the same seat.
+    Items after an 'Eliminated in primary' marker are primary-only and
+    skipped."""
+    found, items = _plainlist_items(chunk)
     if not found:
         return []
-    rows: List[Dict] = []
+
+    _ROUND_PAT = re.compile(
+        r"^(?:first|second|third|general|primary|runoff)\s+(?:round|election)"
+        r"|^runoff$|^(?:general|primary)$",
+        re.I,
+    )
+    _FINAL_ROUND_PREFIXES = ("general", "runoff", "second")
+
+    groups: Dict[str, List[Dict]] = {}
+    order: List[str] = []
+    cur_round = ""            # '' = unlabeled single-round list
     eliminated = False
+
+    def _emit(label: str, row: Dict) -> None:
+        if label not in groups:
+            groups[label] = []
+            order.append(label)
+        groups[label].append(row)
+
     for item in items:
+        item = re.sub(r"<ref[^>]*/>", "", item)
+        item = re.sub(r"<ref[^>]*>.*?</ref>", "", item, flags=re.S | re.I)
         item = item.strip()
         if not item:
             continue
-        low = item.lower()
+        # cut table-cell spill (form-B lists whose {{endplainlist}} is
+        # missing): body items never continue past a line starting with '|'
+        item = re.split(r"(?m)^\|", item)[0]
+        item = re.split(r"\|\}", item)[0]
+        item = item.strip()
+        if not item:
+            continue
+        probe = re.sub(r"\{\{[^{}]*\}\}", "", item)
+        probe = re.sub(r"'''|''", "", probe)
+        probe = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", probe)
+        probe = re.sub(r"<[^>]+>", " ", probe)
+        probe = re.sub(r"\s+", " ", probe).strip(" :*")
+        low = probe.lower().rstrip(".")
+        if _ROUND_PAT.match(low):
+            cur_round = low
+            eliminated = False          # rounds restart the elimination flag
+            continue
         if "eliminated in primar" in low or "eliminated at convention" in low \
                 or "withdrew" in low or "dropped out" in low or "lost primary" in low:
             eliminated = True
@@ -749,31 +1086,75 @@ def _rows_from_plainlist_cell(
         # party: {{Party stripe|Republican Party (US)}} / {{small|...}}
         pm = re.search(r"\{\{\s*[Pp]arty stripe\s*\|\s*([^|}]+)", item)
         party = normalize_party(pm.group(1)) if pm else ""
-        # candidate: first wikilink (display text) or text before the dash
+        # candidate: first wikilink (display text) or cleaned leading text
         lm = re.search(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]", item)
         if lm:
             cand = lm.group(2) or lm.group(1)
         else:
-            cand = re.split(r"[-\u2013\u2014]", item, 1)[0]
+            cand = probe
         cand = _clean_name(cand)
         cand, inc = extract_incumbent_flag(cand)
         if not cand:
             continue
-        nm = re.search(r"[-\u2013\u2014]\s*([\d,]+(?:\.\d+)?)\s*(%?)\s*$", item)
-        votes = pct = None
-        if nm:
-            val = float(nm.group(1).replace(",", ""))
-            if nm.group(2):
-                pct = val
-            else:
-                votes = val
-        rows.append({
+        # votes / percentage: '(Republican) 56.62%' inline label+share,
+        # plain trailing '56.62%', or legacy 'Name - 1234 / - 53%' items.
+        # Legacy dash/percent values may sit outside the candidate wikilink,
+        # so retry the search over the whole cleaned item (probe).
+        pct = None
+        votes = None
+        m2 = _INLINE_PARTY_PCT_RE.search(cand)
+        m2b = _INLINE_PARTY_PAREN_RE.search(cand)
+        if m2:
+            if not party:
+                party = normalize_party(m2.group(1))
+            pct = float(m2.group(2).replace(",", ""))
+            cand = cand[:m2.start()].strip()
+        elif m2b:
+            if not party:
+                party = normalize_party(m2b.group(1))
+            cand = cand[:m2b.start()].strip()
+        else:
+            for target in (cand, probe):
+                nm = re.search(
+                    r"[-\u2013\u2014]\s*([\d,]+(?:\.\d+)?)\s*(%?)\s*$", target
+                )
+                m3 = _INLINE_PCT_RE.search(target) if not nm else None
+                if m3:
+                    pct = float(m3.group(1).replace(",", ""))
+                    if not party:
+                        pm2 = _INLINE_PARTY_PCT_RE.search(probe)
+                        if pm2:
+                            party = normalize_party(pm2.group(1))
+                    break
+                if nm:
+                    val = float(nm.group(1).replace(",", ""))
+                    if nm.group(2):
+                        pct = val
+                    else:
+                        votes = val
+                    break
+        row = {
             "year": year, "state": state, "state_code": _state_code(state),
             "chamber": chamber, "district": district, "race": "general",
             "candidate": cand, "party": party, "votes": votes,
-            "percentage": pct, "winner": False, "incumbent": inc,
-        })
-    return rows
+            "percentage": pct,
+            # winner: bold candidate (MS/NE convention) or {{Aye}} checkmark
+            "winner": bool(re.search(r"\{\{\s*(?:Aye|mby)\s*\}\}", item, re.I))
+            or "'''" in item,
+            "incumbent": inc,
+        }
+        _emit(cur_round, row)
+
+    if not order:
+        return []
+    # prefer final rounds (general election / runoff / second round) when
+    # the list carries round markers; otherwise keep everything
+    final_keys = [lb for lb in order if lb.startswith(_FINAL_ROUND_PREFIXES)]
+    keep_keys = final_keys if final_keys else order
+    out: List[Dict] = []
+    for lb in keep_keys:
+        out.extend(groups[lb])
+    return out
 
 
 def _parse_results_tables(text: str, year: int, state: str, chamber: str) -> pd.DataFrame:
@@ -781,6 +1162,9 @@ def _parse_results_tables(text: str, year: int, state: str, chamber: str) -> pd.
     ``District | Party | Candidates | Votes | %`` summary tables (e.g.
     Minnesota). Winner = bold candidate; rowspan'd district cells carry
     across continuation rows."""
+    # refs carry wikilinks (|website=[[WTVA]]) that would otherwise leak
+    # into candidate extraction
+    text = _strip_refs(text)
     rows: List[Dict] = []
     for table, offset in _wikitables(text):
         # skip primary-election tables (their enclosing section says so)
@@ -801,6 +1185,11 @@ def _parse_results_tables(text: str, year: int, state: str, chamber: str) -> pd.
         for chunk in re.split(r"(?m)^\|-.*$", table)[1:]:
             cells = _row_cells(chunk)
             if not cells:
+                continue
+            # two-row header spill ('! Member !! Party !! ...'): header cells
+            # keep their '!!' separators and rowspan/colspan attributes;
+            # body cells never do
+            if any("!!" in c for c in cells):
                 continue
 
             # leading rowspan'd district cell?  ``| rowspan="2" |6``
@@ -857,6 +1246,12 @@ def _parse_results_tables(text: str, year: int, state: str, chamber: str) -> pd.
                     if cur_rows_left > 0:
                         cur_rows_left -= 1
                     continue
+                if _PLAINLIST_NOPARAM_RE.search(chunk):
+                    # MS/NE-style {{plainlist}} ... {{endplainlist}} cell
+                    # with no usable items — skip the chunk entirely (the
+                    # generic cell scan would only emit incumbent/status
+                    # junk)
+                    continue
 
             # MN-style rows embed context cells (rowspan'd incumbent, party,
             # first-elected, <ref>s) AROUND the candidate cells - realign to
@@ -901,6 +1296,10 @@ def _parse_results_tables(text: str, year: int, state: str, chamber: str) -> pd.
             cand = re.sub(r"\((?:inc|incumbent)\)\s*$", "", cand, flags=re.I).strip(" ,;")
             cand_lc = cand.lower()
             if not cand or cand_lc in _TABLE_JUNK_CANDS or cand_lc.rstrip("s") in _TABLE_JUNK_CANDS:
+                continue
+            # seat-result cells ('Republican hold' / 'Democratic gain') are
+            # not candidates, however they are styled
+            if re.search(r"\b(?:hold|gain|loss)\b", cand, re.I):
                 continue
             # misparsed party-label cells (second table family) — drop
             if cand.lower() in {
@@ -958,7 +1357,8 @@ def discover_chambers(overview: str, year: int) -> List[str]:
         for part in group.split("|"):
             part = part.strip()
             if f"{year} " in part and re.search(
-                r"Senate|House|Assembly|Delegates|General Assembly", part, re.I
+                r"Senate|House|Assembly|Delegates|General Assembly|Legislature",
+                part, re.I,
             ):
                 titles.append(part)
     return list(dict.fromkeys(titles))
@@ -970,13 +1370,15 @@ def run(
     output_dir: str = "data",
     client: Optional[WikiAPIClient] = None,
 ) -> pd.DataFrame:
-    """CLI entry point: parse state legislature results for the given range."""
-    years = even_years(start_year, end_year)
+    """CLI entry point: parse state legislature results for the given range.
+
+    Every year in the range is processed; odd years yield results only for
+    the odd-year legislature states (NJ/VA/LA/MS) because the other states
+    hold no regular legislative cycles in odd years."""
+    years = list(range(start_year, end_year + 1))
     if not years:
-        logger.warning("No even years in [%d, %d] — nothing to do.", start_year, end_year)
+        logger.warning("No years in [%d, %d] — nothing to do.", start_year, end_year)
         return pd.DataFrame()
-    if (start_year, end_year) != (years[0], years[-1]):
-        logger.info("Odd bounds clamped to even years: %d–%d", years[0], years[-1])
     logger.info("State legislature cycles to process: %s", years)
 
     senate_dir = os.path.join(output_dir, "state_senate")
@@ -986,7 +1388,6 @@ def run(
 
     client = client or get_default_client()
     meta: Dict = {"years": {}}
-    combined_frames: List[pd.DataFrame] = []
 
     for year in years:
         overview_title = OVERVIEW_PAT.format(y=year)
@@ -997,7 +1398,18 @@ def run(
             continue
 
         titles = discover_chambers(overview, year)
-        upper = [t for t in titles if re.search(r"Senate", t)]
+        # dedicated special-election articles duplicate the boxes already
+        # inside the chamber articles; skip them (their titles also break
+        # state extraction, e.g. "2023 Virginia's 7th Senate district
+        # special election")
+        titles = [t for t in titles if "special" not in t.lower()]
+        if year % 2:
+            # odd cycles exist only in the odd-year legislature states
+            titles = [
+                t for t in titles
+                if _state_from_title(t)[1] in ODD_YEAR_STATES
+            ]
+        upper = [t for t in titles if re.search(r"Senate|Legislature", t)]
         lower = [t for t in titles if t not in set(upper)]
         logger.info(
             "%s: %d chamber articles (%d senate / %d house)", year,
@@ -1050,21 +1462,34 @@ def run(
             path = os.path.join(out_dir, f"{prefix}_results_{year}.csv")
             df_year.to_csv(path, index=False)
             logger.info("  saved -> %s", path)
-            combined_frames.append(df_year)
         meta["years"][year] = year_meta
 
-    if combined_frames:
-        combined = pd.concat(combined_frames, ignore_index=True)
-        for key, out_dir in (("senate", senate_dir), ("house", house_dir)):
-            sub = combined[combined["chamber"] == ("State Senate" if key == "senate" else "State House")]
-            if len(sub):
-                path = os.path.join(out_dir, f"state_{key}_results_all.csv")
-                sub.to_csv(path, index=False)
-                logger.info("Combined -> %s (%s rows)", path, f"{len(sub):,}")
+    # rebuild the combined _all.csv from every per-year file on disk (not
+    # just the years processed by this invocation) so partial re-runs and
+    # odd-year additions stay consistent
+    combined: Optional[pd.DataFrame] = None
+    for key, out_dir in (("senate", senate_dir), ("house", house_dir)):
+        year_files = sorted(glob.glob(
+            os.path.join(out_dir, f"state_{key}_results_[0-9]*.csv")
+        ))
+        if not year_files:
+            continue
+        frames = [
+            pd.read_csv(p, dtype={"district": str, "state_code": str,
+                                 "state": str, "chamber": str,
+                                 "race": str, "candidate": str,
+                                 "party": str})
+            for p in year_files
+        ]
+        sub = pd.concat(frames, ignore_index=True)
+        path = os.path.join(out_dir, f"state_{key}_results_all.csv")
+        sub.to_csv(path, index=False)
+        logger.info("Combined -> %s (%s rows)", path, f"{len(sub):,}")
+        combined = sub if combined is None else pd.concat(
+            [combined, sub], ignore_index=True
+        )
 
-        return combined
-
-    return pd.DataFrame()
+    return combined if combined is not None else pd.DataFrame()
 
 
 if __name__ == "__main__":

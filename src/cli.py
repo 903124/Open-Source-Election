@@ -18,7 +18,11 @@ Subcommands:
                general results (vote counts); disable with
                --no-include-off-years.  Polling extraction can be skipped
                with --no-include-polling.
-    state-leg  Parse state legislature results (state senates + state houses).
+    state-leg  Parse state legislature results (state senates + state
+               houses) for every year in the range.  Odd years cover the
+               four odd-year legislature states (NJ/VA/LA/MS) only; Nebraska
+               is captured from its "{year} Nebraska Legislature election"
+               articles as chamber "State Senate" (nonpartisan, empty party).
     statewide  Parse statewide executive results (gov, AG, SoS, treasurer,
                auditor) AND the accompanying state-level opinion polling from
                the same race articles plus any dedicated "Opinion polling for
@@ -61,7 +65,9 @@ Year ranges are inclusive. senate/house/state-leg/presidential cover even
 pipelines also include the odd (off-year) cycles in the range by default —
 those hold the special elections (statewide: NJ/VA gubernatorial and the
 KY/LA/MS slate; senate: e.g. NJ/MA 2013, AL 2017; house: specials every odd
-year). Opt out with --no-include-off-years (applies to statewide/senate/
+year). state-leg additionally processes odd years for the four odd-year
+legislature states (NJ/VA/LA/MS, e.g. --start-year 2019 --end-year 2023).
+Opt out with --no-include-off-years (applies to statewide/senate/
 house, inside `all` too).
 
 Rate-limit options apply to every subcommand:
