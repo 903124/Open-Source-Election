@@ -70,7 +70,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Arizona,AZ,State House,2,general,Stephanie Simacek,Democratic,47810,30.35,True,False
 2024,Arizona,AZ,State House,2,general,Justin Wilmeth,Republican,46942,29.8,True,True
 2024,Arizona,AZ,State House,2,general,Ari Daniel Bradshaw,Republican,46810,29.72,False,False
-2024,Arizona,AZ,State House,2,general,Tom Simes,Independent (politician),15946,10.12,False,False
+2024,Arizona,AZ,State House,2,general,Tom Simes,Independent,15946,10.12,False,False
 2024,Arizona,AZ,State House,3,general,Joseph Chaplik,Republican,93596,39.38,True,True
 2024,Arizona,AZ,State House,3,general,Alexander Kolodin,Republican,88693,37.32,True,True
 2024,Arizona,AZ,State House,3,general,Richard Corles,Democratic,55372,23.3,False,False
@@ -324,6 +324,164 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Arkansas,AR,State House,98,general,Wade Andrews,Republican,8609,100.0,True,True
 2024,Arkansas,AR,State House,99,general,Lane Jean,Republican,10630,100.0,True,True
 2024,Arkansas,AR,State House,100,general,Carol Dalby,Republican,8761,100.0,True,True
+2024,California,CA,State House,1,general,Heather Hadwick,Republican,125387,59.8,True,False
+2024,California,CA,State House,1,general,Tenessa Audette,Republican,84167,40.2,False,False
+2024,California,CA,State House,2,general,Chris Rogers,Democratic,154845,65.9,True,False
+2024,California,CA,State House,2,general,Michael Greer,Republican,80290,34.1,False,False
+2024,California,CA,State House,3,general,James Gallagher,Republican,131578,66.3,True,True
+2024,California,CA,State House,3,general,Aaron Draper,Democratic,66962,33.7,False,False
+2024,California,CA,State House,4,general,Cecilia Aguiar-Curry,Democratic,133421,66.5,True,True
+2024,California,CA,State House,4,general,Darren Ellis,Republican,67277,33.5,False,False
+2024,California,CA,State House,5,general,Joe Patterson,Republican,174220,62.0,True,True
+2024,California,CA,State House,5,general,Neva Parker,Democratic,106753,38.0,False,False
+2024,California,CA,State House,6,general,Maggy Krell,Democratic,133581,66.9,True,False
+2024,California,CA,State House,6,general,Nikki Ellis,Republican,66217,33.1,False,False
+2024,California,CA,State House,7,general,Josh Hoover,Republican,116254,53.6,True,True
+2024,California,CA,State House,7,general,Porsche Middleton,Democratic,100487,46.4,False,False
+2024,California,CA,State House,8,general,David Tangipa,Republican,113407,53.7,True,False
+2024,California,CA,State House,8,general,George Radanovich,Republican,97770,46.3,False,False
+2024,California,CA,State House,9,general,Heath Flora,Republican,129268,70.1,True,True
+2024,California,CA,State House,9,general,Tami Nobriga,American Independent,55169,29.9,False,False
+2024,California,CA,State House,10,general,Stephanie Nguyen,Democratic,124509,67.6,True,True
+2024,California,CA,State House,10,general,Vinaya Singh,Republican,59665,32.4,False,False
+2024,California,CA,State House,11,general,Lori Wilson,Democratic,124283,58.8,True,True
+2024,California,CA,State House,11,general,Dave Ennis,Republican,87156,41.2,False,False
+2024,California,CA,State House,12,general,Damon Connolly,Democratic,184605,75.7,True,True
+2024,California,CA,State House,12,general,Andrew Podshadley,Republican,59286,24.3,False,False
+2024,California,CA,State House,13,general,Rhodesia Ransom,Democratic,78071,56.9,True,False
+2024,California,CA,State House,13,general,Denise Aguilar Mendez,Republican,59237,43.1,False,False
+2024,California,CA,State House,14,general,Buffy Wicks,Democratic,124973,68.5,True,True
+2024,California,CA,State House,14,general,Margot Smith,Democratic,57450,31.5,False,False
+2024,California,CA,State House,15,general,Anamarie Avila Farias,Democratic,131850,64.1,True,False
+2024,California,CA,State House,15,general,Sonia Ledo,Republican,73762,35.9,False,False
+2024,California,CA,State House,16,general,Rebecca Bauer-Kahan,Democratic,161029,64.1,True,True
+2024,California,CA,State House,16,general,Joseph Rubay,Republican,90136,35.9,False,False
+2024,California,CA,State House,17,general,Matt Haney,Democratic,169490,84.6,True,True
+2024,California,CA,State House,17,general,Manuel Noris-Barrera,Republican,30900,15.4,False,False
+2024,California,CA,State House,18,general,Mia Bonta,Democratic,134073,80.3,True,True
+2024,California,CA,State House,18,general,Andre Sandford,American Independent,32983,19.7,False,False
+2024,California,CA,State House,19,general,Catherine Stefani,Democratic,118928,60.5,True,False
+2024,California,CA,State House,19,general,David Lee,Democratic,77546,39.5,False,False
+2024,California,CA,State House,20,general,Liz Ortega,Democratic,126615,72.9,True,True
+2024,California,CA,State House,20,general,Sangeetha Shanbhogue,Republican,47060,27.1,False,False
+2024,California,CA,State House,21,general,Diane Papan,Democratic,147291,73.8,True,True
+2024,California,CA,State House,21,general,Mark Gilham,Republican,52218,26.2,False,False
+2024,California,CA,State House,22,general,Juan Alanis,Republican,86858,56.2,True,True
+2024,California,CA,State House,22,general,Jessica Self,Democratic,67743,43.8,False,False
+2024,California,CA,State House,23,general,Marc Berman,Democratic,115833,59.8,True,True
+2024,California,CA,State House,23,general,Lydia Kou,Democratic,77949,40.2,False,False
+2024,California,CA,State House,24,general,Alex Lee,Democratic,105150,66.1,True,True
+2024,California,CA,State House,24,general,Bob Brunton,Republican,53936,33.9,False,False
+2024,California,CA,State House,25,general,Ash Kalra,Democratic,107968,68.4,True,True
+2024,California,CA,State House,25,general,Ted Stroll,Republican,49861,31.6,False,False
+2024,California,CA,State House,26,general,Patrick Ahrens,Democratic,76807,56.0,True,False
+2024,California,CA,State House,26,general,Tara Sreekrishnan,Democratic,60392,44.0,False,False
+2024,California,CA,State House,27,general,Esmeralda Soria,Democratic,75559,53.9,True,True
+2024,California,CA,State House,27,general,Joanna Garcia Rose,Republican,64576,46.1,False,False
+2024,California,CA,State House,28,general,Gail Pellerin,Democratic,151419,66.9,True,True
+2024,California,CA,State House,28,general,Liz Lawler,Republican,75069,33.1,False,False
+2024,California,CA,State House,29,general,Robert Rivas,Democratic,99600,66.0,True,True
+2024,California,CA,State House,29,general,J.W. Paine,Republican,51291,34.0,False,False
+2024,California,CA,State House,30,general,Dawn Addis,Democratic,148758,62.4,True,True
+2024,California,CA,State House,30,general,Dalila Epperson,Republican,89570,37.6,False,False
+2024,California,CA,State House,31,general,Joaquin Arambula,Democratic,69767,60.2,True,True
+2024,California,CA,State House,31,general,Solomon Verduzco,Republican,46120,39.8,False,False
+2024,California,CA,State House,32,general,Ken Weir,Republican,79781,40.9,True,False
+2024,California,CA,State House,33,general,Alexandra Macedo,Republican,72575,62.9,True,False
+2024,California,CA,State House,33,general,Xavier Avila,Republican,42773,37.1,False,False
+2024,California,CA,State House,34,general,Tom Lackey,Republican,117751,62.0,True,True
+2024,California,CA,State House,34,general,Ricardo Ortega,Democratic,72152,38.0,False,False
+2024,California,CA,State House,35,general,Jasmeet Bains,Democratic,59454,57.6,True,True
+2024,California,CA,State House,35,general,Robert Rosas,Republican,43821,42.4,False,False
+2024,California,CA,State House,36,general,Jeff Gonzalez,Republican,79477,51.8,True,False
+2024,California,CA,State House,36,general,Joey Acuña,Democratic,73926,48.2,False,False
+2024,California,CA,State House,37,general,Gregg Hart,Democratic,115216,60.7,True,True
+2024,California,CA,State House,37,general,Sari Domingues,Republican,74463,39.3,False,False
+2024,California,CA,State House,38,general,Steve Bennett,Democratic,117387,63.4,True,True
+2024,California,CA,State House,38,general,Deborah Baber,Republican,67845,36.6,False,False
+2024,California,CA,State House,39,general,Juan Carrillo Ventura,Democratic,72152,57.7,True,True
+2024,California,CA,State House,39,general,Paul Marsh,Republican,52871,42.3,False,False
+2024,California,CA,State House,40,general,Pilar Schiavo,Democratic,119654,52.8,True,True
+2024,California,CA,State House,40,general,Patrick Lee Gipson,Republican,106960,47.2,False,False
+2024,California,CA,State House,41,general,John Harabedian,Democratic,137293,58.5,True,False
+2024,California,CA,State House,41,general,Michelle Del Rosario Martinez,Republican,97336,41.5,False,False
+2024,California,CA,State House,42,general,Jacqui Irwin,Democratic,147218,54.3,True,True
+2024,California,CA,State House,42,general,Ted Nordblum,Republican,123940,45.7,False,False
+2024,California,CA,State House,43,general,Celeste Rodriguez,Democratic,85983,66.6,True,False
+2024,California,CA,State House,43,general,Victoria Garcia,Republican,43028,33.4,False,False
+2024,California,CA,State House,44,general,Nick Schultz,Democratic,143625,65.9,True,False
+2024,California,CA,State House,44,general,Tony Rodriguez,Republican,74316,34.1,False,False
+2024,California,CA,State House,45,general,James Ramos,Democratic,87062,63.8,True,True
+2024,California,CA,State House,45,general,Scott Olson,Republican,49304,36.2,False,False
+2024,California,CA,State House,46,general,Jesse Gabriel,Democratic,107003,62.9,True,True
+2024,California,CA,State House,46,general,Tracey Schroeder,Republican,63114,37.1,False,False
+2024,California,CA,State House,47,general,Greg Wallis,Republican,119072,51.2,True,True
+2024,California,CA,State House,47,general,Christy Holstege,Democratic,113538,48.8,False,False
+2024,California,CA,State House,48,general,Blanca Rubio,Democratic,101637,61.8,True,True
+2024,California,CA,State House,48,general,Dan Tran,Republican,62880,38.2,False,False
+2024,California,CA,State House,49,general,Mike Fong,Democratic,92514,62.0,True,True
+2024,California,CA,State House,49,general,David Liu,Republican,56795,38.0,False,False
+2024,California,CA,State House,50,general,Robert Garcia,Democratic,77923,56.4,True,False
+2024,California,CA,State House,50,general,Adam Perez,Democratic,60360,43.6,False,False
+2024,California,CA,State House,51,general,Rick Chavez Zbur,Democratic,154114,75.0,True,True
+2024,California,CA,State House,51,general,Stephan Hohil,Republican,51365,25.0,False,False
+2024,California,CA,State House,52,general,Jessica Caloza,Democratic,108882,66.9,True,False
+2024,California,CA,State House,52,general,Franky Carrillo,Democratic,53820,33.1,False,False
+2024,California,CA,State House,53,general,Michelle Rodriguez,Democratic,83371,57.6,True,False
+2024,California,CA,State House,53,general,Nick Wilson,Republican,61380,42.4,False,False
+2024,California,CA,State House,54,general,Mark Gonzalez,Democratic,59549,56.3,True,False
+2024,California,CA,State House,54,general,John Yi,Democratic,46309,43.7,False,False
+2024,California,CA,State House,55,general,Isaac Bryan,Democratic,148062,80.7,True,True
+2024,California,CA,State House,55,general,Keith Cascio,Republican,35316,19.3,False,False
+2024,California,CA,State House,56,general,Lisa Calderon,Democratic,94470,56.7,True,True
+2024,California,CA,State House,56,general,Jessica Martinez,Republican,72198,43.3,False,False
+2024,California,CA,State House,57,general,Sade Elhawary,Democratic,54117,61.1,True,False
+2024,California,CA,State House,57,general,Efren Martinez,Democratic,34506,38.9,False,False
+2024,California,CA,State House,58,general,Leticia Castillo,Republican,78292,50.2,True,False
+2024,California,CA,State House,58,general,Clarissa Cervantes,Democratic,77696,49.8,False,False
+2024,California,CA,State House,59,general,Phillip Chen,Republican,139113,60.5,True,True
+2024,California,CA,State House,59,general,Dave Obrand,Democratic,90834,39.5,False,False
+2024,California,CA,State House,60,general,Corey Jackson,Democratic,71922,55.4,True,True
+2024,California,CA,State House,60,general,Ron Edwards,Republican,58017,44.6,False,False
+2024,California,CA,State House,61,general,Tina McKinnor,Democratic,121661,76.5,True,True
+2024,California,CA,State House,61,general,Alfonso Hernandez,Republican,37375,23.5,False,False
+2024,California,CA,State House,62,general,Jose Solache,Democratic,85383,66.0,True,False
+2024,California,CA,State House,62,general,Paul Jones,Republican,43974,34.0,False,False
+2024,California,CA,State House,63,general,Bill Essayli,Republican,122968,57.3,True,True
+2024,California,CA,State House,63,general,Chris Shoults,Democratic,91708,42.7,False,False
+2024,California,CA,State House,64,general,Blanca Pacheco,Democratic,102606,62.5,True,True
+2024,California,CA,State House,64,general,Raul Ortiz Jr.,Republican,61593,37.5,False,False
+2024,California,CA,State House,65,general,Mike Gipson,Democratic,92246,70.9,True,True
+2024,California,CA,State House,65,general,Lydia Gutierrez,Republican,37946,29.1,False,False
+2024,California,CA,State House,66,general,Al Muratsuchi,Democratic,131680,60.2,True,True
+2024,California,CA,State House,66,general,George Barks,Republican,86986,39.8,False,False
+2024,California,CA,State House,67,general,Sharon Quirk-Silva,Democratic,93701,56.8,True,True
+2024,California,CA,State House,67,general,Elizabeth Culver,Republican,71161,43.2,False,False
+2024,California,CA,State House,68,general,Avelino Valencia,Democratic,84259,63.7,True,True
+2024,California,CA,State House,68,general,Mike Tardif,Republican,47975,36.3,False,False
+2024,California,CA,State House,69,general,Josh Lowenthal,Democratic,120340,68.4,True,True
+2024,California,CA,State House,69,general,Joshua Rodriguez,Republican,55595,31.6,False,False
+2024,California,CA,State House,70,general,Tri Ta,Republican,96083,54.7,True,True
+2024,California,CA,State House,70,general,Jimmy D. Pham,Democratic,79587,45.3,False,False
+2024,California,CA,State House,71,general,Kate Sanchez,Republican,147932,61.5,True,True
+2024,California,CA,State House,71,general,Gary Kephart,Democratic,92424,38.5,False,False
+2024,California,CA,State House,72,general,Diane Dixon,Republican,157278,59.5,True,True
+2024,California,CA,State House,72,general,Dom Jones,Democratic,107251,40.5,False,False
+2024,California,CA,State House,73,general,Cottie Petrie-Norris,Democratic,108445,56.8,True,True
+2024,California,CA,State House,73,general,Scotty Peotter,Republican,82365,43.2,False,False
+2024,California,CA,State House,74,general,Laurie Davies,Republican,117208,50.8,True,True
+2024,California,CA,State House,74,general,Chris Duncan,Democratic,113338,49.2,False,False
+2024,California,CA,State House,75,general,Carl DeMaio,Republican,121167,57.0,True,False
+2024,California,CA,State House,75,general,Andrew Hayes,Republican,91337,43.0,False,False
+2024,California,CA,State House,76,general,Darshana Patel,Democratic,113242,54.0,True,False
+2024,California,CA,State House,76,general,Kristie Bruce-Lane,Republican,96358,46.0,False,False
+2024,California,CA,State House,77,general,Tasha Boerner,Democratic,154202,60.4,True,True
+2024,California,CA,State House,77,general,James Browne,Republican,100954,39.6,False,False
+2024,California,CA,State House,78,general,Chris Ward,Democratic,175178,100.0,True,True
+2024,California,CA,State House,79,general,LaShae Sharp-Collins,Democratic,79215,54.0,True,False
+2024,California,CA,State House,79,general,Colin Parent,Democratic,67390,46.0,False,False
+2024,California,CA,State House,80,general,David Alvarez,Democratic,113768,61.0,True,True
+2024,California,CA,State House,80,general,Michael W. Williams,Republican,72836,39.0,False,False
 2024,Colorado,CO,State House,1,general,Javier Mabrey,Democratic Party (colorado),22104,64.75,True,True
 2024,Colorado,CO,State House,1,general,Barbara DeHaan,Republican Party (colorado),12033,35.25,False,False
 2024,Colorado,CO,State House,2,general,Steven Woodrow,Democratic Party (colorado),38829,74.2,True,True
@@ -802,7 +960,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Florida,FL,State House,1,general,Franscine C. Mathis,Democratic,30466.0,34.2,False,False
 2024,Florida,FL,State House,2,general,Alex Andrade,Republican,54433.0,57.7,True,True
 2024,Florida,FL,State House,2,general,Haley “Hale” Morrissette,Democratic,33337.0,35.5,False,False
-2024,Florida,FL,State House,2,general,Kim Kline,Independent (politician),6603.0,7.0,False,False
+2024,Florida,FL,State House,2,general,Kim Kline,Independent,6603.0,7.0,False,False
 2024,Florida,FL,State House,3,general,Joel Rudman,Republican,80019.0,78.4,True,True
 2024,Florida,FL,State House,3,general,Keith Ellis Gillum,Democratic,22071.0,21.6,False,False
 2024,Florida,FL,State House,4,general,Patt Maney,Republican,67712.0,73.5,True,True
@@ -815,8 +973,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Florida,FL,State House,7,general,Kenny Beasley,Democratic,20585.0,22.6,False,False
 2024,Florida,FL,State House,8,general,Gallop Franklin,Democratic,54473.0,72.2,True,True
 2024,Florida,FL,State House,8,general,Grace Glass,Republican,20973.0,27.8,False,False
-2024,Florida,FL,State House,9,general,Allison Tant,Democratic,62100.0,57.1,True,True
-2024,Florida,FL,State House,9,general,Spencer Brass,Republican,46750.0,42.9,False,False
+2024,Florida,FL,State House,POLLING,general,Allison Tant,Democratic,62100.0,57.1,True,True
+2024,Florida,FL,State House,POLLING,general,Spencer Brass,Republican,46750.0,42.9,False,False
 2024,Florida,FL,State House,10,general,Chuck Brannan,Republican,66208.0,74.0,True,True
 2024,Florida,FL,State House,10,general,Robert “Bobby” J. Brady,Democratic,23204.0,26.0,False,False
 2024,Florida,FL,State House,11,general,Sam Garrison,Republican,67517.0,69.1,True,True
@@ -835,8 +993,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Florida,FL,State House,17,general,Bryson Morgan,Democratic,37353.0,41.9,False,False
 2024,Florida,FL,State House,18,general,Kim Kendall,Republican,91289.0,69.9,True,False
 2024,Florida,FL,State House,18,general,Keith Matthews,Democratic,39290.0,30.1,False,False
-2024,Florida,FL,State House,19,general,Sam Greco,Republican,68622.0,60.9,True,False
-2024,Florida,FL,State House,19,general,Adam Morley,Democratic,43966.0,39.1,False,False
+2024,Florida,FL,State House,WITHDRAWN,general,Sam Greco,Republican,68622.0,60.9,True,False
+2024,Florida,FL,State House,WITHDRAWN,general,Adam Morley,Democratic,43966.0,39.1,False,False
 2024,Florida,FL,State House,20,general,Judson Sapp,Republican,74164.0,75.4,True,False
 2024,Florida,FL,State House,20,general,Tom Connolly,Democratic,24188.0,24.6,False,False
 2024,Florida,FL,State House,21,general,Yvonne Hayes Hinson,Democratic,,,True,True
@@ -891,7 +1049,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Florida,FL,State House,45,general,Carolina Amesty,Republican,46809.0,49.1,False,True
 2024,Florida,FL,State House,46,general,Jose Alverez,Democratic,33142.0,57.0,True,False
 2024,Florida,FL,State House,46,general,Michael Cruz,Republican,23016.0,39.6,False,False
-2024,Florida,FL,State House,46,general,Ivan A. Rivera,Independent (politician),1968.0,3.4,False,False
+2024,Florida,FL,State House,46,general,Ivan A. Rivera,Independent,1968.0,3.4,False,False
 2024,Florida,FL,State House,47,general,Paula Stark,Republican,39380.0,50.8,True,True
 2024,Florida,FL,State House,47,general,Maria Revelles,Democratic,38134.0,49.2,False,False
 2024,Florida,FL,State House,48,general,Jon Albert,Republican,49893.0,57.9,True,False
@@ -900,8 +1058,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Florida,FL,State House,49,general,Ashley Elizabeth Herrmann,Democratic,26217.0,32.9,False,False
 2024,Florida,FL,State House,50,general,Jennifer Canady,Republican,49635.0,62.6,True,True
 2024,Florida,FL,State House,50,general,Bonnie Patterson-James,Democratic,29627.0,37.4,False,False
-2024,Florida,FL,State House,51,general,Josie Tomkow,Republican,51050.0,56.9,True,True
-2024,Florida,FL,State House,51,general,Octavio E. Hernandez,Democratic,38683.0,43.1,False,False
+2024,Florida,FL,State House,DEMOCRATIC,general,Josie Tomkow,Republican,51050.0,56.9,True,True
+2024,Florida,FL,State House,DEMOCRATIC,general,Octavio E. Hernandez,Democratic,38683.0,43.1,False,False
 2024,Florida,FL,State House,52,general,John Temple,Republican,92690.0,72.0,True,True
 2024,Florida,FL,State House,52,general,Ash Marwah,Democratic,35972.0,28.0,False,False
 2024,Florida,FL,State House,53,general,Jeff Holcomb,Republican,66146.0,69.0,True,True
@@ -915,7 +1073,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Florida,FL,State House,56,general,"William ""Willie"" Pura",Democratic,26904.0,34.9,False,False
 2024,Florida,FL,State House,57,general,Adam C. Anderson,Republican,61669.0,58.8,True,True
 2024,Florida,FL,State House,57,general,Kelly Johnson,Democratic,40503.0,38.6,False,False
-2024,Florida,FL,State House,57,general,Robert “Bob” Arthur Larrivee,Independent (politician),2675.0,2.6,False,False
+2024,Florida,FL,State House,57,general,Robert “Bob” Arthur Larrivee,Independent,2675.0,2.6,False,False
 2024,Florida,FL,State House,58,general,Kim Berfield,Republican,52103.0,57.6,True,True
 2024,Florida,FL,State House,58,general,Bryan Beckman,Democratic,38283.0,42.4,False,False
 2024,Florida,FL,State House,59,general,Berny Jacques,Republican,50520.0,58.7,True,True
@@ -938,15 +1096,15 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Florida,FL,State House,67,general,Ronrico “Rico” Smith,Republican,30023.0,45.3,False,False
 2024,Florida,FL,State House,68,general,Lawrence McClure,Republican,50568.0,63.0,True,True
 2024,Florida,FL,State House,68,general,Lisa Carpus,Democratic,27230.0,33.9,False,False
-2024,Florida,FL,State House,68,general,Tyrell Hicks,Independent (politician),2427.0,3.0,False,False
+2024,Florida,FL,State House,68,general,Tyrell Hicks,Independent,2427.0,3.0,False,False
 2024,Florida,FL,State House,69,general,Danny Alvarez,Republican,50383.0,58.2,True,True
 2024,Florida,FL,State House,69,general,Bobby Kachelries,Democratic,36136.0,41.8,False,False
 2024,Florida,FL,State House,70,general,Michael Owen,Republican,65037.0,58.8,True,False
 2024,Florida,FL,State House,70,general,Luther Keith Wilkins,Democratic,45620.0,41.2,False,False
 2024,Florida,FL,State House,71,general,Will Robinson,Republican,44548.0,59.6,True,True
 2024,Florida,FL,State House,71,general,Adriaan J. DeVilliers,Democratic,30241.0,40.4,False,False
-2024,Florida,FL,State House,72,general,Bill Conerly,Republican,71463.0,64.7,True,False
-2024,Florida,FL,State House,72,general,Lesa Miller,Democratic,39013.0,35.3,False,False
+2024,Florida,FL,State House,POLLING,general,Bill Conerly,Republican,71463.0,64.7,True,False
+2024,Florida,FL,State House,POLLING,general,Lesa Miller,Democratic,39013.0,35.3,False,False
 2024,Florida,FL,State House,73,general,Fiona McFarland,Republican,61212.0,56.3,True,True
 2024,Florida,FL,State House,73,general,Derek Reich,Democratic,47548.0,43.7,False,False
 2024,Florida,FL,State House,74,general,James Buchanan,Republican,74060.0,64.6,True,True
@@ -989,8 +1147,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Florida,FL,State House,92,general,Kelly Skidmore,Democratic,,,True,True
 2024,Florida,FL,State House,93,general,Anne Gerwig,Republican,45953.0,50.2,True,False
 2024,Florida,FL,State House,93,general,Katherine Waldron,Democratic,45605.0,49.8,False,True
-2024,Florida,FL,State House,94,general,Meg Weinberger,Republican,53072.0,55.1,True,True
-2024,Florida,FL,State House,94,general,Rachelle Litt,Democratic,43277.0,44.9,False,False
+2024,Florida,FL,State House,NOMINEE,general,Meg Weinberger,Republican,53072.0,55.1,True,True
+2024,Florida,FL,State House,NOMINEE,general,Rachelle Litt,Democratic,43277.0,44.9,False,False
 2024,Florida,FL,State House,95,general,Christine Hunschofsky,Democratic,,,True,True
 2024,Florida,FL,State House,96,general,Dan Daley,Democratic,,,True,True
 2024,Florida,FL,State House,97,general,Lisa Dunkley,Democratic,,,True,True
@@ -1008,7 +1166,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Florida,FL,State House,105,general,Robin Bartleman,Libertarian,12749.0,20.3,False,False
 2024,Florida,FL,State House,106,general,Fabián Basabe,Republican,38286.0,51.3,True,True
 2024,Florida,FL,State House,106,general,Joe Saunders,Democratic,35229.0,47.0,False,False
-2024,Florida,FL,State House,106,general,Mo Saunders Scott,Independent (politician),1271.0,1.7,False,False
+2024,Florida,FL,State House,106,general,Mo Saunders Scott,Independent,1271.0,1.7,False,False
 2024,Florida,FL,State House,107,general,Wallace Aristide,Democratic,,,True,False
 2024,Florida,FL,State House,108,general,Dotie Joseph,Democratic,,,True,True
 2024,Florida,FL,State House,109,general,Ashley Gantt,Democratic,,,True,True
@@ -1746,7 +1904,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Illinois,IL,State House,86,general,Lawrence M. Walsh Jr.,Democratic,24228,59.95,True,True
 2024,Illinois,IL,State House,86,general,Jim Lanham,Republican,16189,40.05,False,False
 2024,Illinois,IL,State House,87,general,Bill Hauter,Republican,39955,76.72,True,True
-2024,Illinois,IL,State House,87,general,David Gill,Independent (politician),12126,23.28,False,False
+2024,Illinois,IL,State House,87,general,David Gill,Independent,12126,23.28,False,False
 2024,Illinois,IL,State House,88,general,Regan Deering,Republican,46760,100.0,True,False
 2024,Illinois,IL,State House,89,general,Tony McCombie,Republican,48794,100.0,True,True
 2024,Illinois,IL,State House,90,general,John Cabello,Republican,41383,100.0,True,True
@@ -1961,10 +2119,10 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Iowa,IA,State House,3,general,Emma Bouza,Democratic,3236,21.19,False,False
 2024,Iowa,IA,State House,4,general,Skyler Wheeler,Republican,14292,98.13,True,True
 2024,Iowa,IA,State House,5,general,Zach Dieken,Republican,11146,77.85,True,True
-2024,Iowa,IA,State House,5,general,Michael Schnoes,Independent (politician),3136,21.9,False,False
+2024,Iowa,IA,State House,5,general,Michael Schnoes,Independent,3136,21.9,False,False
 2024,Iowa,IA,State House,6,general,Megan Jones,Republican,10020,97.72,True,True
 2024,Iowa,IA,State House,7,general,Mike Sexton,Republican,12743,83.43,True,True
-2024,Iowa,IA,State House,7,general,Martin Podraza,Independent (politician),2465,16.14,False,False
+2024,Iowa,IA,State House,7,general,Martin Podraza,Independent,2465,16.14,False,False
 2024,Iowa,IA,State House,8,general,Ann Meyer,Republican,10459,97.47,True,True
 2024,Iowa,IA,State House,9,general,Henry Stone,Republican,11744,73.24,True,True
 2024,Iowa,IA,State House,9,general,Christian He-Man Schlaerth,Democratic,4270,26.63,False,False
@@ -1975,7 +2133,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Iowa,IA,State House,12,general,Dustin Durbin,Democratic,3643,26.15,False,False
 2024,Iowa,IA,State House,13,general,Travis Sitzmann,Republican,12462,73.07,True,False
 2024,Iowa,IA,State House,13,general,Rosanne Plante,Democratic,3192,18.72,False,False
-2024,Iowa,IA,State House,13,general,Parker Hansen,Independent (politician),1370,8.03,False,False
+2024,Iowa,IA,State House,13,general,Parker Hansen,Independent,1370,8.03,False,False
 2024,Iowa,IA,State House,14,general,Jacob Bossman,Republican,11116,97.5,True,True
 2024,Iowa,IA,State House,15,general,Matt Windschitl,Republican,12795,69.23,True,True
 2024,Iowa,IA,State House,15,general,Benjamin Schauer,Democratic,5655,30.6,False,False
@@ -2031,7 +2189,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Iowa,IA,State House,42,general,Heather Stephenson,Republican,8959,49.51,False,False
 2024,Iowa,IA,State House,43,general,Eddie Andrews,Republican,9598,50.89,True,True
 2024,Iowa,IA,State House,43,general,Tiara Mays-Sims,Democratic,8959,47.5,False,False
-2024,Iowa,IA,State House,43,general,Brett Harvey Nelson,Independent (politician),280,1.48,False,False
+2024,Iowa,IA,State House,43,general,Brett Harvey Nelson,Independent,280,1.48,False,False
 2024,Iowa,IA,State House,44,general,Larry McBurney,Democratic,9769,64.25,True,False
 2024,Iowa,IA,State House,44,general,Jake Heard,Libertarian,5313,34.94,False,False
 2024,Iowa,IA,State House,45,general,Brian Lohse,Republican,12827,64.57,True,True
@@ -2067,7 +2225,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Iowa,IA,State House,62,general,Ervin Sabic,Libertarian,2273,23.99,False,False
 2024,Iowa,IA,State House,63,general,Michael Bergan,Republican,13566,91.43,True,True
 2024,Iowa,IA,State House,64,general,Jason Gearhart,Republican,10824,67.72,True,False
-2024,Iowa,IA,State House,64,general,Ian Zahren,Independent (politician),5114,32.0,False,False
+2024,Iowa,IA,State House,64,general,Ian Zahren,Independent,5114,32.0,False,False
 2024,Iowa,IA,State House,65,general,Shannon Lundgren,Republican,11934,64.24,True,True
 2024,Iowa,IA,State House,65,general,Carolyn Wiezorek,Democratic,6623,35.65,False,False
 2024,Iowa,IA,State House,66,general,Steve Bradley,Republican,9541,55.39,True,True
@@ -2106,7 +2264,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Iowa,IA,State House,86,general,Stephen Knoner,Republican,3934,23.84,False,False
 2024,Iowa,IA,State House,87,general,Jeff Shipley,Republican,8221,57.54,True,True
 2024,Iowa,IA,State House,87,general,Thomas O’Donnell,Democratic,5655,39.58,False,False
-2024,Iowa,IA,State House,87,general,Curtis Oliver,Independent (politician),386,2.7,False,False
+2024,Iowa,IA,State House,87,general,Curtis Oliver,Independent,386,2.7,False,False
 2024,Iowa,IA,State House,88,general,Helena Hayes,Republican,12191,97.72,True,True
 2024,Iowa,IA,State House,89,general,Elinor Levin,Democratic,11945,98.72,True,True
 2024,Iowa,IA,State House,90,general,Adam Zabner,Democratic,14477,98.51,True,True
@@ -2129,7 +2287,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Iowa,IA,State House,99,general,Matthew Rinker,Republican,7755,55.57,True,True
 2024,Iowa,IA,State House,99,general,Jim Beres,Democratic,6162,44.16,False,False
 2024,Iowa,IA,State House,100,general,Martin Graber,Republican,9466,67.61,True,True
-2024,Iowa,IA,State House,100,general,Nicolas Atwood,Independent (politician),4489,32.06,False,False
+2024,Iowa,IA,State House,100,general,Nicolas Atwood,Independent,4489,32.06,False,False
 2024,Kansas,KS,State House,1,general,Dale Helwig,Republican,7805,74.68,True,False
 2024,Kansas,KS,State House,1,general,Janie G. Jarrett,Democratic,2646,25.32,False,False
 2024,Kansas,KS,State House,2,general,Ken Collins,Republican,7547,69.23,True,True
@@ -2447,6 +2605,218 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Kentucky,KY,State House,98,general,Tammie Womack,Democratic,6087.0,28.1,False,False
 2024,Kentucky,KY,State House,99,general,Richard L. White,Republican,,,True,True
 2024,Kentucky,KY,State House,100,general,Scott L. Sharp,Republican,,,True,True
+2024,Massachusetts,MA,State House,1ST BARNSTABLE,general,Christopher Richard Flanagan,Democratic,15607,56.5,True,False
+2024,Massachusetts,MA,State House,1ST BARNSTABLE,general,Gerald Joseph O'Connell,Republican,11996,43.4,False,False
+2024,Massachusetts,MA,State House,2ND BARNSTABLE,general,Kip Diggs,Democratic,14147,59.3,True,True
+2024,Massachusetts,MA,State House,2ND BARNSTABLE,general,William Buffington Peters,Republican,9686,40.6,False,False
+2024,Massachusetts,MA,State House,3RD BARNSTABLE,general,David T. Vieira,Republican,16059,56.0,True,True
+2024,Massachusetts,MA,State House,3RD BARNSTABLE,general,Kathleen Fox Alfano,Democratic,12600,43.9,False,False
+2024,Massachusetts,MA,State House,4TH BARNSTABLE,general,Hadley Luddy,Democratic,22749,98.7,True,False
+2024,Massachusetts,MA,State House,5TH BARNSTABLE,general,Steven Xiarhos,Republican,16384,61.3,True,True
+2024,Massachusetts,MA,State House,5TH BARNSTABLE,general,Owen G. Fletcher,Democratic,10305,38.6,False,False
+2024,Massachusetts,MA,State House,"BARNSTABLE, DUKES AND NANTUCKET",general,Thomas Moakley,Democratic,21075,98.9,True,False
+2024,Massachusetts,MA,State House,1ST BERKSHIRE,general,John P. Barret III,Democratic,17785,99.3,True,True
+2024,Massachusetts,MA,State House,2ND BERKSHIRE,general,Tricia Farley-Bouvier,Democratic,15896,99.1,True,True
+2024,Massachusetts,MA,State House,3RD BERKSHIRE,general,Leigh Davis,Democratic,13819,57.4,True,False
+2024,Massachusetts,MA,State House,3RD BERKSHIRE,general,Marybeth F. Mitts,Independent,10222,42.4,False,False
+2024,Massachusetts,MA,State House,1ST BRISTOL,general,Michael Chaisson,Republican,11404,50.2,True,False
+2024,Massachusetts,MA,State House,1ST BRISTOL,general,Kostas Loukos,Democratic,11316,49.8,False,False
+2024,Massachusetts,MA,State House,2ND BRISTOL,general,James K. Hawkins,Democratic,12769,68.1,True,True
+2024,Massachusetts,MA,State House,2ND BRISTOL,general,Andrew Nelson,Workers,3540,18.9,False,False
+2024,Massachusetts,MA,State House,2ND BRISTOL,general,Patricia Bellfield,Independent,2389,12.7,False,False
+2024,Massachusetts,MA,State House,3RD BRISTOL,general,Carol Doherty,Democratic,15398,98.4,True,True
+2024,Massachusetts,MA,State House,4TH BRISTOL,general,Steve Howitt,Republican,19728,98.6,True,True
+2024,Massachusetts,MA,State House,5TH BRISTOL,general,Justin Thurber,Republican,12390,51.4,True,False
+2024,Massachusetts,MA,State House,5TH BRISTOL,general,Patricia Haddad,Democratic,11464,48.0,False,True
+2024,Massachusetts,MA,State House,6TH BRISTOL,general,Carole Fiola,Democratic,11766,96.5,True,True
+2024,Massachusetts,MA,State House,7TH BRISTOL,general,Alan Silvia,Democratic,8556,97.0,True,True
+2024,Massachusetts,MA,State House,8TH BRISTOL,general,Steven Ouellette,Democratic,7497,33.8,True,False
+2024,Massachusetts,MA,State House,8TH BRISTOL,general,Christopher Thrasher,Republican,7236,32.7,False,False
+2024,Massachusetts,MA,State House,8TH BRISTOL,general,Jesse St. W. Gelais,Independent,4232,19.1,False,False
+2024,Massachusetts,MA,State House,8TH BRISTOL,general,Manuel Soares Jr.,Independent,2003,9.0,False,False
+2024,Massachusetts,MA,State House,8TH BRISTOL,general,Laura A. Hadley,Independent,1169,5.3,False,False
+2024,Massachusetts,MA,State House,9TH BRISTOL,general,Christopher Markey,Democratic,16627,98.9,True,True
+2024,Massachusetts,MA,State House,10TH BRISTOL,general,Mark Sylvia,Democratic,13663,52.6,True,False
+2024,Massachusetts,MA,State House,10TH BRISTOL,general,Joseph M. Pires,Republican,12295,47.3,False,False
+2024,Massachusetts,MA,State House,11TH BRISTOL,general,Christopher Hendricks,Democratic,8940,96.4,True,True
+2024,Massachusetts,MA,State House,12TH BRISTOL,general,Norman Orrall,Republican,18757,98.7,True,True
+2024,Massachusetts,MA,State House,13TH BRISTOL,general,Antonio Cabral,Democratic,11561,97.0,True,True
+2024,Massachusetts,MA,State House,14TH BRISTOL,general,Adam Scanlon,Democratic,12478,55.9,True,True
+2024,Massachusetts,MA,State House,14TH BRISTOL,general,David Cannata Jr,Republican,9823,44.0,False,False
+2024,Massachusetts,MA,State House,1ST ESSEX,general,Dawne Shand,Democratic,20721,98.6,True,False
+2024,Massachusetts,MA,State House,2ND ESSEX,general,Kristin Kassner,Democratic,16063,54.2,True,False
+2024,Massachusetts,MA,State House,2ND ESSEX,general,Mark T. Tashjian,Republican,13562,45.7,False,False
+2024,Massachusetts,MA,State House,3RD ESSEX,general,Andy Vargas,Democratic,14198,99.4,True,True
+2024,Massachusetts,MA,State House,4TH ESSEX,general,Estela Reyes,Democratic,9285,95.8,True,False
+2024,Massachusetts,MA,State House,5TH ESSEX,general,Ann-Margaret Ferrante,Democratic,17877,66.5,True,True
+2024,Massachusetts,MA,State House,5TH ESSEX,general,Steven G. Leblanc Jr.,Independent,8926,33.2,False,False
+2024,Massachusetts,MA,State House,6TH ESSEX,general,Jerry Parisella,Democratic,16598,71.0,True,True
+2024,Massachusetts,MA,State House,6TH ESSEX,general,Ty Vitale,Republican,5548,23.7,False,False
+2024,Massachusetts,MA,State House,6TH ESSEX,general,Eupulio R. Marciano,Independent,1216,5.2,False,False
+2024,Massachusetts,MA,State House,7TH ESSEX,general,Manny Cruz,Democratic,18548,99.3,True,False
+2024,Massachusetts,MA,State House,8TH ESSEX,general,Jenny Armini,Democratic,18643,98.5,True,False
+2024,Massachusetts,MA,State House,9TH ESSEX,general,Donald Wong,Republican,18114,98.9,True,True
+2024,Massachusetts,MA,State House,10TH ESSEX,general,Daniel Cahill,Democratic,10252,96.6,True,True
+2024,Massachusetts,MA,State House,11TH ESSEX,general,Sean Reid,Democratic,11228,96.6,True,False
+2024,Massachusetts,MA,State House,12TH ESSEX,general,Thomas P. Walsh,Democratic,17194,97.4,True,True
+2024,Massachusetts,MA,State House,13TH ESSEX,general,Sally Kerans,Democratic,17194,97.4,True,False
+2024,Massachusetts,MA,State House,14TH ESSEX,general,Adrianne Ramos,Democratic,18597,98.9,True,False
+2024,Massachusetts,MA,State House,15TH ESSEX,general,Ryan M. Hamilton,Democratic,16571,97.4,True,False
+2024,Massachusetts,MA,State House,16TH ESSEX,general,Francisco E. Paulino,Democratic,10187,95.4,True,False
+2024,Massachusetts,MA,State House,17TH ESSEX,general,Frank A. Moran,Democratic,9870,97.6,True,True
+2024,Massachusetts,MA,State House,18TH ESSEX,general,Tram Nguyen,Democratic,18998,98.0,True,True
+2024,Massachusetts,MA,State House,1ST FRANKLIN,general,Natalie Blais,Democratic,20997,99.0,True,True
+2024,Massachusetts,MA,State House,2ND FRANKLIN,general,Susannah Whipps,Independent,14235,65.6,True,True
+2024,Massachusetts,MA,State House,2ND FRANKLIN,general,Jeffrey L. Raymond,Republican,7416,34.2,False,False
+2024,Massachusetts,MA,State House,1ST HAMPDEN,general,Todd Smola,Republican,19075,99.2,True,True
+2024,Massachusetts,MA,State House,2ND HAMPDEN,general,Brian Ashe,Democratic,18841,97.8,True,True
+2024,Massachusetts,MA,State House,3RD HAMPDEN,general,Nicholas Boldyga,Republican,20027,98.2,True,True
+2024,Massachusetts,MA,State House,4TH HAMPDEN,general,Kelly Pease,Republican,12894,58.8,True,True
+2024,Massachusetts,MA,State House,4TH HAMPDEN,general,Bridget Matthews-Kane,Democratic,9023,41.1,False,False
+2024,Massachusetts,MA,State House,5TH HAMPDEN,general,Patricia Duffy,Democratic,12368,99.5,True,True
+2024,Massachusetts,MA,State House,6TH HAMPDEN,general,Michael Finn,Democratic,13944,98.7,True,True
+2024,Massachusetts,MA,State House,7TH HAMPDEN,general,Aaron Saunders,Democratic,18235,99.2,True,False
+2024,Massachusetts,MA,State House,8TH HAMPDEN,general,Shirley Arriaga,Democratic,14977,96.5,True,False
+2024,Massachusetts,MA,State House,9TH HAMPDEN,general,Orlando Ramos,Democratic,11453,96.8,True,True
+2024,Massachusetts,MA,State House,10TH HAMPDEN,general,Carlos González,Democratic,8232,97.2,True,True
+2024,Massachusetts,MA,State House,11TH HAMPDEN,general,Bud Williams,Democratic,10664,96.0,True,True
+2024,Massachusetts,MA,State House,12TH HAMPDEN,general,Angelo Puppolo,Democratic,18571,97.8,True,True
+2024,Massachusetts,MA,State House,1ST HAMPSHIRE,general,Lindsay Sabadosa,Democratic,21348,98.7,True,True
+2024,Massachusetts,MA,State House,2ND HAMPSHIRE,general,Homar Gomez,Democratic,19102,99.5,True,False
+2024,Massachusetts,MA,State House,3RD HAMPSHIRE,general,Mindy Domb,Democratic,10536,98.8,True,True
+2024,Massachusetts,MA,State House,1ST MIDDLESEX,general,Margaret Scarsdale,Democratic,13545,51.3,True,False
+2024,Massachusetts,MA,State House,1ST MIDDLESEX,general,Lynne E. Archambault,Republican,12833,48.6,False,False
+2024,Massachusetts,MA,State House,2ND MIDDLESEX,general,James Arciero,Democratic,19607,98.2,True,True
+2024,Massachusetts,MA,State House,3RD MIDDLESEX,general,Kate Hogan,Democratic,20537,98.9,True,True
+2024,Massachusetts,MA,State House,4TH MIDDLESEX,general,Danielle Gregoire,Democratic,13921,98.6,True,True
+2024,Massachusetts,MA,State House,5TH MIDDLESEX,general,David Linsky,Democratic,19141,99.0,True,True
+2024,Massachusetts,MA,State House,6TH MIDDLESEX,general,Priscila Sousa,Democratic,9374,96.8,True,False
+2024,Massachusetts,MA,State House,7TH MIDDLESEX,general,Jack Patrick Lewis,Democratic,17674,98.6,True,True
+2024,Massachusetts,MA,State House,8TH MIDDLESEX,general,James Arena-DeRosa,Democratic,20170,98.2,True,False
+2024,Massachusetts,MA,State House,9TH MIDDLESEX,general,Thomas M. Stanley,Democratic,13465,72.7,True,True
+2024,Massachusetts,MA,State House,9TH MIDDLESEX,general,Carly Marie Downs,Republican,3829,20.7,False,False
+2024,Massachusetts,MA,State House,9TH MIDDLESEX,general,Sean Diamond,Independent,1219,6.6,False,False
+2024,Massachusetts,MA,State House,10TH MIDDLESEX,general,John J. Lawn,Democratic,13208,99.4,True,True
+2024,Massachusetts,MA,State House,11TH MIDDLESEX,general,Amy Mah Sangiolo,Democratic,16719,81.1,True,False
+2024,Massachusetts,MA,State House,11TH MIDDLESEX,general,Vladislav S. Yanovsky,Republican,3853,18.7,False,False
+2024,Massachusetts,MA,State House,12TH MIDDLESEX,general,Greg Schwartz,Democratic,18410,98.4,True,False
+2024,Massachusetts,MA,State House,13TH MIDDLESEX,general,Carmine Gentile,Democratic,18547,73.5,True,True
+2024,Massachusetts,MA,State House,13TH MIDDLESEX,general,Virginia A. Gardner,Republican,6667,26.4,False,False
+2024,Massachusetts,MA,State House,14TH MIDDLESEX,general,Simon Cataldo,Democratic,20084,98.8,True,False
+2024,Massachusetts,MA,State House,15TH MIDDLESEX,general,Michelle Ciccolo,Democratic,17682,99.0,True,True
+2024,Massachusetts,MA,State House,16TH MIDDLESEX,general,Rodney M. Elliott,Democratic,12892,96.7,True,False
+2024,Massachusetts,MA,State House,17TH MIDDLESEX,general,Vanna Howard,Democratic,9855,76.6,True,True
+2024,Massachusetts,MA,State House,17TH MIDDLESEX,general,Joseph Paul Onoroski,Pirate,2802,21.8,True,False
+2024,Massachusetts,MA,State House,18TH MIDDLESEX,general,Tara Hong,Democratic,7592,77.7,True,False
+2024,Massachusetts,MA,State House,18TH MIDDLESEX,general,David Michael Ouellette,Independent,2100,21.5,False,False
+2024,Massachusetts,MA,State House,19TH MIDDLESEX,general,David A. Robertson,Democratic,12560,52.5,True,True
+2024,Massachusetts,MA,State House,19TH MIDDLESEX,general,Paul Sarnowski,Republican,9280,38.8,False,False
+2024,Massachusetts,MA,State House,19TH MIDDLESEX,general,George Hugh Ferdinand,Independent,2029,8.5,False,False
+2024,Massachusetts,MA,State House,20TH MIDDLESEX,general,Bradley Jones Jr.,Republican,21140,99.6,True,True
+2024,Massachusetts,MA,State House,21ST MIDDLESEX,general,Kenneth I. Gordon,Democratic,17829,97.5,True,True
+2024,Massachusetts,MA,State House,22ND MIDDLESEX,general,Marc Lombardo,Republican,13303,60.2,True,True
+2024,Massachusetts,MA,State House,22ND MIDDLESEX,general,George John Simolaris Jr.,Independent,8461,38.3,False,False
+2024,Massachusetts,MA,State House,23RD MIDDLESEX,general,Sean Garballey,Democratic,20994,99.0,True,True
+2024,Massachusetts,MA,State House,24TH MIDDLESEX,general,David M. Rogers,Democratic,19562,99.5,True,True
+2024,Massachusetts,MA,State House,25TH MIDDLESEX,general,Marjorie Decker,Democratic,13724,96.8,True,True
+2024,Massachusetts,MA,State House,25TH MIDDLESEX,general,Evan Mackay (write-in),Democratic,350,2.5,False,False
+2024,Massachusetts,MA,State House,26TH MIDDLESEX,general,Mike Connolly,Democratic,17063,98.9,True,True
+2024,Massachusetts,MA,State House,27TH MIDDLESEX,general,Erika Uyterhoeven,Democratic,20475,98.0,True,True
+2024,Massachusetts,MA,State House,28TH MIDDLESEX,general,Joe McGonagle,Democratic,8414,96.0,True,True
+2024,Massachusetts,MA,State House,29TH MIDDLESEX,general,Steven Owens,Democratic,19006,99.6,True,True
+2024,Massachusetts,MA,State House,30TH MIDDLESEX,general,Richard Haggerty,Democratic,17200,99.7,True,True
+2024,Massachusetts,MA,State House,31ST MIDDLESEX,general,Michael S. Day,Democratic,16753,99.1,True,True
+2024,Massachusetts,MA,State House,32ND MIDDLESEX,general,Kate Lipper-Garabedian,Democratic,18316,98.0,True,True
+2024,Massachusetts,MA,State House,33RD MIDDLESEX,general,Steven Ultrino,Democratic,11360,97.2,True,True
+2024,Massachusetts,MA,State House,34TH MIDDLESEX,general,Christine Barber,Democratic,16020,98.0,True,True
+2024,Massachusetts,MA,State House,35TH MIDDLESEX,general,Paul Donato,Democratic,14995,96.8,True,True
+2024,Massachusetts,MA,State House,36TH MIDDLESEX,general,Colleen Garry,Democratic,18321,100.0,True,True
+2024,Massachusetts,MA,State House,37TH MIDDLESEX,general,Danillo Sena,Democratic,18789,98.7,True,True
+2024,Massachusetts,MA,State House,1ST NORFOLK,general,Bruce J. Ayers,Democratic,15517,98.0,True,True
+2024,Massachusetts,MA,State House,2ND NORFOLK,general,Tackey Chan,Democratic,12919,69.4,True,True
+2024,Massachusetts,MA,State House,2ND NORFOLK,general,Sharon Marie Cintolo,Republican,5650,30.3,False,False
+2024,Massachusetts,MA,State House,3RD NORFOLK,general,Ron Mariano,Democratic,14559,97.4,True,True
+2024,Massachusetts,MA,State House,4TH NORFOLK,general,James M. Murphy,Democratic,17165,97.9,True,True
+2024,Massachusetts,MA,State House,5TH NORFOLK,general,Mark Cusack,Democratic,16139,97.5,True,True
+2024,Massachusetts,MA,State House,6TH NORFOLK,general,William C. Galvin,Democratic,17933,99.1,True,True
+2024,Massachusetts,MA,State House,7TH NORFOLK,general,Richard Wells,Democratic,13379,64.5,True,False
+2024,Massachusetts,MA,State House,7TH NORFOLK,general,Clinton Graham,Independent,7249,34.9,False,False
+2024,Massachusetts,MA,State House,8TH NORFOLK,general,Ted Philips,Democratic,18161,98.5,True,True
+2024,Massachusetts,MA,State House,9TH NORFOLK,general,Marcus Vaughn,Republican,15244,57.4,True,False
+2024,Massachusetts,MA,State House,9TH NORFOLK,general,Kevin Kalkut,Democratic,11309,42.6,False,False
+2024,Massachusetts,MA,State House,10TH NORFOLK,general,Jeffrey Roy,Democratic,15597,61.7,True,True
+2024,Massachusetts,MA,State House,10TH NORFOLK,general,"Charles F. Bailey, III",Republican,9653,38.2,False,False
+2024,Massachusetts,MA,State House,11TH NORFOLK,general,Paul McMurtry,Democratic,16431,60.0,True,True
+2024,Massachusetts,MA,State House,11TH NORFOLK,general,Andrew M. Pepoli,Independent,7697,31.8,False,False
+2024,Massachusetts,MA,State House,12TH NORFOLK,general,John H. Rogers,Democratic,17443,98.2,True,True
+2024,Massachusetts,MA,State House,13TH NORFOLK,general,Joshua Tarsky,Democratic,15180,61.2,True,False
+2024,Massachusetts,MA,State House,13TH NORFOLK,general,William R. Dermody,Independent,9520,38.4,False,False
+2024,Massachusetts,MA,State House,14TH NORFOLK,general,Alice Peisch,Democratic,17364,99.2,True,True
+2024,Massachusetts,MA,State House,15TH NORFOLK,general,Tommy Vitolo,Democratic,16140,98.6,True,True
+2024,Massachusetts,MA,State House,1ST PLYMOUTH,general,Michelle Badger,Democratic,15277,52.2,True,False
+2024,Massachusetts,MA,State House,1ST PLYMOUTH,general,Jesse G. Brown,Republican,13952,47.7,False,False
+2024,Massachusetts,MA,State House,2ND PLYMOUTH,general,John Gaskey,Republican,16996,88.6,True,False
+2024,Massachusetts,MA,State House,2ND PLYMOUTH,general,Sarah G. Hewins (write-in),Democratic,2097,10.9,False,False
+2024,Massachusetts,MA,State House,3RD PLYMOUTH,general,Joan Meschino,Democratic,20424,98.4,True,True
+2024,Massachusetts,MA,State House,4TH PLYMOUTH,general,Patrick J. Kearney,Democratic,22528,99.6,True,True
+2024,Massachusetts,MA,State House,5TH PLYMOUTH,general,David DeCoste,Republican,19410,97.7,True,True
+2024,Massachusetts,MA,State House,6TH PLYMOUTH,general,Kenneth Sweezey,Republican,14908,52.9,True,False
+2024,Massachusetts,MA,State House,6TH PLYMOUTH,general,Rebecca W. Coletta,Democratic,13234,47.0,False,False
+2024,Massachusetts,MA,State House,7TH PLYMOUTH,general,Alyson Sullivan,Republican,18565,98.8,True,True
+2024,Massachusetts,MA,State House,8TH PLYMOUTH,general,Dennis Gallagher,Democratic,10971,50.5,True,False
+2024,Massachusetts,MA,State House,8TH PLYMOUTH,general,Sandra M. Wright,Republican,10749,49.5,False,False
+2024,Massachusetts,MA,State House,9TH PLYMOUTH,general,Bridget Plouffe,Democratic,11809,54.3,True,False
+2024,Massachusetts,MA,State House,9TH PLYMOUTH,general,Lawrence P. Novak,Republican,6539,30.1,False,False
+2024,Massachusetts,MA,State House,9TH PLYMOUTH,general,Jonathan Wilshire Gill,Independent,3398,15.6,False,False
+2024,Massachusetts,MA,State House,10TH PLYMOUTH,general,Michelle DuBois,Democratic,12409,99.8,True,True
+2024,Massachusetts,MA,State House,11TH PLYMOUTH,general,Rita Mendes,Democratic,9711,99.7,True,False
+2024,Massachusetts,MA,State House,12TH PLYMOUTH,general,Kathleen LaNatra,Democratic,14462,53.1,True,True
+2024,Massachusetts,MA,State House,12TH PLYMOUTH,general,Eric J. Meschino,Republican,12754,46.8,False,False
+2024,Massachusetts,MA,State House,1ST SUFFOLK,general,Adrian Madaro,Democratic,11326,97.1,True,True
+2024,Massachusetts,MA,State House,2ND SUFFOLK,general,Daniel Joseph Ryan,Democratic,12625,98.1,True,True
+2024,Massachusetts,MA,State House,3RD SUFFOLK,general,Aaron Michlewitz,Democratic,13660,98.2,True,True
+2024,Massachusetts,MA,State House,4TH SUFFOLK,general,David Biele,Democratic,17916,97.9,True,True
+2024,Massachusetts,MA,State House,5TH SUFFOLK,general,Christopher J. Worrell,Democratic,10588,97.6,True,False
+2024,Massachusetts,MA,State House,6TH SUFFOLK,general,Russell Holmes,Democratic,12435,97.6,True,True
+2024,Massachusetts,MA,State House,7TH SUFFOLK,general,Chynah Tyler,Democratic,8419,97.9,True,True
+2024,Massachusetts,MA,State House,8TH SUFFOLK,general,Jay Livingstone,Democratic,13445,98.5,True,True
+2024,Massachusetts,MA,State House,9TH SUFFOLK,general,John F. Moran,Democratic,12852,82.2,True,False
+2024,Massachusetts,MA,State House,9TH SUFFOLK,general,Roy A. Owens,Republican,2734,17.5,False,False
+2024,Massachusetts,MA,State House,10TH SUFFOLK,general,Bill MacGregor,Democratic,19206,98.3,True,False
+2024,Massachusetts,MA,State House,11TH SUFFOLK,general,Judith García,Democratic,7194,99.6,True,False
+2024,Massachusetts,MA,State House,12TH SUFFOLK,general,Brandy Fluker Oakley,Democratic,15339,98.4,True,True
+2024,Massachusetts,MA,State House,13TH SUFFOLK,general,Daniel J. Hunt,Democratic,13061,97.1,True,True
+2024,Massachusetts,MA,State House,14TH SUFFOLK,general,Robert Consalvo,Democratic,16754,97.9,True,True
+2024,Massachusetts,MA,State House,15TH SUFFOLK,general,Sam Montaño,Democratic,16450,98.7,True,False
+2024,Massachusetts,MA,State House,16TH SUFFOLK,general,Jessica Giannino,Democratic,9141,96.8,True,True
+2024,Massachusetts,MA,State House,17TH SUFFOLK,general,Kevin Honan,Democratic,13833,98.3,True,True
+2024,Massachusetts,MA,State House,18TH SUFFOLK,general,Michael J. Moran,Democratic,9149,97.9,True,True
+2024,Massachusetts,MA,State House,19TH SUFFOLK,general,Jeffrey Turco,Democratic,11919,96.7,True,True
+2024,Massachusetts,MA,State House,1ST WORCESTER,general,Kimberly Ferguson,Republican,18371,69.7,True,False
+2024,Massachusetts,MA,State House,1ST WORCESTER,general,Anthony L. Ferrante,Independent,7945,30.2,False,False
+2024,Massachusetts,MA,State House,2ND WORCESTER,general,Jonathan Zlotnik,Democratic,10812,52.2,True,True
+2024,Massachusetts,MA,State House,2ND WORCESTER,general,Bruce K. Chester,Republican,9882,47.7,False,False
+2024,Massachusetts,MA,State House,3RD WORCESTER,general,Mike Kushmerek,Democratic,13098,96.5,True,True
+2024,Massachusetts,MA,State House,4TH WORCESTER,general,Natalie Higgins,Democratic,11390,57.5,True,True
+2024,Massachusetts,MA,State House,4TH WORCESTER,general,Salvatore Perla,Republican,8418,42.5,False,False
+2024,Massachusetts,MA,State House,5TH WORCESTER,general,Donnie Berthiaume,Republican,20333,98.8,True,True
+2024,Massachusetts,MA,State House,6TH WORCESTER,general,John Marsi,Republican,12440,61.8,True,False
+2024,Massachusetts,MA,State House,6TH WORCESTER,general,Jeanne Costello,Democratic,7647,38.0,False,False
+2024,Massachusetts,MA,State House,7TH WORCESTER,general,Paul Frost,Republican,16472,69.1,True,True
+2024,Massachusetts,MA,State House,7TH WORCESTER,general,Terry Burke Dotson,Independent,7325,30.7,False,False
+2024,Massachusetts,MA,State House,8TH WORCESTER,general,Michael Soter,Republican,20054,98.4,True,True
+2024,Massachusetts,MA,State House,9TH WORCESTER,general,David Muradian,Republican,19799,98.5,True,True
+2024,Massachusetts,MA,State House,10TH WORCESTER,general,Brian William Murray,Democratic,15108,97.3,True,True
+2024,Massachusetts,MA,State House,11TH WORCESTER,general,Hannah E. Kane,Republican,16393,98.9,True,True
+2024,Massachusetts,MA,State House,12TH WORCESTER,general,Meghan Kilcoyne,Democratic,18684,97.7,True,True
+2024,Massachusetts,MA,State House,13TH WORCESTER,general,John J. Mahoney,Democratic,14404,96.9,True,True
+2024,Massachusetts,MA,State House,14TH WORCESTER,general,Jim O'Day,Democratic,13952,96.6,True,True
+2024,Massachusetts,MA,State House,15TH WORCESTER,general,Mary Keefe,Democratic,8019,96.2,True,True
+2024,Massachusetts,MA,State House,16TH WORCESTER,general,Dan Donahue,Democratic,10157,95.9,True,True
+2024,Massachusetts,MA,State House,17TH WORCESTER,general,David LeBoeuf,Democratic,9882,95.4,True,True
+2024,Massachusetts,MA,State House,18TH WORCESTER,general,Joseph D. McKenna,Republican,20544,98.9,True,True
+2024,Massachusetts,MA,State House,19TH WORCESTER,general,Kate Donaghue,Democratic,16497,77.5,True,False
+2024,Massachusetts,MA,State House,19TH WORCESTER,general,Boyd Stewart Conklin,Independent,4732,22.2,False,False
 2024,Michigan,MI,State House,1,general,Tyrone Carter,Democratic,18744,81.64,True,True
 2024,Michigan,MI,State House,1,general,Valerie Whittaker,Republican,4216,18.36,False,False
 2024,Michigan,MI,State House,2,general,Tullio Liberati,Democratic,21965,51.82,True,True
@@ -2824,8 +3194,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Minnesota,MN,State House,35A,general,Zack Stephenson,Democratic-Farmer-Labor,11822,51.83,True,True
 2024,Minnesota,MN,State House,35B,general,Steve Pape,Republican,11280,49.29,False,False
 2024,Minnesota,MN,State House,35B,general,Kari Rehrauer,Democratic-Farmer-Labor,11560,50.51,True,False
-2024,Minnesota,MN,State House,36A,general,Elliott Engen,Republican,14998,54.06,True,False
-2024,Minnesota,MN,State House,36A,general,Janelle Calhoun,Democratic-Farmer-Labor,12714,45.83,False,False
+2024,Minnesota,MN,State House,DID NOT FILE,general,Elliott Engen,Republican,14998,54.06,True,False
+2024,Minnesota,MN,State House,DID NOT FILE,general,Janelle Calhoun,Democratic-Farmer-Labor,12714,45.83,False,False
 2024,Minnesota,MN,State House,36B,general,Patty Bradway,Republican,12152,48.29,False,False
 2024,Minnesota,MN,State House,36B,general,Brion Curran,Democratic-Farmer-Labor,12977,51.57,True,True
 2024,Minnesota,MN,State House,37A,general,Kristin Robbins,Republican,15817,57.12,True,True
@@ -2873,8 +3243,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Minnesota,MN,State House,47B,general,Ethan Cha,Democratic-Farmer-Labor,14202,54.41,True,True
 2024,Minnesota,MN,State House,48A,general,Jim Nash,Republican,16818,60.41,True,True
 2024,Minnesota,MN,State House,48A,general,Nathan Kells,Democratic-Farmer-Labor,11000,39.51,False,False
-2024,Minnesota,MN,State House,48B,general,"Lucille ""Lucy"" Rehm",Democratic-Farmer-Labor,12953,50.39,True,True
-2024,Minnesota,MN,State House,48B,general,Caleb Steffenhagen,Republican,12728,49.52,False,False
+2024,Minnesota,MN,State House,WITHDRAWN,general,"Lucille ""Lucy"" Rehm",Democratic-Farmer-Labor,12953,50.39,True,True
+2024,Minnesota,MN,State House,WITHDRAWN,general,Caleb Steffenhagen,Republican,12728,49.52,False,False
 2024,Minnesota,MN,State House,49A,general,Alex Falconer,Democratic-Farmer-Labor,16104,60.81,True,False
 2024,Minnesota,MN,State House,49A,general,Stacy L. Bettison,Republican,10342,39.05,False,False
 2024,Minnesota,MN,State House,49B,general,Carlie Kotyza-Witthuhn,Democratic-Farmer-Labor,13529,57.11,True,True
@@ -2883,8 +3253,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Minnesota,MN,State House,50A,general,Owen Michaelson,Republican,9161,35.28,False,False
 2024,Minnesota,MN,State House,50B,general,Steve Elkins,Democratic-Farmer-Labor,16524,63.18,True,True
 2024,Minnesota,MN,State House,50B,general,Bob Gust,Republican,9596,36.69,False,False
-2024,Minnesota,MN,State House,51A,general,Michael Howard,Democratic-Farmer-Labor,15440,73.44,True,True
-2024,Minnesota,MN,State House,51A,general,Jeffrey Thompson,Republican,5533,26.32,False,False
+2024,Minnesota,MN,State House,WITHDRAWN,general,Michael Howard,Democratic-Farmer-Labor,15440,73.44,True,True
+2024,Minnesota,MN,State House,WITHDRAWN,general,Jeffrey Thompson,Republican,5533,26.32,False,False
 2024,Minnesota,MN,State House,51B,general,Nathan Coulter,Democratic-Farmer-Labor,13244,64.08,True,True
 2024,Minnesota,MN,State House,51B,general,Lion Dale Johnson,Republican,7373,35.67,False,False
 2024,Minnesota,MN,State House,52A,general,Liz Reyer,Democratic-Farmer-Labor,13784,60.88,True,True
@@ -2923,14 +3293,14 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Minnesota,MN,State House,60A,general,Mary Holmberg,Republican,3535,15.19,False,False
 2024,Minnesota,MN,State House,60B,general,Mohamud Noor,Democratic-Farmer-Labor,9993,82.7,True,True
 2024,Minnesota,MN,State House,60B,general,Abigail Wolters,Republican,2041,16.89,False,False
-2024,Minnesota,MN,State House,61A,general,Katie Jones,Democratic-Farmer-Labor,18234,83.92,True,False
-2024,Minnesota,MN,State House,61A,general,Toya López,Green,3284,15.11,False,False
+2024,Minnesota,MN,State House,WITHDRAWN,general,Katie Jones,Democratic-Farmer-Labor,18234,83.92,True,False
+2024,Minnesota,MN,State House,WITHDRAWN,general,Toya López,Green,3284,15.11,False,False
 2024,Minnesota,MN,State House,61B,general,Jamie Long,Democratic-Farmer-Labor,23864,89.09,True,True
 2024,Minnesota,MN,State House,61B,general,"Bob ""Again"" Carney Jr",Republican,2861,10.68,False,False
 2024,Minnesota,MN,State House,62A,general,Aisha Gomez,Democratic-Farmer-Labor,13349,90.07,True,True
 2024,Minnesota,MN,State House,62A,general,Alexandra (ZaZa) Hoffman Novick,Republican,1434,9.68,False,False
-2024,Minnesota,MN,State House,62B,general,Anquam Mahamoud,Democratic-Farmer-Labor,14747,87.23,True,False
-2024,Minnesota,MN,State House,62B,general,Bob Sullentrop,Republican,2093,12.38,False,False
+2024,Minnesota,MN,State House,WITHDRAWN,general,Anquam Mahamoud,Democratic-Farmer-Labor,14747,87.23,True,False
+2024,Minnesota,MN,State House,WITHDRAWN,general,Bob Sullentrop,Republican,2093,12.38,False,False
 2024,Minnesota,MN,State House,63A,general,Samantha Sencer-Mura,Democratic-Farmer-Labor,20289,98.76,True,False
 2024,Minnesota,MN,State House,63B,general,Emma Greenman,Democratic-Farmer-Labor,22790,85.27,True,True
 2024,Minnesota,MN,State House,63B,general,Diane Napper,Republican,3878,14.51,False,False
@@ -3475,7 +3845,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Nevada,NV,State House,24,general,Teresa Kolesnick,Republican,9470,35.67,False,False
 2024,Nevada,NV,State House,25,general,Selena La Rue Hatch,Democratic,21586,53.51,True,True
 2024,Nevada,NV,State House,25,general,Diane Sande,Republican,18754,46.49,False,False
-2024,Nevada,NV,State House,26,general,Rich DeLong (incumbent,Republican,28925,60.69,True,False
+2024,Nevada,NV,State House,26,general,Rich DeLong,Republican,28925,60.69,True,True
 2024,Nevada,NV,State House,26,general,Diane Sullivan,Democratic,18733,39.31,False,False
 2024,Nevada,NV,State House,27,general,Heather Goulding,Democratic,17495,55.79,True,False
 2024,Nevada,NV,State House,27,general,Carmen Ortiz,Republican,13866,44.21,False,False
@@ -3506,6 +3876,9 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Nevada,NV,State House,41,general,Rafael Arroyo-Montalvo,Republican,17837,49.64,False,False
 2024,Nevada,NV,State House,42,general,Tracy Brown-May,Democratic,16222,55.44,True,True
 2024,Nevada,NV,State House,42,general,Kevin L. Child,Republican,13036,44.56,False,False
+2024,New Hampshire,NH,State House,1ST DISTRICT,general,Sean Durkin,Republican,1960,38.1,True,False
+2024,New Hampshire,NH,State House,1ST DISTRICT,general,James Tierney Jr.,Republican,1632,31.8,True,True
+2024,New Hampshire,NH,State House,1ST DISTRICT,general,Cathleen Fountain,Democratic,1544,30.0,False,False
 2024,New Mexico,NM,State House,1,general,Rod Montoya,Republican,11369,100.0,True,True
 2024,New Mexico,NM,State House,2,general,Mark Duncan,Republican,8610,100.0,True,True
 2024,New Mexico,NM,State House,3,general,Bill Hall,Republican,10332,100.0,True,True
@@ -3651,7 +4024,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,North Carolina,NC,State House,17,general,Frank Iler,Republican,42078,62.27,True,True
 2024,North Carolina,NC,State House,17,general,Charles Jones,Democratic,25491,37.73,False,False
 2024,North Carolina,NC,State House,18,general,Deb Butler,Democratic,33008,82.66,True,True
-2024,North Carolina,NC,State House,18,general,Wallace West (write-in),Independent (politician),5967,14.94,False,False
+2024,North Carolina,NC,State House,18,general,Wallace West (write-in),Independent,5967,14.94,False,False
 2024,North Carolina,NC,State House,19,general,Charlie Miller,Republican,41266,61.46,True,True
 2024,North Carolina,NC,State House,19,general,Jill Brown,Democratic,25882,38.54,False,False
 2024,North Carolina,NC,State House,20,general,Ted Davis Jr.,Republican,31964,55.8,True,True
@@ -3777,7 +4150,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,North Carolina,NC,State House,83,general,Joanne Chesley,Democratic,15825,34.32,False,False
 2024,North Carolina,NC,State House,84,general,Jeffrey McNeely,Republican,31180,68.17,True,True
 2024,North Carolina,NC,State House,84,general,Chris Gilbert,Democratic,13424,29.35,False,False
-2024,North Carolina,NC,State House,84,general,Lisa Mozer (write-in),Independent (politician),788,1.72,False,False
+2024,North Carolina,NC,State House,84,general,Lisa Mozer (write-in),Independent,788,1.72,False,False
 2024,North Carolina,NC,State House,85,general,Dudley Greene,Republican,36145,74.19,True,True
 2024,North Carolina,NC,State House,85,general,John Ford,Democratic,12574,25.81,False,False
 2024,North Carolina,NC,State House,86,general,Hugh Blackwell,Republican,32134,72.05,True,True
@@ -4107,54 +4480,54 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Ohio,OH,State House,98,general,Mark Hiner,Republican,35572,75.5,True,False
 2024,Ohio,OH,State House,99,general,Louis Murphy,Democratic,20986,35.5,False,False
 2024,Ohio,OH,State House,99,general,Sarah Fowler Arthur,Republican,38184,64.5,True,True
-2024,Oklahoma,OK,State House,39,general,Erick Harris,Republican,,50.4,False,False
-2024,Oklahoma,OK,State House,39,general,Regan Raff (Democratic),Democratic,,45.1,False,False
-2024,Oklahoma,OK,State House,39,general,Richard Prawdzienski (Libertarian),Libertarian,,4.5,False,False
+2024,Oklahoma,OK,State House,39,general,Erick Harris,Republican,,50.4,True,False
+2024,Oklahoma,OK,State House,39,general,Regan Raff (Democratic) - 45.1%,Democratic,,45.1,False,False
+2024,Oklahoma,OK,State House,39,general,Richard Prawdzienski (Libertarian) - 4.5%,Libertarian,,4.5,False,False
 2024,Oklahoma,OK,State House,1,general,Eddy Dempsey,Republican,,86.3,True,False
-2024,Oklahoma,OK,State House,1,general,Victoria Lawhorn,Libertarian,,13.7,False,False
+2024,Oklahoma,OK,State House,1,general,Victoria Lawhorn - 13.7%,Libertarian,,13.7,False,False
 2024,Oklahoma,OK,State House,2,general,Jim Olsen,Republican,,58.2,True,False
 2024,Oklahoma,OK,State House,2,general,"E. O. ""Junior"" Smith",Republican,,41.8,False,False
 2024,Oklahoma,OK,State House,3,general,Rick West,Republican,,,True,False
 2024,Oklahoma,OK,State House,4,general,Bob Ed Culver Jr.,Republican,,67.9,True,False
-2024,Oklahoma,OK,State House,4,general,Christopher Wier,Democratic,,32.1,False,False
+2024,Oklahoma,OK,State House,4,general,Christopher Wier - 32.1%,Democratic,,32.1,False,False
 2024,Oklahoma,OK,State House,5,general,Josh West,Republican,,,True,False
 2024,Oklahoma,OK,State House,6,general,Rusty Cornwell,Republican,,,True,False
 2024,Oklahoma,OK,State House,7,general,Steve Bashore,Republican,,,True,False
 2024,Oklahoma,OK,State House,8,general,Tom Gann,Republican,,,True,False
 2024,Oklahoma,OK,State House,9,general,Mark Lepak,Republican,,,True,False
 2024,Oklahoma,OK,State House,10,general,Judd Strom,Republican,,64.1,True,False
-2024,Oklahoma,OK,State House,10,general,Chad McCarthy,Republican,,35.9,False,False
+2024,Oklahoma,OK,State House,10,general,Chad McCarthy - 35.9%,Republican,,35.9,False,False
 2024,Oklahoma,OK,State House,11,general,John Kane,Republican,,,True,False
 2024,Oklahoma,OK,State House,12,general,Mark Chapman,Republican,,79.1,True,False
-2024,Oklahoma,OK,State House,12,general,Crystal LaGrone,Democratic,,20.9,False,False
+2024,Oklahoma,OK,State House,12,general,Crystal LaGrone - 20.9%,Democratic,,20.9,False,False
 2024,Oklahoma,OK,State House,13,general,Neil Hays,Republican,,78.8,True,False
-2024,Oklahoma,OK,State House,13,general,Jarod Mendenhall,Republican,,21.2,False,False
+2024,Oklahoma,OK,State House,13,general,Jarod Mendenhall - 21.2%,Republican,,21.2,False,False
 2024,Oklahoma,OK,State House,14,general,Chris Sneed,Republican,,,True,False
 2024,Oklahoma,OK,State House,15,general,Tim Turner,Republican,,52.6,True,False
-2024,Oklahoma,OK,State House,15,general,Paul Palmer,Republican,,25.8,False,False
-2024,Oklahoma,OK,State House,15,general,Spring Morrow,Republican,,13.4,False,False
-2024,Oklahoma,OK,State House,15,general,Gail Jackson,Republican,,4.1,False,False
-2024,Oklahoma,OK,State House,15,general,Casey Johnson,Republican,,4.1,False,False
+2024,Oklahoma,OK,State House,15,general,Paul Palmer - 25.8%,Republican,,25.8,False,False
+2024,Oklahoma,OK,State House,15,general,Spring Morrow - 13.4%,Republican,,13.4,False,False
+2024,Oklahoma,OK,State House,15,general,Gail Jackson - 4.1%,Republican,,4.1,False,False
+2024,Oklahoma,OK,State House,15,general,Casey Johnson - 4.1%,Republican,,4.1,False,False
 2024,Oklahoma,OK,State House,16,general,Scott Fetgatter,Republican,,71.4,True,False
-2024,Oklahoma,OK,State House,16,general,Rosie Lynch,Democratic,,28.6,False,False
+2024,Oklahoma,OK,State House,16,general,Rosie Lynch - 28.6%,Democratic,,28.6,False,False
 2024,Oklahoma,OK,State House,17,general,Jim Grego,Republican,,,True,False
 2024,Oklahoma,OK,State House,18,general,David Smith,Republican,,,True,False
 2024,Oklahoma,OK,State House,19,general,Justin Humphrey,Republican,,,True,False
 2024,Oklahoma,OK,State House,20,general,Jonathan Wilk,Republican,,75.8,True,False
-2024,Oklahoma,OK,State House,20,general,Mitchell Jacob,Democratic,,24.2,False,False
+2024,Oklahoma,OK,State House,20,general,Mitchell Jacob - 24.2%,Democratic,,24.2,False,False
 2024,Oklahoma,OK,State House,21,general,Cody Maynard,Republican,,,True,False
 2024,Oklahoma,OK,State House,22,general,Ryan Eaves,Republican,,62.0,True,False
-2024,Oklahoma,OK,State House,22,general,Troy Golden,Republican,,38.0,False,False
+2024,Oklahoma,OK,State House,22,general,Troy Golden - 38%,Republican,,38.0,False,False
 2024,Oklahoma,OK,State House,23,general,Derrick Hildebrant,Republican,,71.9,True,False
-2024,Oklahoma,OK,State House,23,general,Connor Whitham,Republican,,28.1,False,False
+2024,Oklahoma,OK,State House,23,general,Connor Whitham - 28.1%,Republican,,28.1,False,False
 2024,Oklahoma,OK,State House,24,general,Chris Banning,Republican,,,True,False
 2024,Oklahoma,OK,State House,25,general,Ronny Johns,Republican,,72.7,True,False
-2024,Oklahoma,OK,State House,25,general,Robert Burch,Republican,,27.3,False,False
+2024,Oklahoma,OK,State House,25,general,Robert Burch - 27.3%,Republican,,27.3,False,False
 2024,Oklahoma,OK,State House,26,general,Dell Kerbs,Republican,,62.4,True,False
-2024,Oklahoma,OK,State House,26,general,Kerri Keck,Democratic,,37.6,False,False
+2024,Oklahoma,OK,State House,26,general,Kerri Keck - 37.6%,Democratic,,37.6,False,False
 2024,Oklahoma,OK,State House,27,general,Danny Sterling,Republican,,,True,False
 2024,Oklahoma,OK,State House,28,general,Danny Williams,Republican,,62.1,True,False
-2024,Oklahoma,OK,State House,28,general,Darlene Wallace,Republican,,37.9,False,False
+2024,Oklahoma,OK,State House,28,general,Darlene Wallace -37.9%,Republican,,37.9,False,False
 2024,Oklahoma,OK,State House,29,general,Kyle Hilbert,Republican,,,True,False
 2024,Oklahoma,OK,State House,30,general,Mark Lawson,Republican,,,True,False
 2024,Oklahoma,OK,State House,31,general,Collin Duel,Republican,,,True,False
@@ -4163,154 +4536,544 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Oklahoma,OK,State House,33,general,Molly Jenkins,Republican,,60.4,True,False
 2024,Oklahoma,OK,State House,33,general,John Talley,Republican,,39.6,False,False
 2024,Oklahoma,OK,State House,34,general,Trish Ranson,Democratic,,58.5,True,False
-2024,Oklahoma,OK,State House,34,general,Andrew Muchmore,Republican,,41.5,False,False
+2024,Oklahoma,OK,State House,34,general,Andrew Muchmore - 41.5%,Republican,,41.5,False,False
 2024,Oklahoma,OK,State House,35,general,Ty Burns,Republican,,,True,False
 2024,Oklahoma,OK,State House,36,general,John George,Republican,,,True,False
 2024,Oklahoma,OK,State House,37,general,Ken Luttrell,Republican,,78.6,True,False
-2024,Oklahoma,OK,State House,37,general,Carter Rogers,Independent,,21.4,False,False
+2024,Oklahoma,OK,State House,37,general,Carter Rogers - 21.4%,Independent,,21.4,False,False
 2024,Oklahoma,OK,State House,38,general,John Pfeiffer,Republican,,84.8,True,False
-2024,Oklahoma,OK,State House,38,general,Doyle Lewis,Democratic,,15.2,False,False
-2024,Oklahoma,OK,State House,39,general,Erick Harris,Republican,,75.9,True,False
-2024,Oklahoma,OK,State House,39,general,Richard Prawdzienski,Libertarian,,24.1,False,False
+2024,Oklahoma,OK,State House,38,general,Doyle Lewis - 15.2%,Democratic,,15.2,False,False
+2024,Oklahoma,OK,State House,39,general,Erick Harris,Republican,,75.9,False,False
+2024,Oklahoma,OK,State House,39,general,Richard Prawdzienski - 24.1%,Libertarian,,24.1,False,False
 2024,Oklahoma,OK,State House,40,general,Chad Caldwell,Republican,,,True,False
 2024,Oklahoma,OK,State House,41,general,Denise Crosswhite Hader,Republican,,68.4,True,False
-2024,Oklahoma,OK,State House,41,general,Mike Bockus,Democratic,,31.6,False,False
+2024,Oklahoma,OK,State House,41,general,Mike Bockus - 31.6%,Democratic,,31.6,False,False
 2024,Oklahoma,OK,State House,42,general,Cynthia Roe,Republican,,53.5,True,False
-2024,Oklahoma,OK,State House,42,general,Matthew Huggans,Republican,,34.2,False,False
-2024,Oklahoma,OK,State House,42,general,Tony Bowen,Republican,,12.2,False,False
+2024,Oklahoma,OK,State House,42,general,Matthew Huggans - 34.2%,Republican,,34.2,False,False
+2024,Oklahoma,OK,State House,42,general,Tony Bowen - 12.2%,Republican,,12.2,False,False
 2024,Oklahoma,OK,State House,43,general,Jay Steagall,Republican,,70.2,True,False
-2024,Oklahoma,OK,State House,43,general,Cassie Kinet,Independent,,29.8,False,False
+2024,Oklahoma,OK,State House,43,general,Cassie Kinet - 29.8%,Independent,,29.8,False,False
 2024,Oklahoma,OK,State House,44,general,Jared Deck,Democratic,,,True,False
 2024,Oklahoma,OK,State House,45,general,Annie Menz,Democratic,,52.4,True,False
-2024,Oklahoma,OK,State House,45,general,Matt Watson,Republican,,44.1,False,False
-2024,Oklahoma,OK,State House,45,general,Robert Murphy,Libertarian,,3.5,False,False
+2024,Oklahoma,OK,State House,45,general,Matt Watson - 44.1%,Republican,,44.1,False,False
+2024,Oklahoma,OK,State House,45,general,Robert Murphy - 3.5%,Libertarian,,3.5,False,False
 2024,Oklahoma,OK,State House,46,general,Jacob Rosecrants,Democratic,,54.0,True,False
-2024,Oklahoma,OK,State House,46,general,Alexander Torvi,Republican,,46.0,False,False
+2024,Oklahoma,OK,State House,46,general,Alexander Torvi - 46%,Republican,,46.0,False,False
 2024,Oklahoma,OK,State House,47,general,Brian Hill,Republican,,,True,False
 2024,Oklahoma,OK,State House,48,general,Tammy Townley,Republican,,60.7,True,False
-2024,Oklahoma,OK,State House,48,general,April Brown,Republican,,39.3,False,False
+2024,Oklahoma,OK,State House,48,general,April Brown - 39.3%,Republican,,39.3,False,False
 2024,Oklahoma,OK,State House,49,general,Josh Cantrell,Republican,,,True,False
 2024,Oklahoma,OK,State House,50,general,Stacy Jo Adams,Republican,,61.7,True,False
-2024,Oklahoma,OK,State House,50,general,Andrew Aldridge,Republican,,38.3,False,False
+2024,Oklahoma,OK,State House,50,general,Andrew Aldridge - 38.3%,Republican,,38.3,False,False
 2024,Oklahoma,OK,State House,51,general,Brad Boles,Republican,,,True,False
 2024,Oklahoma,OK,State House,52,general,Gerrid Kendrix,Republican,,,True,False
 2024,Oklahoma,OK,State House,53,general,Jason Blair,Republican,,62.4,True,False
-2024,Oklahoma,OK,State House,53,general,Nick Pokorny,Republican,,37.6,False,False
+2024,Oklahoma,OK,State House,53,general,Nick Pokorny - 37.6%,Republican,,37.6,False,False
 2024,Oklahoma,OK,State House,54,general,Kevin West,Republican,,,True,False
 2024,Oklahoma,OK,State House,55,general,Nick Archer,Republican,,,True,False
 2024,Oklahoma,OK,State House,56,general,Dick Lowe,Republican,,,True,False
 2024,Oklahoma,OK,State House,57,general,Anthony Moore,Republican,,,True,False
 2024,Oklahoma,OK,State House,58,general,Carl Newton,Republican,,79.9,True,False
-2024,Oklahoma,OK,State House,58,general,Kannin J. D. Koehn,Republican,,20.1,False,False
+2024,Oklahoma,OK,State House,58,general,Kannin J. D. Koehn - 20.1%,Republican,,20.1,False,False
 2024,Oklahoma,OK,State House,59,general,Mike Dobrinski,Republican,,,True,False
 2024,Oklahoma,OK,State House,60,general,Mike Kelley,Republican,,64.8,True,False
-2024,Oklahoma,OK,State House,60,general,Ron Lynch,Republican,,35.2,False,False
+2024,Oklahoma,OK,State House,60,general,Ron Lynch - 35.2%,Republican,,35.2,False,False
 2024,Oklahoma,OK,State House,61,general,Kenton Patzkowsky,Republican,,,True,False
 2024,Oklahoma,OK,State House,62,general,Daniel Pae,Republican,,57.0,True,False
-2024,Oklahoma,OK,State House,62,general,Allison Offield,Democratic,,43.0,False,False
+2024,Oklahoma,OK,State House,62,general,Allison Offield - 43%,Democratic,,43.0,False,False
 2024,Oklahoma,OK,State House,63,general,Trey Caldwell,Republican,,81.2,True,False
-2024,Oklahoma,OK,State House,63,general,Shykira Smith,Democratic,,18.8,False,False
+2024,Oklahoma,OK,State House,63,general,Shykira Smith - 18.8%,Democratic,,18.8,False,False
 2024,Oklahoma,OK,State House,64,general,Rande Worthen,Republican,,53.8,True,False
-2024,Oklahoma,OK,State House,64,general,Tom Sutherlin,Democratic,,46.2,False,False
+2024,Oklahoma,OK,State House,64,general,Tom Sutherlin - 46.2%,Democratic,,46.2,False,False
 2024,Oklahoma,OK,State House,65,general,Toni Hasenbeck,Republican,,59.9,True,False
-2024,Oklahoma,OK,State House,65,general,William Ratley,Republican,,40.1,False,False
+2024,Oklahoma,OK,State House,65,general,William Ratley - 40.1%,Republican,,40.1,False,False
 2024,Oklahoma,OK,State House,66,general,Clay Staires,Republican,,76.4,True,False
-2024,Oklahoma,OK,State House,66,general,Kenneth Blevins,Libertarian,,23.6,False,False
+2024,Oklahoma,OK,State House,66,general,Kenneth Blevins - 23.6%,Libertarian,,23.6,False,False
 2024,Oklahoma,OK,State House,67,general,Rob Hall,Republican,,50.7,True,False
-2024,Oklahoma,OK,State House,67,general,Ryan Myers,Republican,,33.0,False,False
-2024,Oklahoma,OK,State House,67,general,Kane Smith,Republican,,11.8,False,False
-2024,Oklahoma,OK,State House,67,general,Bowden McElroy,Republican,,4.5,False,False
+2024,Oklahoma,OK,State House,67,general,Ryan Myers - 33%,Republican,,33.0,False,False
+2024,Oklahoma,OK,State House,67,general,Kane Smith - 11.8%,Republican,,11.8,False,False
+2024,Oklahoma,OK,State House,67,general,Bowden McElroy -4.5%,Republican,,4.5,False,False
 2024,Oklahoma,OK,State House,68,general,Mike Lay,Republican,,53.0,True,False
-2024,Oklahoma,OK,State House,68,general,Jonathan Grable,Republican,,47.0,False,False
+2024,Oklahoma,OK,State House,68,general,Jonathan Grable - 47%,Republican,,47.0,False,False
 2024,Oklahoma,OK,State House,69,general,Mark Tedford,Republican,,,True,False
 2024,Oklahoma,OK,State House,70,general,Suzanne Schreiber,Democratic,,56.4,True,False
-2024,Oklahoma,OK,State House,70,general,Bradley Banks,Republican,,43.6,False,False
+2024,Oklahoma,OK,State House,70,general,Bradley Banks - 43.6%,Republican,,43.6,False,False
 2024,Oklahoma,OK,State House,71,general,Amanda Swope,Democratic,,,True,False
 2024,Oklahoma,OK,State House,72,general,Michelle McCane,Democratic,,72.6,True,False
-2024,Oklahoma,OK,State House,72,general,Adam Martin,Democratic,,27.4,False,False
+2024,Oklahoma,OK,State House,72,general,Adam Martin - 27.4%,Democratic,,27.4,False,False
 2024,Oklahoma,OK,State House,73,general,Ron Stewart,Democratic,,52.8,True,False
-2024,Oklahoma,OK,State House,73,general,Darrell Knox,Democratic,,47.2,False,False
+2024,Oklahoma,OK,State House,73,general,Darrell Knox - 47.2%,Democratic,,47.2,False,False
 2024,Oklahoma,OK,State House,74,general,Mark Vancuren,Republican,,76.2,True,False
-2024,Oklahoma,OK,State House,74,general,Aaron Brent,Independent,,23.8,False,False
+2024,Oklahoma,OK,State House,74,general,Aaron Brent - 23.8%,Independent,,23.8,False,False
 2024,Oklahoma,OK,State House,75,general,T. J. Marti,Republican,,,True,False
 2024,Oklahoma,OK,State House,76,general,Ross Ford,Republican,,,True,False
 2024,Oklahoma,OK,State House,77,general,John Waldron,Democratic,,,True,False
 2024,Oklahoma,OK,State House,78,general,Meloyde Blancett,Democratic,,,True,False
 2024,Oklahoma,OK,State House,79,general,Melissa Provenzano,Democratic,,54.6,True,False
-2024,Oklahoma,OK,State House,79,general,Paul Hassink,Republican,,45.4,False,False
+2024,Oklahoma,OK,State House,79,general,Paul Hassink -45.4%,Republican,,45.4,False,False
 2024,Oklahoma,OK,State House,80,general,Stan May,Republican,,,True,False
 2024,Oklahoma,OK,State House,81,general,Mike Osburn,Republican,,,True,False
 2024,Oklahoma,OK,State House,82,general,Nicole Miller,Republican,,,True,False
 2024,Oklahoma,OK,State House,83,general,Eric Roberts,Republican,,55.4,True,False
-2024,Oklahoma,OK,State House,83,general,Jimmy Lawson,Democratic,,44.6,False,False
+2024,Oklahoma,OK,State House,83,general,Jimmy Lawson - 44.6%,Democratic,,44.6,False,False
 2024,Oklahoma,OK,State House,84,general,Tammy West,Republican,,58.2,True,False
-2024,Oklahoma,OK,State House,84,general,Jeremy Lamb,Democratic,,41.8,False,False
+2024,Oklahoma,OK,State House,84,general,Jeremy Lamb - 41.8%,Democratic,,41.8,False,False
 2024,Oklahoma,OK,State House,85,general,Cyndi Munson,Democratic,,60.9,True,False
 2024,Oklahoma,OK,State House,85,general,David B. Hooten,Republican,,39.1,False,False
 2024,Oklahoma,OK,State House,86,general,David Hardin,Republican,,77.3,True,False
-2024,Oklahoma,OK,State House,86,general,Anna Fite,Democratic,,22.7,False,False
+2024,Oklahoma,OK,State House,86,general,Anna Fite - 22.7%,Democratic,,22.7,False,False
 2024,Oklahoma,OK,State House,87,general,Ellyn Hefner,Democratic,,61.5,True,False
-2024,Oklahoma,OK,State House,87,general,Dave Schnittger,Republican,,38.5,False,False
+2024,Oklahoma,OK,State House,87,general,Dave Schnittger - 38.5%,Republican,,38.5,False,False
 2024,Oklahoma,OK,State House,88,general,Ellen Pogemiller,Democratic,,76.9,True,False
-2024,Oklahoma,OK,State House,88,general,Bobby McCollum,Independent,,23.1,False,False
+2024,Oklahoma,OK,State House,88,general,Bobby McCollum - 23.1%,Independent,,23.1,False,False
 2024,Oklahoma,OK,State House,89,general,Arturo Alonso,Democratic,,,True,False
 2024,Oklahoma,OK,State House,90,general,Emily Gise,Republican,,66.3,True,False
-2024,Oklahoma,OK,State House,90,general,Nana Abram Dankwa,Democratic,,33.7,False,False
+2024,Oklahoma,OK,State House,90,general,Nana Abram Dankwa - 33.7%,Democratic,,33.7,False,False
 2024,Oklahoma,OK,State House,91,general,Chris Kannady,Republican,,83.0,True,False
-2024,Oklahoma,OK,State House,91,general,Bruce Fleming,Republican,,17.0,False,False
+2024,Oklahoma,OK,State House,91,general,Bruce Fleming - 17%,Republican,,17.0,False,False
 2024,Oklahoma,OK,State House,92,general,Forrest Bennett,Democratic,,,True,False
 2024,Oklahoma,OK,State House,93,general,Mickey Dollens,Democratic,,,True,False
 2024,Oklahoma,OK,State House,94,general,Andy Fugate,Democratic,,60.6,True,False
-2024,Oklahoma,OK,State House,94,general,Suzanne Jobe,Republican,,39.4,False,False
+2024,Oklahoma,OK,State House,94,general,Suzanne Jobe - 39.4%,Republican,,39.4,False,False
 2024,Oklahoma,OK,State House,95,general,Max Wolfley,Republican,,54.0,True,False
-2024,Oklahoma,OK,State House,95,general,Tegan Malone,Democratic,,46.0,False,False
+2024,Oklahoma,OK,State House,95,general,Tegan Malone - 46%,Democratic,,46.0,False,False
 2024,Oklahoma,OK,State House,96,general,Preston Stinson,Republican,,58.7,True,False
-2024,Oklahoma,OK,State House,96,general,Steve Herburger,Republican,,41.3,False,False
+2024,Oklahoma,OK,State House,96,general,Steve Herburger - 41.3%,Republican,,41.3,False,False
 2024,Oklahoma,OK,State House,97,general,Jason Lowe,Democratic,,,True,False
 2024,Oklahoma,OK,State House,98,general,Gabe Woolley,Republican,,66.7,True,False
-2024,Oklahoma,OK,State House,98,general,Cathy Smythe,Democratic,,33.3,False,False
+2024,Oklahoma,OK,State House,98,general,Cathy Smythe - 33.3%,Democratic,,33.3,False,False
 2024,Oklahoma,OK,State House,99,general,Ajay Pittman,Democratic,,53.5,True,False
-2024,Oklahoma,OK,State House,99,general,Brittane Grant,Democratic,,46.5,False,False
+2024,Oklahoma,OK,State House,99,general,Brittane Grant - 46.5%,Democratic,,46.5,False,False
 2024,Oklahoma,OK,State House,100,general,Marilyn Stark,Republican,,50.9,True,False
-2024,Oklahoma,OK,State House,100,general,Chaunte Gilmore,Democratic,,49.1,False,False
+2024,Oklahoma,OK,State House,100,general,Chaunte Gilmore - 49.1%,Democratic,,49.1,False,False
 2024,Oklahoma,OK,State House,101,general,Robert Manger,Republican,,52.2,True,False
-2024,Oklahoma,OK,State House,101,general,Jonathan Hewitt,Republican,,47.8,False,False
-2024,Oregon,OR,State House,41,general,Mark F. Gamba,Democratic,32386,79.86,True,False
-2024,Oregon,OR,State House,41,general,Elvis Clark,Republican,8101,19.98,False,False
-2024,Oregon,OR,State House,42,general,Rob Nosse,Democratic,32941,98.53,True,False
-2024,Oregon,OR,State House,43,general,Tawna Sanchez,Democratic,37084,92.11,True,False
-2024,Oregon,OR,State House,43,general,Tim LeMaster,Republican,3078,7.65,False,False
-2024,Oregon,OR,State House,44,general,Travis Nelson,Democratic,27281,98.29,True,False
-2024,Oregon,OR,State House,45,general,Thuy Tran,Democratic,29118,98.04,True,False
-2024,Oregon,OR,State House,46,general,Willy Chotzen,Democratic,25542,79.06,True,False
-2024,Oregon,OR,State House,46,general,John Mark Alexander,Republican,4414,13.66,False,False
-2024,Oregon,OR,State House,46,general,Kevin Levy,Independent,1252,3.88,False,False
-2024,Oregon,OR,State House,46,general,Austin Daniel,Libertarian Party (oregon),1040,3.22,False,False
-2024,Oregon,OR,State House,47,general,Andrea Valderrama,Democratic,16754,95.53,True,False
-2024,Oregon,OR,State House,48,general,Hoa H. Nguyen,Democratic,14451,52.95,True,False
-2024,Oregon,OR,State House,48,general,John Masterman,Republican,12773,46.8,False,False
-2024,Oregon,OR,State House,49,general,Zach Hudson,Democratic,13784,55.82,True,False
-2024,Oregon,OR,State House,49,general,Terry A. Tipsord,Republican,10838,43.89,False,False
-2024,Oregon,OR,State House,50,general,Ricki Ruiz,Democratic,15014,54.54,True,False
-2024,Oregon,OR,State House,50,general,Paul Drechsler,Republican,12448,45.22,False,False
+2024,Oklahoma,OK,State House,101,general,Jonathan Hewitt - 47.8%,Republican,,47.8,False,False
+2024,Oregon,OR,State House,DECLARED,general,Court Boice,Republican,26950,67.24,False,False
+2024,Oregon,OR,State House,DECLARED,general,Bret Cecil,Democratic,13036,32.52,False,False
+2024,Oregon,OR,State House,DECLARED,general,Virgle J. Osborne,Republican,26774,71.17,False,False
+2024,Oregon,OR,State House,DECLARED,general,August Warren,Democratic,10736,28.54,False,False
+2024,Oregon,OR,State House,DECLARED,general,Dwayne Yunker,Republican,23618,66.56,False,False
+2024,Oregon,OR,State House,DECLARED,general,Mark J. Seligman,Democratic,10992,30.98,False,False
+2024,Oregon,OR,State House,DECLARED,general,Alek Skarlatos,Republican,27636,70.18,False,False
+2024,Oregon,OR,State House,DECLARED,general,Richard Chasm,Democratic,11671,29.64,False,False
+2024,Oregon,OR,State House,DECLARED,general,Pam Marsh,Democratic,25300,64.07,False,False
+2024,Oregon,OR,State House,DECLARED,general,Katherine Green,Republican,14153,35.84,False,False
+2024,Oregon,OR,State House,DECLARED,general,Kim Wallan,Republican,18557,57.98,False,False
+2024,Oregon,OR,State House,DECLARED,general,Lilia Caballero,Democratic,13408,41.89,False,False
+2024,Oregon,OR,State House,DECLARED,general,John Lively,Democratic,18868,55.8,False,False
+2024,Oregon,OR,State House,DECLARED,general,Cory Burket,Republican,14888,44.03,False,False
+2024,Oregon,OR,State House,DECLARED,general,Lisa Fragala,Democratic,24811,97.37,False,False
+2024,Oregon,OR,State House,DECLARED,general,Boomer Wright,Republican,23115,61.81,False,False
+2024,Oregon,OR,State House,DECLARED,general,William Mrkvicka,Democratic,14196,37.96,False,False
+2024,Oregon,OR,State House,DECLARED,general,David Gomberg,Democratic,28672,97.37,False,False
+2024,Oregon,OR,State House,DECLARED,general,Jami Cate,Republican,26148,73.82,False,False
+2024,Oregon,OR,State House,DECLARED,general,Ivan Maluski,Nonaffiliated,9159,25.86,False,False
+2024,Oregon,OR,State House,DECLARED,general,Darin Harbick,Republican,23256,57.66,False,False
+2024,Oregon,OR,State House,DECLARED,general,Michelle Emmons,Democratic,17012,42.18,False,False
+2024,Oregon,OR,State House,DECLARED,general,Nancy Nathanson,Democratic,27143,66.49,False,False
+2024,Oregon,OR,State House,DECLARED,general,Timothy S. Sutherland,Republican,13630,33.39,False,False
+2024,Oregon,OR,State House,DECLARED,general,Julie Fahey,Democratic,22176,94.09,False,False
+2024,Oregon,OR,State House,DECLARED,general,Shelly Boshart Davis,Republican,22197,58.71,False,False
+2024,Oregon,OR,State House,DECLARED,general,Terrence Virnig,Democratic,15566,41.17,False,False
+2024,Oregon,OR,State House,DECLARED,general,Sarah Finger McDonald,Democratic,24894,82.81,False,False
+2024,Oregon,OR,State House,DECLARED,general,Michael A. Beilstein,Green,4781,15.9,False,False
+2024,Oregon,OR,State House,DECLARED,general,Ed Diehl,Republican,23759,69.27,False,False
+2024,Oregon,OR,State House,DECLARED,general,David W. Beem,Democratic,10486,30.57,False,False
+2024,Oregon,OR,State House,DECLARED,general,Rick Lewis,Republican,26553,70.81,False,False
+2024,Oregon,OR,State House,DECLARED,general,Karyssa Dow,Democratic,10884,29.03,False,False
+2024,Oregon,OR,State House,DECLARED,general,Tom Andersen,Democratic,17296,54.26,False,False
+2024,Oregon,OR,State House,DECLARED,general,David Brown,Republican,14534,45.6,False,False
+2024,Oregon,OR,State House,DECLARED,general,Paul Evans,Democratic,20721,57.99,False,False
+2024,Oregon,OR,State House,DECLARED,general,Kevin S. Chambers,Republican,14938,41.81,False,False
+2024,Oregon,OR,State House,DECLARED,general,Kevin Mannix,Republican,14924,51.83,False,False
+2024,Oregon,OR,State House,DECLARED,general,Virginia Stapleton,Democratic,13822,48.0,False,False
+2024,Oregon,OR,State House,DECLARED,general,Lesly Muñoz,Democratic,10480,50.3,False,False
+2024,Oregon,OR,State House,DECLARED,general,Tracy M. Cramer,Republican,10319,49.53,False,False
+2024,Oregon,OR,State House,DECLARED,general,Anna M. Scharf,Republican,24492,62.05,False,False
+2024,Oregon,OR,State House,DECLARED,general,Kriss Wright,Democratic,14929,37.82,False,False
+2024,Oregon,OR,State House,DECLARED,general,Lucetta A. Elmer,Republican,20798,59.62,False,False
+2024,Oregon,OR,State House,DECLARED,general,Lisa Pool,Democratic,14033,40.23,False,False
+2024,Oregon,OR,State House,DECLARED,general,Ben Bowman,Democratic,24096,67.63,False,False
+2024,Oregon,OR,State House,DECLARED,general,Bob Niemeyer,Republican,11473,32.2,False,False
+2024,Oregon,OR,State House,DECLARED,general,Courtney Neron,Democratic,20931,56.1,False,False
+2024,Oregon,OR,State House,DECLARED,general,Jason E. Fields,Republican,16345,43.81,False,False
+2024,Oregon,OR,State House,DECLARED,general,Ken Helm,Democratic,25142,74.04,False,False
+2024,Oregon,OR,State House,DECLARED,general,Victoria Kingsbury,Republican,8780,25.86,False,False
+2024,Oregon,OR,State House,DECLARED,general,Dacia Grayber,Democratic,34188,85.85,False,False
+2024,Oregon,OR,State House,DECLARED,general,Charles Mengis,Republican,5575,14.0,False,False
+2024,Oregon,OR,State House,DECLARED,general,Susan McLain,Democratic,20176,96.38,False,False
+2024,Oregon,OR,State House,DECLARED,general,Nathan Sosa,Democratic,20254,96.43,False,False
+2024,Oregon,OR,State House,DECLARED,general,Darcey Edwards,Republican,23972,59.05,False,False
+2024,Oregon,OR,State House,DECLARED,general,Jordan Gutierrez,Democratic,15145,37.3,False,False
+2024,Oregon,OR,State House,DECLARED,general,Robert Miller,Libertarian Party (oregon),1389,3.42,False,False
+2024,Oregon,OR,State House,DECLARED,general,Cyrus B. Javadi,Republican,20409,52.1,False,False
+2024,Oregon,OR,State House,DECLARED,general,Andy Davis,Democratic,18692,47.72,False,False
+2024,Oregon,OR,State House,DECLARED,general,Shannon Jones Isadore,Democratic,29132,83.6,False,False
+2024,Oregon,OR,State House,DECLARED,general,Stan Baumhofer,Republican,4400,12.63,False,False
+2024,Oregon,OR,State House,DECLARED,general,Thomas J. Busse,Libertarian Party (oregon),1258,3.61,False,False
+2024,Oregon,OR,State House,DECLARED,general,Lisa Reynolds,Democratic,22572,71.46,False,False
+2024,Oregon,OR,State House,DECLARED,general,John Verbeek,Republican,8973,28.41,False,False
+2024,Oregon,OR,State House,DECLARED,general,Farrah Chaichi,Democratic,17072,68.98,False,False
+2024,Oregon,OR,State House,DECLARED,general,Dan Martin,Republican,7631,30.83,False,False
+2024,Oregon,OR,State House,DECLARED,general,Hai Pham,Democratic,23250,62.88,False,False
+2024,Oregon,OR,State House,DECLARED,general,Shawn Chummar,Republican,13685,37.01,False,False
+2024,Oregon,OR,State House,DECLARED,general,Jules Walters,Democratic,23356,61.26,False,False
+2024,Oregon,OR,State House,DECLARED,general,Ben Edtl,Republican,14703,38.57,False,False
+2024,Oregon,OR,State House,DECLARED,general,Daniel Nguyen,Democratic,30385,97.86,False,False
+2024,Oregon,OR,State House,DECLARED,general,April Dobson,Democratic,17712,54.43,False,False
+2024,Oregon,OR,State House,DECLARED,general,Aimee L. Reiner,Republican,14753,45.34,False,False
+2024,Oregon,OR,State House,DECLARED,general,Annessa Hartman,Democratic,20658,55.85,False,False
+2024,Oregon,OR,State House,DECLARED,general,Michael Steven Newgard,Republican,16271,43.99,False,False
+2024,Oregon,OR,State House,DECLARED,general,Mark F. Gamba,Democratic,32386,79.86,False,False
+2024,Oregon,OR,State House,DECLARED,general,Elvis Clark,Republican,8101,19.98,False,False
+2024,Oregon,OR,State House,DECLARED,general,Rob Nosse,Democratic,32941,98.53,False,False
+2024,Oregon,OR,State House,DECLARED,general,Tawna Sanchez,Democratic,37084,92.11,True,False
+2024,Oregon,OR,State House,DECLARED,general,Tim LeMaster,Republican,3078,7.65,False,False
+2024,Oregon,OR,State House,DECLARED,general,Travis Nelson,Democratic,27281,98.29,False,False
+2024,Oregon,OR,State House,DECLARED,general,Thuy Tran,Democratic,29118,98.04,False,False
+2024,Oregon,OR,State House,DECLARED,general,Willy Chotzen,Democratic,25542,79.06,False,False
+2024,Oregon,OR,State House,DECLARED,general,John Mark Alexander,Republican,4414,13.66,False,False
+2024,Oregon,OR,State House,DECLARED,general,Kevin Levy,Independent,1252,3.88,False,False
+2024,Oregon,OR,State House,DECLARED,general,Austin Daniel,Libertarian Party (oregon),1040,3.22,False,False
+2024,Oregon,OR,State House,DECLARED,general,Andrea Valderrama,Democratic,16754,95.53,False,False
+2024,Oregon,OR,State House,DECLARED,general,Hoa H. Nguyen,Democratic,14451,52.95,False,False
+2024,Oregon,OR,State House,DECLARED,general,John Masterman,Republican,12773,46.8,False,False
+2024,Oregon,OR,State House,DECLARED,general,Zach Hudson,Democratic,13784,55.82,False,False
+2024,Oregon,OR,State House,DECLARED,general,Terry A. Tipsord,Republican,10838,43.89,False,False
+2024,Oregon,OR,State House,DECLARED,general,Ricki Ruiz,Democratic,15014,54.54,False,False
+2024,Oregon,OR,State House,DECLARED,general,Paul Drechsler,Republican,12448,45.22,False,False
 2024,Oregon,OR,State House,51,general,Christine Drazan,Republican,27872,94.13,True,False
-2024,Oregon,OR,State House,52,general,Jeff Helfrich,Republican,18958,51.84,True,False
-2024,Oregon,OR,State House,52,general,Nick Walden Poublon,Democratic,17573,48.05,False,False
-2024,Oregon,OR,State House,53,general,Emerson Levy,Democratic,23866,54.25,True,False
-2024,Oregon,OR,State House,53,general,Keri Lopez,Republican,20082,45.65,False,False
-2024,Oregon,OR,State House,54,general,Jason Kropf,Democratic,28395,96.47,True,False
-2024,Oregon,OR,State House,55,general,E. Werner Reschke,Republican,27260,69.62,True,False
-2024,Oregon,OR,State House,55,general,James Williamson,Democratic,11848,30.26,False,False
+2024,Oregon,OR,State House,DECLARED,general,Jeff Helfrich,Republican,18958,51.84,False,False
+2024,Oregon,OR,State House,DECLARED,general,Nick Walden Poublon,Democratic,17573,48.05,False,False
+2024,Oregon,OR,State House,DECLARED,general,Emerson Levy,Democratic,23866,54.25,False,False
+2024,Oregon,OR,State House,DECLARED,general,Keri Lopez,Republican,20082,45.65,False,False
+2024,Oregon,OR,State House,DECLARED,general,Jason Kropf,Democratic,28395,96.47,False,False
+2024,Oregon,OR,State House,DECLARED,general,E. Werner Reschke,Republican,27260,69.62,False,False
+2024,Oregon,OR,State House,DECLARED,general,James Williamson,Democratic,11848,30.26,False,False
 2024,Oregon,OR,State House,56,general,Emily G. McIntire,Republican,25285,96.69,True,False
-2024,Oregon,OR,State House,57,general,Greg Smith,Republican,19728,97.58,True,False
-2024,Oregon,OR,State House,58,general,Bobby Levy,Republican,26477,98.23,True,False
-2024,Oregon,OR,State House,59,general,Vikki Breese-Iverson,Republican,29431,71.62,True,False
-2024,Oregon,OR,State House,59,general,Brian K. Samp,Democratic,11561,28.13,False,False
-2024,Oregon,OR,State House,60,general,Mark Owens,Republican,25928,98.79,True,False
+2024,Oregon,OR,State House,DECLARED,general,Greg Smith,Republican,19728,97.58,False,False
+2024,Oregon,OR,State House,DECLARED,general,Bobby Levy,Republican,26477,98.23,False,False
+2024,Oregon,OR,State House,DECLARED,general,Vikki Breese-Iverson,Republican,29431,71.62,False,False
+2024,Oregon,OR,State House,DECLARED,general,Brian K. Samp,Democratic,11561,28.13,False,False
+2024,Oregon,OR,State House,DECLARED,general,Mark Owens,Republican,25928,98.79,False,False
 2024,Pennsylvania,PA,State House,140,special general,Jim Prokopiak,Democratic,6489,67.4,True,False
 2024,Pennsylvania,PA,State House,140,special general,Candace Cabanas,Republican,3083,32.02,False,False
 2024,Pennsylvania,PA,State House,139,special general,Jeffrey Olsommer,Republican,7156,59.33,True,False
 2024,Pennsylvania,PA,State House,139,special general,Robin Skibber,Democratic,4715,39.09,False,False
+2024,Pennsylvania,PA,State House,1,general,Pat Harkins,Democratic,19327,100.0,True,False
+2024,Pennsylvania,PA,State House,2,general,Robert Merski,Democratic,19803,62.9,True,False
+2024,Pennsylvania,PA,State House,2,general,Matt Strupczewski,Republican,11639,36.97,False,False
+2024,Pennsylvania,PA,State House,3,general,Ryan Bizzarro,Democratic,22015,57.58,True,False
+2024,Pennsylvania,PA,State House,3,general,Micah Goring,Republican,16155,42.26,False,False
+2024,Pennsylvania,PA,State House,4,general,Jake Banta,Republican,22686,67.54,True,False
+2024,Pennsylvania,PA,State House,4,general,Joe Cancilla,Democratic,10845,32.29,False,False
+2024,Pennsylvania,PA,State House,5,general,Eric Weaknecht,Republican,23664,66.72,True,False
+2024,Pennsylvania,PA,State House,5,general,Heather Hanna,Democratic,11801,33.28,False,False
+2024,Pennsylvania,PA,State House,6,general,Brad Roae,Republican,22802,69.96,True,False
+2024,Pennsylvania,PA,State House,6,general,Michael Walker,Democratic,9790,30.04,False,False
+2024,Pennsylvania,PA,State House,7,general,Parke Wentling,Republican,25599,100.0,True,False
+2024,Pennsylvania,PA,State House,8,general,Aaron Bernstine,Republican,33825,100.0,True,False
+2024,Pennsylvania,PA,State House,9,general,Marla Brown,Republican,27029,100.0,True,False
+2024,Pennsylvania,PA,State House,10,general,Amen Brown,Democratic,22919,100.0,True,False
+2024,Pennsylvania,PA,State House,11,general,Marci Mustello,Republican,29484,87.02,True,False
+2024,Pennsylvania,PA,State House,11,general,Justin Konchar,Libertarian,4397,12.98,False,False
+2024,Pennsylvania,PA,State House,12,general,Stephenie Scialabba,Republican,27840,64.72,True,False
+2024,Pennsylvania,PA,State House,12,general,Robert Vigue,Democratic,15103,35.11,False,False
+2024,Pennsylvania,PA,State House,13,general,John Lawrence,Republican,20572,58.01,True,False
+2024,Pennsylvania,PA,State House,13,general,Cristian Luna,Democratic,14891,41.99,False,False
+2024,Pennsylvania,PA,State House,14,general,Roman Kozak,Republican,24270,66.47,True,False
+2024,Pennsylvania,PA,State House,14,general,Kenya Johns,Democratic,12915,34.74,False,False
+2024,Pennsylvania,PA,State House,15,general,Josh Kail,Republican,24769,68.89,True,False
+2024,Pennsylvania,PA,State House,15,general,Ashlee Caul,Democratic,11185,31.11,False,False
+2024,Pennsylvania,PA,State House,16,general,Robert Matzie,Democratic,18198,52.32,True,False
+2024,Pennsylvania,PA,State House,16,general,Michael J. Perich,Republican,16584,47.68,False,False
+2024,Pennsylvania,PA,State House,17,general,Tim Bonner,Republican,29173,100.0,True,False
+2024,Pennsylvania,PA,State House,18,general,K.C. Tomlinson,Republican,18161,55.52,True,False
+2024,Pennsylvania,PA,State House,18,general,Anand Patel,Democratic,14469,44.24,False,False
+2024,Pennsylvania,PA,State House,19,general,Aerion Abney,Democratic,22645,100.0,True,False
+2024,Pennsylvania,PA,State House,20,general,Emily Kinkead,Democratic,21322,59.12,True,False
+2024,Pennsylvania,PA,State House,20,general,Matt Kruth,Republican,14678,40.7,False,False
+2024,Pennsylvania,PA,State House,21,general,Lindsay Powell,Democratic,29301,100.0,True,False
+2024,Pennsylvania,PA,State House,22,general,Joshua Siegel,Democratic,13282,100.0,True,False
+2024,Pennsylvania,PA,State House,23,general,Dan Frankel,Democratic,29844,100.0,True,False
+2024,Pennsylvania,PA,State House,24,general,La'Tasha D. Mayes,Democratic,27962,100.0,True,False
+2024,Pennsylvania,PA,State House,25,general,Brandon Markosek,Democratic,20865,59.5,True,False
+2024,Pennsylvania,PA,State House,25,general,John Ritter,Republican,14140,40.32,False,False
+2024,Pennsylvania,PA,State House,26,general,Paul Friel,Democratic,22421,57.35,True,False
+2024,Pennsylvania,PA,State House,26,general,Shawn Blickley,Republican,16675,42.65,False,False
+2024,Pennsylvania,PA,State House,27,general,Dan Deasy,Democratic,26101,100.0,True,False
+2024,Pennsylvania,PA,State House,28,general,Jeremy Shaffer,Republican,23228,56.96,True,False
+2024,Pennsylvania,PA,State House,28,general,Bill Petulla,Democratic,17514,42.94,False,False
+2024,Pennsylvania,PA,State House,29,general,Tim Brennan,Democratic,25176,55.56,True,False
+2024,Pennsylvania,PA,State House,29,general,Steve Mekanik,Republican,19118,42.19,False,False
+2024,Pennsylvania,PA,State House,29,general,Rob Ronky,Libertarian,963,2.13,False,False
+2024,Pennsylvania,PA,State House,30,general,Arvind Venkat,Democratic,21896,54.26,True,False
+2024,Pennsylvania,PA,State House,30,general,Nathan Wolfe,Republican,17748,43.98,False,False
+2024,Pennsylvania,PA,State House,30,general,William Johnson Baierl,Libertarian,676,1.68,False,False
+2024,Pennsylvania,PA,State House,31,general,Perry Warren,Democratic,27837,58.75,True,False
+2024,Pennsylvania,PA,State House,31,general,Bernie Sauer,Republican,19477,41.11,False,False
+2024,Pennsylvania,PA,State House,33,general,Mandy Steele,Democratic,20030,55.7,True,False
+2024,Pennsylvania,PA,State House,33,general,Gary Lotz,Republican,15867,44.12,False,False
+2024,Pennsylvania,PA,State House,34,general,Abigail Salisbury,Democratic,30209,100.0,True,False
+2024,Pennsylvania,PA,State House,35,general,Matt Gergely,Democratic,23550,100.0,True,False
+2024,Pennsylvania,PA,State House,36,general,Jessica Benham,Democratic,22253,77.83,True,False
+2024,Pennsylvania,PA,State House,36,general,Ross Sylvester,Libertarian,5981,20.92,False,False
+2024,Pennsylvania,PA,State House,37,general,Mindy Fee,Republican,26131,66.7,True,False
+2024,Pennsylvania,PA,State House,37,general,John George,Democratic,13002,33.19,False,False
+2024,Pennsylvania,PA,State House,38,general,John Inglis,Democratic,19559,55.42,True,False
+2024,Pennsylvania,PA,State House,38,general,Stone Sobieralski,Republican,15675,44.42,False,False
+2024,Pennsylvania,PA,State House,39,general,Andrew Kuzma,Republican,23808,62.07,True,False
+2024,Pennsylvania,PA,State House,39,general,Angela Girol,Democratic,14546,37.93,False,False
+2024,Pennsylvania,PA,State House,40,general,Natalie Mihalek,Republican,25165,60.37,True,False
+2024,Pennsylvania,PA,State House,40,general,Peter Kohnke,Democratic,16518,39.63,False,False
+2024,Pennsylvania,PA,State House,41,general,Brett Miller,Republican,19926,55.61,True,False
+2024,Pennsylvania,PA,State House,41,general,Brad Chambers,Democratic,15870,44.29,False,False
+2024,Pennsylvania,PA,State House,42,general,Dan Miller,Democratic,26932,66.57,True,False
+2024,Pennsylvania,PA,State House,42,general,Joseph Leckenby,Republican,13436,33.21,False,False
+2024,Pennsylvania,PA,State House,43,general,Keith Greiner,Republican,23834,100.0,True,False
+2024,Pennsylvania,PA,State House,44,general,Valerie Gaydos,Republican,20811,53.75,True,False
+2024,Pennsylvania,PA,State House,44,general,Hadley Haas,Democratic,17872,46.15,False,False
+2024,Pennsylvania,PA,State House,45,general,Anita Astorino Kulik,Democratic,21045,57.98,True,False
+2024,Pennsylvania,PA,State House,45,general,James Julius,Republican,15192,41.86,False,False
+2024,Pennsylvania,PA,State House,46,general,Jason Ortitay,Republican,22888,62.16,True,False
+2024,Pennsylvania,PA,State House,46,general,Alex Taylor,Democratic,13931,37.94,False,False
+2024,Pennsylvania,PA,State House,47,general,Joe D'Orsie,Republican,22322,62.84,True,False
+2024,Pennsylvania,PA,State House,47,general,Edward Ritter,Democratic,13201,37.16,False,False
+2024,Pennsylvania,PA,State House,48,general,Tim O'Neal,Republican,24213,100.0,True,False
+2024,Pennsylvania,PA,State House,49,general,Ismail Smith-Wade-El,Democratic,18064,100.0,True,False
+2024,Pennsylvania,PA,State House,50,general,Bud Cook,Republican,20424,69.11,True,False
+2024,Pennsylvania,PA,State House,50,general,Drew Ross Manko,Democratic,9131,30.89,False,False
+2024,Pennsylvania,PA,State House,51,general,Charity Grimm Krupa,Republican,19945,65.67,True,False
+2024,Pennsylvania,PA,State House,51,general,George Huck Rattay,Democratic,10425,34.33,False,False
+2024,Pennsylvania,PA,State House,52,general,Ryan Warner,Republican,25794,100.0,True,False
+2024,Pennsylvania,PA,State House,53,general,Steve Malagari,Democratic,21057,60.22,True,False
+2024,Pennsylvania,PA,State House,53,general,Cheryl Bonavita,Republican,13912,39.78,False,False
+2024,Pennsylvania,PA,State House,54,general,Greg Scott,Democratic,18584,69.67,True,False
+2024,Pennsylvania,PA,State House,54,general,Martin Dickerson,Republican,8092,30.33,False,False
+2024,Pennsylvania,PA,State House,55,general,Jill Cooper,Republican,26389,67.64,True,False
+2024,Pennsylvania,PA,State House,55,general,Davon Magwood,Democratic,12535,32.13,False,False
+2024,Pennsylvania,PA,State House,56,general,Brian Rasel,Republican,32092,100.0,True,False
+2024,Pennsylvania,PA,State House,57,general,Eric Nelson,Republican,29981,100.0,True,False
+2024,Pennsylvania,PA,State House,58,general,Eric Davanzo,Republican,25276,69.07,True,False
+2024,Pennsylvania,PA,State House,58,general,Cherri Rogers,Democratic,11258,30.76,False,False
+2024,Pennsylvania,PA,State House,59,general,Leslie Rossi,Republican,27202,69.69,True,False
+2024,Pennsylvania,PA,State House,59,general,Margie Zelenak,Democratic,11776,30.17,False,False
+2024,Pennsylvania,PA,State House,60,general,Abby Major,Republican,27276,100.0,True,False
+2024,Pennsylvania,PA,State House,61,general,Liz Hanbidge,Democratic,25068,60.88,True,False
+2024,Pennsylvania,PA,State House,61,general,Michelle Rupp,Republican,16109,39.12,False,False
+2024,Pennsylvania,PA,State House,62,general,James Struzzi,Republican,28152,100.0,True,False
+2024,Pennsylvania,PA,State House,63,general,Josh Bashline,Republican,27017,80.03,True,False
+2024,Pennsylvania,PA,State House,63,general,Pat Ritchie,Democratic,6742,19.97,False,False
+2024,Pennsylvania,PA,State House,64,general,Lee James,Republican,25456,86.97,True,False
+2024,Pennsylvania,PA,State House,64,general,Ron Johnson,Constitution,3814,13.03,False,False
+2024,Pennsylvania,PA,State House,65,general,Kathy Rapp,Republican,23145,72.96,True,False
+2024,Pennsylvania,PA,State House,65,general,Erin Willman,Democratic,8577,27.04,False,False
+2024,Pennsylvania,PA,State House,66,general,Brian Smith,Republican,28232,100.0,True,False
+2024,Pennsylvania,PA,State House,67,general,Martin Causer,Republican,25135,81.91,True,False
+2024,Pennsylvania,PA,State House,67,general,Rajeev Pradhan,Democratic,5551,18.09,False,False
+2024,Pennsylvania,PA,State House,68,general,Clint Owlett,Republican,29716,100.0,True,False
+2024,Pennsylvania,PA,State House,69,general,Carl Walker Metzgar,Republican,32670,100.0,True,False
+2024,Pennsylvania,PA,State House,70,general,Matthew Bradford,Democratic,24570,60.17,True,False
+2024,Pennsylvania,PA,State House,70,general,Ed Moye,Republican,16267,39.83,False,False
+2024,Pennsylvania,PA,State House,71,general,James Rigby,Republican,30204,100.0,True,False
+2024,Pennsylvania,PA,State House,72,general,Frank Burns,Democratic,16780,51.24,True,False
+2024,Pennsylvania,PA,State House,72,general,Amy Bradley,Republican,15851,48.41,False,False
+2024,Pennsylvania,PA,State House,73,general,Dallas Kephart,Republican,28465,100.0,True,False
+2024,Pennsylvania,PA,State House,74,general,Dan K. Williams,Democratic,17667,55.05,True,False
+2024,Pennsylvania,PA,State House,74,general,Dale Hensel,Republican,14428,44.95,False,False
+2024,Pennsylvania,PA,State House,75,general,Michael Armanini,Republican,30415,100.0,True,False
+2024,Pennsylvania,PA,State House,76,general,Stephanie Borowicz,Republican,21393,69.35,True,False
+2024,Pennsylvania,PA,State House,76,general,Denise Maris,Democratic,9453,30.65,False,False
+2024,Pennsylvania,PA,State House,77,general,Scott Conklin,Democratic,18548,61.36,True,False
+2024,Pennsylvania,PA,State House,77,general,Marie Librizzi,Republican,11682,38.64,False,False
+2024,Pennsylvania,PA,State House,78,general,Jesse Topper,Republican,31152,100.0,True,False
+2024,Pennsylvania,PA,State House,79,general,Louis Schmitt Jr.,Republican,25629,100.0,True,False
+2024,Pennsylvania,PA,State House,80,general,Scott Barger,Republican,30518,100.0,True,False
+2024,Pennsylvania,PA,State House,81,general,Rich Irvin,Republican,26840,79.37,True,False
+2024,Pennsylvania,PA,State House,81,general,Sean Steeg,Democratic,6975,20.63,False,False
+2024,Pennsylvania,PA,State House,82,general,Paul Takac,Democratic,16558,53.8,True,False
+2024,Pennsylvania,PA,State House,82,general,Therese Hollen,Republican,14221,46.2,False,False
+2024,Pennsylvania,PA,State House,83,general,Jamie Flick,Republican,23285,100.0,True,False
+2024,Pennsylvania,PA,State House,84,general,Joe Hamm,Republican,33611,100.0,True,False
+2024,Pennsylvania,PA,State House,85,general,David H. Rowe,Republican,24977,71.83,True,False
+2024,Pennsylvania,PA,State House,85,general,Nick Jacobson,Democratic,9793,28.17,False,False
+2024,Pennsylvania,PA,State House,86,general,Perry A. Stambaugh,Republican,29341,100.0,True,False
+2024,Pennsylvania,PA,State House,87,general,Thomas Kutz,Republican,24861,61.69,True,False
+2024,Pennsylvania,PA,State House,87,general,John Flood,Democratic,15440,38.31,False,False
+2024,Pennsylvania,PA,State House,88,general,Sheryl M. Delozier,Republican,20882,55.15,True,False
+2024,Pennsylvania,PA,State House,88,general,Sara Agerton,Democratic,16983,44.85,False,False
+2024,Pennsylvania,PA,State House,89,general,Rob Kauffman,Republican,24531,70.88,True,False
+2024,Pennsylvania,PA,State House,89,general,Noah Kreischer,Democratic,10014,28.94,False,False
+2024,Pennsylvania,PA,State House,90,general,Chad Reichard,Republican,29817,100.0,True,False
+2024,Pennsylvania,PA,State House,91,general,Dan Moul,Republican,30080,100.0,True,False
+2024,Pennsylvania,PA,State House,92,general,Marc Anderson,Republican,27938,70.47,True,False
+2024,Pennsylvania,PA,State House,92,general,Dan Almoney,Democratic,11710,29.53,False,False
+2024,Pennsylvania,PA,State House,93,general,Mike Jones,Republican,29780,100.0,True,False
+2024,Pennsylvania,PA,State House,94,general,Wendy Fink,Republican,27766,100.0,True,False
+2024,Pennsylvania,PA,State House,95,general,Carol Hill-Evans,Democratic,12812,59.14,True,False
+2024,Pennsylvania,PA,State House,95,general,Jasmine Rivera,Republican,8852,40.86,False,False
+2024,Pennsylvania,PA,State House,96,general,Nikki Rivera,Democratic,21244,60.22,True,False
+2024,Pennsylvania,PA,State House,96,general,Eric Beezer,Republican,13955,39.55,False,False
+2024,Pennsylvania,PA,State House,97,general,Steven Mentzer,Republican,23846,61.73,True,False
+2024,Pennsylvania,PA,State House,97,general,Bob Rudy,Democratic,14732,38.14,False,False
+2024,Pennsylvania,PA,State House,98,general,Tom Jones,Republican,24706,64.41,True,False
+2024,Pennsylvania,PA,State House,98,general,Lynn McCleary,Democratic,13650,35.59,False,False
+2024,Pennsylvania,PA,State House,99,general,David H. Zimmerman,Republican,26561,100.0,True,False
+2024,Pennsylvania,PA,State House,100,general,Bryan Cutler,Republican,23316,100.0,True,False
+2024,Pennsylvania,PA,State House,101,general,John A. Schlegel,Republican,23371,100.0,True,False
+2024,Pennsylvania,PA,State House,102,general,Russ Diamond,Republican,27886,100.0,True,False
+2024,Pennsylvania,PA,State House,103,general,Nate Davidson,Democratic,18896,60.56,True,False
+2024,Pennsylvania,PA,State House,103,general,Cindi Ward,Republican,12308,39.44,False,False
+2024,Pennsylvania,PA,State House,104,general,Dave Madsen,Democratic,19066,100.0,True,False
+2024,Pennsylvania,PA,State House,105,general,Justin C. Fleming,Democratic,25941,100.0,True,False
+2024,Pennsylvania,PA,State House,106,general,Tom Mehaffie,Republican,23615,62.84,True,False
+2024,Pennsylvania,PA,State House,106,general,Anju Singh,Democratic,13855,36.87,False,False
+2024,Pennsylvania,PA,State House,107,general,Joanne Stehr,Republican,28129,100.0,True,False
+2024,Pennsylvania,PA,State House,108,general,Michael Stender,Republican,27794,100.0,True,False
+2024,Pennsylvania,PA,State House,109,general,Robert Leadbeter,Republican,21605,67.21,True,False
+2024,Pennsylvania,PA,State House,109,general,Nick McGraw,Democratic,10540,32.79,False,False
+2024,Pennsylvania,PA,State House,110,general,Tina Pickett,Republican,30496,100.0,True,False
+2024,Pennsylvania,PA,State House,111,general,Jonathan Fritz,Republican,31528,100.0,True,False
+2024,Pennsylvania,PA,State House,112,general,Kyle Mullins,Democratic,26329,100.0,True,False
+2024,Pennsylvania,PA,State House,113,general,Kyle Donahue,Democratic,19389,100.0,True,False
+2024,Pennsylvania,PA,State House,114,general,Bridget Malloy Kosierowski,Democratic,24473,100.0,True,False
+2024,Pennsylvania,PA,State House,115,general,Maureen Madden,Democratic,15955,53.45,True,False
+2024,Pennsylvania,PA,State House,115,general,Matt Long,Republican,13894,46.55,False,False
+2024,Pennsylvania,PA,State House,116,general,Dane Watro,Republican,15237,72.46,True,False
+2024,Pennsylvania,PA,State House,116,general,Deborah Adoff,Democratic,5792,27.54,False,False
+2024,Pennsylvania,PA,State House,117,general,Jamie Walsh,Republican,28188,100.0,True,False
+2024,Pennsylvania,PA,State House,118,general,Jim Haddock,Democratic,19801,56.24,True,False
+2024,Pennsylvania,PA,State House,118,general,McKayla Kathio,Republican,15404,43.76,False,False
+2024,Pennsylvania,PA,State House,119,general,Alec Ryncavage,Republican,18031,62.93,True,False
+2024,Pennsylvania,PA,State House,119,general,Megan Kocher,Democratic,10623,37.07,False,False
+2024,Pennsylvania,PA,State House,120,general,Brenda Pugh,Republican,18700,57.64,True,False
+2024,Pennsylvania,PA,State House,120,general,Fern Leard,Democratic,13740,42.36,False,False
+2024,Pennsylvania,PA,State House,121,general,Eddie Day Pashinski,Democratic,11692,55.28,True,False
+2024,Pennsylvania,PA,State House,121,general,Dino Disler,Republican,9459,44.72,False,False
+2024,Pennsylvania,PA,State House,122,general,Doyle Heffley,Republican,28006,100.0,True,False
+2024,Pennsylvania,PA,State House,123,general,Timothy Twardzik,Republican,23371,72.9,True,False
+2024,Pennsylvania,PA,State House,123,general,Michael Zvalaren,Democratic,8686,27.1,False,False
+2024,Pennsylvania,PA,State House,124,general,Jamie Barton,Republican,24236,71.71,True,False
+2024,Pennsylvania,PA,State House,124,general,Tina Burns,Democratic,9562,28.29,False,False
+2024,Pennsylvania,PA,State House,125,general,Joe Kerwin,Republican,26612,68.3,True,False
+2024,Pennsylvania,PA,State House,125,general,Gene Stilp,Democratic,12264,31.48,False,False
+2024,Pennsylvania,PA,State House,126,general,Jacklyn Rusnock,Democratic,14005,55.89,True,False
+2024,Pennsylvania,PA,State House,126,general,James Oswald,Republican,11052,44.11,False,False
+2024,Pennsylvania,PA,State House,127,general,Manny Guzman Jr.,Democratic,12684,100.0,True,False
+2024,Pennsylvania,PA,State House,128,general,Mark M. Gillen,Republican,28117,100.0,True,False
+2024,Pennsylvania,PA,State House,129,general,Johanny Cepeda-Freytiz,Democratic,14808,56.33,True,False
+2024,Pennsylvania,PA,State House,129,general,Susan Larkin,Republican,11479,43.67,False,False
+2024,Pennsylvania,PA,State House,130,general,David Maloney,Republican,24320,65.6,True,False
+2024,Pennsylvania,PA,State House,130,general,Rayne Reitnauer,Democratic,12751,34.4,False,False
+2024,Pennsylvania,PA,State House,131,general,Milou Mackenzie,Republican,23514,57.23,True,False
+2024,Pennsylvania,PA,State House,131,general,Meriam Sabih,Democratic,17570,42.77,False,False
+2024,Pennsylvania,PA,State House,132,general,Mike Schlossberg,Democratic,26659,100.0,True,False
+2024,Pennsylvania,PA,State House,133,general,Jeanne McNeill,Democratic,24035,100.0,True,False
+2024,Pennsylvania,PA,State House,134,general,Peter Schweyer,Democratic,19124,100.0,True,False
+2024,Pennsylvania,PA,State House,135,general,Steve Samuelson,Democratic,22656,100.0,True,False
+2024,Pennsylvania,PA,State House,136,general,Robert L. Freeman,Democratic,19607,100.0,True,False
+2024,Pennsylvania,PA,State House,137,general,Joe Emrick,Republican,20485,51.66,True,False
+2024,Pennsylvania,PA,State House,137,general,Anna Thomas,Democratic,19169,48.34,False,False
+2024,Pennsylvania,PA,State House,138,general,Ann Flood,Republican,25791,65.23,True,False
+2024,Pennsylvania,PA,State House,138,general,Jared Bitting,Democratic,13747,34.77,False,False
+2024,Pennsylvania,PA,State House,139,general,Jeffrey Olsommer,Republican,26234,67.38,True,False
+2024,Pennsylvania,PA,State House,139,general,Robin Schooley Skibber,Democratic,12701,32.62,False,False
+2024,Pennsylvania,PA,State House,140,general,Jim Prokopiak,Democratic,17587,53.9,True,False
+2024,Pennsylvania,PA,State House,140,general,Candace Cabanas,Republican,14958,45.84,False,False
+2024,Pennsylvania,PA,State House,141,general,Tina Davis,Democratic,20960,64.77,True,False
+2024,Pennsylvania,PA,State House,141,general,Noah Boyd,Republican,11345,35.06,False,False
+2024,Pennsylvania,PA,State House,142,general,Joe Hogan,Republican,21226,54.74,True,False
+2024,Pennsylvania,PA,State House,142,general,Anna Payne,Democratic,17492,45.11,False,False
+2024,Pennsylvania,PA,State House,143,general,Shelby Labs,Republican,24370,56.29,True,False
+2024,Pennsylvania,PA,State House,143,general,Eleanor Breslin,Democratic,18866,43.57,False,False
+2024,Pennsylvania,PA,State House,144,general,Brian Munroe,Democratic,20553,51.23,True,False
+2024,Pennsylvania,PA,State House,144,general,Daniel J. McPhillips,Republican,19488,48.57,False,False
+2024,Pennsylvania,PA,State House,145,general,Craig Staats,Republican,22678,58.83,True,False
+2024,Pennsylvania,PA,State House,145,general,Vera Cole,Democratic,15821,41.04,False,False
+2024,Pennsylvania,PA,State House,146,general,Joe Ciresi,Democratic,20726,59.29,True,False
+2024,Pennsylvania,PA,State House,146,general,Michael J. McCloskey III,Republican,14233,40.71,False,False
+2024,Pennsylvania,PA,State House,147,general,Donna Scheuren,Republican,23792,58.56,True,False
+2024,Pennsylvania,PA,State House,147,general,Albert Leach,Democratic,16835,41.44,False,False
+2024,Pennsylvania,PA,State House,148,general,Mary Jo Daley,Democratic,34119,100.0,True,False
+2024,Pennsylvania,PA,State House,149,general,Tim Briggs,Democratic,30339,100.0,True,False
+2024,Pennsylvania,PA,State House,150,general,Joe Webster,Democratic,22359,58.87,True,False
+2024,Pennsylvania,PA,State House,150,general,Simone Collins,Republican,15624,41.13,False,False
+2024,Pennsylvania,PA,State House,151,general,Melissa Cerrato,Democratic,24975,61.44,True,False
+2024,Pennsylvania,PA,State House,151,general,Allen Arthur Anderson,Republican,15672,38.56,False,False
+2024,Pennsylvania,PA,State House,152,general,Nancy Guenst,Democratic,21583,61.17,True,False
+2024,Pennsylvania,PA,State House,152,general,Tim Bertman,Republican,13699,38.83,False,False
+2024,Pennsylvania,PA,State House,153,general,Ben Sanchez,Democratic,25739,65.72,True,False
+2024,Pennsylvania,PA,State House,153,general,Joseph J. Rooney,Republican,13427,34.28,False,False
+2024,Pennsylvania,PA,State House,154,general,Napoleon Nelson,Democratic,31179,80.3,True,False
+2024,Pennsylvania,PA,State House,154,general,Thom Estilow,Republican,7648,19.7,False,False
+2024,Pennsylvania,PA,State House,155,general,Danielle Friel Otten,Democratic,23362,57.32,True,False
+2024,Pennsylvania,PA,State House,155,general,Rodney Simon,Republican,17396,42.68,False,False
+2024,Pennsylvania,PA,State House,156,general,Chris Pielli,Democratic,22786,58.66,True,False
+2024,Pennsylvania,PA,State House,156,general,Kris R. Vollrath,Republican,16059,41.34,False,False
+2024,Pennsylvania,PA,State House,157,general,Melissa Shusterman,Democratic,25141,60.51,True,False
+2024,Pennsylvania,PA,State House,157,general,Regina Mauro,Republican,16408,39.49,False,False
+2024,Pennsylvania,PA,State House,158,general,Christina Sappey,Democratic,22052,57.98,True,False
+2024,Pennsylvania,PA,State House,158,general,Tina Ayala,Republican,15983,42.02,False,False
+2024,Pennsylvania,PA,State House,159,general,Carol Kazeem,Democratic,20161,100.0,True,False
+2024,Pennsylvania,PA,State House,160,general,Craig Williams,Republican,21834,51.8,True,False
+2024,Pennsylvania,PA,State House,160,general,Elizabeth R. Moro,Democratic,20313,48.2,False,False
+2024,Pennsylvania,PA,State House,161,general,Leanne Krueger,Democratic,22393,58.2,True,False
+2024,Pennsylvania,PA,State House,161,general,John Mancinelli Jr.,Republican,16084,41.8,False,False
+2024,Pennsylvania,PA,State House,162,general,David Delloso,Democratic,19815,56.68,True,False
+2024,Pennsylvania,PA,State House,162,general,Gabriella Mendez,Republican,15143,43.32,False,False
+2024,Pennsylvania,PA,State House,163,general,Heather Boyd,Democratic,21022,63.21,True,False
+2024,Pennsylvania,PA,State House,163,general,Jeffrey O. Jones,Republican,12238,36.79,False,False
+2024,Pennsylvania,PA,State House,164,general,Gina Curry,Democratic,21017,100.0,True,False
+2024,Pennsylvania,PA,State House,165,general,Jennifer O'Mara,Democratic,24659,59.58,True,False
+2024,Pennsylvania,PA,State House,165,general,Liz Piazza,Republican,16730,40.42,False,False
+2024,Pennsylvania,PA,State House,166,general,Greg Vitali,Democratic,25233,60.37,True,False
+2024,Pennsylvania,PA,State House,166,general,Kay Dugery,Republican,16565,39.63,False,False
+2024,Pennsylvania,PA,State House,167,general,Kristine Howard,Democratic,23301,58.57,True,False
+2024,Pennsylvania,PA,State House,167,general,Melissa Dicranian,Republican,16484,41.43,False,False
+2024,Pennsylvania,PA,State House,168,general,Lisa Borowski,Democratic,22634,58.1,True,False
+2024,Pennsylvania,PA,State House,168,general,Kathryn Buckley,Republican,16326,41.9,False,False
+2024,Pennsylvania,PA,State House,169,general,Kate Klunk,Republican,30234,100.0,True,False
+2024,Pennsylvania,PA,State House,170,general,Martina White,Republican,19768,100.0,True,False
+2024,Pennsylvania,PA,State House,171,general,Kerry Benninghoff,Republican,28501,100.0,True,False
+2024,Pennsylvania,PA,State House,172,general,Sean Dougherty,Democratic,12836,50.94,True,False
+2024,Pennsylvania,PA,State House,172,general,Aizaz Gill,Republican,12340,48.97,False,False
+2024,Pennsylvania,PA,State House,173,general,Pat Gallagher,Democratic,13374,100.0,True,False
+2024,Pennsylvania,PA,State House,174,general,Ed Neilson,Democratic,15011,100.0,True,False
+2024,Pennsylvania,PA,State House,175,general,Mary Isaacson,Democratic,29976,100.0,True,False
+2024,Pennsylvania,PA,State House,176,general,Jack Rader,Republican,21429,63.02,True,False
+2024,Pennsylvania,PA,State House,176,general,Hope Christman,Democratic,12576,36.98,False,False
+2024,Pennsylvania,PA,State House,177,general,Joseph C. Hohenstein,Democratic,17234,100.0,True,False
+2024,Pennsylvania,PA,State House,178,general,Kristin Marcell,Republican,26864,61.23,True,False
+2024,Pennsylvania,PA,State House,178,general,Paul Lang Jr.,Democratic,16939,38.61,False,False
+2024,Pennsylvania,PA,State House,179,general,Jason Dawkins,Democratic,14583,100.0,True,False
+2024,Pennsylvania,PA,State House,180,general,Jose Giral,Democratic,11487,100.0,True,False
+2024,Pennsylvania,PA,State House,181,general,Malcolm Kenyatta,Democratic,23165,100.0,True,False
+2024,Pennsylvania,PA,State House,182,general,Ben Waxman,Democratic,32994,100.0,True,False
+2024,Pennsylvania,PA,State House,183,general,Zach Mako,Republican,25688,65.55,True,False
+2024,Pennsylvania,PA,State House,183,general,Joe Lenzi,Democratic,13503,34.45,False,False
+2024,Pennsylvania,PA,State House,184,general,Elizabeth Fiedler,Democratic,20306,100.0,True,False
+2024,Pennsylvania,PA,State House,185,general,Regina Young,Democratic,19366,100.0,True,False
+2024,Pennsylvania,PA,State House,186,general,Jordan A. Harris,Democratic,27658,100.0,True,False
+2024,Pennsylvania,PA,State House,187,general,Gary Day,Republican,21994,55.36,True,False
+2024,Pennsylvania,PA,State House,187,general,Stefanie Rafes,Democratic,17738,44.64,False,False
+2024,Pennsylvania,PA,State House,188,general,Rick Krajewski,Democratic,26408,100.0,True,False
+2024,Pennsylvania,PA,State House,189,general,Tarah Probst,Democratic,16970,57.5,True,False
+2024,Pennsylvania,PA,State House,189,general,Lisa VanWhy,Republican,12542,42.5,False,False
+2024,Pennsylvania,PA,State House,190,general,G. Roni Green,Democratic,24492,100.0,True,False
+2024,Pennsylvania,PA,State House,191,general,Joanna E. McClinton,Democratic,23939,100.0,True,False
+2024,Pennsylvania,PA,State House,192,general,Morgan Cephas,Democratic,26635,100.0,True,False
+2024,Pennsylvania,PA,State House,193,general,Torren Ecker,Republican,27826,100.0,True,False
+2024,Pennsylvania,PA,State House,194,general,Tarik Khan,Democratic,29784,100.0,True,False
+2024,Pennsylvania,PA,State House,195,general,Keith Harris,Democratic,26653,100.0,True,False
+2024,Pennsylvania,PA,State House,196,general,Seth Grove,Republican,30637,100.0,True,False
+2024,Pennsylvania,PA,State House,197,general,Danilo Burgos,Democratic,16952,100.0,True,False
+2024,Pennsylvania,PA,State House,198,general,Darisha Parker,Democratic,23842,100.0,True,False
+2024,Pennsylvania,PA,State House,199,general,Barbara Gleim,Republican,20935,60.89,True,False
+2024,Pennsylvania,PA,State House,199,general,Rick Christie,Democratic,13447,39.11,False,False
+2024,Pennsylvania,PA,State House,200,general,Chris Rabb,Democratic,35743,100.0,True,False
+2024,Pennsylvania,PA,State House,201,general,Andre Carroll,Democratic,26154,100.0,True,False
+2024,Pennsylvania,PA,State House,202,general,Jared Solomon,Democratic,10586,100.0,True,False
+2024,Pennsylvania,PA,State House,203,general,Anthony A. Bellmon,Democratic,17389,100.0,True,False
 2024,South Carolina,SC,State House,109,special general,Tiffany Spann-Wilder,Democratic,299,97.39,True,False
 2024,South Carolina,SC,State House,1,general,Bill Whitmire,Republican,20495,99.13,True,True
 2024,South Carolina,SC,State House,2,general,Adam Lewis Duncan,Republican,16639,95.87,True,False
@@ -5160,6 +5923,410 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Utah,UT,State House,HOUSE DISTRICT 74,general,R. Neil Walter,Republican,19978,100.0,True,False
 2024,Utah,UT,State House,HOUSE DISTRICT 75,general,Walt Brooks,Republican,15580,78.83,True,False
 2024,Utah,UT,State House,HOUSE DISTRICT 75,general,Joshua Dutson,Democratic,4183,21.17,False,False
+2024,Vermont,VT,State House,ADDISON-1,general,Amy Sheldon,Democratic,2898,49.6,True,True
+2024,Vermont,VT,State House,ADDISON-1,general,Robin Scheu,Democratic,2776,47.6,True,True
+2024,Vermont,VT,State House,ADDISON-2,general,Peter Conlon,Democratic,1438,55.9,True,True
+2024,Vermont,VT,State House,ADDISON-2,general,Christine Stone,Republican,1124,43.7,False,False
+2024,Vermont,VT,State House,ADDISON-3,general,Rob North,Republican,2679,27.7,True,False
+2024,Vermont,VT,State House,ADDISON-3,general,Matt Birong,Democratic,2374,24.6,True,True
+2024,Vermont,VT,State House,ADDISON-3,general,Diane Lanpher,Democratic,2357,24.4,False,True
+2024,Vermont,VT,State House,ADDISON-3,general,Joe Baker,Republican,2240,23.2,False,False
+2024,Vermont,VT,State House,ADDISON-4,general,Herb Olson,Democratic,3041,29.7,True,False
+2024,Vermont,VT,State House,ADDISON-4,general,Mari Cordes,Democratic,2830,27.7,True,True
+2024,Vermont,VT,State House,ADDISON-4,general,Chanin Hill,Republican,2374,23.2,False,False
+2024,Vermont,VT,State House,ADDISON-4,general,Renee Mcguinness,Republican,1975,19.3,False,False
+2024,Vermont,VT,State House,ADDISON-5,general,Jubilee McGill,Democratic,1403,54.8,True,True
+2024,Vermont,VT,State House,ADDISON-5,general,Del Thompson,Republican,1149,44.9,False,False
+2024,Vermont,VT,State House,ADDISON-RUTLAND,general,Jim Casey,Republican,1881,94.9,True,False
+2024,Vermont,VT,State House,BENNINGTON-1,general,Jonathan Cooper,Democratic,1265,50.4,True,False
+2024,Vermont,VT,State House,BENNINGTON-1,general,Bruce Busa,Republican,1242,49.5,False,False
+2024,Vermont,VT,State House,BENNINGTON-2,general,Timothy Corcoran II,Democratic,2136,39.5,True,True
+2024,Vermont,VT,State House,BENNINGTON-2,general,Will Greer,Democratic,1858,34.4,True,False
+2024,Vermont,VT,State House,BENNINGTON-2,general,Anthony Cook,Republican,1363,25.2,False,False
+2024,Vermont,VT,State House,BENNINGTON-3,general,David Durfee,Democratic,1342,56.2,True,True
+2024,Vermont,VT,State House,BENNINGTON-3,general,Victor Harwood Jr.,Republican,1046,43.8,False,False
+2024,Vermont,VT,State House,BENNINGTON-4,general,Rob Hunter,Democratic,3250,48.2,True,False
+2024,Vermont,VT,State House,BENNINGTON-4,general,Kathleen James,Democratic,3244,48.2,True,True
+2024,Vermont,VT,State House,BENNINGTON-5,general,Mary Morrissey,Republican,2157,36.5,True,True
+2024,Vermont,VT,State House,BENNINGTON-5,general,Michael Nigro,Democratic,1940,32.8,True,False
+2024,Vermont,VT,State House,BENNINGTON-5,general,Jim Carroll,Democratic,1763,29.8,False,True
+2024,Vermont,VT,State House,BENNINGTON-RUTLAND,general,Sandy Pinsonault,Republican,1475,54.5,True,False
+2024,Vermont,VT,State House,BENNINGTON-RUTLAND,general,Mike Rice,Democratic,1225,45.3,False,True
+2024,Vermont,VT,State House,CALEDONIA-1,general,Debra Powers,Republican,1468,57.3,True,False
+2024,Vermont,VT,State House,CALEDONIA-1,general,Bobby Farlice-Rubio,Democratic,1082,42.3,False,True
+2024,Vermont,VT,State House,CALEDONIA-2,general,Mike Southworth,Republican,1313,58.5,True,False
+2024,Vermont,VT,State House,CALEDONIA-2,general,Sabrina Morrison,Democratic,931,41.5,False,False
+2024,Vermont,VT,State House,CALEDONIA-3,general,Marty Feltus,Republican,2335,32.2,True,False
+2024,Vermont,VT,State House,CALEDONIA-3,general,Beth Quimby,Republican,2222,30.7,True,False
+2024,Vermont,VT,State House,CALEDONIA-3,general,Dennis LaBounty,Democratic,1487,20.5,False,True
+2024,Vermont,VT,State House,CALEDONIA-3,general,Eileen Boland,Democratic,1191,16.4,False,False
+2024,Vermont,VT,State House,CALEDONIA-ESSEX,general,Deborah Dolgin,Republican,2225,37.1,True,False
+2024,Vermont,VT,State House,CALEDONIA-ESSEX,general,Scott Campbell,Democratic,2159,36.0,True,True
+2024,Vermont,VT,State House,CALEDONIA-ESSEX,general,Frank Empsall,Democratic,1541,25.7,False,False
+2024,Vermont,VT,State House,CALEDONIA-WASHINGTON,general,Greg Burtt,Republican,1639,56.3,True,False
+2024,Vermont,VT,State House,CALEDONIA-WASHINGTON,general,Tomz Ziobrowski,Democratic,1271,43.6,False,False
+2024,Vermont,VT,State House,CHITTENDEN-1,general,Jana Brown,Democratic,2298,97.8,True,True
+2024,Vermont,VT,State House,CHITTENDEN-2,general,Erin Brady,Democratic,4203,49.9,True,True
+2024,Vermont,VT,State House,CHITTENDEN-2,general,Angela Arsenault,Democratic,4016,47.7,True,True
+2024,Vermont,VT,State House,CHITTENDEN-3,general,Trevor Squirrell,Democratic,3965,49.6,True,True
+2024,Vermont,VT,State House,CHITTENDEN-3,general,Edye Graning,Democratic,3866,48.4,True,True
+2024,Vermont,VT,State House,CHITTENDEN-4,general,Phil Pouech,Democratic,2159,83.9,True,True
+2024,Vermont,VT,State House,CHITTENDEN-5,general,Chea Evans,Democratic,1963,93.6,True,True
+2024,Vermont,VT,State House,CHITTENDEN-6,general,Kate Lalley,Democratic,2042,71.1,True,True
+2024,Vermont,VT,State House,CHITTENDEN-6,general,Deb Mayfield,Republican,828,28.9,False,False
+2024,Vermont,VT,State House,CHITTENDEN-7,general,Shawn Sweeney,Democratic,2422,97.9,True,False
+2024,Vermont,VT,State House,CHITTENDEN-8,general,Bridget Burkhardt,Democratic,2182,97.3,True,False
+2024,Vermont,VT,State House,CHITTENDEN-9,general,Emilie Krasnow,Democratic,1924,97.5,True,True
+2024,Vermont,VT,State House,CHITTENDEN-10,general,Kate Nugent,Democratic,1971,96.5,True,True
+2024,Vermont,VT,State House,CHITTENDEN-11,general,Brian Minier,Democratic,1693,98.0,True,True
+2024,Vermont,VT,State House,CHITTENDEN-12,general,Martin LaLonde,Democratic,2402,97.9,True,True
+2024,Vermont,VT,State House,CHITTENDEN-13,general,Tiff Bluemle,Democratic,3801,53.1,True,True
+2024,Vermont,VT,State House,CHITTENDEN-13,general,Bram Kleppner,Democratic,3296,46.0,True,False
+2024,Vermont,VT,State House,CHITTENDEN-14,general,Mary-Katherine Stone,Democratic,1137,50.4,True,True
+2024,Vermont,VT,State House,CHITTENDEN-14,general,Barbara Rachelson,Democratic/progressive,1104,49.0,True,True
+2024,Vermont,VT,State House,CHITTENDEN-15,general,Brian Cina,Progressive/democratic,2124,52.1,True,True
+2024,Vermont,VT,State House,CHITTENDEN-15,general,Troy Headrick,Progressive/democratic,1898,46.6,True,True
+2024,Vermont,VT,State House,CHITTENDEN-16,general,Jill Krowinski,Democratic,2457,54.6,True,True
+2024,Vermont,VT,State House,CHITTENDEN-16,general,Kate Logan,Progressive/democratic,2009,44.6,True,True
+2024,Vermont,VT,State House,CHITTENDEN-17,general,Abbey Duke,Democratic,1542,61.8,True,False
+2024,Vermont,VT,State House,CHITTENDEN-17,general,Missa Aloisi,Progressive,935,37.4,False,False
+2024,Vermont,VT,State House,CHITTENDEN-18,general,Carol Ode,Democratic,3264,50.4,True,True
+2024,Vermont,VT,State House,CHITTENDEN-18,general,Robert Hooper,Democratic,3091,47.7,True,True
+2024,Vermont,VT,State House,CHITTENDEN-19,general,Wendy Critchlow,Democratic,2682,31.5,True,False
+2024,Vermont,VT,State House,CHITTENDEN-19,general,Sarita Austin,Democratic,2458,28.9,True,True
+2024,Vermont,VT,State House,CHITTENDEN-19,general,Leland Gazo,Republican,2408,28.3,False,False
+2024,Vermont,VT,State House,CHITTENDEN-19,general,Spencer Sherman,Republican/libertarian,934,11.0,False,False
+2024,Vermont,VT,State House,CHITTENDEN-20,general,Doug Bishop,Democratic,2233,32.5,True,False
+2024,Vermont,VT,State House,CHITTENDEN-20,general,Gayle Pezzo,Democratic,1742,25.4,True,False
+2024,Vermont,VT,State House,CHITTENDEN-20,general,Doug Wood,Republican,1690,24.6,False,False
+2024,Vermont,VT,State House,CHITTENDEN-20,general,Joshua Cropp,Republican,1184,17.2,False,False
+2024,Vermont,VT,State House,CHITTENDEN-21,general,Daisy Berbeco,Democratic,2554,53.1,True,True
+2024,Vermont,VT,State House,CHITTENDEN-21,general,Chloe Tomlinson,Progressive/democratic,2183,45.3,True,False
+2024,Vermont,VT,State House,CHITTENDEN-22,general,Lori Houghton,Democratic,3631,49.6,True,True
+2024,Vermont,VT,State House,CHITTENDEN-22,general,Karen Dolan,Democratic,3500,47.8,True,True
+2024,Vermont,VT,State House,CHITTENDEN-23,general,Leonora Dodge,Democratic,2816,38.5,True,True
+2024,Vermont,VT,State House,CHITTENDEN-23,general,Rey Garofano,Democratic,2395,32.8,True,True
+2024,Vermont,VT,State House,CHITTENDEN-23,general,Lynn Smith,Republican,2093,28.6,False,False
+2024,Vermont,VT,State House,CHITTENDEN-24,general,Alyssa Black,Democratic,1531,57.7,True,True
+2024,Vermont,VT,State House,CHITTENDEN-24,general,Ron Lawrence,Republican,1122,42.3,False,False
+2024,Vermont,VT,State House,CHITTENDEN-25,general,Brenda Steady,Republican,1437,52.4,True,False
+2024,Vermont,VT,State House,CHITTENDEN-25,general,Julia Andrews,Democratic,1296,47.3,False,True
+2024,Vermont,VT,State House,CHITTENDEN-FRANKLIN,general,Chris Taylor,Republican,2655,35.2,True,True
+2024,Vermont,VT,State House,CHITTENDEN-FRANKLIN,general,Tony Micklus,Republican,1973,26.1,True,False
+2024,Vermont,VT,State House,CHITTENDEN-FRANKLIN,general,Lonnie Poland,Democratic,1775,23.5,False,False
+2024,Vermont,VT,State House,CHITTENDEN-FRANKLIN,general,Henry Bonges III,Democratic,1126,14.9,False,False
+2024,Vermont,VT,State House,ESSEX-CALEDONIA,general,John Kascenska II,Republican,1936,97.5,True,False
+2024,Vermont,VT,State House,ESSEX-ORLEANS,general,Larry Labor,Republican,2164,96.7,True,True
+2024,Vermont,VT,State House,FRANKLIN-1,general,Carolyn Branagan,Republican/democratic,3997,49.7,True,True
+2024,Vermont,VT,State House,FRANKLIN-1,general,Ashley Bartley,Republican/democratic,3954,49.2,True,True
+2024,Vermont,VT,State House,FRANKLIN-2,general,Lynn Dickinson,Republican/democratic,2028,96.1,True,True
+2024,Vermont,VT,State House,FRANKLIN-3,general,Joe Luneau,Republican,1125,53.9,True,False
+2024,Vermont,VT,State House,FRANKLIN-3,general,Mike McCarthy,Democratic,955,45.7,False,True
+2024,Vermont,VT,State House,FRANKLIN-4,general,Matthew Walker,Republican/democratic,3206,50.8,True,True
+2024,Vermont,VT,State House,FRANKLIN-4,general,Tom Oliver Jr.,Republican/democratic,3049,48.3,True,True
+2024,Vermont,VT,State House,FRANKLIN-5,general,Wayne Laroche,Republican/democratic,3190,50.3,True,True
+2024,Vermont,VT,State House,FRANKLIN-5,general,Lisa Hango,Republican/democratic,3082,48.6,True,True
+2024,Vermont,VT,State House,FRANKLIN-6,general,James Gregoire,Republican/democratic,2334,96.6,True,True
+2024,Vermont,VT,State House,FRANKLIN-7,general,Penny Demar,Republican,1389,66.6,True,True
+2024,Vermont,VT,State House,FRANKLIN-7,general,Heather Moore,Progressive/democratic,692,33.2,False,False
+2024,Vermont,VT,State House,FRANKLIN-8,general,Casey Toof,Republican,1416,62.9,True,True
+2024,Vermont,VT,State House,FRANKLIN-8,general,Zach Scheffler,Democratic,825,36.6,False,False
+2024,Vermont,VT,State House,GRAND ISLE-CHITTENDEN,general,Michael Morgan,Republican,3211,30.6,True,True
+2024,Vermont,VT,State House,GRAND ISLE-CHITTENDEN,general,Leland Morgan,Republican,3175,30.2,True,False
+2024,Vermont,VT,State House,GRAND ISLE-CHITTENDEN,general,Josie Leavitt,Democratic,2368,22.6,False,True
+2024,Vermont,VT,State House,GRAND ISLE-CHITTENDEN,general,Luke Richter,Democratic,1719,16.4,False,False
+2024,Vermont,VT,State House,LAMOILLE-1,general,Jed Lipsky,Independent,2345,98.6,True,True
+2024,Vermont,VT,State House,LAMOILLE-2,general,Daniel Noyes,Democratic,2141,28.4,True,True
+2024,Vermont,VT,State House,LAMOILLE-2,general,Richard Bailey,Republican,2055,27.3,True,False
+2024,Vermont,VT,State House,LAMOILLE-2,general,Mac Teale,Republican,1671,22.2,False,False
+2024,Vermont,VT,State House,LAMOILLE-2,general,Jim Ryan,Democratic,1658,22.0,False,False
+2024,Vermont,VT,State House,LAMOILLE-3,general,Lucy Boyden,Democratic,1412,54.2,True,True
+2024,Vermont,VT,State House,LAMOILLE-3,general,Paul Sciortino,Republican,1188,45.6,False,False
+2024,Vermont,VT,State House,LAMOILLE-WASHINGTON,general,David Yacovone,Democratic,3098,34.2,True,False
+2024,Vermont,VT,State House,LAMOILLE-WASHINGTON,general,Saudia LaMont,Democratic,2412,26.6,True,True
+2024,Vermont,VT,State House,LAMOILLE-WASHINGTON,general,Charles Burnham,Republican,1873,20.7,False,False
+2024,Vermont,VT,State House,LAMOILLE-WASHINGTON,general,Nick Lopez,Republican,1670,18.4,False,False
+2024,Vermont,VT,State House,ORANGE-1,general,Michael Tagliavia,Republican,1363,53.4,True,False
+2024,Vermont,VT,State House,ORANGE-1,general,Carl Demrow,Democratic,1188,46.5,False,True
+2024,Vermont,VT,State House,ORANGE-2,general,Monique Priestly,Democratic,1314,53.4,True,True
+2024,Vermont,VT,State House,ORANGE-2,general,Zachary Lang,Republican,1138,46.3,False,False
+2024,Vermont,VT,State House,ORANGE-3,general,Joshua Dobrovich,Republican,1839,96.6,True,False
+2024,Vermont,VT,State House,ORANGE-CALEDONIA,general,Joe Parsons,Republican,1530,62.7,True,True
+2024,Vermont,VT,State House,ORANGE-CALEDONIA,general,James Merriam,Democratic,909,37.2,False,False
+2024,Vermont,VT,State House,ORANGE-WASHINGTON-ADDISON,general,Jay Hooper,Democratic,2885,34.1,True,True
+2024,Vermont,VT,State House,ORANGE-WASHINGTON-ADDISON,general,Larry Satcowitz,Democratic,2089,24.7,True,True
+2024,Vermont,VT,State House,ORANGE-WASHINGTON-ADDISON,general,Wayne Townsend,Republican,1955,23.1,False,False
+2024,Vermont,VT,State House,ORANGE-WASHINGTON-ADDISON,general,Rob Sikora,Republican,1516,17.9,False,False
+2024,Vermont,VT,State House,ORLEANS-1,general,Richard Nelson,Republican,2257,98.3,True,False
+2024,Vermont,VT,State House,ORLEANS-2,general,Woody Page,Republican,1478,97.3,True,True
+2024,Vermont,VT,State House,ORLEANS-3,general,Ken Wells,Republican,1565,95.1,True,False
+2024,Vermont,VT,State House,ORLEANS-4,general,Leanne Harple,Democratic,1284,52.1,True,False
+2024,Vermont,VT,State House,ORLEANS-4,general,Tony Daniels,Republican,1164,47.2,False,False
+2024,Vermont,VT,State House,ORLEANS-LAMOILLE,general,Mark Higley,Republican,3169,51.3,True,True
+2024,Vermont,VT,State House,ORLEANS-LAMOILLE,general,Michael Marcotte,Republican,2929,47.4,True,True
+2024,Vermont,VT,State House,RUTLAND-1,general,Patricia McCoy,Republican,1955,97.5,True,True
+2024,Vermont,VT,State House,RUTLAND-2,general,Tom Burditt,Republican,3014,37.0,True,True
+2024,Vermont,VT,State House,RUTLAND-2,general,Dave Bosch,Republican,2836,34.9,True,False
+2024,Vermont,VT,State House,RUTLAND-2,general,Dave Potter,Democratic,2234,27.5,False,False
+2024,Vermont,VT,State House,RUTLAND-3,general,Chris Brown,Republican,1727,97.0,True,False
+2024,Vermont,VT,State House,RUTLAND-4,general,Christopher Howland,Republican,1458,55.8,True,False
+2024,Vermont,VT,State House,RUTLAND-4,general,Anna Tadio,Democratic,1148,44.0,False,False
+2024,Vermont,VT,State House,RUTLAND-5,general,Eric Maguire,Republican,1754,96.6,True,True
+2024,Vermont,VT,State House,RUTLAND-6,general,Mary Howard,Democratic,849,51.1,True,True
+2024,Vermont,VT,State House,RUTLAND-6,general,Cindy Laskevich,Republican,802,48.3,False,False
+2024,Vermont,VT,State House,RUTLAND-7,general,Chris Keyser,Republican,1157,57.9,True,False
+2024,Vermont,VT,State House,RUTLAND-7,general,William Notte,Democratic,837,41.9,False,True
+2024,Vermont,VT,State House,RUTLAND-8,general,Alicia Malay,Republican/democratic,2263,97.8,True,False
+2024,Vermont,VT,State House,RUTLAND-9,general,Todd Nielsen,Republican,1260,54.4,True,False
+2024,Vermont,VT,State House,RUTLAND-9,general,Stephanie Jerome,Democratic,1056,45.6,False,True
+2024,Vermont,VT,State House,RUTLAND-10,general,Bill Canfield,Republican,1814,98.6,True,True
+2024,Vermont,VT,State House,RUTLAND-11,general,Jim Harrison,Republican,2175,98.2,True,True
+2024,Vermont,VT,State House,RUTLAND-BENNINGTON,general,Chris Pritchard,Republican,1450,55.8,True,False
+2024,Vermont,VT,State House,RUTLAND-BENNINGTON,general,Robin Chesnut-Tangerman,Democratic,1135,43.7,False,True
+2024,Vermont,VT,State House,RUTLAND-WINDSOR,general,Kevin Winter,Republican,1572,57.5,True,False
+2024,Vermont,VT,State House,RUTLAND-WINDSOR,general,Adrienne Raymond,Democratic,1153,42.2,False,False
+2024,Vermont,VT,State House,WASHINGTON-1,general,Anne Donahue,Independent,2421,34.1,True,True
+2024,Vermont,VT,State House,WASHINGTON-1,general,Kenneth Goslant,Republican,2344,33.0,True,True
+2024,Vermont,VT,State House,WASHINGTON-1,general,Lucas Herring,Democratic,1173,16.5,False,False
+2024,Vermont,VT,State House,WASHINGTON-1,general,Dave Rapacz,Democratic,1137,16.0,False,False
+2024,Vermont,VT,State House,WASHINGTON-2,general,Candice White,Democratic,3164,34.8,True,False
+2024,Vermont,VT,State House,WASHINGTON-2,general,Dara Torre,Democratic,2644,29.1,True,True
+2024,Vermont,VT,State House,WASHINGTON-2,general,John Burns,Independent,2201,24.2,False,False
+2024,Vermont,VT,State House,WASHINGTON-2,general,Eugene Bifano,Common Sense,1039,11.4,False,False
+2024,Vermont,VT,State House,WASHINGTON-3,general,Michael Boutin,Republican,1857,30.7,True,False
+2024,Vermont,VT,State House,WASHINGTON-3,general,Teddy Waszazak,Democratic,1422,23.5,True,False
+2024,Vermont,VT,State House,WASHINGTON-3,general,Jonathan Williams,Democratic,1384,22.9,False,True
+2024,Vermont,VT,State House,WASHINGTON-3,general,Carol Dawes,Independent,1363,22.5,False,False
+2024,Vermont,VT,State House,WASHINGTON-4,general,Kate McCann,Democratic/progressive,3834,49.5,True,True
+2024,Vermont,VT,State House,WASHINGTON-4,general,Conor Casey,Democratic/progressive,3789,48.9,True,True
+2024,Vermont,VT,State House,WASHINGTON-5,general,Ela Chapin,Democratic,2268,96.6,True,True
+2024,Vermont,VT,State House,WASHINGTON-6,general,Marc Mihaly,Democratic,2101,93.9,True,True
+2024,Vermont,VT,State House,WASHINGTON-CHITTENDEN,general,Theresa Wood,Democratic,3369,34.8,True,True
+2024,Vermont,VT,State House,WASHINGTON-CHITTENDEN,general,Thomas Stevens,Democratic,2825,29.1,True,True
+2024,Vermont,VT,State House,WASHINGTON-CHITTENDEN,general,Jonathan Griffin,Republican,2093,21.6,False,False
+2024,Vermont,VT,State House,WASHINGTON-CHITTENDEN,general,James Haddad,Independent,1349,13.9,False,False
+2024,Vermont,VT,State House,WASHINGTON-ORANGE,general,Gina Galfetti,Republican,3271,40.9,True,True
+2024,Vermont,VT,State House,WASHINGTON-ORANGE,general,Topper McFaun,Republican/democratic,2911,36.4,True,True
+2024,Vermont,VT,State House,WASHINGTON-ORANGE,general,Melissa Battah,Democratic,1781,22.3,False,False
+2024,Vermont,VT,State House,WINDHAM-1,general,Zon Eastes,Democratic,1468,57.0,True,False
+2024,Vermont,VT,State House,WINDHAM-1,general,Nancy Gassett,Republican,1092,42.4,False,False
+2024,Vermont,VT,State House,WINDHAM-2,general,Laura Sibilia,Independent,1580,93.2,True,True
+2024,Vermont,VT,State House,WINDHAM-3,general,Leslie Goldman,Democratic,2312,29.9,True,True
+2024,Vermont,VT,State House,WINDHAM-3,general,Michelle Bos-Lun,Democratic,2271,29.4,True,True
+2024,Vermont,VT,State House,WINDHAM-3,general,Casey Cota,Independent,2004,25.9,False,False
+2024,Vermont,VT,State House,WINDHAM-3,general,Ryan Coyne,Republican,1128,14.6,False,False
+2024,Vermont,VT,State House,WINDHAM-4,general,Mike Mrowicki,Democratic/progressive,1958,73.0,True,True
+2024,Vermont,VT,State House,WINDHAM-4,general,Lynne Wilkins,Republican,719,26.8,False,False
+2024,Vermont,VT,State House,WINDHAM-5,general,Emily Long,Democratic,1944,95.2,True,True
+2024,Vermont,VT,State House,WINDHAM-6,general,Emily Carris-Duncan,Democratic,1316,55.3,True,False
+2024,Vermont,VT,State House,WINDHAM-6,general,Pam Baker,Republican,1062,44.6,False,False
+2024,Vermont,VT,State House,WINDHAM-7,general,Emilie Kornheiser,Democratic,1363,66.9,True,True
+2024,Vermont,VT,State House,WINDHAM-7,general,Susan Murray,Republican,646,31.7,False,False
+2024,Vermont,VT,State House,WINDHAM-8,general,Mollie Burke,Democratic,1566,79.9,True,True
+2024,Vermont,VT,State House,WINDHAM-8,general,Bill Harvey,Republican,323,16.5,False,False
+2024,Vermont,VT,State House,WINDHAM-8,general,Ken Fay,Independent,69,3.5,False,False
+2024,Vermont,VT,State House,WINDHAM-9,general,Ian Goodnow,Democratic,1882,97.5,True,False
+2024,Vermont,VT,State House,WINDHAM-WINDSOR-BENNINGTON,general,Chris Morrow,Democratic,1585,62.8,True,False
+2024,Vermont,VT,State House,WINDHAM-WINDSOR-BENNINGTON,general,Jan Payne,Republican,936,37.1,False,False
+2024,Vermont,VT,State House,WINDSOR-1,general,John Bartholomew,Democratic,3174,49.0,True,True
+2024,Vermont,VT,State House,WINDSOR-1,general,Elizabeth Burrows,Democratic,2993,46.2,True,True
+2024,Vermont,VT,State House,WINDSOR-2,general,VL Coffin,Republican,1417,52.6,True,False
+2024,Vermont,VT,State House,WINDSOR-2,general,Mark Yuengling,Democratic,1273,47.3,False,False
+2024,Vermont,VT,State House,WINDSOR-3,general,Kristi Morris,Democratic,2062,25.6,True,True
+2024,Vermont,VT,State House,WINDSOR-3,general,Alice Emmons,Democratic,2047,25.4,True,True
+2024,Vermont,VT,State House,WINDSOR-3,general,Keith Stern,Republican,2025,25.2,False,False
+2024,Vermont,VT,State House,WINDSOR-3,general,Judith Stern,Republican,1891,23.5,False,False
+2024,Vermont,VT,State House,WINDSOR-4,general,Heather Surprenant,Democratic,2050,95.6,True,True
+2024,Vermont,VT,State House,WINDSOR-5,general,Charlie Kimbell,Democratic,2102,74.5,True,False
+2024,Vermont,VT,State House,WINDSOR-5,general,Steve Radonis,Republican,701,24.8,False,False
+2024,Vermont,VT,State House,WINDSOR-6,general,Esme Cole,Democratic/progressive,2997,38.7,True,True
+2024,Vermont,VT,State House,WINDSOR-6,general,Coach Christie,Democratic,2649,34.2,True,True
+2024,Vermont,VT,State House,WINDSOR-6,general,Joe Trottier,Republican,2025,26.1,False,False
+2024,Vermont,VT,State House,WINDSOR-ADDISON,general,John O'Brien,Democratic,1202,50.8,True,True
+2024,Vermont,VT,State House,WINDSOR-ADDISON,general,Bruce Post,Republican,1146,48.5,False,False
+2024,Vermont,VT,State House,WINDSOR-ADDISON,general,Rebecca Holcombe,Democratic,4348,39.4,True,True
+2024,Vermont,VT,State House,WINDSOR-ADDISON,general,Jim Masland,Democratic,4089,37.1,True,True
+2024,Vermont,VT,State House,WINDSOR-ADDISON,general,Kevin Blakeman,Republican,1342,12.2,False,False
+2024,Vermont,VT,State House,WINDSOR-ADDISON,general,Lisa Flanders,Republican,1214,11.0,False,False
+2024,Vermont,VT,State House,WINDSOR-WINDHAM,general,Thomas Charlton,Republican,1345,50.7,True,False
+2024,Vermont,VT,State House,WINDSOR-WINDHAM,general,Heather Chase,Democratic,1302,49.1,False,True
+2024,Washington,WA,State House,POSITION 1,general,Davina Duerr,Democratic,55168.0,69.2,True,True
+2024,Washington,WA,State House,POSITION 1,general,Mark Davies,Republican,24467.0,30.7,False,False
+2024,Washington,WA,State House,POSITION 2,general,Shelley Kloba,Democratic,59587.0,96.2,True,True
+2024,Washington,WA,State House,POSITION 1,general,Andrew Barkis,Republican,59179.0,95.2,True,True
+2024,Washington,WA,State House,POSITION 2,general,Matt Marshall,Republican,37267.0,55.4,True,False
+2024,Washington,WA,State House,POSITION 2,general,John Snaza,Republican,27928.0,41.5,False,False
+2024,Washington,WA,State House,POSITION 1,general,Natasha Hill,Democratic,43735.0,58.6,True,False
+2024,Washington,WA,State House,POSITION 1,general,Tony Kiepe,Republican,30658.0,41.1,False,False
+2024,Washington,WA,State House,POSITION 2,general,Timm Ormsby,Democratic,53667.0,92.8,True,True
+2024,Washington,WA,State House,POSITION 1,general,Suzanne Schmidt,Republican,54792.0,68.4,True,True
+2024,Washington,WA,State House,POSITION 1,general,Kristopher Pockell,No party preference,24817.0,31.0,False,False
+2024,Washington,WA,State House,POSITION 2,general,Rob Chase,Republican,52902.0,63.5,True,False
+2024,Washington,WA,State House,POSITION 2,general,Ted Cummings,Democratic,30208.0,36.3,False,False
+2024,Washington,WA,State House,POSITION 1,general,Victoria Hunt,Democratic,45999.0,54.05,True,False
+2024,Washington,WA,State House,POSITION 1,general,Mark Hargrove,Republican,39039.0,45.9,False,False
+2024,Washington,WA,State House,POSITION 2,general,Lisa Callan,Democratic,47392.0,55.8,True,True
+2024,Washington,WA,State House,POSITION 2,general,Patrick Peacock,Republican,37474.0,44.1,False,False
+2024,Washington,WA,State House,POSITION 1,general,Mike Volz,Republican,47492.0,62.3,True,True
+2024,Washington,WA,State House,POSITION 1,general,Steven McCray II,Democratic,28657.0,37.6,False,False
+2024,Washington,WA,State House,POSITION 2,general,Jenny Graham,Republican,45958.0,60.3,True,True
+2024,Washington,WA,State House,POSITION 2,general,Michaela Kelso,Democratic,30093.0,39.5,False,False
+2024,Washington,WA,State House,POSITION 1,general,Andrew Engell,Republican,48785.0,63.4,True,False
+2024,Washington,WA,State House,POSITION 1,general,Soo Ing-Moody,Republican,27496.0,35.7,False,False
+2024,Washington,WA,State House,POSITION 2,general,Hunter Abell,Republican,58071.0,70.7,True,False
+2024,Washington,WA,State House,POSITION 2,general,"Paul ""Rocky"" Dean",Democratic,23929.0,29.1,False,False
+2024,Washington,WA,State House,POSITION 1,general,Stephanie Barnard,Republican,58288.0,97.5,True,True
+2024,Washington,WA,State House,POSITION 2,general,April Connors,Republican,51164.0,70.4,True,True
+2024,Washington,WA,State House,POSITION 2,general,John Christenson,Democratic,21360.0,29.4,False,False
+2024,Washington,WA,State House,POSITION 1,general,Mary Dye,Republican,50468.0,64.9,True,True
+2024,Washington,WA,State House,POSITION 1,general,Patrick Miller,Democratic,27092.0,34.8,False,False
+2024,Washington,WA,State House,POSITION 2,general,Joe Schmick,Republican,50211.0,63.9,True,True
+2024,Washington,WA,State House,POSITION 2,general,Pam Kohlmeier,Democratic,28236.0,35.9,False,False
+2024,Washington,WA,State House,POSITION 1,general,Clyde Shavers,Democratic,47473.0,53.2,True,True
+2024,Washington,WA,State House,POSITION 1,general,Carrie R. Kennedy,Republican,41578.0,46.6,False,False
+2024,Washington,WA,State House,POSITION 2,general,Dave Paul,Democratic,47826.0,53.7,True,True
+2024,Washington,WA,State House,POSITION 2,general,Gary Wray,Republican,41137.0,46.2,False,False
+2024,Washington,WA,State House,POSITION 1,general,David Hackney,Democratic,46438.0,95.9,True,True
+2024,Washington,WA,State House,POSITION 2,general,Steve Bergquist,Democratic,43389.0,76.9,True,True
+2024,Washington,WA,State House,POSITION 2,general,Justin Greywolf,Libertarian,12508.0,22.2,False,False
+2024,Washington,WA,State House,POSITION 1,general,Brian Burnett,Republican,44318.0,53.3,True,False
+2024,Washington,WA,State House,POSITION 1,general,Heather Koellen,Democratic,38800.0,46.6,False,False
+2024,Washington,WA,State House,POSITION 2,general,Mike Steele,Republican,44400.0,61.7,True,True
+2024,Washington,WA,State House,POSITION 2,general,Daniel Scott,Republican,25741.0,35.8,False,False
+2024,Washington,WA,State House,POSITION 1,general,Tom Dent,Republican,51493.0,97.3,True,True
+2024,Washington,WA,State House,POSITION 2,general,Alex Ybarra,Republican,51012.0,97.7,True,True
+2024,Washington,WA,State House,POSITION 1,general,Gloria Mendoza,Republican,18263.0,53.9,True,False
+2024,Washington,WA,State House,POSITION 1,general,Chelsea Dimas,Democratic,15418.0,45.5,False,False
+2024,Washington,WA,State House,POSITION 2,general,Deb Manjarrez,Republican,17188.0,50.7,True,False
+2024,Washington,WA,State House,POSITION 2,general,Ana Ruiz Kennedy,Democratic,,49.0,False,False
+2024,Washington,WA,State House,POSITION 1,general,Chris Corry,Republican,46438.0,70.7,True,True
+2024,Washington,WA,State House,POSITION 1,general,Chase Foster,No party preference,18736.0,28.5,False,False
+2024,Washington,WA,State House,POSITION 2,general,Jeremie Dufault,Republican,44514.0,70.7,True,True
+2024,Washington,WA,State House,POSITION 2,general,Rich Bright,Republican,17035.0,27.1,False,False
+2024,Washington,WA,State House,POSITION 1,general,Mark Klicker,Republican,45890.0,64.5,True,True
+2024,Washington,WA,State House,POSITION 1,general,Linda Gunshefski,Democratic,25232.0,35.5,False,False
+2024,Washington,WA,State House,POSITION 2,general,Skyler Rude,Republican,46596.0,65.8,True,True
+2024,Washington,WA,State House,POSITION 2,general,Craig R. Woodard,Democratic,24145.0,34.1,False,False
+2024,Washington,WA,State House,POSITION 1,general,Kevin Waters,Republican,55952.0,93.26,True,True
+2024,Washington,WA,State House,POSITION 2,general,David Stuebe,Republican,43022.0,50.4,True,False
+2024,Washington,WA,State House,POSITION 2,general,Terri Niles,Democratic,42195.0,49.4,False,False
+2024,Washington,WA,State House,POSITION 1,general,Stephanie McClintock,Republican,46622.0,55.7,True,True
+2024,Washington,WA,State House,POSITION 1,general,Deken Letinich,Democratic,37053.0,44.2,False,False
+2024,Washington,WA,State House,POSITION 2,general,John Ley,Republican,42603.0,50.9,True,False
+2024,Washington,WA,State House,POSITION 2,general,John Zingale,Democratic,40995.0,49.0,False,False
+2024,Washington,WA,State House,POSITION 1,general,Jim Walsh,Republican,48544.0,60.1,True,True
+2024,Washington,WA,State House,POSITION 1,general,Mike Coverdale,Democratic,32094.0,39.8,False,False
+2024,Washington,WA,State House,POSITION 2,general,Joel McEntire,Republican,49665.0,62.2,True,True
+2024,Washington,WA,State House,POSITION 2,general,Terry Carlson,Democratic,30141.0,37.7,False,False
+2024,Washington,WA,State House,POSITION 1,general,Peter Abbarno,Republican,67633.0,87.0,True,True
+2024,Washington,WA,State House,POSITION 1,general,Melvin Kaleolani Apana,Culture Republican,8295.0,10.7,False,False
+2024,Washington,WA,State House,POSITION 2,general,Ed Orcutt,Republican,66170.0,96.7,True,True
+2024,Washington,WA,State House,POSITION 1,general,Strom Peterson,Democratic,46705.0,66.7,True,True
+2024,Washington,WA,State House,POSITION 1,general,Riaz Khan,Republican,23156.0,33.1,False,False
+2024,Washington,WA,State House,POSITION 2,general,Lillian Ortiz-Self,Democratic,46422.0,67.1,True,True
+2024,Washington,WA,State House,POSITION 2,general,Kristina Mitchell,Conservative,22579.0,32.7,False,False
+2024,Washington,WA,State House,POSITION 1,general,Beth Doglio,Democratic,56646.0,69.6,True,True
+2024,Washington,WA,State House,POSITION 1,general,Steve Owens,No party preference,24229.0,29.8,False,False
+2024,Washington,WA,State House,POSITION 2,general,Lisa Parshley,Democratic,46932.0,62.4,True,False
+2024,Washington,WA,State House,POSITION 2,general,Syd Locke,Democratic,26183.0,34.8,False,False
+2024,Washington,WA,State House,POSITION 1,general,Tarra Simmons,Democratic,53928.0,62.9,True,True
+2024,Washington,WA,State House,POSITION 1,general,Kurt Robertson,Republican,31609.0,37.1,False,False
+2024,Washington,WA,State House,POSITION 2,general,Greg Nance,Democratic,56894.0,65.8,True,True
+2024,Washington,WA,State House,POSITION 2,general,Jamie Miles,Republican,29439.0,34.1,False,False
+2024,Washington,WA,State House,POSITION 1,general,Adam Bernbaum,Democratic,52001.0,54.9,True,False
+2024,Washington,WA,State House,POSITION 1,general,Matt Roberson,Republican,42555.0,44.9,False,False
+2024,Washington,WA,State House,POSITION 2,general,Steve Tharinger,Democratic,52481.0,55.3,True,True
+2024,Washington,WA,State House,POSITION 2,general,Terry Roberts,Republican,42265.0,44.6,False,False
+2024,Washington,WA,State House,POSITION 1,general,Michael Keaton,Republican,40458.0,55.9,True,False
+2024,Washington,WA,State House,POSITION 1,general,Cameron Severns,Democratic,31833.0,44.0,False,False
+2024,Washington,WA,State House,POSITION 2,general,Cyndy Jacobsen,Republican,40199.0,55.7,True,True
+2024,Washington,WA,State House,POSITION 2,general,Shellie Willis,Democratic,31888.0,44.2,False,False
+2024,Washington,WA,State House,POSITION 1,general,Adison Richards,Democratic,46833.0,51.8,True,False
+2024,Washington,WA,State House,POSITION 1,general,Jesse Young,Republican,43503.0,48.1,False,False
+2024,Washington,WA,State House,POSITION 2,general,Michelle Caldier,Republican,49086.0,54.6,True,True
+2024,Washington,WA,State House,POSITION 2,general,Tiffiny Mitchell,Democratic,40636.0,45.2,False,False
+2024,Washington,WA,State House,POSITION 1,general,Laurie Jinkins,Democratic,51628.0,71.7,True,True
+2024,Washington,WA,State House,POSITION 1,general,Ken Paulson,Republican,20301.0,28.2,False,False
+2024,Washington,WA,State House,POSITION 2,general,Jake Fey,Democratic,49311.0,75.5,True,True
+2024,Washington,WA,State House,POSITION 2,general,Devin Rydel Kelly,Democratic,14825.0,22.7,False,False
+2024,Washington,WA,State House,POSITION 1,general,Mari Leavitt,Democratic,34629.0,58.4,True,True
+2024,Washington,WA,State House,POSITION 1,general,Gabe Sachwitz,Republican,24549.0,41.4,False,False
+2024,Washington,WA,State House,POSITION 2,general,Dan Bronoske,Democratic,34129.0,57.9,True,True
+2024,Washington,WA,State House,POSITION 2,general,Mark Herr,Republican,24772.0,42.0,False,False
+2024,Washington,WA,State House,POSITION 1,general,Melanie Morgan,Democratic,31993.0,68.6,True,True
+2024,Washington,WA,State House,POSITION 1,general,Richard Miller,Democratic,13152.0,28.2,False,False
+2024,Washington,WA,State House,POSITION 2,general,Sharlett Mena,Democratic,39333.0,93.8,True,True
+2024,Washington,WA,State House,POSITION 1,general,Jamila Taylor,Democratic,30723.0,56.2,True,True
+2024,Washington,WA,State House,POSITION 1,general,Melissa Hamilton,Republican,23924.0,43.7,False,False
+2024,Washington,WA,State House,POSITION 2,general,Kristine Reeves,Democratic,32043.0,58.7,True,True
+2024,Washington,WA,State House,POSITION 2,general,Quentin Morris,Republican,22491.0,41.2,False,False
+2024,Washington,WA,State House,POSITION 1,general,Drew Stokesbary,Republican,51651.0,63.6,True,True
+2024,Washington,WA,State House,POSITION 1,general,Sara Sutterfield,Democratic,29451.0,36.3,False,False
+2024,Washington,WA,State House,POSITION 2,general,Josh Penner,Republican,49335.0,61.1,True,False
+2024,Washington,WA,State House,POSITION 2,general,Brian Gunn,Democratic,31338.0,38.8,False,False
+2024,Washington,WA,State House,POSITION 1,general,Cindy Ryu,Democratic,58021.0,74.2,True,True
+2024,Washington,WA,State House,POSITION 1,general,Lisa Rezac,Republican,20084.0,25.7,False,False
+2024,Washington,WA,State House,POSITION 2,general,Lauren Davis,Democratic,58169.0,74.6,True,True
+2024,Washington,WA,State House,POSITION 2,general,Lori Theis,Republican,19661.0,25.2,False,False
+2024,Washington,WA,State House,POSITION 1,general,Tina Orwall,Democratic,38898.0,69.0,True,True
+2024,Washington,WA,State House,POSITION 1,general,George Richter,Republican,17423.0,30.9,False,False
+2024,Washington,WA,State House,POSITION 2,general,Mia Su-Ling Gregerson,Democratic,38152.0,70.8,True,True
+2024,Washington,WA,State House,POSITION 2,general,Casey Esmond,No party preference,15454.0,28.7,False,False
+2024,Washington,WA,State House,POSITION 1,general,Emily Alvarado,Democratic,70218.0,84.9,True,True
+2024,Washington,WA,State House,POSITION 1,general,Kimberly M. Cloud,Republican,12362.0,14.9,False,False
+2024,Washington,WA,State House,POSITION 2,general,Joe Fitzgibbon,Democratic,69340.0,83.7,True,True
+2024,Washington,WA,State House,POSITION 2,general,Jolie Lansdowne,Republican,13446.0,16.2,False,False
+2024,Washington,WA,State House,POSITION 1,general,Dan Griffey,Republican,65027.0,94.8,True,True
+2024,Washington,WA,State House,POSITION 2,general,Travis Couture,Republican,51999.0,58.6,True,True
+2024,Washington,WA,State House,POSITION 2,general,James DeHart,Democratic,36664.0,41.3,False,False
+2024,Washington,WA,State House,POSITION 1,general,Julia Reed,Democratic,77616.0,98.5,True,True
+2024,Washington,WA,State House,POSITION 2,general,Liz Berry,Democratic,82201.0,88.8,True,True
+2024,Washington,WA,State House,POSITION 2,general,Victoria Palmer,Republican,10277.0,11.1,False,False
+2024,Washington,WA,State House,POSITION 1,general,Sharon Tomiko Santos,Democratic,63074.0,98.3,True,True
+2024,Washington,WA,State House,POSITION 2,general,Chipalo Street,Democratic,65363.0,91.0,True,True
+2024,Washington,WA,State House,POSITION 2,general,Matt McCally,Libertarian,6115.0,8.5,False,False
+2024,Washington,WA,State House,POSITION 1,general,Julio Cortes,Democratic,41335.0,71.1,True,True
+2024,Washington,WA,State House,POSITION 1,general,Annie Fitzgerald,Democratic,14810.0,25.5,False,False
+2024,Washington,WA,State House,POSITION 2,general,Mary Fosse,Democratic,39209.0,59.5,True,True
+2024,Washington,WA,State House,POSITION 2,general,Marnie Claywell,Republican,26627.0,40.4,False,False
+2024,Washington,WA,State House,POSITION 1,general,Sam Low,Republican,44515.0,58.9,True,True
+2024,Washington,WA,State House,POSITION 1,general,Robert Sutherland,Republican,29909.0,39.6,False,False
+2024,Washington,WA,State House,POSITION 2,general,Carolyn Eslick,Republican,45612.0,62.6,True,True
+2024,Washington,WA,State House,POSITION 2,general,Jackie Huey,Republican,25802.0,35.4,False,False
+2024,Washington,WA,State House,POSITION 1,general,Debra Lekanoff,Democratic,63993.0,96.2,True,True
+2024,Washington,WA,State House,POSITION 2,general,Alex Ramel,Democratic,63215.0,95.7,True,True
+2024,Washington,WA,State House,POSITION 1,general,Tana Senn,Democratic,50823.0,67.5,True,True
+2024,Washington,WA,State House,POSITION 1,general,Emily Tadlock,Republican,24305.0,32.3,False,False
+2024,Washington,WA,State House,POSITION 2,general,My-Linh Thai,Democratic,49577.0,65.7,True,True
+2024,Washington,WA,State House,POSITION 2,general,Al Rosenthal,Republican,25821.0,34.2,False,False
+2024,Washington,WA,State House,POSITION 1,general,Alicia Rule,Democratic,49802.0,55.4,True,True
+2024,Washington,WA,State House,POSITION 1,general,Raymond Pelletti,Republican,40090.0,44.6,False,False
+2024,Washington,WA,State House,POSITION 2,general,Joe Timmons,Democratic,47947.0,53.3,True,True
+2024,Washington,WA,State House,POSITION 2,general,Kamal Bhachu,Republican,41894.0,46.6,False,False
+2024,Washington,WA,State House,POSITION 1,general,Nicole Macri,Democratic,65596.0,98.5,True,True
+2024,Washington,WA,State House,POSITION 2,general,Shaun Scott,Democratic,49990.0,68.4,True,False
+2024,Washington,WA,State House,POSITION 2,general,Andrea Suarez,Democratic,22506.0,30.8,False,False
+2024,Washington,WA,State House,POSITION 1,general,Brandy Donaghy,Democratic,51557.0,93.6,True,True
+2024,Washington,WA,State House,POSITION 2,general,April Berg,Democratic,43155.0,57.6,True,True
+2024,Washington,WA,State House,POSITION 2,general,Sam Sim,Republican,31714.0,42.3,False,False
+2024,Washington,WA,State House,POSITION 1,general,Roger Goodman,Democratic,58368.0,96.0,True,True
+2024,Washington,WA,State House,POSITION 2,general,Larry Springer,Democratic,38347.0,55.6,True,True
+2024,Washington,WA,State House,POSITION 2,general,Melissa Demyan,Democratic,29191.0,42.3,False,False
+2024,Washington,WA,State House,POSITION 1,general,Gerry Pollet,Democratic,72727.0,87.4,True,True
+2024,Washington,WA,State House,POSITION 1,general,Beth Daranciang,Republican,10353.0,12.4,False,False
+2024,Washington,WA,State House,POSITION 2,general,Darya Farivar,Democratic,70952.0,86.5,True,True
+2024,Washington,WA,State House,POSITION 2,general,Simone Barron,Republican,10832.0,13.2,False,False
+2024,Washington,WA,State House,POSITION 1,general,Debra Entenman,Democratic,35528.0,56.3,True,True
+2024,Washington,WA,State House,POSITION 1,general,Kyle Lyebyedyev,Republican,27513.0,43.6,False,False
+2024,Washington,WA,State House,POSITION 2,general,Chris Stearns,Democratic,35085.0,55.6,True,True
+2024,Washington,WA,State House,POSITION 2,general,Ted Cooke,Republican,27870.0,44.2,False,False
+2024,Washington,WA,State House,POSITION 1,general,Vandana Slatter,Democratic,39645.0,68.3,True,True
+2024,Washington,WA,State House,POSITION 1,general,Lynn Trinh,Republican,18330.0,31.6,False,False
+2024,Washington,WA,State House,POSITION 2,general,Amy Walen,Democratic,43664.0,95.7,True,True
+2024,Washington,WA,State House,POSITION 1,general,Sharon Wylie,Democratic,43234.0,63.5,True,True
+2024,Washington,WA,State House,POSITION 1,general,Brett Graham,Republican,24741.0,36.3,False,False
+2024,Washington,WA,State House,POSITION 2,general,Monica Stonier,Democratic,42950.0,63.1,True,True
+2024,Washington,WA,State House,POSITION 2,general,Russell Barber,Republican,24997.0,36.7,False,False
 2024,West Virginia,WV,State House,1,general,Pat McGeehan,Republican,7689.0,100.0,True,True
 2024,West Virginia,WV,State House,2,general,Mark Zatezalo,Republican,5206.0,68.25,True,True
 2024,West Virginia,WV,State House,2,general,Olivia Dowler,Democratic,2422.0,31.75,False,False

@@ -1,0 +1,358 @@
+year,state,state_code,chamber,district,race,candidate,party,votes,percentage,winner,incumbent
+2025,New Jersey,NJ,State House,1,general,Erik Simonsen,Republican,41848,27.6,True,True
+2025,New Jersey,NJ,State House,1,general,Antwan McClellan,Republican,41572,27.4,True,True
+2025,New Jersey,NJ,State House,1,general,Carolyn Rush,Democratic,34237,22.6,False,False
+2025,New Jersey,NJ,State House,1,general,Carol Sabo,Democratic,33878,22.4,False,False
+2025,New Jersey,NJ,State House,2,general,Don Guardian,Republican,39913,25.4,True,True
+2025,New Jersey,NJ,State House,2,general,Maureen Rowan,Democratic,39484,25.1,True,False
+2025,New Jersey,NJ,State House,2,general,Joanne Famularo,Democratic,39291,25.0,False,False
+2025,New Jersey,NJ,State House,2,general,Claire Swift,Republican,38610,24.6,False,True
+2025,New Jersey,NJ,State House,3,general,Heather Simmons,Democratic,47878,25.9,True,True
+2025,New Jersey,NJ,State House,3,general,David Bailey,Democratic,47626,25.8,True,True
+2025,New Jersey,NJ,State House,3,general,Chris Konawel,Republican,44823,24.3,False,False
+2025,New Jersey,NJ,State House,3,general,Lawrence Moore,Republican,44385,24.0,False,False
+2025,New Jersey,NJ,State House,4,general,Dan Hutchison,Democratic,52286,27.8,True,True
+2025,New Jersey,NJ,State House,4,general,Cody Miller,Democratic,52065,27.6,True,True
+2025,New Jersey,NJ,State House,4,general,Amanda Esposito,Republican,42488,22.6,False,False
+2025,New Jersey,NJ,State House,4,general,Jerry McManus,Republican,41579,22.1,False,False
+2025,New Jersey,NJ,State House,5,general,William Spearman,Democratic,49369,35.2,True,True
+2025,New Jersey,NJ,State House,5,general,Bill Moen,Democratic,49258,35.1,True,True
+2025,New Jersey,NJ,State House,5,general,Nilsa Gonzalez,Republican,20233,14.4,False,False
+2025,New Jersey,NJ,State House,5,general,Constance Lee Ditzel,Republican,20225,14.4,False,False
+2025,New Jersey,NJ,State House,5,general,Robin Brownfield,Green,1172,0.8,False,False
+2025,New Jersey,NJ,State House,6,general,Louis Greenwald,Democratic,62791,34.6,True,True
+2025,New Jersey,NJ,State House,6,general,Melinda Kane,Democratic,62098,34.2,True,True
+2025,New Jersey,NJ,State House,6,general,Jack Brangan,Republican,28655,15.8,False,False
+2025,New Jersey,NJ,State House,6,general,Peter Sykes,Republican,27812,15.3,False,False
+2025,New Jersey,NJ,State House,7,general,Carol A. Murphy,Democratic,62681,34.0,True,True
+2025,New Jersey,NJ,State House,7,general,Balvir Singh,Democratic,60758,33.0,True,True
+2025,New Jersey,NJ,State House,7,general,Doug Dillon,Republican,30556,16.6,False,False
+2025,New Jersey,NJ,State House,7,general,Dione Johnson,Republican,30122,16.4,False,False
+2025,New Jersey,NJ,State House,8,general,Anthony Angelozzi,Democratic,50168,26.3,True,False
+2025,New Jersey,NJ,State House,8,general,Andrea Katz,Democratic,50036,26.2,True,True
+2025,New Jersey,NJ,State House,8,general,Michael Torrissi,Republican,46262,24.3,False,True
+2025,New Jersey,NJ,State House,8,general,Brandon Umba,Republican,44300,23.2,False,False
+2025,New Jersey,NJ,State House,9,general,Brian Rumpf,Republican,70501,32.2,True,True
+2025,New Jersey,NJ,State House,9,general,Greg Myhre,Republican,69087,31.5,True,True
+2025,New Jersey,NJ,State House,9,general,Lisa Bennet,Democratic,40108,18.3,False,False
+2025,New Jersey,NJ,State House,9,general,Rosalee Keech,Democratic,39342,18.0,False,False
+2025,New Jersey,NJ,State House,10,general,Gregory McGuckin,Republican,61890,31.7,True,True
+2025,New Jersey,NJ,State House,10,general,Paul Kanitra,Republican,61316,31.4,True,True
+2025,New Jersey,NJ,State House,10,general,Janine Bauer,Democratic,36355,18.6,False,False
+2025,New Jersey,NJ,State House,10,general,Gigi Esparza,Democratic,35738,18.3,False,False
+2025,New Jersey,NJ,State House,11,general,Margie Donlon,Democratic,48477,27.7,True,True
+2025,New Jersey,NJ,State House,11,general,Luanne Peterpaul,Democratic,48166,27.6,True,True
+2025,New Jersey,NJ,State House,11,general,Andrew Wardell,Republican,38234,21.9,False,False
+2025,New Jersey,NJ,State House,11,general,Jessica Ford,Republican,37906,21.7,False,False
+2025,New Jersey,NJ,State House,11,general,Felicia Simmons,People,2014,1.1,False,False
+2025,New Jersey,NJ,State House,12,general,Robert Clifton,Republican,54756,31.0,True,True
+2025,New Jersey,NJ,State House,12,general,Alex Sauickie,Republican,53704,30.4,True,True
+2025,New Jersey,NJ,State House,12,general,Kyler Daneen,Democratic,34479,19.5,False,False
+2025,New Jersey,NJ,State House,12,general,Freshta Taeb,Democratic,33597,19.0,False,False
+2025,New Jersey,NJ,State House,13,general,Vicky Flynn,Republican,58840,28.9,True,True
+2025,New Jersey,NJ,State House,13,general,Gerard Scharfenberger,Republican,58334,28.7,True,True
+2025,New Jersey,NJ,State House,13,general,Jason M. Corley Sr.,Democratic,44078,21.7,False,False
+2025,New Jersey,NJ,State House,13,general,Vaibhav Gorige,Democratic,42031,20.7,False,False
+2025,New Jersey,NJ,State House,14,general,Wayne DeAngelo,Democratic,53636,31.1,True,True
+2025,New Jersey,NJ,State House,14,general,Tennille McCoy,Democratic,50850,29.5,True,True
+2025,New Jersey,NJ,State House,14,general,Marty Flynn,Republican,33851,19.6,False,False
+2025,New Jersey,NJ,State House,14,general,Joseph Stillwell,Republican,33260,19.3,False,False
+2025,New Jersey,NJ,State House,14,general,Steven Welzer,Green,978,0.6,False,False
+2025,New Jersey,NJ,State House,15,general,Verlina Reynolds-Jackson,Democratic,56563,50.85,True,True
+2025,New Jersey,NJ,State House,15,general,Anthony Verrelli,Democratic,54676,49.15,True,True
+2025,New Jersey,NJ,State House,16,general,Roy Freiman,Democratic,56476,29.9,True,True
+2025,New Jersey,NJ,State House,16,general,Mitchelle Drulis,Democratic,55773,29.6,True,True
+2025,New Jersey,NJ,State House,16,general,Catherine Payne,Republican,38344,20.3,False,False
+2025,New Jersey,NJ,State House,16,general,Scott Sipos,Republican,38128,20.2,False,False
+2025,New Jersey,NJ,State House,17,general,Kevin Egan,Democratic,46879,38.4,True,True
+2025,New Jersey,NJ,State House,17,general,Joseph Danielsen,Democratic,46101,37.8,True,True
+2025,New Jersey,NJ,State House,17,general,Patricia Badovinac,Republican,14626,12.0,False,False
+2025,New Jersey,NJ,State House,17,general,Susan Hucko,Republican,14514,11.9,False,False
+2025,New Jersey,NJ,State House,18,general,Robert Karabinchak,Democratic,49195,32.7,True,True
+2025,New Jersey,NJ,State House,18,general,Sterley Stanley,Democratic,48638,32.3,True,True
+2025,New Jersey,NJ,State House,18,general,Melanie Mott,Republican,26567,17.6,False,False
+2025,New Jersey,NJ,State House,18,general,Eugene DeMarzo,Republican,26170,17.4,False,False
+2025,New Jersey,NJ,State House,19,general,Craig Coughlin,Democratic,40047,32.3,True,True
+2025,New Jersey,NJ,State House,19,general,Yvonne Lopez,Democratic,39692,32.0,True,True
+2025,New Jersey,NJ,State House,19,general,Maria Garcia,Republican,22189,17.9,False,False
+2025,New Jersey,NJ,State House,19,general,Marilyn Colon,Republican,22003,17.8,False,False
+2025,New Jersey,NJ,State House,20,general,Annette Quijano,Democratic,35616,43.1,True,True
+2025,New Jersey,NJ,State House,20,general,Eduardo Rodriguez,Democratic,35139,42.6,True,False
+2025,New Jersey,NJ,State House,20,general,Carmen Bucco,Republican,11795,14.3,False,False
+2025,New Jersey,NJ,State House,21,general,Andrew Macurdy,Democratic,54965,27.3,True,False
+2025,New Jersey,NJ,State House,21,general,Vincent Kearney,Democratic,53881,26.7,True,False
+2025,New Jersey,NJ,State House,21,general,Michele Matsikoudis,Republican,46385,23.0,False,True
+2025,New Jersey,NJ,State House,21,general,Nancy Munoz,Republican,46367,23.0,False,True
+2025,New Jersey,NJ,State House,22,general,Linda Carter,Democratic,51977,34.7,True,True
+2025,New Jersey,NJ,State House,22,general,James Kennedy,Democratic,50909,34.0,True,True
+2025,New Jersey,NJ,State House,22,general,Lisa Fabrizio,Republican,23884,16.0,False,False
+2025,New Jersey,NJ,State House,22,general,Jermaine Caulder,Republican,22919,15.3,False,False
+2025,New Jersey,NJ,State House,23,general,John DiMaio,Republican,51383,27.2,True,True
+2025,New Jersey,NJ,State House,23,general,Erik Peterson,Republican,49438,26.1,True,True
+2025,New Jersey,NJ,State House,23,general,Tyler Powell,Democratic,44629,23.6,False,False
+2025,New Jersey,NJ,State House,23,general,Guy Citron,Democratic,43709,23.1,False,False
+2025,New Jersey,NJ,State House,24,general,Dawn Fantasia,Republican,56003,29.4,True,True
+2025,New Jersey,NJ,State House,24,general,Mike Inganamort,Republican,54964,28.8,True,True
+2025,New Jersey,NJ,State House,24,general,Steve Barratt,Democratic,40772,21.4,False,False
+2025,New Jersey,NJ,State House,24,general,Eugene Grinberg,Democratic,36736,19.3,False,False
+2025,New Jersey,NJ,State House,24,general,Lana Leguia,Libertarian,2198,1.1,False,False
+2025,New Jersey,NJ,State House,25,general,Marisa Sweeney,Democratic,49918,25.6,True,False
+2025,New Jersey,NJ,State House,25,general,Aura K. Dunn,Republican,49088,25.2,True,True
+2025,New Jersey,NJ,State House,25,general,Christian Barranco,Republican,48125,24.7,False,True
+2025,New Jersey,NJ,State House,25,general,Steve Pylypchuk,Democratic,47723,24.5,False,False
+2025,New Jersey,NJ,State House,26,general,Jay Webber,Republican,51086,26.7,True,True
+2025,New Jersey,NJ,State House,26,general,Brian Bergen,Republican,50050,26.2,True,True
+2025,New Jersey,NJ,State House,26,general,Michael Mancuso,Democratic,45771,23.9,False,False
+2025,New Jersey,NJ,State House,26,general,Walter Mielarczyk,Democratic,44379,23.2,False,False
+2025,New Jersey,NJ,State House,27,general,Rosy Bagolie,Democratic,58598,36.1,True,True
+2025,New Jersey,NJ,State House,27,general,Alixon Collazos-Gill,Democratic,56902,35.0,True,True
+2025,New Jersey,NJ,State House,27,general,Adam Kraemer,Republican,24013,14.8,False,False
+2025,New Jersey,NJ,State House,27,general,Robert Iommazzo,Republican,22834,14.1,False,False
+2025,New Jersey,NJ,State House,28,general,Cleopatra Tucker,Democratic,47998,50.39,True,True
+2025,New Jersey,NJ,State House,28,general,Chigozie Onyema,Democratic,47263,49.61,True,False
+2025,New Jersey,NJ,State House,29,general,Eliana Pintor Marin,Democratic,24742,42.4,True,True
+2025,New Jersey,NJ,State House,29,general,Shanique Speight,Democratic,24584,42.1,True,True
+2025,New Jersey,NJ,State House,29,general,Daniella Almeida,Republican,4678,8.0,False,False
+2025,New Jersey,NJ,State House,29,general,Noble Milton,Republican,4401,7.5,False,False
+2025,New Jersey,NJ,State House,30,general,Sean T. Kean,Republican,49860,31.4,True,True
+2025,New Jersey,NJ,State House,30,general,Avi Schnall,Democratic,48094,30.3,True,True
+2025,New Jersey,NJ,State House,30,general,Ned Thomson,Republican,40919,25.8,False,False
+2025,New Jersey,NJ,State House,30,general,Joanne DeBenedictis,Democratic,19672,12.4,False,False
+2025,New Jersey,NJ,State House,31,general,Jerry Walker,Democratic,33937,37.5,True,False
+2025,New Jersey,NJ,State House,31,general,William Sampson,Democratic,32516,35.9,True,True
+2025,New Jersey,NJ,State House,31,general,Anthony Acosta,Republican,12340,13.6,False,False
+2025,New Jersey,NJ,State House,31,general,Neil Schulman,Republican,11786,13.0,False,False
+2025,New Jersey,NJ,State House,32,general,Katie Brennan,Democratic,37932,39.1,True,False
+2025,New Jersey,NJ,State House,32,general,Ravinder Bhalla,Democratic,36306,37.4,True,False
+2025,New Jersey,NJ,State House,32,general,Stephen Bishop,Republican,11462,11.8,False,False
+2025,New Jersey,NJ,State House,32,general,Kaushal Patel,Republican,11350,11.7,False,False
+2025,New Jersey,NJ,State House,33,general,Gabe Rodriguez,Democratic,39731,38.1,True,True
+2025,New Jersey,NJ,State House,33,general,Larry Wainstein,Democratic,38926,37.3,True,False
+2025,New Jersey,NJ,State House,33,general,Cynthia DePice,Republican,12903,12.4,False,False
+2025,New Jersey,NJ,State House,33,general,Anthony Valdes,Republican,12797,12.3,False,False
+2025,New Jersey,NJ,State House,34,general,Carmen Morales,Democratic,49411,39.5,True,True
+2025,New Jersey,NJ,State House,34,general,Michael Venezia,Democratic,48161,38.5,True,True
+2025,New Jersey,NJ,State House,34,general,Lorenzo Marchese,Republican,14063,11.3,False,False
+2025,New Jersey,NJ,State House,34,general,Demtrius Eley,Republican,13315,10.7,False,False
+2025,New Jersey,NJ,State House,35,general,Kenyatta Stewart,Democratic,31068,36.4,True,False
+2025,New Jersey,NJ,State House,35,general,Al Abdelaziz,Democratic,30777,36.1,True,True
+2025,New Jersey,NJ,State House,35,general,Nelvin Mercado-Duran,Republican,11831,13.9,False,False
+2025,New Jersey,NJ,State House,35,general,Rawell Perez-Muñoz,Republican,11581,13.6,False,False
+2025,New Jersey,NJ,State House,36,general,Gary Schaer,Democratic,34434,30.8,True,True
+2025,New Jersey,NJ,State House,36,general,Clinton Calabrese,Democratic,33959,30.3,True,True
+2025,New Jersey,NJ,State House,36,general,Chris Musto,Republican,22328,19.9,False,False
+2025,New Jersey,NJ,State House,36,general,Diane DeBiase,Republican,21205,18.9,False,False
+2025,New Jersey,NJ,State House,37,general,Ellen Park,Democratic,43906,34.5,True,True
+2025,New Jersey,NJ,State House,37,general,Shama Haider,Democratic,42781,33.6,True,True
+2025,New Jersey,NJ,State House,37,general,Marco Navarro,Republican,20864,16.4,False,False
+2025,New Jersey,NJ,State House,37,general,Andrew Meehan,Republican,19830,15.6,False,False
+2025,New Jersey,NJ,State House,38,general,Lisa Swain,Democratic,45688,29.3,True,True
+2025,New Jersey,NJ,State House,38,general,Chris Tully,Democratic,44769,28.7,True,True
+2025,New Jersey,NJ,State House,38,general,Robert Kaiser,Republican,33400,21.4,False,False
+2025,New Jersey,NJ,State House,38,general,Barry Wilkes,Republican,32218,20.6,False,False
+2025,New Jersey,NJ,State House,39,general,Robert Auth,Republican,51116,25.8,True,True
+2025,New Jersey,NJ,State House,39,general,John V. Azzariti,Republican,50362,25.4,True,True
+2025,New Jersey,NJ,State House,39,general,Andrew LaBruno,Democratic,48474,24.5,False,False
+2025,New Jersey,NJ,State House,39,general,Donna Abene,Democratic,48238,24.3,False,False
+2025,New Jersey,NJ,State House,40,general,Christopher DePhillips,Republican,52090,27.1,True,True
+2025,New Jersey,NJ,State House,40,general,Al Barlas,Republican,49682,25.8,True,True
+2025,New Jersey,NJ,State House,40,general,Jeff Gates,Democratic,45870,23.8,False,False
+2025,New Jersey,NJ,State House,40,general,Ron Arnau,Democratic,44799,23.3,False,False
+2025,Virginia,VA,State House,48,special general,Eric J. Phillips,Republican,4365,69.6,True,False
+2025,Virginia,VA,State House,48,special general,"Melody A. ""Mel"" Cartwright",Democratic,1904,30.3,False,False
+2025,Virginia,VA,State House,26,special general,JJ Singh,Democratic,6404,62.4,True,False
+2025,Virginia,VA,State House,26,special general,Ram Venkatachalam,Republican,3857,37.6,False,False
+2025,Virginia,VA,State House,1,general,Patrick Hope,Democratic,33850,81.49,True,True
+2025,Virginia,VA,State House,1,general,Bill Moher,Republican,7595,18.28,False,False
+2025,Virginia,VA,State House,2,general,Adele McClure,Democratic,26953,81.48,True,True
+2025,Virginia,VA,State House,2,general,Wendy Sigley,Republican,6072,18.36,False,False
+2025,Virginia,VA,State House,3,general,Alfonso Lopez,Democratic,27641,95.85,True,True
+2025,Virginia,VA,State House,4,general,Charniele Herring,Democratic,18268,95.85,True,True
+2025,Virginia,VA,State House,5,general,Elizabeth Bennett-Parker,Democratic,33909,95.24,True,True
+2025,Virginia,VA,State House,6,general,Rip Sullivan,Democratic,27068,66.71,True,True
+2025,Virginia,VA,State House,6,general,Kristin Hoffman,Republican,13449,33.15,False,False
+2025,Virginia,VA,State House,7,general,Karen Keys-Gamarra,Democratic,30775,75.36,True,True
+2025,Virginia,VA,State House,7,general,Cassandra Aucoin,Republican,9991,24.47,False,False
+2025,Virginia,VA,State House,8,general,Irene Shin,Democratic,22969,73.98,True,True
+2025,Virginia,VA,State House,8,general,Indira Massey,Republican,8002,25.77,False,False
+2025,Virginia,VA,State House,9,general,Karrie Delaney,Democratic,22471,68.93,True,True
+2025,Virginia,VA,State House,9,general,Nhan Huynh,Republican,10066,30.88,False,False
+2025,Virginia,VA,State House,10,general,Dan Helmer,Democratic,23946,67.38,True,True
+2025,Virginia,VA,State House,10,general,David Guill,Republican,11517,32.4,False,False
+2025,Virginia,VA,State House,11,general,David Bulova,Democratic,23402,72.51,True,True
+2025,Virginia,VA,State House,11,general,Adam Wise,Republican,8193,25.38,False,False
+2025,Virginia,VA,State House,11,general,Brandon Givens,Forward,620,1.92,False,False
+2025,Virginia,VA,State House,12,general,Holly Seibold,Democratic,25670,76.51,True,True
+2025,Virginia,VA,State House,12,general,Nelson Figueroa-Velez,Republican,7793,23.23,False,False
+2025,Virginia,VA,State House,13,general,Marcus Simon,Democratic,24541,76.65,True,True
+2025,Virginia,VA,State House,13,general,Sylwia Oleksy,Republican,6195,19.35,False,False
+2025,Virginia,VA,State House,13,general,Dave Crance,Libertarian,1221,3.81,False,False
+2025,Virginia,VA,State House,14,general,Vivian Watts,Democratic,20711,73.67,True,True
+2025,Virginia,VA,State House,14,general,Eric Johnson,Republican,7338,26.1,False,False
+2025,Virginia,VA,State House,15,general,Laura Jane Cohen,Democratic,27353,67.39,True,True
+2025,Virginia,VA,State House,15,general,Saundra Davis,Republican,13146,32.39,False,False
+2025,Virginia,VA,State House,16,general,Paul Krizek,Democratic,22048,70.54,True,True
+2025,Virginia,VA,State House,16,general,Richard Hayden,Republican,8275,26.47,False,False
+2025,Virginia,VA,State House,16,general,Shelly Arnoldi,Independent,866,2.77,False,False
+2025,Virginia,VA,State House,17,general,Mark Sickles,Democratic,25761,77.46,True,True
+2025,Virginia,VA,State House,17,general,Naomi Mesfin,Republican,7406,22.27,False,False
+2025,Virginia,VA,State House,18,general,Kathy Tran,Democratic,24582,72.22,True,True
+2025,Virginia,VA,State House,18,general,Edward McGovern,Republican,9387,27.58,False,False
+2025,Virginia,VA,State House,19,general,Rozia Henson,Democratic,17248,92.39,True,True
+2025,Virginia,VA,State House,20,general,Michelle Maldonado,Democratic,14118,68.08,True,True
+2025,Virginia,VA,State House,20,general,Christopher Stone (withdrawn),Republican,4925,23.75,False,False
+2025,Virginia,VA,State House,21,general,Josh Thomas,Democratic,18386,58.45,True,True
+2025,Virginia,VA,State House,21,general,Greg Gorham,Republican,13017,41.38,False,False
+2025,Virginia,VA,State House,22,general,Elizabeth Guzmán,Democratic,20297,54.89,True,False
+2025,Virginia,VA,State House,22,general,Ian Lovejoy,Republican,16624,44.96,False,True
+2025,Virginia,VA,State House,23,general,Candi King,Democratic,18329,76.13,True,True
+2025,Virginia,VA,State House,23,general,James Tully,Republican,5683,23.6,False,False
+2025,Virginia,VA,State House,24,general,Luke Torian,Democratic,22647,91.02,True,True
+2025,Virginia,VA,State House,25,general,Briana Sewell,Democratic,23472,90.83,True,True
+2025,Virginia,VA,State House,26,general,JJ Singh,Democratic,20430,69.36,True,True
+2025,Virginia,VA,State House,26,general,Ommair Butt,Republican,8942,30.36,False,False
+2025,Virginia,VA,State House,27,general,Atoosa Reaser,Democratic,18506,65.46,True,True
+2025,Virginia,VA,State House,27,general,Junaid Khan,Republican,9706,34.33,False,False
+2025,Virginia,VA,State House,28,general,David A. Reid,Democratic,24182,67.26,True,True
+2025,Virginia,VA,State House,28,general,Janet Geisler,Republican,11700,32.54,False,False
+2025,Virginia,VA,State House,29,general,Marty Martinez,Democratic,22350,62.84,True,True
+2025,Virginia,VA,State House,29,general,Scott Thomas,Republican,13138,36.94,False,False
+2025,Virginia,VA,State House,30,general,John McAuliff,Democratic,22393,50.89,True,False
+2025,Virginia,VA,State House,30,general,Geary Higgins,Republican,21544,48.96,False,True
+2025,Virginia,VA,State House,31,general,Delores Riley Oates,Republican,22550,59.76,True,True
+2025,Virginia,VA,State House,31,general,Shane Boswell,Democratic,15130,40.1,False,False
+2025,Virginia,VA,State House,32,general,Bill Wiley,Republican,18733,57.99,True,True
+2025,Virginia,VA,State House,32,general,Jon Lucci,Democratic,13535,41.9,False,False
+2025,Virginia,VA,State House,33,general,Justin Pence,Republican,25885,73.57,True,False
+2025,Virginia,VA,State House,33,general,Cathy Rec,Democratic,9300,26.43,False,False
+2025,Virginia,VA,State House,34,general,Tony Wilt,Republican,14592,50.38,True,True
+2025,Virginia,VA,State House,34,general,Andrew Payton,Democratic,14335,49.49,False,False
+2025,Virginia,VA,State House,35,general,Chris Runion,Republican,27293,72.41,True,True
+2025,Virginia,VA,State House,35,general,Jena Crisler,Democratic,10340,27.43,False,False
+2025,Virginia,VA,State House,36,general,Ellen Campbell,Republican,20945,57.64,True,True
+2025,Virginia,VA,State House,36,general,Makayla Venable,Democratic,15352,42.25,False,False
+2025,Virginia,VA,State House,37,general,Terry Austin,Republican,25540,69.79,True,True
+2025,Virginia,VA,State House,37,general,Andrew Hartless,Democratic,10894,29.77,False,False
+2025,Virginia,VA,State House,38,general,Sam Rasoul,Democratic,17121,69.79,True,True
+2025,Virginia,VA,State House,38,general,Maynard Keller Jr,Independent,7332,29.89,False,False
+2025,Virginia,VA,State House,39,general,Will Davis,Republican,25624,71.26,True,True
+2025,Virginia,VA,State House,39,general,Eric Klotz,Democratic,10283,28.6,False,False
+2025,Virginia,VA,State House,40,general,Joe McNamara,Republican,19255,52.86,True,True
+2025,Virginia,VA,State House,40,general,Donna Littlepage,Democratic,17101,46.95,False,False
+2025,Virginia,VA,State House,41,general,Lily Franklin,Democratic,17683,53.29,True,False
+2025,Virginia,VA,State House,41,general,Chris Obenshain,Republican,15460,46.59,False,True
+2025,Virginia,VA,State House,42,general,Jason Ballard,Republican,20524,62.57,True,True
+2025,Virginia,VA,State House,42,general,Biko Agozino,Democratic,12222,37.26,False,False
+2025,Virginia,VA,State House,43,general,Will Morefield,Republican,22257,82.72,True,True
+2025,Virginia,VA,State House,43,general,Mary Sumner,Democratic,4537,16.86,False,False
+2025,Virginia,VA,State House,44,general,Israel O'Quinn,Republican,24296,76.92,True,True
+2025,Virginia,VA,State House,44,general,Cindy Green,Democratic,7247,22.94,False,False
+2025,Virginia,VA,State House,45,general,Terry Kilgore,Republican,21987,82.74,True,True
+2025,Virginia,VA,State House,45,general,Josh Outsey,Democratic,4428,16.66,False,False
+2025,Virginia,VA,State House,46,general,Mitchell Cornett,Republican,23387,77.46,True,False
+2025,Virginia,VA,State House,46,general,Jamie Hendry,Democratic,6749,22.35,False,False
+2025,Virginia,VA,State House,47,general,Wren Williams,Republican,23912,74.17,True,True
+2025,Virginia,VA,State House,47,general,Yvonne Rorrer,Democratic,8209,25.46,False,False
+2025,Virginia,VA,State House,48,general,Eric Philips,Republican,19868,63.65,True,True
+2025,Virginia,VA,State House,48,general,Mel Cartwright,Democratic,10797,34.59,False,False
+2025,Virginia,VA,State House,48,general,Barbara Hancock,Independent,519,1.66,False,False
+2025,Virginia,VA,State House,49,general,Madison Whittle,Republican,15206,52.91,True,False
+2025,Virginia,VA,State House,49,general,Gary Miller,Democratic,13479,46.9,False,False
+2025,Virginia,VA,State House,50,general,Tommy Wright,Republican,19365,60.28,True,True
+2025,Virginia,VA,State House,50,general,Earnadette Powell Farrar,Democratic,11973,37.27,False,False
+2025,Virginia,VA,State House,50,general,Trudy Berry,Independent,739,2.3,False,False
+2025,Virginia,VA,State House,51,general,Eric Zehr,Republican,28123,75.39,True,True
+2025,Virginia,VA,State House,51,general,Joy Powers,Democratic,9130,24.47,False,False
+2025,Virginia,VA,State House,52,general,Wendell Walker,Republican,16656,55.78,True,True
+2025,Virginia,VA,State House,52,general,Risë Hayes,Democratic,13167,44.09,False,False
+2025,Virginia,VA,State House,53,general,Tim Griffin,Republican,28219,69.42,True,True
+2025,Virginia,VA,State House,53,general,Samuel Soghor,Democratic,12350,30.38,False,False
+2025,Virginia,VA,State House,54,general,Katrina Callsen,Democratic,29976,97.57,True,True
+2025,Virginia,VA,State House,55,general,Amy Laufer,Democratic,33083,91.55,True,True
+2025,Virginia,VA,State House,56,general,Tom Garrett,Republican,25259,60.77,True,True
+2025,Virginia,VA,State House,56,general,Angela Chainer,Democratic,16224,39.03,False,False
+2025,Virginia,VA,State House,57,general,May Nivar,Democratic,24187,55.54,True,False
+2025,Virginia,VA,State House,57,general,David Owen,Republican,19296,44.31,False,True
+2025,Virginia,VA,State House,58,general,Rodney Willett,Democratic,23824,61.33,True,True
+2025,Virginia,VA,State House,58,general,Milad Mikhail,Republican,14942,38.46,False,False
+2025,Virginia,VA,State House,59,general,Buddy Fowler,Republican,25425,56.82,True,True
+2025,Virginia,VA,State House,59,general,Scott Konopasek,Democratic,19247,43.01,False,False
+2025,Virginia,VA,State House,60,general,Scott Wyatt,Republican,30747,63.92,True,True
+2025,Virginia,VA,State House,60,general,Andrew Ward,Democratic,17267,35.9,False,False
+2025,Virginia,VA,State House,61,general,Michael Webert,Republican,25133,61.74,True,True
+2025,Virginia,VA,State House,61,general,Jac Bennington,Democratic,15524,38.14,False,False
+2025,Virginia,VA,State House,62,general,Karen Hamilton,Republican,21580,58.2,True,False
+2025,Virginia,VA,State House,62,general,Sara Ratcliffe,Democratic,15397,41.53,False,False
+2025,Virginia,VA,State House,63,general,Phil Scott,Republican,21418,55.87,True,True
+2025,Virginia,VA,State House,63,general,Forrest Miller,Democratic,16855,43.97,False,False
+2025,Virginia,VA,State House,64,general,Stacey Carroll,Democratic,19416,53.17,True,False
+2025,Virginia,VA,State House,64,general,Paul Milde,Republican,17047,46.69,False,True
+2025,Virginia,VA,State House,65,general,Joshua Cole,Democratic,20659,58.88,True,True
+2025,Virginia,VA,State House,65,general,Sean Steinway,Republican,14358,40.92,False,False
+2025,Virginia,VA,State House,66,general,Nicole Cole,Democratic,18831,52.15,True,False
+2025,Virginia,VA,State House,66,general,Bobby Orrock,Republican,17248,47.76,False,True
+2025,Virginia,VA,State House,67,general,Hillary Pugh Kent,Republican,24279,61.12,True,True
+2025,Virginia,VA,State House,67,general,Mario Haggerty,Democratic,14636,36.85,False,False
+2025,Virginia,VA,State House,67,general,Richard Kenski,Independent,778,1.96,False,False
+2025,Virginia,VA,State House,68,general,Keith Hodges,Republican,28074,67.57,True,True
+2025,Virginia,VA,State House,68,general,Elaine Walters,Democratic,13443,32.35,False,False
+2025,Virginia,VA,State House,69,general,Mark Downey,Democratic,19461,49.81,True,False
+2025,Virginia,VA,State House,69,general,Chad Green,Republican,18171,46.51,False,True
+2025,Virginia,VA,State House,69,general,Valerie Beverley,Independent,1395,3.57,False,False
+2025,Virginia,VA,State House,70,general,Shelly Simonds,Democratic,18866,63.37,True,True
+2025,Virginia,VA,State House,70,general,Cynthia Scaturico,Republican,10226,34.35,False,False
+2025,Virginia,VA,State House,70,general,John Bloom,Libertarian,632,2.12,False,False
+2025,Virginia,VA,State House,71,general,Jessica Anderson,Democratic,23910,53.19,True,False
+2025,Virginia,VA,State House,71,general,Amanda Batten,Republican,20979,46.67,False,True
+2025,Virginia,VA,State House,72,general,Lee Ware,Republican,27963,61.59,True,True
+2025,Virginia,VA,State House,72,general,Randolph Critzer Jr.,Democratic,16380,36.08,False,False
+2025,Virginia,VA,State House,72,general,Kristin Farry,Forward,853,1.88,False,False
+2025,Virginia,VA,State House,73,general,Leslie Mehta,Democratic,26122,51.78,True,False
+2025,Virginia,VA,State House,73,general,Mark Earley Jr.,Republican,24275,48.12,False,True
+2025,Virginia,VA,State House,74,general,Mike Cherry,Republican,20822,52.4,True,True
+2025,Virginia,VA,State House,74,general,Jonas Eppert,Democratic,18818,47.36,False,False
+2025,Virginia,VA,State House,75,general,Lindsey Dougherty,Democratic,15231,52.94,True,False
+2025,Virginia,VA,State House,75,general,Carrie Coyner,Republican,13472,46.82,False,True
+2025,Virginia,VA,State House,76,general,Debra Gardner,Democratic,23248,68.57,True,True
+2025,Virginia,VA,State House,76,general,John Thomas,Republican,10552,31.13,False,False
+2025,Virginia,VA,State House,77,general,Michael Jones,Democratic,23702,78.43,True,True
+2025,Virginia,VA,State House,77,general,Richard Stonage Jr.,Republican,6464,21.39,False,False
+2025,Virginia,VA,State House,78,general,Betsy Carr,Democratic,35901,80.67,True,True
+2025,Virginia,VA,State House,78,general,Richard Prado,Republican,8545,19.2,False,False
+2025,Virginia,VA,State House,79,general,Rae Cousins,Democratic,27853,92.2,True,True
+2025,Virginia,VA,State House,79,general,Kelsey Linnehan,Republican,2299,7.61,False,False
+2025,Virginia,VA,State House,80,general,Destiny LeVere Bolling,Democratic,28751,94.99,True,True
+2025,Virginia,VA,State House,81,general,Delores McQuinn,Democratic,26747,92.66,True,True
+2025,Virginia,VA,State House,82,general,Kimberly Pope Adams,Democratic,18529,53.84,True,False
+2025,Virginia,VA,State House,82,general,Kim Taylor,Republican,15848,46.05,False,True
+2025,Virginia,VA,State House,83,general,Otto Wachsmann,Republican,20163,54.44,True,True
+2025,Virginia,VA,State House,83,general,Mary Person,Democratic,16821,45.42,False,False
+2025,Virginia,VA,State House,84,general,Nadarius Clark,Democratic,23034,60.19,True,True
+2025,Virginia,VA,State House,84,general,Felisha Storm,Republican,15192,39.7,False,False
+2025,Virginia,VA,State House,85,general,Cia Price,Democratic,19956,94.94,True,True
+2025,Virginia,VA,State House,86,general,Virgil Thornton Sr.,Democratic,17081,53.85,True,False
+2025,Virginia,VA,State House,86,general,A.C. Cordoza,Republican,14563,45.91,False,True
+2025,Virginia,VA,State House,87,general,Jeion Ward,Democratic,23342,79.46,True,True
+2025,Virginia,VA,State House,87,general,John Chapman,Republican,5930,20.19,False,False
+2025,Virginia,VA,State House,88,general,Don Scott,Democratic,21768,94.13,True,True
+2025,Virginia,VA,State House,89,general,Kacey Carnegie,Democratic,20582,54.6,True,False
+2025,Virginia,VA,State House,89,general,Mike Lamonea,Republican,17036,45.19,False,False
+2025,Virginia,VA,State House,90,general,Jay Leftwich,Republican,23070,59.3,True,True
+2025,Virginia,VA,State House,90,general,Rodney Nickens,Democratic,15749,40.48,False,False
+2025,Virginia,VA,State House,91,general,Cliff Hayes Jr.,Democratic,22728,92.72,True,True
+2025,Virginia,VA,State House,92,general,Bonita Anthony,Democratic,19546,80.31,True,True
+2025,Virginia,VA,State House,92,general,Nash Bilisoly,Republican,4706,19.34,False,False
+2025,Virginia,VA,State House,93,general,Jackie Glass,Democratic,21417,95.16,True,True
+2025,Virginia,VA,State House,94,general,Phil Hernandez,Democratic,11600,61.26,True,True
+2025,Virginia,VA,State House,94,general,Andy Pittman,Republican,7311,38.61,False,False
+2025,Virginia,VA,State House,95,general,Alex Askew,Democratic,19475,93.18,True,True
+2025,Virginia,VA,State House,96,general,Kelly Convirs-Fowler,Democratic,17077,60.28,True,True
+2025,Virginia,VA,State House,96,general,Kyle Pasquarella,Republican,11180,39.46,False,False
+2025,Virginia,VA,State House,97,general,Michael Feggans,Democratic,17496,57.41,True,True
+2025,Virginia,VA,State House,97,general,Tim Anderson,Republican,12926,42.41,False,False
+2025,Virginia,VA,State House,98,general,Barry Knight,Republican,20209,56.64,True,True
+2025,Virginia,VA,State House,98,general,Cheryl Smith,Democratic,15414,43.2,False,False
+2025,Virginia,VA,State House,99,general,Anne Ferrell Tata,Republican,19081,53.88,True,True
+2025,Virginia,VA,State House,99,general,Cat Porterfield,Democratic,16279,45.97,False,False
+2025,Virginia,VA,State House,100,general,Robert Bloxom Jr.,Republican,17887,52.87,True,True
+2025,Virginia,VA,State House,100,general,Liz Richardson,Democratic,15905,47.01,False,False

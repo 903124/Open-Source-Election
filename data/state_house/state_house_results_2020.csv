@@ -304,6 +304,162 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Arkansas,AR,State House,99,general,Jack Fortner,Republican,11965.0,100.0,True,True
 2020,Arkansas,AR,State House,100,general,Nelda Speaks,Republican,11205.0,79.0,True,True
 2020,Arkansas,AR,State House,100,general,Kevin Vornheder,Libertarian,2979.0,21.0,False,False
+2020,California,CA,State House,1,general,Megan Dahle,Republican,146902.0,58.9,True,True
+2020,California,CA,State House,1,general,Elizabeth L. Betancourt,Democratic,102541.0,41.1,False,False
+2020,California,CA,State House,2,general,Jim Wood,Democratic,162287.0,68.5,True,True
+2020,California,CA,State House,2,general,Charlotte Svolos,Republican,74582.0,31.5,False,False
+2020,California,CA,State House,3,general,James Gallagher,Republican,117314.0,57.4,True,True
+2020,California,CA,State House,3,general,James R. Henson,Democratic,87045.0,42.6,False,False
+2020,California,CA,State House,4,general,Cecilia Aguiar-Curry,Democratic,150153.0,66.7,True,True
+2020,California,CA,State House,4,general,Matthew L. Nelson,Republican,75108.0,33.3,False,False
+2020,California,CA,State House,5,general,Frank Bigelow,Republican,165624.0,100.0,True,True
+2020,California,CA,State House,6,general,Kevin Kiley,Republican,178559.0,59.0,True,True
+2020,California,CA,State House,6,general,Jackie Smith,Democratic,124294.0,41.0,False,False
+2020,California,CA,State House,7,general,Kevin McCarty,Democratic,149083.0,73.9,True,True
+2020,California,CA,State House,7,general,James O. Just,Libertarian,52543.0,26.1,False,False
+2020,California,CA,State House,8,general,Ken Cooley,Democratic,126969.0,55.1,True,True
+2020,California,CA,State House,8,general,Cathy Cook,Republican,103496.0,44.9,False,False
+2020,California,CA,State House,9,general,Jim Cooper,Democratic,142088.0,65.8,True,True
+2020,California,CA,State House,9,general,Eric M. Rigard,Republican,73742.0,34.2,False,False
+2020,California,CA,State House,10,general,Marc Levine,Democratic,158263.0,65.7,True,True
+2020,California,CA,State House,10,general,"Veronica ""Roni"" Jacobi",Democratic,82638.0,34.3,False,False
+2020,California,CA,State House,11,general,Jim Frazier,Democratic,149304.0,64.7,True,True
+2020,California,CA,State House,11,general,Debra Schwab,Republican,81374.0,35.3,False,False
+2020,California,CA,State House,12,general,Heath Flora,Republican,131625.0,60.9,True,True
+2020,California,CA,State House,12,general,Paul Akinjo,Democratic,84373.0,39.1,False,False
+2020,California,CA,State House,13,general,Carlos Villapudua,Democratic,83746.0,51.6,True,False
+2020,California,CA,State House,13,general,Kathy Miller,Democratic,78609.0,48.4,False,False
+2020,California,CA,State House,14,general,Tim Grayson,Democratic,163205.0,70.3,True,True
+2020,California,CA,State House,14,general,Janell Elizabeth Proctor,Republican,68819.0,29.7,False,False
+2020,California,CA,State House,15,general,Buffy Wicks,Democratic,204108.0,84.7,True,True
+2020,California,CA,State House,15,general,Sara Brink,No party preference,36732.0,15.3,False,False
+2020,California,CA,State House,16,general,Rebecca Bauer-Kahan,Democratic,192977.0,67.4,True,True
+2020,California,CA,State House,16,general,Joseph A. Rubay,Republican,93137.0,32.6,False,False
+2020,California,CA,State House,17,general,David Chiu,Democratic,190731.0,88.9,True,True
+2020,California,CA,State House,17,general,Starchild,Libertarian,23834.0,11.1,False,False
+2020,California,CA,State House,18,general,Rob Bonta,Democratic,190168.0,87.6,True,True
+2020,California,CA,State House,18,general,Stephen Slauson,Republican,26942.0,12.4,False,False
+2020,California,CA,State House,19,general,Phil Ting,Democratic,175847.0,77.6,True,True
+2020,California,CA,State House,19,general,John P. McDonnell,Republican,50845.0,22.4,False,False
+2020,California,CA,State House,20,general,Bill Quirk,Democratic,100105.0,56.9,True,True
+2020,California,CA,State House,20,general,Alexis Villalobos,Democratic,75672.0,43.1,False,False
+2020,California,CA,State House,21,general,Adam Gray,Democratic,93816.0,59.6,True,True
+2020,California,CA,State House,21,general,Joel Gutierrez Campos,Republican,63514.0,40.4,False,False
+2020,California,CA,State House,22,general,Kevin Mullin,Democratic,182365.0,75.4,True,True
+2020,California,CA,State House,22,general,Mark Gilham,Republican,59511.0,24.6,False,False
+2020,California,CA,State House,23,general,Jim Patterson,Republican,177600.0,100.0,True,True
+2020,California,CA,State House,24,general,Marc Berman,Democratic,158240.0,73.4,True,True
+2020,California,CA,State House,24,general,Peter Ohtaki,Republican,57212.0,26.6,False,False
+2020,California,CA,State House,25,general,Alex Lee,Democratic,135733.0,70.5,True,False
+2020,California,CA,State House,25,general,Bob Brunton,Republican,56775.0,29.5,False,False
+2020,California,CA,State House,26,general,Devon Mathis,Republican,85005.0,54.9,True,True
+2020,California,CA,State House,26,general,Drew Phelps,Democratic,69717.0,45.1,False,False
+2020,California,CA,State House,27,general,Ash Kalra,Democratic,127772.0,72.6,True,True
+2020,California,CA,State House,27,general,G. Burt Lancaster,Republican,48112.0,27.4,False,False
+2020,California,CA,State House,28,general,Evan Low,Democratic,166733.0,71.6,True,True
+2020,California,CA,State House,28,general,Carlos Rafael Cruz,Republican,65976.0,28.4,False,False
+2020,California,CA,State House,29,general,Mark Stone,Democratic,185496.0,73.0,True,True
+2020,California,CA,State House,29,general,Shomir Banerjee,Republican,68772.0,27.0,False,False
+2020,California,CA,State House,30,general,Robert Rivas,Democratic,123617.0,69.6,True,True
+2020,California,CA,State House,30,general,Gregory Swett,Republican,53928.0,30.4,False,False
+2020,California,CA,State House,31,general,Joaquin Arambula,Democratic,77193.0,61.9,True,True
+2020,California,CA,State House,31,general,Fernando Banuelos,Republican,47551.0,38.1,False,False
+2020,California,CA,State House,32,general,Rudy Salas,Democratic,63450.0,60.0,True,True
+2020,California,CA,State House,32,general,Todd Cotta,Republican,42328.0,40.0,False,False
+2020,California,CA,State House,33,general,Thurston Smith,Republican,86948.0,54.9,True,False
+2020,California,CA,State House,33,general,Rick Herrick,Republican,71567.0,45.1,False,False
+2020,California,CA,State House,34,general,Vince Fong,Republican,146611.0,68.1,True,True
+2020,California,CA,State House,34,general,Julie Solis,Democratic,68716.0,31.9,False,False
+2020,California,CA,State House,35,general,Jordan Cunningham,Republican,126579.0,55.1,True,True
+2020,California,CA,State House,35,general,Dawn Addis,Democratic,103206.0,44.9,False,False
+2020,California,CA,State House,36,general,Tom Lackey,Republican,102442.0,55.2,True,True
+2020,California,CA,State House,36,general,Steve Fox,Democratic,83240.0,44.8,False,False
+2020,California,CA,State House,37,general,Steve Bennett,Democratic,166015.0,67.6,True,False
+2020,California,CA,State House,37,general,Charles W. Cole,Republican,79661.0,32.4,False,False
+2020,California,CA,State House,38,general,Suzette Martinez Valladares,Republican,149201.0,76.1,True,False
+2020,California,CA,State House,38,general,Lucie Lapointe Volotzky,Republican,46877.0,23.9,False,False
+2020,California,CA,State House,39,general,Luz Rivas,Democratic,117207.0,74.1,True,True
+2020,California,CA,State House,39,general,Ricardo Benitez,Republican,41033.0,25.9,False,False
+2020,California,CA,State House,40,general,James Ramos,Democratic,111885.0,58.4,True,True
+2020,California,CA,State House,40,general,Jennifer Tullius,Republican,79821.0,41.6,False,False
+2020,California,CA,State House,41,general,Chris Holden,Democratic,160878.0,65.3,True,True
+2020,California,CA,State House,41,general,Robin A. Hvidston,Republican,85604.0,34.7,False,False
+2020,California,CA,State House,42,general,Chad Mayes,Independent,120401.0,55.6,True,True
+2020,California,CA,State House,42,general,Andrew Kotyuk,Republican,96203.0,44.4,False,False
+2020,California,CA,State House,43,general,Laura Friedman,Democratic,149214.0,69.6,True,True
+2020,California,CA,State House,43,general,Mike Graves,Republican,65270.0,30.4,False,False
+2020,California,CA,State House,44,general,Jacqui Irwin,Democratic,132679.0,60.7,True,True
+2020,California,CA,State House,44,general,Denise Pedrow,Republican,86051.0,39.3,False,False
+2020,California,CA,State House,45,general,Jesse Gabriel,Democratic,136904.0,66.2,True,True
+2020,California,CA,State House,45,general,Jeffi Girgenti,Republican,69802.0,33.8,False,False
+2020,California,CA,State House,46,general,Adrin Nazarian,Democratic,104987.0,63.4,True,True
+2020,California,CA,State House,46,general,Lanira K. Murphy,Democratic,60595.0,36.6,False,False
+2020,California,CA,State House,47,general,Eloise Reyes,Democratic,109635.0,69.0,True,True
+2020,California,CA,State House,47,general,Matthew Gordon,Republican,49170.0,31.0,False,False
+2020,California,CA,State House,48,general,Blanca Rubio,Democratic,126430.0,100.0,True,True
+2020,California,CA,State House,49,general,Ed Chau,Democratic,107976.0,67.9,True,True
+2020,California,CA,State House,49,general,Burton Brink,Republican,50988.0,32.1,False,False
+2020,California,CA,State House,50,general,Richard Bloom,Democratic,166503.0,80.4,True,True
+2020,California,CA,State House,50,general,Will Hess,Democratic,40709.0,19.6,False,False
+2020,California,CA,State House,51,general,Wendy Carrillo,Democratic,127026.0,100.0,True,True
+2020,California,CA,State House,52,general,Freddie Rodriguez,Democratic,112165.0,68.3,True,True
+2020,California,CA,State House,52,general,Toni Holle,Republican,52022.0,31.7,False,False
+2020,California,CA,State House,53,general,Miguel Santiago,Democratic,63776.0,56.3,True,True
+2020,California,CA,State House,53,general,Godfrey Santos Plata,Democratic,49580.0,43.7,False,False
+2020,California,CA,State House,54,general,Sydney Kamlager,Democratic,119818.0,64.2,True,True
+2020,California,CA,State House,54,general,Tracy Bernard Jones,Democratic,66915.0,35.8,False,False
+2020,California,CA,State House,55,general,Phillip Chen,Republican,125212.0,54.9,True,True
+2020,California,CA,State House,55,general,Andrew E. Rodriguez,Democratic,102683.0,45.1,False,False
+2020,California,CA,State House,56,general,Eduardo Garcia,Democratic,97459.0,63.6,True,True
+2020,California,CA,State House,56,general,America Figueroa,Republican,55684.0,36.4,False,False
+2020,California,CA,State House,57,general,Lisa Calderon,Democratic,114122.0,60.5,True,False
+2020,California,CA,State House,57,general,Jessica Martinez,Republican,74371.0,39.5,False,False
+2020,California,CA,State House,58,general,Cristina Garcia,Democratic,122864.0,74.9,True,True
+2020,California,CA,State House,58,general,Margaret Villa,Green,41100.0,25.1,False,False
+2020,California,CA,State House,59,general,Reggie Jones-Sawyer,Democratic,63448.0,57.5,True,True
+2020,California,CA,State House,59,general,Efren Martinez,Democratic,46853.0,42.5,False,False
+2020,California,CA,State House,60,general,Sabrina Cervantes,Democratic,109976.0,56.4,True,True
+2020,California,CA,State House,60,general,Chris Raahauge,Republican,84907.0,43.6,False,False
+2020,California,CA,State House,61,general,Jose Medina,Democratic,115982.0,65.9,True,True
+2020,California,CA,State House,61,general,Ali Mazerei,Republican,59934.0,34.1,False,False
+2020,California,CA,State House,62,general,Autumn Burke,Democratic,158832.0,80.9,True,True
+2020,California,CA,State House,62,general,Robert A. Steele,Republican,37500.0,19.1,False,False
+2020,California,CA,State House,63,general,Anthony Rendon,Democratic,71460.0,53.7,True,True
+2020,California,CA,State House,63,general,Maria D. Estrada,Democratic,61611.0,46.3,False,False
+2020,California,CA,State House,64,general,Mike Gipson,Democratic,83559.0,59.5,True,True
+2020,California,CA,State House,64,general,Fatima S. Iqbal-Zubair,Democratic,56875.0,40.5,False,False
+2020,California,CA,State House,65,general,Sharon Quirk-Silva,Democratic,112333.0,58.3,True,True
+2020,California,CA,State House,65,general,Cynthia Thacker,Republican,80468.0,41.7,False,False
+2020,California,CA,State House,66,general,Al Muratsuchi,Democratic,145874.0,63.2,True,True
+2020,California,CA,State House,66,general,Arthur C. Schaper,Republican,84867.0,36.8,False,False
+2020,California,CA,State House,67,general,Kelly Seyarto,Republican,144317.0,60.0,True,False
+2020,California,CA,State House,67,general,Jerry Carlos,Democratic,96140.0,40.0,False,False
+2020,California,CA,State House,68,general,Steven Choi,Republican,136841.0,53.1,True,True
+2020,California,CA,State House,68,general,Melissa Fox,Democratic,120965.0,46.9,False,False
+2020,California,CA,State House,69,general,Tom Daly,Democratic,99731.0,72.9,True,True
+2020,California,CA,State House,69,general,Jon Paul White,Republican,37065.0,27.1,False,False
+2020,California,CA,State House,70,general,Patrick O'Donnell,Democratic,143191.0,71.7,True,True
+2020,California,CA,State House,70,general,David W. Thomas,Republican,56516.0,28.3,False,False
+2020,California,CA,State House,71,general,Randy Voepel,Republican,136156.0,59.6,True,True
+2020,California,CA,State House,71,general,"Liz ""Elizabeth"" Lavertu",Democratic,92385.0,40.4,False,False
+2020,California,CA,State House,72,general,Janet Nguyen,Republican,122483.0,54.2,True,False
+2020,California,CA,State House,72,general,Diedre Nguyen,Democratic,103707.0,45.8,False,False
+2020,California,CA,State House,73,general,Laurie Davies,Republican,161650.0,58.5,True,False
+2020,California,CA,State House,73,general,Scott Rhinehart,Democratic,114578.0,41.5,False,False
+2020,California,CA,State House,74,general,Cottie Petrie-Norris,Democratic,133607.0,50.5,True,True
+2020,California,CA,State House,74,general,Diane Dixon,Republican,131023.0,49.5,False,False
+2020,California,CA,State House,75,general,Marie Waldron,Republican,128559.0,54.5,True,True
+2020,California,CA,State House,75,general,"Karen ""Kate"" Schwartz",Democratic,107150.0,45.5,False,False
+2020,California,CA,State House,76,general,Tasha Boerner Horvath,Democratic,132668.0,55.6,True,True
+2020,California,CA,State House,76,general,Melanie Burkholder,Republican,105855.0,44.4,False,False
+2020,California,CA,State House,77,general,Brian Maienschein,Democratic,149367.0,55.8,True,True
+2020,California,CA,State House,77,general,June Yang Cutter,Republican,118396.0,44.2,False,False
+2020,California,CA,State House,78,general,Chris Ward,Democratic,123755.0,56.2,True,False
+2020,California,CA,State House,78,general,Sarah Davis,Democratic,95486.0,43.8,False,False
+2020,California,CA,State House,79,general,Shirley Weber,Democratic,147994.0,65.4,True,True
+2020,California,CA,State House,79,general,John Moore,Republican,78367.0,34.6,False,False
+2020,California,CA,State House,80,general,Lorena Gonzalez,Democratic,121661.0,71.5,True,True
+2020,California,CA,State House,80,general,John J. Vogel,Republican,48390.0,28.5,False,False
 2020,Colorado,CO,State House,1,general,Susan Lontine,Democratic,22584.0,66.36,True,True
 2020,Colorado,CO,State House,1,general,Samantha Koch,Republican,11448.0,33.64,False,False
 2020,Colorado,CO,State House,2,general,Alec Garnett,Democratic,45369.0,80.58,True,True
@@ -1361,7 +1517,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Idaho,ID,State House,1,general,Gail Bolin,Democratic,9245.0,32.0,False,False
 2020,Idaho,ID,State House,1,general,Sage G. Dixon,Republican,20212.0,69.5,True,True
 2020,Idaho,ID,State House,1,general,Stephen F. Howlett,Democratic,8113.0,27.9,False,False
-2020,Idaho,ID,State House,1,general,Dan Rose,Independent (politician),751.0,2.6,False,False
+2020,Idaho,ID,State House,1,general,Dan Rose,Independent,751.0,2.6,False,False
 2020,Idaho,ID,State House,2,general,Vito Barbieri,Republican,25827.0,100.0,True,True
 2020,Idaho,ID,State House,2,general,"Doug ""Doug O"" Okuniewicz",Republican,24273.0,83.5,True,False
 2020,Idaho,ID,State House,2,general,Jennifer Luoma,Libertarian,4803.0,16.5,False,False
@@ -1396,13 +1552,13 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Idaho,ID,State House,12,general,Bruce D. Skaug,Republican,14274.0,69.1,True,False
 2020,Idaho,ID,State House,12,general,Pat Day Hartwell,Democratic,6369.0,30.9,False,False
 2020,Idaho,ID,State House,12,general,Rick D. Youngblood,Republican,17278.0,99.8,True,True
-2020,Idaho,ID,State House,12,general,Michael H. Angel,Independent (politician),28.0,0.2,False,False
+2020,Idaho,ID,State House,12,general,Michael H. Angel,Independent,28.0,0.2,False,False
 2020,Idaho,ID,State House,13,general,Brent J. Crane,Republican,15068.0,70.0,True,True
 2020,Idaho,ID,State House,13,general,Jason Kutchma,Democratic,6473.0,30.0,False,False
 2020,Idaho,ID,State House,13,general,Ben Adams,Republican,15562.0,77.7,True,False
 2020,Idaho,ID,State House,13,general,Jess S. Smith,Libertarian,4460.0,22.3,False,False
 2020,Idaho,ID,State House,14,general,Mike Moyle,Republican,28605.0,71.2,True,True
-2020,Idaho,ID,State House,14,general,Cindy Currie,Independent (politician),11591.0,28.8,False,False
+2020,Idaho,ID,State House,14,general,Cindy Currie,Independent,11591.0,28.8,False,False
 2020,Idaho,ID,State House,14,general,Gayann DeMordaunt,Republican,28659.0,70.4,True,True
 2020,Idaho,ID,State House,14,general,Shelley Brock,Democratic,12063.0,29.6,False,False
 2020,Idaho,ID,State House,15,general,Steve Berch,Democratic,11567.0,50.6,True,True
@@ -1411,7 +1567,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Idaho,ID,State House,15,general,Codi Galloway,Republican,11975.0,52.6,True,False
 2020,Idaho,ID,State House,15,general,Jake Ellis,Democratic,10785.0,47.4,False,True
 2020,Idaho,ID,State House,16,general,John McCrostie,Democratic,17150.0,98.1,True,True
-2020,Idaho,ID,State House,16,general,Chandler S. Hadrabet,Independent (politician),332.0,1.9,False,False
+2020,Idaho,ID,State House,16,general,Chandler S. Hadrabet,Independent,332.0,1.9,False,False
 2020,Idaho,ID,State House,16,general,Colin Nash,Democratic,14114.0,58.4,True,False
 2020,Idaho,ID,State House,16,general,Jacquelyn (Jackie) Davidson,Republican,10052.0,41.6,False,False
 2020,Idaho,ID,State House,17,general,John Gannon,Democratic,13195.0,63.4,True,True
@@ -1907,8 +2063,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Kansas,KS,State House,36,general,Kathy Wolfe Moore,Democratic,8280.0,62.58,True,False
 2020,Kansas,KS,State House,36,general,Mark Gilstrap,Republican,4952.0,37.42,False,False
 2020,Kansas,KS,State House,37,general,Aaron Coleman,Democratic,3649.0,66.45,True,False
-2020,Kansas,KS,State House,37,general,Stan Frownfelter (write-in),Independent (politician),1222.0,22.25,False,False
-2020,Kansas,KS,State House,37,general,Kristina Smith (write-in),Independent (politician),620.0,11.29,False,False
+2020,Kansas,KS,State House,37,general,Stan Frownfelter (write-in),Independent,1222.0,22.25,False,False
+2020,Kansas,KS,State House,37,general,Kristina Smith (write-in),Independent,620.0,11.29,False,False
 2020,Kansas,KS,State House,38,general,Timothy H. Johnson,Republican,9368.0,63.16,True,False
 2020,Kansas,KS,State House,38,general,Sherri D. Grogan,Democratic,5464.0,36.84,False,False
 2020,Kansas,KS,State House,39,general,Owen Donohoe,Republican,8511.0,54.78,True,False
@@ -1918,7 +2074,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Kansas,KS,State House,41,general,Pat Proctor,Republican,3846.0,53.0,True,False
 2020,Kansas,KS,State House,41,general,Mike Griswold,Democratic,3411.0,47.0,False,False
 2020,Kansas,KS,State House,42,general,Lance Neelly,Republican,9652.0,97.15,True,False
-2020,Kansas,KS,State House,42,general,Jim Karleskint (write-in),Independent (politician),283.0,2.85,False,False
+2020,Kansas,KS,State House,42,general,Jim Karleskint (write-in),Independent,283.0,2.85,False,False
 2020,Kansas,KS,State House,43,general,Bill Sutton,Republican,7893.0,64.72,True,False
 2020,Kansas,KS,State House,43,general,Pamela Finley,Democratic,4302.0,35.28,False,False
 2020,Kansas,KS,State House,44,general,Barbara Ballard,Democratic,11358.0,100.0,True,True
@@ -2364,7 +2520,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Maine,ME,State House,69,general,Michael Davis,Republican,2421.0,44.4,False,False
 2020,Maine,ME,State House,70,general,Nathan Wadsworth,Republican,3134.0,59.8,True,True
 2020,Maine,ME,State House,70,general,Nathan Burnett,Democratic,2110.0,40.2,False,False
-2020,Maine,ME,State House,71,general,H. Sawin Millett (incumbent,Republican,2743.0,54.5,True,False
+2020,Maine,ME,State House,71,general,H. Sawin Millett,Republican,2743.0,54.5,True,True
 2020,Maine,ME,State House,71,general,Kenneth Morse,Democratic,2286.0,45.5,False,False
 2020,Maine,ME,State House,72,general,Kathleen Dillingham,Republican,3230.0,63.9,True,True
 2020,Maine,ME,State House,72,general,Jennifer Blastow,Democratic,1826.0,36.1,False,False
@@ -3323,7 +3479,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Montana,MT,State House,13,general,Colleen Hinds,Democratic,1449.0,21.52,False,False
 2020,Montana,MT,State House,13,general,Cade Stiles,Libertarian,493.0,7.32,False,False
 2020,Montana,MT,State House,14,general,Denley Loge,Republican,5185.0,99.94,True,True
-2020,Montana,MT,State House,14,general,Mark T. French (write-in),Independent (politician),3.0,0.06,False,False
+2020,Montana,MT,State House,14,general,Mark T. French (write-in),Independent,3.0,0.06,False,False
 2020,Montana,MT,State House,15,general,Marvin Weatherwax Jr.,Democratic,2908.0,100.0,True,True
 2020,Montana,MT,State House,16,general,Tyson Runningwolf,Democratic,3237.0,100.0,True,True
 2020,Montana,MT,State House,17,general,Ross Fitzgerald,Republican,4452.0,78.5,True,True
@@ -3365,7 +3521,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Montana,MT,State House,40,general,Barry Usher,Republican,4783.0,81.03,True,True
 2020,Montana,MT,State House,40,general,Kris Spanjian,Democratic,1120.0,18.97,False,False
 2020,Montana,MT,State House,41,general,Rynalea Whiteman Pena,Democratic,1829.0,99.84,True,False
-2020,Montana,MT,State House,41,general,Kristina Marie Redbird-Quaempts (write-in),Independent (politician),3.0,0.16,False,False
+2020,Montana,MT,State House,41,general,Kristina Marie Redbird-Quaempts (write-in),Independent,3.0,0.16,False,False
 2020,Montana,MT,State House,42,general,Sharon Stewart-Peregoy,Democratic,2778.0,100.0,True,True
 2020,Montana,MT,State House,43,general,Kerri Seekins-Crowe,Republican,3553.0,70.37,True,False
 2020,Montana,MT,State House,43,general,Melody Benes,Libertarian,1496.0,29.63,False,False
@@ -3753,7 +3909,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,North Carolina,NC,State House,25,general,Nick Taylor,Libertarian,1589.0,3.67,False,False
 2020,North Carolina,NC,State House,26,general,Donna McDowell White,Republican,33495.0,53.67,True,True
 2020,North Carolina,NC,State House,26,general,Linda Bennett,Democratic,21689.0,34.75,False,False
-2020,North Carolina,NC,State House,26,general,Denton Lee,Independent (politician),7227.0,11.58,False,False
+2020,North Carolina,NC,State House,26,general,Denton Lee,Independent,7227.0,11.58,False,False
 2020,North Carolina,NC,State House,27,general,Michael Wray,Democratic,23169.0,66.78,True,True
 2020,North Carolina,NC,State House,27,general,Warren Scott Nail,Republican,11527.0,33.22,False,False
 2020,North Carolina,NC,State House,28,general,Larry Strickland,Republican,29510.0,67.7,True,True
@@ -3924,7 +4080,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,North Carolina,NC,State House,111,general,Jennifer Childers,Democratic,14063.0,36.48,False,False
 2020,North Carolina,NC,State House,112,general,David Rogers,Republican,28059.0,73.9,True,True
 2020,North Carolina,NC,State House,112,general,Ed Hallyburton,Democratic,9836.0,25.9,False,False
-2020,North Carolina,NC,State House,112,general,Darren Joiner (Write-In),Independent (politician),25.0,0.07,False,False
+2020,North Carolina,NC,State House,112,general,Darren Joiner (Write-In),Independent,25.0,0.07,False,False
 2020,North Carolina,NC,State House,113,general,Jake Johnson,Republican,30367.0,59.59,True,True
 2020,North Carolina,NC,State House,113,general,Sam Edney,Democratic,20596.0,40.41,False,False
 2020,North Carolina,NC,State House,114,general,Susan Fisher,Democratic,30584.0,58.24,True,True
@@ -4053,8 +4209,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Ohio,OH,State House,14,general,Lynn McMahan,Republican,19643.0,41.6,False,False
 2020,Ohio,OH,State House,15,general,Jeffrey Crossman,Democratic,24020.0,52.2,True,True
 2020,Ohio,OH,State House,15,general,Kevin Kussmaul,Republican,22018.0,47.8,False,False
-2020,Ohio,OH,State House,16,general,Monique Smith,Democratic,35013.0,50.7,True,False
-2020,Ohio,OH,State House,16,general,David Greenspan,Republican,34075.0,49.3,False,True
+2020,Ohio,OH,State House,POLLING,general,Monique Smith,Democratic,35013.0,50.7,True,False
+2020,Ohio,OH,State House,POLLING,general,David Greenspan,Republican,34075.0,49.3,False,True
 2020,Ohio,OH,State House,17,general,Adam Miller,Democratic,21664.0,56.6,True,True
 2020,Ohio,OH,State House,17,general,Tim Haske,Republican,16588.0,43.4,False,False
 2020,Ohio,OH,State House,18,general,Kristin Boggs,Democratic,45861.0,77.9,True,True
@@ -4066,15 +4222,15 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Ohio,OH,State House,21,general,Beth Liston,Democratic,42990.0,56.8,True,True
 2020,Ohio,OH,State House,21,general,Mehek Cooke,Republican,32756.0,42.2,False,False
 2020,Ohio,OH,State House,22,general,David Leland,Democratic,45754.0,100.0,True,True
-2020,Ohio,OH,State House,23,general,Laura Lanese,Republican,34275.0,55.5,True,True
-2020,Ohio,OH,State House,23,general,Nancy Day-Achauer,Democratic,27532.0,44.5,False,False
+2020,Ohio,OH,State House,POLLING,general,Laura Lanese,Republican,34275.0,55.5,True,True
+2020,Ohio,OH,State House,POLLING,general,Nancy Day-Achauer,Democratic,27532.0,44.5,False,False
 2020,Ohio,OH,State House,24,general,Allison Russo,Democratic,42935.0,57.9,True,True
 2020,Ohio,OH,State House,24,general,Pat Manley,Republican,31202.0,42.1,False,False
 2020,Ohio,OH,State House,25,general,Dontavius Jarrells,Democratic,41312.0,82.3,True,False
 2020,Ohio,OH,State House,25,general,Jim Burgess,Republican,8870.0,17.7,False,False
 2020,Ohio,OH,State House,26,general,Erica Crawley,Democratic,45350.0,100.0,True,True
-2020,Ohio,OH,State House,27,general,Tom Brinkman,Republican,37723.0,53.1,True,True
-2020,Ohio,OH,State House,27,general,Sara Bitter,Democratic,33339.0,46.9,False,False
+2020,Ohio,OH,State House,POLLING,general,Tom Brinkman,Republican,37723.0,53.1,True,True
+2020,Ohio,OH,State House,POLLING,general,Sara Bitter,Democratic,33339.0,46.9,False,False
 2020,Ohio,OH,State House,28,general,Jessica Miranda,Democratic,35353.0,51.7,True,True
 2020,Ohio,OH,State House,28,general,Chris Monzel,Republican,33039.0,48.3,False,False
 2020,Ohio,OH,State House,29,general,Cindy Abrams,Republican,43320.0,98.2,True,True
@@ -4089,10 +4245,10 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Ohio,OH,State House,34,general,Henry Todd,Republican,10926.0,23.2,False,False
 2020,Ohio,OH,State House,35,general,Tavia Galonski,Democratic,22341.0,56.5,True,True
 2020,Ohio,OH,State House,35,general,Jodi Sarver,Republican,17210.0,43.5,False,False
-2020,Ohio,OH,State House,36,general,Bob Young,Republican,32294.0,52.3,True,False
-2020,Ohio,OH,State House,36,general,Matt Shaughnessy,Democratic,29441.0,47.7,False,False
-2020,Ohio,OH,State House,37,general,Casey Weinstein,Democratic,36789.0,51.4,True,True
-2020,Ohio,OH,State House,37,general,Beth Bigham,Republican,34776.0,48.6,False,False
+2020,Ohio,OH,State House,POLLING,general,Bob Young,Republican,32294.0,52.3,True,False
+2020,Ohio,OH,State House,POLLING,general,Matt Shaughnessy,Democratic,29441.0,47.7,False,False
+2020,Ohio,OH,State House,POLLING,general,Casey Weinstein,Democratic,36789.0,51.4,True,True
+2020,Ohio,OH,State House,POLLING,general,Beth Bigham,Republican,34776.0,48.6,False,False
 2020,Ohio,OH,State House,38,general,Bill Roemer,Republican,38669.0,60.5,True,True
 2020,Ohio,OH,State House,38,general,Joe Campbell,Democratic,25191.0,39.5,False,False
 2020,Ohio,OH,State House,39,general,"Willis Blackshear, Jr.",Democratic,31583.0,79.3,True,False
@@ -4102,8 +4258,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Ohio,OH,State House,41,general,Andrea White,Republican,37172.0,56.8,True,False
 2020,Ohio,OH,State House,41,general,Cate Berger,Democratic,28314.0,43.2,False,False
 2020,Ohio,OH,State House,42,general,Tom Young,Republican,48394.0,100.0,True,False
-2020,Ohio,OH,State House,43,general,Rodney Creech,Republican,31463.0,54.2,True,False
-2020,Ohio,OH,State House,43,general,Amy Cox,Democratic,26552.0,45.8,False,False
+2020,Ohio,OH,State House,POLLING,general,Rodney Creech,Republican,31463.0,54.2,True,False
+2020,Ohio,OH,State House,POLLING,general,Amy Cox,Democratic,26552.0,45.8,False,False
 2020,Ohio,OH,State House,44,general,Paula Hicks-Hudson,Democratic,32101.0,79.0,True,True
 2020,Ohio,OH,State House,44,general,Robert McMahon,Republican,8511.0,21.0,False,False
 2020,Ohio,OH,State House,45,general,Lisa Sobecki,Democratic,27776.0,61.6,True,True
@@ -4200,8 +4356,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Ohio,OH,State House,87,general,Nicholas Barnes,Democratic,12977.0,23.85,False,False
 2020,Ohio,OH,State House,88,general,Gary Click,Republican,32823.0,62.9,True,False
 2020,Ohio,OH,State House,88,general,Chris Liebold,Democratic,19359.0,37.1,False,False
-2020,Ohio,OH,State House,89,general,"Douglas Swearingen, Jr.",Republican,35675.0,57.3,True,True
-2020,Ohio,OH,State House,89,general,Alexis Miller,Democratic,26580.0,42.7,False,False
+2020,Ohio,OH,State House,POLLING,general,"Douglas Swearingen, Jr.",Republican,35675.0,57.3,True,True
+2020,Ohio,OH,State House,POLLING,general,Alexis Miller,Democratic,26580.0,42.7,False,False
 2020,Ohio,OH,State House,90,general,Brian Baldridge,Republican,39779.0,100.0,True,True
 2020,Ohio,OH,State House,91,general,Shane Wilkin,Republican,41143.0,76.76,True,True
 2020,Ohio,OH,State House,91,general,Scott Dailey,Democratic,12455.0,23.24,False,False
@@ -4231,19 +4387,364 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Pennsylvania,PA,State House,58,special general,Kenneth Bach,Libertarian,556.0,6.85,False,False
 2020,Pennsylvania,PA,State House,190,special general,G. Roni Green,Democratic,2651.0,86.27,True,False
 2020,Pennsylvania,PA,State House,190,special general,Wanda Logan,Republican,422.0,13.73,False,False
+2020,Pennsylvania,PA,State House,1,general,Pat Harkins,Democratic,17919.0,100.0,True,False
+2020,Pennsylvania,PA,State House,2,general,Robert Merski,Democratic,22342.0,100.0,True,False
+2020,Pennsylvania,PA,State House,3,general,Ryan Bizzarro,Democratic,22219.0,61.37,True,False
+2020,Pennsylvania,PA,State House,3,general,Greg Hayes,Republican,13985.0,38.63,False,False
+2020,Pennsylvania,PA,State House,4,general,Curt Sonney,Republican,26762.0,100.0,True,False
+2020,Pennsylvania,PA,State House,5,general,Barry Jozwiak,Republican,23291.0,69.73,True,False
+2020,Pennsylvania,PA,State House,5,general,Graham Gonzales,Democratic,10112.0,30.27,False,False
+2020,Pennsylvania,PA,State House,6,general,Brad Roae,Republican,21285.0,65.35,True,False
+2020,Pennsylvania,PA,State House,6,general,Matthew Ferrence,Democratic,11286.0,34.65,False,False
+2020,Pennsylvania,PA,State House,7,general,Mark Longietti,Democratic,28297.0,100.0,True,False
+2020,Pennsylvania,PA,State House,8,general,Tim Bonner,Republican,23838.0,75.15,True,False
+2020,Pennsylvania,PA,State House,8,general,Phillip Heasley,Democratic,7883.0,24.85,False,False
+2020,Pennsylvania,PA,State House,9,general,Chris Sainato,Democratic,15180.0,50.35,True,False
+2020,Pennsylvania,PA,State House,9,general,Carol Lynne Ryan,Republican,12030.0,39.9,False,False
+2020,Pennsylvania,PA,State House,9,general,Darryl Audia,Independent,2940.0,9.75,False,False
+2020,Pennsylvania,PA,State House,10,general,Aaron Bernstine,Republican,15009.0,51.5,True,False
+2020,Pennsylvania,PA,State House,10,general,Kolbe Cole,Democratic,10032.0,34.43,False,False
+2020,Pennsylvania,PA,State House,10,general,Johnathan Peffer,Independent,4100.0,14.07,False,False
+2020,Pennsylvania,PA,State House,11,general,Marci Mustello,Republican,22956.0,71.84,True,False
+2020,Pennsylvania,PA,State House,11,general,Samuel Doctor,Democratic,9043.0,28.26,False,False
+2020,Pennsylvania,PA,State House,12,general,Daryl Metcalfe,Republican,26909.0,61.67,True,False
+2020,Pennsylvania,PA,State House,12,general,Daniel Smith Jr,Democratic,16724.0,38.33,False,False
+2020,Pennsylvania,PA,State House,13,general,John Lawrence,Republican,20247.0,58.95,True,False
+2020,Pennsylvania,PA,State House,13,general,Richard Ruggieri,Democratic,14097.0,41.05,False,False
+2020,Pennsylvania,PA,State House,14,general,Jim E. Marshall,Republican,24961.0,69.95,True,False
+2020,Pennsylvania,PA,State House,14,general,Zach Wilson,Democratic,10878.0,30.35,False,False
+2020,Pennsylvania,PA,State House,15,general,Josh Kail,Republican,24558.0,70.85,True,False
+2020,Pennsylvania,PA,State House,15,general,Robert Williams,Democratic,10102.0,29.15,False,False
+2020,Pennsylvania,PA,State House,16,general,Robert Matzie,Democratic,19101.0,56.19,True,False
+2020,Pennsylvania,PA,State House,16,general,Rico Elmore,Republican,14891.0,43.81,False,False
+2020,Pennsylvania,PA,State House,17,general,Parke Wentling,Republican,26574.0,100.0,True,False
+2020,Pennsylvania,PA,State House,18,general,K.C. Tomlinson,Republican,16711.0,52.32,True,False
+2020,Pennsylvania,PA,State House,18,general,Harold Hayes,Democratic,15228.0,47.68,False,False
+2020,Pennsylvania,PA,State House,19,general,Jake Wheatley,Democratic,22700.0,100.0,True,False
+2020,Pennsylvania,PA,State House,20,general,Emily Kinkead,Democratic,27680.0,100.0,True,False
+2020,Pennsylvania,PA,State House,21,general,Sara Innamorato,Democratic,24057.0,66.38,True,False
+2020,Pennsylvania,PA,State House,21,general,John Waugh,Republican,12183.0,33.62,False,False
+2020,Pennsylvania,PA,State House,22,general,Peter Schweyer,Democratic,13969.0,100.0,True,False
+2020,Pennsylvania,PA,State House,23,general,Dan Frankel,Democratic,24685.0,85.42,True,False
+2020,Pennsylvania,PA,State House,23,general,Jay Ting Walker,Green,4212.0,14.58,False,False
+2020,Pennsylvania,PA,State House,24,general,Ed Gainey,Democratic,29919.0,100.0,True,False
+2020,Pennsylvania,PA,State House,25,general,Brandon Markosek,Democratic,19461.0,58.32,True,False
+2020,Pennsylvania,PA,State House,25,general,John Ritter,Republican,13908.0,41.68,False,False
+2020,Pennsylvania,PA,State House,26,general,Tim Hennessey,Republican,19769.0,53.5,True,False
+2020,Pennsylvania,PA,State House,26,general,Paul Friel,Democratic,17180.0,46.5,False,False
+2020,Pennsylvania,PA,State House,27,general,Dan Deasy,Democratic,26109.0,100.0,True,False
+2020,Pennsylvania,PA,State House,28,general,Rob Mercuri,Republican,23806.0,53.73,True,False
+2020,Pennsylvania,PA,State House,28,general,Emily Skopov,Democratic,20500.0,46.27,False,False
+2020,Pennsylvania,PA,State House,29,general,Meghan Schroeder,Republican,23237.0,55.24,True,False
+2020,Pennsylvania,PA,State House,29,general,Marlene Katz,Democratic,18475.0,43.92,False,False
+2020,Pennsylvania,PA,State House,29,general,Nathanael Schmolze,Independent,352.0,0.84,False,False
+2020,Pennsylvania,PA,State House,30,general,Lori Mizgorski,Republican,23340.0,54.83,True,False
+2020,Pennsylvania,PA,State House,30,general,Lissa Geiger Shulman,Democratic,19231.0,45.17,False,False
+2020,Pennsylvania,PA,State House,31,general,Perry Warren,Democratic,26275.0,59.69,True,False
+2020,Pennsylvania,PA,State House,31,general,Charles Adcock,Republican,17742.0,40.31,False,False
+2020,Pennsylvania,PA,State House,32,general,Anthony M. DeLuca,Democratic,30332.0,100.0,True,False
+2020,Pennsylvania,PA,State House,33,general,Carrie DelRosso,Republican,16383.0,51.39,True,False
+2020,Pennsylvania,PA,State House,33,general,Frank Dermody,Democratic,15494.0,48.61,False,False
+2020,Pennsylvania,PA,State House,34,general,Summer Lee,Democratic,27129.0,100.0,True,False
+2020,Pennsylvania,PA,State House,35,general,Austin Davis,Democratic,21335.0,100.0,True,False
+2020,Pennsylvania,PA,State House,36,general,Jessica Benham,Democratic,20076.0,62.61,True,False
+2020,Pennsylvania,PA,State House,36,general,Adrian Doyle,Republican,11988.0,37.39,False,False
+2020,Pennsylvania,PA,State House,37,general,Mindy Fee,Republican,25783.0,72.91,True,False
+2020,Pennsylvania,PA,State House,37,general,John Padora,Democratic,9579.0,27.09,False,False
+2020,Pennsylvania,PA,State House,38,general,Nick Pisciottano,Democratic,20362.0,56.09,True,False
+2020,Pennsylvania,PA,State House,38,general,Linda Book,Republican,15941.0,43.91,False,False
+2020,Pennsylvania,PA,State House,39,general,Mike Puskaric,Republican,23093.0,62.82,True,False
+2020,Pennsylvania,PA,State House,39,general,Sara-Summer Oliphant,Democratic,13669.0,37.18,False,False
+2020,Pennsylvania,PA,State House,40,general,Natalie Mihalek,Republican,26485.0,60.92,True,False
+2020,Pennsylvania,PA,State House,40,general,Sharon Guidi,Democratic,16990.0,39.08,False,False
+2020,Pennsylvania,PA,State House,41,general,Brett Miller,Republican,23230.0,57.87,True,False
+2020,Pennsylvania,PA,State House,41,general,Michele Wherley,Democratic,16912.0,42.13,False,False
+2020,Pennsylvania,PA,State House,42,general,Dan Miller,Democratic,25580.0,68.47,True,False
+2020,Pennsylvania,PA,State House,42,general,Kurt Korinko Jr.,Republican,11778.0,31.53,False,False
+2020,Pennsylvania,PA,State House,43,general,Keith Greiner,Republican,27324.0,100.0,True,False
+2020,Pennsylvania,PA,State House,44,general,Valerie Gaydos,Republican,22140.0,54.96,True,False
+2020,Pennsylvania,PA,State House,44,general,Michele Knoll,Democratic,18143.0,45.04,False,False
+2020,Pennsylvania,PA,State House,45,general,Anita Astorino Kulik,Democratic,22853.0,61.71,True,False
+2020,Pennsylvania,PA,State House,45,general,Danny Devito,Republican,14180.0,38.29,False,False
+2020,Pennsylvania,PA,State House,46,general,Jason Ortitay,Republican,25271.0,62.41,True,False
+2020,Pennsylvania,PA,State House,46,general,Byron Timmins,Democratic,15224.0,37.59,False,False
+2020,Pennsylvania,PA,State House,47,general,Keith J. Gillespie,Republican,22066.0,65.37,True,False
+2020,Pennsylvania,PA,State House,47,general,Donald Owens,Republican,11687.0,34.63,False,False
+2020,Pennsylvania,PA,State House,48,general,Tim O'Neal,Republican,20571.0,58.41,True,False
+2020,Pennsylvania,PA,State House,48,general,Harlan Shober,Democratic,14646.0,41.59,False,False
+2020,Pennsylvania,PA,State House,49,general,Bud Cook,Republican,17926.0,63.56,True,False
+2020,Pennsylvania,PA,State House,49,general,Randy Barli,Democratic,10278.0,36.44,False,False
+2020,Pennsylvania,PA,State House,50,general,Pam Snyder,Democratic,14587.0,53.27,True,False
+2020,Pennsylvania,PA,State House,50,general,Larry Yost,Republican,12796.0,46.73,False,False
+2020,Pennsylvania,PA,State House,51,general,Matt Dowling,Republican,19592.0,68.64,True,False
+2020,Pennsylvania,PA,State House,51,general,Kevin Jones,Democratic,8953.0,31.36,False,False
+2020,Pennsylvania,PA,State House,52,general,Ryan Warner,Republican,21219.0,70.4,True,False
+2020,Pennsylvania,PA,State House,52,general,Harry Cochran,Democratic,8923.0,29.6,False,False
+2020,Pennsylvania,PA,State House,53,general,Steve Malagari,Democratic,19974.0,54.7,True,False
+2020,Pennsylvania,PA,State House,53,general,Allan Arnott,Republican,16543.0,45.3,False,False
+2020,Pennsylvania,PA,State House,54,general,Robert Brooks,Republican,30446.0,100.0,True,False
+2020,Pennsylvania,PA,State House,55,general,Jason Silvis,Republican,16446.0,52.28,True,False
+2020,Pennsylvania,PA,State House,55,general,Joseph Petrarca Jr.,Democratic,14914.0,47.72,False,False
+2020,Pennsylvania,PA,State House,56,general,George Dunbar,Republican,32942.0,100.0,True,False
+2020,Pennsylvania,PA,State House,57,general,Eric Nelson,Republican,28797.0,100.0,True,False
+2020,Pennsylvania,PA,State House,58,general,Eric Davanzo,Republican,20591.0,63.21,True,False
+2020,Pennsylvania,PA,State House,58,general,Robert Prah,Democratic,11982.0,36.79,False,False
+2020,Pennsylvania,PA,State House,59,general,Mike Reese,Republican,32189.0,100.0,True,False
+2020,Pennsylvania,PA,State House,60,general,Jeff Pyle,Republican,29898.0,100.0,True,False
+2020,Pennsylvania,PA,State House,61,general,Liz Hanbidge,Democratic,25065.0,59.83,True,False
+2020,Pennsylvania,PA,State House,61,general,Florence Friebel,Republican,16832.0,40.17,False,False
+2020,Pennsylvania,PA,State House,62,general,James Struzzi,Republican,19943.0,68.41,True,False
+2020,Pennsylvania,PA,State House,62,general,Dennis Semsick,Democratic,9211.0,31.59,False,False
+2020,Pennsylvania,PA,State House,63,general,Donna Oberlander,Republican,26480.0,100.0,True,False
+2020,Pennsylvania,PA,State House,64,general,Lee James,Republican,23004.0,80.46,True,False
+2020,Pennsylvania,PA,State House,64,general,Michael Bagdes-Canning,Green,5587.0,19.54,False,False
+2020,Pennsylvania,PA,State House,65,general,Kathy Rapp,Republican,25343.0,100.0,True,False
+2020,Pennsylvania,PA,State House,66,general,Brian Smith,Republican,28093.0,100.0,True,False
+2020,Pennsylvania,PA,State House,67,general,Martin Causer,Republican,27302.0,100.0,True,False
+2020,Pennsylvania,PA,State House,68,general,Clint Owlett,Republican,26055.0,89.11,True,False
+2020,Pennsylvania,PA,State House,68,general,Noyes Lawton,Libertarian,3183.0,10.89,False,False
+2020,Pennsylvania,PA,State House,69,general,Carl Walker Metzgar,Republican,31077.0,100.0,True,False
+2020,Pennsylvania,PA,State House,70,general,Matthew Bradford,Democratic,21596.0,69.11,True,False
+2020,Pennsylvania,PA,State House,70,general,Daniel Wissert,Republican,9653.0,30.89,False,False
+2020,Pennsylvania,PA,State House,71,general,Jim Rigby,Republican,26689.0,100.0,True,False
+2020,Pennsylvania,PA,State House,72,general,Frank Burns,Democratic,16886.0,52.71,True,False
+2020,Pennsylvania,PA,State House,72,general,Howard Terndrup,Republican,15150.0,47.29,False,False
+2020,Pennsylvania,PA,State House,73,general,Tommy Sankey,Republican,26933.0,100.0,True,False
+2020,Pennsylvania,PA,State House,74,general,Dan K. Williams,Democratic,21730.0,64.38,True,False
+2020,Pennsylvania,PA,State House,74,general,Dale Hensel,Republican,12025.0,35.62,False,False
+2020,Pennsylvania,PA,State House,75,general,Michael Armanini,Republican,25558.0,76.22,True,False
+2020,Pennsylvania,PA,State House,75,general,Ryan Grimm,Democratic,7973.0,23.78,False,False
+2020,Pennsylvania,PA,State House,76,general,Stephanie Borowicz,Republican,19175.0,65.49,True,False
+2020,Pennsylvania,PA,State House,76,general,Joseph Waltz,Democratic,10105.0,34.51,False,False
+2020,Pennsylvania,PA,State House,77,general,Scott Conklin,Democratic,14290.0,65.81,True,False
+2020,Pennsylvania,PA,State House,77,general,Stephen Yetsko,Republican,7424.0,34.19,False,False
+2020,Pennsylvania,PA,State House,78,general,Jesse Topper,Republican,31550.0,100.0,True,False
+2020,Pennsylvania,PA,State House,79,general,Louis Schmitt Jr.,Republican,20103.0,70.19,True,False
+2020,Pennsylvania,PA,State House,79,general,Jason Runk,Democratic,8536.0,29.81,False,False
+2020,Pennsylvania,PA,State House,80,general,Jim Gregory,Republican,30950.0,100.0,True,False
+2020,Pennsylvania,PA,State House,81,general,Rich Irvin,Republican,23361.0,68.75,True,False
+2020,Pennsylvania,PA,State House,81,general,Ian Kidd,Democratic,10618.0,31.25,False,False
+2020,Pennsylvania,PA,State House,82,general,John D. Hershey,Republican,26822.0,100.0,True,False
+2020,Pennsylvania,PA,State House,83,general,Jeff Wheeland,Republican,19065.0,67.32,True,False
+2020,Pennsylvania,PA,State House,83,general,Airneezer Page,Democratic,9253.0,32.68,False,False
+2020,Pennsylvania,PA,State House,84,general,Joe Hamm,Republican,25961.0,78.82,True,False
+2020,Pennsylvania,PA,State House,84,general,Amanda Waldman,Democratic,6975.0,21.18,False,False
+2020,Pennsylvania,PA,State House,85,general,David H. Rowe,Republican,20783.0,68.14,True,False
+2020,Pennsylvania,PA,State House,85,general,Kathleen M. Evans,Democratic,9719.0,31.86,False,False
+2020,Pennsylvania,PA,State House,86,general,Perry A. Stambaugh,Republican,27355.0,100.0,True,False
+2020,Pennsylvania,PA,State House,87,general,Greg Rothman,Republican,24239.0,55.92,True,False
+2020,Pennsylvania,PA,State House,87,general,Nicole Miller,Democratic,19104.0,44.08,False,False
+2020,Pennsylvania,PA,State House,88,general,Sheryl M. Delozier,Republican,21344.0,58.09,True,False
+2020,Pennsylvania,PA,State House,88,general,Tara Shakespeare,Democratic,15396.0,41.91,False,False
+2020,Pennsylvania,PA,State House,89,general,Rob Kauffman,Republican,28302.0,100.0,True,False
+2020,Pennsylvania,PA,State House,90,general,Paul Schemel,Republican,30095.0,100.0,True,False
+2020,Pennsylvania,PA,State House,91,general,Dan Moul,Republican,28932.0,100.0,True,False
+2020,Pennsylvania,PA,State House,92,general,Dawn Keefer,Republican,27049.0,71.97,True,False
+2020,Pennsylvania,PA,State House,92,general,Douglas Ross,Democratic,10533.0,28.03,False,False
+2020,Pennsylvania,PA,State House,93,general,Paul M. Jones,Republican,27827.0,100.0,True,False
+2020,Pennsylvania,PA,State House,94,general,Stan Saylor,Republican,26266.0,100.0,True,False
+2020,Pennsylvania,PA,State House,95,general,Carol Hill-Evans,Democratic,14120.0,63.98,True,False
+2020,Pennsylvania,PA,State House,95,general,Kathryn French,Republican,7950.0,36.02,False,False
+2020,Pennsylvania,PA,State House,96,general,Mike Sturla,Democratic,20880.0,100.0,True,False
+2020,Pennsylvania,PA,State House,97,general,Steven Mentzer,Republican,24352.0,56.87,True,False
+2020,Pennsylvania,PA,State House,97,general,Dana Gulick,Democratic,18466.0,43.13,False,False
+2020,Pennsylvania,PA,State House,98,general,David Hickernell,Republican,22412.0,66.61,True,False
+2020,Pennsylvania,PA,State House,98,general,Bill Troutman,Democratic,11235.0,33.39,False,False
+2020,Pennsylvania,PA,State House,99,general,David H. Zimmerman,Republican,21187.0,73.4,True,False
+2020,Pennsylvania,PA,State House,99,general,Richard Hodge,Democratic,7680.0,26.6,False,False
+2020,Pennsylvania,PA,State House,100,general,Bryan Cutler,Republican,24315.0,100.0,True,False
+2020,Pennsylvania,PA,State House,101,general,Frank Ryan,Republican,21611.0,62.82,True,False
+2020,Pennsylvania,PA,State House,101,general,Calvin Clements,Democratic,12792.0,37.18,False,False
+2020,Pennsylvania,PA,State House,102,general,Russ Diamond,Republican,23197.0,70.2,True,False
+2020,Pennsylvania,PA,State House,102,general,Matthew Duvall,Democratic,9845.0,29.8,False,False
+2020,Pennsylvania,PA,State House,103,general,Patty Kim,Democratic,22460.0,100.0,True,False
+2020,Pennsylvania,PA,State House,104,general,Susan Helm,Republican,20735.0,55.88,True,False
+2020,Pennsylvania,PA,State House,104,general,Patricia Smith,Democratic,16371.0,44.12,False,False
+2020,Pennsylvania,PA,State House,105,general,Andrew Lewis,Republican,21320.0,51.83,True,False
+2020,Pennsylvania,PA,State House,105,general,Brittney Rodas,Democratic,19814.0,48.17,False,False
+2020,Pennsylvania,PA,State House,106,general,Tom Mehaffie,Republican,19283.0,53.57,True,False
+2020,Pennsylvania,PA,State House,106,general,Lindsay Drew,Democratic,16714.0,46.43,False,False
+2020,Pennsylvania,PA,State House,107,general,Kurt Masser,Republican,23083.0,82.2,True,False
+2020,Pennsylvania,PA,State House,107,general,Ryan Bourinski,Libertarian,4992.0,17.8,False,False
+2020,Pennsylvania,PA,State House,108,general,Lynda Schlegel-Culver,Republican,27354.0,100.0,True,False
+2020,Pennsylvania,PA,State House,109,general,David R. Millard,Republican,19127.0,66.16,True,False
+2020,Pennsylvania,PA,State House,109,general,Will Monahan,Democratic,7334.0,25.37,False,False
+2020,Pennsylvania,PA,State House,109,general,Roger Nuss,Independent,2449.0,8.47,False,False
+2020,Pennsylvania,PA,State House,110,general,Tina Pickett,Republican,24855.0,86.62,True,False
+2020,Pennsylvania,PA,State House,110,general,Lawrence D Frey III,Libertarian,3840.0,13.38,False,False
+2020,Pennsylvania,PA,State House,111,general,Jonathan Fritz,Republican,26472.0,100.0,True,False
+2020,Pennsylvania,PA,State House,112,general,Kyle Mullins,Democratic,21274.0,65.22,True,False
+2020,Pennsylvania,PA,State House,112,general,Mary Alice Noldy,Republican,11346.0,34.78,False,False
+2020,Pennsylvania,PA,State House,113,general,Marty Flynn,Democratic,20308.0,68.42,True,False
+2020,Pennsylvania,PA,State House,113,general,William Kresge,Republican,9374.0,31.58,False,False
+2020,Pennsylvania,PA,State House,114,general,Bridget Malloy Kosierowski,Democratic,19890.0,53.87,True,False
+2020,Pennsylvania,PA,State House,114,general,James May,Republican,17030.0,46.13,False,False
+2020,Pennsylvania,PA,State House,115,general,Maureen Madden,Democratic,17605.0,63.92,True,False
+2020,Pennsylvania,PA,State House,115,general,Dulce Ridder,Republican,9939.0,36.08,False,False
+2020,Pennsylvania,PA,State House,116,general,Tarah Toohil,Republican,19167.0,72.31,True,False
+2020,Pennsylvania,PA,State House,116,general,Todd Eachus,Democratic,7338.0,27.69,False,False
+2020,Pennsylvania,PA,State House,117,general,Karen Boback,Republican,28963.0,100.0,True,False
+2020,Pennsylvania,PA,State House,118,general,Michael B. Carroll,Democratic,18759.0,53.53,True,False
+2020,Pennsylvania,PA,State House,118,general,Andrew Holter,Republican,16283.0,46.47,False,False
+2020,Pennsylvania,PA,State House,119,general,Gerald Mullery,Democratic,14961.0,52.57,True,False
+2020,Pennsylvania,PA,State House,119,general,John Chura,Republican,13500.0,47.43,False,False
+2020,Pennsylvania,PA,State House,120,general,Aaron Kaufer,Republican,20428.0,63.12,True,False
+2020,Pennsylvania,PA,State House,120,general,Joanna Bryn Smith,Democratic,11934.0,36.88,False,False
+2020,Pennsylvania,PA,State House,121,general,Eddie Day Pashinski,Democratic,18764.0,100.0,True,False
+2020,Pennsylvania,PA,State House,122,general,Doyle Heffley,Republican,28398.0,100.0,True,False
+2020,Pennsylvania,PA,State House,123,general,Tim Twardzik,Republican,15090.0,62.63,True,False
+2020,Pennsylvania,PA,State House,123,general,Peter Symons,Democratic,9004.0,37.37,False,False
+2020,Pennsylvania,PA,State House,124,general,Jerry Knowles,Republican,23111.0,72.04,True,False
+2020,Pennsylvania,PA,State House,124,general,Taylor Picone,Democratic,8972.0,27.96,False,False
+2020,Pennsylvania,PA,State House,125,general,Joe Kerwin,Republican,28076.0,100.0,True,False
+2020,Pennsylvania,PA,State House,126,general,Mark Rozzi,Democratic,18508.0,67.38,True,False
+2020,Pennsylvania,PA,State House,126,general,James Oswald,Republican,8961.0,32.62,False,False
+2020,Pennsylvania,PA,State House,127,general,Manny Guzman Jr.,Democratic,11786.0,72.94,True,False
+2020,Pennsylvania,PA,State House,127,general,Vincent Gagliardo Jr.,Republican,4372.0,27.06,False,False
+2020,Pennsylvania,PA,State House,128,general,Mark M. Gillen,Republican,30348.0,100.0,True,False
+2020,Pennsylvania,PA,State House,129,general,Jim Cox,Republican,21067.0,57.33,True,False
+2020,Pennsylvania,PA,State House,129,general,Kelly McDonough,Democratic,15682.0,42.67,False,False
+2020,Pennsylvania,PA,State House,130,general,David Maloney,Republican,23508.0,63.81,True,False
+2020,Pennsylvania,PA,State House,130,general,Francis Foley,Democratic,13332.0,36.19,False,False
+2020,Pennsylvania,PA,State House,131,general,Milou Mackenzie,Republican,22489.0,54.25,True,False
+2020,Pennsylvania,PA,State House,131,general,Kevin Branco,Democratic,18964.0,45.75,False,False
+2020,Pennsylvania,PA,State House,132,general,Mike Schlossberg,Democratic,17025.0,67.89,True,False
+2020,Pennsylvania,PA,State House,132,general,Michael McCreary,Republican,8051.0,32.11,False,False
+2020,Pennsylvania,PA,State House,133,general,Jeanne McNeill,Democratic,18844.0,60.65,True,False
+2020,Pennsylvania,PA,State House,133,general,David Molony,Republican,12227.0,39.35,False,False
+2020,Pennsylvania,PA,State House,134,general,Ryan Mackenzie,Republican,23485.0,60.06,True,False
+2020,Pennsylvania,PA,State House,134,general,Marc Basist,Democratic,15618.0,39.94,False,False
+2020,Pennsylvania,PA,State House,135,general,Steve Samuelson,Democratic,19924.0,65.62,True,False
+2020,Pennsylvania,PA,State House,135,general,Scott Hough,Democratic,10438.0,34.38,False,False
+2020,Pennsylvania,PA,State House,136,general,Robert L. Freeman,Democratic,21469.0,100.0,True,False
+2020,Pennsylvania,PA,State House,137,general,Joe Emrick,Republican,23846.0,63.3,True,False
+2020,Pennsylvania,PA,State House,137,general,Katelind Brennan,Democratic,13828.0,36.7,False,False
+2020,Pennsylvania,PA,State House,138,general,Ann Flood,Republican,23555.0,56.15,True,False
+2020,Pennsylvania,PA,State House,138,general,Tara Zrinski,Democratic,18396.0,43.85,False,False
+2020,Pennsylvania,PA,State House,139,general,Michael Peifer,Republican,24597.0,68.41,True,False
+2020,Pennsylvania,PA,State House,139,general,Marian Keegan,Democratic,11359.0,31.59,False,False
+2020,Pennsylvania,PA,State House,140,general,John Galloway,Democratic,19840.0,59.99,True,False
+2020,Pennsylvania,PA,State House,140,general,Jeanine McGee,Republican,13230.0,40.01,False,False
+2020,Pennsylvania,PA,State House,141,general,Tina Davis,Democratic,19364.0,62.67,True,False
+2020,Pennsylvania,PA,State House,141,general,Kelly Bellerby-Allen,Republican,11532.0,37.33,False,False
+2020,Pennsylvania,PA,State House,142,general,Frank Farry,Republican,25916.0,61.18,True,False
+2020,Pennsylvania,PA,State House,142,general,Lauren Lareau,Democratic,16443.0,38.82,False,False
+2020,Pennsylvania,PA,State House,143,general,Shelby Labs,Republican,22553.0,51.53,True,False
+2020,Pennsylvania,PA,State House,143,general,Wendy Ullman,Democratic,21217.0,48.47,False,False
+2020,Pennsylvania,PA,State House,144,general,Todd Polinchock,Republican,22915.0,55.5,True,False
+2020,Pennsylvania,PA,State House,144,general,Gary Spillane,Democratic,18372.0,44.5,False,False
+2020,Pennsylvania,PA,State House,145,general,Craig Staats,Republican,22482.0,59.66,True,False
+2020,Pennsylvania,PA,State House,145,general,Robyn Colajezzi,Democratic,15203.0,40.34,False,False
+2020,Pennsylvania,PA,State House,146,general,Joe Ciresi,Democratic,20719.0,56.84,True,False
+2020,Pennsylvania,PA,State House,146,general,Tom Neafcy,Republican,15731.0,43.16,False,False
+2020,Pennsylvania,PA,State House,147,general,Tracy Pennycuick,Republican,21437.0,54.72,True,False
+2020,Pennsylvania,PA,State House,147,general,Jill Dennin,Democratic,16534.0,42.2,False,False
+2020,Pennsylvania,PA,State House,147,general,Jared Martin,Libertarian,1207.0,3.08,False,False
+2020,Pennsylvania,PA,State House,148,general,Mary Jo Daley,Democratic,31559.0,70.06,True,False
+2020,Pennsylvania,PA,State House,148,general,Allen Anderson,Republican,13489.0,29.94,False,False
+2020,Pennsylvania,PA,State House,149,general,Tim Briggs,Democratic,28706.0,70.05,True,False
+2020,Pennsylvania,PA,State House,149,general,William A. Michael,Republican,12275.0,29.95,False,False
+2020,Pennsylvania,PA,State House,150,general,Joe Webster,Democratic,20594.0,54.47,True,False
+2020,Pennsylvania,PA,State House,150,general,Beth Ann Mazza,Republican,17217.0,45.53,False,False
+2020,Pennsylvania,PA,State House,151,general,Todd Stephens,Republican,21074.0,53.11,True,False
+2020,Pennsylvania,PA,State House,151,general,Jonathan Kassa,Democratic,18604.0,46.89,False,False
+2020,Pennsylvania,PA,State House,152,general,Nancy Guenst,Democratic,20208.0,50.97,True,False
+2020,Pennsylvania,PA,State House,152,general,Karen Houck,Republican,16701.0,42.13,False,False
+2020,Pennsylvania,PA,State House,152,general,John Weinrich Sr.,Independent,2734.0,6.9,False,False
+2020,Pennsylvania,PA,State House,153,general,Ben Sanchez,Democratic,30434.0,77.01,True,False
+2020,Pennsylvania,PA,State House,153,general,Marc Bozzacco,Libertarian,9088.0,22.99,False,False
+2020,Pennsylvania,PA,State House,154,general,Napoleon Nelson,Democratic,30610.0,77.72,True,False
+2020,Pennsylvania,PA,State House,154,general,Kathleen Bowers,Republican,8776.0,22.28,False,False
+2020,Pennsylvania,PA,State House,155,general,Danielle Friel Otten,Democratic,25140.0,55.98,True,False
+2020,Pennsylvania,PA,State House,155,general,Michael Taylor,Republican,19766.0,44.02,False,False
+2020,Pennsylvania,PA,State House,156,general,Dianne Herrin,Democratic,21956.0,55.34,True,False
+2020,Pennsylvania,PA,State House,156,general,Leonard Iacono,Republican,17718.0,44.66,False,False
+2020,Pennsylvania,PA,State House,157,general,Melissa Shusterman,Democratic,25238.0,62.47,True,False
+2020,Pennsylvania,PA,State House,157,general,Bryan Walters,Republican,15161.0,37.53,False,False
+2020,Pennsylvania,PA,State House,158,general,Christina Sappey,Democratic,19324.0,50.67,True,False
+2020,Pennsylvania,PA,State House,158,general,Eric Roe,Republican,18816.0,49.33,False,False
+2020,Pennsylvania,PA,State House,159,general,Brian Joseph Kirkland,Democratic,17558.0,71.58,True,False
+2020,Pennsylvania,PA,State House,159,general,Ruth Moton,Republican,6972.0,28.42,False,False
+2020,Pennsylvania,PA,State House,160,general,Craig Williams,Republican,20408.0,50.76,True,False
+2020,Pennsylvania,PA,State House,160,general,Anton Andrew,Democratic,19798.0,49.24,False,False
+2020,Pennsylvania,PA,State House,161,general,Leanne Krueger,Democratic,22764.0,57.01,True,False
+2020,Pennsylvania,PA,State House,161,general,Ralph Shicatano Jr.,Republican,17169.0,42.99,False,False
+2020,Pennsylvania,PA,State House,162,general,David Delloso,Democratic,18693.0,54.3,True,False
+2020,Pennsylvania,PA,State House,162,general,Peter Gaglio Jr.,Republican,15731.0,45.7,False,False
+2020,Pennsylvania,PA,State House,163,general,Michael Zabel,Democratic,22259.0,60.26,True,False
+2020,Pennsylvania,PA,State House,163,general,Michael McCollum,Republican,14680.0,39.74,False,False
+2020,Pennsylvania,PA,State House,164,general,Margo L. Davidson,Democratic,24398.0,100.0,True,False
+2020,Pennsylvania,PA,State House,165,general,Jennifer O'Mara,Democratic,21529.0,51.57,True,False
+2020,Pennsylvania,PA,State House,165,general,Robert Smythe Jr.,Republican,20222.0,48.43,False,False
+2020,Pennsylvania,PA,State House,166,general,Greg Vitali,Democratic,28803.0,70.89,True,False
+2020,Pennsylvania,PA,State House,166,general,Christine Boyle,Republican,11830.0,29.11,False,False
+2020,Pennsylvania,PA,State House,167,general,Kristine Howard,Democratic,24261.0,55.81,True,False
+2020,Pennsylvania,PA,State House,167,general,Wendy Leland,Republican,19211.0,44.19,False,False
+2020,Pennsylvania,PA,State House,168,general,Christopher B. Quinn,Republican,22399.0,50.99,True,False
+2020,Pennsylvania,PA,State House,168,general,Debra Ciamacca,Democratic,21526.0,49.01,False,False
+2020,Pennsylvania,PA,State House,169,general,Kate Klunk,Republican,29957.0,100.0,True,False
+2020,Pennsylvania,PA,State House,170,general,Martina White,Republican,17693.0,60.43,True,False
+2020,Pennsylvania,PA,State House,170,general,Michael Doyle Jr.,Democratic,11586.0,39.57,False,False
+2020,Pennsylvania,PA,State House,171,general,Kerry Benninghoff,Republican,24322.0,61.39,True,False
+2020,Pennsylvania,PA,State House,171,general,Peter Buckland,Democratic,15298.0,38.61,False,False
+2020,Pennsylvania,PA,State House,172,general,Kevin J. Boyle,Democratic,16426.0,61.19,True,False
+2020,Pennsylvania,PA,State House,172,general,Haroon Bashir,Republican,10420.0,38.81,False,False
+2020,Pennsylvania,PA,State House,173,general,Michael Driscoll,Democratic,17606.0,100.0,True,False
+2020,Pennsylvania,PA,State House,174,general,Ed Neilson,Democratic,18327.0,100.0,True,False
+2020,Pennsylvania,PA,State House,175,general,Mary Isaacson,Democratic,30233.0,100.0,True,False
+2020,Pennsylvania,PA,State House,176,general,Jack Rader,Republican,17736.0,55.11,True,False
+2020,Pennsylvania,PA,State House,176,general,Claudette Williams,Democratic,14445.0,44.89,False,False
+2020,Pennsylvania,PA,State House,177,general,Joseph C. Hohenstein,Democratic,15640.0,59.9,True,False
+2020,Pennsylvania,PA,State House,177,general,John Nungesser,Republican,10470.0,40.1,False,False
+2020,Pennsylvania,PA,State House,178,general,Wendi Thomas,Republican,24787.0,55.43,True,False
+2020,Pennsylvania,PA,State House,178,general,Ann Marie Mitchell,Democratic,19927.0,44.57,False,False
+2020,Pennsylvania,PA,State House,179,general,Jason Dawkins,Democratic,18951.0,100.0,True,False
+2020,Pennsylvania,PA,State House,180,general,Angel Cruz,Democratic,13558.0,100.0,True,False
+2020,Pennsylvania,PA,State House,181,general,Malcolm Kenyatta,Democratic,25258.0,100.0,True,False
+2020,Pennsylvania,PA,State House,182,general,Brian Sims,Democratic,34225.0,83.08,True,False
+2020,Pennsylvania,PA,State House,182,general,Drew Murray,Republican,6969.0,16.92,False,False
+2020,Pennsylvania,PA,State House,183,general,Zach Mako,Republican,22294.0,61.03,True,False
+2020,Pennsylvania,PA,State House,183,general,Jason Ruff,Democratic,14233.0,38.97,False,False
+2020,Pennsylvania,PA,State House,184,general,Elizabeth Fiedler,Democratic,20243.0,71.07,True,False
+2020,Pennsylvania,PA,State House,184,general,Lou Menna IV,Republican,8240.0,28.93,False,False
+2020,Pennsylvania,PA,State House,185,general,Regina Young,Democratic,23825.0,100.0,True,False
+2020,Pennsylvania,PA,State House,186,general,Jordan A. Harris,Democratic,31994.0,100.0,True,False
+2020,Pennsylvania,PA,State House,187,general,Gary Day,Republican,23335.0,61.51,True,False
+2020,Pennsylvania,PA,State House,187,general,Michael Blichar Jr.,Democratic,14602.0,38.49,False,False
+2020,Pennsylvania,PA,State House,188,general,Rick Krajewski,Democratic,25256.0,100.0,True,False
+2020,Pennsylvania,PA,State House,189,general,Rosemary Brown,Republican,18408.0,59.55,True,False
+2020,Pennsylvania,PA,State House,189,general,Adam Rodriguez,Republican,12502.0,40.45,False,False
+2020,Pennsylvania,PA,State House,190,general,Amen Brown,Democratic,27869.0,94.72,True,False
+2020,Pennsylvania,PA,State House,190,general,Wanda Logan,Republican,1555.0,5.28,False,False
+2020,Pennsylvania,PA,State House,191,general,Joanna E. McClinton,Democratic,25065.0,100.0,True,False
+2020,Pennsylvania,PA,State House,192,general,Morgan Cephas,Democratic,29199.0,100.0,True,False
+2020,Pennsylvania,PA,State House,193,general,Torren Ecker,Republican,28539.0,100.0,True,False
+2020,Pennsylvania,PA,State House,194,general,Pamela DeLissio,Democratic,27965.0,74.25,True,False
+2020,Pennsylvania,PA,State House,194,general,Lisa Riley,Republican,8738.0,23.2,False,False
+2020,Pennsylvania,PA,State House,194,general,Matt Baltsar,Libertarian,958.0,2.54,False,False
+2020,Pennsylvania,PA,State House,195,general,Donna Bullock,Democratic,30022.0,100.0,True,False
+2020,Pennsylvania,PA,State House,196,general,Seth Grove,Republican,28818.0,100.0,True,False
+2020,Pennsylvania,PA,State House,197,general,Danilo Burgos,Democratic,18892.0,100.0,True,False
+2020,Pennsylvania,PA,State House,198,general,Darisha Parker,Democratic,25464.0,100.0,True,False
+2020,Pennsylvania,PA,State House,199,general,Barbara Gleim,Republican,21678.0,63.56,True,False
+2020,Pennsylvania,PA,State House,199,general,Janelle Crossley,Democratic,12431.0,36.44,False,False
+2020,Pennsylvania,PA,State House,200,general,Chris Rabb,Democratic,36437.0,100.0,True,False
+2020,Pennsylvania,PA,State House,201,general,Stephen Kinsey,Democratic,26663.0,100.0,True,False
+2020,Pennsylvania,PA,State House,202,general,Jared Solomon,Democratic,18116.0,100.0,True,False
+2020,Pennsylvania,PA,State House,203,general,Isabella Fitzgerald,Democratic,27126.0,100.0,True,False
 2020,Rhode Island,RI,State House,1,general,Edith Ajello,Democratic,3942.0,97.2,True,True
 2020,Rhode Island,RI,State House,2,general,Christopher Blazejewski,Democratic,4125.0,97.5,True,True
 2020,Rhode Island,RI,State House,3,general,Nathan Biah,Democratic,3258.0,97.5,True,False
 2020,Rhode Island,RI,State House,4,general,Rebecca Kislak,Democratic,6328.0,86.8,True,True
-2020,Rhode Island,RI,State House,4,general,Aryeh Yisrael Rosenfield,Independent (politician),906.0,12.4,False,False
+2020,Rhode Island,RI,State House,4,general,Aryeh Yisrael Rosenfield,Independent,906.0,12.4,False,False
 2020,Rhode Island,RI,State House,5,general,Marcia Ranglin-Vassell,Democratic,2981.0,73.8,True,True
 2020,Rhode Island,RI,State House,5,general,Ronald Iacobbo,Republican,1027.0,25.4,False,False
 2020,Rhode Island,RI,State House,6,general,Raymond Hull,Democratic,4046.0,77.3,True,True
-2020,Rhode Island,RI,State House,6,general,Jorge Porras,Independent (politician),1147.0,21.9,False,False
+2020,Rhode Island,RI,State House,6,general,Jorge Porras,Independent,1147.0,21.9,False,False
 2020,Rhode Island,RI,State House,7,general,David Morales,Democratic,4067.0,96.0,True,False
 2020,Rhode Island,RI,State House,8,general,John J. Lombardi,Democratic,3766.0,98.2,True,True
 2020,Rhode Island,RI,State House,9,general,Anastasia P. Williams,Democratic,2513.0,73.0,True,True
-2020,Rhode Island,RI,State House,9,general,Rosa Marie Hill,Independent (politician),899.0,26.1,False,False
+2020,Rhode Island,RI,State House,9,general,Rosa Marie Hill,Independent,899.0,26.1,False,False
 2020,Rhode Island,RI,State House,10,general,Scott A. Slater,Democratic,3044.0,97.3,True,True
 2020,Rhode Island,RI,State House,11,general,Grace Diaz,Democratic,3350.0,85.9,True,True
 2020,Rhode Island,RI,State House,11,general,Emmanuel Nyema,Independent (politics),513.0,13.1,False,False
@@ -4672,7 +5173,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Tennessee,TN,State House,21,general,Lowell Russell,Republican,29224.0,100.0,True,True
 2020,Tennessee,TN,State House,22,general,Dan Howell,Republican,24646.0,100.0,True,True
 2020,Tennessee,TN,State House,23,general,Mark Cochran,Republican,24290.0,87.0,True,True
-2020,Tennessee,TN,State House,23,general,David G.E. Fankhauser,Independent (politician),3711.0,13.0,False,False
+2020,Tennessee,TN,State House,23,general,David G.E. Fankhauser,Independent,3711.0,13.0,False,False
 2020,Tennessee,TN,State House,24,general,Mark Hall,Republican,19249.0,76.0,True,True
 2020,Tennessee,TN,State House,24,general,Daniel Jones,Democratic,5960.0,24.0,False,False
 2020,Tennessee,TN,State House,25,general,Cameron Sexton,Republican,27778.0,81.63,True,True
@@ -5072,9 +5573,9 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Vermont,VT,State House,ADDISON 4,general,Lynn Dike,Republican,1792.0,18.4,False,False
 2020,Vermont,VT,State House,ADDISON 5,general,Harvey Smith,Republican,1331.0,54.1,True,True
 2020,Vermont,VT,State House,ADDISON 5,general,Jubilee McGill,Democratic,1127.0,45.8,False,False
-2020,Vermont,VT,State House,ADDISON 5,general,Terry Norris,Independent,1281.0,58.9,True,True
-2020,Vermont,VT,State House,ADDISON 5,general,Ruth Bernstein,Democratic,725.0,33.3,False,False
-2020,Vermont,VT,State House,ADDISON 5,general,"Richard ""Sensei"" Lenchus",Independent,157.0,7.2,False,False
+2020,Vermont,VT,State House,ADDISON-RUTLAND,general,Terry Norris,Independent,1281.0,58.9,True,True
+2020,Vermont,VT,State House,ADDISON-RUTLAND,general,Ruth Bernstein,Democratic,725.0,33.3,False,False
+2020,Vermont,VT,State House,ADDISON-RUTLAND,general,"Richard ""Sensei"" Lenchus",Independent,157.0,7.2,False,False
 2020,Vermont,VT,State House,BENNINGTON 1,general,Nelson Brownell,Democratic,1324.0,83.3,True,True
 2020,Vermont,VT,State House,BENNINGTON 1,general,Timothy Corcoran II,Democratic,2220.0,42.1,True,True
 2020,Vermont,VT,State House,BENNINGTON 1,general,Dane Whitman,Democratic,1889.0,35.8,True,False
@@ -5088,7 +5589,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Vermont,VT,State House,BENNINGTON 4,general,Kathleen James,Democratic,2797.0,36.7,True,True
 2020,Vermont,VT,State House,BENNINGTON 4,general,Seth Bongartz,Democratic,2651.0,34.7,True,False
 2020,Vermont,VT,State House,BENNINGTON 4,general,Cynthia Browning,Independent,2111.0,27.7,False,True
-2020,Vermont,VT,State House,BENNINGTON 4,general,Linda Joy Taylor,Democratic,2235.0,97.6,True,True
+2020,Vermont,VT,State House,BENNINGTON-RUTLAND,general,Linda Joy Taylor,Democratic,2235.0,97.6,True,True
 2020,Vermont,VT,State House,CALEDONIA 1,general,Marcia Martell,Republican,1547.0,63.5,True,True
 2020,Vermont,VT,State House,CALEDONIA 1,general,Dylan Stetson,Progressive,876.0,36.0,False,False
 2020,Vermont,VT,State House,CALEDONIA 2,general,Chip Troiano,Democratic,1305.0,58.9,True,True
@@ -5101,8 +5602,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Vermont,VT,State House,CALEDONIA 4,general,Patrick Seymour,Republican,1857.0,28.0,True,True
 2020,Vermont,VT,State House,CALEDONIA 4,general,Dennis Labounty,Democratic,1596.0,24.1,False,False
 2020,Vermont,VT,State House,CALEDONIA 4,general,David Hammond,Democratic,972.0,14.6,False,False
-2020,Vermont,VT,State House,CALEDONIA 4,general,Henry Pearl,Democratic,1931.0,68.5,True,False
-2020,Vermont,VT,State House,CALEDONIA 4,general,Bruce Melendy,Republican,878.0,31.1,False,False
+2020,Vermont,VT,State House,CALEDONIA-WASHINGTON,general,Henry Pearl,Democratic,1931.0,68.5,True,False
+2020,Vermont,VT,State House,CALEDONIA-WASHINGTON,general,Bruce Melendy,Republican,878.0,31.1,False,False
 2020,Vermont,VT,State House,CHITTENDEN 1,general,Jana Brown,Democratic,1800.0,65.6,True,False
 2020,Vermont,VT,State House,CHITTENDEN 1,general,Terry Moultroup,Independent,937.0,34.1,False,False
 2020,Vermont,VT,State House,CHITTENDEN 2,general,Erin Brady,Democratic,4120.0,39.4,True,False
@@ -5160,10 +5661,10 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Vermont,VT,State House,CHITTENDEN 10,general,Emily Hecker,Democratic,1832.0,20.0,False,False
 2020,Vermont,VT,State House,CHITTENDEN 10,general,Ember Quinn,Democratic,1599.0,17.5,False,False
 2020,Vermont,VT,State House,CHITTENDEN 10,general,Todd Buik,Progressive,409.0,4.5,False,False
-2020,Vermont,VT,State House,CHITTENDEN 10,general,Terri Lynn Williams,Republican,1229.0,62.2,True,False
-2020,Vermont,VT,State House,CHITTENDEN 10,general,Clem Bissonnette,Democratic,732.0,37.0,False,False
-2020,Vermont,VT,State House,CHITTENDEN 10,general,Paul Lefebvre,Independent,1067.0,52.4,True,True
-2020,Vermont,VT,State House,CHITTENDEN 10,general,Martha Allen,Democratic,958.0,47.1,False,False
+2020,Vermont,VT,State House,ESSEX-CALEDONIA,general,Terri Lynn Williams,Republican,1229.0,62.2,True,False
+2020,Vermont,VT,State House,ESSEX-CALEDONIA,general,Clem Bissonnette,Democratic,732.0,37.0,False,False
+2020,Vermont,VT,State House,ESSEX-CALEDONIA-ORLEANS,general,Paul Lefebvre,Independent,1067.0,52.4,True,True
+2020,Vermont,VT,State House,ESSEX-CALEDONIA-ORLEANS,general,Martha Allen,Democratic,958.0,47.1,False,False
 2020,Vermont,VT,State House,FRANKLIN 1,general,Carl Rosenquist,Republican,1623.0,57.5,True,True
 2020,Vermont,VT,State House,FRANKLIN 1,general,Ben Chiappinelli,Independent,1192.0,42.2,False,False
 2020,Vermont,VT,State House,FRANKLIN 2,general,Barbara Murphy,Independent,2484.0,97.9,True,True
@@ -5183,10 +5684,10 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Vermont,VT,State House,FRANKLIN 6,general,James Gregoire,Republican,2287.0,97.2,True,True
 2020,Vermont,VT,State House,FRANKLIN 7,general,Felisha Leffler,Republican,1178.0,58.8,True,True
 2020,Vermont,VT,State House,FRANKLIN 7,general,Dennis Williams,Progressive,820.0,40.9,False,False
-2020,Vermont,VT,State House,FRANKLIN 7,general,Leland Morgan,Republican,2776.0,26.6,True,True
-2020,Vermont,VT,State House,FRANKLIN 7,general,Michael Morgan,Republican,2627.0,25.2,True,False
-2020,Vermont,VT,State House,FRANKLIN 7,general,Mitzi Johnson,Democratic,2607.0,25.0,False,True
-2020,Vermont,VT,State House,FRANKLIN 7,general,Andy Julow,Democratic,2404.0,23.1,False,False
+2020,Vermont,VT,State House,GRAND ISLE-CHITTENDEN,general,Leland Morgan,Republican,2776.0,26.6,True,True
+2020,Vermont,VT,State House,GRAND ISLE-CHITTENDEN,general,Michael Morgan,Republican,2627.0,25.2,True,False
+2020,Vermont,VT,State House,GRAND ISLE-CHITTENDEN,general,Mitzi Johnson,Democratic,2607.0,25.0,False,True
+2020,Vermont,VT,State House,GRAND ISLE-CHITTENDEN,general,Andy Julow,Democratic,2404.0,23.1,False,False
 2020,Vermont,VT,State House,LAMOILLE 1,general,Heidi Schuermann,Republican,1925.0,57.7,True,True
 2020,Vermont,VT,State House,LAMOILLE 1,general,Jo Sabel Courtney,Democratic,1403.0,42.1,False,False
 2020,Vermont,VT,State House,LAMOILLE 2,general,Kate Donnally,Democratic,2350.0,32.3,True,False
@@ -5195,10 +5696,10 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Vermont,VT,State House,LAMOILLE 2,general,Shayne Spence,Republican,1357.0,18.7,False,False
 2020,Vermont,VT,State House,LAMOILLE 3,general,Lucy Rogers,Democratic,1903.0,73.2,True,True
 2020,Vermont,VT,State House,LAMOILLE 3,general,Ferron Wambold,Republican,695.0,26.7,False,False
-2020,Vermont,VT,State House,LAMOILLE 3,general,David Yacovone,Democratic,3391.0,40.2,True,True
-2020,Vermont,VT,State House,LAMOILLE 3,general,Avram Patt,Democratic,2499.0,29.6,True,True
-2020,Vermont,VT,State House,LAMOILLE 3,general,Tyler Machia,Republican,1282.0,15.2,False,False
-2020,Vermont,VT,State House,LAMOILLE 3,general,Shannara Johnson,Republican,1241.0,14.7,False,False
+2020,Vermont,VT,State House,LAMOILLE-WASHINGTON,general,David Yacovone,Democratic,3391.0,40.2,True,True
+2020,Vermont,VT,State House,LAMOILLE-WASHINGTON,general,Avram Patt,Democratic,2499.0,29.6,True,True
+2020,Vermont,VT,State House,LAMOILLE-WASHINGTON,general,Tyler Machia,Republican,1282.0,15.2,False,False
+2020,Vermont,VT,State House,LAMOILLE-WASHINGTON,general,Shannara Johnson,Republican,1241.0,14.7,False,False
 2020,Vermont,VT,State House,ORANGE 1,general,Rodney Graham,Republican,2169.0,26.0,True,True
 2020,Vermont,VT,State House,ORANGE 1,general,Samantha Lefebvre,Republican,1774.0,21.3,True,False
 2020,Vermont,VT,State House,ORANGE 1,general,Kate Maclean,Democratic,1734.0,20.8,False,False
@@ -5207,26 +5708,26 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Vermont,VT,State House,ORANGE 1,general,Rama Schneider,Independent,356.0,4.3,False,False
 2020,Vermont,VT,State House,ORANGE 2,general,Sarah Copeland Hanzas,Democratic,1439.0,59.6,True,True
 2020,Vermont,VT,State House,ORANGE 2,general,Zachary Lang,Republican,963.0,39.9,False,False
-2020,Vermont,VT,State House,ORANGE 2,general,Joe Parsons,Republican,1321.0,56.5,True,False
-2020,Vermont,VT,State House,ORANGE 2,general,Kelsey Root-Winchester,Democratic,1013.0,43.3,False,False
-2020,Vermont,VT,State House,ORANGE 2,general,Jay Hooper,Democratic,2886.0,35.2,True,True
-2020,Vermont,VT,State House,ORANGE 2,general,Larry Satcowitz,Democratic,1666.0,20.3,True,False
-2020,Vermont,VT,State House,ORANGE 2,general,Charles Russell,Republican,1262.0,15.4,False,False
-2020,Vermont,VT,State House,ORANGE 2,general,Peter Reed,Independent,1046.0,12.8,False,True
-2020,Vermont,VT,State House,ORANGE 2,general,Joseph Roche,Republican,934.0,11.4,False,False
-2020,Vermont,VT,State House,ORANGE 2,general,Kevin Doering,Independent,390.0,4.8,False,False
+2020,Vermont,VT,State House,ORANGE-CALEDONIA,general,Joe Parsons,Republican,1321.0,56.5,True,False
+2020,Vermont,VT,State House,ORANGE-CALEDONIA,general,Kelsey Root-Winchester,Democratic,1013.0,43.3,False,False
+2020,Vermont,VT,State House,ORANGE-WASHINGTON-ADDISON,general,Jay Hooper,Democratic,2886.0,35.2,True,True
+2020,Vermont,VT,State House,ORANGE-WASHINGTON-ADDISON,general,Larry Satcowitz,Democratic,1666.0,20.3,True,False
+2020,Vermont,VT,State House,ORANGE-WASHINGTON-ADDISON,general,Charles Russell,Republican,1262.0,15.4,False,False
+2020,Vermont,VT,State House,ORANGE-WASHINGTON-ADDISON,general,Peter Reed,Independent,1046.0,12.8,False,True
+2020,Vermont,VT,State House,ORANGE-WASHINGTON-ADDISON,general,Joseph Roche,Republican,934.0,11.4,False,False
+2020,Vermont,VT,State House,ORANGE-WASHINGTON-ADDISON,general,Kevin Doering,Independent,390.0,4.8,False,False
 2020,Vermont,VT,State House,ORLEANS 1,general,Brian Smith,Republican,2967.0,50.1,True,True
 2020,Vermont,VT,State House,ORLEANS 1,general,Lynn Batchelor,Republican,2830.0,47.8,True,True
 2020,Vermont,VT,State House,ORLEANS 2,general,Michael Marcotte,Republican,3097.0,53.4,True,True
 2020,Vermont,VT,State House,ORLEANS 2,general,Woody Page,Republican,2628.0,45.3,True,True
-2020,Vermont,VT,State House,ORLEANS 2,general,Vicki Strong,Republican,2376.0,30.8,True,True
-2020,Vermont,VT,State House,ORLEANS 2,general,Katherine Sims,Democratic,2132.0,27.6,True,False
-2020,Vermont,VT,State House,ORLEANS 2,general,Jeannine Young,Republican,1632.0,21.1,False,False
-2020,Vermont,VT,State House,ORLEANS 2,general,John Elwell,Democratic,1298.0,16.8,False,False
-2020,Vermont,VT,State House,ORLEANS 2,general,Frank Huard,Independent,278.0,3.6,False,False
-2020,Vermont,VT,State House,ORLEANS 2,general,Mark Higley,Republican,2003.0,98.2,True,True
-2020,Vermont,VT,State House,ORLEANS 2,general,Sally Achey,Republican,1417.0,50.4,True,False
-2020,Vermont,VT,State House,ORLEANS 2,general,Robin Chesnut-Tangerman,Progressive,1385.0,49.3,False,True
+2020,Vermont,VT,State House,ORLEANS-CALEDONIA,general,Vicki Strong,Republican,2376.0,30.8,True,True
+2020,Vermont,VT,State House,ORLEANS-CALEDONIA,general,Katherine Sims,Democratic,2132.0,27.6,True,False
+2020,Vermont,VT,State House,ORLEANS-CALEDONIA,general,Jeannine Young,Republican,1632.0,21.1,False,False
+2020,Vermont,VT,State House,ORLEANS-CALEDONIA,general,John Elwell,Democratic,1298.0,16.8,False,False
+2020,Vermont,VT,State House,ORLEANS-CALEDONIA,general,Frank Huard,Independent,278.0,3.6,False,False
+2020,Vermont,VT,State House,ORLEANS-LAMOILLE,general,Mark Higley,Republican,2003.0,98.2,True,True
+2020,Vermont,VT,State House,RUTLAND-BENNINGTON,general,Sally Achey,Republican,1417.0,50.4,True,False
+2020,Vermont,VT,State House,RUTLAND-BENNINGTON,general,Robin Chesnut-Tangerman,Progressive,1385.0,49.3,False,True
 2020,Vermont,VT,State House,RUTLAND 1,general,Patricia McCoy,Republican,1283.0,71.1,True,True
 2020,Vermont,VT,State House,RUTLAND 1,general,Tyler-Joseph Ballard,Independent,513.0,28.4,False,False
 2020,Vermont,VT,State House,RUTLAND 2,general,Tom Burditt,Republican,2424.0,28.1,True,True
@@ -5269,10 +5770,10 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Vermont,VT,State House,WASHINGTON 6,general,Lewis Graham Jr.,Vets For Vets,769.0,28.3,False,False
 2020,Vermont,VT,State House,WASHINGTON 7,general,Kari Dolan,Democratic,4027.0,48.9,True,True
 2020,Vermont,VT,State House,WASHINGTON 7,general,Maxine Grad,Democratic,3970.0,48.2,True,True
-2020,Vermont,VT,State House,WASHINGTON 7,general,Theresa Wood,Democratic,3751.0,39.4,True,True
-2020,Vermont,VT,State House,WASHINGTON 7,general,Thomas Stevens,Democratic,3133.0,32.9,True,True
-2020,Vermont,VT,State House,WASHINGTON 7,general,Chris Viens,Independent,1417.0,14.9,False,False
-2020,Vermont,VT,State House,WASHINGTON 7,general,Brock Corderre,Republican,1188.0,12.5,False,False
+2020,Vermont,VT,State House,WASHINGTON-CHITTENDEN,general,Theresa Wood,Democratic,3751.0,39.4,True,True
+2020,Vermont,VT,State House,WASHINGTON-CHITTENDEN,general,Thomas Stevens,Democratic,3133.0,32.9,True,True
+2020,Vermont,VT,State House,WASHINGTON-CHITTENDEN,general,Chris Viens,Independent,1417.0,14.9,False,False
+2020,Vermont,VT,State House,WASHINGTON-CHITTENDEN,general,Brock Corderre,Republican,1188.0,12.5,False,False
 2020,Vermont,VT,State House,WINDHAM 1,general,Sara Coffey,Democratic,2136.0,96.5,True,True
 2020,Vermont,VT,State House,WINDHAM 1,general,Emilie Kornheiser,Democratic,1709.0,75.3,True,True
 2020,Vermont,VT,State House,WINDHAM 1,general,Richard Morton,Republican,560.0,24.6,False,False
@@ -5286,9 +5787,9 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Vermont,VT,State House,WINDHAM 5,general,Emily Long,Democratic,2037.0,97.2,True,True
 2020,Vermont,VT,State House,WINDHAM 6,general,John Gannon,Democratic,1324.0,59.2,True,True
 2020,Vermont,VT,State House,WINDHAM 6,general,Amy Kamstra,Republican,906.0,40.5,False,False
-2020,Vermont,VT,State House,WINDHAM 6,general,Laura Sibilia,Independent,1520.0,63.4,True,True
-2020,Vermont,VT,State House,WINDHAM 6,general,Matthew Somverille,Republican,867.0,36.1,False,False
-2020,Vermont,VT,State House,WINDHAM 6,general,Kelly Pajala,Independent,2539.0,98.2,True,True
+2020,Vermont,VT,State House,WINDHAM-BENNINGTON,general,Laura Sibilia,Independent,1520.0,63.4,True,True
+2020,Vermont,VT,State House,WINDHAM-BENNINGTON,general,Matthew Somverille,Republican,867.0,36.1,False,False
+2020,Vermont,VT,State House,WINDHAM-BENNINGTON-WINDSOR,general,Kelly Pajala,Independent,2539.0,98.2,True,True
 2020,Vermont,VT,State House,WINDSOR 1,general,John Bartholomew,Democratic,2735.0,33.2,True,True
 2020,Vermont,VT,State House,WINDSOR 1,general,Elizabeth Burrows,Democratic,2148.0,26.1,True,False
 2020,Vermont,VT,State House,WINDSOR 1,general,Jacob Holmes,Republican,1452.0,17.6,False,False
@@ -5313,8 +5814,194 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Vermont,VT,State House,WINDSOR-ORANGE 1,general,John O'Brien,Democratic,1868.0,94.4,True,True
 2020,Vermont,VT,State House,WINDSOR-ORANGE 2,general,Jim Masland,Democratic,4726.0,49.1,True,True
 2020,Vermont,VT,State House,WINDSOR-ORANGE 2,general,Tim Brigland,Democratic,4703.0,48.8,True,True
-2020,Vermont,VT,State House,WINDSOR-ORANGE 2,general,Kirk White,Democratic,1522.0,58.1,True,False
-2020,Vermont,VT,State House,WINDSOR-ORANGE 2,general,Wayne Townsend,Republican,1069.0,40.8,False,False
+2020,Vermont,VT,State House,WINDSOR-RUTLAND,general,Kirk White,Democratic,1522.0,58.1,True,False
+2020,Vermont,VT,State House,WINDSOR-RUTLAND,general,Wayne Townsend,Republican,1069.0,40.8,False,False
+2020,Washington,WA,State House,1,general,Davina Duerr,Democratic,58019.0,66.5,True,True
+2020,Washington,WA,State House,1,general,Adam Bartholomew,Republican,29256.0,33.5,False,False
+2020,Washington,WA,State House,1,general,Shelley Kloba,Democratic,55622.0,63.7,True,True
+2020,Washington,WA,State House,1,general,Jeb Brewer,Republican,31696.0,36.3,False,False
+2020,Washington,WA,State House,2,general,Andrew Barkis,Republican,65621.0,100.0,True,True
+2020,Washington,WA,State House,2,general,JT Wilcox,Republican,53552.0,65.7,True,True
+2020,Washington,WA,State House,2,general,Veronica Whitcher Rockett,Democratic,27952.0,34.3,False,False
+2020,Washington,WA,State House,3,general,Marcus Riccelli,Democratic,40124.0,60.6,True,True
+2020,Washington,WA,State House,3,general,Laura D. Carder,Republican,26113.0,39.4,False,False
+2020,Washington,WA,State House,3,general,Timm Ormsby,Democratic,41298.0,62.8,True,True
+2020,Washington,WA,State House,3,general,Bob Apple,Republican,24467.0,37.2,False,False
+2020,Washington,WA,State House,4,general,Bob McCaslin (pos 2. incumbent),Republican,54119.0,60.4,True,False
+2020,Washington,WA,State House,4,general,Lori Feagan,Democratic,35486.0,39.6,False,False
+2020,Washington,WA,State House,4,general,Rob Chase,Republican,55124.0,62.2,True,False
+2020,Washington,WA,State House,4,general,Lance Gurel,Democratic,33554.0,37.8,False,False
+2020,Washington,WA,State House,5,general,Bill Ramos,Democratic,55109.0,60.8,True,True
+2020,Washington,WA,State House,5,general,Ken Moninski,Republican,35531.0,39.2,False,False
+2020,Washington,WA,State House,5,general,Lisa Callan,Democratic,64086.0,100.0,True,True
+2020,Washington,WA,State House,6,general,Mike Volz,Republican,44537.0,52.0,True,True
+2020,Washington,WA,State House,6,general,Zack Zappone,Democratic,41153.0,48.0,False,False
+2020,Washington,WA,State House,6,general,Jenny Graham,Republican,46158.0,54.3,True,True
+2020,Washington,WA,State House,6,general,Tom McGarry,Democratic,38803.0,45.7,False,False
+2020,Washington,WA,State House,7,general,Jacquelin Maycumber,Republican,61485.0,71.9,True,True
+2020,Washington,WA,State House,7,general,Georgia D. Davenport,Democratic,23973.0,28.1,False,False
+2020,Washington,WA,State House,7,general,Joel Kretz,Republican,62615.0,75.1,True,True
+2020,Washington,WA,State House,7,general,JJ Wandler,Independent,20735.0,24.9,False,False
+2020,Washington,WA,State House,8,general,Brad Klippert,Republican,51981.0,65.8,True,True
+2020,Washington,WA,State House,8,general,Shir Regev,Democratic,26979.0,34.2,False,False
+2020,Washington,WA,State House,8,general,Matt Boehnke,Republican,59046.0,79.3,True,True
+2020,Washington,WA,State House,8,general,Larry Stanley,Alliance,15452.0,20.7,False,False
+2020,Washington,WA,State House,9,general,Mary Dye,Republican,48408.0,75.1,True,True
+2020,Washington,WA,State House,9,general,Brett Borden,Libertarian Party (washington),16091.0,24.9,False,False
+2020,Washington,WA,State House,9,general,Joe Schmick,Republican,53707.0,100.0,True,True
+2020,Washington,WA,State House,10,general,Greg Gilday,Republican,45768.0,50.5,True,False
+2020,Washington,WA,State House,10,general,Angie Homola,Democratic,44877.0,49.5,False,False
+2020,Washington,WA,State House,10,general,Dave Paul,Democratic,46199.0,50.4,True,True
+2020,Washington,WA,State House,10,general,Bill Bruch,Republican,45461.0,49.6,False,False
+2020,Washington,WA,State House,11,general,David Hackney,Democratic,36414.0,63.5,True,False
+2020,Washington,WA,State House,11,general,Zack Hudgins,Democratic,20974.0,36.5,False,True
+2020,Washington,WA,State House,11,general,Steve Bergquist,Democratic,47074.0,70.8,True,True
+2020,Washington,WA,State House,11,general,Sean Atchison,Republican,19456.0,29.2,False,False
+2020,Washington,WA,State House,12,general,Keith Goehner,Republican,45817.0,60.4,True,True
+2020,Washington,WA,State House,12,general,Adrianne Moore,Democratic,29998.0,39.6,False,False
+2020,Washington,WA,State House,12,general,Mike Steele,Republican,57281.0,100.0,True,True
+2020,Washington,WA,State House,13,general,Tom Dent,Republican,47701.0,71.4,True,True
+2020,Washington,WA,State House,13,general,Eduardo Castañeda-Díaz,Democratic,19104.0,28.6,False,False
+2020,Washington,WA,State House,13,general,Alex Ybarra,Republican,55215.0,100.0,True,True
+2020,Washington,WA,State House,14,general,Chris Corry,Republican,39519.0,59.7,True,True
+2020,Washington,WA,State House,14,general,Tracy Rushing,Democratic,26721.0,40.3,False,False
+2020,Washington,WA,State House,14,general,Gina Mosbrucker,Republican,39285.0,59.8,True,True
+2020,Washington,WA,State House,14,general,Devin Kuh,Democratic,26435.0,40.2,False,False
+2020,Washington,WA,State House,15,general,Bruce Chandler,Republican,26784.0,58.0,True,True
+2020,Washington,WA,State House,15,general,Jack McEntire,Democratic,19376.0,42.0,False,False
+2020,Washington,WA,State House,15,general,Jeremie Dufault,Republican,27313.0,59.1,True,True
+2020,Washington,WA,State House,15,general,AJ Cooper,Democratic,18873.0,40.9,False,False
+2020,Washington,WA,State House,16,general,Mark Klicker,Republican,38570.0,63.6,True,False
+2020,Washington,WA,State House,16,general,Frances Chvatal,Democratic,22056.0,36.4,False,False
+2020,Washington,WA,State House,16,general,Skyler Rude,Republican,41142.0,68.2,True,True
+2020,Washington,WA,State House,16,general,Carly Coburn,Democratic,19163.0,31.8,False,False
+2020,Washington,WA,State House,17,general,Vicki Kraft,Republican,41908.0,51.1,True,True
+2020,Washington,WA,State House,17,general,Tanisha L. Harris,Democratic,40137.0,48.9,False,False
+2020,Washington,WA,State House,17,general,Paul Harris,Republican,48392.0,70.7,True,True
+2020,Washington,WA,State House,17,general,Bryan White,Republican,20020.0,29.3,False,False
+2020,Washington,WA,State House,18,general,Brandon Vick,Republican,57566.0,61.3,True,True
+2020,Washington,WA,State House,18,general,Kassandra Bessert,Democratic,36414.0,38.7,False,False
+2020,Washington,WA,State House,18,general,Larry Hoff,Republican,53773.0,57.1,True,True
+2020,Washington,WA,State House,18,general,Donna L. Sinclair,Democratic,40457.0,42.9,False,False
+2020,Washington,WA,State House,19,general,Jim Walsh,Republican,43315.0,59.4,True,True
+2020,Washington,WA,State House,19,general,Marianna Everson,Democratic,29625.0,40.6,False,False
+2020,Washington,WA,State House,19,general,Joel McEntire,Republican,38369.0,52.6,True,False
+2020,Washington,WA,State House,19,general,Brian E. Blake,Democratic,34599.0,47.4,False,True
+2020,Washington,WA,State House,20,general,Peter Abbarno,Republican,58484.0,70.8,True,False
+2020,Washington,WA,State House,20,general,Timothy Zahn,Democratic,24079.0,29.2,False,False
+2020,Washington,WA,State House,20,general,Ed Orcutt,Republican,60030.0,72.9,True,True
+2020,Washington,WA,State House,20,general,Will Rollet,Democratic,22352.0,27.1,False,False
+2020,Washington,WA,State House,21,general,Strom H. Peterson,Democratic,50793.0,64.6,True,True
+2020,Washington,WA,State House,21,general,Brian Thompson,Republican,27801.0,35.4,False,False
+2020,Washington,WA,State House,21,general,Lillian Ortiz-Self,Democratic,51619.0,66.0,True,True
+2020,Washington,WA,State House,21,general,Amy Schaper,Republican,26607.0,34.0,False,False
+2020,Washington,WA,State House,22,general,Laurie Dolan,Democratic,59959.0,66.6,True,True
+2020,Washington,WA,State House,22,general,J. D. Ingram,Republican,30075.0,33.4,False,False
+2020,Washington,WA,State House,22,general,Jessica Bateman,Democratic,54219.0,60.0,True,False
+2020,Washington,WA,State House,22,general,Dusty Pierpoint,Republican,36203.0,40.0,False,False
+2020,Washington,WA,State House,23,general,Tarra Simmons,Democratic,53154.0,62.0,True,False
+2020,Washington,WA,State House,23,general,April Ferguson,Republican,32620.0,38.0,False,False
+2020,Washington,WA,State House,23,general,Drew Hansen,Democratic,53425.0,62.3,True,True
+2020,Washington,WA,State House,23,general,Elaina Gonzales-Blanton,Republican,32317.0,37.7,False,False
+2020,Washington,WA,State House,24,general,Mike Chapman,Democratic,49965.0,54.2,True,True
+2020,Washington,WA,State House,24,general,Sue Forde,Republican,42207.0,45.8,False,False
+2020,Washington,WA,State House,24,general,Steve Tharinger,Democratic,49262.0,53.7,True,True
+2020,Washington,WA,State House,24,general,Brian Pruiett,Republican,42515.0,46.3,False,False
+2020,Washington,WA,State House,25,general,Kelly Chambers,Republican,41055.0,53.5,True,True
+2020,Washington,WA,State House,25,general,Jamie Smith,Democratic,35742.0,46.5,False,False
+2020,Washington,WA,State House,25,general,Cyndy Jacobsen,Republican,40242.0,52.5,True,False
+2020,Washington,WA,State House,25,general,Brian Duthie,Democratic,36406.0,47.5,False,False
+2020,Washington,WA,State House,26,general,Jesse L. Young,Republican,47171.0,52.8,True,True
+2020,Washington,WA,State House,26,general,Carrie Hesch,Democratic,42113.0,47.2,False,False
+2020,Washington,WA,State House,26,general,Michelle Caldier,Republican,48973.0,54.9,True,True
+2020,Washington,WA,State House,26,general,Joy Stanford,Democratic,40189.0,45.1,False,False
+2020,Washington,WA,State House,27,general,Laurie Jinkins,Democratic,54770.0,81.8,True,True
+2020,Washington,WA,State House,27,general,Ryan Talen,Democratic,12158.0,18.2,False,False
+2020,Washington,WA,State House,27,general,Jake Fey,Democratic,52081.0,72.1,True,True
+2020,Washington,WA,State House,27,general,Barry Knowles,Independent,20177.0,27.9,False,False
+2020,Washington,WA,State House,28,general,Mari Leavitt,Democratic,39973.0,57.3,True,True
+2020,Washington,WA,State House,28,general,Kevin Ballard,Republican,29785.0,42.7,False,False
+2020,Washington,WA,State House,28,general,Dan Bronoske,Democratic,38365.0,55.1,True,False
+2020,Washington,WA,State House,28,general,Chris Nye,Republican,31227.0,44.9,False,False
+2020,Washington,WA,State House,29,general,Melanie Morgan,Democratic,36634.0,63.8,True,True
+2020,Washington,WA,State House,29,general,Koshin Mohamed Fidaar,Republican,20745.0,36.2,False,False
+2020,Washington,WA,State House,29,general,Steve Kirby,Democratic,34149.0,59.1,True,True
+2020,Washington,WA,State House,29,general,Terry Harder,Republican,23619.0,40.9,False,False
+2020,Washington,WA,State House,30,general,Jamila Taylor,Democratic,36338.0,57.9,True,False
+2020,Washington,WA,State House,30,general,Martin A. Moore,Independent Republican,26406.0,42.1,False,False
+2020,Washington,WA,State House,30,general,Jesse Johnson,Democratic,37941.0,60.3,True,True
+2020,Washington,WA,State House,30,general,Jack Walsh,Republican,24948.0,39.7,False,False
+2020,Washington,WA,State House,31,general,Drew Stokesbary,Republican,54517.0,63.5,True,True
+2020,Washington,WA,State House,31,general,Katie Young,Democratic,31306.0,36.5,False,False
+2020,Washington,WA,State House,31,general,Eric E. Robertson,Republican,53858.0,63.0,True,False
+2020,Washington,WA,State House,31,general,Thomas R. Clark,Democratic,31657.0,37.0,False,False
+2020,Washington,WA,State House,32,general,Cindy Ryu,Democratic,52703.0,72.8,True,True
+2020,Washington,WA,State House,32,general,Shirley Sutton,Democratic,19658.0,27.2,False,False
+2020,Washington,WA,State House,32,general,Lauren Davis,Democratic,59115.0,86.5,True,True
+2020,Washington,WA,State House,32,general,Tamra Smilanich,No party preference,9235.0,13.5,False,False
+2020,Washington,WA,State House,33,general,Tina L. Orwall,Democratic,43397.0,71.5,True,True
+2020,Washington,WA,State House,33,general,Kerry French,Republican,17270.0,28.5,False,False
+2020,Washington,WA,State House,33,general,Mia Su-Ling Gregerson,Democratic,42578.0,73.8,True,True
+2020,Washington,WA,State House,33,general,Marliza Melzer,Libertarian,15123.0,26.2,False,False
+2020,Washington,WA,State House,34,general,Eileen L. Cody,Democratic,73609.0,100.0,True,True
+2020,Washington,WA,State House,34,general,Joe Fitzgibbon,Democratic,73231.0,100.0,True,True
+2020,Washington,WA,State House,35,general,Dan Griffey,Republican,49314.0,58.4,True,True
+2020,Washington,WA,State House,35,general,Colton Myers,Democratic,35131.0,41.6,False,False
+2020,Washington,WA,State House,35,general,Drew C. MacEwen,Republican,47618.0,56.5,True,True
+2020,Washington,WA,State House,35,general,Darcy Huffman,Democratic,36668.0,43.5,False,False
+2020,Washington,WA,State House,36,general,Noel Christina Frame,Democratic,86090.0,100.0,True,True
+2020,Washington,WA,State House,36,general,Liz Berry,Democratic,55717.0,58.7,True,False
+2020,Washington,WA,State House,36,general,Sarah Reyneveld,Democratic,39131.0,41.3,False,False
+2020,Washington,WA,State House,37,general,Sharon Tomiko Santos,Democratic,63557.0,82.8,True,True
+2020,Washington,WA,State House,37,general,John Stafford,Democratic,13165.0,17.2,False,False
+2020,Washington,WA,State House,37,general,Kirsten Harris-Talley,Democratic,50780.0,66.4,True,False
+2020,Washington,WA,State House,37,general,Chukundi Salisbury,Democratic,25706.0,33.6,False,False
+2020,Washington,WA,State House,38,general,Emily Wicks,Democratic,39730.0,59.0,True,False
+2020,Washington,WA,State House,38,general,Bert Johnson,Republican,27651.0,41.0,False,False
+2020,Washington,WA,State House,38,general,Mike Sells,Democratic,43178.0,67.5,True,True
+2020,Washington,WA,State House,38,general,David Wiley,Libertarian,20810.0,32.5,False,False
+2020,Washington,WA,State House,39,general,Robert J. Sutherland,Republican,48716.0,60.1,True,True
+2020,Washington,WA,State House,39,general,Claus Joens,Democratic,32349.0,39.9,False,False
+2020,Washington,WA,State House,39,general,Carolyn Eslick,Republican,51067.0,63.1,True,True
+2020,Washington,WA,State House,39,general,Ryan Johnson,Democratic,29833.0,36.9,False,False
+2020,Washington,WA,State House,40,general,Debra Lekanoff,Democratic,64898.0,100.0,True,True
+2020,Washington,WA,State House,40,general,Alex Ramel,Democratic,58915.0,68.2,True,True
+2020,Washington,WA,State House,40,general,Russ Dzialo,Republican,27408.0,31.8,False,False
+2020,Washington,WA,State House,41,general,Tana Senn,Democratic,63815.0,100.0,True,True
+2020,Washington,WA,State House,41,general,My-Linh Thai,Democratic,55609.0,66.7,True,True
+2020,Washington,WA,State House,41,general,Al Rosenthal,Republican,27808.0,33.3,False,False
+2020,Washington,WA,State House,42,general,Alicia Rule,Democratic,47260.0,51.2,True,False
+2020,Washington,WA,State House,42,general,Luanne Van Werven,Republican,45104.0,48.8,False,True
+2020,Washington,WA,State House,42,general,Sharon Shewmake,Democratic,47702.0,51.7,True,True
+2020,Washington,WA,State House,42,general,Jennifer Sefzik,Republican,44501.0,48.3,False,False
+2020,Washington,WA,State House,43,general,Nicole Macri,Democratic,86409.0,91.0,True,True
+2020,Washington,WA,State House,43,general,Leslie Klein,Republican,8552.0,9.0,False,False
+2020,Washington,WA,State House,43,general,Frank Chopp,Democratic,61788.0,66.6,True,True
+2020,Washington,WA,State House,43,general,Sherae Lascelles,Seattle People's,31029.0,33.4,False,False
+2020,Washington,WA,State House,44,general,John Lovick,Democratic,50729.0,57.2,True,True
+2020,Washington,WA,State House,44,general,John T. Kartak,Republican,37962.0,42.8,False,False
+2020,Washington,WA,State House,44,general,April Berg,Democratic,45572.0,51.8,True,False
+2020,Washington,WA,State House,44,general,Mark A. James,Republican,42417.0,48.2,False,False
+2020,Washington,WA,State House,45,general,Roger Goodman,Democratic,60186.0,71.7,True,True
+2020,Washington,WA,State House,45,general,John P. Gibbons,Republican,23778.0,28.3,False,False
+2020,Washington,WA,State House,45,general,Larry Springer,Democratic,56562.0,67.0,True,True
+2020,Washington,WA,State House,45,general,Amber Krabach,Republican,27817.0,33.0,False,False
+2020,Washington,WA,State House,46,general,Gerry Pollet,Democratic,76563.0,83.9,True,True
+2020,Washington,WA,State House,46,general,Eric J. Brown,Republican,14704.0,16.1,False,False
+2020,Washington,WA,State House,46,general,Javier Valdez,Democratic,74377.0,81.7,True,True
+2020,Washington,WA,State House,46,general,Beth Daranciang,Republican,16705.0,18.3,False,False
+2020,Washington,WA,State House,47,general,Debra Entenman,Democratic,42147.0,58.6,True,True
+2020,Washington,WA,State House,47,general,Kyle Lyebyedyev,Republican,29719.0,41.4,False,False
+2020,Washington,WA,State House,47,general,Pat Sullivan,Democratic,42399.0,58.9,True,True
+2020,Washington,WA,State House,47,general,Ted Cooke,Republican,29595.0,41.1,False,False
+2020,Washington,WA,State House,48,general,Vandana Slatter,Democratic,49426.0,71.3,True,True
+2020,Washington,WA,State House,48,general,Victor H. Bishop,Republican,19884.0,28.7,False,False
+2020,Washington,WA,State House,48,general,Amy Walen,Democratic,49213.0,71.0,True,True
+2020,Washington,WA,State House,48,general,Tim J. Hickey,Republican,20115.0,29.0,False,False
+2020,Washington,WA,State House,49,general,Sharon Wylie,Democratic,45684.0,63.1,True,True
+2020,Washington,WA,State House,49,general,Justin Forsman,Republican,26736.0,36.9,False,False
+2020,Washington,WA,State House,49,general,Monica Stonier,Democratic,45578.0,62.6,True,True
+2020,Washington,WA,State House,49,general,Park Llafet,Republican,27211.0,37.4,False,False
 2020,West Virginia,WV,State House,1,general,Mark Zatezalo,Republican,8978.0,35.25,True,False
 2020,West Virginia,WV,State House,1,general,Pat McGeehan,Republican,8165.0,32.06,True,True
 2020,West Virginia,WV,State House,1,general,Jack Wood,Democratic,4307.0,16.91,False,False
@@ -5747,16 +6434,3 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2020,Puerto Rico,PU,State House,REPRESENTATIVE DISTRICT 40,general,María Vargas Cáceres,Independence,2257.0,10.32,False,False
 2020,Alabama elections#,AL,State House,REPRESENTATIVES,special general,Russell Bedsole,Republican,1599.0,63.18,True,False
 2020,Alabama elections#,AL,State House,REPRESENTATIVES,special general,Cheryl Patton,Democratic,930.0,36.74,False,False
-2020,Louisiana elections#Louisiana House of Representatives (special),LO,State House,1,general,Eric Skrmetta,Republican,55987.0,61.78,True,True
-2020,Louisiana elections#Louisiana House of Representatives (special),LO,State House,1,general,Allen Borne Jr.,Democratic,34639.0,38.22,False,False
-2020,Michigan's 34th House of Representatives district special,MI,State House,REPRESENTATIVES,special general,Cynthia Neeley,Democratic,7718.0,91.9,True,False
-2020,Michigan's 34th House of Representatives district special,MI,State House,REPRESENTATIVES,special general,Adam Ford,Republican,683.0,8.1,False,False
-2020,Pennsylvania House of Representatives election#Special,PE,State House,8,special general,Timothy R. Bonner,Republican,4000.0,75.08,True,False
-2020,Pennsylvania House of Representatives election#Special,PE,State House,8,special general,Phil Heasley,Democratic,1328.0,24.92,False,False
-2020,Pennsylvania House of Representatives election#Special,PE,State House,18,special general,Kathleen C. Tomlinson,Republican,4516.0,55.23,True,False
-2020,Pennsylvania House of Representatives election#Special,PE,State House,18,special general,Harold Hayes,Democratic,3661.0,44.77,False,False
-2020,Pennsylvania House of Representatives election#Special,PE,State House,58,special general,Eric Davanzo,Republican,4269.0,52.58,True,False
-2020,Pennsylvania House of Representatives election#Special,PE,State House,58,special general,Robert Prah Jr.,Democratic,3294.0,40.57,False,False
-2020,Pennsylvania House of Representatives election#Special,PE,State House,58,special general,Kenneth Bach,Libertarian,556.0,6.85,False,False
-2020,Pennsylvania House of Representatives election#Special,PE,State House,190,special general,G. Roni Green,Democratic,2651.0,86.27,True,False
-2020,Pennsylvania House of Representatives election#Special,PE,State House,190,special general,Wanda Logan,Republican,422.0,13.73,False,False
