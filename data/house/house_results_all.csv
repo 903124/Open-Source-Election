@@ -61533,7 +61533,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Connecticut,CT,2,292064,Joe Courtney,Democratic,182381,100.0,True,False,False
 2026,house,Connecticut,CT,3,247131,Rosa DeLauro,Democratic,151261,100.0,True,False,False
 2026,house,Connecticut,CT,4,240138,Jim Himes,Democratic,157485,100.0,True,False,False
-2026,house,Connecticut,CT,5,253066,Jahana Hayes,Democratic,146353,100.0,True,False,False
+2026,house,Connecticut,CT,5,253097,Jahana Hayes,Democratic,146365,100.0,True,False,False
 2026,house,Delaware,DE,AL,,Joseph Arminio,Republican,,35.6,False,False,False
 2026,house,Delaware,DE,AL,,Sarah McBride,Democratic,,64.3,True,False,False
 2026,house,District of Columbia,DC,AL,,Denise Rosado,Republican,,6.3,False,False,True
@@ -61591,7 +61591,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Florida,FL,26,,Nicole Locklin,Democratic,,49.1,False,False,False
 2026,house,Florida,FL,27,,Eliott Rodriguez,Democratic,,49.8,False,False,False
 2026,house,Florida,FL,27,,María Elvira Salazar,Republican,,50.2,True,False,False
-2026,house,Florida,FL,28,,Carlos A. Giménez,Republican,,52.9,True,False,False
+2026,house,Florida,FL,28,,Carlos A. Gimenez,Republican,,52.9,True,False,False
 2026,house,Florida,FL,28,,Eddy Rojas,Independent,,1.5,False,False,False
 2026,house,Florida,FL,28,,Phil Ehr,Democratic,,45.7,False,False,False
 2026,house,Florida,FL,3,300411,Kat Cammack,Republican,165655,55.1,True,False,False
@@ -61803,13 +61803,21 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Michigan,MI,7,397273,William Lawrence,Democratic,202800,100.0,True,False,False
 2026,house,Michigan,MI,8,352927,Kristen McDonald Rivet,Democratic,195946,100.0,True,False,False
 2026,house,Michigan,MI,9,395697,Lisa McClain,Republican,247845,100.0,True,False,False
-2026,house,Minnesota,MN,2,375226,Matt Little,DFL,214255,100.0,True,False,False
-2026,house,Minnesota,MN,3,377997,Kelly Morrison,DFL,242079,100.0,True,False,False
-2026,house,Minnesota,MN,4,336274,Betty McCollum,DFL,245699,100.0,True,False,False
-2026,house,Minnesota,MN,5,343508,Ilhan Omar,DFL,262702,100.0,True,False,False
-2026,house,Minnesota,MN,6,,Tom Emmer,Republican,,100.0,True,False,False
-2026,house,Minnesota,MN,7,330628,Michelle Fischbach,Republican,214503,100.0,True,False,False
-2026,house,Minnesota,MN,8,359453,Pete Stauber,Republican,190744,100.0,True,False,False
+2026,house,Minnesota,MN,2,375226,Eric Pratt,Republican,160636,42.8,False,False,False
+2026,house,Minnesota,MN,2,375226,Matt Little,DFL,214255,57.1,True,False,False
+2026,house,Minnesota,MN,3,377997,Kelly Morrison,DFL,242079,64.0,True,False,False
+2026,house,Minnesota,MN,3,377997,Tyler Bass,Republican,135505,35.8,False,False,False
+2026,house,Minnesota,MN,4,336274,Betty McCollum,DFL,245699,73.1,True,False,False
+2026,house,Minnesota,MN,4,336274,Paul Wikstrom,Republican,90068,26.8,False,False,False
+2026,house,Minnesota,MN,5,343508,DeVelle Jackson,Independent,,7.0,False,False,False
+2026,house,Minnesota,MN,5,343508,Ilhan Omar,DFL,262702,76.5,True,False,False
+2026,house,Minnesota,MN,5,343508,John Nagel,Republican,,16.2,False,False,False
+2026,house,Minnesota,MN,6,,Doug Chapin,DFL,,44.2,False,False,False
+2026,house,Minnesota,MN,6,,Tom Emmer,Republican,,55.7,True,False,False
+2026,house,Minnesota,MN,7,330628,Erik Osberg,DFL,115805,35.0,False,False,False
+2026,house,Minnesota,MN,7,330628,Michelle Fischbach,Republican,214503,64.9,True,False,False
+2026,house,Minnesota,MN,8,359453,Pete Stauber,Republican,190744,53.0,True,False,False
+2026,house,Minnesota,MN,8,359453,Trina Swanson,DFL,168350,46.9,False,False,False
 2026,house,Mississippi,MS,1,243938,Trent Kelly,Republican,141401,100.0,True,False,False
 2026,house,Mississippi,MS,2,248993,Bennie Thompson,Democratic,169048,100.0,True,False,False
 2026,house,Mississippi,MS,3,257170,Michael Guest,Republican,147295,100.0,True,False,False
@@ -61831,8 +61839,11 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Nevada,NV,2,324866,Teresa Benitez-Thompson,Democratic,,100.0,True,False,True
 2026,house,Nevada,NV,3,272539,Susie Lee,Democratic,162520,100.0,True,False,False
 2026,house,Nevada,NV,4,253675,Steven Horsford,Democratic,153396,100.0,True,False,False
-2026,house,New Hampshire,NH,1,,Stefany Shaheen,Democratic,,100.0,True,False,True
-2026,house,New Hampshire,NH,2,,Maggie Goodlander,Democratic,,100.0,True,False,False
+2026,house,New Hampshire,NH,1,,Anthony DiLorenzo,Republican,,42.9,False,False,True
+2026,house,New Hampshire,NH,1,,Stefany Shaheen,Democratic,,56.9,True,False,True
+2026,house,New Hampshire,NH,2,,Lily Tang Williams,Republican,,38.8,False,False,False
+2026,house,New Hampshire,NH,2,,Maggie Goodlander,Democratic,,58.8,True,False,False
+2026,house,New Hampshire,NH,2,,Robbie Mahrou,Independent,,2.4,False,False,False
 2026,house,New Jersey,NJ,1,,Donald Norcross,Democratic,,100.0,True,False,False
 2026,house,New Jersey,NJ,10,,LaMonica McIver,Democratic,,100.0,True,False,False
 2026,house,New Jersey,NJ,11,,Analilia Mejia,Democratic,,100.0,True,False,False
@@ -61883,6 +61894,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,North Carolina,NC,2,328256,Deborah Ross,Democratic,246446,100.0,True,False,False
 2026,house,North Carolina,NC,3,239614,Raymond Smith Jr.,Democratic,118434,100.0,True,False,False
 2026,house,North Carolina,NC,4,359571,Valerie Foushee,Democratic,284548,100.0,True,False,False
+2026,house,North Carolina,NC,5,286788,Chuck Hubbard,Democratic,139770,100.0,True,False,False
 2026,house,North Carolina,NC,6,274810,Cyril Jefferson,Democratic,140707,100.0,True,False,False
 2026,house,North Carolina,NC,7,322266,David Rouzer,Republican,160702,100.0,True,False,False
 2026,house,North Carolina,NC,8,293251,Mark Harris,Republican,147683,100.0,True,False,False

@@ -1,10 +1,10 @@
 year,state,state_code,chamber,district,race,candidate,party,votes,percentage,winner,incumbent
-2018,Alabama,AL,State House,REPRESENTATIVES,general,Phillip Pettus,Republican,7348,62.57,True,True
-2018,Alabama,AL,State House,REPRESENTATIVES,general,Bobby James Dolan III,Independent,4336,36.92,False,False
-2018,Alabama,AL,State House,REPRESENTATIVES,general,Lynn Greer,Republican,13056,73.04,True,True
-2018,Alabama,AL,State House,REPRESENTATIVES,general,Laura Kay Morrow,Democratic,4798,26.84,False,False
-2018,Alabama,AL,State House,REPRESENTATIVES,general,Andrew Sorrell,Republican,9448,52.49,True,False
-2018,Alabama,AL,State House,REPRESENTATIVES,general,Chad Young,Democratic,8540,47.45,False,False
+2018,Alabama,AL,State House,1,general,Phillip Pettus,Republican,7348,62.57,True,True
+2018,Alabama,AL,State House,1,general,Bobby James Dolan III,Independent,4336,36.92,False,False
+2018,Alabama,AL,State House,2,general,Lynn Greer,Republican,13056,73.04,True,True
+2018,Alabama,AL,State House,2,general,Laura Kay Morrow,Democratic,4798,26.84,False,False
+2018,Alabama,AL,State House,3,general,Andrew Sorrell,Republican,9448,52.49,True,False
+2018,Alabama,AL,State House,3,general,Chad Young,Democratic,8540,47.45,False,False
 2018,Alabama,AL,State House,4,general,Parker Moore,Republican,11074,65.05,True,True
 2018,Alabama,AL,State House,4,general,Jo Ann Cummings,Democratic,4325,25.41,False,False
 2018,Alabama,AL,State House,4,general,"Polan ""Pete"" Willis Jr.",Independent,1620,9.51,False,False
@@ -652,7 +652,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2018,Connecticut,CT,State House,7,special general,Kenneth Green,Independent,367,24.1,False,False
 2018,Connecticut,CT,State House,7,special general,Giselle Gigi Jacobs,Write-in,17,1.1,False,False
 2018,Connecticut,CT,State House,15,special general,Bobby Gibson,Democratic,922,51.9,True,False
-2018,Connecticut,CT,State House,15,special general,Joseph M. Suggs Jr.,Independent Democratic,854,48.1,False,False
+2018,Connecticut,CT,State House,15,special general,Joseph M. Suggs Jr.,Independent Democrat,854,48.1,False,False
 2018,Connecticut,CT,State House,1,general,Matthew Ritter,Democratic,4419,100.0,True,True
 2018,Connecticut,CT,State House,2,general,Raghib Allie-Brennan,Democratic,5509,50.6,True,False
 2018,Connecticut,CT,State House,2,general,William Duff,Republican,4863,44.6,False,False
@@ -3668,6 +3668,200 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2018,New Hampshire,NH,State House,SULLIVAN 10,general,Conlin Smith,Republican,1609,41.3,False,False
 2018,New Hampshire,NH,State House,SULLIVAN 11,general,Steven D. Smith,Republican,2057,54.7,True,True
 2018,New Hampshire,NH,State House,SULLIVAN 11,general,Bruce Cragin,Democratic,1703,45.3,False,False
+2018,New Hampshire,NH,State House,2,general,Harry Bean,Republican,,,True,False
+2018,New Hampshire,NH,State House,3,general,David Huot,Democratic,,,True,False
+2018,New Hampshire,NH,State House,4,general,Dennis Fields,Republican,,,True,False
+2018,New Hampshire,NH,State House,5,general,George Feeney,Republican,,,True,False
+2018,New Hampshire,NH,State House,6,general,John Plumer,Republican,,,True,False
+2018,New Hampshire,NH,State House,7,general,Barbara Comtois,Republican,,,True,False
+2018,New Hampshire,NH,State House,8,general,Raymond Howard,Republican,,,True,False
+2018,New Hampshire,NH,State House,9,general,Charlie St. Clair,Democratic,,,True,False
+2018,New Hampshire,NH,State House,2,general,Thomas Buco,Democratic,,,True,False
+2018,New Hampshire,NH,State House,3,general,Jerry Knirk,Democratic,,,True,False
+2018,New Hampshire,NH,State House,4,general,Glenn Cordelli,Republican,,,True,False
+2018,New Hampshire,NH,State House,5,general,Lino Avellani,Republican,,,True,False
+2018,New Hampshire,NH,State House,6,general,Edith DesMarais,Democratic,,,True,False
+2018,New Hampshire,NH,State House,7,general,Ed Butler,Democratic,,,True,False
+2018,New Hampshire,NH,State House,8,general,William Marsh,Republican,,,True,False
+2018,New Hampshire,NH,State House,2,general,John Mann,Democratic,,,True,False
+2018,New Hampshire,NH,State House,3,general,Dan Eaton,Democratic,,,True,False
+2018,New Hampshire,NH,State House,4,general,David Morrill,Democratic,,,True,False
+2018,New Hampshire,NH,State House,5,general,John Bordenet,Democratic,,,True,False
+2018,New Hampshire,NH,State House,6,general,David Meader,Democratic,,,True,False
+2018,New Hampshire,NH,State House,7,general,Sparky Von Plinsky,Democratic,,,True,False
+2018,New Hampshire,NH,State House,8,general,Donovan Fenton,Democratic,,,True,False
+2018,New Hampshire,NH,State House,9,general,Richard Ames,Democratic,,,True,False
+2018,New Hampshire,NH,State House,10,general,Sandy Swinburne,Democratic,,,True,False
+2018,New Hampshire,NH,State House,11,general,John B. Hunt,Republican,,,True,False
+2018,New Hampshire,NH,State House,12,general,F. Barrett Faulkner,Democratic,,,True,False
+2018,New Hampshire,NH,State House,13,general,Henry Parkhurst,Democratic,,,True,False
+2018,New Hampshire,NH,State House,14,general,Craig Thompson,Democratic,,,True,False
+2018,New Hampshire,NH,State House,15,general,Bruce Tatro,Democratic,,,True,False
+2018,New Hampshire,NH,State House,16,general,Joe Schapiro,Democratic,,,True,False
+2018,New Hampshire,NH,State House,2,general,Wayne Moynihan,Democratic,,,True,False
+2018,New Hampshire,NH,State House,3,general,Larry Laflamme,Democratic,,,True,False
+2018,New Hampshire,NH,State House,4,general,Kevin Craig,Republican,,,True,False
+2018,New Hampshire,NH,State House,5,general,Edith Tucker,Democratic,,,True,False
+2018,New Hampshire,NH,State House,6,general,William Hatch,Democratic,,,True,False
+2018,New Hampshire,NH,State House,7,general,Troy Merner,Republican,,,True,False
+2018,New Hampshire,NH,State House,2,general,Timothy Egan,Democratic,,,True,False
+2018,New Hampshire,NH,State House,3,general,Susan M. Ford,Democratic,,,True,False
+2018,New Hampshire,NH,State House,4,general,Rick Ladd,Republican,,,True,False
+2018,New Hampshire,NH,State House,5,general,Jerry Stringham,Democratic,,,True,False
+2018,New Hampshire,NH,State House,6,general,Kevin Maes,Democratic,,,True,False
+2018,New Hampshire,NH,State House,7,general,Richard Osborne,Democratic,,,True,False
+2018,New Hampshire,NH,State House,8,general,Sallie Fellows,Democratic,,,True,False
+2018,New Hampshire,NH,State House,9,general,Ned Gordon,Republican,,,True,False
+2018,New Hampshire,NH,State House,10,general,Roger Dontonville,Democratic,,,True,False
+2018,New Hampshire,NH,State House,11,general,Timothy Josephson,Democratic,,,True,False
+2018,New Hampshire,NH,State House,12,general,Polly Campion,Democratic,,,True,False
+2018,New Hampshire,NH,State House,13,general,Richard Abel,Democratic,,,True,False
+2018,New Hampshire,NH,State House,14,general,Elaine French,Democratic,,,True,False
+2018,New Hampshire,NH,State House,15,general,Dennis Ruprecht,Democratic,,,True,False
+2018,New Hampshire,NH,State House,16,general,Francesca Diggs,Democratic,,,True,False
+2018,New Hampshire,NH,State House,17,general,Joshua Adjutant,Democratic,,,True,False
+2018,New Hampshire,NH,State House,2,general,Keith Erf,Republican,,,True,False
+2018,New Hampshire,NH,State House,3,general,Dan Pickering,Democratic,,,True,False
+2018,New Hampshire,NH,State House,4,general,Jennifer Bernet,Democratic,,,True,False
+2018,New Hampshire,NH,State House,5,general,David Woodbury,Democratic,,,True,False
+2018,New Hampshire,NH,State House,6,general,Joe Alexander,Republican,,,True,False
+2018,New Hampshire,NH,State House,7,general,David Danielson,Republican,,,True,False
+2018,New Hampshire,NH,State House,8,general,Jeff Goley,Democratic,,,True,False
+2018,New Hampshire,NH,State House,9,general,Linda DiSilvestro,Democratic,,,True,False
+2018,New Hampshire,NH,State House,10,general,Jean Jeudy,Democratic,,,True,False
+2018,New Hampshire,NH,State House,11,general,Donald Bouchard,Democratic,,,True,False
+2018,New Hampshire,NH,State House,12,general,Amanda Bouldin,Democratic,,,True,False
+2018,New Hampshire,NH,State House,13,general,Larry Gagne,Republican,,,True,False
+2018,New Hampshire,NH,State House,14,general,Mary Freitas,Democratic,,,True,False
+2018,New Hampshire,NH,State House,15,general,Erika Conners,Democratic,,,True,False
+2018,New Hampshire,NH,State House,16,general,Barbara Shaw,Democratic,,,True,False
+2018,New Hampshire,NH,State House,17,general,Heidi Hamer,Democratic,,,True,False
+2018,New Hampshire,NH,State House,18,general,Patricia Cornell,Democratic,,,True,False
+2018,New Hampshire,NH,State House,19,general,Bob Backus,Democratic,,,True,False
+2018,New Hampshire,NH,State House,20,general,Ralph Boehm,Republican,,,True,False
+2018,New Hampshire,NH,State House,21,general,Dick Barry,Republican,,,True,False
+2018,New Hampshire,NH,State House,22,general,Megan Murray,Democratic,,,True,False
+2018,New Hampshire,NH,State House,23,general,Paul Dargie,Democratic,,,True,False
+2018,New Hampshire,NH,State House,24,general,Peter Leishman,Democratic,,,True,False
+2018,New Hampshire,NH,State House,25,general,Tim Merlino,Republican,,,True,False
+2018,New Hampshire,NH,State House,26,general,Jack Flanagan,Republican,,,True,False
+2018,New Hampshire,NH,State House,27,general,Jim Belanger,Republican,,,True,False
+2018,New Hampshire,NH,State House,28,general,Jan Schmidt,Democratic,,,True,False
+2018,New Hampshire,NH,State House,29,general,Paul Bergeron,Democratic,,,True,False
+2018,New Hampshire,NH,State House,30,general,Patricia Klee,Democratic,,,True,False
+2018,New Hampshire,NH,State House,31,general,Manny Espitia,Democratic,,,True,False
+2018,New Hampshire,NH,State House,32,general,Allison Nutting-Wong,Democratic,,,True,False
+2018,New Hampshire,NH,State House,33,general,Ken N. Gidge,Democratic,,,True,False
+2018,New Hampshire,NH,State House,34,general,Greg Indruk,Democratic,,,True,False
+2018,New Hampshire,NH,State House,35,general,Skip Cleaver,Democratic,,,True,False
+2018,New Hampshire,NH,State House,36,general,Marty Jack,Democratic,,,True,False
+2018,New Hampshire,NH,State House,37,general,Bob Greene,Republican,,,True,False
+2018,New Hampshire,NH,State House,38,general,Chris Balch,Democratic,,,True,False
+2018,New Hampshire,NH,State House,39,general,John Burt,Republican,,,True,False
+2018,New Hampshire,NH,State House,40,general,Kat McGhee,Democratic,,,True,False
+2018,New Hampshire,NH,State House,41,general,Laurie Sanborn,Republican,,,True,False
+2018,New Hampshire,NH,State House,42,general,Jacqueline Chretien,Democratic,,,True,False
+2018,New Hampshire,NH,State House,43,general,Benjamin Baroody,Democratic,,,True,False
+2018,New Hampshire,NH,State House,44,general,Mark McLean,Republican,,,True,False
+2018,New Hampshire,NH,State House,45,general,Jane Beaulieu,Democratic,,,True,False
+2018,New Hampshire,NH,State House,2,general,Werner D. Horn,Republican,,,True,False
+2018,New Hampshire,NH,State House,3,general,Greg Hill,Republican,,,True,False
+2018,New Hampshire,NH,State House,4,general,Tom Schamberg,Democratic,,,True,False
+2018,New Hampshire,NH,State House,5,general,Karen Ebel,Democratic,,,True,False
+2018,New Hampshire,NH,State House,6,general,Beth Rodd,Democratic,,,True,False
+2018,New Hampshire,NH,State House,7,general,Clyde Carson,Democratic,,,True,False
+2018,New Hampshire,NH,State House,8,general,Robert Forsythe,Republican,,,True,False
+2018,New Hampshire,NH,State House,9,general,Howard Moffett,Democratic,,,True,False
+2018,New Hampshire,NH,State House,10,general,David Luneau,Democratic,,,True,False
+2018,New Hampshire,NH,State House,11,general,Steve Shurtleff,Democratic,,,True,False
+2018,New Hampshire,NH,State House,12,general,Connie Lane,Democratic,,,True,False
+2018,New Hampshire,NH,State House,13,general,Beth Richards,Democratic,,,True,False
+2018,New Hampshire,NH,State House,14,general,James MacKay,Democratic,,,True,False
+2018,New Hampshire,NH,State House,15,general,Ryan Buchanan,Democratic,,,True,False
+2018,New Hampshire,NH,State House,16,general,Timothy Soucy,Democratic,,,True,False
+2018,New Hampshire,NH,State House,17,general,Safiya Wazir,Democratic,,,True,False
+2018,New Hampshire,NH,State House,18,general,Kris Schultz,Democratic,,,True,False
+2018,New Hampshire,NH,State House,19,general,Christy Bartlett,Democratic,,,True,False
+2018,New Hampshire,NH,State House,20,general,David Doherty,Democratic,,,True,False
+2018,New Hampshire,NH,State House,21,general,James Allard,Republican,,,True,False
+2018,New Hampshire,NH,State House,22,general,Alan Turcotte,Democratic,,,True,False
+2018,New Hampshire,NH,State House,23,general,Samantha Fox,Democratic,,,True,False
+2018,New Hampshire,NH,State House,24,general,Frank Kotowski,Republican,,,True,False
+2018,New Hampshire,NH,State House,25,general,David Karrick,Democratic,,,True,False
+2018,New Hampshire,NH,State House,26,general,Howard Pearl,Republican,,,True,False
+2018,New Hampshire,NH,State House,27,general,Art Ellison,Democratic,,,True,False
+2018,New Hampshire,NH,State House,28,general,Katherine Rogers,Democratic,,,True,False
+2018,New Hampshire,NH,State House,29,general,Carol McGuire,Republican,,,True,False
+2018,New Hampshire,NH,State House,2,general,Alan Bershtein,Republican,,,True,False
+2018,New Hampshire,NH,State House,3,general,Michael Costable,Republican,,,True,False
+2018,New Hampshire,NH,State House,4,general,Jess Edwards,Republican,,,True,False
+2018,New Hampshire,NH,State House,5,general,Al Baldasaro,Republican,,,True,False
+2018,New Hampshire,NH,State House,6,general,Brian Chirichiello,Republican,,,True,False
+2018,New Hampshire,NH,State House,7,general,Joel Desilets,Republican,,,True,False
+2018,New Hampshire,NH,State House,8,general,Daryl Abbas,Republican,,,True,False
+2018,New Hampshire,NH,State House,9,general,Sean Morrison,Republican,,,True,False
+2018,New Hampshire,NH,State House,10,general,Dennis Acton,Republican,,,True,False
+2018,New Hampshire,NH,State House,11,general,Liz McConnell,Democratic,,,True,False
+2018,New Hampshire,NH,State House,12,general,Scott Wallace,Republican,,,True,False
+2018,New Hampshire,NH,State House,13,general,Dennis Green,Republican,,,True,False
+2018,New Hampshire,NH,State House,14,general,Debra DeSimone,Republican,,,True,False
+2018,New Hampshire,NH,State House,15,general,Charles Melvin,Republican,,,True,False
+2018,New Hampshire,NH,State House,16,general,Dan Davis,Republican,,,True,False
+2018,New Hampshire,NH,State House,17,general,Michael Cahill,Democratic,,,True,False
+2018,New Hampshire,NH,State House,18,general,Skip Berrien,Democratic,,,True,False
+2018,New Hampshire,NH,State House,19,general,Patrick Abrami,Republican,,,True,False
+2018,New Hampshire,NH,State House,20,general,Max Abramson,Republican,,,True,False
+2018,New Hampshire,NH,State House,21,general,Patricia Bushway,Democratic,,,True,False
+2018,New Hampshire,NH,State House,22,general,Jim Maggiore,Democratic,,,True,False
+2018,New Hampshire,NH,State House,23,general,Dennis Malloy,Democratic,,,True,False
+2018,New Hampshire,NH,State House,24,general,Jaci Grote,Democratic,,,True,False
+2018,New Hampshire,NH,State House,25,general,Laura Pantelakos,Democratic,,,True,False
+2018,New Hampshire,NH,State House,26,general,Rebecca McBeath,Democratic,,,True,False
+2018,New Hampshire,NH,State House,27,general,Peter Somssich,Democratic,,,True,False
+2018,New Hampshire,NH,State House,28,general,Gerry Ward,Democratic,,,True,False
+2018,New Hampshire,NH,State House,29,general,David Meuse,Democratic,,,True,False
+2018,New Hampshire,NH,State House,30,general,Jacqueline Cali-Pitts,Democratic,,,True,False
+2018,New Hampshire,NH,State House,31,general,Tamara Le,Democratic,,,True,False
+2018,New Hampshire,NH,State House,32,general,Terry Roy,Republican,,,True,False
+2018,New Hampshire,NH,State House,33,general,Josh Yokela,Republican,,,True,False
+2018,New Hampshire,NH,State House,34,general,Mark Pearson,Republican,,,True,False
+2018,New Hampshire,NH,State House,35,general,Deborah Hobson,Republican,,,True,False
+2018,New Hampshire,NH,State House,36,general,Patricia Lovejoy,Democratic,,,True,False
+2018,New Hampshire,NH,State House,37,general,Jason Janvrin,Republican,,,True,False
+2018,New Hampshire,NH,State House,2,general,James Horgan,Republican,,,True,False
+2018,New Hampshire,NH,State House,3,general,Michael Harrington,Republican,,,True,False
+2018,New Hampshire,NH,State House,4,general,Cassandra Levesque,Democratic,,,True,False
+2018,New Hampshire,NH,State House,5,general,Jeffrey Salloway,Democratic,,,True,False
+2018,New Hampshire,NH,State House,6,general,Cam Kenney,Democratic,,,True,False
+2018,New Hampshire,NH,State House,7,general,Timothy Fontneau,Democratic,,,True,False
+2018,New Hampshire,NH,State House,8,general,Donna Ellis,Democratic,,,True,False
+2018,New Hampshire,NH,State House,9,general,Steven Beaudoin,Republican,,,True,False
+2018,New Hampshire,NH,State House,10,general,Jody McNally,Republican,,,True,False
+2018,New Hampshire,NH,State House,11,general,Chuck Grassie,Democratic,,,True,False
+2018,New Hampshire,NH,State House,12,general,Mac Kittredge,Republican,,,True,False
+2018,New Hampshire,NH,State House,13,general,Casey Conley,Democratic,,,True,False
+2018,New Hampshire,NH,State House,14,general,Kristina Fargo,Democratic,,,True,False
+2018,New Hampshire,NH,State House,15,general,Linn Opderbecke,Democratic,,,True,False
+2018,New Hampshire,NH,State House,16,general,Sherry Frost,Democratic,,,True,False
+2018,New Hampshire,NH,State House,17,general,Peter Bixby,Democratic,,,True,False
+2018,New Hampshire,NH,State House,18,general,Gerri Cannon,Democratic,,,True,False
+2018,New Hampshire,NH,State House,19,general,Peter B. Schmidt,Democratic,,,True,False
+2018,New Hampshire,NH,State House,20,general,Thomas Southworth,Democratic,,,True,False
+2018,New Hampshire,NH,State House,21,general,Catt Sandler,Democratic,,,True,False
+2018,New Hampshire,NH,State House,22,general,Peg Higgins,Democratic,,,True,False
+2018,New Hampshire,NH,State House,23,general,Sandra Keans,Democratic,,,True,False
+2018,New Hampshire,NH,State House,24,general,Mona Perreault,Republican,,,True,False
+2018,New Hampshire,NH,State House,25,general,Amanda Gourgue,Democratic,,,True,False
+2018,New Hampshire,NH,State House,2,general,Gates Lucas,Republican,,,True,False
+2018,New Hampshire,NH,State House,3,general,Andrew O'Hearne,Democratic,,,True,False
+2018,New Hampshire,NH,State House,4,general,Gary Merchant,Democratic,,,True,False
+2018,New Hampshire,NH,State House,5,general,Walter Stapleton,Republican,,,True,False
+2018,New Hampshire,NH,State House,6,general,John Callum,Republican,,,True,False
+2018,New Hampshire,NH,State House,7,general,Judy Aron,Republican,,,True,False
+2018,New Hampshire,NH,State House,8,general,Tom Laware,Republican,,,True,False
+2018,New Hampshire,NH,State House,9,general,Linda Tanner,Democratic,,,True,False
+2018,New Hampshire,NH,State House,10,general,John Cloutier,Democratic,,,True,False
+2018,New Hampshire,NH,State House,11,general,},Republican,,,True,False
 2018,New Mexico,NM,State House,1,general,Rod Montoya,Republican,8512,100.0,True,True
 2018,New Mexico,NM,State House,2,general,James Strickler,Republican,5437,100.0,True,True
 2018,New Mexico,NM,State House,3,general,Paul Bandy,Republican,6225,77.4,True,True
@@ -5024,8 +5218,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2018,Vermont,VT,State House,ADDISON-4,general,Fred Baser,Republican,2018.0,22.79,False,True
 2018,Vermont,VT,State House,ADDISON-4,general,Valerie Mullin,Republican,1466.0,16.56,False,False
 2018,Vermont,VT,State House,ADDISON-5,general,Harvey Smith,Republican,1505.0,71.73,True,True
-2018,Vermont,VT,State House,ADDISON-RUTLAND,general,Terry Norris,Independent,1009.0,55.59,True,True
-2018,Vermont,VT,State House,ADDISON-RUTLAND,general,Barbara Wilson,Democratic,735.0,40.4,False,False
+2018,Vermont,VT,State House,ADDISON-5,general,Terry Norris,Independent,1009.0,55.59,True,True
+2018,Vermont,VT,State House,ADDISON-5,general,Barbara Wilson,Democratic,735.0,40.4,False,False
 2018,Vermont,VT,State House,BENNINGTON-1,general,Nelson Brownell,Democratic,681.0,46.08,True,False
 2018,Vermont,VT,State House,BENNINGTON-1,general,Jim O'Connor,Republican,394.0,26.66,False,False
 2018,Vermont,VT,State House,BENNINGTON-1,general,Frederick Miller,Independent,364.0,24.63,False,False
@@ -5044,13 +5238,10 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2018,Vermont,VT,State House,BENNINGTON-4,general,Kathleen James,Democratic,2129.0,36.57,True,False
 2018,Vermont,VT,State House,BENNINGTON-4,general,Cynthia Browning,Democratic,1938.0,33.29,True,True
 2018,Vermont,VT,State House,BENNINGTON-4,general,Brian Keefe,Republican,1731.0,29.73,False,True
-2018,Vermont,VT,State House,BENNINGTON-4,general,Total Write-ins,Write-in,24.0,0.41,False,False
-2018,Vermont,VT,State House,BENNINGTON-4,general,Blank Votes,,1722.0,,False,False
-2018,Vermont,VT,State House,BENNINGTON-4,general,Over Votes,,2.0,,False,False
-2018,Vermont,VT,State House,BENNINGTON-RUTLAND,general,Linda Joy Sullivan,Democratic,1699.0,99.07,True,True
-2018,Vermont,VT,State House,BENNINGTON-RUTLAND,general,Total Write-ins,Write-in,16.0,0.93,False,False
-2018,Vermont,VT,State House,BENNINGTON-RUTLAND,general,Blank Votes,,249.0,,False,False
-2018,Vermont,VT,State House,BENNINGTON-RUTLAND,general,Over Votes,,5.0,,False,False
+2018,Vermont,VT,State House,BENNINGTON-4,general,Total Write-ins,Write-in,40.0,0.41,False,False
+2018,Vermont,VT,State House,BENNINGTON-4,general,Blank Votes,,1971.0,,False,False
+2018,Vermont,VT,State House,BENNINGTON-4,general,Over Votes,,7.0,,False,False
+2018,Vermont,VT,State House,BENNINGTON-4,general,Linda Joy Sullivan,Democratic,1699.0,99.07,True,True
 2018,Vermont,VT,State House,CALEDONIA-1,general,Marcia Robinson Martel,Republican,1397.0,95.36,True,True
 2018,Vermont,VT,State House,CALEDONIA-1,general,Jenny Nelson,Write-in,10.0,0.68,False,False
 2018,Vermont,VT,State House,CALEDONIA-1,general,Jen D'Agostino,Write-in,5.0,0.34,False,False
@@ -5073,15 +5264,12 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2018,Vermont,VT,State House,CALEDONIA-4,general,Christian B. Hubbs,Write-in,2.0,0.05,False,False
 2018,Vermont,VT,State House,CALEDONIA-4,general,Benjamin Robbins,Write-in,2.0,0.05,False,False
 2018,Vermont,VT,State House,CALEDONIA-4,general,Catherine Toll,Write-in,2.0,0.05,False,False
-2018,Vermont,VT,State House,CALEDONIA-4,general,Write-ins (other),Write-in,11.0,0.26,False,False
-2018,Vermont,VT,State House,CALEDONIA-4,general,Over votes,,1.0,,False,False
-2018,Vermont,VT,State House,CALEDONIA-4,general,Blank votes,,1248.0,,False,False
-2018,Vermont,VT,State House,CALEDONIA-WASHINGTON,general,"Catherine ""Kitty"" Toll",Democratic,1853.0,97.32,True,True
-2018,Vermont,VT,State House,CALEDONIA-WASHINGTON,general,Craig Vance,Write-in,14.0,0.74,False,False
-2018,Vermont,VT,State House,CALEDONIA-WASHINGTON,general,Steve Larrabee,Write-in,5.0,0.26,False,False
-2018,Vermont,VT,State House,CALEDONIA-WASHINGTON,general,Write-ins (other),Write-in,32.0,1.68,False,False
-2018,Vermont,VT,State House,CALEDONIA-WASHINGTON,general,Over votes,,11.0,,False,False
-2018,Vermont,VT,State House,CALEDONIA-WASHINGTON,general,Blank votes,,370.0,,False,False
+2018,Vermont,VT,State House,CALEDONIA-4,general,Write-ins (other),Write-in,43.0,1.68,False,False
+2018,Vermont,VT,State House,CALEDONIA-4,general,Over votes,,12.0,,False,False
+2018,Vermont,VT,State House,CALEDONIA-4,general,Blank votes,,1618.0,,False,False
+2018,Vermont,VT,State House,CALEDONIA-4,general,"Catherine ""Kitty"" Toll",Democratic,1853.0,97.32,True,True
+2018,Vermont,VT,State House,CALEDONIA-4,general,Craig Vance,Write-in,14.0,0.74,False,False
+2018,Vermont,VT,State House,CALEDONIA-4,general,Steve Larrabee,Write-in,5.0,0.26,False,False
 2018,Vermont,VT,State House,CHITTENDEN-1,general,Marcia Gardner,Democratic,,,True,True
 2018,Vermont,VT,State House,CHITTENDEN-1,general,Terry Moultroup,Republican,,,False,False
 2018,Vermont,VT,State House,CHITTENDEN-2,general,Joy Limoge,Republican,,,True,False
@@ -5128,17 +5316,16 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2018,Vermont,VT,State House,CHITTENDEN-9-2,general,Patrick Brennan,Republican,,,False,True
 2018,Vermont,VT,State House,CHITTENDEN-9-2,general,Herb Downing,Democratic,,,False,False
 2018,Vermont,VT,State House,CHITTENDEN-9-2,general,Pam Loranger,Republican,,,False,False
-2018,Vermont,VT,State House,CHITTENDEN-10,general,Todd Buik,Democratic,,,True,False
+2018,Vermont,VT,State House,CHITTENDEN-10,general,Todd Buik,Democratic,,,False,False
 2018,Vermont,VT,State House,CHITTENDEN-10,general,Christopher Mattos,Republican,,,False,True
 2018,Vermont,VT,State House,CHITTENDEN-10,general,John Palasik,Republican,,,False,False
-2018,Vermont,VT,State House,ESSEX-CALEDONIA,general,Connie Quimby,Republican,1082.0,95.33,True,True
-2018,Vermont,VT,State House,ESSEX-CALEDONIA,general,Ed Clark,Write-in,10.0,0.88,False,False
-2018,Vermont,VT,State House,ESSEX-CALEDONIA,general,Judith Hutchinson,Write-in,4.0,0.35,False,False
-2018,Vermont,VT,State House,ESSEX-CALEDONIA,general,Write-ins (other),Write-in,39.0,3.44,False,False
-2018,Vermont,VT,State House,ESSEX-CALEDONIA,general,Blank votes,,280.0,,False,False
-2018,Vermont,VT,State House,ESSEX-CALEDONIA-ORLEANS,general,Paul D. Lefebvre,Republican,827.0,55.39,True,True
-2018,Vermont,VT,State House,ESSEX-CALEDONIA-ORLEANS,general,Martha W. Allen,Democratic,664.0,44.47,False,False
-2018,Vermont,VT,State House,ESSEX-CALEDONIA-ORLEANS,general,Blank votes,,38.0,,False,False
+2018,Vermont,VT,State House,CHITTENDEN-10,general,Connie Quimby,Republican,1082.0,95.33,True,True
+2018,Vermont,VT,State House,CHITTENDEN-10,general,Ed Clark,Write-in,10.0,0.88,False,False
+2018,Vermont,VT,State House,CHITTENDEN-10,general,Judith Hutchinson,Write-in,4.0,0.35,False,False
+2018,Vermont,VT,State House,CHITTENDEN-10,general,Write-ins (other),Write-in,39.0,3.44,False,False
+2018,Vermont,VT,State House,CHITTENDEN-10,general,Blank votes,,318.0,,False,False
+2018,Vermont,VT,State House,CHITTENDEN-10,general,Paul D. Lefebvre,Republican,827.0,55.39,True,True
+2018,Vermont,VT,State House,CHITTENDEN-10,general,Martha W. Allen,Democratic,664.0,44.47,False,False
 2018,Vermont,VT,State House,FRANKLIN-1,general,Carl Rosenquist,Republican,,,True,True
 2018,Vermont,VT,State House,FRANKLIN-1,general,Edward Simon,Democratic,,,False,False
 2018,Vermont,VT,State House,FRANKLIN-2,general,Mary Beerworth,Republican,,,True,False
@@ -5161,10 +5348,10 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2018,Vermont,VT,State House,FRANKLIN-6,general,James Gregoire,Republican,,,False,False
 2018,Vermont,VT,State House,FRANKLIN-7,general,Felisha Leffler,Republican,,,True,False
 2018,Vermont,VT,State House,FRANKLIN-7,general,Cindy Weed,Progressive,,,False,True
-2018,Vermont,VT,State House,GRAND ISLE-CHITTENDEN,general,Mitzi Johnson,Democratic,,,True,True
-2018,Vermont,VT,State House,GRAND ISLE-CHITTENDEN,general,Ben W. Joseph,Democratic,,,False,True
-2018,Vermont,VT,State House,GRAND ISLE-CHITTENDEN,general,Leland Morgan,Republican,,,False,False
-2018,Vermont,VT,State House,GRAND ISLE-CHITTENDEN,general,Michael Morgan,Republican,,,False,False
+2018,Vermont,VT,State House,FRANKLIN-7,general,Mitzi Johnson,Democratic,,,False,True
+2018,Vermont,VT,State House,FRANKLIN-7,general,Ben W. Joseph,Democratic,,,False,True
+2018,Vermont,VT,State House,FRANKLIN-7,general,Leland Morgan,Republican,,,False,False
+2018,Vermont,VT,State House,FRANKLIN-7,general,Michael Morgan,Republican,,,False,False
 2018,Vermont,VT,State House,LAMOILLE-1,general,Marina Meerburg,Democratic,,,True,False
 2018,Vermont,VT,State House,LAMOILLE-1,general,Heidi E. Scheuermann,Republican,,,False,True
 2018,Vermont,VT,State House,LAMOILLE-2,general,Matthew Hill,Democratic,,,True,True
@@ -5172,37 +5359,37 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2018,Vermont,VT,State House,LAMOILLE-2,general,Daniel Noyes,Democratic,,,False,True
 2018,Vermont,VT,State House,LAMOILLE-3,general,Zachary Mayo,Republican,,,True,False
 2018,Vermont,VT,State House,LAMOILLE-3,general,Lucy Rogers,Democratic,,,False,False
-2018,Vermont,VT,State House,LAMOILLE-WASHINGTON,general,Gary Nolan,Republican,,,True,True
-2018,Vermont,VT,State House,LAMOILLE-WASHINGTON,general,Avram Patt,Democratic,,,False,False
-2018,Vermont,VT,State House,LAMOILLE-WASHINGTON,general,David Yacovone,Democratic,,,False,True
+2018,Vermont,VT,State House,LAMOILLE-3,general,Gary Nolan,Republican,,,False,True
+2018,Vermont,VT,State House,LAMOILLE-3,general,Avram Patt,Democratic,,,False,False
+2018,Vermont,VT,State House,LAMOILLE-3,general,David Yacovone,Democratic,,,False,True
 2018,Vermont,VT,State House,ORANGE-1,general,Christopher Covey,Republican,,,True,False
 2018,Vermont,VT,State House,ORANGE-1,general,Susan Hatch Davis,Progressive,,,False,False
 2018,Vermont,VT,State House,ORANGE-1,general,Carl Demrow,Democratic,,,False,False
 2018,Vermont,VT,State House,ORANGE-1,general,Rodney Graham,Republican,,,False,True
 2018,Vermont,VT,State House,ORANGE-2,general,Sarah Copeland-Hanzas,Democratic,,,True,True
-2018,Vermont,VT,State House,ORANGE-CALEDONIA,general,"Charles ""Chip"" Conquest",Democratic,863.0,51.13,True,True
-2018,Vermont,VT,State House,ORANGE-CALEDONIA,general,Joseph Parsons,Republican,813.0,48.16,False,False
-2018,Vermont,VT,State House,ORANGE-CALEDONIA,general,Boots Wardinski,Write-in,11.0,0.65,False,False
-2018,Vermont,VT,State House,ORANGE-CALEDONIA,general,Write-ins (other),Write-in,1.0,0.06,False,False
-2018,Vermont,VT,State House,ORANGE-CALEDONIA,general,Over votes,,1.0,,False,False
-2018,Vermont,VT,State House,ORANGE-CALEDONIA,general,Blank votes,,30.0,,False,False
-2018,Vermont,VT,State House,ORANGE-WASHINGTON-ADDISON,general,Daniel Brown,Republican,,,True,False
-2018,Vermont,VT,State House,ORANGE-WASHINGTON-ADDISON,general,Jay Hooper,Democratic,,,False,True
-2018,Vermont,VT,State House,ORANGE-WASHINGTON-ADDISON,general,Ben Jickling,Independent,,,False,True
-2018,Vermont,VT,State House,ORANGE-WASHINGTON-ADDISON,general,Larry Satcowitz,Democratic,,,False,False
-2018,Vermont,VT,State House,ORANGE-WASHINGTON-ADDISON,general,Stephen Webster,Republican,,,False,False
+2018,Vermont,VT,State House,ORANGE-2,general,"Charles ""Chip"" Conquest",Democratic,863.0,51.13,True,True
+2018,Vermont,VT,State House,ORANGE-2,general,Joseph Parsons,Republican,813.0,48.16,False,False
+2018,Vermont,VT,State House,ORANGE-2,general,Boots Wardinski,Write-in,11.0,0.65,False,False
+2018,Vermont,VT,State House,ORANGE-2,general,Write-ins (other),Write-in,1.0,0.06,False,False
+2018,Vermont,VT,State House,ORANGE-2,general,Over votes,,1.0,,False,False
+2018,Vermont,VT,State House,ORANGE-2,general,Blank votes,,30.0,,False,False
+2018,Vermont,VT,State House,ORANGE-2,general,Daniel Brown,Republican,,,False,False
+2018,Vermont,VT,State House,ORANGE-2,general,Jay Hooper,Democratic,,,False,True
+2018,Vermont,VT,State House,ORANGE-2,general,Ben Jickling,Independent,,,False,True
+2018,Vermont,VT,State House,ORANGE-2,general,Larry Satcowitz,Democratic,,,False,False
+2018,Vermont,VT,State House,ORANGE-2,general,Stephen Webster,Republican,,,False,False
 2018,Vermont,VT,State House,ORLEANS-1,general,Lynn Batchelor,Republican,1721.0,36.7,False,True
 2018,Vermont,VT,State House,ORLEANS-1,general,Frank Davis,Independent,1088.0,23.2,False,False
 2018,Vermont,VT,State House,ORLEANS-1,general,Brian Smith,Republican,1862.0,36.7,True,True
-2018,Vermont,VT,State House,ORLEANS-2,general,Kendall Lambert,Independent,,,True,False
+2018,Vermont,VT,State House,ORLEANS-2,general,Kendall Lambert,Independent,,,False,False
 2018,Vermont,VT,State House,ORLEANS-2,general,Michael Marcotte,Republican,,,False,True
 2018,Vermont,VT,State House,ORLEANS-2,general,"Woodman ""Woody"" Page",Republican,,,False,False
-2018,Vermont,VT,State House,ORLEANS-CALEDONIA,general,Tabitha Armstrong,Independent,,,True,False
-2018,Vermont,VT,State House,ORLEANS-CALEDONIA,general,Danielle Cote Sukkaew,Democratic,,,False,False
-2018,Vermont,VT,State House,ORLEANS-CALEDONIA,general,Frank Huard,Republican,,,False,False
-2018,Vermont,VT,State House,ORLEANS-CALEDONIA,general,Vicki Strong,Republican,,,False,True
-2018,Vermont,VT,State House,ORLEANS-CALEDONIA,general,Sam Young,Democratic,,,False,True
-2018,Vermont,VT,State House,ORLEANS-LAMOILLE,general,Mark Higley,Republican,,,True,True
+2018,Vermont,VT,State House,ORLEANS-2,general,Tabitha Armstrong,Independent,,,False,False
+2018,Vermont,VT,State House,ORLEANS-2,general,Danielle Cote Sukkaew,Democratic,,,False,False
+2018,Vermont,VT,State House,ORLEANS-2,general,Frank Huard,Republican,,,False,False
+2018,Vermont,VT,State House,ORLEANS-2,general,Vicki Strong,Republican,,,False,True
+2018,Vermont,VT,State House,ORLEANS-2,general,Sam Young,Democratic,,,False,True
+2018,Vermont,VT,State House,ORLEANS-2,general,Mark Higley,Republican,,,True,True
 2018,Vermont,VT,State House,RUTLAND-1,general,Patricia McCoy,Republican,,,True,True
 2018,Vermont,VT,State House,RUTLAND-2,general,Thomas Burditt,Republican,,,True,True
 2018,Vermont,VT,State House,RUTLAND-2,general,Ken Fredette,Democratic,,,False,False
@@ -5221,12 +5408,12 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2018,Vermont,VT,State House,RUTLAND-6,general,Seth Hopkins,Republican,,,False,False
 2018,Vermont,VT,State House,RUTLAND-6,general,Stephanie Jerome,Democratic,,,False,False
 2018,Vermont,VT,State House,RUTLAND-6,general,"Charles ""Butch"" Shaw",Republican,,,False,True
-2018,Vermont,VT,State House,RUTLAND-BENNINGTON,general,Robin Chestnut-Tangerman,Progressive,,,True,True
-2018,Vermont,VT,State House,RUTLAND-BENNINGTON,general,Edgar Cleveland,Republican,,,False,False
-2018,Vermont,VT,State House,RUTLAND-BENNINGTON,general,James Harrison,Republican,,,False,True
-2018,Vermont,VT,State House,RUTLAND-BENNINGTON,general,Gina Ottoboni,Democratic,,,False,False
-2018,Vermont,VT,State House,RUTLAND-BENNINGTON,general,Peter Berger,Independent,,,False,False
-2018,Vermont,VT,State House,RUTLAND-BENNINGTON,general,Logan Nicoll,Democratic,,,False,False
+2018,Vermont,VT,State House,RUTLAND-6,general,Robin Chestnut-Tangerman,Progressive,,,False,True
+2018,Vermont,VT,State House,RUTLAND-6,general,Edgar Cleveland,Republican,,,False,False
+2018,Vermont,VT,State House,RUTLAND-6,general,James Harrison,Republican,,,False,True
+2018,Vermont,VT,State House,RUTLAND-6,general,Gina Ottoboni,Democratic,,,False,False
+2018,Vermont,VT,State House,RUTLAND-6,general,Peter Berger,Independent,,,False,False
+2018,Vermont,VT,State House,RUTLAND-6,general,Logan Nicoll,Democratic,,,False,False
 2018,Vermont,VT,State House,WASHINGTON-1,general,Gordon Bock,Independent,,,True,False
 2018,Vermont,VT,State House,WASHINGTON-1,general,Anne Donahue,Republican,,,False,True
 2018,Vermont,VT,State House,WASHINGTON-1,general,Kenneth Goslant,Republican,,,False,False
@@ -5245,13 +5432,13 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2018,Vermont,VT,State House,WASHINGTON-4,general,Glennie Sewell,Progressive,,,False,False
 2018,Vermont,VT,State House,WASHINGTON-5,general,Kimberly Jessup,Democratic,,,True,True
 2018,Vermont,VT,State House,WASHINGTON-6,general,Janet Ancel,Democratic,,,True,True
-2018,Vermont,VT,State House,WASHINGTON-7,general,Kari Dolan,Democratic,2590.0,33.12,True,False
+2018,Vermont,VT,State House,WASHINGTON-7,general,Kari Dolan,Democratic,2590.0,33.12,False,False
 2018,Vermont,VT,State House,WASHINGTON-7,general,Maxine Grad,Democratic,2340.0,29.93,False,True
 2018,Vermont,VT,State House,WASHINGTON-7,general,Ed Read,Independent,1982.0,25.35,False,True
 2018,Vermont,VT,State House,WASHINGTON-7,general,Bob Readie,Independent,517.0,6.61,False,False
 2018,Vermont,VT,State House,WASHINGTON-7,general,Neil Johnson,Green Mountain,385.0,4.92,False,False
-2018,Vermont,VT,State House,WASHINGTON-CHITTENDEN,general,Thomas Stevens,Democratic,,,True,True
-2018,Vermont,VT,State House,WASHINGTON-CHITTENDEN,general,Theresa Wood,Democratic,,,True,True
+2018,Vermont,VT,State House,WASHINGTON-7,general,Thomas Stevens,Democratic,,,True,True
+2018,Vermont,VT,State House,WASHINGTON-7,general,Theresa Wood,Democratic,,,True,True
 2018,Vermont,VT,State House,WINDHAM-1,general,Sara Coffey,Democratic,,,True,False
 2018,Vermont,VT,State House,WINDHAM-1,general,Patrick Gilligan,Republican,,,False,False
 2018,Vermont,VT,State House,WINDHAM-2-1,general,Emilie Kornheiser,Democratic,,,True,False
@@ -5263,8 +5450,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2018,Vermont,VT,State House,WINDHAM-4,general,Michael Mrowicki,Democratic,,,True,True
 2018,Vermont,VT,State House,WINDHAM-5,general,Emily Long,Democratic,,,True,True
 2018,Vermont,VT,State House,WINDHAM-6,general,John Gannon,Democratic,,,True,True
-2018,Vermont,VT,State House,WINDHAM-BENNINGTON,general,Laura Sibilia,Independent,,,True,True
-2018,Vermont,VT,State House,WINDHAM-BENNINGTON-WINDSOR,general,Kelly Pajala,Independent,,,True,True
+2018,Vermont,VT,State House,WINDHAM-6,general,Laura Sibilia,Independent,,,True,True
+2018,Vermont,VT,State House,WINDHAM-6,general,Kelly Pajala,Independent,,,True,True
 2018,Vermont,VT,State House,WINDSOR-1,general,John L. Bartholomew,Democratic,2218.0,40.67,True,True
 2018,Vermont,VT,State House,WINDSOR-1,general,Zachariah Ralph,Progressive,2040.0,37.4,True,False
 2018,Vermont,VT,State House,WINDSOR-1,general,Wesley Raney,Republican,1152.0,21.12,False,False
@@ -5289,8 +5476,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2018,Vermont,VT,State House,WINDSOR-5,general,John Freitag,Independent,,,False,False
 2018,Vermont,VT,State House,WINDSOR-5,general,James Masland,Democratic,,,False,True
 2018,Vermont,VT,State House,WINDSOR-5,general,Jill Wilcox,Progressive,,,False,False
-2018,Vermont,VT,State House,WINDSOR-RUTLAND,general,Sandy Haas,Progressive,,,True,True
-2018,Vermont,VT,State House,WINDSOR-RUTLAND,general,Robert McFadden,Republican,,,False,False
+2018,Vermont,VT,State House,WINDSOR-5,general,Sandy Haas,Progressive,,,False,True
+2018,Vermont,VT,State House,WINDSOR-5,general,Robert McFadden,Republican,,,False,False
 2018,Washington,WA,State House,1,general,Derek Stanford,Democratic,47881,69.59,True,True
 2018,Washington,WA,State House,1,general,Josh Colver,Republican,20925,30.41,False,False
 2018,Washington,WA,State House,1,general,Shelley Kloba,Democratic,43560,63.4,True,True

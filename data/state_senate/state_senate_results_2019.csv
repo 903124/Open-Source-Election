@@ -1,68 +1,81 @@
 year,state,state_code,chamber,district,race,candidate,party,votes,percentage,winner,incumbent
-2019,Louisiana,LA,State Senate,2,general,Ed Price,Democratic,21605.0,58.84,True,True
-2019,Louisiana,LA,State Senate,2,general,Troy E. Brown,Democratic,15114.0,41.16,False,False
-2019,Louisiana,LA,State Senate,3,general,Joseph Bouie Jr.,Democratic,20734.0,59.65,True,False
-2019,Louisiana,LA,State Senate,3,general,John Bagneris,Democratic,14027.0,40.35,False,False
-2019,Louisiana,LA,State Senate,5,general,Karen Carter Peterson,Democratic,20869.0,79.41,True,True
-2019,Louisiana,LA,State Senate,5,general,Allen Borne Jr.,Democratic,5412.0,20.59,False,False
-2019,Louisiana,LA,State Senate,6,general,Bodi White,Republican,29531.0,79.54,True,True
-2019,Louisiana,LA,State Senate,6,general,Rufus Craig,Libertarian,7596.0,20.46,False,False
-2019,Louisiana,LA,State Senate,9,general,Cameron Henry,Republican,23647.0,78.38,True,False
-2019,Louisiana,LA,State Senate,9,general,Jon Hyers,Republican,6524.0,21.62,False,False
-2019,Louisiana,LA,State Senate,10,general,Kirk Talbot,Republican,16699.0,54.89,True,False
-2019,Louisiana,LA,State Senate,10,general,Arita Lipps Bohannan,Republican,13723.0,45.11,False,False
-2019,Louisiana,LA,State Senate,11,general,Patrick McMath,Republican,27801.0,55.6,True,False
-2019,Louisiana,LA,State Senate,11,general,Reid Falconer,Republican,22198.0,44.4,False,False
-2019,Louisiana,LA,State Senate,12,general,Beth Mizell,Republican,24590.0,68.58,True,True
-2019,Louisiana,LA,State Senate,12,general,Darrell Fairburn,Democratic,11266.0,31.42,False,False
-2019,Louisiana,LA,State Senate,13,general,J. Rogers Pope,Republican,17030.0,50.45,True,False
-2019,Louisiana,LA,State Senate,13,general,Edith Carlin,Republican,12860.0,38.09,False,False
-2019,Louisiana,LA,State Senate,13,general,Deven W. Cavalier,Republican,3869.0,11.46,False,False
-2019,Louisiana,LA,State Senate,14,general,Cleo Fields,Democratic,13529.0,52.52,True,False
-2019,Louisiana,LA,State Senate,14,general,Patricia Haynes Smith,Democratic,12229.0,47.48,False,False
-2019,Louisiana,LA,State Senate,15,general,Regina Barrow,Democratic,22840.0,74.5,True,True
-2019,Louisiana,LA,State Senate,15,general,Gary Chambers,Democratic,7819.0,25.5,False,False
-2019,Louisiana,LA,State Senate,16,general,Franklin Foil,Republican,27090.0,57.64,True,False
-2019,Louisiana,LA,State Senate,16,general,Beverly Brooks Thompson,Democratic,19912.0,42.36,False,False
-2019,Louisiana,LA,State Senate,20,general,Mike Fesi,Republican,15546.0,54.48,True,False
-2019,Louisiana,LA,State Senate,20,general,Damon J. Baldone,Republican,5162.0,18.09,False,False
-2019,Louisiana,LA,State Senate,20,general,Jerry Gisclair,Democratic,4070.0,14.26,False,False
-2019,Louisiana,LA,State Senate,20,general,Brenda Leroux Babin,Democratic,2785.0,9.76,False,False
-2019,Louisiana,LA,State Senate,20,general,Shane Swan,Republican,974.0,3.41,False,False
-2019,Louisiana,LA,State Senate,24,general,Gerald Boudreaux,Democratic,24418.0,75.5,True,True
-2019,Louisiana,LA,State Senate,24,general,Cory Levier I,Independent,7922.0,24.5,False,False
-2019,Louisiana,LA,State Senate,25,general,Mark Abraham,Republican,19670.0,54.09,True,False
-2019,Louisiana,LA,State Senate,25,general,Kevin M. Berken,Republican,8553.0,23.52,False,False
-2019,Louisiana,LA,State Senate,25,general,Johnny Guinn,Republican,8144.0,22.39,False,False
-2019,Louisiana,LA,State Senate,26,general,Bob Hensgens,Republican,27228.0,79.18,True,True
-2019,Louisiana,LA,State Senate,26,general,Jerry Gaspard,Democratic,7161.0,20.82,False,False
-2019,Louisiana,LA,State Senate,28,general,Heather Cloud,Republican,22293.0,63.14,True,False
-2019,Louisiana,LA,State Senate,28,general,Robert Johnson,Democratic,8370.0,23.71,False,False
-2019,Louisiana,LA,State Senate,28,general,H. Bernard LeBas,Democratic,4646.0,13.16,False,False
-2019,Louisiana,LA,State Senate,30,general,Mike Reese,Republican,14625.0,50.73,True,False
-2019,Louisiana,LA,State Senate,30,general,Brett Geymann,Republican,8296.0,21.84,False,False
-2019,Louisiana,LA,State Senate,30,general,James K. Armes III,Democratic,5973.0,20.72,False,False
-2019,Louisiana,LA,State Senate,30,general,Reneé Hoffpauir-Klann,Republican,1935.0,6.71,False,False
-2019,Louisiana,LA,State Senate,31,general,Louie Bernard,Republican,18529.0,55.3,True,False
-2019,Louisiana,LA,State Senate,31,general,Trey Flynn,Republican,8596.0,25.66,False,False
-2019,Louisiana,LA,State Senate,31,general,Douglas Brown,Republican,6381.0,19.04,False,False
-2019,Louisiana,LA,State Senate,32,general,Glen Womack,Republican,18588.0,50.11,True,False
-2019,Louisiana,LA,State Senate,32,general,Steve May,Republican,11400.0,30.73,False,False
-2019,Louisiana,LA,State Senate,32,general,Judy Duhon,Democratic,4763.0,12.84,False,False
-2019,Louisiana,LA,State Senate,32,general,Danny Cole,Democratic,2341.0,6.31,False,False
-2019,Louisiana,LA,State Senate,33,general,Stewart Cathey Jr.,Republican,16658.0,51.95,True,False
-2019,Louisiana,LA,State Senate,33,general,Wade Bishop,Republican,15407.0,48.05,False,False
-2019,Louisiana,LA,State Senate,35,general,Jay Morris,Republican,18167.0,50.38,True,False
-2019,Louisiana,LA,State Senate,35,general,James R. Fannin,Republican,17894.0,49.62,False,True
-2019,Louisiana,LA,State Senate,36,general,Robert Mills,Republican,22050.0,56.17,True,False
-2019,Louisiana,LA,State Senate,36,general,Ryan Gatti,Republican,17209.0,43.83,False,True
-2019,Louisiana,LA,State Senate,37,general,Barrow Peacock,Republican,16221.0,71.1,True,True
-2019,Louisiana,LA,State Senate,37,general,Debbie Hollis,Independent,6593.0,28.9,False,False
-2019,Louisiana,LA,State Senate,38,general,Barry Milligan,Republican,16266.0,50.72,True,False
-2019,Louisiana,LA,State Senate,38,general,John Milkovich,Democratic,8447.0,26.34,False,True
-2019,Louisiana,LA,State Senate,38,general,Katrina D. Early,Democratic,7359.0,22.95,False,False
-2019,Louisiana,LA,State Senate,39,general,Gregory Tarver,Democratic,15755.0,69.02,True,True
-2019,Louisiana,LA,State Senate,39,general,Jim Slagle,Republican,7071.0,30.98,False,False
+2019,Louisiana,LA,State Senate,2,general,Ed Price,Democratic,21605,58.84,True,True
+2019,Louisiana,LA,State Senate,2,general,Troy E. Brown,Democratic,15114,41.16,False,False
+2019,Louisiana,LA,State Senate,3,general,Joseph Bouie Jr.,Democratic,20734,59.65,True,False
+2019,Louisiana,LA,State Senate,3,general,John Bagneris,Democratic,14027,40.35,False,False
+2019,Louisiana,LA,State Senate,5,general,Karen Carter Peterson,Democratic,20869,79.41,True,True
+2019,Louisiana,LA,State Senate,5,general,Allen Borne Jr.,Democratic,5412,20.59,False,False
+2019,Louisiana,LA,State Senate,6,general,Bodi White,Republican,29531,79.54,True,True
+2019,Louisiana,LA,State Senate,6,general,Rufus Craig,Libertarian,7596,20.46,False,False
+2019,Louisiana,LA,State Senate,9,general,Cameron Henry,Republican,23647,78.38,True,False
+2019,Louisiana,LA,State Senate,9,general,Jon Hyers,Republican,6524,21.62,False,False
+2019,Louisiana,LA,State Senate,10,general,Kirk Talbot,Republican,16699,54.89,True,False
+2019,Louisiana,LA,State Senate,10,general,Arita Lipps Bohannan,Republican,13723,45.11,False,False
+2019,Louisiana,LA,State Senate,11,general,Patrick McMath,Republican,27801,55.6,True,False
+2019,Louisiana,LA,State Senate,11,general,Reid Falconer,Republican,22198,44.4,False,False
+2019,Louisiana,LA,State Senate,12,general,Beth Mizell,Republican,24590,68.58,True,True
+2019,Louisiana,LA,State Senate,12,general,Darrell Fairburn,Democratic,11266,31.42,False,False
+2019,Louisiana,LA,State Senate,13,general,J. Rogers Pope,Republican,17030,50.45,True,False
+2019,Louisiana,LA,State Senate,13,general,Edith Carlin,Republican,12860,38.09,False,False
+2019,Louisiana,LA,State Senate,13,general,Deven W. Cavalier,Republican,3869,11.46,False,False
+2019,Louisiana,LA,State Senate,14,general,Cleo Fields,Democratic,13529,52.52,True,False
+2019,Louisiana,LA,State Senate,14,general,Patricia Haynes Smith,Democratic,12229,47.48,False,False
+2019,Louisiana,LA,State Senate,15,general,Regina Barrow,Democratic,22840,74.5,True,True
+2019,Louisiana,LA,State Senate,15,general,Gary Chambers,Democratic,7819,25.5,False,False
+2019,Louisiana,LA,State Senate,16,general,Franklin Foil,Republican,27090,57.64,True,False
+2019,Louisiana,LA,State Senate,16,general,Beverly Brooks Thompson,Democratic,19912,42.36,False,False
+2019,Louisiana,LA,State Senate,20,general,Mike Fesi,Republican,15546,54.48,True,False
+2019,Louisiana,LA,State Senate,20,general,Damon J. Baldone,Republican,5162,18.09,False,False
+2019,Louisiana,LA,State Senate,20,general,Jerry Gisclair,Democratic,4070,14.26,False,False
+2019,Louisiana,LA,State Senate,20,general,Brenda Leroux Babin,Democratic,2785,9.76,False,False
+2019,Louisiana,LA,State Senate,20,general,Shane Swan,Republican,974,3.41,False,False
+2019,Louisiana,LA,State Senate,24,general,Gerald Boudreaux,Democratic,24418,75.5,True,True
+2019,Louisiana,LA,State Senate,24,general,Cory Levier I,Independent,7922,24.5,False,False
+2019,Louisiana,LA,State Senate,25,general,Mark Abraham,Republican,19670,54.09,True,False
+2019,Louisiana,LA,State Senate,25,general,Kevin M. Berken,Republican,8553,23.52,False,False
+2019,Louisiana,LA,State Senate,25,general,Johnny Guinn,Republican,8144,22.39,False,False
+2019,Louisiana,LA,State Senate,26,general,Bob Hensgens,Republican,27228,79.18,True,True
+2019,Louisiana,LA,State Senate,26,general,Jerry Gaspard,Democratic,7161,20.82,False,False
+2019,Louisiana,LA,State Senate,28,general,Heather Cloud,Republican,22293,63.14,True,False
+2019,Louisiana,LA,State Senate,28,general,Robert Johnson,Democratic,8370,23.71,False,False
+2019,Louisiana,LA,State Senate,28,general,H. Bernard LeBas,Democratic,4646,13.16,False,False
+2019,Louisiana,LA,State Senate,30,general,Mike Reese,Republican,14625,50.73,True,False
+2019,Louisiana,LA,State Senate,30,general,Brett Geymann,Republican,8296,21.84,False,False
+2019,Louisiana,LA,State Senate,30,general,James K. Armes III,Democratic,5973,20.72,False,False
+2019,Louisiana,LA,State Senate,30,general,Reneé Hoffpauir-Klann,Republican,1935,6.71,False,False
+2019,Louisiana,LA,State Senate,31,general,Louie Bernard,Republican,18529,55.3,True,False
+2019,Louisiana,LA,State Senate,31,general,Trey Flynn,Republican,8596,25.66,False,False
+2019,Louisiana,LA,State Senate,31,general,Douglas Brown,Republican,6381,19.04,False,False
+2019,Louisiana,LA,State Senate,32,general,Glen Womack,Republican,18588,50.11,True,False
+2019,Louisiana,LA,State Senate,32,general,Steve May,Republican,11400,30.73,False,False
+2019,Louisiana,LA,State Senate,32,general,Judy Duhon,Democratic,4763,12.84,False,False
+2019,Louisiana,LA,State Senate,32,general,Danny Cole,Democratic,2341,6.31,False,False
+2019,Louisiana,LA,State Senate,33,general,Stewart Cathey Jr.,Republican,16658,51.95,True,False
+2019,Louisiana,LA,State Senate,33,general,Wade Bishop,Republican,15407,48.05,False,False
+2019,Louisiana,LA,State Senate,35,general,Jay Morris,Republican,18167,50.38,True,False
+2019,Louisiana,LA,State Senate,35,general,James R. Fannin,Republican,17894,49.62,False,True
+2019,Louisiana,LA,State Senate,36,general,Robert Mills,Republican,22050,56.17,True,False
+2019,Louisiana,LA,State Senate,36,general,Ryan Gatti,Republican,17209,43.83,False,True
+2019,Louisiana,LA,State Senate,37,general,Barrow Peacock,Republican,16221,71.1,True,True
+2019,Louisiana,LA,State Senate,37,general,Debbie Hollis,Independent,6593,28.9,False,False
+2019,Louisiana,LA,State Senate,38,general,Barry Milligan,Republican,16266,50.72,True,False
+2019,Louisiana,LA,State Senate,38,general,John Milkovich,Democratic,8447,26.34,False,True
+2019,Louisiana,LA,State Senate,38,general,Katrina D. Early,Democratic,7359,22.95,False,False
+2019,Louisiana,LA,State Senate,39,general,Gregory Tarver,Democratic,15755,69.02,True,True
+2019,Louisiana,LA,State Senate,39,general,Jim Slagle,Republican,7071,30.98,False,False
+2019,Louisiana,LA,State Senate,1,general,Sharon Hewitt,Republican,,,True,False
+2019,Louisiana,LA,State Senate,4,general,Jimmy Harris,Democratic,,,True,False
+2019,Louisiana,LA,State Senate,7,general,Troy Carter,Democratic,,,True,False
+2019,Louisiana,LA,State Senate,8,general,Patrick Connick,Republican,,,True,False
+2019,Louisiana,LA,State Senate,17,general,Rick Ward III,Republican,,,True,False
+2019,Louisiana,LA,State Senate,18,general,Eddie J. Lambert,Republican,,,True,False
+2019,Louisiana,LA,State Senate,19,general,Gary Smith Jr.,Democratic,,,True,False
+2019,Louisiana,LA,State Senate,21,general,Bret Allain,Republican,,,True,False
+2019,Louisiana,LA,State Senate,22,general,Fred Mills,Republican,,,True,False
+2019,Louisiana,LA,State Senate,23,general,Page Cortez,Republican,,,True,False
+2019,Louisiana,LA,State Senate,27,general,Ronnie Johns,Republican,,,True,False
+2019,Louisiana,LA,State Senate,29,general,Jay Luneau,Democratic,,,True,False
+2019,Louisiana,LA,State Senate,34,general,Katrina Jackson,Democratic,,,True,False
 2019,Mississippi,MS,State Senate,1,general,Michael McLendon,Republican,12842.0,100.0,True,False
 2019,Mississippi,MS,State Senate,2,general,David Parker,Republican,6137.0,60.35,True,True
 2019,Mississippi,MS,State Senate,2,general,Lee Jackson,Democratic,4032.0,39.65,False,False
@@ -134,72 +147,72 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2019,Mississippi,MS,State Senate,50,general,Scott DeLano,Republican,,100.0,True,False
 2019,Mississippi,MS,State Senate,51,general,Jeremy England,Republican,11832.0,100.0,True,False
 2019,Mississippi,MS,State Senate,52,general,Brice Wiggins,Republican,11149.0,100.0,True,True
-2019,Virginia,VA,State Senate,1,general,Monty Mason,Democratic,36844.0,89.83,True,True
-2019,Virginia,VA,State Senate,2,general,Mamie Locke,Democratic,36520.0,92.79,True,True
-2019,Virginia,VA,State Senate,3,general,Tommy Norment,Republican,50434.0,61.69,True,True
-2019,Virginia,VA,State Senate,3,general,Herb Jones,Democratic,31043.0,37.97,False,False
-2019,Virginia,VA,State Senate,4,general,Ryan McDougle,Republican,45682.0,63.01,True,True
-2019,Virginia,VA,State Senate,4,general,Stan Scott,Democratic,26646.0,36.75,False,False
-2019,Virginia,VA,State Senate,5,general,Lionell Spruill,Democratic,31222.0,79.38,True,True
-2019,Virginia,VA,State Senate,5,general,Jeff Staples,Independent,7663.0,19.48,False,False
-2019,Virginia,VA,State Senate,6,general,Lynwood Lewis,Democratic,25755.0,59.65,True,True
-2019,Virginia,VA,State Senate,6,general,Elizabeth Lankford,Republican,17351.0,40.19,False,False
-2019,Virginia,VA,State Senate,7,general,Jen Kiggans,Republican,29609.0,50.36,True,False
-2019,Virginia,VA,State Senate,7,general,Cheryl Turpin,Democratic,29098.0,49.49,False,False
-2019,Virginia,VA,State Senate,8,general,Bill DeSteph,Republican,28622.0,52.1,True,True
-2019,Virginia,VA,State Senate,8,general,Missy Cotter Smasal,Democratic,26229.0,47.75,False,False
-2019,Virginia,VA,State Senate,9,general,Jennifer McClellan,Democratic,49652.0,80.18,True,True
-2019,Virginia,VA,State Senate,9,general,Mark Lewis Jr.,Libertarian,11703.0,18.9,False,False
-2019,Virginia,VA,State Senate,10,general,Ghazala Hashmi,Democratic,44286.0,54.0,True,False
-2019,Virginia,VA,State Senate,10,general,Glen Sturtevant,Republican,37636.0,45.89,False,True
-2019,Virginia,VA,State Senate,11,general,Amanda Chase,Republican,44245.0,54.51,True,True
-2019,Virginia,VA,State Senate,11,general,Amanda Pohl,Democratic,36734.0,45.26,False,False
-2019,Virginia,VA,State Senate,12,general,Siobhan Dunnavant,Republican,39703.0,50.76,True,True
-2019,Virginia,VA,State Senate,12,general,Debra Rodman,Democratic,38365.0,49.05,False,False
-2019,Virginia,VA,State Senate,13,general,John Bell,Democratic,44729.0,54.25,True,False
-2019,Virginia,VA,State Senate,13,general,Geary Higgins,Republican,37629.0,45.64,False,False
-2019,Virginia,VA,State Senate,14,general,John Cosgrove,Republican,36369.0,60.16,True,True
-2019,Virginia,VA,State Senate,14,general,Rebecca Raveson,Democratic,23948.0,39.61,False,False
-2019,Virginia,VA,State Senate,15,general,Frank Ruff,Republican,38470.0,68.3,True,True
-2019,Virginia,VA,State Senate,15,general,Virginia Smith,Democratic,17793.0,31.59,False,False
-2019,Virginia,VA,State Senate,16,general,Joe Morrissey,Democratic,29401.0,63.96,True,False
-2019,Virginia,VA,State Senate,16,general,Waylin Ross,Independent,15722.0,34.2,False,False
-2019,Virginia,VA,State Senate,17,general,Bryce Reeves,Republican,34483.0,51.58,True,True
-2019,Virginia,VA,State Senate,17,general,Amy Laufer,Democratic,32162.0,48.11,False,False
-2019,Virginia,VA,State Senate,18,general,Louise Lucas,Democratic,43015.0,92.49,True,True
-2019,Virginia,VA,State Senate,19,general,David Suetterlein,Republican,41279.0,71.42,True,True
-2019,Virginia,VA,State Senate,19,general,Flourette Ketner,Democratic,16469.0,28.5,False,False
-2019,Virginia,VA,State Senate,20,general,Bill Stanley,Republican,32527.0,70.52,True,True
-2019,Virginia,VA,State Senate,20,general,Sherman Witcher Sr.,Independent,13394.0,29.04,False,False
-2019,Virginia,VA,State Senate,21,general,John Edwards,Democratic,26872.0,65.47,True,True
-2019,Virginia,VA,State Senate,21,general,Steven Nelson,Independent,13881.0,33.82,False,False
-2019,Virginia,VA,State Senate,22,general,Mark Peake,Republican,37620.0,62.76,True,True
-2019,Virginia,VA,State Senate,22,general,Dakota Claytor,Democratic,22250.0,37.12,False,False
-2019,Virginia,VA,State Senate,23,general,Stephen Newman,Republican,47372.0,93.86,True,True
-2019,Virginia,VA,State Senate,24,general,Emmett Hanger,Republican,46875.0,71.03,True,True
-2019,Virginia,VA,State Senate,24,general,Annette Hyde,Democratic,18725.0,28.37,False,False
-2019,Virginia,VA,State Senate,25,general,Creigh Deeds,Democratic,44741.0,67.48,True,True
-2019,Virginia,VA,State Senate,25,general,Elliott Harding,Independent,21316.0,32.15,False,False
-2019,Virginia,VA,State Senate,26,general,Mark Obenshain,Republican,36991.0,64.89,True,True
-2019,Virginia,VA,State Senate,26,general,April Moore,Democratic,19944.0,34.98,False,False
-2019,Virginia,VA,State Senate,27,general,Jill Vogel,Republican,43406.0,64.21,True,True
-2019,Virginia,VA,State Senate,27,general,Ronnie Ross III,Democratic,24128.0,35.69,False,False
-2019,Virginia,VA,State Senate,28,general,Richard Stuart,Republican,40182.0,57.45,True,True
-2019,Virginia,VA,State Senate,28,general,Qasim Rashid,Democratic,29681.0,42.44,False,False
-2019,Virginia,VA,State Senate,29,general,Jeremy McPike,Democratic,35125.0,91.1,True,True
-2019,Virginia,VA,State Senate,30,general,Adam Ebbin,Democratic,42809.0,91.66,True,True
-2019,Virginia,VA,State Senate,31,general,Barbara Favola,Democratic,46644.0,91.63,True,True
-2019,Virginia,VA,State Senate,32,general,Janet Howell,Democratic,48546.0,73.58,True,True
-2019,Virginia,VA,State Senate,32,general,Arthur Purves,Republican,17303.0,26.23,False,False
-2019,Virginia,VA,State Senate,33,general,Jennifer Boysko,Democratic,34492.0,64.89,True,True
-2019,Virginia,VA,State Senate,33,general,Suzanne Fox,Republican,18602.0,35.0,False,False
-2019,Virginia,VA,State Senate,34,general,Chap Petersen,Democratic,43993.0,91.2,True,True
-2019,Virginia,VA,State Senate,35,general,Dick Saslaw,Democratic,35101.0,92.49,True,True
-2019,Virginia,VA,State Senate,36,general,Scott Surovell,Democratic,37492.0,91.73,True,True
-2019,Virginia,VA,State Senate,37,general,Dave Marsden,Democratic,41203.0,90.27,True,True
-2019,Virginia,VA,State Senate,38,general,Ben Chafin,Republican,30288.0,63.52,True,True
-2019,Virginia,VA,State Senate,38,general,George McCall III,Independent,16871.0,35.37,False,False
-2019,Virginia,VA,State Senate,39,general,George Barker,Democratic,40230.0,65.79,True,True
-2019,Virginia,VA,State Senate,39,general,Dutch Hillenburg,Republican,20843.0,34.08,False,False
-2019,Virginia,VA,State Senate,40,general,Todd Pillion,Republican,40122.0,76.34,True,False
-2019,Virginia,VA,State Senate,40,general,Ken Heath,Independent,12271.0,23.35,False,False
+2019,Virginia,VA,State Senate,1,general,Monty Mason,Democratic,36844,89.83,True,True
+2019,Virginia,VA,State Senate,2,general,Mamie Locke,Democratic,36520,92.79,True,True
+2019,Virginia,VA,State Senate,3,general,Tommy Norment,Republican,50434,61.69,True,True
+2019,Virginia,VA,State Senate,3,general,Herb Jones,Democratic,31043,37.97,False,False
+2019,Virginia,VA,State Senate,4,general,Ryan McDougle,Republican,45682,63.01,True,True
+2019,Virginia,VA,State Senate,4,general,Stan Scott,Democratic,26646,36.75,False,False
+2019,Virginia,VA,State Senate,5,general,Lionell Spruill,Democratic,31222,79.38,True,True
+2019,Virginia,VA,State Senate,5,general,Jeff Staples,Independent,7663,19.48,False,False
+2019,Virginia,VA,State Senate,6,general,Lynwood Lewis,Democratic,25755,59.65,True,True
+2019,Virginia,VA,State Senate,6,general,Elizabeth Lankford,Republican,17351,40.19,False,False
+2019,Virginia,VA,State Senate,7,general,Jen Kiggans,Republican,29609,50.36,True,False
+2019,Virginia,VA,State Senate,7,general,Cheryl Turpin,Democratic,29098,49.49,False,False
+2019,Virginia,VA,State Senate,8,general,Bill DeSteph,Republican,28622,52.1,True,True
+2019,Virginia,VA,State Senate,8,general,Missy Cotter Smasal,Democratic,26229,47.75,False,False
+2019,Virginia,VA,State Senate,9,general,Jennifer McClellan,Democratic,49652,80.18,True,True
+2019,Virginia,VA,State Senate,9,general,Mark Lewis Jr.,Libertarian,11703,18.9,False,False
+2019,Virginia,VA,State Senate,10,general,Ghazala Hashmi,Democratic,44286,54.0,True,False
+2019,Virginia,VA,State Senate,10,general,Glen Sturtevant,Republican,37636,45.89,False,True
+2019,Virginia,VA,State Senate,11,general,Amanda Chase,Republican,44245,54.51,True,True
+2019,Virginia,VA,State Senate,11,general,Amanda Pohl,Democratic,36734,45.26,False,False
+2019,Virginia,VA,State Senate,12,general,Siobhan Dunnavant,Republican,39703,50.76,True,True
+2019,Virginia,VA,State Senate,12,general,Debra Rodman,Democratic,38365,49.05,False,False
+2019,Virginia,VA,State Senate,13,general,John Bell,Democratic,44729,54.25,True,False
+2019,Virginia,VA,State Senate,13,general,Geary Higgins,Republican,37629,45.64,False,False
+2019,Virginia,VA,State Senate,14,general,John Cosgrove,Republican,36369,60.16,True,True
+2019,Virginia,VA,State Senate,14,general,Rebecca Raveson,Democratic,23948,39.61,False,False
+2019,Virginia,VA,State Senate,15,general,Frank Ruff,Republican,38470,68.3,True,True
+2019,Virginia,VA,State Senate,15,general,Virginia Smith,Democratic,17793,31.59,False,False
+2019,Virginia,VA,State Senate,16,general,Joe Morrissey,Democratic,29401,63.96,True,False
+2019,Virginia,VA,State Senate,16,general,Waylin Ross,Independent,15722,34.2,False,False
+2019,Virginia,VA,State Senate,17,general,Bryce Reeves,Republican,34483,51.58,True,True
+2019,Virginia,VA,State Senate,17,general,Amy Laufer,Democratic,32162,48.11,False,False
+2019,Virginia,VA,State Senate,18,general,Louise Lucas,Democratic,43015,92.49,True,True
+2019,Virginia,VA,State Senate,19,general,David Suetterlein,Republican,41279,71.42,True,True
+2019,Virginia,VA,State Senate,19,general,Flourette Ketner,Democratic,16469,28.5,False,False
+2019,Virginia,VA,State Senate,20,general,Bill Stanley,Republican,32527,70.52,True,True
+2019,Virginia,VA,State Senate,20,general,Sherman Witcher Sr.,Independent,13394,29.04,False,False
+2019,Virginia,VA,State Senate,21,general,John Edwards,Democratic,26872,65.47,True,True
+2019,Virginia,VA,State Senate,21,general,Steven Nelson,Independent,13881,33.82,False,False
+2019,Virginia,VA,State Senate,22,general,Mark Peake,Republican,37620,62.76,True,True
+2019,Virginia,VA,State Senate,22,general,Dakota Claytor,Democratic,22250,37.12,False,False
+2019,Virginia,VA,State Senate,23,general,Stephen Newman,Republican,47372,93.86,True,True
+2019,Virginia,VA,State Senate,24,general,Emmett Hanger,Republican,46875,71.03,True,True
+2019,Virginia,VA,State Senate,24,general,Annette Hyde,Democratic,18725,28.37,False,False
+2019,Virginia,VA,State Senate,25,general,Creigh Deeds,Democratic,44741,67.48,True,True
+2019,Virginia,VA,State Senate,25,general,Elliott Harding,Independent,21316,32.15,False,False
+2019,Virginia,VA,State Senate,26,general,Mark Obenshain,Republican,36991,64.89,True,True
+2019,Virginia,VA,State Senate,26,general,April Moore,Democratic,19944,34.98,False,False
+2019,Virginia,VA,State Senate,27,general,Jill Vogel,Republican,43406,64.21,True,True
+2019,Virginia,VA,State Senate,27,general,Ronnie Ross III,Democratic,24128,35.69,False,False
+2019,Virginia,VA,State Senate,28,general,Richard Stuart,Republican,40182,57.45,True,True
+2019,Virginia,VA,State Senate,28,general,Qasim Rashid,Democratic,29681,42.44,False,False
+2019,Virginia,VA,State Senate,29,general,Jeremy McPike,Democratic,35125,91.1,True,True
+2019,Virginia,VA,State Senate,30,general,Adam Ebbin,Democratic,42809,91.66,True,True
+2019,Virginia,VA,State Senate,31,general,Barbara Favola,Democratic,46644,91.63,True,True
+2019,Virginia,VA,State Senate,32,general,Janet Howell,Democratic,48546,73.58,True,True
+2019,Virginia,VA,State Senate,32,general,Arthur Purves,Republican,17303,26.23,False,False
+2019,Virginia,VA,State Senate,33,general,Jennifer Boysko,Democratic,34492,64.89,True,True
+2019,Virginia,VA,State Senate,33,general,Suzanne Fox,Republican,18602,35.0,False,False
+2019,Virginia,VA,State Senate,34,general,Chap Petersen,Democratic,43993,91.2,True,True
+2019,Virginia,VA,State Senate,35,general,Dick Saslaw,Democratic,35101,92.49,True,True
+2019,Virginia,VA,State Senate,36,general,Scott Surovell,Democratic,37492,91.73,True,True
+2019,Virginia,VA,State Senate,37,general,Dave Marsden,Democratic,41203,90.27,True,True
+2019,Virginia,VA,State Senate,38,general,Ben Chafin,Republican,30288,63.52,True,True
+2019,Virginia,VA,State Senate,38,general,George McCall III,Independent,16871,35.37,False,False
+2019,Virginia,VA,State Senate,39,general,George Barker,Democratic,40230,65.79,True,True
+2019,Virginia,VA,State Senate,39,general,Dutch Hillenburg,Republican,20843,34.08,False,False
+2019,Virginia,VA,State Senate,40,general,Todd Pillion,Republican,40122,76.34,True,False
+2019,Virginia,VA,State Senate,40,general,Ken Heath,Independent,12271,23.35,False,False

@@ -165,10 +165,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Candidate,Erick Russell,Democratic,732870,57.51,False,False,2026 Connecticut State Treasurer election
 2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Candidate,Fred Wilms,Republican,481283,37.77,False,False,2026 Connecticut State Treasurer election
 2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Total,,,1274274,100.0,False,False,2026 Connecticut State Treasurer election
-2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Candidate,Ned Lamont,Democratic,740768,57.21,False,False,2026 Connecticut gubernatorial election
-2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Candidate,Ryan Fazio,Republican,495720,38.29,False,False,2026 Connecticut gubernatorial election
-2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Write-in,,,53,0.01,False,False,2026 Connecticut gubernatorial election
-2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Total,,,1294727,100.0,False,False,2026 Connecticut gubernatorial election
+2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Candidate,Ned Lamont,Democratic,742438,57.26,False,False,2026 Connecticut gubernatorial election
+2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Candidate,Ryan Fazio,Republican,496466,38.29,False,False,2026 Connecticut gubernatorial election
+2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Write-in,,,64,0.01,False,False,2026 Connecticut gubernatorial election
+2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Total,,,1296554,100.0,False,False,2026 Connecticut gubernatorial election
 2026,Delaware,DE,attorney general,2026 Delaware Attorney General general election,Winning,Kathy Jennings,Democratic,240429,63.6,True,True,2026 Delaware Attorney General election
 2026,Delaware,DE,attorney general,2026 Delaware Attorney General general election,Candidate,David C. Graham,Republican,137464,36.4,False,False,2026 Delaware Attorney General election
 2026,Delaware,DE,attorney general,2026 Delaware Attorney General general election,Total,,,377893,100.0,False,False,2026 Delaware Attorney General election
