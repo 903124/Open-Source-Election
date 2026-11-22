@@ -53,6 +53,42 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,Alabama,AL,State Senate,34,general,Jack Williams,Republican,27043.0,97.56,True,True
 2022,Alabama,AL,State Senate,35,general,David Sessions,Republican,27133.0,85.3,True,True
 2022,Alabama,AL,State Senate,35,general,Clifton Hudson,Libertarian,4488.0,14.11,False,False
+2022,Alaska,AK,State Senate,DISTRICT A,general,Bert Stedman,Republican,8902.0,68.8,True,True
+2022,Alaska,AK,State Senate,DISTRICT A,general,Mike Sheldon,Republican,3941.0,30.5,False,False
+2022,Alaska,AK,State Senate,DISTRICT B,general,Jesse Kiehl,Democratic,12724.0,95.8,True,True
+2022,Alaska,AK,State Senate,DISTRICT C,general,Gary Stevens,Republican,7867.0,56.3,True,True
+2022,Alaska,AK,State Senate,DISTRICT C,general,Heath Smith,Republican,4353.0,31.1,False,False
+2022,Alaska,AK,State Senate,DISTRICT C,general,Walter Jones,Republican,1623.0,11.6,False,False
+2022,Alaska,AK,State Senate,DISTRICT F,general,James D. Kaufman,Republican,7795.0,54.5,True,False
+2022,Alaska,AK,State Senate,DISTRICT F,general,Janice Park,Democratic,6476.0,45.3,False,False
+2022,Alaska,AK,State Senate,DISTRICT G,general,Elvi Gray-Jackson,Democratic,6325.0,56.5,True,True
+2022,Alaska,AK,State Senate,DISTRICT G,general,Marcus Sanders,Republican,4832.0,43.1,False,False
+2022,Alaska,AK,State Senate,DISTRICT H,general,Matt Claman,Democratic,7868.0,51.8,True,False
+2022,Alaska,AK,State Senate,DISTRICT H,general,Mia Costello,Republican,7271.0,47.9,False,True
+2022,Alaska,AK,State Senate,DISTRICT I,general,Löki Tobin,Democratic,5011.0,66.4,True,False
+2022,Alaska,AK,State Senate,DISTRICT I,general,Heather Herndon,Independent,2428.0,32.2,False,False
+2022,Alaska,AK,State Senate,DISTRICT J,general,Forrest Dunbar,Democratic,4306.0,50.0,True,False
+2022,Alaska,AK,State Senate,DISTRICT J,general,Andrew Satterfield,Republican,2813.0,32.7,False,False
+2022,Alaska,AK,State Senate,DISTRICT J,general,Geran Tarr,Democratic,1443.0,16.8,False,False
+2022,Alaska,AK,State Senate,DISTRICT K,general,Bill Wielechowski,Democratic,6267.0,58.0,True,True
+2022,Alaska,AK,State Senate,DISTRICT K,general,John Cunningham,Republican,4504.0,41.7,False,False
+2022,Alaska,AK,State Senate,DISTRICT L,general,Kelly Merrick,Republican,8497.0,57.9,True,False
+2022,Alaska,AK,State Senate,DISTRICT L,general,Ken McCarty,Republican,6024.0,41.0,False,False
+2022,Alaska,AK,State Senate,DISTRICT M,general,Shelley Hughes,Republican,11257.0,75.8,True,True
+2022,Alaska,AK,State Senate,DISTRICT M,general,Jim Cooper,Democratic,3561.0,24.0,False,False
+2022,Alaska,AK,State Senate,DISTRICT O,general,Mike Shower,Republican,7396.0,51.8,True,True
+2022,Alaska,AK,State Senate,DISTRICT O,general,Doug Massie,Republican,6712.0,47.0,False,False
+2022,Alaska,AK,State Senate,DISTRICT P,general,Scott Kawasaki,Democratic,4274.0,51.1,True,True
+2022,Alaska,AK,State Senate,DISTRICT P,general,Jim Matherly,Republican,3509.0,42.0,False,False
+2022,Alaska,AK,State Senate,DISTRICT P,general,Alex Jafre,Republican,539.0,6.4,False,False
+2022,Alaska,AK,State Senate,DISTRICT Q,general,Robert Myers Jr.,Republican,8119.0,62.6,True,True
+2022,Alaska,AK,State Senate,DISTRICT Q,general,John Bennett,Independent,4009.0,30.9,False,False
+2022,Alaska,AK,State Senate,DISTRICT Q,general,Arthur Serkov,Independence,774.0,6.0,False,False
+2022,Alaska,AK,State Senate,DISTRICT R,general,Click Bishop,Republican,8297.0,56.7,True,True
+2022,Alaska,AK,State Senate,DISTRICT R,general,Elijah Verhagen,Republican,3957.0,27.1,False,False
+2022,Alaska,AK,State Senate,DISTRICT R,general,Bert Williams,Independence,2275.0,15.6,False,False
+2022,Alaska,AK,State Senate,DISTRICT S,general,Lyman Hoffman,Democratic,4436.0,64.7,True,True
+2022,Alaska,AK,State Senate,DISTRICT S,general,Willy Keppel,Veterans,2378.0,34.7,False,False
 2022,Arizona,AZ,State Senate,1,general,Ken Bennett,Republican,82234.0,67.25,True,False
 2022,Arizona,AZ,State Senate,1,general,Mike Fogel,Democratic,40056.0,32.75,False,False
 2022,Arizona,AZ,State Senate,2,general,Steve Kaiser,Republican,41623.0,51.84,True,False
@@ -165,6 +201,46 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,Arkansas,AR,State Senate,34,general,J.P. DeVilliers,Libertarian,9236.0,30.2,False,False
 2022,Arkansas,AR,State Senate,35,general,Tyler Dees,Republican,18411.0,73.68,True,False
 2022,Arkansas,AR,State Senate,35,general,Doug Peterson,Libertarian,6578.0,26.32,False,False
+2022,California,CA,State Senate,2,general,Mike McGuire,Democratic,283689.0,73.3,True,True
+2022,California,CA,State Senate,2,general,Gene Yoon,Republican,103333.0,26.7,False,False
+2022,California,CA,State Senate,4,general,Marie Alvarado-Gil,Democratic,137157.0,52.7,True,False
+2022,California,CA,State Senate,4,general,Tim Robertson,Democratic,123210.0,47.3,False,False
+2022,California,CA,State Senate,6,general,Roger Niello,Republican,202569.0,55.7,True,False
+2022,California,CA,State Senate,6,general,Paula Villescaz,Democratic,160846.0,44.3,False,False
+2022,California,CA,State Senate,8,general,Angelique Ashby,Democratic,118135.0,51.5,True,False
+2022,California,CA,State Senate,8,general,Dave Jones,Democratic,111035.0,48.5,False,False
+2022,California,CA,State Senate,10,general,Aisha Wahab,Democratic,114997.0,53.7,True,False
+2022,California,CA,State Senate,10,general,Lily Mei,Democratic,99011.0,46.3,False,False
+2022,California,CA,State Senate,12,general,Shannon Grove,Republican,196014.0,68.7,True,True
+2022,California,CA,State Senate,12,general,Susanne Gundy,Democratic,89469.0,31.3,False,False
+2022,California,CA,State Senate,14,general,Anna Caballero,Democratic,90016.0,56.3,True,True
+2022,California,CA,State Senate,14,general,Amnon Shor,Republican,69970.0,43.7,False,False
+2022,California,CA,State Senate,16,general,Melissa Hurtado,Democratic,68461.0,50.005,True,True
+2022,California,CA,State Senate,16,general,David Shepard,Republican,68448.0,49.995,False,False
+2022,California,CA,State Senate,18,general,Steve Padilla,Democratic,115103.0,59.8,True,False
+2022,California,CA,State Senate,18,general,Alejandro Galicia,Republican,77223.0,40.2,False,False
+2022,California,CA,State Senate,20,general,Caroline Menjivar,Democratic,88358.0,58.5,True,False
+2022,California,CA,State Senate,20,general,Daniel Hertzberg,Democratic,62787.0,41.5,False,False
+2022,California,CA,State Senate,22,general,Susan Rubio,Democratic,110327.0,58.5,True,True
+2022,California,CA,State Senate,22,general,Vincent Tsai,Republican,78156.0,41.5,False,False
+2022,California,CA,State Senate,24,general,Ben Allen,Democratic,248642.0,67.1,True,True
+2022,California,CA,State Senate,24,general,Kristina Irwin,Republican,121809.0,32.9,False,False
+2022,California,CA,State Senate,26,general,María Elena Durazo,Democratic,155727.0,82.9,True,True
+2022,California,CA,State Senate,26,general,Claudia Agraz,Republican,32022.0,17.1,False,False
+2022,California,CA,State Senate,28,general,Lola Smallwood-Cuevas,Democratic,117315.0,59.9,True,False
+2022,California,CA,State Senate,28,general,Cheryl Turner,Democratic,78453.0,40.1,False,False
+2022,California,CA,State Senate,30,general,Bob Archuleta,Democratic,129890.0,61.0,True,True
+2022,California,CA,State Senate,30,general,Mitch Clemmons,Republican,83214.0,39.0,False,False
+2022,California,CA,State Senate,32,general,Kelly Seyarto,Republican,184086.0,62.0,True,False
+2022,California,CA,State Senate,32,general,Brian Nash,Democratic,112763.0,38.0,False,False
+2022,California,CA,State Senate,34,general,Tom Umberg,Democratic,96419.0,58.8,True,True
+2022,California,CA,State Senate,34,general,Rhonda Shader,Republican,67633.0,41.2,False,False
+2022,California,CA,State Senate,36,general,Janet Nguyen,Republican,196488.0,56.9,True,False
+2022,California,CA,State Senate,36,general,Kim Carr,Democratic,149114.0,43.1,False,False
+2022,California,CA,State Senate,38,general,Catherine Blakespear,Democratic,190992.0,52.2,True,False
+2022,California,CA,State Senate,38,general,Matt Gunderson,Republican,174581.0,47.8,False,False
+2022,California,CA,State Senate,40,general,Brian Jones,Republican,170109.0,53.1,True,True
+2022,California,CA,State Senate,40,general,Joseph Rocha,Democratic,149948.0,46.9,False,False
 2022,Colorado,CO,State Senate,1,general,Byron Pelton,Republican,53199.0,100.0,True,False
 2022,Colorado,CO,State Senate,3,general,Nick Hinrichsen,Democratic,33795.0,51.29,True,True
 2022,Colorado,CO,State Senate,3,general,Stephen Varela,Republican,32090.0,48.71,False,False
@@ -470,9 +546,9 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,Idaho,ID,State Senate,26,general,Ron C. Taylor,Democratic,8117.0,51.63,True,False
 2022,Idaho,ID,State Senate,26,general,Laurie Lickley,Republican,7604.0,48.37,False,False
 2022,Idaho,ID,State Senate,27,general,Kelly Anthon,Republican,10650.0,89.03,True,True
-2022,Idaho,ID,State Senate,27,general,Bill Drury,Independent (politician),1312.0,10.97,False,False
+2022,Idaho,ID,State Senate,27,general,Bill Drury,Independent,1312.0,10.97,False,False
 2022,Idaho,ID,State Senate,28,general,Jim Guthrie,Republican,11441.0,75.99,True,True
-2022,Idaho,ID,State Senate,28,general,Mike Saville,Independent (politician),3614.0,24.01,False,False
+2022,Idaho,ID,State Senate,28,general,Mike Saville,Independent,3614.0,24.01,False,False
 2022,Idaho,ID,State Senate,29,general,James D. Ruchti,Democratic,7863.0,54.07,True,False
 2022,Idaho,ID,State Senate,29,general,David T. Worley,Republican,6678.0,45.93,False,False
 2022,Idaho,ID,State Senate,30,general,Julie VanOrden,Republican,10948.0,84.29,True,True
@@ -629,7 +705,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,Iowa,IA,State Senate,16,general,Bradley D. Price,Republican,11692.0,41.78,False,False
 2022,Iowa,IA,State Senate,17,general,Izaah Knox,Democratic,10286.0,76.56,True,False
 2022,Iowa,IA,State Senate,17,general,ToyA S. Johnson,Libertarian,1690.0,12.58,False,False
-2022,Iowa,IA,State Senate,17,general,Alejandro Murguia-Ortiz,Independent (politician),1297.0,9.65,False,False
+2022,Iowa,IA,State Senate,17,general,Alejandro Murguia-Ortiz,Independent,1297.0,9.65,False,False
 2022,Iowa,IA,State Senate,19,general,Ken Rozenboom,Republican,18118.0,68.58,True,True
 2022,Iowa,IA,State Senate,19,general,Tyler Stewart,Democratic,8283.0,31.35,False,False
 2022,Iowa,IA,State Senate,21,general,Mike Bousselot,Republican,14896.0,50.92,True,False
@@ -659,7 +735,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,Iowa,IA,State Senate,41,general,Deb VanderGaast,Democratic,9480.0,41.77,False,False
 2022,Iowa,IA,State Senate,42,general,Charlie McClintock,Republican,17420.0,58.84,True,False
 2022,Iowa,IA,State Senate,42,general,Jessica Wiskus,Democratic,11222.0,37.9,False,False
-2022,Iowa,IA,State Senate,42,general,Bruce Gardner,Independent (politician),954.0,3.22,False,False
+2022,Iowa,IA,State Senate,42,general,Bruce Gardner,Independent,954.0,3.22,False,False
 2022,Iowa,IA,State Senate,43,general,Zach Wahls,Democratic,21146.0,97.46,True,True
 2022,Iowa,IA,State Senate,44,general,Adrian Dickey,Republican,15318.0,66.49,True,True
 2022,Iowa,IA,State Senate,44,general,Rich Taylor,Democratic,7699.0,33.42,False,False
@@ -851,6 +927,69 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,Maryland,MD,State Senate,46,general,Bill Ferguson,Democratic,24977.0,84.63,True,True
 2022,Maryland,MD,State Senate,46,general,Emmanuel Digman,Republican,4486.0,15.2,False,False
 2022,Maryland,MD,State Senate,47,general,Malcolm Augustine,Democratic,16416.0,98.78,True,True
+2022,Massachusetts,MA,State Senate,"BERKSHIRE, HAMPDEN, FRANKLIN AND HAMPSHIRE",general,Paul W. Mark,Democratic,47989.0,76.42,True,False
+2022,Massachusetts,MA,State Senate,"BERKSHIRE, HAMPDEN, FRANKLIN AND HAMPSHIRE",general,Brendan M. Phair,Independent,14806.0,23.58,False,False
+2022,Massachusetts,MA,State Senate,BRISTOL AND NORFOLK,general,Paul R. Feeney,Democratic,40353.0,58.7,True,True
+2022,Massachusetts,MA,State Senate,BRISTOL AND NORFOLK,general,Michael Chaisson,Republican,26221.0,38.14,False,False
+2022,Massachusetts,MA,State Senate,BRISTOL AND NORFOLK,general,Laura L. Saylor,Workers,2168.0,3.15,False,False
+2022,Massachusetts,MA,State Senate,1ST BRISTOL AND PLYMOUTH,general,Michael J. Rodrigues,Democratic,29420.0,57.66,True,True
+2022,Massachusetts,MA,State Senate,1ST BRISTOL AND PLYMOUTH,general,Russell T. Protentis,Republican,21600.0,42.34,False,False
+2022,Massachusetts,MA,State Senate,2ND BRISTOL AND PLYMOUTH,general,Mark C. Montigny,Democratic,35193.0,100.0,True,True
+2022,Massachusetts,MA,State Senate,3RD BRISTOL AND PLYMOUTH,general,Marc R. Pacheco,Democratic,35556.0,54.29,True,True
+2022,Massachusetts,MA,State Senate,3RD BRISTOL AND PLYMOUTH,general,Maria S. Collins,Republican,29937.0,45.71,False,False
+2022,Massachusetts,MA,State Senate,CAPE AND ISLANDS,general,Julian Andre Cyr,Democratic,54714.0,63.7,True,True
+2022,Massachusetts,MA,State Senate,CAPE AND ISLANDS,general,Christopher Robert Lauzon,Republican,31176.0,36.3,False,False
+2022,Massachusetts,MA,State Senate,1ST ESSEX,general,Pavel M. Payano,Democratic,21591.0,100.0,True,False
+2022,Massachusetts,MA,State Senate,2ND ESSEX,general,Joan B. Lovely,Democratic,44277.0,67.72,True,True
+2022,Massachusetts,MA,State Senate,2ND ESSEX,general,Damian M. Anketell,Republican,21108.0,32.28,False,False
+2022,Massachusetts,MA,State Senate,3RD ESSEX,general,Brendan P. Crighton,Democratic,34620.0,71.34,True,True
+2022,Massachusetts,MA,State Senate,3RD ESSEX,general,Annalisa Salustri,Independent,13910.0,28.66,False,False
+2022,Massachusetts,MA,State Senate,1ST ESSEX AND MIDDLESEX,general,Bruce E. Tarr,Republican,58838.0,71.54,True,True
+2022,Massachusetts,MA,State Senate,1ST ESSEX AND MIDDLESEX,general,Terence William Cudney,Independent,23408.0,28.46,False,False
+2022,Massachusetts,MA,State Senate,2ND ESSEX AND MIDDLESEX,general,Barry R. Finegold,Democratic,42932.0,57.35,True,True
+2022,Massachusetts,MA,State Senate,2ND ESSEX AND MIDDLESEX,general,SalvatorE Paul Defranco,Republican,31926.0,42.65,False,False
+2022,Massachusetts,MA,State Senate,HAMPDEN,general,Adam Gomez,Democratic,23665.0,100.0,True,True
+2022,Massachusetts,MA,State Senate,"HAMPDEN, HAMPSHIRE AND WORCESTER",general,Jacob R. Oliveira,Democratic,37410.0,56.31,True,False
+2022,Massachusetts,MA,State Senate,"HAMPDEN, HAMPSHIRE AND WORCESTER",general,William E. Johnson,Republican,29027.0,43.69,False,False
+2022,Massachusetts,MA,State Senate,HAMPDEN AND HAMPSHIRE,general,John C. Velis,Democratic,37130.0,65.7,True,True
+2022,Massachusetts,MA,State Senate,HAMPDEN AND HAMPSHIRE,general,Cecilia P. Calabrese,Republican,19388.0,34.3,False,False
+2022,Massachusetts,MA,State Senate,"HAMPSHIRE, FRANKLIN AND WORCESTER",general,Jo Comerford,Democratic,51232.0,100.0,True,True
+2022,Massachusetts,MA,State Senate,1ST MIDDLESEX,general,"Edward J. Kennedy, Jr",Democratic,32003.0,100.0,True,True
+2022,Massachusetts,MA,State Senate,2ND MIDDLESEX,general,Patricia D. Jehlen,Democratic,53866.0,100.0,True,True
+2022,Massachusetts,MA,State Senate,3RD MIDDLESEX,general,Michael J. Barrett,Democratic,50728.0,100.0,True,True
+2022,Massachusetts,MA,State Senate,4TH MIDDLESEX,general,Cindy F. Friedman,Democratic,54112.0,100.0,True,True
+2022,Massachusetts,MA,State Senate,5TH MIDDLESEX,general,Jason M. Lewis,Democratic,42130.0,63.61,True,True
+2022,Massachusetts,MA,State Senate,5TH MIDDLESEX,general,"Edward F. Dombroski, Jr",Republican,24104.0,36.39,False,False
+2022,Massachusetts,MA,State Senate,NORFOLK AND MIDDLESEX,general,Cynthia Stone Creem,Democratic,55022.0,100.0,True,True
+2022,Massachusetts,MA,State Senate,MIDDLESEX AND NORFOLK,general,Karen E. Spilka,Democratic,52484.0,100.0,True,True
+2022,Massachusetts,MA,State Senate,MIDDLESEX AND SUFFOLK,general,Sal N. DiDomenico,Democratic,33355.0,100.0,True,True
+2022,Massachusetts,MA,State Senate,MIDDLESEX AND WORCESTER,general,James B. Eldridge,Democratic,51574.0,70.27,True,True
+2022,Massachusetts,MA,State Senate,MIDDLESEX AND WORCESTER,general,Anthony Christakis,Republican,21819.0,29.73,False,False
+2022,Massachusetts,MA,State Senate,"NORFOLK, PLYMOUTH AND BRISTOL",general,"Walter F. Timilty, Jr.",Democratic,40311.0,66.13,True,True
+2022,Massachusetts,MA,State Senate,"NORFOLK, PLYMOUTH AND BRISTOL",general,Brian R. Muello,Republican,20648.0,33.87,False,False
+2022,Massachusetts,MA,State Senate,"NORFOLK, WORCESTER AND MIDDLESEX",general,Rebecca L. Rausch,Democratic,41893.0,54.87,True,True
+2022,Massachusetts,MA,State Senate,"NORFOLK, WORCESTER AND MIDDLESEX",general,Shawn C. Dooley,Republican,34452.0,45.13,False,False
+2022,Massachusetts,MA,State Senate,NORFOLK AND PLYMOUTH,general,John F. Keenan,Democratic,36063.0,63.66,True,True
+2022,Massachusetts,MA,State Senate,NORFOLK AND PLYMOUTH,general,Gary M. Innes,Republican,20586.0,36.34,False,False
+2022,Massachusetts,MA,State Senate,NORFOLK AND SUFFOLK,general,Michael F. Rush,Democratic,54915.0,100.0,True,True
+2022,Massachusetts,MA,State Senate,PLYMOUTH AND BARNSTABLE,general,Susan Lynn Moran,Democratic,49686.0,56.35,True,True
+2022,Massachusetts,MA,State Senate,PLYMOUTH AND BARNSTABLE,general,Kari Macrae,Republican,38493.0,43.65,False,False
+2022,Massachusetts,MA,State Senate,1ST PLYMOUTH AND NORFOLK,general,Patrick Michael O'Connor,Republican,48668.0,60.63,True,True
+2022,Massachusetts,MA,State Senate,1ST PLYMOUTH AND NORFOLK,general,"Robert William Stephens, Jr",Democratic,31609.0,39.37,False,False
+2022,Massachusetts,MA,State Senate,2ND PLYMOUTH AND NORFOLK,general,Michael D. Brady,Democratic,29297.0,63.7,True,True
+2022,Massachusetts,MA,State Senate,2ND PLYMOUTH AND NORFOLK,general,Jim Gordon,Republican,16693.0,36.3,False,False
+2022,Massachusetts,MA,State Senate,1ST SUFFOLK,general,Nicholas P. Collins,Democratic,41069.0,100.0,True,True
+2022,Massachusetts,MA,State Senate,2ND SUFFOLK,general,Liz Miranda,Democratic,35207.0,100.0,True,False
+2022,Massachusetts,MA,State Senate,3RD SUFFOLK,general,Lydia Marie Edwards,Democratic,32396.0,100.0,True,True
+2022,Massachusetts,MA,State Senate,SUFFOLK AND MIDDLESEX,general,William N. Brownsberger,Democratic,42713.0,100.0,True,True
+2022,Massachusetts,MA,State Senate,1ST WORCESTER,general,Robyn K. Kennedy,Democratic,30138.0,73.61,True,False
+2022,Massachusetts,MA,State Senate,1ST WORCESTER,general,Lisa K. Mair,Independent,10805.0,26.39,False,False
+2022,Massachusetts,MA,State Senate,2ND WORCESTER,general,Michael O. Moore,Democratic,40946.0,100.0,True,True
+2022,Massachusetts,MA,State Senate,WORCESTER AND HAMPSHIRE,general,Anne M. Gobi,Democratic,35409.0,54.36,True,True
+2022,Massachusetts,MA,State Senate,WORCESTER AND HAMPSHIRE,general,James Anthony Amorello,Republican,29734.0,45.64,False,False
+2022,Massachusetts,MA,State Senate,WORCESTER AND MIDDLESEX,general,John J. Cronin,Democratic,36784.0,60.28,True,True
+2022,Massachusetts,MA,State Senate,WORCESTER AND MIDDLESEX,general,Kenneth B. Hoyt,Republican,24238.0,39.72,False,False
+2022,Massachusetts,MA,State Senate,WORCESTER AND HAMPDEN,general,Ryan C. Fattman,Republican,53456.0,100.0,True,True
 2022,Michigan,MI,State Senate,1,general,Erika Geiss,Democratic,53475.0,71.57,True,True
 2022,Michigan,MI,State Senate,1,general,Erik Soderquist,Republican,21243.0,28.43,False,False
 2022,Michigan,MI,State Senate,2,general,Sylvia Santana,Democratic,43258.0,67.99,True,True
@@ -1081,7 +1220,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,Missouri,MO,State Senate,12,general,Rusty Black,Republican,51470.0,80.77,True,False
 2022,Missouri,MO,State Senate,12,general,Michael J. Baumli,Democratic,12254.0,19.23,False,False
 2022,Missouri,MO,State Senate,14,general,Brian Williams,Democratic,41832.0,99.94,True,True
-2022,Missouri,MO,State Senate,14,general,John Winkler,Independent (politician),24.0,0.06,False,False
+2022,Missouri,MO,State Senate,14,general,John Winkler,Independent,24.0,0.06,False,False
 2022,Missouri,MO,State Senate,16,general,Justin Dan Brown,Republican,39087.0,80.67,True,True
 2022,Missouri,MO,State Senate,16,general,Tara Anura,Democratic,9363.0,19.33,False,False
 2022,Missouri,MO,State Senate,18,general,Cindy O'Laughlin,Republican,42989.0,75.78,True,True
@@ -1147,6 +1286,54 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,Montana,MT,State Senate,49,general,Brad Tschida,Republican,4714.0,45.57,False,False
 2022,Montana,MT,State Senate,50,general,Andrea Olsen,Democratic,7455.0,72.64,True,False
 2022,Montana,MT,State Senate,50,general,Nick Knowles,Republican,2808.0,27.36,False,False
+2022,Nebraska,NE,State Senate,2,general,Robert Clements,Republican,9261.0,56.55,True,True
+2022,Nebraska,NE,State Senate,2,general,Sarah Slattery,Democratic,7117.0,43.45,False,False
+2022,Nebraska,NE,State Senate,4,general,R. Brad von Gillern,Republican,8710.0,52.41,True,False
+2022,Nebraska,NE,State Senate,4,general,Cindy Maxwell-Ostdiek,Nonpartisan,7908.0,47.59,False,False
+2022,Nebraska,NE,State Senate,6,general,Machaela Cavanaugh,Democratic,7969.0,55.61,True,True
+2022,Nebraska,NE,State Senate,6,general,Christian Mirch,Republican,6360.0,44.39,False,False
+2022,Nebraska,NE,State Senate,8,general,Megan Hunt,Democratic,9322.0,69.37,True,True
+2022,Nebraska,NE,State Senate,8,general,Marilyn Arant Asher,Republican,4116.0,30.63,False,False
+2022,Nebraska,NE,State Senate,10,general,Wendy DeBoer,Democratic,7120.0,53.47,True,False
+2022,Nebraska,NE,State Senate,10,general,Lou Ann Goding,Republican,6197.0,46.53,False,False
+2022,Nebraska,NE,State Senate,12,general,Merv Riepe,Republican,5942.0,52.31,True,False
+2022,Nebraska,NE,State Senate,12,general,Robin Richards,Democratic,5418.0,47.69,False,False
+2022,Nebraska,NE,State Senate,14,general,John Arch,Republican,7606.0,62.7,True,True
+2022,Nebraska,NE,State Senate,14,general,Cori Villegas,Democratic,4524.0,37.3,False,False
+2022,Nebraska,NE,State Senate,16,general,Ben Hansen,Republican,9744.0,70.27,True,True
+2022,Nebraska,NE,State Senate,16,general,Connie Petersen,Republican,4123.0,29.73,False,False
+2022,Nebraska,NE,State Senate,18,general,Christy Armendariz,Republican,7430.0,56.23,True,False
+2022,Nebraska,NE,State Senate,18,general,Michael Young,Democratic,5784.0,43.77,False,False
+2022,Nebraska,NE,State Senate,20,general,John Fredrickson,Democratic,8139.0,50.25,True,False
+2022,Nebraska,NE,State Senate,20,general,Stu Dornan,Republican,8057.0,49.75,False,False
+2022,Nebraska,NE,State Senate,22,general,Mike Moser,Republican,9561.0,80.24,True,True
+2022,Nebraska,NE,State Senate,22,general,Roy M. Zach,Nonpartisan,2355.0,19.76,False,False
+2022,Nebraska,NE,State Senate,24,general,Jana Hughes,Republican,7551.0,55.08,True,False
+2022,Nebraska,NE,State Senate,24,general,Patrick Hotovy,Republican,6159.0,44.92,False,False
+2022,Nebraska,NE,State Senate,26,general,George Dungan III,Democratic,5960.0,50.96,True,False
+2022,Nebraska,NE,State Senate,26,general,Russ Barger,Republican,5736.0,49.04,False,False
+2022,Nebraska,NE,State Senate,28,general,Jane Raybould,Democratic,7879.0,66.46,True,False
+2022,Nebraska,NE,State Senate,28,general,Roy Christensen,Republican,3977.0,33.54,False,False
+2022,Nebraska,NE,State Senate,30,general,Myron Dorn,Republican,12603.0,100.0,True,True
+2022,Nebraska,NE,State Senate,31,special general,Kathleen Kauth,Republican,8076.0,52.5,True,True
+2022,Nebraska,NE,State Senate,31,special general,Tim Royers,Democratic,7306.0,47.5,False,False
+2022,Nebraska,NE,State Senate,32,general,Tom Brandt,Republican,11253.0,100.0,True,True
+2022,Nebraska,NE,State Senate,34,general,Loren Lippincott,Republican,8788.0,67.67,True,False
+2022,Nebraska,NE,State Senate,34,general,Michael Reimers,Republican,4199.0,32.33,False,False
+2022,Nebraska,NE,State Senate,36,general,Rick Holdcroft,Republican,8188.0,55.96,True,False
+2022,Nebraska,NE,State Senate,36,general,Angie Lauritsen,Democratic,6444.0,44.04,False,False
+2022,Nebraska,NE,State Senate,38,general,Dave Murman,Republican,9368.0,65.06,True,True
+2022,Nebraska,NE,State Senate,38,general,Tyler R. Cappel,Libertarian,5031.0,34.94,False,False
+2022,Nebraska,NE,State Senate,40,general,Barry DeKay,Republican,9486.0,59.36,True,False
+2022,Nebraska,NE,State Senate,40,general,Keith F. Kube,Republican,6494.0,40.64,False,False
+2022,Nebraska,NE,State Senate,42,general,Mike Jacobson,Republican,6868.0,51.39,True,True
+2022,Nebraska,NE,State Senate,42,general,Chris Bruns,Republican,6497.0,48.61,False,False
+2022,Nebraska,NE,State Senate,44,general,Teresa Ibach,Republican,9708.0,100.0,True,False
+2022,Nebraska,NE,State Senate,44,general,Ed Dunn (withdrew),Republican,0.0,0.0,False,False
+2022,Nebraska,NE,State Senate,46,general,Danielle Conrad,Democratic,3146.0,51.48,True,False
+2022,Nebraska,NE,State Senate,46,general,James Michael Bowers,Democratic,2965.0,48.52,False,False
+2022,Nebraska,NE,State Senate,48,general,Brian Hardin,Republican,5526.0,52.15,True,False
+2022,Nebraska,NE,State Senate,48,general,Don L. Lease II,Republican,5071.0,47.85,False,False
 2022,Nevada,NV,State Senate,2,general,Edgar Flores,Democratic,12442.0,69.93,True,False
 2022,Nevada,NV,State Senate,2,general,Leo Henderson,Republican,5350.0,30.07,False,False
 2022,Nevada,NV,State Senate,8,general,Marilyn Dondero Loop,Democratic,26698.0,50.72,True,True
@@ -1269,7 +1456,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,North Carolina,NC,State Senate,25,general,Amy Galey,Republican,47355.0,62.82,True,True
 2022,North Carolina,NC,State Senate,25,general,Sean C. Ewing,Democratic,28031.0,37.18,False,False
 2022,North Carolina,NC,State Senate,26,general,Phil Berger,Republican,54717.0,85.2,True,True
-2022,North Carolina,NC,State Senate,26,general,Alvin D. Robinson (write-in),Independent (politician),1624.0,2.53,False,False
+2022,North Carolina,NC,State Senate,26,general,Alvin D. Robinson (write-in),Independent,1624.0,2.53,False,False
 2022,North Carolina,NC,State Senate,27,general,Michael Garrett,Democratic,37055.0,54.5,True,True
 2022,North Carolina,NC,State Senate,27,general,"Richard ""Josh"" Sessoms",Republican,30932.0,45.5,False,False
 2022,North Carolina,NC,State Senate,28,general,Gladys Robinson,Democratic,46455.0,73.05,True,True
@@ -1313,7 +1500,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,North Dakota,ND,State Senate,3,general,Bob Paulson,Republican,2941.0,100.0,True,False
 2022,North Dakota,ND,State Senate,5,general,Randy Burckhard,Republican,3795.0,100.0,True,True
 2022,North Dakota,ND,State Senate,6,general,Shawn Vedaa,Republican,5677.0,79.45,True,True
-2022,North Dakota,ND,State Senate,6,general,Robert Tolar,Independent (politician),1468.0,20.55,False,False
+2022,North Dakota,ND,State Senate,6,general,Robert Tolar,Independent,1468.0,20.55,False,False
 2022,North Dakota,ND,State Senate,7,general,Michelle Axtman,Republican,5386.0,100.0,True,False
 2022,North Dakota,ND,State Senate,8,general,Jeffery Magrum,Republican,5828.0,100.0,True,False
 2022,North Dakota,ND,State Senate,9,general,Kent Weston,Republican,2335.0,53.8,True,False
@@ -1347,7 +1534,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,North Dakota,ND,State Senate,36,general,Jay Elkin,Republican,3913.0,100.0,True,True
 2022,North Dakota,ND,State Senate,37,general,Dean Rummel,Republican,3468.0,100.0,True,False
 2022,North Dakota,ND,State Senate,39,general,Greg Kessel,Republican,4421.0,70.57,True,False
-2022,North Dakota,ND,State Senate,39,general,Thea Lee,Independent (politician),1844.0,29.43,False,False
+2022,North Dakota,ND,State Senate,39,general,Thea Lee,Independent,1844.0,29.43,False,False
 2022,North Dakota,ND,State Senate,41,general,Kyle Davison,Republican,4301.0,100.0,True,True
 2022,North Dakota,ND,State Senate,43,general,Jeff Barta,Republican,1963.0,53.04,True,False
 2022,North Dakota,ND,State Senate,43,general,JoNell Bakke,North Dakota Democratic-nonpartisan League,1738.0,46.96,False,True
@@ -1404,8 +1591,53 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,Oregon,OR,State Senate,26,general,Raz Mason,Democratic,27850.0,40.78,False,False
 2022,Pennsylvania,PA,State Senate,5,special general,Jimmy Dillon,Democratic,17339.0,56.69,True,False
 2022,Pennsylvania,PA,State Senate,5,special general,Sam Oropeza,Republican,13246.0,43.31,False,False
+2022,Pennsylvania,PA,State Senate,2,general,Christine Tartaglione,Democratic,36444.0,100.0,True,False
+2022,Pennsylvania,PA,State Senate,4,general,Arthur L. Haywood III,Democratic,95536.0,84.3,True,False
+2022,Pennsylvania,PA,State Senate,4,general,Todd Johnson,Republican,17749.0,15.7,False,False
+2022,Pennsylvania,PA,State Senate,6,general,Frank Farry,Republican,67234.0,52.7,True,False
+2022,Pennsylvania,PA,State Senate,6,general,Ann Marie Mitchell,Democratic,57012.0,44.7,False,False
+2022,Pennsylvania,PA,State Senate,6,general,Brandon Bentrim,Libertarian,1946.0,1.5,False,False
+2022,Pennsylvania,PA,State Senate,8,general,Anthony H. Williams,Democratic,63437.0,85.8,True,False
+2022,Pennsylvania,PA,State Senate,8,general,John Hayes,Republican,10542.0,14.2,False,False
+2022,Pennsylvania,PA,State Senate,10,general,Steve Santarsiero,Democratic,77125.0,57.8,True,False
+2022,Pennsylvania,PA,State Senate,10,general,Matthew McCullough,Republican,54684.0,41.0,False,False
+2022,Pennsylvania,PA,State Senate,12,general,Maria Collett,Democratic,77482.0,59.2,True,False
+2022,Pennsylvania,PA,State Senate,12,general,Rob Davies,Republican,52022.0,39.8,False,False
+2022,Pennsylvania,PA,State Senate,14,general,Nick Miller,Democratic,46444.0,52.8,True,False
+2022,Pennsylvania,PA,State Senate,14,general,Dean Browning,Republican,40360.0,45.9,False,False
+2022,Pennsylvania,PA,State Senate,16,general,Jarrett Coleman,Republican,68238.0,53.5,True,False
+2022,Pennsylvania,PA,State Senate,16,general,Mark Pinsley,Democratic,57703.0,45.2,False,False
+2022,Pennsylvania,PA,State Senate,18,general,Lisa Boscola,Democratic,61429.0,58.2,True,False
+2022,Pennsylvania,PA,State Senate,18,general,John Merhottein,Republican,42828.0,40.6,False,False
+2022,Pennsylvania,PA,State Senate,20,general,Lisa Baker,Republican,75599.0,67.0,True,False
+2022,Pennsylvania,PA,State Senate,20,general,Jackie Baker,Democratic,36114.0,32.0,False,False
+2022,Pennsylvania,PA,State Senate,22,general,Marty Flynn,Democratic,53999.0,59.8,True,False
+2022,Pennsylvania,PA,State Senate,24,general,Tracy Pennycuick,Republican,62883.0,51.5,True,False
+2022,Pennsylvania,PA,State Senate,24,general,Jill Dennin,Democratic,58017.0,47.5,False,False
+2022,Pennsylvania,PA,State Senate,26,general,Tim Kearney,Democratic,66404.0,59.4,True,False
+2022,Pennsylvania,PA,State Senate,26,general,Frank Agovino,Republican,44195.0,39.6,False,False
+2022,Pennsylvania,PA,State Senate,28,general,Kristin Phillips-Hill,Republican,74665.0,65.6,True,False
+2022,Pennsylvania,PA,State Senate,28,general,Judith McCormick Higgins,Democratic,36338.0,31.9,False,False
+2022,Pennsylvania,PA,State Senate,30,general,Judy Ward,Republican,76844.0,75.4,True,False
+2022,Pennsylvania,PA,State Senate,30,general,Carol Taylor,Democratic,24043.0,23.6,False,False
+2022,Pennsylvania,PA,State Senate,32,general,Patrick J. Stefano,Republican,76496.0,74.5,True,False
+2022,Pennsylvania,PA,State Senate,34,general,Greg Rothman,Republican,74233.0,62.9,True,False
+2022,Pennsylvania,PA,State Senate,34,general,Jim Massey,Democratic,42595.0,36.1,False,False
+2022,Pennsylvania,PA,State Senate,36,general,Ryan P. Aument,Republican,91710.0,100.0,True,False
+2022,Pennsylvania,PA,State Senate,38,general,Lindsey Williams,Democratic,69839.0,55.0,True,False
+2022,Pennsylvania,PA,State Senate,38,general,Lori Mizgorski,Republican,55808.0,44.0,False,False
+2022,Pennsylvania,PA,State Senate,40,general,Rosemary Brown,Republican,53795.0,54.5,True,False
+2022,Pennsylvania,PA,State Senate,40,general,Jennifer Shukaitis,Democratic,43557.0,44.1,False,False
+2022,Pennsylvania,PA,State Senate,42,general,Wayne D. Fontana,Democratic,85905.0,100.0,True,False
+2022,Pennsylvania,PA,State Senate,44,general,Katie Muth,Democratic,70782.0,55.0,True,False
+2022,Pennsylvania,PA,State Senate,44,general,Jessica Florio,Republican,56341.0,43.8,False,False
+2022,Pennsylvania,PA,State Senate,46,general,Camera C. Bartolotta,Republican,78289.0,100.0,True,False
+2022,Pennsylvania,PA,State Senate,48,general,Chris Gebhard,Republican,74120.0,67.7,True,False
+2022,Pennsylvania,PA,State Senate,48,general,Calvin Clements,Democratic,34263.0,31.3,False,False
+2022,Pennsylvania,PA,State Senate,50,general,Michele Brooks,Republican,75823.0,70.7,True,False
+2022,Pennsylvania,PA,State Senate,50,general,Rianna Czech,Democratic,30340.0,28.3,False,False
 2022,Rhode Island,RI,State Senate,1,general,Maryellen Goodwin,Democratic,3138.0,81.34,True,True
-2022,Rhode Island,RI,State Senate,1,general,Niyoka P. Powell,Independent (politician),720.0,18.66,False,False
+2022,Rhode Island,RI,State Senate,1,general,Niyoka P. Powell,Independent,720.0,18.66,False,False
 2022,Rhode Island,RI,State Senate,2,general,Ana B. Quezada,Democratic,2979.0,100.0,True,True
 2022,Rhode Island,RI,State Senate,3,general,Samuel D. Zurier,Democratic,7008.0,100.0,True,True
 2022,Rhode Island,RI,State Senate,4,general,Dominick J. Ruggerio,Democratic,6892.0,100.0,True,True
@@ -1421,21 +1653,21 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,Rhode Island,RI,State Senate,10,general,Allyn E. Meyers,Republican,4237.0,39.92,False,False
 2022,Rhode Island,RI,State Senate,11,general,Linda L. Ujifusa,Democratic,5708.0,54.94,True,False
 2022,Rhode Island,RI,State Senate,11,general,Kenneth J. Mendonca,Republican,3985.0,38.36,False,False
-2022,Rhode Island,RI,State Senate,11,general,Andrew V. Kelly,Independent (politician),375.0,3.61,False,False
-2022,Rhode Island,RI,State Senate,11,general,Mario J. Teixeira,Independent (politician),321.0,3.09,False,False
+2022,Rhode Island,RI,State Senate,11,general,Andrew V. Kelly,Independent,375.0,3.61,False,False
+2022,Rhode Island,RI,State Senate,11,general,Mario J. Teixeira,Independent,321.0,3.09,False,False
 2022,Rhode Island,RI,State Senate,12,general,Louis P. DiPalma,Democratic,7614.0,67.17,True,True
 2022,Rhode Island,RI,State Senate,12,general,Stephen J. Horridge,Republican,3722.0,32.83,False,False
 2022,Rhode Island,RI,State Senate,13,general,Dawn M. Euer,Democratic,6529.0,70.86,True,True
 2022,Rhode Island,RI,State Senate,13,general,David A. Quiroa,Republican,2685.0,29.14,False,False
 2022,Rhode Island,RI,State Senate,14,general,Valarie J. Lawson,Democratic,4856.0,59.91,True,True
 2022,Rhode Island,RI,State Senate,14,general,David V. O'Connell,Republican,2697.0,33.28,False,False
-2022,Rhode Island,RI,State Senate,14,general,Nicholas Alexander Ferrara,Independent (politician),552.0,6.81,False,False
+2022,Rhode Island,RI,State Senate,14,general,Nicholas Alexander Ferrara,Independent,552.0,6.81,False,False
 2022,Rhode Island,RI,State Senate,15,general,Meghan E. Kallman,Democratic,4953.0,81.05,True,True
 2022,Rhode Island,RI,State Senate,15,general,Barbara J. Quigley,Republican,1158.0,18.95,False,False
 2022,Rhode Island,RI,State Senate,16,general,Jonathon Acosta,Democratic,1572.0,71.88,True,True
-2022,Rhode Island,RI,State Senate,16,general,Elizabeth A. Crowley,Independent (politician),615.0,28.12,False,False
+2022,Rhode Island,RI,State Senate,16,general,Elizabeth A. Crowley,Independent,615.0,28.12,False,False
 2022,Rhode Island,RI,State Senate,17,general,Thomas J. Paolino,Republican,5314.0,46.84,True,True
-2022,Rhode Island,RI,State Senate,17,general,"John W. Lyle, Jr.",Independent (politician),3178.0,28.01,False,False
+2022,Rhode Island,RI,State Senate,17,general,"John W. Lyle, Jr.",Independent,3178.0,28.01,False,False
 2022,Rhode Island,RI,State Senate,17,general,Cameron Joseph Deutsch,Democratic,2852.0,25.14,False,False
 2022,Rhode Island,RI,State Senate,18,general,Robert Britto,Democratic,5268.0,66.06,True,False
 2022,Rhode Island,RI,State Senate,18,general,Anna Maria Peters,Republican,2706.0,33.94,False,False
@@ -1472,12 +1704,12 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,Rhode Island,RI,State Senate,36,general,Patrick W. Murray,Republican,6317.0,42.71,False,False
 2022,Rhode Island,RI,State Senate,37,general,Virginia S. Sosnowski,Democratic,6077.0,57.8,True,True
 2022,Rhode Island,RI,State Senate,37,general,Raymond E. Gardner,Republican,3084.0,29.34,False,False
-2022,Rhode Island,RI,State Senate,37,general,Anita Norton Jacobson,Independent (politician),1352.0,12.86,False,False
+2022,Rhode Island,RI,State Senate,37,general,Anita Norton Jacobson,Independent,1352.0,12.86,False,False
 2022,Rhode Island,RI,State Senate,38,general,Victoria Gu,Democratic,5957.0,46.47,True,False
 2022,Rhode Island,RI,State Senate,38,general,Westin J. Place,Republican,3524.0,27.49,False,False
-2022,Rhode Island,RI,State Senate,38,general,"Caswell Cooke, Jr.",Independent (politician),3339.0,26.05,False,False
+2022,Rhode Island,RI,State Senate,38,general,"Caswell Cooke, Jr.",Independent,3339.0,26.05,False,False
 2022,South Dakota,SD,State Senate,1,general,Michael H. Rohl,Republican,6098.0,58.9,True,True
-2022,South Dakota,SD,State Senate,1,general,Susan Wismer,Independent (politician),4256.0,41.1,False,False
+2022,South Dakota,SD,State Senate,1,general,Susan Wismer,Independent,4256.0,41.1,False,False
 2022,South Dakota,SD,State Senate,2,general,Steve Kolbeck,Republican,7810.0,100.0,True,False
 2022,South Dakota,SD,State Senate,3,general,Al Novstrup,Republican,5698.0,100.0,True,True
 2022,South Dakota,SD,State Senate,4,general,John Wiik,Republican,8917.0,100.0,True,True
@@ -1493,14 +1725,14 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,South Dakota,SD,State Senate,12,general,Arch Beal,Republican,4950.0,53.88,True,False
 2022,South Dakota,SD,State Senate,12,general,Jessica Meyers,Democratic,4237.0,46.12,False,False
 2022,South Dakota,SD,State Senate,13,general,Jack Kolbeck,Republican,7345.0,70.21,True,True
-2022,South Dakota,SD,State Senate,13,general,Lora Hubbel,Independent (politician),3116.0,29.79,False,False
+2022,South Dakota,SD,State Senate,13,general,Lora Hubbel,Independent,3116.0,29.79,False,False
 2022,South Dakota,SD,State Senate,14,general,Larry P. Zikmund,Republican,5854.0,53.93,True,True
 2022,South Dakota,SD,State Senate,14,general,Matthew Tysdal,Democratic,5001.0,46.07,False,False
 2022,South Dakota,SD,State Senate,15,general,Reynold F. Nesiba,Democratic,3697.0,52.76,True,True
 2022,South Dakota,SD,State Senate,15,general,Brenda Lawrence,Republican,3310.0,47.24,False,False
 2022,South Dakota,SD,State Senate,16,general,Jim Bolin,Republican,6770.0,66.2,True,True
 2022,South Dakota,SD,State Senate,16,general,Donn Larson,Democratic,2610.0,25.52,False,False
-2022,South Dakota,SD,State Senate,16,general,Brian J. Burge,Independent (politician),847.0,8.28,False,False
+2022,South Dakota,SD,State Senate,16,general,Brian J. Burge,Independent,847.0,8.28,False,False
 2022,South Dakota,SD,State Senate,17,general,Sydney Davis,Republican,5997.0,100.0,True,False
 2022,South Dakota,SD,State Senate,18,general,Jean M. Hunhoff,Republican,5748.0,65.03,True,True
 2022,South Dakota,SD,State Senate,18,general,Fredrick Bender,Democratic,3091.0,34.97,False,False
@@ -1618,7 +1850,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,Utah,UT,State Senate,7,general,J. Stuart Adams,Republican,27309.0,71.94,True,True
 2022,Utah,UT,State Senate,7,general,Kimberly Wagner,United Utah,10651.0,28.06,False,False
 2022,Utah,UT,State Senate,9,general,Jen Plumb,Democratic,32817.0,99.36,True,False
-2022,Utah,UT,State Senate,9,general,Vance Hansen (write-in),Independent (politician),213.0,0.64,False,False
+2022,Utah,UT,State Senate,9,general,Vance Hansen (write-in),Independent,213.0,0.64,False,False
 2022,Utah,UT,State Senate,11,general,Daniel Thatcher,Republican,24680.0,100.0,True,True
 2022,Utah,UT,State Senate,12,general,Karen Mayne,Democratic,13450.0,57.23,True,True
 2022,Utah,UT,State Senate,12,general,Linda L. Paulson,Republican,10051.0,42.77,False,False
@@ -1640,37 +1872,107 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,Utah,UT,State Senate,28,general,Evan Vickers,Republican,30147.0,80.89,True,True
 2022,Utah,UT,State Senate,28,general,Barry Evan Short,Libertarian,3766.0,10.11,False,False
 2022,Utah,UT,State Senate,28,general,Patricia A. Bradford,United Utah,3354.0,9.0,False,False
-2022,Vermont,VT,State Senate,ADDISON SENATE,general,Christopher Bray,Democratic,11898.0,33.8,True,True
-2022,Vermont,VT,State Senate,ADDISON SENATE,general,Ruth Hardy,Democratic,11732.0,33.3,True,True
-2022,Vermont,VT,State Senate,ADDISON SENATE,general,Lloyd Dike,Republican,5766.0,16.4,False,False
-2022,Vermont,VT,State Senate,ADDISON SENATE,general,Robert Burton,Republican,4951.0,14.0,False,False
-2022,Vermont,VT,State Senate,ADDISON SENATE,general,Mason Wade,Independent,846.0,2.4,False,False
-2022,Vermont,VT,State Senate,BENNINGTON SENATE,general,Dick Sears,Democratic/republican,12181.0,51.1,True,True
-2022,Vermont,VT,State Senate,BENNINGTON SENATE,general,Brian Campion,Democratic,11326.0,47.6,True,True
-2022,Vermont,VT,State Senate,CALEDONIA SENATE,general,Jane Kitchel,Democratic,6210.0,63.4,True,True
-2022,Vermont,VT,State Senate,CALEDONIA SENATE,general,J.T. Dodge,Republican,3565.0,36.4,False,False
-2022,Vermont,VT,State Senate,ESSEX SENATE,general,Russ Ingalls,Republican/democratic,6485.0,95.3,True,True
-2022,Vermont,VT,State Senate,FRANKLIN SENATE,general,Randy Brock,Republican,9522.0,33.1,True,True
-2022,Vermont,VT,State Senate,FRANKLIN SENATE,general,Robert Norris,Republican,8528.0,29.6,True,False
-2022,Vermont,VT,State Senate,FRANKLIN SENATE,general,Pam McCarthy,Democratic,6716.0,23.3,False,False
-2022,Vermont,VT,State Senate,FRANKLIN SENATE,general,Jessie Palczewski,Democratic,3963.0,13.8,False,False
-2022,Vermont,VT,State Senate,GRAND ISLE SENATE,general,Richard Mazza,Democratic,7209.0,73.0,True,True
-2022,Vermont,VT,State Senate,GRAND ISLE SENATE,general,Stephen Bellows,Republican,2629.0,26.6,False,False
-2022,Vermont,VT,State Senate,LAMOILLE SENATE,general,Richard Westman,Republican/democratic,8003.0,97.5,True,True
-2022,Vermont,VT,State Senate,ORLEANS SENATE,general,Robert Starr,Democratic,5286.0,58.1,True,True
-2022,Vermont,VT,State Senate,ORLEANS SENATE,general,Samuel Douglass,Republican,3791.0,41.7,False,False
-2022,Vermont,VT,State Senate,RUTLAND SENATE,general,Brian Collamore,Republican,13878.0,21.0,True,True
-2022,Vermont,VT,State Senate,RUTLAND SENATE,general,Terry Williams,Republican,11453.0,17.3,True,False
-2022,Vermont,VT,State Senate,RUTLAND SENATE,general,Dave Weeks,Republican,10703.0,16.2,True,False
-2022,Vermont,VT,State Senate,RUTLAND SENATE,general,Anna Tadio,Democratic,10453.0,15.8,False,False
-2022,Vermont,VT,State Senate,RUTLAND SENATE,general,Bridgette Remington,Democratic,10134.0,15.3,False,False
-2022,Vermont,VT,State Senate,RUTLAND SENATE,general,Joshua Ferguson,Democratic,9359.0,14.2,False,False
-2022,Vermont,VT,State Senate,WINDSOR SENATE,general,Alison Clarkson,Democratic,17042.0,23.4,True,True
-2022,Vermont,VT,State Senate,WINDSOR SENATE,general,Rebecca White,Democratic,16740.0,22.9,True,False
-2022,Vermont,VT,State Senate,WINDSOR SENATE,general,Richard McCormack,Democratic,16539.0,22.7,True,True
-2022,Vermont,VT,State Senate,WINDSOR SENATE,general,Alice Flanders,Republican,7737.0,10.6,False,False
-2022,Vermont,VT,State Senate,WINDSOR SENATE,general,Dana Colson,Republican,7586.0,10.4,False,False
-2022,Vermont,VT,State Senate,WINDSOR SENATE,general,Bill Huff,Republican,7184.0,9.8,False,False
+2022,Vermont,VT,State Senate,ADDISON,general,Christopher Bray,Democratic,11898.0,33.8,True,True
+2022,Vermont,VT,State Senate,ADDISON,general,Ruth Hardy,Democratic,11732.0,33.3,True,True
+2022,Vermont,VT,State Senate,ADDISON,general,Lloyd Dike,Republican,5766.0,16.4,False,False
+2022,Vermont,VT,State Senate,ADDISON,general,Robert Burton,Republican,4951.0,14.0,False,False
+2022,Vermont,VT,State Senate,ADDISON,general,Mason Wade,Independent,846.0,2.4,False,False
+2022,Vermont,VT,State Senate,BENNINGTON,general,Dick Sears,Democratic/republican,12181.0,51.1,True,True
+2022,Vermont,VT,State Senate,BENNINGTON,general,Brian Campion,Democratic,11326.0,47.6,True,True
+2022,Vermont,VT,State Senate,CALEDONIA,general,Jane Kitchel,Democratic,6210.0,63.4,True,True
+2022,Vermont,VT,State Senate,CALEDONIA,general,J.T. Dodge,Republican,3565.0,36.4,False,False
+2022,Vermont,VT,State Senate,CHITTENDEN CENTRAL,general,Phil Baruth,Democratic/progressive,15187.0,31.5,True,True
+2022,Vermont,VT,State Senate,CHITTENDEN CENTRAL,general,Martine Gulick,Democratic,14007.0,29.0,True,False
+2022,Vermont,VT,State Senate,CHITTENDEN CENTRAL,general,Tanya Vyhovsky,Progressive/democratic,12377.0,25.7,True,False
+2022,Vermont,VT,State Senate,CHITTENDEN CENTRAL,general,Infinite Culcleasure,Independent,5327.0,11.0,False,False
+2022,Vermont,VT,State Senate,CHITTENDEN NORTH,general,Irene Wrenner,Democratic,5173.0,51.3,True,False
+2022,Vermont,VT,State Senate,CHITTENDEN NORTH,general,Leland Morgan,Republican,4858.0,48.1,False,False
+2022,Vermont,VT,State Senate,CHITTENDEN SOUTHEAST,general,Kesha Ram Hinsdale,Democratic/progressive,30923.0,32.1,True,True
+2022,Vermont,VT,State Senate,CHITTENDEN SOUTHEAST,general,Thomas Chittenden,Democratic,25689.0,26.6,True,True
+2022,Vermont,VT,State Senate,CHITTENDEN SOUTHEAST,general,Ginny Lyons,Democratic,24202.0,25.1,True,True
+2022,Vermont,VT,State Senate,CHITTENDEN SOUTHEAST,general,Dean Rolland,Republican,8537.0,8.9,False,False
+2022,Vermont,VT,State Senate,CHITTENDEN SOUTHEAST,general,Rohan St. Marthe,Republican,6853.0,7.1,False,False
+2022,Vermont,VT,State Senate,ESSEX,general,Russ Ingalls,Republican/democratic,6485.0,95.3,True,True
+2022,Vermont,VT,State Senate,FRANKLIN,general,Randy Brock,Republican,9522.0,33.1,True,True
+2022,Vermont,VT,State Senate,FRANKLIN,general,Robert Norris,Republican,8528.0,29.6,True,False
+2022,Vermont,VT,State Senate,FRANKLIN,general,Pam McCarthy,Democratic,6716.0,23.3,False,False
+2022,Vermont,VT,State Senate,FRANKLIN,general,Jessie Palczewski,Democratic,3963.0,13.8,False,False
+2022,Vermont,VT,State Senate,GRAND ISLE,general,Richard Mazza,Democratic,7209.0,73.0,True,True
+2022,Vermont,VT,State Senate,GRAND ISLE,general,Stephen Bellows,Republican,2629.0,26.6,False,False
+2022,Vermont,VT,State Senate,LAMOILLE,general,Richard Westman,Republican/democratic,8003.0,97.5,True,True
+2022,Vermont,VT,State Senate,ORANGE,general,Mark MacDonald,Democratic,5683.0,55.4,True,True
+2022,Vermont,VT,State Senate,ORANGE,general,John Klar,Republican,4516.0,44.1,False,False
+2022,Vermont,VT,State Senate,ORLEANS,general,Robert Starr,Democratic,5286.0,58.1,True,True
+2022,Vermont,VT,State Senate,ORLEANS,general,Samuel Douglass,Republican,3791.0,41.7,False,False
+2022,Vermont,VT,State Senate,RUTLAND,general,Brian Collamore,Republican,13878.0,21.0,True,True
+2022,Vermont,VT,State Senate,RUTLAND,general,Terry Williams,Republican,11453.0,17.3,True,False
+2022,Vermont,VT,State Senate,RUTLAND,general,Dave Weeks,Republican,10703.0,16.2,True,False
+2022,Vermont,VT,State Senate,RUTLAND,general,Anna Tadio,Democratic,10453.0,15.8,False,False
+2022,Vermont,VT,State Senate,RUTLAND,general,Bridgette Remington,Democratic,10134.0,15.3,False,False
+2022,Vermont,VT,State Senate,RUTLAND,general,Joshua Ferguson,Democratic,9359.0,14.2,False,False
+2022,Vermont,VT,State Senate,WASHINGTON,general,Ann Cummings,Democratic,20507.0,26.2,True,True
+2022,Vermont,VT,State Senate,WASHINGTON,general,Anne Watson,Democratic/progressive,17860.0,22.9,True,False
+2022,Vermont,VT,State Senate,WASHINGTON,general,Andrew Perchlik,Democratic/progressive,16521.0,21.1,True,True
+2022,Vermont,VT,State Senate,WASHINGTON,general,Paul Bean,Republican,9738.0,12.5,False,False
+2022,Vermont,VT,State Senate,WASHINGTON,general,Dwayne Tucker,Republican,8376.0,10.7,False,False
+2022,Vermont,VT,State Senate,WASHINGTON,general,Dexter Lefavour,Republican/libertarian,4931.0,6.3,False,False
+2022,Vermont,VT,State Senate,WINDHAM,general,Wendy Harrison,Democratic,10968.0,34.2,True,False
+2022,Vermont,VT,State Senate,WINDHAM,general,Nader Hashim,Democratic,9997.0,31.2,True,False
+2022,Vermont,VT,State Senate,WINDHAM,general,Tim Wessel,Independent,3677.0,11.5,False,False
+2022,Vermont,VT,State Senate,WINDHAM,general,Richard Morton,Republican,3249.0,10.1,False,False
+2022,Vermont,VT,State Senate,WINDHAM,general,Richard Kenyon,Republican,3082.0,9.6,False,False
+2022,Vermont,VT,State Senate,WINDHAM,general,Mark Coester,Independent,1036.0,3.2,False,False
+2022,Vermont,VT,State Senate,WINDSOR,general,Alison Clarkson,Democratic,17042.0,23.4,True,True
+2022,Vermont,VT,State Senate,WINDSOR,general,Rebecca White,Democratic,16740.0,22.9,True,False
+2022,Vermont,VT,State Senate,WINDSOR,general,Richard McCormack,Democratic,16539.0,22.7,True,True
+2022,Vermont,VT,State Senate,WINDSOR,general,Alice Flanders,Republican,7737.0,10.6,False,False
+2022,Vermont,VT,State Senate,WINDSOR,general,Dana Colson,Republican,7586.0,10.4,False,False
+2022,Vermont,VT,State Senate,WINDSOR,general,Bill Huff,Republican,7184.0,9.8,False,False
+2022,Washington,WA,State Senate,6,general,Jeff Holy,Republican,42277.0,94.51,True,True
+2022,Washington,WA,State Senate,7,general,Shelly Short,Republican,51661.0,96.93,True,True
+2022,Washington,WA,State Senate,8,general,Matt Boehnke,Republican,40808.0,71.7,True,False
+2022,Washington,WA,State Senate,8,general,Ronni Batchelor,Independent,15960.0,28.04,False,False
+2022,Washington,WA,State Senate,13,general,Judy Warnick,Republican,41785.0,97.11,True,True
+2022,Washington,WA,State Senate,15,general,Nikki Torres,Republican,15686.0,67.68,True,False
+2022,Washington,WA,State Senate,15,general,Lindsey Keesling,Democratic,7437.0,32.09,False,False
+2022,Washington,WA,State Senate,21,general,Marko Liias,Democratic,36363.0,63.25,True,True
+2022,Washington,WA,State Senate,21,general,Janelle Cass,Republican,21069.0,36.65,False,False
+2022,Washington,WA,State Senate,26,general,Emily Randall,Democratic,38222.0,50.79,True,True
+2022,Washington,WA,State Senate,26,general,Jesse L. Young,Republican,36946.0,49.09,False,False
+2022,Washington,WA,State Senate,27,general,Yasmin Trudeau,Democratic,41035.0,70.54,True,False
+2022,Washington,WA,State Senate,27,general,Ashley M. Ray,Republican,17074.0,29.35,False,False
+2022,Washington,WA,State Senate,29,general,Steve Conway,Democratic,22622.0,59.03,True,True
+2022,Washington,WA,State Senate,29,general,Terry Harder,Republican,15631.0,40.79,False,False
+2022,Washington,WA,State Senate,30,general,Claire Wilson,Democratic,23282.0,55.21,True,True
+2022,Washington,WA,State Senate,30,general,Linda Kochmar,Republican,18833.0,44.66,False,False
+2022,Washington,WA,State Senate,31,general,Phil Fortunato,Republican,35764.0,55.81,True,True
+2022,Washington,WA,State Senate,31,general,Chris Vance,Independent,28053.0,43.78,False,False
+2022,Washington,WA,State Senate,32,general,Jesse Salomon,Democratic,43240.0,74.82,True,True
+2022,Washington,WA,State Senate,32,general,Patricia Weber,Democratic,13159.0,22.77,False,False
+2022,Washington,WA,State Senate,33,general,Karen Keiser,Democratic,30332.0,69.12,True,True
+2022,Washington,WA,State Senate,33,general,Marliza Melzer,Republican,13486.0,30.73,False,False
+2022,Washington,WA,State Senate,34,general,Joe Nguyen,Democratic,59713.0,86.06,True,True
+2022,Washington,WA,State Senate,34,general,John Potter,Republican,9570.0,13.79,False,False
+2022,Washington,WA,State Senate,35,general,Drew MacEwen,Republican,41828.0,56.06,True,False
+2022,Washington,WA,State Senate,35,general,Julianne Gale,Democratic,32705.0,43.84,False,False
+2022,Washington,WA,State Senate,36,general,Noel Frame,Democratic,61783.0,83.6,True,False
+2022,Washington,WA,State Senate,36,general,Kate Martin,Democratic,11700.0,15.83,False,False
+2022,Washington,WA,State Senate,37,general,Rebecca Saldaña,Democratic,49271.0,98.45,True,True
+2022,Washington,WA,State Senate,38,general,June Robinson,Democratic,30093.0,58.1,True,True
+2022,Washington,WA,State Senate,38,general,Bernard Moody,Republican,21627.0,41.76,False,False
+2022,Washington,WA,State Senate,42,general,Sharon Shewmake,Democratic,38098.0,50.55,True,False
+2022,Washington,WA,State Senate,42,general,Simon Sefzik,Republican,37193.0,49.35,False,True
+2022,Washington,WA,State Senate,43,general,Jamie Pedersen,Democratic,50957.0,98.55,True,True
+2022,Washington,WA,State Senate,44,general,John Lovick,Democratic,37226.0,58.77,True,True
+2022,Washington,WA,State Senate,44,general,Jeb Brewer,Republican,26062.0,41.14,False,False
+2022,Washington,WA,State Senate,45,general,Manka Dhingra,Democratic,41391.0,62.87,True,True
+2022,Washington,WA,State Senate,45,general,Ryika Hooshangi,Republican,24354.0,36.99,False,False
+2022,Washington,WA,State Senate,46,general,Javier Valdez,Democratic,55915.0,84.89,True,False
+2022,Washington,WA,State Senate,46,general,Matthew Gross,Democratic,9531.0,14.47,False,False
+2022,Washington,WA,State Senate,47,general,Claudia Kauffman,Democratic,26251.0,52.7,True,False
+2022,Washington,WA,State Senate,47,general,Bill Boyce,Republican,23502.0,47.19,False,False
+2022,Washington,WA,State Senate,48,general,Patty Kuderer,Democratic,33208.0,70.58,True,True
+2022,Washington,WA,State Senate,48,general,Michelle Darnell,Republican,13795.0,29.32,False,False
 2022,West Virginia,WV,State Senate,1,general,Laura Chapman,Republican,18746.0,60.5,True,False
 2022,West Virginia,WV,State Senate,1,general,Randy Swartzmiller,Democratic,12258.0,39.5,False,False
 2022,West Virginia,WV,State Senate,2,general,Charles Clements,Republican,18720.0,62.5,True,True
@@ -1754,7 +2056,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2022,Wyoming,WY,State Senate,21,general,Bo Biteman,Republican,5815.0,73.18,True,True
 2022,Wyoming,WY,State Senate,21,general,Mark Hansen,Democratic,2101.0,26.44,False,False
 2022,Wyoming,WY,State Senate,23,general,Eric Barlow,Republican,3611.0,72.35,True,False
-2022,Wyoming,WY,State Senate,23,general,Patricia Junek,Independent (politician),1369.0,27.43,False,False
+2022,Wyoming,WY,State Senate,23,general,Patricia Junek,Independent,1369.0,27.43,False,False
 2022,Wyoming,WY,State Senate,25,general,Cale Case,Republican,4365.0,89.01,True,True
 2022,Wyoming,WY,State Senate,27,general,Bill Landen,Republican,4477.0,97.5,True,True
 2022,Wyoming,WY,State Senate,29,general,Bob Ide,Republican,4402.0,91.44,True,False

@@ -1,0 +1,82 @@
+year,state,state_code,chamber,district,race,candidate,party,votes,percentage,winner,incumbent
+2021,New Jersey,NJ,State Senate,1,general,Michael Testa,Republican,42438,64.59,True,True
+2021,New Jersey,NJ,State Senate,1,general,Yolanda E. Garcia Balicki,Democratic,23269,35.41,False,False
+2021,New Jersey,NJ,State Senate,2,general,Vince Polistina,Republican,31488,51.87,True,False
+2021,New Jersey,NJ,State Senate,2,general,Vince Mazzeo,Democratic,29213,48.13,False,False
+2021,New Jersey,NJ,State Senate,3,general,Edward Durr,Republican,33761,51.68,True,False
+2021,New Jersey,NJ,State Senate,3,general,Steve Sweeney,Democratic,31562,48.32,False,True
+2021,New Jersey,NJ,State Senate,4,general,Fred H. Madden,Democratic,38062,54.42,True,True
+2021,New Jersey,NJ,State Senate,4,general,Stephen H. Pakradooni Jr.,Republican,31878,45.58,False,False
+2021,New Jersey,NJ,State Senate,5,general,Nilsa Cruz-Perez,Democratic,31246,57.7,True,True
+2021,New Jersey,NJ,State Senate,5,general,Clyde Cook,Republican,22903,42.3,False,False
+2021,New Jersey,NJ,State Senate,6,general,James Beach,Democratic,48508,64.85,True,True
+2021,New Jersey,NJ,State Senate,6,general,John Foley,Republican,26292,35.15,False,False
+2021,New Jersey,NJ,State Senate,7,general,Troy Singleton,Democratic,46619,62.29,True,True
+2021,New Jersey,NJ,State Senate,7,general,Michelle Arnold,Republican,28226,37.71,False,False
+2021,New Jersey,NJ,State Senate,8,general,Jean Stanfield,Republican,39648,51.11,True,False
+2021,New Jersey,NJ,State Senate,8,general,Dawn Marie Addiego,Democratic,37927,48.89,False,True
+2021,New Jersey,NJ,State Senate,9,general,Christopher J. Connors,Republican,62401,69.4,True,True
+2021,New Jersey,NJ,State Senate,9,general,David T. Wright,Democratic,26818,29.82,False,False
+2021,New Jersey,NJ,State Senate,9,general,Regina Discenza,Unaffiliated Best Choice,701,0.78,False,False
+2021,New Jersey,NJ,State Senate,10,general,Jim Holzapfel,Republican,57021,68.99,True,True
+2021,New Jersey,NJ,State Senate,10,general,Emma Mammano,Democratic,25635,31.01,False,False
+2021,New Jersey,NJ,State Senate,11,general,Vin Gopal,Democratic,36978,51.88,True,True
+2021,New Jersey,NJ,State Senate,11,general,Lori L. Annetta,Republican,34296,48.12,False,False
+2021,New Jersey,NJ,State Senate,12,general,Samuel D. Thompson,Republican,46897,64.94,True,True
+2021,New Jersey,NJ,State Senate,12,general,Joseph Altomonte,Democratic,25321,35.06,False,False
+2021,New Jersey,NJ,State Senate,13,general,Declan O'Scanlon,Republican,53599,61.45,True,True
+2021,New Jersey,NJ,State Senate,13,general,Vincent Solomeno III,Democratic,33627,38.55,False,False
+2021,New Jersey,NJ,State Senate,14,general,Linda R. Greenstein,Democratic,40735,55.16,True,True
+2021,New Jersey,NJ,State Senate,14,general,Adam J. Elias,Republican,33116,44.84,False,False
+2021,New Jersey,NJ,State Senate,15,general,Shirley K. Turner,Democratic,38627,72.18,True,True
+2021,New Jersey,NJ,State Senate,15,general,Susan Gaul,Republican,14886,27.82,False,False
+2021,New Jersey,NJ,State Senate,16,general,Andrew Zwicker,Democratic,41837,53.32,True,False
+2021,New Jersey,NJ,State Senate,16,general,Michael Pappas,Republican,36632,46.68,False,False
+2021,New Jersey,NJ,State Senate,17,general,Bob Smith,Democratic,32455,69.11,True,True
+2021,New Jersey,NJ,State Senate,17,general,James A. Abate,Republican,14505,30.89,False,False
+2021,New Jersey,NJ,State Senate,18,general,Patrick J. Diegnan,Democratic,35637,60.63,True,True
+2021,New Jersey,NJ,State Senate,18,general,Vihal R. Patel,Republican,23144,39.37,False,False
+2021,New Jersey,NJ,State Senate,19,general,Joseph F. Vitale,Democratic,27767,59.9,True,True
+2021,New Jersey,NJ,State Senate,19,general,"Pedro ""Peter"" Pisar",Republican,18585,40.1,False,False
+2021,New Jersey,NJ,State Senate,20,general,Joseph Cryan,Democratic,26603,100.0,True,True
+2021,New Jersey,NJ,State Senate,21,general,Jon Bramnick,Republican,44254,53.65,True,False
+2021,New Jersey,NJ,State Senate,21,general,Joseph Signorello III,Democratic,38237,46.35,False,False
+2021,New Jersey,NJ,State Senate,22,general,Nicholas P. Scutari,Democratic,32044,61.45,True,True
+2021,New Jersey,NJ,State Senate,22,general,William H. Michelson,Republican,20100,38.55,False,False
+2021,New Jersey,NJ,State Senate,23,general,Michael J. Doherty,Republican,46554,60.95,True,True
+2021,New Jersey,NJ,State Senate,23,general,Denise T. King,Democratic,29830,39.05,False,False
+2021,New Jersey,NJ,State Senate,24,general,Steven V. Oroho,Republican,52628,69.37,True,True
+2021,New Jersey,NJ,State Senate,24,general,Frederick P. Cook,Democratic,23240,30.63,False,False
+2021,New Jersey,NJ,State Senate,25,general,Anthony M. Bucco,Republican,43758,57.47,True,True
+2021,New Jersey,NJ,State Senate,25,general,Jeffrey Grayzel,Democratic,32381,42.53,False,False
+2021,New Jersey,NJ,State Senate,26,general,Joe Pennacchio,Republican,46057,58.94,True,True
+2021,New Jersey,NJ,State Senate,26,general,Christine Clarke,Democratic,32087,41.06,False,False
+2021,New Jersey,NJ,State Senate,27,general,Richard J. Codey,Democratic,50604,64.87,True,True
+2021,New Jersey,NJ,State Senate,27,general,Adam Kraemer,Republican,27409,35.13,False,False
+2021,New Jersey,NJ,State Senate,28,general,Ronald L. Rice,Democratic,33104,77.92,True,True
+2021,New Jersey,NJ,State Senate,28,general,Frank Contella,Republican,9383,22.08,False,False
+2021,New Jersey,NJ,State Senate,29,general,M. Teresa Ruiz,Democratic,20706,100.0,True,True
+2021,New Jersey,NJ,State Senate,30,general,Robert W. Singer,Republican,53130,71.19,True,True
+2021,New Jersey,NJ,State Senate,30,general,Dan Stinger,Democratic,21506,28.81,False,False
+2021,New Jersey,NJ,State Senate,31,general,Sandra B. Cunningham,Democratic,26699,75.28,True,True
+2021,New Jersey,NJ,State Senate,31,general,Neil A. Schulman,Republican,8769,24.72,False,False
+2021,New Jersey,NJ,State Senate,32,general,Nicholas J. Sacco,Democratic,23839,71.17,True,True
+2021,New Jersey,NJ,State Senate,32,general,Juan Barbadillo,Republican,9659,28.83,False,False
+2021,New Jersey,NJ,State Senate,33,general,Brian P. Stack,Democratic,37059,85.14,True,True
+2021,New Jersey,NJ,State Senate,33,general,Agha Khan,Republican,6466,14.86,False,False
+2021,New Jersey,NJ,State Senate,34,general,Nia H. Gill,Democratic,37239,78.73,True,True
+2021,New Jersey,NJ,State Senate,34,general,Scott Pollack,Republican,10060,21.27,False,False
+2021,New Jersey,NJ,State Senate,35,general,Nelida Pou,Democratic,20464,68.59,True,True
+2021,New Jersey,NJ,State Senate,35,general,Kenneth Pengitore,Republican,9372,31.41,False,False
+2021,New Jersey,NJ,State Senate,36,general,Paul A. Sarlo,Democratic,25373,56.86,True,True
+2021,New Jersey,NJ,State Senate,36,general,Chris Auriemma,Republican,19252,43.14,False,False
+2021,New Jersey,NJ,State Senate,37,general,Gordon M. Johnson,Democratic,34410,67.04,True,False
+2021,New Jersey,NJ,State Senate,37,general,Michael W. Koontz,Republican,16155,31.48,False,False
+2021,New Jersey,NJ,State Senate,37,general,Glenn Coley,New Directions,759,1.48,False,False
+2021,New Jersey,NJ,State Senate,38,general,Joseph A. Lagana,Democratic,34895,52.9,True,True
+2021,New Jersey,NJ,State Senate,38,general,Richard Garcia,Republican,31069,47.1,False,False
+2021,New Jersey,NJ,State Senate,39,general,Holly Schepisi,Republican,45985,57.16,True,True
+2021,New Jersey,NJ,State Senate,39,general,Ruth Dugan,Democratic,34065,42.34,False,False
+2021,New Jersey,NJ,State Senate,39,general,James Tosone,Libertarian,403,0.5,False,False
+2021,New Jersey,NJ,State Senate,40,general,Kristin M. Corrado,Republican,47230,60.97,True,True
+2021,New Jersey,NJ,State Senate,40,general,Michael A. Sedon,Democratic,30237,39.03,False,False

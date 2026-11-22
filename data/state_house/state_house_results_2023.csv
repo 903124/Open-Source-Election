@@ -1,0 +1,710 @@
+year,state,state_code,chamber,district,race,candidate,party,votes,percentage,winner,incumbent
+2023,Louisiana,LA,State House,1,general,Danny McCormick,Republican,6184.0,66.37,True,True
+2023,Louisiana,LA,State House,1,general,Randall Liles,Republican,3134.0,33.63,False,False
+2023,Louisiana,LA,State House,2,general,Steven Jackson,Democratic,2666.0,51.55,True,False
+2023,Louisiana,LA,State House,2,general,Terence Vinson,Democratic,2506.0,48.45,False,False
+2023,Louisiana,LA,State House,3,general,Tammy Phelps,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,4,general,Joy Walters,Democratic,6351.0,53.94,True,False
+2023,Louisiana,LA,State House,4,general,Jasmine Green,Democratic,5725.0,46.16,True,False
+2023,Louisiana,LA,State House,4,general,Lyndon Johnson,Democratic,2288.0,32.77,False,False
+2023,Louisiana,LA,State House,5,general,Dennis Bamburg Jr.,Republican,,100.0,True,False
+2023,Louisiana,LA,State House,6,general,Michael Melerine,Republican,7174.0,68.08,True,False
+2023,Louisiana,LA,State House,6,general,Robert Darrow,Democratic,2968.0,28.17,False,False
+2023,Louisiana,LA,State House,6,general,Evan McMichael,Unaffiliated,395.0,3.75,False,False
+2023,Louisiana,LA,State House,7,general,Larry Bagley,Republican,7524.0,61.25,True,True
+2023,Louisiana,LA,State House,7,general,Tim Pruitt,Republican,4761.0,38.75,False,False
+2023,Louisiana,LA,State House,8,general,Raymond Crews,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,9,general,Dodie Horton,Republican,4392.0,60.07,True,True
+2023,Louisiana,LA,State House,9,general,Chris Turner,Republican,2919.0,39.93,False,False
+2023,Louisiana,LA,State House,10,general,Wayne McMahen,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,11,general,Rashid Young,Democratic,,100.0,True,False
+2023,Louisiana,LA,State House,12,general,Christopher Turner,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,13,general,Jack McFarland,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,14,general,Michael Echols,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,15,general,Foy Gadberry,Republican,5340.0,54.51,True,True
+2023,Louisiana,LA,State House,15,general,Randall Robinson,Republican,4457.0,45.49,False,False
+2023,Louisiana,LA,State House,16,general,Adrian Fisher,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,17,general,Pat Moore,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,18,general,Jeremy LaCombe,Republican,12989.0,55.45,True,True
+2023,Louisiana,LA,State House,18,general,Tammi Fabre,Republican,10933.0,37.99,True,False
+2023,Louisiana,LA,State House,18,general,Shanda Paul,Democratic,2791.0,18.93,False,False
+2023,Louisiana,LA,State House,19,general,Francis Thompson,Republican,8622.0,77.93,True,True
+2023,Louisiana,LA,State House,19,general,Norm Davis,Independent,2442.0,22.07,False,False
+2023,Louisiana,LA,State House,20,general,Neil Riser,Republican,7732.0,57.19,True,True
+2023,Louisiana,LA,State House,20,general,Kevin Bates,Republican,5788.0,42.81,False,False
+2023,Louisiana,LA,State House,21,general,C. Travis Johnson,Democratic,10066.0,48.83,True,False
+2023,Louisiana,LA,State House,21,general,Jamie Davis Jr.,Democratic,4755.0,43.98,True,False
+2023,Louisiana,LA,State House,21,general,Clark White Jr.,Democratic,777.0,7.19,False,False
+2023,Louisiana,LA,State House,21,general,Jamie Davis Jr,Democratic,4353.0,47.63,False,False
+2023,Louisiana,LA,State House,22,general,Gabe Firment,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,23,general,Tammy Savoie,Democratic,4223.0,35.61,True,False
+2023,Louisiana,LA,State House,23,general,Shaun Mena,Democratic,4428.0,57.87,True,False
+2023,Louisiana,LA,State House,23,general,Pearl Ricks,Democratic,1430.0,21.19,False,False
+2023,Louisiana,LA,State House,23,general,Bryan Jefferson,Democratic,988.0,14.64,False,False
+2023,Louisiana,LA,State House,24,general,Rodney Schamerhorn,Republican,5678.0,60.24,True,True
+2023,Louisiana,LA,State House,24,general,Clarence Beebe,Republican,3747.0,39.76,False,False
+2023,Louisiana,LA,State House,25,general,Jason DeWitt,Republican,7130.0,59.03,True,False
+2023,Louisiana,LA,State House,25,general,Trish Leleux,Republican,4948.0,40.97,False,False
+2023,Louisiana,LA,State House,26,general,Ed Larvadain III,Democratic,4224.0,61.5,True,False
+2023,Louisiana,LA,State House,26,general,Sandra Franklin,Democratic,1388.0,20.21,False,False
+2023,Louisiana,LA,State House,26,general,Reddex Washington Jr.,Democratic,1256.0,18.29,False,False
+2023,Louisiana,LA,State House,27,general,Michael T. Johnson,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,28,general,Daryl Deshotel,Republican,8480.0,81.47,True,True
+2023,Louisiana,LA,State House,28,general,Ramondo Ramos,Democratic,1929.0,18.53,False,False
+2023,Louisiana,LA,State House,29,general,Edmond Jordan,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,30,general,Charles Owen,Republican,5545.0,85.15,True,True
+2023,Louisiana,LA,State House,30,general,William Jones,Independent,967.0,14.85,False,False
+2023,Louisiana,LA,State House,31,general,Troy Hebert,Republican,6389.0,60.75,True,False
+2023,Louisiana,LA,State House,31,general,Jonathan Goudeau,Republican,4128.0,39.25,False,True
+2023,Louisiana,LA,State House,32,general,R. Dewith Carrier,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,33,general,Les Farnum,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,34,general,Wilford Carter Sr.,Democratic,4599.0,62.22,True,True
+2023,Louisiana,LA,State House,34,general,Kevin Guidry,Democratic,2211.0,29.91,False,False
+2023,Louisiana,LA,State House,34,general,Franklin Lewis Sr.,Democratic,581.0,7.86,False,False
+2023,Louisiana,LA,State House,35,general,Brett F. Geymann,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,36,general,Phillip Eric Tarver,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,37,general,Troy Romero,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,38,general,Rhonda Butler,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,39,general,Julie Emerson,Republican,6441.0,71.69,True,True
+2023,Louisiana,LA,State House,39,general,Mckinley James Jr.,Democratic,2543.0,28.31,False,False
+2023,Louisiana,LA,State House,40,general,Dustin Miller,Democratic,8853.0,81.32,True,True
+2023,Louisiana,LA,State House,40,general,Allen Guillory,Democratic,2034.0,18.68,False,False
+2023,Louisiana,LA,State House,41,general,Phillip DeVillier,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,42,general,Chance Henry,Republican,6601.0,61.85,True,False
+2023,Louisiana,LA,State House,42,general,Douglas LaCombe,Republican,4071.0,38.15,False,False
+2023,Louisiana,LA,State House,43,general,Josh Carlson,Republican,9342.0,84.07,True,False
+2023,Louisiana,LA,State House,43,general,Ludwig Gelobter,Democratic,1770.0,15.93,False,False
+2023,Louisiana,LA,State House,44,general,Tehmi Chassion,Democratic,4098.0,51.62,True,False
+2023,Louisiana,LA,State House,44,general,Pat Lewis,Democratic,3104.0,39.1,False,False
+2023,Louisiana,LA,State House,44,general,Ravis Martinez,Democratic,737.0,9.28,False,False
+2023,Louisiana,LA,State House,45,general,Brach Myers,Republican,7856.0,70.07,True,False
+2023,Louisiana,LA,State House,45,general,Paul LeBleu,Democratic,2859.0,25.5,False,False
+2023,Louisiana,LA,State House,45,general,Jupiter Leblanc,Unaffiliated,497.0,4.43,False,False
+2023,Louisiana,LA,State House,46,general,Chad Boyer,Republican,,100.0,True,False
+2023,Louisiana,LA,State House,47,general,Ryan Bourriaque,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,48,general,Beau Beaullieu,Republican,10681.0,85.05,True,True
+2023,Louisiana,LA,State House,48,general,David Levy,Democratic,1877.0,14.95,False,False
+2023,Louisiana,LA,State House,49,general,Jacob Landry,Republican,7433.0,63.96,True,False
+2023,Louisiana,LA,State House,49,general,Sanders Derise,Republican,2331.0,20.06,False,False
+2023,Louisiana,LA,State House,49,general,David Eaton,Republican,1857.0,15.98,False,False
+2023,Louisiana,LA,State House,50,general,Vincent St. Blanc III,Republican,7206.0,71.96,True,True
+2023,Louisiana,LA,State House,50,general,Gloria Robertson,Democratic,2808.0,28.04,False,False
+2023,Louisiana,LA,State House,51,general,Beryl Amedee,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,52,general,Jerome Zeringue,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,53,general,Jessica Domangue,Republican,6171.0,51.6,True,False
+2023,Louisiana,LA,State House,53,general,Dirk Guidry,Republican,5525.0,48.4,True,False
+2023,Louisiana,LA,State House,53,general,Willis Trosclair Jr.,Republican,1458.0,20.8,False,False
+2023,Louisiana,LA,State House,54,general,Joseph Orgeron,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,55,general,Bryan Fontenot,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,56,general,Beth Billings,Republican,,100.0,True,False
+2023,Louisiana,LA,State House,57,general,Sylvia Taylor,Democratic,6210.0,65.18,True,False
+2023,Louisiana,LA,State House,57,general,Russell Wise,Unaffiliated,3971.0,34.82,True,False
+2023,Louisiana,LA,State House,57,general,Shondrell Perrilloux,Republican,1530.0,15.46,False,False
+2023,Louisiana,LA,State House,57,general,Shane Bailey,Democratic,1264.0,12.77,False,False
+2023,Louisiana,LA,State House,57,general,Albert Burl III,Democratic,1211.0,12.24,False,False
+2023,Louisiana,LA,State House,57,general,Larry Sorapuru Jr.,Democratic,990.0,10.01,False,False
+2023,Louisiana,LA,State House,57,general,Rodney Nicholas,Democratic,864.0,8.73,False,False
+2023,Louisiana,LA,State House,57,general,Michelle Sweeney,Democratic,741.0,7.49,False,False
+2023,Louisiana,LA,State House,58,general,Ken Brass,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,59,general,Tony Bacala,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,60,general,Chad Brown,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,61,general,C. Denise Marcelle,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,62,general,Roy Daryl Adams,Democratic,5522.0,50.96,True,True
+2023,Louisiana,LA,State House,62,general,Dadrius Lanus,Democratic,3106.0,28.66,False,False
+2023,Louisiana,LA,State House,62,general,Daniel Banguel,Democratic,2209.0,20.38,False,False
+2023,Louisiana,LA,State House,63,general,Barbara Carpenter,Democratic,7941.0,41.06,True,True
+2023,Louisiana,LA,State House,63,general,Chauna Banks,Democratic,5441.0,33.33,True,False
+2023,Louisiana,LA,State House,63,general,Christopher Lemoine,Republican,2481.0,25.61,False,False
+2023,Louisiana,LA,State House,64,general,Kellee Hennessy Dickerson,Republican,10440.0,49.27,True,False
+2023,Louisiana,LA,State House,64,general,Kellie Alford,Republican,6533.0,29.62,True,False
+2023,Louisiana,LA,State House,64,general,"Garry ""Frog"" Talbert",Republican,2573.0,21.11,False,False
+2023,Louisiana,LA,State House,65,general,Barry Ivey,Republican,6656.0,32.13,True,True
+2023,Louisiana,LA,State House,65,general,Lauren Ventrella,Republican,7178.0,56.71,True,False
+2023,Louisiana,LA,State House,65,general,Aaron Moak,Republican,1981.0,18.45,False,False
+2023,Louisiana,LA,State House,65,general,Stephen Whitlow,Republican,1535.0,14.3,False,False
+2023,Louisiana,LA,State House,65,general,Jamie Pope,Republican,795.0,7.4,False,False
+2023,Louisiana,LA,State House,66,general,Emily Chenevert,Republican,8598.0,59.97,True,False
+2023,Louisiana,LA,State House,66,general,Richie Edmonds,Republican,6433.0,40.03,True,False
+2023,Louisiana,LA,State House,66,general,Hollis Day,Republican,2247.0,19.19,False,False
+2023,Louisiana,LA,State House,66,general,Monique Appeaning,Republican,1187.0,10.14,False,False
+2023,Louisiana,LA,State House,66,general,Drew Maranto,Republican,1328.0,11.34,False,False
+2023,Louisiana,LA,State House,67,general,Larry Selders,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,68,general,Dixon McMakin,Republican,8342.0,56.64,True,False
+2023,Louisiana,LA,State House,68,general,Belinda Creel Davis,Democratic,7151.0,43.36,True,False
+2023,Louisiana,LA,State House,68,general,Laura White Adams,Republican,3493.0,30.78,False,False
+2023,Louisiana,LA,State House,68,general,Robert Grodner Jr.,Democratic,463.0,4.08,False,False
+2023,Louisiana,LA,State House,68,general,Parry Thomas,Unaffiliated,261.0,2.3,False,False
+2023,Louisiana,LA,State House,69,general,Paula Davis,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,70,general,Barbara Reich Freiberg,Republican,8456.0,64.94,True,True
+2023,Louisiana,LA,State House,70,general,Steve Myers,Democratic,5016.0,27.16,True,False
+2023,Louisiana,LA,State House,70,general,Jennie Seals,Republican,2163.0,21.17,False,False
+2023,Louisiana,LA,State House,70,general,Brent Campanella,Republican,1307.0,12.79,False,False
+2023,Louisiana,LA,State House,71,general,Roger Wilder III,Republican,5252.0,56.94,True,False
+2023,Louisiana,LA,State House,71,general,Jim Norred,Republican,2929.0,31.75,False,False
+2023,Louisiana,LA,State House,71,general,Walley Avara,Republican,1043.0,11.31,False,False
+2023,Louisiana,LA,State House,72,general,Robby Carter,Democratic,6788.0,67.55,True,True
+2023,Louisiana,LA,State House,72,general,Roderick Matthews,Democratic,3261.0,32.45,False,False
+2023,Louisiana,LA,State House,73,general,Kim Landry Coates,Republican,6244.0,53.86,True,False
+2023,Louisiana,LA,State House,73,general,Braville LeBlanc,Republican,4247.0,36.64,False,False
+2023,Louisiana,LA,State House,73,general,Michael Chatellier,Republican,1101.0,9.5,False,False
+2023,Louisiana,LA,State House,74,general,Peter Egan,Republican,10352.0,46.82,True,False
+2023,Louisiana,LA,State House,74,general,Buffie Singletary,Republican,7765.0,31.48,True,False
+2023,Louisiana,LA,State House,74,general,Louis Dutel,Republican,2721.0,21.7,False,False
+2023,Louisiana,LA,State House,75,general,John Wyble,Republican,14034.0,70.22,True,False
+2023,Louisiana,LA,State House,75,general,Kelvin May,Democratic,6702.0,29.78,True,False
+2023,Louisiana,LA,State House,75,general,Jacob Talley,Republican,3193.0,26.16,False,False
+2023,Louisiana,LA,State House,76,general,Stephanie Berault,Republican,6674.0,79.41,True,False
+2023,Louisiana,LA,State House,76,general,Shawn Jones,Republican,1731.0,20.59,False,False
+2023,Louisiana,LA,State House,77,general,Mark Wright,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,78,general,John R. Illg Jr.,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,79,general,Debbie Villio,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,80,general,Polly Thomas,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,81,general,Jeff Wiley,Republican,6569.0,55.46,True,False
+2023,Louisiana,LA,State House,81,general,Jason Amato,Republican,5276.0,44.54,False,False
+2023,Louisiana,LA,State House,82,general,Laurie Schlegel,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,83,general,Kyle Green,Democratic,4959.0,70.61,True,True
+2023,Louisiana,LA,State House,83,general,Reginald Jasmin,Republican,2064.0,29.39,False,False
+2023,Louisiana,LA,State House,84,general,Timothy P. Kerner Sr,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,85,general,Vincent E. Cox III,Republican,4061.0,62.0,True,False
+2023,Louisiana,LA,State House,85,general,Andrea Manuel,Democratic,2080.0,31.76,False,False
+2023,Louisiana,LA,State House,85,general,Andrew Bennett,Unaffiliated,409.0,6.24,False,False
+2023,Louisiana,LA,State House,86,general,Nicholas Muscarello,Republican,,100.0,True,True
+2023,Louisiana,LA,State House,87,general,Rodney Lyons,Democratic,4317.0,70.3,True,True
+2023,Louisiana,LA,State House,87,general,Trent Mackey Jr.,Democratic,1824.0,29.7,False,False
+2023,Louisiana,LA,State House,88,general,Kathy Edmonston,Republican,5933.0,63.8,True,True
+2023,Louisiana,LA,State House,88,general,Donald Schexnaydre,Republican,2269.0,24.4,False,False
+2023,Louisiana,LA,State House,88,general,Willie Robinson,Republican,1098.0,11.81,False,False
+2023,Louisiana,LA,State House,89,general,Kim Carver,Republican,10468.0,43.68,True,False
+2023,Louisiana,LA,State House,89,general,"Joshua ""Josh"" Allison",Republican,7630.0,46.12,True,False
+2023,Louisiana,LA,State House,89,general,Scott Nowicki,Republican,2021.0,15.91,False,False
+2023,Louisiana,LA,State House,89,general,Hugh Cassidy,Republican,1714.0,13.5,False,False
+2023,Louisiana,LA,State House,90,general,Mary DuBuisson,Republican,6928.0,47.85,True,True
+2023,Louisiana,LA,State House,90,general,Brian Glorioso,Republican,7341.0,43.58,True,False
+2023,Louisiana,LA,State House,90,general,Heide Alejandro-Smith,Libertarian,772.0,8.57,False,False
+2023,Louisiana,LA,State House,91,general,Mandie Landry,Democratic,5342.0,65.53,True,True
+2023,Louisiana,LA,State House,91,general,Madison O'Malley,Democratic,2100.0,25.76,False,False
+2023,Louisiana,LA,State House,91,general,Edward Carlson,Democratic,710.0,8.71,False,False
+2023,Louisiana,LA,State House,92,general,Joseph A. Stagni,Republican,4486.0,69.71,True,True
+2023,Louisiana,LA,State House,92,general,Michael Sigur,Republican,1949.0,30.29,False,False
+2023,Louisiana,LA,State House,93,general,Alonzo Knox,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,94,general,Stephanie Hilferty,Republican,9157.0,87.5,True,True
+2023,Louisiana,LA,State House,94,general,Charles Marsala,Republican,1308.0,12.5,False,False
+2023,Louisiana,LA,State House,95,general,Shane Mack,Republican,5798.0,59.5,True,False
+2023,Louisiana,LA,State House,95,general,Aaron Ellis,Republican,3946.0,40.5,False,False
+2023,Louisiana,LA,State House,96,general,Marcus Bryant,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,97,general,Matthew Willard,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,98,general,Aimee Adatto Freeman,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,99,general,Candace Newell,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,100,general,Jason Hughes,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,101,general,Vanessa Caston LaFleur,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,102,general,Delisha Boyd,Democratic,,100.0,True,True
+2023,Louisiana,LA,State House,103,general,"""Mike"" Bayham",Republican,10547.0,61.62,True,False
+2023,Louisiana,LA,State House,103,general,Richard Lewis,Republican,6837.0,31.38,True,False
+2023,Louisiana,LA,State House,103,general,Stacy Riley Sr.,Democratic,2192.0,21.69,False,False
+2023,Louisiana,LA,State House,104,general,Jay Gallé,Republican,6260.0,64.35,True,False
+2023,Louisiana,LA,State House,104,general,John Raymond,Republican,3468.0,35.65,False,False
+2023,Louisiana,LA,State House,105,general,Jacob Braud,Republican,6918.0,40.41,True,False
+2023,Louisiana,LA,State House,105,general,Mack Cormier,Democratic,5172.0,28.63,True,True
+2023,Louisiana,LA,State House,105,general,Joanna Cappiello-Leopold,Democratic,2456.0,26.93,False,False
+2023,Louisiana,LA,State House,105,general,Donald Vallee,Republican,368.0,4.03,False,False
+2023,Mississippi,MS,State House,23,general,Perry Van Bailey,Nonpartisan,,50.1,True,False
+2023,Mississippi,MS,State House,23,general,Andrew Stepp,Nonpartisan,,49.9,False,False
+2023,Mississippi,MS,State House,1,general,Lester Carpenter,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,2,general,Brad Mattox,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,3,general,William Tracy Arnold,Republican,,80.2,True,False
+2023,Mississippi,MS,State House,3,general,Jimmy Russell,Democratic,,19.8,False,False
+2023,Mississippi,MS,State House,4,general,Jody Steverson,Republican,,88.3,True,False
+2023,Mississippi,MS,State House,4,general,Donald Merle Scott,Libertarian,,11.7,False,False
+2023,Mississippi,MS,State House,5,general,John Faulkner,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,6,general,Justin Keen,Republican,,58.7,True,False
+2023,Mississippi,MS,State House,6,general,Jarvis Cook,Democratic,,39.1,False,False
+2023,Mississippi,MS,State House,6,general,Amos A. Thompson,Libertarian,,2.2,False,False
+2023,Mississippi,MS,State House,7,general,Kimberly Remak,Republican,,60.1,True,False
+2023,Mississippi,MS,State House,7,general,Gail Lyons,Democratic,,39.9,False,False
+2023,Mississippi,MS,State House,8,general,Trey Lamar,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,9,general,Cedric Burnett,Democratic,,71.2,True,False
+2023,Mississippi,MS,State House,9,general,Randy Denton,Republican,,28.8,False,False
+2023,Mississippi,MS,State House,10,general,Josh Hawkins,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,11,general,Lataisha Jackson,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,12,general,Clay Deweese,Republican,,62.2,True,False
+2023,Mississippi,MS,State House,12,general,Donna Niewiaroski,Democratic,,37.8,False,False
+2023,Mississippi,MS,State House,13,general,Steve Massengill,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,14,general,Sam Creekmore IV,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,15,general,Beth Luther Waldo,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,16,general,Rickey W. Thompson,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,17,general,Shane Aguirre,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,18,general,Jerry Turner,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,19,general,Randy Boyd,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,19,general,Chris Brown,Republican,2011.0,,False,False
+2023,Mississippi,MS,State House,20,general,Rodney Hall,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,21,general,Donnie Bell,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,22,general,Jon Ray Lancaster,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,23,general,Andy Stepp,Republican,,71.9,True,False
+2023,Mississippi,MS,State House,23,general,Danny Lampley,Democratic,,15.8,False,False
+2023,Mississippi,MS,State House,23,general,Andy Clark,Independent,,12.3,False,False
+2023,Mississippi,MS,State House,24,general,Jeff Hale,Republican,,67.3,True,False
+2023,Mississippi,MS,State House,24,general,David Olds,Democratic,,32.7,False,False
+2023,Mississippi,MS,State House,25,general,Dan Eubanks,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,26,general,Orlando Paden,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,27,general,Kenji Holloway,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,28,general,"W. I. ""Doc"" Harris",Republican,,100.0,True,False
+2023,Mississippi,MS,State House,29,general,Robert L. Sanders,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,30,general,Tracey Rosebud,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,30,general,Thomas Reynolds II,Democratic,1979.0,,False,False
+2023,Mississippi,MS,State House,31,general,Otis Anthony,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,32,general,Solomon Osborne,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,33,general,Jim Estrada,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,34,general,Kevin Horan,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,35,general,Joey Hood,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,36,general,Karl Gibbs,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,37,general,Andy Boyd,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,38,general,Cheikh Taylor,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,39,general,Dana McLean,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,40,general,Hester Jackson-McCray,Democratic,,65.7,True,False
+2023,Mississippi,MS,State House,40,general,Jacob Hisaw,Republican,,34.3,False,False
+2023,Mississippi,MS,State House,41,general,Kabir Karriem,Democratic,,79.2,True,False
+2023,Mississippi,MS,State House,41,general,Claude Simpson,Libertarian,,20.8,False,False
+2023,Mississippi,MS,State House,42,general,Carl Mickens,Democratic,,88.4,True,False
+2023,Mississippi,MS,State House,42,general,Shantell Stevens,Libertarian,,11.6,False,False
+2023,Mississippi,MS,State House,43,general,Rob Roberson,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,44,general,C. Scott Bounds,Republican,,89.7,True,False
+2023,Mississippi,MS,State House,44,general,Phillip E. Pope,Libertarian,,10.3,False,False
+2023,Mississippi,MS,State House,45,general,Keith Jackson,Democratic,,55.6,True,False
+2023,Mississippi,MS,State House,45,general,Michael Cassidy,Republican,,37.6,False,False
+2023,Mississippi,MS,State House,45,general,Trent Rickles,Independent,,6.8,False,False
+2023,Mississippi,MS,State House,46,general,Karl Oliver,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,47,general,Bryant Clark,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,48,general,Jason White,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,49,general,Willie Bailey,Democratic,,84.8,True,False
+2023,Mississippi,MS,State House,49,general,Stacy Smith,Libertarian,,15.2,False,False
+2023,Mississippi,MS,State House,50,general,John Hines,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,51,general,Timaka James-Jones,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,52,general,Bill Kinkade,Republican,,60.7,True,False
+2023,Mississippi,MS,State House,52,general,Dianne Black,Democratic,,39.3,False,False
+2023,Mississippi,MS,State House,53,general,Vince Mangold,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,54,general,Kevin Ford,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,55,general,Oscar Denton,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,56,general,Clay Mansell,Republican,,65.6,True,False
+2023,Mississippi,MS,State House,56,general,Sharon Moman,Democratic,,34.4,False,False
+2023,Mississippi,MS,State House,57,general,Lawrence Blackmon,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,58,general,Jonathon McMillan,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,59,general,Brent Powell,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,60,general,Fred Shanks,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,61,general,Gene Newman,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,62,general,Lance Varner,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,63,general,Stephanie Foster,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,64,general,Shanda Yates,Independent,,62.2,True,False
+2023,Mississippi,MS,State House,64,general,Amile Wilson,Republican,,37.8,False,False
+2023,Mississippi,MS,State House,65,general,Chris Bell,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,66,general,Fabian Nelson,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,67,general,Earle S. Banks,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,68,general,Zakiya Summers,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,69,general,Tamarra Butler-Washington,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,70,general,Bo Brown,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,71,general,Ronnie Crudup Jr.,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,72,general,Justis Gibbs,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,73,general,Jill Ford,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,74,general,Lee Yancey,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,75,general,Celeste Hurst,Republican,,73.4,True,False
+2023,Mississippi,MS,State House,75,general,Ryshonda Harper Beechem,Independent,,26.6,False,False
+2023,Mississippi,MS,State House,76,general,Gregory Holloway Sr.,Democratic,,74.1,True,False
+2023,Mississippi,MS,State House,76,general,Rickey Gene Smylie,Republican,,25.9,False,False
+2023,Mississippi,MS,State House,77,general,Price Wallace,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,78,general,Randy Rushing,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,79,general,Mark Tullos,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,80,general,Omeria Scott,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,81,general,Stephen Horne,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,82,general,Charles Young,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,83,general,Billy Adam Calvert,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,84,general,Troy Smith,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,85,general,Jeffery Harness,Democratic,,79.9,True,False
+2023,Mississippi,MS,State House,85,general,Michael Longnecker,Libertarian,,20.1,False,False
+2023,Mississippi,MS,State House,86,general,Shane Barnett,Republican,,65.4,True,False
+2023,Mississippi,MS,State House,86,general,Annita Bonner,Democratic,,34.6,False,False
+2023,Mississippi,MS,State House,87,general,Joseph Tubb,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,88,general,"Charles ""Chuck"" Blackwell",Republican,,100.0,True,False
+2023,Mississippi,MS,State House,89,general,Donnie Scoggin,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,90,general,Noah Sanford,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,91,general,Robert Evans,Democratic,,66.1,True,False
+2023,Mississippi,MS,State House,91,general,Steve Moreman,Republican,,33.9,False,False
+2023,Mississippi,MS,State House,92,general,Becky Currie,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,93,general,Timmy Ladner,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,94,general,Robert Johnson III,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,95,general,Jay McKnight,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,96,general,Angela Cockerham,Independent,,100.0,True,False
+2023,Mississippi,MS,State House,97,general,Sam Mims V,Republican,,69.4,True,False
+2023,Mississippi,MS,State House,97,general,Thompson Benton,Democratic,,30.6,False,False
+2023,Mississippi,MS,State House,98,general,Daryl Porter Jr.,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,99,general,Bill Pigott,Republican,,84.2,True,False
+2023,Mississippi,MS,State House,99,general,Gregory Fortenberry,Green,,15.8,False,False
+2023,Mississippi,MS,State House,100,general,Ken Morgan,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,101,general,Kent McCarty,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,102,general,Missy McGee,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,103,general,Percy Watson,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,104,general,Larry Byrd,Republican,,86.5,True,False
+2023,Mississippi,MS,State House,104,general,Melissa D Brady,Libertarian,,13.5,False,False
+2023,Mississippi,MS,State House,105,general,Elliot Burch,Republican,,83.0,True,False
+2023,Mississippi,MS,State House,105,general,Matthew Daves,Democratic,,17.0,False,False
+2023,Mississippi,MS,State House,106,general,Jansen Owen,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,107,general,Steve Lott,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,108,general,Stacey Hobgood-Wilkes,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,109,general,Manly Barton,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,110,general,Jeramey Anderson,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,111,general,Jimmy Fondren,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,112,general,John Read,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,113,general,Henry Zuber III,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,114,general,Jeffrey S. Guice,Republican,,82.1,True,False
+2023,Mississippi,MS,State House,114,general,Casey Whitehead,Libertarian,,17.9,False,False
+2023,Mississippi,MS,State House,115,general,Zachary Grady,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,116,general,Casey Eure,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,117,general,Kevin Felsher,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,118,general,Greg Haney,Republican,,100.0,True,False
+2023,Mississippi,MS,State House,119,general,Jeffrey Hulum III,Democratic,,100.0,True,False
+2023,Mississippi,MS,State House,120,general,Richard Bennett,Republican,,80.0,True,False
+2023,Mississippi,MS,State House,120,general,Cameron Roberson,Libertarian,,20.0,False,False
+2023,Mississippi,MS,State House,121,general,Carolyn Crawford,Republican,,63.0,True,False
+2023,Mississippi,MS,State House,121,general,John Dedeaux,Democratic,,37.0,False,False
+2023,Mississippi,MS,State House,122,general,Brent Anderson,Republican,,78.8,True,False
+2023,Mississippi,MS,State House,122,general,Brice L. Phillips,Libertarian,,21.2,False,False
+2023,New Jersey,NJ,State House,1,general,Erik Simonsen,Republican,27976.0,31.8,True,True
+2023,New Jersey,NJ,State House,1,general,Antwan McClellan,Republican,27603.0,31.3,True,True
+2023,New Jersey,NJ,State House,1,general,Damita White-Morris,Democratic,16257.0,18.5,False,False
+2023,New Jersey,NJ,State House,1,general,Eddie L. Bonner,Democratic,16228.0,18.4,False,False
+2023,New Jersey,NJ,State House,2,general,Don Guardian,Republican,26675.0,28.8,True,True
+2023,New Jersey,NJ,State House,2,general,Claire Swift,Republican,25460.0,27.5,True,True
+2023,New Jersey,NJ,State House,2,general,"Elizabeth ""Lisa"" Bender",Democratic,20547.0,22.2,False,False
+2023,New Jersey,NJ,State House,2,general,Alphonso Harrell,Democratic,19835.0,21.4,False,False
+2023,New Jersey,NJ,State House,3,general,Heather Simmons,Democratic,30861.0,25.6,True,False
+2023,New Jersey,NJ,State House,3,general,Dave Bailey Jr.,Democratic,30737.0,25.5,True,False
+2023,New Jersey,NJ,State House,3,general,Bethanne McCarthy Patrick,Republican,29522.0,24.5,False,True
+2023,New Jersey,NJ,State House,3,general,Tom Tedesco,Republican,29480.0,24.4,False,False
+2023,New Jersey,NJ,State House,4,general,Dan Hutchison,Democratic,30116.0,26.5,True,False
+2023,New Jersey,NJ,State House,4,general,Cody D. Miller,Democratic,29770.0,26.2,True,False
+2023,New Jersey,NJ,State House,4,general,Amanda Esposito,Republican,26653.0,23.5,False,False
+2023,New Jersey,NJ,State House,4,general,Matthew P. Walker,Republican,25881.0,22.8,False,False
+2023,New Jersey,NJ,State House,4,general,Maureen Dukes Penrose,Conservatives South Jersey,1145.0,1.0,False,False
+2023,New Jersey,NJ,State House,5,general,William W. Spearman,Democratic,25994.0,35.1,True,True
+2023,New Jersey,NJ,State House,5,general,William F. Moen Jr.,Democratic,25757.0,34.7,True,True
+2023,New Jersey,NJ,State House,5,general,Joe Miller,Republican,11386.0,15.4,False,False
+2023,New Jersey,NJ,State House,5,general,Yalinda Pagan,Republican,11048.0,14.9,False,False
+2023,New Jersey,NJ,State House,6,general,Louis D. Greenwald,Democratic,34717.0,35.1,True,True
+2023,New Jersey,NJ,State House,6,general,Pamela R. Lampitt,Democratic,34185.0,34.6,True,True
+2023,New Jersey,NJ,State House,6,general,Danielle M. Barry,Republican,15067.0,15.2,False,False
+2023,New Jersey,NJ,State House,6,general,Brian McRory,Republican,14945.0,15.1,False,False
+2023,New Jersey,NJ,State House,7,general,Herbert C. Conaway Jr.,Democratic,32608.0,33.5,True,True
+2023,New Jersey,NJ,State House,7,general,Carol Murphy,Democratic,31936.0,32.8,True,True
+2023,New Jersey,NJ,State House,7,general,Douglas Dillon,Republican,16368.0,16.8,False,False
+2023,New Jersey,NJ,State House,7,general,Eileen Bleistine,Republican,16350.0,16.8,False,False
+2023,New Jersey,NJ,State House,8,general,Michael Torrissi Jr.,Republican,27881.0,25.3,True,True
+2023,New Jersey,NJ,State House,8,general,Andrea Katz,Democratic,27636.0,25.1,True,False
+2023,New Jersey,NJ,State House,8,general,Anthony Angelozzi,Democratic,27438.0,24.9,False,False
+2023,New Jersey,NJ,State House,8,general,Brandon Umba,Republican,27384.0,24.8,False,True
+2023,New Jersey,NJ,State House,9,general,Brian E. Rumpf,Republican,37559.0,34.0,True,True
+2023,New Jersey,NJ,State House,9,general,Greg Myhre,Republican,36342.0,32.9,True,False
+2023,New Jersey,NJ,State House,9,general,Sarah Collins,Democratic,18374.0,16.6,False,False
+2023,New Jersey,NJ,State House,9,general,Joseph Atura,Democratic,17205.0,15.6,False,False
+2023,New Jersey,NJ,State House,9,general,Barry Bendar,Green,979.0,0.8,False,False
+2023,New Jersey,NJ,State House,10,general,Gregory P. McGuckin,Republican,34805.0,33.0,True,True
+2023,New Jersey,NJ,State House,10,general,Paul Kanitra,Republican,34098.0,32.4,True,False
+2023,New Jersey,NJ,State House,10,general,Emma Mammano,Democratic,18529.0,17.6,False,False
+2023,New Jersey,NJ,State House,10,general,John LaMacchia,Democratic,17958.0,17.0,False,False
+2023,New Jersey,NJ,State House,11,general,Margie Donlon,Democratic,32005.0,28.6,True,False
+2023,New Jersey,NJ,State House,11,general,Luanne Peterpaul,Democratic,31636.0,28.3,True,False
+2023,New Jersey,NJ,State House,11,general,Marilyn Piperno,Republican,24230.0,21.7,False,True
+2023,New Jersey,NJ,State House,11,general,Kimberly Eulner,Republican,24025.0,21.5,False,True
+2023,New Jersey,NJ,State House,12,general,Robert D. Clifton,Republican,28200.0,32.0,True,True
+2023,New Jersey,NJ,State House,12,general,Alex Sauickie,Republican,27061.0,30.7,True,True
+2023,New Jersey,NJ,State House,12,general,Paul Sarti,Democratic,16767.0,19.0,False,False
+2023,New Jersey,NJ,State House,12,general,Raya Arbiol,Democratic,16164.0,18.3,False,False
+2023,New Jersey,NJ,State House,13,general,Vicky Flynn,Republican,30744.0,28.9,True,True
+2023,New Jersey,NJ,State House,13,general,Gerard P. Scharfenberger,Republican,30474.0,28.6,True,True
+2023,New Jersey,NJ,State House,13,general,Danielle Mastropiero,Democratic,22440.0,21.1,False,False
+2023,New Jersey,NJ,State House,13,general,Paul Eschelbach,Democratic,21655.0,20.3,False,False
+2023,New Jersey,NJ,State House,13,general,John Morrison,Libertarian,1241.0,1.2,False,False
+2023,New Jersey,NJ,State House,14,general,Wayne P. DeAngelo,Democratic,32843.0,30.3,True,True
+2023,New Jersey,NJ,State House,14,general,Tennille McCoy,Democratic,31181.0,28.8,True,False
+2023,New Jersey,NJ,State House,14,general,Adam Elias,Republican,22223.0,20.5,False,False
+2023,New Jersey,NJ,State House,14,general,Skye Gilmartin,Republican,22174.0,20.5,False,False
+2023,New Jersey,NJ,State House,15,general,Anthony S. Verrelli,Democratic,27669.0,42.3,True,True
+2023,New Jersey,NJ,State House,15,general,Verlina Reynolds-Jackson,Democratic,27322.0,41.8,True,True
+2023,New Jersey,NJ,State House,15,general,Michel F. Hurtado,Republican,10371.0,15.9,False,False
+2023,New Jersey,NJ,State House,16,general,Roy Freiman,Democratic,34188.0,28.3,True,True
+2023,New Jersey,NJ,State House,16,general,Mitchelle Drulis,Democratic,33642.0,27.9,True,False
+2023,New Jersey,NJ,State House,16,general,Grace Zhang,Republican,26558.0,22.0,False,False
+2023,New Jersey,NJ,State House,16,general,Ross Traphagen,Republican,26293.0,21.8,False,False
+2023,New Jersey,NJ,State House,17,general,Kevin Egan,Democratic,20159.0,36.3,True,False
+2023,New Jersey,NJ,State House,17,general,Joseph Danielsen,Democratic,20064.0,36.2,True,True
+2023,New Jersey,NJ,State House,17,general,Susan Hucko,Republican,7771.0,14.0,False,False
+2023,New Jersey,NJ,State House,17,general,Dhimant G. Patel,Republican,7473.0,13.5,False,False
+2023,New Jersey,NJ,State House,18,general,Robert Karabinchak,Democratic,23362.0,31.5,True,True
+2023,New Jersey,NJ,State House,18,general,Sterley Stanley,Democratic,23236.0,31.4,True,True
+2023,New Jersey,NJ,State House,18,general,Teresa Hutchison,Republican,13861.0,18.7,False,False
+2023,New Jersey,NJ,State House,18,general,Joseph Wolak,Republican,13619.0,18.4,False,False
+2023,New Jersey,NJ,State House,19,general,Craig J. Coughlin,Democratic,18808.0,31.4,True,True
+2023,New Jersey,NJ,State House,19,general,Yvonne Lopez,Democratic,18254.0,30.5,True,True
+2023,New Jersey,NJ,State House,19,general,Marilyn Colon,Republican,11496.0,19.2,False,False
+2023,New Jersey,NJ,State House,19,general,Sam Raval,Republican,10740.0,17.9,False,False
+2023,New Jersey,NJ,State House,19,general,David Diez,Libertarian,619.0,1.0,False,False
+2023,New Jersey,NJ,State House,20,general,Annette Quijano,Democratic,12280.0,42.7,True,True
+2023,New Jersey,NJ,State House,20,general,Reginald Atkins,Democratic,12104.0,42.1,True,True
+2023,New Jersey,NJ,State House,20,general,Ramon Hernandez,Republican,4380.0,15.2,False,False
+2023,New Jersey,NJ,State House,21,general,Nancy Muñoz,Republican,33146.0,26.1,True,True
+2023,New Jersey,NJ,State House,21,general,Michele Matsikoudis,Republican,32607.0,25.7,True,True
+2023,New Jersey,NJ,State House,21,general,Elizabeth A. Graner,Democratic,30643.0,24.1,False,False
+2023,New Jersey,NJ,State House,21,general,Chris Weber,Democratic,30615.0,24.1,False,False
+2023,New Jersey,NJ,State House,22,general,Linda Carter,Democratic,23710.0,33.3,True,True
+2023,New Jersey,NJ,State House,22,general,James Kennedy,Democratic,23123.0,32.5,True,True
+2023,New Jersey,NJ,State House,22,general,Lisa Fabrizio,Republican,12272.0,17.2,False,False
+2023,New Jersey,NJ,State House,22,general,Patricia Quattrocchi,Republican,12087.0,17.0,False,False
+2023,New Jersey,NJ,State House,23,general,John DiMaio,Republican,31122.0,29.5,True,True
+2023,New Jersey,NJ,State House,23,general,Erik Peterson,Republican,30366.0,28.8,True,True
+2023,New Jersey,NJ,State House,23,general,Tyler Powell,Democratic,22118.0,21.0,False,False
+2023,New Jersey,NJ,State House,23,general,Guy Citron,Democratic,21981.0,20.8,False,False
+2023,New Jersey,NJ,State House,24,general,Dawn Fantasia,Republican,31994.0,36.0,True,False
+2023,New Jersey,NJ,State House,24,general,Mike Inganamort,Republican,31174.0,35.0,True,False
+2023,New Jersey,NJ,State House,24,general,Alicia Sharm,Democratic,18722.0,21.0,False,False
+2023,New Jersey,NJ,State House,24,general,Veronica Fernandez,End the Corruption!,7184.0,8.1,False,False
+2023,New Jersey,NJ,State House,25,general,Aura K. Dunn,Republican,26717.0,26.4,True,True
+2023,New Jersey,NJ,State House,25,general,Christian E. Barranco,Republican,25988.0,25.7,True,True
+2023,New Jersey,NJ,State House,25,general,Jonathan Torres,Democratic,24420.0,24.1,False,False
+2023,New Jersey,NJ,State House,25,general,Diane Salvatore,Democratic,24055.0,23.8,False,False
+2023,New Jersey,NJ,State House,26,general,Jay Webber,Republican,28146.0,28.7,True,True
+2023,New Jersey,NJ,State House,26,general,Brian Bergen,Republican,27831.0,28.3,True,True
+2023,New Jersey,NJ,State House,26,general,John Van Achen,Democratic,21263.0,21.7,False,False
+2023,New Jersey,NJ,State House,26,general,Walter Mielarczyk,Democratic,20962.0,21.4,False,False
+2023,New Jersey,NJ,State House,27,general,Rosaura Bagolie,Democratic,27303.0,34.9,True,False
+2023,New Jersey,NJ,State House,27,general,Alixon Collazos-Gill,Democratic,27245.0,34.8,True,False
+2023,New Jersey,NJ,State House,27,general,Irene DeVita,Republican,11916.0,15.2,False,False
+2023,New Jersey,NJ,State House,27,general,Michael Mecca Jr.,Republican,11732.0,15.0,False,False
+2023,New Jersey,NJ,State House,28,general,Cleopatra G. Tucker,Democratic,19094.0,46.3,True,True
+2023,New Jersey,NJ,State House,28,general,Garnet Hall,Democratic,18637.0,45.2,True,False
+2023,New Jersey,NJ,State House,28,general,Joy Freeman,Republican,1902.0,4.6,False,False
+2023,New Jersey,NJ,State House,28,general,Willie S. Jetti,Republican,1600.0,3.9,False,False
+2023,New Jersey,NJ,State House,29,general,Eliana Pintor Marin,Democratic,7488.0,42.5,True,True
+2023,New Jersey,NJ,State House,29,general,Shanique Speight,Democratic,7409.0,42.0,True,True
+2023,New Jersey,NJ,State House,29,general,Orlando Mendez,Republican,1419.0,8.1,False,False
+2023,New Jersey,NJ,State House,29,general,Noble Milton,Republican,1308.0,7.4,False,False
+2023,New Jersey,NJ,State House,30,general,Sean T. Kean,Republican,37450.0,39.9,True,True
+2023,New Jersey,NJ,State House,30,general,Avi Schnall,Democratic,29482.0,31.4,True,False
+2023,New Jersey,NJ,State House,30,general,Edward H. Thomson,Republican,18076.0,19.3,False,True
+2023,New Jersey,NJ,State House,30,general,Salvatore Frascino,Democratic,8868.0,9.4,False,False
+2023,New Jersey,NJ,State House,31,general,Barbara McCann Stamato,Democratic,13003.0,34.7,True,False
+2023,New Jersey,NJ,State House,31,general,William Sampson,Democratic,12883.0,34.4,True,True
+2023,New Jersey,NJ,State House,31,general,Sydney J. Ferreira,Republican,4237.0,11.3,False,False
+2023,New Jersey,NJ,State House,31,general,Angelique M. Diaz,Republican,4153.0,11.1,False,False
+2023,New Jersey,NJ,State House,31,general,Mary Jane Desmond,Leadership Experience Values,1724.0,4.6,False,False
+2023,New Jersey,NJ,State House,31,general,Noemi Velazquez,Leadership Experience Values,1443.0,3.9,False,False
+2023,New Jersey,NJ,State House,32,general,Jessica Ramirez,Democratic,15197.0,45.7,True,False
+2023,New Jersey,NJ,State House,32,general,John Allen,Democratic,14391.0,43.3,True,False
+2023,New Jersey,NJ,State House,32,general,Robert Ramos,Republican,3665.0,11.0,False,False
+2023,New Jersey,NJ,State House,33,general,Gabe Rodriguez,Democratic,25384.0,49.3,True,False
+2023,New Jersey,NJ,State House,33,general,Julio Marenco,Democratic,24956.0,48.5,True,False
+2023,New Jersey,NJ,State House,33,general,Lea Sherman,Workers,1121.0,2.2,False,False
+2023,New Jersey,NJ,State House,34,general,Michael Venezia,Democratic,18400.0,38.8,True,False
+2023,New Jersey,NJ,State House,34,general,Carmen Morales,Democratic,18173.0,38.3,True,False
+2023,New Jersey,NJ,State House,34,general,James McGuire,Republican,5597.0,11.8,False,False
+2023,New Jersey,NJ,State House,34,general,Clenard H. Childress Jr.,Republican,5241.0,11.1,False,False
+2023,New Jersey,NJ,State House,35,general,Benjie E. Wimberly,Democratic,12320.0,50.2,True,True
+2023,New Jersey,NJ,State House,35,general,Shavonda Sumter,Democratic,12214.0,49.8,True,True
+2023,New Jersey,NJ,State House,36,general,Clinton Calabrese,Democratic,18228.0,30.6,True,True
+2023,New Jersey,NJ,State House,36,general,Gary S. Schaer,Democratic,18072.0,30.3,True,True
+2023,New Jersey,NJ,State House,36,general,Craig Auriemma,Republican,11761.0,19.7,False,False
+2023,New Jersey,NJ,State House,36,general,Joseph Viso Jr.,Republican,11546.0,19.4,False,False
+2023,New Jersey,NJ,State House,37,general,Ellen J. Park,Democratic,26942.0,36.4,True,True
+2023,New Jersey,NJ,State House,37,general,Shama A. Haider,Democratic,25943.0,35.0,True,True
+2023,New Jersey,NJ,State House,37,general,Robert Bedoya,Republican,10673.0,14.4,False,False
+2023,New Jersey,NJ,State House,37,general,Katherine Lebovics,Republican,10526.0,14.2,False,False
+2023,New Jersey,NJ,State House,38,general,Lisa Swain,Democratic,27717.0,28.3,True,True
+2023,New Jersey,NJ,State House,38,general,Chris Tully,Democratic,27304.0,27.9,True,True
+2023,New Jersey,NJ,State House,38,general,Gail Horton,Republican,21517.0,22.0,False,False
+2023,New Jersey,NJ,State House,38,general,Barry Wilkes,Republican,21490.0,21.9,False,False
+2023,New Jersey,NJ,State House,39,general,Robert Auth,Republican,33061.0,27.0,True,True
+2023,New Jersey,NJ,State House,39,general,John V. Azzariti,Republican,32340.0,26.4,True,False
+2023,New Jersey,NJ,State House,39,general,John Vitale,Democratic,29046.0,23.7,False,False
+2023,New Jersey,NJ,State House,39,general,Damon Englese,Democratic,28183.0,23.0,False,False
+2023,New Jersey,NJ,State House,40,general,Christopher P. DePhillips,Republican,28601.0,27.9,True,True
+2023,New Jersey,NJ,State House,40,general,Al Barlas,Republican,27638.0,27.0,True,False
+2023,New Jersey,NJ,State House,40,general,Jennifer Marrinan,Democratic,23202.0,22.7,False,False
+2023,New Jersey,NJ,State House,40,general,Giovanna Irizarry,Democratic,22952.0,22.4,False,False
+2023,Virginia,VA,State House,89,special general,Jackie Glass,Democratic,4436.0,76.42,True,False
+2023,Virginia,VA,State House,89,special general,"Giovanni G. ""Gio"" Dolmo",Republican,1356.0,23.36,False,False
+2023,Virginia,VA,State House,24,special general,Ellen Campbell,Republican,6425.0,62.46,True,False
+2023,Virginia,VA,State House,24,special general,Jade D. Harris,Democratic,3842.0,37.35,False,False
+2023,Virginia,VA,State House,35,special general,Holly Seibold,Democratic,7679.0,67.7,True,False
+2023,Virginia,VA,State House,35,special general,Monique L. Baroudi,Republican,3653.0,32.2,False,False
+2023,Virginia,VA,State House,6,special general,Jed Arnold,Republican,1632.0,80.91,True,False
+2023,Virginia,VA,State House,1,general,Patrick Hope,Democratic,24483.0,95.54,True,True
+2023,Virginia,VA,State House,2,general,Adele McClure,Democratic,17409.0,95.3,True,False
+2023,Virginia,VA,State House,3,general,Alfonso Lopez,Democratic,17416.0,81.66,True,True
+2023,Virginia,VA,State House,3,general,Mike Webb,Independent,3651.0,17.12,False,False
+2023,Virginia,VA,State House,4,general,Charniele Herring,Democratic,10843.0,93.18,True,True
+2023,Virginia,VA,State House,5,general,Elizabeth Bennett-Parker,Democratic,22359.0,91.37,True,True
+2023,Virginia,VA,State House,6,general,Rip Sullivan,Democratic,20144.0,61.93,True,True
+2023,Virginia,VA,State House,6,general,Kristin Hoffman,Republican,12303.0,37.82,False,False
+2023,Virginia,VA,State House,7,general,Karen Keys-Gamarra,Democratic,22705.0,73.26,True,False
+2023,Virginia,VA,State House,7,general,Luellen Maskeny,Republican,8199.0,26.45,False,False
+2023,Virginia,VA,State House,8,general,Irene Shin,Democratic,14851.0,67.65,True,True
+2023,Virginia,VA,State House,8,general,Max Fisher,Republican,7023.0,31.99,False,False
+2023,Virginia,VA,State House,9,general,Karrie Delaney,Democratic,14226.0,61.11,True,True
+2023,Virginia,VA,State House,9,general,Nhan Huynh,Republican,8989.0,38.61,False,False
+2023,Virginia,VA,State House,10,general,Dan Helmer,Democratic,15569.0,59.44,True,True
+2023,Virginia,VA,State House,10,general,James Thomas,Republican,10547.0,40.27,False,False
+2023,Virginia,VA,State House,11,general,David Bulova,Democratic,15863.0,70.61,True,True
+2023,Virginia,VA,State House,11,general,Almira Mohammed,Republican,6530.0,29.07,False,False
+2023,Virginia,VA,State House,12,general,Holly Seibold,Democratic,18550.0,92.43,True,True
+2023,Virginia,VA,State House,13,general,Marcus Simon,Democratic,16778.0,78.53,True,True
+2023,Virginia,VA,State House,13,general,Dave Crance,Libertarian,4323.0,20.23,False,False
+2023,Virginia,VA,State House,14,general,Vivian Watts,Democratic,13870.0,69.41,True,True
+2023,Virginia,VA,State House,14,general,Curtis Wells,Republican,6056.0,30.31,False,False
+2023,Virginia,VA,State House,15,general,Laura Jane Cohen,Democratic,19394.0,61.85,True,False
+2023,Virginia,VA,State House,15,general,Marcus Evans,Republican,11880.0,37.89,False,False
+2023,Virginia,VA,State House,16,general,Paul Krizek,Democratic,16985.0,90.61,True,True
+2023,Virginia,VA,State House,17,general,Mark Sickles,Democratic,17931.0,92.18,True,True
+2023,Virginia,VA,State House,18,general,Kathy Tran,Democratic,15973.0,65.58,True,True
+2023,Virginia,VA,State House,18,general,Ed McGovern,Republican,8293.0,34.05,False,False
+2023,Virginia,VA,State House,19,general,Rozia Henson,Democratic,9937.0,91.17,True,False
+2023,Virginia,VA,State House,20,general,Michelle Maldonado,Democratic,9740.0,56.6,True,True
+2023,Virginia,VA,State House,20,general,Sharon E. Ashurst,Republican,7422.0,43.13,False,False
+2023,Virginia,VA,State House,21,general,Josh Thomas,Democratic,13926.0,51.72,True,False
+2023,Virginia,VA,State House,21,general,John Stirrup,Republican,12951.0,48.1,False,False
+2023,Virginia,VA,State House,22,general,Ian Lovejoy,Republican,16032.0,52.19,True,False
+2023,Virginia,VA,State House,22,general,Travis Nembhard,Democratic,14616.0,47.58,False,False
+2023,Virginia,VA,State House,23,general,Candi King,Democratic,10155.0,67.95,True,True
+2023,Virginia,VA,State House,23,general,James Tully,Republican,4733.0,31.67,False,False
+2023,Virginia,VA,State House,24,general,Luke Torian,Democratic,14614.0,90.83,True,True
+2023,Virginia,VA,State House,25,general,Briana Sewell,Democratic,13404.0,61.56,True,True
+2023,Virginia,VA,State House,25,general,John S. Gray,Republican,8263.0,37.95,False,False
+2023,Virginia,VA,State House,26,general,Kannan Srinivasan,Democratic,13119.0,60.89,True,False
+2023,Virginia,VA,State House,26,general,Rafi Khaja,Republican,8362.0,38.81,False,False
+2023,Virginia,VA,State House,27,general,Atoosa Reaser,Democratic,13191.0,57.13,True,False
+2023,Virginia,VA,State House,27,general,Chris Harnisch,Republican,9758.0,42.26,False,False
+2023,Virginia,VA,State House,28,general,David Reid,Democratic,17583.0,61.18,True,True
+2023,Virginia,VA,State House,28,general,Paul Lott,Republican,11048.0,38.44,False,False
+2023,Virginia,VA,State House,29,general,Marty Martinez,Democratic,18125.0,56.93,True,False
+2023,Virginia,VA,State House,29,general,Jonathan Mark Rogers,Republican,13362.0,42.78,False,False
+2023,Virginia,VA,State House,30,general,Geary Higgins,Republican,20741.0,53.12,True,False
+2023,Virginia,VA,State House,30,general,Robert Banse,Democratic,18238.0,46.71,False,False
+2023,Virginia,VA,State House,31,general,Delores Riley Oates,Republican,16745.0,60.23,True,False
+2023,Virginia,VA,State House,31,general,Steven Foreman,Democratic,9745.0,35.05,False,False
+2023,Virginia,VA,State House,31,general,Grace Elizabeth Morrison,Independent,1252.0,4.5,False,False
+2023,Virginia,VA,State House,32,general,Bill Wiley,Republican,13320.0,60.83,True,True
+2023,Virginia,VA,State House,32,general,Mady Rodriguez,Democratic,8533.0,38.97,False,False
+2023,Virginia,VA,State House,33,general,Todd Gilbert,Republican,21554.0,77.71,True,True
+2023,Virginia,VA,State House,33,general,Bob Smith,Democratic,6139.0,22.13,False,False
+2023,Virginia,VA,State House,34,general,Tony Wilt,Republican,10368.0,56.87,True,True
+2023,Virginia,VA,State House,34,general,Esther Nizer,Democratic,7846.0,43.04,False,False
+2023,Virginia,VA,State House,35,general,Chris Runion,Republican,22104.0,96.4,True,True
+2023,Virginia,VA,State House,36,general,Ellen Campbell,Republican,14154.0,60.09,True,True
+2023,Virginia,VA,State House,36,general,Randall Wolf,Democratic,9383.0,39.83,False,False
+2023,Virginia,VA,State House,37,general,Terry Austin,Republican,18707.0,67.14,True,True
+2023,Virginia,VA,State House,37,general,Stephanie Clark,Democratic,8259.0,30.53,False,False
+2023,Virginia,VA,State House,38,general,Sam Rasoul,Democratic,12632.0,91.81,True,True
+2023,Virginia,VA,State House,39,general,Will Davis,Republican,19077.0,95.28,True,False
+2023,Virginia,VA,State House,40,general,Joe McNamara,Republican,15889.0,59.71,True,True
+2023,Virginia,VA,State House,40,general,Misty Dawn Vickers,Democratic,10667.0,40.08,False,False
+2023,Virginia,VA,State House,41,general,Chris Obenshain,Republican,12823.0,50.31,True,False
+2023,Virginia,VA,State House,41,general,Lowell Bowman,Republican,213.0,42.0,False,False
+2023,Virginia,VA,State House,41,general,Lily Franklin,Democratic,12346.0,49.57,False,False
+2023,Virginia,VA,State House,42,general,Jason Ballard,Republican,18743.0,92.48,True,True
+2023,Virginia,VA,State House,43,general,Will Morefield,Republican,19016.0,85.24,True,True
+2023,Virginia,VA,State House,43,general,Dave Ratliff,Independent,3211.0,14.39,False,False
+2023,Virginia,VA,State House,44,general,Israel O'Quinn,Republican,19367.0,96.42,True,True
+2023,Virginia,VA,State House,45,general,Terry Kilgore,Republican,14815.0,97.67,True,True
+2023,Virginia,VA,State House,46,general,Jed Arnold,Republican,19351.0,95.35,True,True
+2023,Virginia,VA,State House,47,general,Wren Williams,Republican,17268.0,74.6,True,True
+2023,Virginia,VA,State House,47,general,Patty Quesenberry,Democratic,5149.0,22.24,False,False
+2023,Virginia,VA,State House,47,general,Jacob Frogel,Independent,617.0,2.67,False,False
+2023,Virginia,VA,State House,48,general,Les Adams,Republican,17891.0,96.85,True,True
+2023,Virginia,VA,State House,49,general,Danny Marshall,Republican,12434.0,93.19,True,True
+2023,Virginia,VA,State House,50,general,Tommy Wright,Republican,15580.0,65.93,True,True
+2023,Virginia,VA,State House,50,general,Josh Blakely,Democratic,8012.0,33.91,False,False
+2023,Virginia,VA,State House,51,general,Eric Zehr,Republican,18934.0,72.57,True,False
+2023,Virginia,VA,State House,51,general,Kimberly Moran,Democratic,5545.0,21.25,False,False
+2023,Virginia,VA,State House,51,general,Matt Fariss,Independent,1574.0,6.03,False,True
+2023,Virginia,VA,State House,52,general,Wendell Walker,Republican,10574.0,54.46,True,True
+2023,Virginia,VA,State House,52,general,Jennifer Woofter,Democratic,8825.0,45.45,False,False
+2023,Virginia,VA,State House,53,general,Tim Griffin,Republican,20843.0,70.56,True,False
+2023,Virginia,VA,State House,53,general,Sam Soghor,Democratic,8586.0,29.07,False,False
+2023,Virginia,VA,State House,54,general,Katrina Callsen,Democratic,19852.0,96.93,True,False
+2023,Virginia,VA,State House,55,general,Amy Laufer,Democratic,22183.0,61.38,True,False
+2023,Virginia,VA,State House,55,general,Steve Harvey,Republican,13915.0,38.5,False,False
+2023,Virginia,VA,State House,56,general,Tom Garrett,Republican,20968.0,89.53,True,False
+2023,Virginia,VA,State House,57,general,David Owen,Republican,18198.0,50.77,True,False
+2023,Virginia,VA,State House,57,general,Susanna Gibson,Democratic,17483.0,48.77,False,False
+2023,Virginia,VA,State House,58,general,Rodney Willett,Democratic,18367.0,54.47,True,True
+2023,Virginia,VA,State House,58,general,Riley Shaia,Republican,15317.0,45.43,False,False
+2023,Virginia,VA,State House,59,general,Buddy Fowler,Republican,18529.0,58.15,True,True
+2023,Virginia,VA,State House,59,general,Rachel Levy,Democratic,13275.0,41.66,False,False
+2023,Virginia,VA,State House,60,general,Scott Wyatt,Republican,24395.0,67.4,True,True
+2023,Virginia,VA,State House,60,general,Keith Braxton,Democratic,11735.0,32.42,False,False
+2023,Virginia,VA,State House,61,general,Michael Webert,Republican,20612.0,65.23,True,True
+2023,Virginia,VA,State House,61,general,Larry Jackson,Democratic,10952.0,34.66,False,False
+2023,Virginia,VA,State House,62,general,Nick Freitas,Republican,16402.0,61.65,True,True
+2023,Virginia,VA,State House,62,general,Sara Ratcliffe,Democratic,10169.0,38.22,False,False
+2023,Virginia,VA,State House,63,general,Philip Scott,Republican,21645.0,83.56,True,True
+2023,Virginia,VA,State House,64,general,Paul Milde,Republican,15326.0,54.32,True,False
+2023,Virginia,VA,State House,64,general,Leonard Lacey,Democratic,12778.0,45.29,False,False
+2023,Virginia,VA,State House,65,general,Joshua Cole,Democratic,15406.0,52.84,True,False
+2023,Virginia,VA,State House,65,general,Lee Peters III,Republican,13656.0,46.84,False,False
+2023,Virginia,VA,State House,66,general,Bobby Orrock,Republican,13592.0,55.61,True,True
+2023,Virginia,VA,State House,66,general,Mark Lux,Democratic,10786.0,44.13,False,False
+2023,Virginia,VA,State House,67,general,Hillary Pugh Kent,Republican,19303.0,64.78,True,False
+2023,Virginia,VA,State House,67,general,John Quincy Smith,Democratic,9854.0,33.07,False,False
+2023,Virginia,VA,State House,67,general,Richard Kenski,Independent,629.0,2.11,False,False
+2023,Virginia,VA,State House,68,general,Keith Hodges,Republican,27516.0,96.79,True,True
+2023,Virginia,VA,State House,69,general,Chad Green,Republican,23189.0,91.27,True,False
+2023,Virginia,VA,State House,70,general,Shelly Simonds,Democratic,13836.0,57.12,True,True
+2023,Virginia,VA,State House,70,general,Matt Waters,Republican,9664.0,39.89,False,False
+2023,Virginia,VA,State House,70,general,Michael Bartley,Libertarian,674.0,2.78,False,False
+2023,Virginia,VA,State House,71,general,Amanda Batten,Republican,18152.0,50.9,True,True
+2023,Virginia,VA,State House,71,general,Jessica Anderson,Democratic,17485.0,49.03,False,False
+2023,Virginia,VA,State House,72,general,Lee Ware,Republican,22684.0,68.05,True,True
+2023,Virginia,VA,State House,72,general,Bilal Zoulfikar Raychouni,Democratic,10585.0,31.76,False,False
+2023,Virginia,VA,State House,73,general,Mark Earley Jr.,Republican,19435.0,54.41,True,False
+2023,Virginia,VA,State House,73,general,Herb Walke,Democratic,16216.0,45.4,False,False
+2023,Virginia,VA,State House,74,general,Mike Cherry,Republican,19418.0,87.13,True,True
+2023,Virginia,VA,State House,75,general,Carrie Coyner,Republican,11042.0,52.76,True,True
+2023,Virginia,VA,State House,75,general,Stephen Miller-Pitts Jr.,Democratic,9831.0,46.97,False,False
+2023,Virginia,VA,State House,76,general,Debra Gardner,Democratic,14541.0,63.68,True,False
+2023,Virginia,VA,State House,76,general,Duc Truong,Republican,8185.0,35.84,False,False
+2023,Virginia,VA,State House,77,general,Michael Jones,Democratic,18587.0,91.05,True,False
+2023,Virginia,VA,State House,78,general,Betsy Carr,Democratic,27269.0,94.2,True,True
+2023,Virginia,VA,State House,79,general,Rae Cousins,Democratic,20225.0,97.51,True,False
+2023,Virginia,VA,State House,80,general,Destiny Levere Bolling,Democratic,20570.0,94.98,True,False
+2023,Virginia,VA,State House,81,general,Delores McQuinn,Democratic,18355.0,94.07,True,True
+2023,Virginia,VA,State House,82,general,Kim Taylor,Republican,14286.0,50.05,True,True
+2023,Virginia,VA,State House,82,general,Kimberly Pope Adams,Democratic,14208.0,49.78,False,False
+2023,Virginia,VA,State House,83,general,Otto Wachsmann,Republican,18811.0,58.39,True,True
+2023,Virginia,VA,State House,83,general,Mary Person,Democratic,13361.0,41.47,False,False
+2023,Virginia,VA,State House,84,general,Nadarius Clark,Democratic,15899.0,52.99,True,False
+2023,Virginia,VA,State House,84,general,Michael Dillender,Republican,14046.0,46.82,False,False
+2023,Virginia,VA,State House,85,general,Cia Price,Democratic,12335.0,89.56,True,True
+2023,Virginia,VA,State House,86,general,A.C. Cordoza,Republican,14362.0,56.35,True,True
+2023,Virginia,VA,State House,86,general,Jarris Taylor Jr.,Democratic,11083.0,43.48,False,False
+2023,Virginia,VA,State House,87,general,Jeion Ward,Democratic,14847.0,77.45,True,True
+2023,Virginia,VA,State House,87,general,John Chapman,Republican,4234.0,22.09,False,False
+2023,Virginia,VA,State House,88,general,Don Scott,Democratic,12240.0,66.34,True,True
+2023,Virginia,VA,State House,88,general,Jim Wright,Republican,6145.0,33.3,False,False
+2023,Virginia,VA,State House,89,general,Baxter Ennis,Republican,14739.0,50.76,True,False
+2023,Virginia,VA,State House,89,general,Karen Lynette Jenkins,Democratic,14218.0,48.97,False,False
+2023,Virginia,VA,State House,90,general,Jay Leftwich,Republican,17131.0,63.01,True,True
+2023,Virginia,VA,State House,90,general,Jeremy Rodden,Democratic,10000.0,36.78,False,False
+2023,Virginia,VA,State House,91,general,Cliff Hayes Jr.,Democratic,13310.0,70.36,True,True
+2023,Virginia,VA,State House,91,general,Elijah Colon,Republican,5547.0,29.32,False,False
+2023,Virginia,VA,State House,92,general,Bonita Anthony,Democratic,11807.0,77.81,True,False
+2023,Virginia,VA,State House,92,general,Michael Durig,Republican,3313.0,21.83,False,False
+2023,Virginia,VA,State House,93,general,Jackie Glass,Democratic,12460.0,75.92,True,True
+2023,Virginia,VA,State House,93,general,John Sitka III,Republican,3911.0,23.83,False,False
+2023,Virginia,VA,State House,94,general,Phil Hernandez,Democratic,8187.0,55.71,True,False
+2023,Virginia,VA,State House,94,general,Andrew Pittman,Republican,6481.0,44.1,False,False
+2023,Virginia,VA,State House,95,general,Alex Askew,Democratic,12637.0,88.77,True,False
+2023,Virginia,VA,State House,96,general,Kelly Convirs-Fowler,Democratic,11723.0,55.17,True,True
+2023,Virginia,VA,State House,96,general,Mike Karslake,Republican,8749.0,41.17,False,False
+2023,Virginia,VA,State House,96,general,Nicholas Olenik,Independent,734.0,3.45,False,False
+2023,Virginia,VA,State House,97,general,Michael Feggans,Democratic,12734.0,52.37,True,False
+2023,Virginia,VA,State House,97,general,Karen Greenhalgh,Republican,11555.0,47.52,False,True
+2023,Virginia,VA,State House,98,general,Barry Knight,Republican,17426.0,89.41,True,True
+2023,Virginia,VA,State House,99,general,Anne Ferrell Tata,Republican,15126.0,57.28,True,True
+2023,Virginia,VA,State House,99,general,Cat Porterfield,Democratic,11253.0,42.61,False,False
+2023,Virginia,VA,State House,100,general,Robert Bloxom Jr.,Republican,15685.0,59.64,True,True
+2023,Virginia,VA,State House,100,general,Charlena Jones,Democratic,10581.0,40.23,False,False

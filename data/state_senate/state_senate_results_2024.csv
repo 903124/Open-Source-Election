@@ -1,4 +1,18 @@
 year,state,state_code,chamber,district,race,candidate,party,votes,percentage,winner,incumbent
+2024,Alaska,AK,State Senate,DISTRICT B,general,Jesse Kiehl,Democratic,15508,96.51,True,True
+2024,Alaska,AK,State Senate,DISTRICT H,general,Matt Claman,Democratic,9924,55.24,True,True
+2024,Alaska,AK,State Senate,DISTRICT H,general,Liz Vazquez,Republican,7989,44.47,False,False
+2024,Alaska,AK,State Senate,DISTRICT J,general,Forrest Dunbar,Democratic,7292,69.83,True,True
+2024,Alaska,AK,State Senate,DISTRICT J,general,Cheronda Smith,Independent,3022,28.94,False,False
+2024,Alaska,AK,State Senate,DISTRICT N,general,Robert Yundt,Republican,8163,52.69,True,False
+2024,Alaska,AK,State Senate,DISTRICT N,general,David S. Wilson,Coalition Republican,4525,29.21,False,True
+2024,Alaska,AK,State Senate,DISTRICT N,general,Stephen Wright,Republican,2619,16.9,False,False
+2024,Alaska,AK,State Senate,DISTRICT P,general,Scott Kawasaki,Democratic,5913,51.39,True,True
+2024,Alaska,AK,State Senate,DISTRICT P,general,Leslie Hajdukovich,Republican,5561,48.33,False,False
+2024,Alaska,AK,State Senate,DISTRICT R,general,Mike Cronk,Republican,9387,51.84,True,False
+2024,Alaska,AK,State Senate,DISTRICT R,general,Savannah Fletcher,Independent,7509,41.47,False,False
+2024,Alaska,AK,State Senate,DISTRICT R,general,Robert Williams,Independence,1157,6.39,False,False
+2024,Alaska,AK,State Senate,DISTRICT T,general,Donny Olson,Democratic,6273,97.63,True,True
 2024,Arizona,AZ,State Senate,1,general,Mark Finchem,Republican,94947,65.9,True,False
 2024,Arizona,AZ,State Senate,1,general,Mike S. Fogel,Democratic,49108,34.1,False,False
 2024,Arizona,AZ,State Senate,2,general,Shawnna Bolick,Republican,52100,50.82,True,True
@@ -78,6 +92,46 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Arkansas,AR,State Senate,33,general,Bart Hester,Republican,30530,100.0,True,True
 2024,Arkansas,AR,State Senate,34,general,Jim Dotson,Republican,28119,63.88,True,True
 2024,Arkansas,AR,State Senate,34,general,Kaylee Wedgeworth,Democratic,15897,36.12,False,False
+2024,California,CA,State Senate,1,general,Megan Dahle,Republican,274894,75.7,True,False
+2024,California,CA,State Senate,1,general,David Fennell,Republican,88317,24.3,False,False
+2024,California,CA,State Senate,3,general,Christopher Cabaldon,Democratic,277092,62.6,True,False
+2024,California,CA,State Senate,3,general,Thom Bogue,Republican,165742,37.4,False,False
+2024,California,CA,State Senate,5,general,Jerry McNerney,Democratic,189668,52.9,True,False
+2024,California,CA,State Senate,5,general,Jim Shoemaker,Republican,169136,47.1,False,False
+2024,California,CA,State Senate,7,general,Jesse Arreguín,Democratic,199423,57.2,True,False
+2024,California,CA,State Senate,7,general,Jovanka Beckles,Democratic,149415,42.8,False,False
+2024,California,CA,State Senate,9,general,Tim Grayson,Democratic,193558,52.0,True,False
+2024,California,CA,State Senate,9,general,Marisol Rubio,Democratic,178776,48.0,False,False
+2024,California,CA,State Senate,11,general,Scott Wiener,Democratic,325148,77.8,True,True
+2024,California,CA,State Senate,11,general,Yvette Corkrean,Republican,92715,22.2,False,False
+2024,California,CA,State Senate,13,general,Josh Becker,Democratic,314889,72.5,True,True
+2024,California,CA,State Senate,13,general,Alexander Glew,Republican,119674,27.5,False,False
+2024,California,CA,State Senate,15,general,Dave Cortese,Democratic,260719,68.6,True,True
+2024,California,CA,State Senate,15,general,Robert Paul Howell,Republican,119310,31.4,False,False
+2024,California,CA,State Senate,17,general,John Laird,Democratic,269862,65.0,True,True
+2024,California,CA,State Senate,17,general,Tony Virrueta,Republican,144992,35.0,False,False
+2024,California,CA,State Senate,19,general,Rosilicie Ochoa Bogh,Republican,209739,54.8,True,True
+2024,California,CA,State Senate,19,general,Lisa Middleton,Democratic,173291,45.2,False,False
+2024,California,CA,State Senate,21,general,Monique Limón,Democratic,260656,63.3,True,True
+2024,California,CA,State Senate,21,general,Elijah Mack,Republican,151365,36.7,False,False
+2024,California,CA,State Senate,23,general,Suzette Martinez Valladares,Republican,190957,52.4,True,False
+2024,California,CA,State Senate,23,general,Kipp Mueller,Democratic,173695,47.6,False,False
+2024,California,CA,State Senate,25,general,Sasha Renée Pérez,Democratic,243371,59.6,True,False
+2024,California,CA,State Senate,25,general,Elizabeth Wong Ahlers,Republican,164757,40.4,False,False
+2024,California,CA,State Senate,27,general,Henry Stern,Democratic,270005,59.5,True,True
+2024,California,CA,State Senate,27,general,Lucie Volotzky,Republican,183967,40.5,False,False
+2024,California,CA,State Senate,29,general,Eloise Gómez Reyes,Democratic,160820,57.0,True,False
+2024,California,CA,State Senate,29,general,Carlos Garcia,Republican,121085,43.0,False,False
+2024,California,CA,State Senate,31,general,Sabrina Cervantes,Democratic,153282,54.3,True,False
+2024,California,CA,State Senate,31,general,Cynthia Navarro,Republican,128994,45.7,False,False
+2024,California,CA,State Senate,33,general,Lena Gonzalez,Democratic,217560,69.9,True,True
+2024,California,CA,State Senate,33,general,Mario Paz,Republican,93574,30.1,False,False
+2024,California,CA,State Senate,35,general,Laura Richardson,Democratic,122862,50.6,True,False
+2024,California,CA,State Senate,35,general,Michelle Chambers,Democratic,120144,49.4,False,False
+2024,California,CA,State Senate,37,general,Steven Choi,Republican,232345,50.7,True,False
+2024,California,CA,State Senate,37,general,Josh Newman,Democratic,226270,49.3,False,True
+2024,California,CA,State Senate,39,general,Akilah Weber,Democratic,266830,63.0,True,False
+2024,California,CA,State Senate,39,general,Bob Divine,Republican,156616,37.0,False,False
 2024,Colorado,CO,State Senate,2,general,Lisa Frizell,Republican Party (colorado),63181,60.68,True,False
 2024,Colorado,CO,State Senate,2,general,Jennifer Brady,Democratic Party (colorado),38261,36.75,False,False
 2024,Colorado,CO,State Senate,2,general,Caryn Ann Harlos,Libertarian Party (colorado),2672,2.57,False,False
@@ -544,7 +598,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Iowa,IA,State Senate,40,general,Kris G Gulick,Republican,14763,44.8,False,False
 2024,Iowa,IA,State Senate,42,general,Charlie McClintock,Republican,27726,97.22,True,True
 2024,Iowa,IA,State Senate,44,general,Adrian Dickey,Republican,19207,68.32,True,True
-2024,Iowa,IA,State Senate,44,general,Lisa Ossian,Independent (politician),8826,31.39,False,False
+2024,Iowa,IA,State Senate,44,general,Lisa Ossian,Independent,8826,31.39,False,False
 2024,Iowa,IA,State Senate,46,general,Dawn Driscoll,Republican,21399,60.67,True,True
 2024,Iowa,IA,State Senate,46,general,Ed Chabal,Democratic,13769,39.22,False,False
 2024,Iowa,IA,State Senate,48,general,Mark Lofgren,Republican,19755,65.67,True,True
@@ -552,7 +606,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Iowa,IA,State Senate,50,general,Jeff Reichman,Republican,16735,58.4,True,True
 2024,Iowa,IA,State Senate,50,general,Nannette Griffin,Democratic,11869,41.42,False,False
 2024,Kansas,KS,State Senate,1,general,Craig Bowser,Republican,29530,100.0,True,False
-2024,Kansas,KS,State Senate,2,general,Marci Francisco (incumbent,Democratic,24004,78.3,True,False
+2024,Kansas,KS,State Senate,2,general,Marci Francisco,Democratic,24004,78.3,True,True
 2024,Kansas,KS,State Senate,2,general,David Miller,Republican,6651,21.7,False,False
 2024,Kansas,KS,State Senate,3,general,Rick Kloos,Republican,21942,57.4,True,True
 2024,Kansas,KS,State Senate,3,general,Dena Sattler,Democratic,16285,42.6,False,False
@@ -713,7 +767,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Maine,ME,State Senate,23,general,Michael J. Lawler,Republican,8489.0,31.0,False,False
 2024,Maine,ME,State Senate,24,general,Denise Tepler,Democratic,13406.0,53.09,True,True
 2024,Maine,ME,State Senate,24,general,Jeffrey K. Pierce,Republican,10320.0,40.87,False,False
-2024,Maine,ME,State Senate,24,general,Suzanne Andresen,Independent (politician),1525.0,6.04,False,False
+2024,Maine,ME,State Senate,24,general,Suzanne Andresen,Independent,1525.0,6.04,False,False
 2024,Maine,ME,State Senate,25,general,Teresa Pierce,Democratic,17896.0,64.53,True,True
 2024,Maine,ME,State Senate,25,general,James Read,Republican,9835.0,35.47,False,False
 2024,Maine,ME,State Senate,26,general,Tim Nangle,Democratic,12124.0,52.03,True,True
@@ -736,6 +790,60 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Maine,ME,State Senate,34,general,Bradley Scott Ducharme,Republican,11941.0,44.22,False,False
 2024,Maine,ME,State Senate,35,general,Mark Lawrence,Democratic,16491.0,63.56,True,True
 2024,Maine,ME,State Senate,35,general,Julie N. Rakic,Republican,9453.0,36.44,False,False
+2024,Massachusetts,MA,State Senate,"BERKSHIRE, HAMPDEN, FRANKLIN AND HAMPSHIRE",general,Paul Mark,Democratic,61747,70.81,True,True
+2024,Massachusetts,MA,State Senate,"BERKSHIRE, HAMPDEN, FRANKLIN AND HAMPSHIRE",general,David A. Rosa,Republican,25448,29.19,False,False
+2024,Massachusetts,MA,State Senate,BRISTOL AND NORFOLK,general,Paul Feeney,Democratic,60378,72.97,True,True
+2024,Massachusetts,MA,State Senate,BRISTOL AND NORFOLK,general,Laura Saylor,Workers,22360,27.03,False,False
+2024,Massachusetts,MA,State Senate,1ST BRISTOL AND PLYMOUTH,general,Michael J. Rodrigues,Democratic,55377,97.6,True,True
+2024,Massachusetts,MA,State Senate,2ND BRISTOL AND PLYMOUTH,general,Mark C. Montigny,Democratic,55918,97.8,True,True
+2024,Massachusetts,MA,State Senate,3RD BRISTOL AND PLYMOUTH,general,Kelly Dooner,Republican,45251,48.52,True,False
+2024,Massachusetts,MA,State Senate,3RD BRISTOL AND PLYMOUTH,general,Joseph Richard Pacheco,Democratic,43355,46.49,False,False
+2024,Massachusetts,MA,State Senate,3RD BRISTOL AND PLYMOUTH,general,Jim DuPont,Independent,4647,4.98,False,False
+2024,Massachusetts,MA,State Senate,CAPE AND ISLANDS,general,Julian Andre Cyr,Democratic,63860,60.82,True,True
+2024,Massachusetts,MA,State Senate,CAPE AND ISLANDS,general,Christopher Robert Lauzon,Republican,38686,36.84,False,False
+2024,Massachusetts,MA,State Senate,CAPE AND ISLANDS,general,Joe van Nes,Unenrolled,2453,2.34,False,False
+2024,Massachusetts,MA,State Senate,1ST ESSEX,general,Pavel M. Payano,Democratic,39632,96.3,True,True
+2024,Massachusetts,MA,State Senate,2ND ESSEX,general,Joan B. Lovely,Democratic,58109,66.8,True,True
+2024,Massachusetts,MA,State Senate,2ND ESSEX,general,Damian M. Anketell,Republican,28813,33.1,False,False
+2024,Massachusetts,MA,State Senate,3RD ESSEX,general,Brendan P. Crighton,Democratic,56430,97.8,True,True
+2024,Massachusetts,MA,State Senate,1ST ESSEX AND MIDDLESEX,general,Bruce E. Tarr,Republican,88918,98.8,True,True
+2024,Massachusetts,MA,State Senate,2ND ESSEX AND MIDDLESEX,general,Barry R. Finegold,Democratic,73764,98.4,True,True
+2024,Massachusetts,MA,State Senate,HAMPDEN,general,Adam Gomez,Democratic,43211,97.0,True,True
+2024,Massachusetts,MA,State Senate,"HAMPDEN, HAMPSHIRE AND WORCESTER",general,Jacob R. Oliveira,Democratic,68420,98.0,True,True
+2024,Massachusetts,MA,State Senate,HAMPDEN AND HAMPSHIRE,general,John C. Velis,Democratic,62335,98.7,True,True
+2024,Massachusetts,MA,State Senate,"HAMPSHIRE, FRANKLIN AND WORCESTER",general,Jo Comerford,Democratic,67078,98.5,True,True
+2024,Massachusetts,MA,State Senate,1ST MIDDLESEX,general,"Edward J. Kennedy, Jr",Democratic,40887,63.4,True,True
+2024,Massachusetts,MA,State Senate,1ST MIDDLESEX,general,Karla J. Miller,Republican,23422,36.3,False,False
+2024,Massachusetts,MA,State Senate,2ND MIDDLESEX,general,Patricia D. Jehlen,Democratic,72232,98.4,True,True
+2024,Massachusetts,MA,State Senate,3RD MIDDLESEX,general,Michael J. Barrett,Democratic,65186,99.2,True,True
+2024,Massachusetts,MA,State Senate,4TH MIDDLESEX,general,Cindy F. Friedman,Democratic,70460,98.3,True,True
+2024,Massachusetts,MA,State Senate,5TH MIDDLESEX,general,Jason M. Lewis,Democratic,63221,98.4,True,True
+2024,Massachusetts,MA,State Senate,NORFOLK AND MIDDLESEX,general,Cynthia Stone Creem,Democratic,68002,98.7,True,True
+2024,Massachusetts,MA,State Senate,MIDDLESEX AND NORFOLK,general,Karen E. Spilka,Democratic,68762,98.3,True,True
+2024,Massachusetts,MA,State Senate,MIDDLESEX AND SUFFOLK,general,Sal N. DiDomenico,Democratic,47113,98.5,True,True
+2024,Massachusetts,MA,State Senate,MIDDLESEX AND WORCESTER,general,James B. Eldridge,Democratic,75178,98.8,True,True
+2024,Massachusetts,MA,State Senate,"NORFOLK, PLYMOUTH AND BRISTOL",general,William J. Driscoll Jr.,Democratic,63145,98.4,True,False
+2024,Massachusetts,MA,State Senate,"NORFOLK, WORCESTER AND MIDDLESEX",general,Rebecca L. Rausch,Democratic,57309,58.8,True,True
+2024,Massachusetts,MA,State Senate,"NORFOLK, WORCESTER AND MIDDLESEX",general,Dashe M. Videira,Republican,39983,41.0,False,False
+2024,Massachusetts,MA,State Senate,NORFOLK AND PLYMOUTH,general,John F. Keenan,Democratic,61091,97.9,True,True
+2024,Massachusetts,MA,State Senate,NORFOLK AND SUFFOLK,general,Michael F. Rush,Democratic,72352,98.2,True,True
+2024,Massachusetts,MA,State Senate,PLYMOUTH AND BARNSTABLE,general,Dylan Fernandes,Democratic,59137,51.2,True,False
+2024,Massachusetts,MA,State Senate,PLYMOUTH AND BARNSTABLE,general,Matt Muratore,Republican,56335,48.7,False,False
+2024,Massachusetts,MA,State Senate,1ST PLYMOUTH AND NORFOLK,general,Patrick O'Connor,Republican,82720,98.9,True,True
+2024,Massachusetts,MA,State Senate,2ND PLYMOUTH AND NORFOLK,general,Michael D. Brady,Democratic,55766,99.1,True,True
+2024,Massachusetts,MA,State Senate,1ST SUFFOLK,general,Nicholas P. Collins,Democratic,61127,97.7,True,True
+2024,Massachusetts,MA,State Senate,2ND SUFFOLK,general,Liz Miranda,Democratic,52072,98.3,True,True
+2024,Massachusetts,MA,State Senate,3RD SUFFOLK,general,Lydia Marie Edwards,Democratic,41690,69.9,True,True
+2024,Massachusetts,MA,State Senate,3RD SUFFOLK,general,Jeannamarie Tamas,Republican,17681,29.6,False,False
+2024,Massachusetts,MA,State Senate,SUFFOLK AND MIDDLESEX,general,William N. Brownsberger,Democratic,56815,98.8,True,True
+2024,Massachusetts,MA,State Senate,1ST WORCESTER,general,Robyn K. Kennedy,Democratic,49613,97.0,True,True
+2024,Massachusetts,MA,State Senate,2ND WORCESTER,general,Michael O. Moore,Democratic,59686,98.3,True,True
+2024,Massachusetts,MA,State Senate,WORCESTER AND HAMPSHIRE,general,Peter J. Durant,Republican,52465,58.3,True,True
+2024,Massachusetts,MA,State Senate,WORCESTER AND HAMPSHIRE,general,Sheila H. Dibb,Democratic,37346,41.5,False,False
+2024,Massachusetts,MA,State Senate,WORCESTER AND MIDDLESEX,general,John J. Cronin,Democratic,52465,58.3,True,True
+2024,Massachusetts,MA,State Senate,WORCESTER AND MIDDLESEX,general,"Nicholas A. Pirro, III",Republican,37346,41.5,False,False
+2024,Massachusetts,MA,State Senate,WORCESTER AND HAMPDEN,general,Ryan C. Fattman,Republican,65438,65.8,True,True
+2024,Massachusetts,MA,State Senate,WORCESTER AND HAMPDEN,general,Anthony Allard,Democratic,33911,34.1,False,False
 2024,Missouri,MO,State Senate,1,general,Doug Beck,Democratic,53264.0,56.15,True,True
 2024,Missouri,MO,State Senate,1,general,Robert J. Crump,Republican,41598.0,43.85,False,False
 2024,Missouri,MO,State Senate,3,general,Mike Henderson,Republican,60548.0,75.86,True,False
@@ -815,6 +923,54 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Montana,MT,State Senate,46,general,Charles Headley,Republican,5252,42.0,False,False
 2024,Montana,MT,State Senate,47,general,Ellie Boldman,Democratic,7858,59.0,True,False
 2024,Montana,MT,State Senate,47,general,Abigail Maki,Republican,5486,41.0,False,False
+2024,Nebraska,NE,State Senate,1,general,Robert Hallstrom,Republican,8905,51.75,True,False
+2024,Nebraska,NE,State Senate,1,general,Dennis Schaardt,Republican,8302,48.25,False,False
+2024,Nebraska,NE,State Senate,3,general,Victor Rountree,Democratic,7494,50.57,True,False
+2024,Nebraska,NE,State Senate,3,general,Felix Ungerman,Republican,7325,49.43,False,False
+2024,Nebraska,NE,State Senate,5,general,Margo Juarez,Democratic,6275,57.65,True,False
+2024,Nebraska,NE,State Senate,5,general,Gilbert Ayala,Republican,4610,42.35,False,False
+2024,Nebraska,NE,State Senate,7,general,Dunixi Guereca,Democratic,4497,57.71,True,False
+2024,Nebraska,NE,State Senate,7,general,Tim Pendrell,Democratic,3296,42.29,False,False
+2024,Nebraska,NE,State Senate,9,general,John Cavanaugh,Democratic,10070,70.14,True,True
+2024,Nebraska,NE,State Senate,9,general,Julia Palzer,Republican,4287,29.86,False,False
+2024,Nebraska,NE,State Senate,11,general,Terrell McKinney,Democratic,9025,100.0,True,True
+2024,Nebraska,NE,State Senate,13,general,Ashlei Spivey,Democratic,7307,50.52,True,False
+2024,Nebraska,NE,State Senate,13,general,Nick Batter,Independent,7156,49.48,False,False
+2024,Nebraska,NE,State Senate,15,general,Dave Wordekemper,Republican,9164,52.72,True,False
+2024,Nebraska,NE,State Senate,15,general,Roxie Kracl,Republican,8218,47.28,False,False
+2024,Nebraska,NE,State Senate,17,general,Glen Meyer,Republican,6042,52.3,True,False
+2024,Nebraska,NE,State Senate,17,general,Mike Albrecht,Republican,5510,47.7,False,False
+2024,Nebraska,NE,State Senate,19,general,Rob Dover,Republican,8992,54.57,True,True
+2024,Nebraska,NE,State Senate,19,general,Jeanne Reigle,Republican,7485,45.43,False,False
+2024,Nebraska,NE,State Senate,21,general,Beau Ballard,Republican,9509,55.29,True,True
+2024,Nebraska,NE,State Senate,21,general,Seth Derner,Democratic,7689,44.71,False,False
+2024,Nebraska,NE,State Senate,23,general,Jared Storm,Republican,9569,54.86,True,False
+2024,Nebraska,NE,State Senate,23,general,Dennis Fujan,Republican,7873,45.14,False,False
+2024,Nebraska,NE,State Senate,25,general,Carolyn Bosn,Republican,12707,53.01,True,True
+2024,Nebraska,NE,State Senate,25,general,Nicki Behmer Popp,Independent Democratic,11264,46.99,False,False
+2024,Nebraska,NE,State Senate,27,general,Jason Prokop,Democratic,7201,52.55,True,False
+2024,Nebraska,NE,State Senate,27,general,Dawn Liphardt,Republican,6502,47.45,False,False
+2024,Nebraska,NE,State Senate,29,general,Eliot Bostar,Democratic,14048,100.0,True,True
+2024,Nebraska,NE,State Senate,31,general,Kathleen Kauth,Republican,10664,54.06,True,True
+2024,Nebraska,NE,State Senate,31,general,Mary Ann Folchert,Democratic,9064,45.94,False,False
+2024,Nebraska,NE,State Senate,33,general,Dan Lonowski,Republican,11875,67.31,True,False
+2024,Nebraska,NE,State Senate,33,general,Michelle Smith,Democratic,5767,32.69,False,False
+2024,Nebraska,NE,State Senate,35,general,Dan Quick,Democratic,4997,50.68,True,False
+2024,Nebraska,NE,State Senate,35,general,Ray Aguilar,Republican,4862,49.32,False,True
+2024,Nebraska,NE,State Senate,37,general,Stan Clouse,Republican,9776,58.77,True,False
+2024,Nebraska,NE,State Senate,37,general,Lana Peister,Republican,6859,41.23,False,False
+2024,Nebraska,NE,State Senate,39,general,Tony Sorrentino,Republican,11847,52.09,True,False
+2024,Nebraska,NE,State Senate,39,general,Allison Heimes,Independent Democrat,10896,47.91,False,False
+2024,Nebraska,NE,State Senate,41,general,Dan McKeon,Republican,9311,52.04,True,False
+2024,Nebraska,NE,State Senate,41,general,Ethan Clark,Republican,8581,47.96,False,False
+2024,Nebraska,NE,State Senate,43,general,Tanya Storer,Republican,11519,60.72,True,False
+2024,Nebraska,NE,State Senate,43,general,Tony Tangwall,Republican,7453,39.28,False,False
+2024,Nebraska,NE,State Senate,45,general,Rita Sanders,Republican,8062,52.87,True,True
+2024,Nebraska,NE,State Senate,45,general,Sarah Centineo,Democratic,7187,47.13,False,False
+2024,Nebraska,NE,State Senate,47,general,Paul Strommen,Republican,12253,77.15,True,False
+2024,Nebraska,NE,State Senate,47,general,Larry Bolinger,Democratic,3630,22.85,False,False
+2024,Nebraska,NE,State Senate,49,general,Bob Andersen,Republican,11155,52.12,True,False
+2024,Nebraska,NE,State Senate,49,general,Jen Day,Democratic,10247,47.88,False,True
 2024,Nevada,NV,State Senate,1,general,Michelee Crawford,Democratic,40066,58.97,True,False
 2024,Nevada,NV,State Senate,1,general,Patricia Brinkley,Republican,27880,41.03,False,False
 2024,Nevada,NV,State Senate,3,general,Rochelle Nguyen,Democratic,28254,54.81,True,True
@@ -1119,7 +1275,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,North Carolina,NC,State Senate,30,general,Daniel Cavender,Libertarian,3161,2.66,False,False
 2024,North Carolina,NC,State Senate,31,general,Dana Caudill Jones,Republican,78429,62.42,True,False
 2024,North Carolina,NC,State Senate,31,general,Ronda Mays,Democratic,47035,37.43,False,False
-2024,North Carolina,NC,State Senate,31,general,Teresa Hopper Prizer (write-in),Independent (politician),7,0.01,False,False
+2024,North Carolina,NC,State Senate,31,general,Teresa Hopper Prizer (write-in),Independent,7,0.01,False,False
 2024,North Carolina,NC,State Senate,32,general,Paul Lowe Jr.,Democratic,67131,68.97,True,True
 2024,North Carolina,NC,State Senate,32,general,George Ware,Republican,27442,28.19,False,False
 2024,North Carolina,NC,State Senate,32,general,Zac Lentz,Libertarian,2758,2.83,False,False
@@ -1231,54 +1387,54 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Ohio,OH,State Senate,33,general,Alessandro Cutrona,Republican,102711,60.91,True,True
 2024,Ohio,OH,State Senate,33,general,Marty Hume,Democratic,65914,39.09,False,False
 2024,Oklahoma,OK,State Senate,46,general,Mark Mann,Democratic,,60.0,True,False
-2024,Oklahoma,OK,State Senate,46,general,Charles Barton,Republican,,34.0,False,False
-2024,Oklahoma,OK,State Senate,46,general,David Pilchman,Independent,,5.0,False,False
+2024,Oklahoma,OK,State Senate,46,general,Charles Barton - 34%,Republican,,34.0,False,False
+2024,Oklahoma,OK,State Senate,46,general,David Pilchman - 5%,Independent,,5.0,False,False
 2024,Oklahoma,OK,State Senate,48,general,Nikki Nice,Democratic,,73.0,True,False
 2024,Oklahoma,OK,State Senate,48,general,Connie Johnson,Democratic,,27.0,False,False
 2024,Oklahoma,OK,State Senate,1,general,Micheal Bergstrom,Republican,,53.0,True,False
-2024,Oklahoma,OK,State Senate,1,general,Houston Brittain,Republican,,47.0,False,False
+2024,Oklahoma,OK,State Senate,1,general,Houston Brittain - 47%,Republican,,47.0,False,False
 2024,Oklahoma,OK,State Senate,3,general,Julie McIntosh,Republican,,78.7,True,False
-2024,Oklahoma,OK,State Senate,3,general,Margaret Cook,Independent,,21.3,False,False
+2024,Oklahoma,OK,State Senate,3,general,Margaret Cook - 21.3%,Independent,,21.3,False,False
 2024,Oklahoma,OK,State Senate,5,general,George Burns,Republican,,,True,False
 2024,Oklahoma,OK,State Senate,7,general,Warren Hamilton,Republican,,76.9,True,False
-2024,Oklahoma,OK,State Senate,7,general,Jerry L. Donathan,Democratic,,23.1,False,False
+2024,Oklahoma,OK,State Senate,7,general,Jerry L. Donathan - 23.1%,Democratic,,23.1,False,False
 2024,Oklahoma,OK,State Senate,9,general,Avery Frix,Republican,,,True,False
 2024,Oklahoma,OK,State Senate,11,general,Regina Goodwin,Democratic,,84.0,True,False
-2024,Oklahoma,OK,State Senate,11,general,Joe Williams,Democratic,,16.0,False,False
+2024,Oklahoma,OK,State Senate,11,general,Joe Williams - 16%,Democratic,,16.0,False,False
 2024,Oklahoma,OK,State Senate,13,general,Jonathan Wingard,Republican,,52.0,True,False
 2024,Oklahoma,OK,State Senate,13,general,Greg McCortney,Republican,,48.0,False,False
 2024,Oklahoma,OK,State Senate,15,general,Lisa Standridge,Republican,,61.7,True,False
-2024,Oklahoma,OK,State Senate,15,general,Elizabeth Forman,Democratic,,38.3,False,False
+2024,Oklahoma,OK,State Senate,15,general,Elizabeth Forman - 38.3%,Democratic,,38.3,False,False
 2024,Oklahoma,OK,State Senate,17,general,Shane Jett,Republican,,50.0,True,False
 2024,Oklahoma,OK,State Senate,17,general,Ron Sharp,Republican,,27.0,False,False
-2024,Oklahoma,OK,State Senate,17,general,Rachael Melot,Republican,,19.0,False,False
-2024,Oklahoma,OK,State Senate,17,general,Cody Swearingen,Republican,,4.0,False,False
+2024,Oklahoma,OK,State Senate,17,general,Rachael Melot - 19%,Republican,,19.0,False,False
+2024,Oklahoma,OK,State Senate,17,general,Cody Swearingen - 4%,Republican,,4.0,False,False
 2024,Oklahoma,OK,State Senate,19,general,Roland Pederson,Republican,,,True,False
 2024,Oklahoma,OK,State Senate,21,general,Randy Grellner,Republican,,64.6,True,False
-2024,Oklahoma,OK,State Senate,21,general,Robin Fuxa,Democratic,,35.4,False,False
+2024,Oklahoma,OK,State Senate,21,general,Robin Fuxa - 35.4%,Democratic,,35.4,False,False
 2024,Oklahoma,OK,State Senate,23,general,Lonnie Paxton,Republican,,,True,False
-2024,Oklahoma,OK,State Senate,25,general,Brian Guthrie,Republican,,,True,False
+2024,Oklahoma,OK,State Senate,25,general,Brian Guthrie,Republican,,67.2,True,False
 2024,Oklahoma,OK,State Senate,27,general,Casey Murdock,Republican,,52.0,True,False
-2024,Oklahoma,OK,State Senate,27,general,Cody Anderson,Republican,,48.0,False,False
+2024,Oklahoma,OK,State Senate,27,general,Cody Anderson - 48%,Republican,,48.0,False,False
 2024,Oklahoma,OK,State Senate,29,general,Julie Daniels,Republican,,55.0,True,False
 2024,Oklahoma,OK,State Senate,29,general,Wendi Stearman,Republican,,45.0,False,False
 2024,Oklahoma,OK,State Senate,31,general,Spencer Kern,Republican,,51.0,True,False
-2024,Oklahoma,OK,State Senate,31,general,Rick Wolfe,Republican,,32.0,False,False
-2024,Oklahoma,OK,State Senate,31,general,Pamala McNall,Republican,,17.0,False,False
+2024,Oklahoma,OK,State Senate,31,general,Rick Wolfe - 32%,Republican,,32.0,False,False
+2024,Oklahoma,OK,State Senate,31,general,Pamala McNall-Granier - 17%,Republican,,17.0,False,False
 2024,Oklahoma,OK,State Senate,33,general,Christi Gillespie,Republican,,67.2,True,False
-2024,Oklahoma,OK,State Senate,33,general,Bob Willis,Democratic,,32.8,False,False
+2024,Oklahoma,OK,State Senate,33,general,Bob Willis - 32.8%,Democratic,,32.8,False,False
 2024,Oklahoma,OK,State Senate,35,general,Jo Anna Dossett,Democratic,,59.2,True,False
-2024,Oklahoma,OK,State Senate,35,general,Dean Martin,Republican,,40.8,False,False
+2024,Oklahoma,OK,State Senate,35,general,Dean Martin - 40.8%,Republican,,40.8,False,False
 2024,Oklahoma,OK,State Senate,37,general,Aaron Reinhardt,Republican,,69.6,True,False
-2024,Oklahoma,OK,State Senate,37,general,Andrew Nutter,Independent,,30.4,False,False
+2024,Oklahoma,OK,State Senate,37,general,Andrew Nutter - 30.4%,Independent,,30.4,False,False
 2024,Oklahoma,OK,State Senate,39,general,David Rader,Republican,,56.3,True,False
-2024,Oklahoma,OK,State Senate,39,general,Melissa Bryce,Democratic,,43.7,False,False
+2024,Oklahoma,OK,State Senate,39,general,Melissa Bryce - 43.7%,Democratic,,43.7,False,False
 2024,Oklahoma,OK,State Senate,41,general,Adam Pugh,Republican,,,True,False
 2024,Oklahoma,OK,State Senate,43,general,Kendal Sacchieri,Republican,,80.5,True,False
-2024,Oklahoma,OK,State Senate,43,general,Sam Graefe,Independent,,19.5,False,False
+2024,Oklahoma,OK,State Senate,43,general,Sam Graefe - 19.5%,Independent,,19.5,False,False
 2024,Oklahoma,OK,State Senate,45,general,Paul Rosino,Republican,,,True,False
 2024,Oklahoma,OK,State Senate,47,general,Kelly E. Hines,Republican,,52.9,True,False
-2024,Oklahoma,OK,State Senate,47,general,Erin Brewer,Democratic,,47.1,False,False
+2024,Oklahoma,OK,State Senate,47,general,Erin Brewer - 47.1%,Democratic,,47.1,False,False
 2024,Oregon,OR,State Senate,1,general,David Brock Smith,Republican,54925,70.8,True,True
 2024,Oregon,OR,State Senate,1,general,Lupe Preciado-McAlister,Democratic,22417,28.9,False,False
 2024,Oregon,OR,State Senate,2,general,Noah Robinson,Republican,50872,66.9,True,False
@@ -1307,6 +1463,49 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Oregon,OR,State Senate,29,general,Todd Nash,Republican,45473,81.5,True,False
 2024,Oregon,OR,State Senate,29,general,Tania Wildbill,Independent,10099,18.1,False,False
 2024,Oregon,OR,State Senate,30,general,Mike McLane,Republican,56886,98.4,True,False
+2024,Pennsylvania,PA,State Senate,1,general,Nikil Saval,Democratic,109193,99.0,True,False
+2024,Pennsylvania,PA,State Senate,3,general,Sharif Street,Democratic,90329,99.48,True,False
+2024,Pennsylvania,PA,State Senate,5,general,Joe Picozzi,Republican,50570,50.35,True,False
+2024,Pennsylvania,PA,State Senate,5,general,Jimmy Dillon,Democratic,49735,49.52,False,False
+2024,Pennsylvania,PA,State Senate,7,general,Vincent Hughes,Democratic,98527,99.41,True,False
+2024,Pennsylvania,PA,State Senate,9,general,John I. Kane,Democratic,80793,56.03,True,False
+2024,Pennsylvania,PA,State Senate,9,general,Michael Woodin,Republican,63392,43.97,False,False
+2024,Pennsylvania,PA,State Senate,11,general,Judy Schwank,Democratic,63214,58.61,True,False
+2024,Pennsylvania,PA,State Senate,11,general,Lisha Rowe,Republican,44637,41.39,False,False
+2024,Pennsylvania,PA,State Senate,13,general,Scott Martin,Republican,64702,59.12,True,False
+2024,Pennsylvania,PA,State Senate,13,general,Trex Proffitt,Democratic,44735,40.88,False,False
+2024,Pennsylvania,PA,State Senate,15,general,Patty Kim,Democratic,77155,58.22,True,False
+2024,Pennsylvania,PA,State Senate,15,general,Nick DiFrancesco,Republican,55368,41.78,False,False
+2024,Pennsylvania,PA,State Senate,17,general,Amanda Cappelletti,Democratic,98939,68.29,True,False
+2024,Pennsylvania,PA,State Senate,17,general,Greg Harris,Republican,45946,31.71,False,False
+2024,Pennsylvania,PA,State Senate,19,general,Carolyn Comitta,Democratic,84612,56.51,True,False
+2024,Pennsylvania,PA,State Senate,19,general,Duane Milne,Republican,65106,43.49,False,False
+2024,Pennsylvania,PA,State Senate,21,general,Scott Hutchinson,Republican,115512,100.0,True,False
+2024,Pennsylvania,PA,State Senate,23,general,Eugene Yaw,Republican,100523,74.68,True,False
+2024,Pennsylvania,PA,State Senate,23,general,Denitra Moffett,Democratic,34089,25.32,False,False
+2024,Pennsylvania,PA,State Senate,25,general,Cris Dush,Republican,87984,66.44,True,False
+2024,Pennsylvania,PA,State Senate,25,general,William McGill,Democratic,44444,33.56,False,False
+2024,Pennsylvania,PA,State Senate,27,general,Lynda Schlegel Culver,Republican,93626,72.28,True,False
+2024,Pennsylvania,PA,State Senate,27,general,Patricia Lawton,Democratic,35899,27.72,False,False
+2024,Pennsylvania,PA,State Senate,29,general,Dave Argall,Republican,85847,71.08,True,False
+2024,Pennsylvania,PA,State Senate,29,general,John Zugarek,Democratic,31357,25.96,False,False
+2024,Pennsylvania,PA,State Senate,29,general,Timothy Henning,Libertarian,3579,2.96,False,False
+2024,Pennsylvania,PA,State Senate,31,general,Dawn Keefer,Republican,80049,61.0,True,False
+2024,Pennsylvania,PA,State Senate,31,general,Mark Temons,Democratic,51169,39.0,False,False
+2024,Pennsylvania,PA,State Senate,33,general,Doug Mastriano,Republican,98040,69.03,True,False
+2024,Pennsylvania,PA,State Senate,33,general,Cameron Schroy,Democratic,43991,30.97,False,False
+2024,Pennsylvania,PA,State Senate,35,general,Wayne Langerholc,Republican,110748,100.0,True,False
+2024,Pennsylvania,PA,State Senate,37,general,Devlin Robinson,Republican,79768,52.77,True,False
+2024,Pennsylvania,PA,State Senate,37,general,Nicole Ruscitto,Democratic,71203,47.11,False,False
+2024,Pennsylvania,PA,State Senate,39,general,Kim Ward,Republican,112588,100.0,True,False
+2024,Pennsylvania,PA,State Senate,41,general,Joe Pittman,Republican,111752,100.0,True,False
+2024,Pennsylvania,PA,State Senate,43,general,Jay Costa,Democratic,116507,100.0,True,False
+2024,Pennsylvania,PA,State Senate,45,general,Nick Pisciottano,Democratic,69105,52.98,True,False
+2024,Pennsylvania,PA,State Senate,45,general,Jen Dintini,Republican,61117,46.85,False,False
+2024,Pennsylvania,PA,State Senate,47,general,Elder Vogel,Republican,96536,63.85,True,False
+2024,Pennsylvania,PA,State Senate,47,general,Kate Lennen,Democratic,54666,36.15,False,False
+2024,Pennsylvania,PA,State Senate,49,general,Dan Laughlin,Republican,70088,54.28,True,False
+2024,Pennsylvania,PA,State Senate,49,general,Jim Wertz,Democratic,59043,45.72,False,False
 2024,Rhode Island,RI,State Senate,1,general,Jake Bissaillon,Democratic,5773,95.4,True,True
 2024,Rhode Island,RI,State Senate,2,general,Ana Quezada,Democratic,5096,95.8,True,True
 2024,Rhode Island,RI,State Senate,3,general,Sam Zurier,Democratic,9141,97.9,True,True
@@ -1642,6 +1841,52 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Vermont,VT,State Senate,WINDSOR SENATE,general,Jack Williams,Republican,10844,12.1,False,False
 2024,Vermont,VT,State Senate,WINDSOR SENATE,general,Jonathan Gleason,Republican,10720,12.0,False,False
 2024,Vermont,VT,State Senate,WINDSOR SENATE,general,Marc Nemeth,Independent,2903,3.2,False,False
+2024,Washington,WA,State Senate,1,general,Derek Stanford,Democratic,60568,96.0,True,True
+2024,Washington,WA,State Senate,2,general,Jim McCune,Republican,47908,63.1,True,True
+2024,Washington,WA,State Senate,2,general,Erasmo Ruiz Gonzalez,Democratic,27955,36.8,False,False
+2024,Washington,WA,State Senate,3,general,Marcus Riccelli,Democratic,45471,60.6,True,False
+2024,Washington,WA,State Senate,3,general,Jim Wilson,Republican,29532,39.3,False,False
+2024,Washington,WA,State Senate,4,general,Leonard Christian,Republican,53623,64.3,True,False
+2024,Washington,WA,State Senate,4,general,Miguel Valencia,Democratic,29653,35.6,False,False
+2024,Washington,WA,State Senate,5,general,Bill Ramos,Democratic,44379,52.0,True,False
+2024,Washington,WA,State Senate,5,general,Chad Magendanz,Republican,40959,48.0,False,False
+2024,Washington,WA,State Senate,9,general,Mark Schoesler,Republican,57620,95.1,True,True
+2024,Washington,WA,State Senate,10,general,Ron Muzzall,Republican,45794,50.9,True,True
+2024,Washington,WA,State Senate,10,general,Janet St. Clair,Democratic,44002,48.9,False,False
+2024,Washington,WA,State Senate,11,general,Bob Hasegawa,Democratic,47324,95.6,True,True
+2024,Washington,WA,State Senate,12,general,Keith Goehner,Republican,46452,55.8,True,False
+2024,Washington,WA,State Senate,12,general,Jim Mayhew,Democratic,36707,44.1,False,False
+2024,Washington,WA,State Senate,14,general,Curtis King,Republican,17643,51.8,True,True
+2024,Washington,WA,State Senate,14,general,Maria Beltran,Democratic,16346,48.0,False,False
+2024,Washington,WA,State Senate,16,general,Perry Dozier,Republican,44400,63.4,True,True
+2024,Washington,WA,State Senate,16,general,Kari Isaacson,Democratic,25564,36.5,False,False
+2024,Washington,WA,State Senate,17,general,Paul Harris,Republican,44014,51.1,True,False
+2024,Washington,WA,State Senate,17,general,Marla Keethler,Democratic,42003,48.8,False,False
+2024,Washington,WA,State Senate,18,general,Adrian Cortes,Democratic,42054,50.0,True,False
+2024,Washington,WA,State Senate,18,general,Brad Benton,Republican,41881,49.8,False,False
+2024,Washington,WA,State Senate,19,general,Jeff Wilson,Republican,48577,61.2,True,True
+2024,Washington,WA,State Senate,19,general,Andi Day,Democratic,30686,38.7,False,False
+2024,Washington,WA,State Senate,20,general,John Braun,Republican,69075,96.5,True,True
+2024,Washington,WA,State Senate,22,general,Jessica Bateman,Democratic,54875,70.6,True,False
+2024,Washington,WA,State Senate,22,general,Bob Iyall,Democratic,21288,27.4,False,False
+2024,Washington,WA,State Senate,23,general,Drew Hansen,Democratic,55296,64.3,True,True
+2024,Washington,WA,State Senate,23,general,Lance Byrd,Republican,30668,35.6,False,False
+2024,Washington,WA,State Senate,24,general,Mike Chapman,Democratic,51889,54.8,True,False
+2024,Washington,WA,State Senate,24,general,Marcia Kelbon,Republican,42695,45.1,False,False
+2024,Washington,WA,State Senate,25,general,Chris Gildon,Republican,41822,57.7,True,True
+2024,Washington,WA,State Senate,25,general,Kenneth King,Democratic,30551,42.2,False,False
+2024,Washington,WA,State Senate,27,general,Yasmin Trudeau,Democratic,51838,71.8,True,True
+2024,Washington,WA,State Senate,27,general,Carol Sue Braaten,Republican,20270,28.1,False,False
+2024,Washington,WA,State Senate,28,general,T'wina Nobles,Democratic,32120,53.8,True,True
+2024,Washington,WA,State Senate,28,general,Maia Espinoza,Republican,27540,46.1,False,False
+2024,Washington,WA,State Senate,39,general,Keith Wagoner,Republican,49778,60.5,True,True
+2024,Washington,WA,State Senate,39,general,John Snow,Democratic,32481,39.5,False,False
+2024,Washington,WA,State Senate,40,general,Liz Lovelett,Democratic,61930,69.5,True,True
+2024,Washington,WA,State Senate,40,general,Charles Carrell,Republican,27038,30.4,False,False
+2024,Washington,WA,State Senate,41,general,Lisa Wellman,Democratic,51876,69.0,True,True
+2024,Washington,WA,State Senate,41,general,Jaskaran Singh Sarao,Republican,23093,30.7,False,False
+2024,Washington,WA,State Senate,49,general,Annette Cleveland,Democratic,42148,61.8,True,True
+2024,Washington,WA,State Senate,49,general,Lucia Worthington,Republican,25932,38.0,False,False
 2024,West Virginia,WV,State Senate,1,general,Ryan Weld,Republican,37739,100.0,True,True
 2024,West Virginia,WV,State Senate,2,general,Chris Rose,Republican,37022,100.0,True,False
 2024,West Virginia,WV,State Senate,3,general,Donna Boley,Republican,37987,100.0,True,True
