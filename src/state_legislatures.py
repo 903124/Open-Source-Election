@@ -23,6 +23,10 @@ Chamber-article format families handled:
 
 * ``===District N===`` sections holding ``{{Election box ...}}`` templates
   (the vast majority),
+* wikilinked district headings (``=== [[Oregon's 41st House district|
+  District 41]] ===``, Oregon): recognised as numeric sections, so the
+  narrative ``===== Declared =====`` / ``===== General =====`` subsections
+  inside each district never become district tokens,
 * articles without district headers whose boxes carry the district inside
   the box ``|title=`` (e.g. ``[[California's 1st State Assembly district]]
   election, 2018`` or ``Vermont Senate Addison district general election``),
@@ -43,7 +47,10 @@ Chamber-article format families handled:
   both ``{{Plainlist|* item}}`` and ``{{plainlist}}…{{endplainlist}}``
   forms, including ``*{{Party stripe|...}}{{Aye}} '''[[Name]]''' (Party)
   56.62%`` items and Primary/General or First-round/Runoff round markers
-  (Mississippi / Nebraska summary tables).
+  (Mississippi / Nebraska summary tables),
+* win-only ``District | Incumbent | Elected Representative`` summary tables
+  as a supplement for seats the boxes/tables miss (auto-reelected
+  incumbents, cycles whose detailed results are not tabulated yet).
 
 Row templates handled: winning candidate / candidate (with or without party
 link), total, hold/gain/majority/swing (skipped). Party names such as
@@ -136,10 +143,22 @@ _ORDINAL_DISTRICT_HEADER_RE = re.compile(
     r"(?:legislative|senatorial|senate|assembly|house)?\s*district\s*=+\s*$",
     re.I,
 )
+# '=== [[Oregon's 41st House district|District 41]] ===' (Oregon style: the
+# per-district heading is a wikilink whose display text carries the district
+# number).  Recognised as a NUMERIC section so that boxes under it inherit
+# the real district instead of falling back to narrative subsection tokens.
+_WIKILINK_DISTRICT_HEADER_RE = re.compile(
+    r"(?m)^={2,5}\s*\[\[([^\]\n|]+)(?:\|([^\]\n]+))?\]\]\s*=+\s*$"
+)
+
 # '===1st Barnstable===' / '=== Norfolk, Plymouth and Bristol ===' /
 # '=== 1st Bristol and Plymouth District ===' (Massachusetts style: named
 # districts, optionally ordinal-prefixed, optionally suffixed 'District').
-# Only trusted inside a detailed-results zone (see _ZONE_MARKER_RE).
+# Only trusted inside a detailed-results zone (see _ZONE_MARKER_RE) and only
+# when the heading does not sit inside a numeric district's span (the
+# numbered-district articles nest narrative 'Polling' / 'Withdrawn' /
+# 'Nominee' / 'Declared' subsections under every district — those must never
+# become district tokens).
 _NAMED_DISTRICT_HEADER_RE = re.compile(
     r"(?m)^={3,5}\s*((?:\d{1,3}(?:st|nd|rd|th)\s+)?[A-Za-z][A-Za-z ,'\u2019-]*?)"
     r"(?:\s+district)?\s*=+\s*$",
@@ -154,19 +173,50 @@ _ZONE_MARKER_RE = re.compile(
 )
 _ZONE_HEADING_RE = re.compile(r"(?m)^==(?!=)[^=\n]*==\s*$")
 
-# generic headings that must never become named-district tokens
+# generic headings that must never become named-district tokens.  The
+# candidate-status / campaign-narrative entries ('polling', 'withdrawn',
+# 'declared', 'nominee', 'did not file', 'qualified', 'regular', 'special',
+# ...) are the per-district subsection headings used by the numbered-district
+# chamber articles (FL/MN/OH/OR/SC/WV style) — when one slips through the
+# positional guard it must still never override a real district.
 _NAMED_HEADER_EXCLUDE = {
     "election", "elections", "overview", "predictions", "see also",
     "references", "background", "notes", "external links", "candidates",
     "candidate", "district", "districts", "results", "detailed results",
     "summary", "close races", "closest races", "retirements",
-    "special elections", "composition", "polls", "endorsements", "debates",
+    "special elections", "special election", "special", "regular",
+    "composition", "polls", "polling", "endorsements", "debates",
     "finances", "fundraising", "charts", "general election",
-    "primary election", "primary", "general", "runoff", "redistricting",
-    "democrats", "republicans", "independents", "competitive", "statewide",
-    "by district", "withdrawals", "resignations", "deaths", "incumbents",
+    "primary election", "primary", "general", "general election results",
+    "runoff", "redistricting", "convention", "unopposed",
+    "democrats", "republicans", "independents", "democratic", "republican",
+    "competitive", "statewide", "by district", "withdrawals", "withdrawn",
+    "withdrew", "declared", "declared candidates", "nominee", "nominees",
+    "did not file", "not filed", "qualified", "filed", "endorsed",
+    "resignations", "deaths", "incumbents", "incumbent",
     "outgoing incumbents", "incoming incumbents", "new members",
 }
+
+
+def _district_from_wikilink_heading(target: str, display: str) -> str:
+    """District token from a wikilinked section heading:
+
+    * display ``District 41`` / ``District 41 special election`` -> ``41``
+    * target ``Oregon's 41st House district``                    -> ``41``
+
+    Only headings that actually name a district (display 'District N' or a
+    target ending in '... district' with an embedded number) are accepted,
+    so unrelated wikilinked headings stay out of the section map."""
+    for probe in (display or "", target or ""):
+        m = re.search(r"[Dd]istrict\s+(\d{1,3}[A-Za-z]?)[^\]]*$", probe)
+        if m:
+            return m.group(1)
+    m = re.search(r"(\d{1,3})(?:st|nd|rd|th)?\s*[^d]*?\bdistrict\b",
+                  (target or ""), re.I)
+    if m:
+        return m.group(1)
+    m = re.search(r"\b(\d{1,3})(?:st|nd|rd|th)\b", (display or ""))
+    return m.group(1) if m else ""
 
 # narrative rows leaking into election boxes (Nebraska 'Retirements' boxes:
 # candidate = 'Incumbent term-limited. Democratic gain.').  The incumbent/
@@ -290,7 +340,7 @@ def normalize_party(raw: str) -> str:
     if not p:
         return ""
     key = re.sub(r"\s+", " ", p).strip().lower()
-    key = re.sub(r"\s*\((?:us|united states|politician)\)\s*$", "", key)
+    key = re.sub(r"\s*\((?:us|united states|politician|politics)\)\s*$", "", key)
     key = re.sub(r"[\u2013\u2014]", "-", key)   # en/em dashes -> hyphen
     key = re.sub(r"\s+(?:state\s+)?committee$", "", key)   # 'NY State Democratic Committee'
     key = re.sub(r"\s+of\s+[a-z '.-]+$", "", key)          # ... Party of New York State
@@ -320,6 +370,12 @@ def normalize_party(raw: str) -> str:
         "independent politician": "Independent",
         "new york state democratic": "Democratic",
         "nonpartisan politician": "Nonpartisan", "nonpartisan": "Nonpartisan",
+        "nonpartisan candidate": "Nonpartisan",
+        # Nebraska's nonpartisan legislature labels independent Democrats
+        # inconsistently across articles ('Independent Democrat' in 2020,
+        # 'Independent Democratic' in 2024) — one canonical label
+        "independent democrat": "Independent Democrat",
+        "independent democratic": "Independent Democrat",
         "n/a": "", "na": "",
         "patriot": "Patriot", "reform": "Reform",
         "freedom": "Freedom", "people's": "People's",
@@ -523,9 +579,24 @@ def parse_chamber(text: str, year: int, state: str, chamber: str) -> pd.DataFram
     numeric_sections += [
         (m.start(), m.group(1)) for m in _ORDINAL_DISTRICT_HEADER_RE.finditer(text)
     ]
+    # wikilinked district headings: '=== [[Oregon's 41st House district|
+    # District 41]] ===' (Oregon) — the display text / link target carries
+    # the district number
+    for m in _WIKILINK_DISTRICT_HEADER_RE.finditer(text):
+        token = _district_from_wikilink_heading(m.group(1), m.group(2))
+        if token:
+            numeric_sections.append((m.start(), token))
     sections = list(numeric_sections)
     # named-district headers (MA): only inside results zones, never the
-    # generic section headings listed in _NAMED_HEADER_EXCLUDE
+    # generic section headings listed in _NAMED_HEADER_EXCLUDE, and never
+    # inside a numeric district's span — the numbered-district articles nest
+    # narrative subsections ('Polling', 'Withdrawn', 'Nominee', 'Declared',
+    # 'Did not file', ...) under each district, and a named token taken from
+    # one of them used to re-label every general box of that district (FL/
+    # MN/OH/SC) or of the whole article (OR, whose numbered headings are
+    # wikilinked).  Massachusetts-style articles have no numeric headers at
+    # all, so their named districts are unaffected.
+    first_numeric_pos = numeric_sections[0][0] if numeric_sections else None
     for m in _NAMED_DISTRICT_HEADER_RE.finditer(text):
         name = m.group(1).strip()
         low = name.lower()
@@ -534,6 +605,8 @@ def parse_chamber(text: str, year: int, state: str, chamber: str) -> pd.DataFram
         ):
             continue
         if not _in_zone(m.start()):
+            continue
+        if first_numeric_pos is not None and m.start() > first_numeric_pos:
             continue
         sections.append((m.start(), name.upper()))
     sections.sort(key=lambda t: t[0])
@@ -1132,6 +1205,10 @@ def _rows_from_plainlist_cell(
                         pct = val
                     else:
                         votes = val
+                    # the dash value belongs to the result, not the name
+                    # (Oklahoma summary tables: 'Regan Raff (Democratic) - 45.1%')
+                    if target == cand:
+                        cand = cand[:nm.start()].strip(" -\u2013\u2014")
                     break
         row = {
             "year": year, "state": state, "state_code": _state_code(state),
@@ -1294,6 +1371,9 @@ def _parse_results_tables(text: str, year: int, state: str, chamber: str) -> pd.
             if re.search(r"\((?:inc|incumbent)\)\s*$", cand, flags=re.I):
                 inc = True
             cand = re.sub(r"\((?:inc|incumbent)\)\s*$", "", cand, flags=re.I).strip(" ,;")
+            # a trailing share ('Name (Party) - 45.1%') belongs to the
+            # percentage column, not the candidate name
+            cand = re.sub(r"\s*[-\u2013\u2014]\s*\d[\d,.]*\s*%\s*$", "", cand).strip(" ,;")
             cand_lc = cand.lower()
             if not cand or cand_lc in _TABLE_JUNK_CANDS or cand_lc.rstrip("s") in _TABLE_JUNK_CANDS:
                 continue
@@ -1341,6 +1421,108 @@ def _parse_results_tables(text: str, year: int, state: str, chamber: str) -> pd.
             top = ranked.groupby("district", dropna=False, sort=False).head(1).index
             df.loc[top, "winner"] = True
     return df
+
+
+# ────────────────────────────────────────────────────────────────────────────
+# SUPPLEMENT: WIN-ONLY 'SUMMARY BY DISTRICT' TABLES
+# ────────────────────────────────────────────────────────────────────────────
+
+#: short party labels used in the elected-representative tables
+_ELECTED_PARTY_SHORT = {
+    "rep", "dem", "lib", "ind", "con", "gre", "non", "dfl", "npl",
+    "republican", "democratic", "libertarian", "independent", "constitution",
+    "green", "nonpartisan", "progressive", "socialist", "write-in",
+    "democratic-farmer-labor", "democratic-npl", "farmer-labor",
+    "independent american", "american independent", "legal marijuana",
+    "working families", "no party preference", "independent democrat",
+}
+_ELECTED_SHORT_FIXUP = {
+    "rep": "Republican", "dem": "Democratic", "lib": "Libertarian",
+    "ind": "Independent", "con": "Constitution", "gre": "Green",
+    "non": "Nonpartisan", "dfl": "Democratic-Farmer-Labor",
+    "npl": "Democratic-NPL",
+}
+
+
+def _parse_elected_tables(text: str, year: int, state: str, chamber: str) -> pd.DataFrame:
+    """Winner rows from 'Summary by district' tables of the shape
+    ``District | Incumbent | Party | Elected Representative/Senator | Party``
+    (WY-2026, HI-2020 auto-reelected seats, ...).  These carry NO vote
+    counts — the driver merges them only for districts the election-box /
+    results-table parse did not already cover, so partially-parsed articles
+    gain their missing seats without any row being duplicated."""
+    text = _strip_refs(text)
+    rows: List[Dict] = []
+    for table, offset in _wikitables(text):
+        if "primary" in _section_heading_at(text, offset):
+            continue
+        headers = _table_headers(table)
+        if not any("district" in h for h in headers):
+            continue
+        # 'Elected Representative' / 'Elected Senator' header (attribute
+        # prefixes tolerated); 'First elected' year columns do NOT count
+        if not any(
+            "elected" in h and "first elected" not in h
+            and re.search(r"\belected\b", h)
+            for h in headers
+        ):
+            continue
+        if any("candidate" in h or "votes" in h for h in headers):
+            continue    # full results tables — handled by _parse_results_tables
+        for chunk in re.split(r"(?m)^\|-.*$", table)[1:]:
+            cells = _row_cells(chunk)
+            if not cells or any("!!" in c for c in cells):
+                continue
+            # district: '[[Wyoming's 1st House of Representatives
+            # district|1st]]' -> '1'; bare '2nd' -> '2'
+            dval = _cell_value(cells[0])
+            token = ""
+            m = re.search(r"\|\s*(\d{1,3}[A-Za-z]?)(?:st|nd|rd|th)?\s*\]\]", dval)
+            if m:
+                token = m.group(1)
+            else:
+                dv = _clean_name(dval)
+                m = re.fullmatch(r"(\d{1,3}[A-Za-z]?)(?:st|nd|rd|th)?", dv.strip())
+                token = m.group(1) if m else ""
+            if not token:
+                continue
+            names: List[Tuple[str, str]] = []
+            parties: List[str] = []
+            for c in cells[1:]:
+                v = _cell_value(c)
+                if not v:
+                    continue
+                lm = re.search(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]", v)
+                label = (lm.group(2) or lm.group(1)) if lm else v
+                label = re.sub(r"\{\{[^{}]*\}\}", "", label)
+                label = re.sub(r"<[^>]+>", " ", label)
+                label = _clean_name(label).strip()
+                if not label or label.lower() in _TABLE_JUNK_CANDS:
+                    continue
+                low = label.lower().rstrip("s")
+                if (low in _ELECTED_PARTY_SHORT
+                        or re.search(r"\bparty\b", label, re.I)):
+                    parties.append(label)
+                else:
+                    names.append((label, v))
+            if not names:
+                continue
+            cand, raw_cell = names[-1]      # 'elected' column: last name cell
+            cand, inc = extract_incumbent_flag(cand)
+            if not cand:
+                continue
+            party = ""
+            if parties:
+                p = parties[-1].lower().rstrip("s").strip()
+                p = _ELECTED_SHORT_FIXUP.get(p, parties[-1])
+                party = normalize_party(p)
+            rows.append({
+                "year": year, "state": state, "state_code": _state_code(state),
+                "chamber": chamber, "district": token, "race": "general",
+                "candidate": cand, "party": party, "votes": None,
+                "percentage": None, "winner": True, "incumbent": inc,
+            })
+    return pd.DataFrame(rows, columns=_COLUMNS)
 
 
 # ────────────────────────────────────────────────────────────────────────────
@@ -1442,6 +1624,17 @@ def run(
                         df = df_tbl if not len(df) else pd.concat(
                             [df_tbl, df], ignore_index=True
                         )
+                # win-only 'Summary by district' supplement: fill seats the
+                # boxes/tables missed (auto-reelected incumbents, cycles whose
+                # detailed results are not tabulated yet) — never duplicates
+                df_sup = _parse_elected_tables(text, year, state, chamber_label)
+                if len(df_sup):
+                    covered = set(df["district"]) if len(df) else set()
+                    add = df_sup[~df_sup["district"].isin(covered)]
+                    if len(add):
+                        logger.info("    elected-table supplement: %d rows",
+                                    len(add))
+                        df = pd.concat([df, add], ignore_index=True)
                 n_dist = df["district"].nunique() if len(df) else 0
                 if len(df):
                     frames_by_chamber[key].append(df)

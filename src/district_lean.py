@@ -984,6 +984,24 @@ def load_statewide_midterm_races(statewide_dir: str, year: int, keep_codes,
     return races
 
 
+#: Top-two (nonpartisan blanket) states for state-legislature data: where
+#: the general election can legally pit two candidates of the SAME major
+#: party against each other.  CA and WA have used the system for every
+#: cycle in the data range; Alaska adopted it in 2022.  Same-party finals
+#: are scored 100/0 for the winner's party instead of dropped, matching the
+#: congressional pipeline's treatment of CA/WA/AK house finals.
+TOP_TWO_SAME_PARTY_STATES = frozenset({"CA", "WA"})
+TOP_TWO_SAME_PARTY_SINCE = {"AK": 2022}
+
+
+def _is_top_two_cycle(state_code: str, year: int) -> bool:
+    """True when *state_code* held top-two state-leg elections in *year*."""
+    if state_code in TOP_TWO_SAME_PARTY_STATES:
+        return True
+    since = TOP_TWO_SAME_PARTY_SINCE.get(state_code)
+    return since is not None and year >= since
+
+
 def load_state_leg_midterm_races(state_leg_dir: str, year: int, keep_codes,
                                  info: dict):
     """State-legislature results for *year* -> per-chamber vote records.
@@ -997,6 +1015,14 @@ def load_state_leg_midterm_races(state_leg_dir: str, year: int, keep_codes,
     there; walkovers (a major party absent / polling zero) are dropped
     before the aggregation so one-sided seats cannot skew the state
     two-party totals.
+
+    Exception — top-two same-party finals (CA/WA all cycles, AK 2022+):
+    where the top-two primary advanced two candidates of the SAME major
+    party, the general election legally pits D-vs-D or R-vs-R and the
+    winner's party is scored 100/0 instead of the seat being dropped,
+    matching the congressional pipeline's treatment of CA/WA/AK house
+    finals.  A walkover (single candidate, minor-party-only opposition)
+    still drops.
     """
     races: List[dict] = []
     dropped: List[dict] = []
@@ -1017,17 +1043,29 @@ def load_state_leg_midterm_races(state_leg_dir: str, year: int, keep_codes,
         df = df[df["_v"] > 0]
         df = df.assign(_pc=df["party"].map(classify_party))
         # per state-leg district: keep only contested races (both major
-        # parties polled votes) before the statewide chamber aggregation
+        # parties polled votes) before the statewide chamber aggregation;
+        # top-two same-party finals are kept too and scored 100/0
         for (code, _ch, district), sub in df.groupby(
                 ["state_code", "chamber", "district"], observed=True):
             pcs = set(sub["_pc"])
             if not ({"D", "R"} <= pcs):
-                dropped.append({"state": code, "chamber": chamber,
-                                "district": district})
-                continue
+                maj = pcs & {"D", "R"}
+                same_party_final = (
+                    len(maj) == 1 and _is_top_two_cycle(code, year)
+                    and sub.loc[sub["_pc"].isin(maj), "candidate"]
+                    .nunique() >= 2
+                )
+                if not same_party_final:
+                    dropped.append({"state": code, "chamber": chamber,
+                                    "district": district})
+                    continue
             rec = {"state": code, "office": chamber, "component": "state-leg"}
             for cls in ("D", "R", "O"):
                 rec[cls] = float(sub.loc[sub["_pc"] == cls, "_v"].sum())
+            if not ({"D", "R"} <= set(sub["_pc"])):
+                # same-party top-two final: winner's party carries the
+                # whole race (100/0) — flagged so the blender keeps it
+                rec["same_party_final"] = True
             races.append(rec)
     if dropped:
         info["stateleg_walkover_districts"] = \
@@ -1043,13 +1081,17 @@ def compute_midterm_state_votes(
     A race is *informative* when both major parties polled votes on the
     ballot; top-two / top-four matchups without one of them (CA-2016-senate
     D-vs-D, AK-2022-senate R-vs-R, a wholly uncontested write-in race) carry
-    no two-party signal and are dropped. Returns
+    no two-party signal and are dropped.  The exception: state-leg top-two
+    same-party finals (CA/WA all cycles, AK 2022+) are flagged
+    ``same_party_final`` by :func:`load_state_leg_midterm_races` and kept —
+    the winner's party carries the whole race (100/0), matching the
+    congressional pipeline. Returns
     ``(state_votes, state_meta, national)`` where ``state_meta`` carries the
     per-state race counts and the ``offices_used`` descriptor.
     """
     kept: List[dict] = []
     for r in races:
-        if r["D"] <= 0 or r["R"] <= 0:
+        if (r["D"] <= 0 or r["R"] <= 0) and not r.get("same_party_final"):
             info["excluded_races"].append({
                 "state": r["state"], "office": r["office"],
                 "d_votes": round(r["D"]), "r_votes": round(r["R"]),
