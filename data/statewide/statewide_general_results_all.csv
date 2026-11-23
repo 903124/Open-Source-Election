@@ -5132,11 +5132,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Winning,Byron Donalds Bryan Avila,Republican,4135955,50.0,True,False,2026 Florida gubernatorial election
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,David Jolly Gwen Graham,Democratic,4030579,48.73,False,False,2026 Florida gubernatorial election
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Scott Eckhard Jewett Nicole Skelly,Libertarian,37951,0.46,False,False,2026 Florida gubernatorial election
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Frank J. Russo Rachel Rodriguez,Independent Candidate,23244,0.28,False,False,2026 Florida gubernatorial election
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Charles Burkett Ruben A. Coto,Independent Candidate,15261,0.19,False,False,2026 Florida gubernatorial election
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Dean Ocean Abrams Joe Van Vactor,Independent Candidate,12568,0.15,False,False,2026 Florida gubernatorial election
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,"Jeffrey Peter ""Dr. Jeff"" Datto Juan Santana",Independent Candidate,8331,0.1,False,False,2026 Florida gubernatorial election
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Moliere Dimanche Benjiman Rojas,Independent Candidate,7609,0.09,False,False,2026 Florida gubernatorial election
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Frank J. Russo Rachel Rodriguez,Independent,23244,0.28,False,False,2026 Florida gubernatorial election
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Charles Burkett Ruben A. Coto,Independent,15261,0.19,False,False,2026 Florida gubernatorial election
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Dean Ocean Abrams Joe Van Vactor,Independent,12568,0.15,False,False,2026 Florida gubernatorial election
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,"Jeffrey Peter ""Dr. Jeff"" Datto Juan Santana",Independent,8331,0.1,False,False,2026 Florida gubernatorial election
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Moliere Dimanche Benjiman Rojas,Independent,7609,0.09,False,False,2026 Florida gubernatorial election
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Write-in,Various write-in candidates,Write-in,129,0.0,False,False,2026 Florida gubernatorial election
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Total,,,8271627,100.0,False,False,2026 Florida gubernatorial election
 2026,Georgia,GA,agriculture commissioner,2026 Georgia Agriculture Commissioner election,Candidate,Tyler Harper,Republican,,,False,True,2026 Georgia Agriculture Commissioner election

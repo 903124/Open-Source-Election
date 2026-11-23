@@ -1192,6 +1192,9 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Georgia,GA,State House,178,general,R+63.9,Republican,,,True,False
 2026,Georgia,GA,State House,179,general,uncontested,Republican,,,True,False
 2026,Georgia,GA,State House,180,general,},Republican,,,True,False
+2026,Hawaii,HI,State House,14,general,Pa'ele Kaikona,Green,2991,42.1,True,False
+2026,Hawaii,HI,State House,14,general,Sne Patel,Democratic,2884,40.6,False,False
+2026,Hawaii,HI,State House,14,general,Elle Cochran,Republican,1236,17.4,False,True
 2026,Idaho,ID,State House,1,general,TBD,Republican,,,True,False
 2026,Idaho,ID,State House,2,general,TBD,Republican,,,True,False
 2026,Idaho,ID,State House,3,general,TBD,Republican,,,True,False
@@ -4031,7 +4034,6 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Pennsylvania,PA,State House,26,general,Paul Friel,Democratic,19584.0,65.2,True,False
 2026,Pennsylvania,PA,State House,26,general,Samantha L. Horosky,Republican,10442.0,34.8,False,False
 2026,Pennsylvania,PA,State House,27,general,Dan Deasy,Democratic,20015.0,100.0,True,False
-2026,Pennsylvania,PA,State House,27,general,Ed Brosky,Republican,,,False,False
 2026,Pennsylvania,PA,State House,28,general,Jeremy Shaffer,Republican,16330.0,52.6,True,False
 2026,Pennsylvania,PA,State House,28,general,Jeremy Ferderber,Democratic,14697.0,47.4,False,False
 2026,Pennsylvania,PA,State House,29,general,Tim Brennan,Democratic,23537.0,63.4,True,False
@@ -5067,7 +5069,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Utah,UT,State House,57,general,Nelson Abbott,Republican,,,True,False
 2026,Utah,UT,State House,58,general,David Shallenberger,Republican,,,True,False
 2026,Utah,UT,State House,58,general,Karli Black,Democratic,,,False,False
-2026,Utah,UT,State House,59,general,Celeste T. Johnson,Democratic,,,True,False
+2026,Utah,UT,State House,59,general,Celeste Johnson,Democratic,,,True,False
 2026,Utah,UT,State House,59,general,Luke Searle,Republican,,,False,False
 2026,Utah,UT,State House,60,general,Grant Pace,Republican,,,True,False
 2026,Utah,UT,State House,61,general,Lisa Shepherd,Republican,,,True,False

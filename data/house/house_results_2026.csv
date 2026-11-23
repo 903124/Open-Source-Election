@@ -115,9 +115,9 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Florida,FL,6,,Randy Fine,Republican,,58.9,True,False,False
 2026,house,Florida,FL,6,,Eric Yonce,Democratic,,39.9,False,False,False
 2026,house,Florida,FL,6,,Andrew Parrott,Libertarian,,1.1,False,False,False
-2026,house,Florida,FL,7,324454,Ryan Elijah,Republican,161300,49.7,True,False,False
-2026,house,Florida,FL,7,324454,Bale Dalton,Democratic,159669,49.2,False,False,False
-2026,house,Florida,FL,7,324454,Christopher Dennison,Libertarian,3485,1.1,False,False,False
+2026,house,Florida,FL,7,324478,Ryan Elijah,Republican,161303,49.7,True,False,False
+2026,house,Florida,FL,7,324478,Bale Dalton,Democratic,159689,49.2,False,False,False
+2026,house,Florida,FL,7,324478,Christopher Dennison,Libertarian,3486,1.1,False,False,False
 2026,house,Florida,FL,8,,Mike Haridopolos,Republican,,53.2,True,False,False
 2026,house,Florida,FL,8,,Jennifer Jenkins,Democratic,,46.8,False,False,False
 2026,house,Florida,FL,9,,Darren Soto,Democratic,,50.3,True,False,False
@@ -442,11 +442,11 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,New York,NY,24,,Claudia Tenney,Republican,,100.0,True,False,False
 2026,house,New York,NY,25,,Joseph Morelle,Democratic,,100.0,True,False,False
 2026,house,New York,NY,26,,Tim Kennedy,Democratic,,100.0,True,False,False
-2026,house,North Carolina,NC,1,314130,Don Davis,Democratic,157490,100.0,True,False,False
+2026,house,North Carolina,NC,1,314111,Don Davis,Democratic,157483,100.0,True,False,False
 2026,house,North Carolina,NC,2,328256,Deborah Ross,Democratic,246446,100.0,True,False,False
 2026,house,North Carolina,NC,3,239614,Raymond Smith Jr.,Democratic,118434,100.0,True,False,False
 2026,house,North Carolina,NC,4,359571,Valerie Foushee,Democratic,284548,100.0,True,False,False
-2026,house,North Carolina,NC,5,286788,Chuck Hubbard,Democratic,139770,100.0,True,False,False
+2026,house,North Carolina,NC,5,286786,Chuck Hubbard,Democratic,139769,100.0,True,False,False
 2026,house,North Carolina,NC,6,274810,Cyril Jefferson,Democratic,140707,100.0,True,False,False
 2026,house,North Carolina,NC,7,322266,David Rouzer,Republican,160702,100.0,True,False,False
 2026,house,North Carolina,NC,8,293251,Mark Harris,Republican,147683,100.0,True,False,False
