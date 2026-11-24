@@ -117,9 +117,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,California,CA,superintendent of public instruction,2026 California Superintendent of Public Instruction runoff election,Winning,Richard Barrera,,6567279,59.0,True,False,2026 California Superintendent of Public Instruction election
 2026,California,CA,superintendent of public instruction,2026 California Superintendent of Public Instruction runoff election,Candidate,Sonja Shaw,,4558840,41.0,False,False,2026 California Superintendent of Public Instruction election
 2026,California,CA,superintendent of public instruction,2026 California Superintendent of Public Instruction runoff election,Total,,,11126119,,False,False,2026 California Superintendent of Public Instruction election
-2026,California,CA,governor,2026 California gubernatorial election,Winning,Xavier Becerra,Democratic,8714908,65.6,True,False,2026 California gubernatorial election
-2026,California,CA,governor,2026 California gubernatorial election,Candidate,Steve Hilton,Republican,4560879,34.4,False,False,2026 California gubernatorial election
-2026,California,CA,governor,2026 California gubernatorial election,Total,,,13275787,100.0,False,False,2026 California gubernatorial election
+2026,California,CA,governor,2026 California gubernatorial election,Winning,Xavier Becerra,Democratic,8720802,65.7,True,False,2026 California gubernatorial election
+2026,California,CA,governor,2026 California gubernatorial election,Candidate,Steve Hilton,Republican,4562976,34.3,False,False,2026 California gubernatorial election
+2026,California,CA,governor,2026 California gubernatorial election,Total,,,13283778,100.0,False,False,2026 California gubernatorial election
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Winning,Jena Griswold,Democratic,,,True,False,2026 Colorado Attorney General election
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Candidate,Michael J. Allen,Republican,,,False,False,2026 Colorado Attorney General election
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Total,,,,100.0,False,False,2026 Colorado Attorney General election
@@ -358,10 +358,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Louisiana,LA,public service commission,"District 5 – 2026 Louisiana Public Service Commission election, district 5",Winning,John Atkins,Republican,161038,59.16,True,False,2026 Louisiana Public Service Commission election
 2026,Louisiana,LA,public service commission,"District 5 – 2026 Louisiana Public Service Commission election, district 5",Candidate,James Green,Democratic,111188,40.84,False,False,2026 Louisiana Public Service Commission election
 2026,Louisiana,LA,public service commission,"District 5 – 2026 Louisiana Public Service Commission election, district 5",Total,,,272226,100.0,False,False,2026 Louisiana Public Service Commission election
-2026,Maine,ME,governor,2026 Maine gubernatorial election,Winning,Hannah Pingree,Democratic,388721,55.69,True,False,2026 Maine gubernatorial election
-2026,Maine,ME,governor,2026 Maine gubernatorial election,Candidate,Robert B. Charles,Republican,267346,37.44,False,False,2026 Maine gubernatorial election
-2026,Maine,ME,governor,2026 Maine gubernatorial election,Candidate,Rick Bennett,Independent,57707,8.08,False,False,2026 Maine gubernatorial election
-2026,Maine,ME,governor,2026 Maine gubernatorial election,Total,,,813774,100.0,False,False,2026 Maine gubernatorial election
+2026,Maine,ME,governor,2026 Maine gubernatorial election,Winning,Hannah Pingree,Democratic,391364,54.17,True,False,2026 Maine gubernatorial election
+2026,Maine,ME,governor,2026 Maine gubernatorial election,Candidate,Robert B. Charles,Republican,272710,37.75,False,False,2026 Maine gubernatorial election
+2026,Maine,ME,governor,2026 Maine gubernatorial election,Candidate,Rick Bennett,Independent,58241,8.06,False,False,2026 Maine gubernatorial election
+2026,Maine,ME,governor,2026 Maine gubernatorial election,Write-in,,,75,0.04,False,False,2026 Maine gubernatorial election
+2026,Maine,ME,governor,2026 Maine gubernatorial election,Total,,,722424,100.0,False,False,2026 Maine gubernatorial election
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Winning,Anthony Brown,Democratic,1416665,68.57,True,True,2026 Maryland Attorney General election
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,James B. Rutledge III,Republican,647345,31.33,False,False,2026 Maryland Attorney General election
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Write-in,,,2128,0.1,False,False,2026 Maryland Attorney General election
@@ -370,12 +371,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Maryland,MD,state auditor,2026 Maryland Comptroller election,Candidate,Sonya Dunn,Republican,644262,31.41,False,False,2026 Maryland Comptroller election
 2026,Maryland,MD,state auditor,2026 Maryland Comptroller election,Write-in,,,1980,0.1,False,False,2026 Maryland Comptroller election
 2026,Maryland,MD,state auditor,2026 Maryland Comptroller election,Total,,,2051075,100.0,False,False,2026 Maryland Comptroller election
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1470907,65.29,True,True,2026 Maryland gubernatorial election
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,683658,30.35,False,False,2026 Maryland gubernatorial election
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,48592,2.16,False,False,2026 Maryland gubernatorial election
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,43714,1.94,False,False,2026 Maryland gubernatorial election
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5950,0.26,False,False,2026 Maryland gubernatorial election
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2252821,100.0,False,False,2026 Maryland gubernatorial election
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1472845,65.32,True,True,2026 Maryland gubernatorial election
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,683775,30.32,False,False,2026 Maryland gubernatorial election
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,48649,2.16,False,False,2026 Maryland gubernatorial election
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,43760,1.94,False,False,2026 Maryland gubernatorial election
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5958,0.26,False,False,2026 Maryland gubernatorial election
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2254987,100.0,False,False,2026 Maryland gubernatorial election
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Andrea Campbell,Democratic,,,False,True,2026 Massachusetts Attorney General election
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Michael Walsh,Republican,,,False,False,2026 Massachusetts Attorney General election
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Total,,,,100.0,False,False,2026 Massachusetts Attorney General election
@@ -586,12 +587,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Total,,,,100.0,False,False,2026 New Mexico gubernatorial election
 2026,New York,NY,attorney general,2026 New York Attorney General election,Candidate,Letitia James,New York State Democratic Committee,,,False,False,2026 New York Attorney General election
 2026,New York,NY,attorney general,2026 New York Attorney General election,Candidate,Saritha Komatireddy,New York Republican State Committee,,,False,False,2026 New York Attorney General election
-2026,New York,NY,attorney general,2026 New York Attorney General election,Write-in,,,4503.0,0.1,False,False,2026 New York Attorney General election
-2026,New York,NY,attorney general,2026 New York Attorney General election,Total,,,6062721.0,100.0,False,False,2026 New York Attorney General election
+2026,New York,NY,attorney general,2026 New York Attorney General election,Write-in,,,4504.0,0.1,False,False,2026 New York Attorney General election
+2026,New York,NY,attorney general,2026 New York Attorney General election,Total,,,6065896.0,100.0,False,False,2026 New York Attorney General election
 2026,New York,NY,state auditor,2026 New York State Comptroller election,Candidate,Tom DiNapoli,New York State Democratic Committee,,,False,False,2026 New York State Comptroller election
 2026,New York,NY,state auditor,2026 New York State Comptroller election,Candidate,Joseph Hernandez,New York Republican State Committee,,,False,False,2026 New York State Comptroller election
-2026,New York,NY,state auditor,2026 New York State Comptroller election,Write-in,,,5399.0,0.9,False,False,2026 New York State Comptroller election
-2026,New York,NY,state auditor,2026 New York State Comptroller election,Total,,,6027023.0,100.0,False,False,2026 New York State Comptroller election
+2026,New York,NY,state auditor,2026 New York State Comptroller election,Write-in,,,5403.0,0.9,False,False,2026 New York State Comptroller election
+2026,New York,NY,state auditor,2026 New York State Comptroller election,Total,,,6030166.0,100.0,False,False,2026 New York State Comptroller election
 2026,New York,NY,governor,2026 New York gubernatorial election,Winning,Kathy Hochul,Total,3659917.0,59.75,True,True,2026 New York gubernatorial election
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Kathy Hochul,New York State Democratic Committee,,,False,False,2026 New York gubernatorial election
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Bruce Blakeman,New York Republican State Committee,,,False,False,2026 New York gubernatorial election
@@ -665,8 +666,8 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Christine Drazan,Republican,,,False,False,2026 Oregon gubernatorial election
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Brett Smith,Green,,,False,False,2026 Oregon gubernatorial election
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Total,,,,100.0,False,False,2026 Oregon gubernatorial election
-2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Winning,Josh Shapiro,Democratic,3039710.0,60.56,True,True,2026 Pennsylvania gubernatorial election
-2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Stacy Garrity,Republican,1914345.0,38.14,False,False,2026 Pennsylvania gubernatorial election
+2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Winning,Josh Shapiro,Democratic,3039781.0,60.56,True,True,2026 Pennsylvania gubernatorial election
+2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Stacy Garrity,Republican,1914351.0,38.14,False,False,2026 Pennsylvania gubernatorial election
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Ken Krawchuk,Libertarian,64992.0,1.29,False,False,2026 Pennsylvania gubernatorial election
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Total,,,,100.0,False,False,2026 Pennsylvania gubernatorial election
 2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Candidate,James Diossa,Democratic,,,False,True,2026 Rhode Island General Treasurer election
@@ -718,6 +719,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,South Dakota,SD,secretary of state,2026 South Dakota Secretary of State election,Candidate,Terrence Davis,Democratic,106561,36.1,False,False,2026 South Dakota Secretary of State election
 2026,South Dakota,SD,secretary of state,2026 South Dakota Secretary of State election,Candidate,Tamara Lesnar,Libertarian,16261,5.51,False,False,2026 South Dakota Secretary of State election
 2026,South Dakota,SD,secretary of state,2026 South Dakota Secretary of State election,Total,,,295188,100.0,False,False,2026 South Dakota Secretary of State election
+2026,South Dakota,SD,state auditor,2026 South Dakota State Auditor election,Winning,Catherine Barranco,Republican,182695,62.55,True,False,2026 South Dakota State Auditor election
+2026,South Dakota,SD,state auditor,2026 South Dakota State Auditor election,Candidate,Tom Cool,Democratic,109392,37.45,False,False,2026 South Dakota State Auditor election
+2026,South Dakota,SD,state auditor,2026 South Dakota State Auditor election,Total,,,292087,100.0,False,False,2026 South Dakota State Auditor election
 2026,South Dakota,SD,governor,2026 South Dakota gubernatorial election,Winning,Larry Rhoden,Republican,193335,63.49,True,False,2026 South Dakota gubernatorial election
 2026,South Dakota,SD,governor,2026 South Dakota gubernatorial election,Candidate,Dan Ahlers,Democratic,111161,36.51,False,False,2026 South Dakota gubernatorial election
 2026,South Dakota,SD,governor,2026 South Dakota gubernatorial election,Total,,,304496,100.0,False,False,2026 South Dakota gubernatorial election

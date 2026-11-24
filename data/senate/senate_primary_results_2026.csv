@@ -261,7 +261,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2026,North Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Elizabeth Temple,"23,892",3.8,
 2026,North Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Richard Dansie,"14,996",2.4,
 2026,North Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Margot Dupre (disqualified),"14,886",2.4,
-2026,North Carolina,Republican primary results,Primary,Total,False,,,"627,404",100.0,
+2026,North Carolina,Republican primary results,Primary,Total,False,,,"627,404",100.00,
 2026,North Carolina,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Roy Cooper,"761,345",92.0,
 2026,North Carolina,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Justin Dues,"22,295",2.7,
 2026,North Carolina,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Marcus Williams,"20,336",2.5,

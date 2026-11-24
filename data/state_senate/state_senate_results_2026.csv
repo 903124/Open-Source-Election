@@ -52,6 +52,16 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Alabama,AL,State Senate,34,general,Rusty Glover,Republican,,,True,False
 2026,Alabama,AL,State Senate,35,general,David Sessions,Republican,,,True,True
 2026,Alaska,AK,State Senate,DISTRICT A,general,Bert Stedman,Republican,5851,100.0,True,True
+2026,Alaska,AK,State Senate,DISTRICT A,general,"Stedman, Bert K.",Republican,11422,96.5,True,False
+2026,Alaska,AK,State Senate,DISTRICT E,general,"Giessel, Cathy",Republican,10056,62.4,True,False
+2026,Alaska,AK,State Senate,DISTRICT E,general,"Stoddard, Gretchen W.",Republican,3823,23.7,False,False
+2026,Alaska,AK,State Senate,DISTRICT E,general,"White, Jason ""Jace""",Republican,2031,12.6,False,False
+2026,Alaska,AK,State Senate,DISTRICT G,general,"Gray-Jackson, Elvi",Democratic,7838,66.1,True,False
+2026,Alaska,AK,State Senate,DISTRICT G,general,"Danger, Nicholas",Independent,3878,32.7,False,False
+2026,Alaska,AK,State Senate,DISTRICT I,general,Löki Tobin,Democratic,6804,95.0,True,True
+2026,Alaska,AK,State Senate,DISTRICT K,general,Bill Wielechowski,Democratic,9199,95.0,True,True
+2026,Alaska,AK,State Senate,DISTRICT Q,general,"Tomaszewski, Frank",Republican,9014,62.8,True,False
+2026,Alaska,AK,State Senate,DISTRICT Q,general,"Hunt, William",Democratic,5263,36.7,False,False
 2026,Arizona,AZ,State Senate,1,general,Mark Finchem,Republican,,,True,False
 2026,Arizona,AZ,State Senate,2,general,Amelia Gallitano,Democratic,,,True,False
 2026,Arizona,AZ,State Senate,3,general,John Kavanagh,Republican,,,True,False
@@ -794,8 +804,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Minnesota,MN,State Senate,31,general,Cal Bahr,Republican,,,True,False
 2026,Minnesota,MN,State Senate,31,general,Gadisa Berkessa,Democratic-Farmer-Labor,17640.0,38.77,False,False
 2026,Minnesota,MN,State Senate,32,general,Chris Ford,Republican,,,True,False
-2026,Minnesota,MN,State Senate,33,general,Karin Housley*,Republican,,,True,False
-2026,Minnesota,MN,State Senate,33,general,Nat Smith,Democratic-Farmer-Labor,23935.0,49.92,False,False
+2026,Minnesota,MN,State Senate,33,general,Karin Housley,Republican,,,True,False
+2026,Minnesota,MN,State Senate,33,general,Nat Smith,Democratic-Farmer-Labor,23936.0,49.39,False,False
 2026,Minnesota,MN,State Senate,34,general,John Hoffman,Democratic-Farmer-Labor,,,True,False
 2026,Minnesota,MN,State Senate,34,general,Karen Attia,Republican,17704.0,37.7,False,False
 2026,Minnesota,MN,State Senate,35,general,Angela Nelson,Republican,,,True,False
@@ -1439,39 +1449,41 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Texas,TX,State Senate,9,special general,Taylor Rehmet,Democratic,111038.0,47.57,True,False
 2026,Texas,TX,State Senate,9,special general,Leigh Wambsganss,Republican,83387.0,35.94,True,False
 2026,Texas,TX,State Senate,9,special general,John Huffman,Republican,19608.0,16.49,False,False
-2026,Texas,TX,State Senate,4,special general,Brett Ligon,Republican,52136.0,75.06,False,False
-2026,Texas,TX,State Senate,4,special general,Ron Angeletti,Democratic,17324.0,24.94,False,False
-2026,Texas,TX,State Senate,1,general,Bryan Hughes,Republican,,,True,True
-2026,Texas,TX,State Senate,1,general,Laticia Ambroz,Democratic,,,False,False
-2026,Texas,TX,State Senate,2,general,Bob Hall,Republican,,,True,True
-2026,Texas,TX,State Senate,2,general,Keenen Colbert,Democratic,,,False,False
-2026,Texas,TX,State Senate,3,general,Trent Ashby,Republican,,,True,False
-2026,Texas,TX,State Senate,3,general,Bobby Tillman,Democratic,,,False,False
-2026,Texas,TX,State Senate,5,general,Charles Schwertner,Republican,,,True,True
-2026,Texas,TX,State Senate,5,general,Paul Thomasson,Democratic,,,False,False
-2026,Texas,TX,State Senate,9,general,Taylor Rehmet,Democratic,,,True,True
-2026,Texas,TX,State Senate,9,general,Leigh Wambsganss,Republican,,,False,False
-2026,Texas,TX,State Senate,11,general,Dennis Paul,Republican,,,True,False
-2026,Texas,TX,State Senate,11,general,Shannon Dicely,Democratic,,,False,False
+2026,Texas,TX,State Senate,4,special general,Brett Ligon,Republican,26068.0,75.06,False,False
+2026,Texas,TX,State Senate,4,special general,Ron Angeletti,Democratic,8662.0,24.94,False,False
+2026,Texas,TX,State Senate,1,general,Bryan Hughes,Republican,229545.0,,True,True
+2026,Texas,TX,State Senate,1,general,Laticia Ambroz,Democratic,91022.0,,False,False
+2026,Texas,TX,State Senate,2,general,Bob Hall,Republican,180363.0,,True,True
+2026,Texas,TX,State Senate,2,general,Keenen Colbert,Democratic,170824.0,,False,False
+2026,Texas,TX,State Senate,3,general,Trent Ashby,Republican,211888.0,,True,False
+2026,Texas,TX,State Senate,3,general,Bobby Tillman,Democratic,93016.0,,False,False
+2026,Texas,TX,State Senate,4,general,Brett Ligon,Republican,205530.0,,True,False
+2026,Texas,TX,State Senate,4,general,Ron Angeletti,Democratic,147017.0,,False,False
+2026,Texas,TX,State Senate,5,general,Charles Schwertner,Republican,197912.0,,True,True
+2026,Texas,TX,State Senate,5,general,Paul Thomasson,Democratic,173380.0,,False,False
+2026,Texas,TX,State Senate,9,general,Taylor Rehmet,Democratic,175288.0,,True,True
+2026,Texas,TX,State Senate,9,general,Leigh Wambsganss,Republican,166711.0,,False,False
+2026,Texas,TX,State Senate,11,general,Dennis Paul,Republican,174935.0,,True,False
+2026,Texas,TX,State Senate,11,general,Shannon Dicely,Democratic,164777.0,,False,False
 2026,Texas,TX,State Senate,13,general,Borris Miles,Democratic,,,True,True
-2026,Texas,TX,State Senate,18,general,Lois Kolkhorst,Republican,,,True,True
-2026,Texas,TX,State Senate,18,general,Erica Gillum,Democratic,,,False,False
-2026,Texas,TX,State Senate,19,general,Roland Gutierrez,Democratic,,,True,True
-2026,Texas,TX,State Senate,19,general,Marcus Cardenas,Republican,,,False,False
-2026,Texas,TX,State Senate,21,general,Judith Zaffirini,Democratic,,,True,True
-2026,Texas,TX,State Senate,21,general,Julie Dahlberg,Republican,,,False,False
+2026,Texas,TX,State Senate,18,general,Lois Kolkhorst,Republican,196125.0,,True,True
+2026,Texas,TX,State Senate,18,general,Erica Gillum,Democratic,165093.0,,False,False
+2026,Texas,TX,State Senate,19,general,Roland Gutierrez,Democratic,178739.0,,True,True
+2026,Texas,TX,State Senate,19,general,Marcus Cardenas,Republican,100630.0,,False,False
+2026,Texas,TX,State Senate,21,general,Judith Zaffirini,Democratic,188053.0,,True,True
+2026,Texas,TX,State Senate,21,general,Julie Dahlberg,Republican,84190.0,,False,False
 2026,Texas,TX,State Senate,22,special general,David Cook,Republican,,,False,False
 2026,Texas,TX,State Senate,22,special general,Amy Martinez-Salas,Democratic,,,False,False
-2026,Texas,TX,State Senate,22,general,David Cook,Republican,,,True,False
-2026,Texas,TX,State Senate,22,general,Amy Martinez-Salas,Democratic,,,False,False
-2026,Texas,TX,State Senate,24,general,Pete Flores,Republican,,,True,True
-2026,Texas,TX,State Senate,24,general,Joe Herrera,Democratic,,,False,False
-2026,Texas,TX,State Senate,26,general,José Menéndez,Democratic,,,True,True
-2026,Texas,TX,State Senate,26,general,Julián Villarreal,Green,,,False,False
-2026,Texas,TX,State Senate,28,general,Charles Perry,Republican,,,True,True
-2026,Texas,TX,State Senate,28,general,Riley Rodriquez,Democratic,,,False,False
-2026,Texas,TX,State Senate,31,general,Kevin Sparks,Republican,,,True,True
-2026,Texas,TX,State Senate,31,general,John Betancourt,Democratic,,,False,False
+2026,Texas,TX,State Senate,22,general,David Cook,Republican,186433.0,,True,False
+2026,Texas,TX,State Senate,22,general,Amy Martinez-Salas,Democratic,146611.0,,False,False
+2026,Texas,TX,State Senate,24,general,Pete Flores,Republican,192054.0,,True,True
+2026,Texas,TX,State Senate,24,general,Joe Herrera,Democratic,147026.0,,False,False
+2026,Texas,TX,State Senate,26,general,José Menéndez,Democratic,179332.0,,True,True
+2026,Texas,TX,State Senate,26,general,Julián Villarreal,Green,33986.0,,False,False
+2026,Texas,TX,State Senate,28,general,Charles Perry,Republican,193190.0,,True,True
+2026,Texas,TX,State Senate,28,general,Riley Rodriquez,Democratic,83931.0,,False,False
+2026,Texas,TX,State Senate,31,general,Kevin Sparks,Republican,163490.0,,True,True
+2026,Texas,TX,State Senate,31,general,John Betancourt,Democratic,60021.0,,False,False
 2026,Utah,UT,State Senate,1,general,Scott Sandall,Republican,,,True,True
 2026,Utah,UT,State Senate,1,general,Claudia Bigler,Democratic,,,False,False
 2026,Utah,UT,State Senate,1,general,Julie Quinlan,Forward,,,False,False
@@ -1486,8 +1498,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Utah,UT,State Senate,9,general,Jen Plumb,Democratic,,,True,False
 2026,Utah,UT,State Senate,9,general,Thaddeus A. Evans,Republican,,,False,False
 2026,Utah,UT,State Senate,9,general,J. Lowry Snow,Forward,,,False,False
-2026,Utah,UT,State Senate,11,general,Emily Buss,Forward,,,True,True
-2026,Utah,UT,State Senate,11,general,Brooks Benson,Republican,,,False,False
+2026,Utah,UT,State Senate,11,general,Brooks Benson,Republican,16358.0,50.19,True,False
+2026,Utah,UT,State Senate,11,general,Emily Buss,Forward,16236.0,49.81,False,True
 2026,Utah,UT,State Senate,12,general,Karen Kwan,Democratic,,,True,False
 2026,Utah,UT,State Senate,12,general,Deidre Tyler,Republican,,,False,False
 2026,Utah,UT,State Senate,13,general,Silvia Catten,Democratic,,,True,False

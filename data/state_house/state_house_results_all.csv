@@ -16138,17 +16138,6 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2018,Illinois,IL,State House,117,general,Jason Woolard,Democratic,19007.0,43.15,False,False
 2018,Illinois,IL,State House,118,general,Patrick Windhorst,Republican,21956.0,56.46,True,False
 2018,Illinois,IL,State House,118,general,Natalie Phelps Finnie,Democratic,16933.0,43.54,False,True
-2018,Indiana,IN,State House,,general,"15 || style=""text-align:left"" | Chris Chyung || Democratic || 82 || 0.33",,,,True,False
-2018,Indiana,IN,State House,,general,"19 || style=""text-align:left"" | Lisa Beck || Democratic || 251 || 0.96",,,,False,False
-2018,Indiana,IN,State House,,general,"89 || style=""text-align:left"" | Cindy Kirchhofer || Republican || 218 || 1.05",,,,False,False
-2018,Indiana,IN,State House,,general,"35 || style=""text-align:left"" | Melanie M. Wright || Democratic || 334 || 1.32",,,,False,False
-2018,Indiana,IN,State House,,general,"5 || style=""text-align:left"" | Dale DeVon || Republican || 473 || 2.06",,,,False,False
-2018,Indiana,IN,State House,,general,"7 || style=""text-align:left"" | Joe Taylor || Democratic || 727 || 3.33",,,,False,False
-2018,Indiana,IN,State House,,general,"4 || style=""text-align:left"" | Ed Soliday || Republican || 1,929 || 6.98",,,,False,False
-2018,Indiana,IN,State House,,general,"81 || style=""text-align:left"" | Martin Carbaugh || Republican || 1,435 || 7.33",,,,False,False
-2018,Indiana,IN,State House,,general,"37 || style=""text-align:left"" | Todd Huston || Republican || 2,772 || 8.93",,,,False,False
-2018,Indiana,IN,State House,,general,"66 || style=""text-align:left"" | Terry Goodin || Democratic || 2,091 || 9.19",,,,False,False
-2018,Indiana,IN,State House,,general,"76 || style=""text-align:left"" | Wendy McNamara || Republican || 2,183 || 9.72",,,,False,False
 2018,Iowa,IA,State House,1,general,John Wills,Republican,10501.0,74.3,True,True
 2018,Iowa,IA,State House,1,general,Karen Larson,Democratic,3617.0,25.6,False,False
 2018,Iowa,IA,State House,2,general,Megan Jones,Republican,8241.0,66.0,True,True
@@ -43932,16 +43921,16 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Alaska,AK,State House,11,general,Danni Hall,Democratic,4175.0,49.1,False,False
 2026,Alaska,AK,State House,12,general,Calvin Schrage,Independent,4965.0,68.9,True,True
 2026,Alaska,AK,State House,12,general,Jieun McDonald,Republican,2222.0,30.8,False,False
-2026,Alaska,AK,State House,13,general,"Keller, Lisa M.",Democratic,4455.0,91.1,True,False
+2026,Alaska,AK,State House,13,general,Lisa Keller,Democratic,4455.0,91.1,True,False
 2026,Alaska,AK,State House,14,general,Alyse Galvin,Independent,4880.0,82.9,True,True
 2026,Alaska,AK,State House,14,general,Russell Wyatt,Independent,940.0,16.0,False,False
 2026,Alaska,AK,State House,15,general,Denny Wells,Democratic,4415.0,54.0,True,False
-2026,Alaska,AK,State House,15,general,Mia Costello,Republican,3746.0,45.8,True,False
+2026,Alaska,AK,State House,15,general,Mia Costello,Republican,3746.0,45.8,False,False
 2026,Alaska,AK,State House,16,general,Carolyn Hall,Democratic,4815.0,58.3,True,True
 2026,Alaska,AK,State House,16,general,Liz Vazquez,Republican,3088.0,37.4,False,False
 2026,Alaska,AK,State House,16,general,Phil Isley,Independent,347.0,4.2,False,False
 2026,Alaska,AK,State House,17,general,Zack Fields,Democratic,4702.0,73.6,True,True
-2026,Alaska,AK,State House,17,general,Daniel Bradley,Republican,1650.0,25.8,True,False
+2026,Alaska,AK,State House,17,general,Daniel Bradley,Republican,1650.0,25.8,False,False
 2026,Alaska,AK,State House,18,general,Cliff Groh,Democratic,1564.0,64.2,True,False
 2026,Alaska,AK,State House,18,general,Dan Sager,Republican,871.0,35.8,False,False
 2026,Alaska,AK,State House,19,general,Genevieve Mina,Democratic,3175.0,94.8,True,True
@@ -44899,30 +44888,44 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Georgia,GA,State House,121,general,Eric Gisler,Democratic,12805.0,47.5,False,True
 2026,Georgia,GA,State House,122,general,Spencer Frye,Democratic,13571.0,84.3,True,True
 2026,Georgia,GA,State House,122,general,Carol Hubbard,Republican,2523.0,15.7,False,False
-2026,Georgia,GA,State House,123,general,R+32.6,Republican,,,True,False
-2026,Georgia,GA,State House,124,general,R+20.2,Republican,,,True,False
-2026,Georgia,GA,State House,125,general,R+11.1,Republican,,,True,False
-2026,Georgia,GA,State House,126,general,D+32.0,Democratic,,,True,False
-2026,Georgia,GA,State House,127,general,R+21.7,Republican,,,True,False
-2026,Georgia,GA,State House,128,general,R+1.5,Democratic,,,True,False
-2026,Georgia,GA,State House,129,general,uncontested,Democratic,,,True,False
-2026,Georgia,GA,State House,130,general,D+49.5,Democratic,,,True,False
-2026,Georgia,GA,State House,131,general,R+16.2,Republican,,,True,False
-2026,Georgia,GA,State House,132,general,uncontested,Democratic,,,True,False
-2026,Georgia,GA,State House,133,general,uncontested,Republican,,,True,False
-2026,Georgia,GA,State House,134,general,uncontested,Republican,,,True,False
-2026,Georgia,GA,State House,135,general,uncontested,Republican,,,True,False
-2026,Georgia,GA,State House,136,general,uncontested,Republican,,,True,False
-2026,Georgia,GA,State House,137,general,uncontested,Democratic,,,True,False
-2026,Georgia,GA,State House,138,general,R+35.2,Republican,,,True,False
-2026,Georgia,GA,State House,139,general,R+11.5,Republican,,,True,False
-2026,Georgia,GA,State House,140,general,D+61.6,Democratic,,,True,False
-2026,Georgia,GA,State House,141,general,D+57.6,Democratic,,,True,False
-2026,Georgia,GA,State House,142,general,D+31.0,Democratic,,,True,False
-2026,Georgia,GA,State House,143,general,uncontested,Democratic,,,True,False
-2026,Georgia,GA,State House,144,general,uncontested,Republican,,,True,False
-2026,Georgia,GA,State House,145,general,D+14.6,Democratic,,,True,False
-2026,Georgia,GA,State House,146,general,uncontested,Republican,,,True,False
+2026,Georgia,GA,State House,123,general,Rob Leverett,Republican,16198.0,66.3,True,True
+2026,Georgia,GA,State House,123,general,Hope Beard,Democratic,8250.0,33.7,False,False
+2026,Georgia,GA,State House,124,general,Trey Rhodes,Republican,17780.0,60.1,True,True
+2026,Georgia,GA,State House,124,general,Melanie Miller,Democratic,11811.0,39.9,False,False
+2026,Georgia,GA,State House,125,general,Gary Richardson,Republican,14166.0,55.5,True,True
+2026,Georgia,GA,State House,125,general,Leonard Hennessy,Democratic,11347.0,44.5,False,False
+2026,Georgia,GA,State House,126,general,L.C. Myles,Democratic,14502.0,66.0,True,True
+2026,Georgia,GA,State House,126,general,William Harris,Republican,7474.0,34.0,False,False
+2026,Georgia,GA,State House,127,general,Mark Newton,Republican,14780.0,60.8,True,True
+2026,Georgia,GA,State House,127,general,Channing Taylor,Democratic,9516.0,39.2,False,False
+2026,Georgia,GA,State House,128,general,Trey Sheppard,Republican,11789.0,50.8,True,False
+2026,Georgia,GA,State House,128,general,Tyrone Evans,Democratic,11432.0,49.2,False,False
+2026,Georgia,GA,State House,129,general,Karlton Howard,Democratic,13730.0,100.0,True,True
+2026,Georgia,GA,State House,130,general,Sheila Nelson,Democratic,13407.0,74.8,True,True
+2026,Georgia,GA,State House,130,general,David Carson,Republican,4528.0,25.2,False,False
+2026,Georgia,GA,State House,131,general,Rob Clifton,Republican,15148.0,58.1,True,True
+2026,Georgia,GA,State House,131,general,Jenny Eppard,Democratic,10941.0,41.9,False,False
+2026,Georgia,GA,State House,132,general,Brian Prince,Democratic,16657.0,100.0,True,True
+2026,Georgia,GA,State House,133,general,Danny Mathis,Republican,16066.0,100.0,True,True
+2026,Georgia,GA,State House,134,general,Robert Dickey,Republican,17630.0,100.0,True,True
+2026,Georgia,GA,State House,135,general,Beth Camp,Republican,20487.0,100.0,True,True
+2026,Georgia,GA,State House,136,general,David Jenkins,Republican,20300.0,100.0,True,True
+2026,Georgia,GA,State House,137,general,Debbie Buckner,Democratic,17292.0,100.0,True,True
+2026,Georgia,GA,State House,138,general,Vance Smith,Republican,17205.0,67.6,True,True
+2026,Georgia,GA,State House,138,general,Cyndie Hutchings,Democratic,8259.0,32.4,False,False
+2026,Georgia,GA,State House,139,general,Carmen Rice,Republican,12734.0,55.8,True,True
+2026,Georgia,GA,State House,139,general,Elliot Valdez,Democratic,10105.0,44.2,False,False
+2026,Georgia,GA,State House,140,general,Marquese Averett,Democratic,9088.0,80.8,True,False
+2026,Georgia,GA,State House,140,general,Edward Kvietkus,Republican,2157.0,19.2,False,False
+2026,Georgia,GA,State House,141,general,Carolyn Hugley,Democratic,13486.0,78.8,True,True
+2026,Georgia,GA,State House,141,general,Reggie Liparoto,Republican,3624.0,21.2,False,False
+2026,Georgia,GA,State House,142,general,Miriam Paris,Democratic,14266.0,65.6,True,True
+2026,Georgia,GA,State House,142,general,Calvin Palmer,Republican,7491.0,34.4,False,False
+2026,Georgia,GA,State House,143,general,Anissa Jones,Democratic,14150.0,100.0,True,True
+2026,Georgia,GA,State House,144,general,Dale Washburn,Republican,22159.0,100.0,True,True
+2026,Georgia,GA,State House,145,general,Tangie Herring,Democratic,12721.0,57.3,True,True
+2026,Georgia,GA,State House,145,general,Eric Wilson,Republican,9464.0,42.7,False,False
+2026,Georgia,GA,State House,146,general,Shaw Blackmon,Republican,20523.0,100.0,True,True
 2026,Georgia,GA,State House,147,general,D+4.7,Republican,,,True,False
 2026,Georgia,GA,State House,148,general,R+31.7,Republican,,,True,False
 2026,Georgia,GA,State House,149,general,D+20.9,Democratic,,,True,False
@@ -46273,7 +46276,31 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Minnesota,MN,State House,57A,general,JD Delgado,Democratic-Farmer-Labor,9952.0,41.73,False,False
 2026,Minnesota,MN,State House,57B,general,Brian Cohn,Democratic-Farmer-Labor,13284.0,53.89,True,False
 2026,Minnesota,MN,State House,57B,general,Jeff Witte,Republican,11343.0,46.02,False,False
+2026,Minnesota,MN,State House,58A,general,Kristi Pursell,Democratic-Farmer-Labor,12518.0,56.06,True,False
+2026,Minnesota,MN,State House,58A,general,Steve Cherney,Republican,9802.0,43.9,False,False
+2026,Minnesota,MN,State House,58B,general,Drew Roach,Republican,12454.0,55.32,True,False
+2026,Minnesota,MN,State House,58B,general,Ed Fellows,Democratic-Farmer-Labor,10043.0,44.61,False,False
+2026,Minnesota,MN,State House,59A,general,Fue Lee,Democratic-Farmer-Labor,11487.0,97.96,True,False
+2026,Minnesota,MN,State House,59B,general,Esther Agbaje,Democratic-Farmer-Labor,17701.0,87.25,True,False
+2026,Minnesota,MN,State House,59B,general,Kenneth Smoron,Republican,2545.0,12.54,False,False
+2026,Minnesota,MN,State House,60A,general,Sydney Jordan,Democratic-Farmer-Labor,20646.0,89.21,True,False
+2026,Minnesota,MN,State House,60A,general,John Holmberg,Republican,2465.0,10.65,False,False
+2026,Minnesota,MN,State House,60B,general,Mohamud Noor,Democratic-Farmer-Labor,12319.0,98.66,True,False
+2026,Minnesota,MN,State House,61A,general,Katie Jones,Democratic-Farmer-Labor,19479.0,98.75,True,False
+2026,Minnesota,MN,State House,61B,general,Jamie Long,Democratic-Farmer-Labor,23609.0,99.04,True,False
+2026,Minnesota,MN,State House,62A,general,Aisha Gomez,Democratic-Farmer-Labor,14047.0,98.56,True,False
+2026,Minnesota,MN,State House,62B,general,Anquam Mahamoud,Democratic-Farmer-Labor,15408.0,91.19,True,False
+2026,Minnesota,MN,State House,62B,general,Bob Sullentrop,Republican,1422.0,8.42,False,False
+2026,Minnesota,MN,State House,63A,general,Samantha Sencer-Mura,Democratic-Farmer-Labor,22580.0,92.02,True,False
+2026,Minnesota,MN,State House,63A,general,Kyle Bragg,Republican,1925.0,7.84,False,False
+2026,Minnesota,MN,State House,63B,general,Emma Greenman,Democratic-Farmer-Labor,23248.0,88.73,True,False
+2026,Minnesota,MN,State House,63B,general,Nicholas Peters,Republican,2928.0,11.17,False,False
 2026,Minnesota,MN,State House,64A,general,Meg Luger-Nikolai,Democratic-Farmer-Labor,19567.0,98.59,True,False
+2026,Minnesota,MN,State House,64B,general,Dave Pinto,Democratic-Farmer-Labor,20940.0,98.02,True,False
+2026,Minnesota,MN,State House,65A,general,Samakab Hussein,Democratic-Farmer-Labor,10363.0,96.99,True,False
+2026,Minnesota,MN,State House,65B,general,Sebastian Ellefson,Democratic-Farmer-Labor,15064.0,97.75,True,False
+2026,Minnesota,MN,State House,66A,general,Leigh Finke,Democratic-Farmer-Labor,18711.0,85.33,True,False
+2026,Minnesota,MN,State House,66A,general,Mark Born,Republican,3172.0,14.46,False,False
 2026,Minnesota,MN,State House,67B,special general,Shelley Buck,Democratic-Farmer-Labor,1913.0,97.55,False,False
 2026,Minnesota,MN,State House,67B,special general,Meg Luger-Nikolai,Democratic-Farmer-Labor,5557.0,95.28,True,False
 2026,Minnesota,MN,State House,67B,special general,Dan Walsh,Republican,254.0,4.36,False,False

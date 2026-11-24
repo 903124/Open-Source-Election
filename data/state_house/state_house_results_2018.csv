@@ -1534,17 +1534,6 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2018,Illinois,IL,State House,117,general,Jason Woolard,Democratic,19007,43.15,False,False
 2018,Illinois,IL,State House,118,general,Patrick Windhorst,Republican,21956,56.46,True,False
 2018,Illinois,IL,State House,118,general,Natalie Phelps Finnie,Democratic,16933,43.54,False,True
-2018,Indiana,IN,State House,,general,"15 || style=""text-align:left"" | Chris Chyung || Democratic || 82 || 0.33",,,,True,False
-2018,Indiana,IN,State House,,general,"19 || style=""text-align:left"" | Lisa Beck || Democratic || 251 || 0.96",,,,False,False
-2018,Indiana,IN,State House,,general,"89 || style=""text-align:left"" | Cindy Kirchhofer || Republican || 218 || 1.05",,,,False,False
-2018,Indiana,IN,State House,,general,"35 || style=""text-align:left"" | Melanie M. Wright || Democratic || 334 || 1.32",,,,False,False
-2018,Indiana,IN,State House,,general,"5 || style=""text-align:left"" | Dale DeVon || Republican || 473 || 2.06",,,,False,False
-2018,Indiana,IN,State House,,general,"7 || style=""text-align:left"" | Joe Taylor || Democratic || 727 || 3.33",,,,False,False
-2018,Indiana,IN,State House,,general,"4 || style=""text-align:left"" | Ed Soliday || Republican || 1,929 || 6.98",,,,False,False
-2018,Indiana,IN,State House,,general,"81 || style=""text-align:left"" | Martin Carbaugh || Republican || 1,435 || 7.33",,,,False,False
-2018,Indiana,IN,State House,,general,"37 || style=""text-align:left"" | Todd Huston || Republican || 2,772 || 8.93",,,,False,False
-2018,Indiana,IN,State House,,general,"66 || style=""text-align:left"" | Terry Goodin || Democratic || 2,091 || 9.19",,,,False,False
-2018,Indiana,IN,State House,,general,"76 || style=""text-align:left"" | Wendy McNamara || Republican || 2,183 || 9.72",,,,False,False
 2018,Iowa,IA,State House,1,general,John Wills,Republican,10501,74.3,True,True
 2018,Iowa,IA,State House,1,general,Karen Larson,Democratic,3617,25.6,False,False
 2018,Iowa,IA,State House,2,general,Megan Jones,Republican,8241,66.0,True,True
