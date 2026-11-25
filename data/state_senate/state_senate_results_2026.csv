@@ -442,9 +442,9 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Illinois,IL,State Senate,30,general,Dem Hold,Democratic,,,True,False
 2026,Illinois,IL,State Senate,32,general,Dem Gain,Republican,,,True,False
 2026,Illinois,IL,State Senate,33,general,Dem Gain,Republican,,,True,False
-2026,Illinois,IL,State Senate,35,general,|,Republican,,,True,False
+2026,Illinois,IL,State Senate,35,general,Rep Hold,Republican,,,True,False
 2026,Illinois,IL,State Senate,36,general,Dem Hold,Democratic,,,True,False
-2026,Illinois,IL,State Senate,38,general,|,Republican,,,True,False
+2026,Illinois,IL,State Senate,38,general,Rep Hold,Republican,,,True,False
 2026,Illinois,IL,State Senate,39,general,Dem Hold,Democratic,,,True,False
 2026,Illinois,IL,State Senate,41,general,Rep Hold,Republican,,,True,False
 2026,Illinois,IL,State Senate,42,general,Dem Hold,Democratic,,,True,False
@@ -1284,39 +1284,58 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Ohio,OH,State Senate,31,general,Rep hold,Republican,,,True,False
 2026,Ohio,OH,State Senate,33,general,},Republican,,,True,False
 2026,Oklahoma,OK,State Senate,17,general,Justin Freeland Wood,Republican,,,True,False
-2026,Oklahoma,OK,State Senate,17,general,Ed Bolt Eliminated in runoff,Democratic,,,True,False
+2026,Oklahoma,OK,State Senate,17,general,Ed Bolt,Democratic,,,False,False
+2026,Oklahoma,OK,State Senate,17,general,Eliminated in runoff,,,,True,False
+2026,Oklahoma,OK,State Senate,17,general,Abby Thompson,Republican,,,False,False
 2026,Oklahoma,OK,State Senate,2,general,Ally Seifried,Republican,,,True,False
+2026,Oklahoma,OK,State Senate,2,general,Randy Cowling,Democratic,,,False,False
 2026,Oklahoma,OK,State Senate,4,general,Tom Woods,Republican,,,True,False
+2026,Oklahoma,OK,State Senate,4,general,Ellen Cuff,Democratic,,,False,False
 2026,Oklahoma,OK,State Senate,6,general,David Bullard,Republican,,,True,False
 2026,Oklahoma,OK,State Senate,6,general,Patrick Southerland,Democratic,,,False,False
 2026,Oklahoma,OK,State Senate,8,general,Bryan Logan,Republican,,,True,False
 2026,Oklahoma,OK,State Senate,8,general,Nathan Brewer,Democratic,,,False,False
 2026,Oklahoma,OK,State Senate,10,general,Bill Coleman,Republican,,,True,False
+2026,Oklahoma,OK,State Senate,10,general,Chayelynn Moore,Democratic,,,False,False
 2026,Oklahoma,OK,State Senate,12,general,Todd Gollihare,Republican,,,True,False
+2026,Oklahoma,OK,State Senate,12,general,Erica Watkins,Democratic,,,False,False
 2026,Oklahoma,OK,State Senate,14,general,Jerry Alvord,Republican,,,True,False
 2026,Oklahoma,OK,State Senate,16,general,Mary B. Boren,Democratic,,,True,False
 2026,Oklahoma,OK,State Senate,18,general,Tyler Herring,Republican,,,True,False
-2026,Oklahoma,OK,State Senate,18,general,Meredith McGinnis Eliminated in runoff,Democratic,,,True,False
-2026,Oklahoma,OK,State Senate,20,general,Chuck Hall,,2018.0,,True,False
+2026,Oklahoma,OK,State Senate,18,general,Meredith McGinnis,Democratic,,,False,False
+2026,Oklahoma,OK,State Senate,18,general,Eliminated in runoff,,,,True,False
+2026,Oklahoma,OK,State Senate,18,general,Jack Stewart,Republican,,,False,False
+2026,Oklahoma,OK,State Senate,20,general,Chuck Hall,Republican,,,True,False
 2026,Oklahoma,OK,State Senate,22,general,Kristen Thompson,Republican,,,True,False
 2026,Oklahoma,OK,State Senate,22,general,Kenny Kemper,Democratic,,,False,False
 2026,Oklahoma,OK,State Senate,24,general,Jon Painter,Republican,,,True,False
 2026,Oklahoma,OK,State Senate,24,general,Johnathan Morales,Democratic,,,False,False
-2026,Oklahoma,OK,State Senate,24,general,Melissa Elder Eliminated in runoff,Independent,,,True,False
+2026,Oklahoma,OK,State Senate,24,general,Melissa Elder,Independent,,,False,False
+2026,Oklahoma,OK,State Senate,24,general,Eliminated in runoff,,,,True,False
+2026,Oklahoma,OK,State Senate,24,general,Robert Keyes,Republican,,,False,False
 2026,Oklahoma,OK,State Senate,26,general,Jessica Winegeart,Republican,,,True,False
+2026,Oklahoma,OK,State Senate,26,general,Eliminated in runoff,,,,True,False
+2026,Oklahoma,OK,State Senate,26,general,Rick Koch,Republican,,,False,False
 2026,Oklahoma,OK,State Senate,28,general,Grant Green,Republican,,,True,False
+2026,Oklahoma,OK,State Senate,28,general,Kevin M. Connor,Democratic,,,False,False
 2026,Oklahoma,OK,State Senate,30,general,Julia Kirt,Democratic,,,True,False
 2026,Oklahoma,OK,State Senate,32,general,Curtis Erwin,Republican,,,True,False
 2026,Oklahoma,OK,State Senate,32,general,Booker T. Newton,Democratic,,,False,False
-2026,Oklahoma,OK,State Senate,32,general,Valentin Peña Eliminated in runoff,Independent,,,True,False
+2026,Oklahoma,OK,State Senate,32,general,Valentin Peña,Independent,,,False,False
+2026,Oklahoma,OK,State Senate,32,general,Eliminated in runoff,,,,True,False
+2026,Oklahoma,OK,State Senate,32,general,Jean Hausheer,Republican,,,False,False
 2026,Oklahoma,OK,State Senate,34,general,Aaron Forst,Republican,,,True,False
-2026,Oklahoma,OK,State Senate,34,general,Amy Hossain Eliminated in runoff,Democratic,,,True,False
+2026,Oklahoma,OK,State Senate,34,general,Amy Hossain,Democratic,,,False,False
+2026,Oklahoma,OK,State Senate,34,general,Eliminated in runoff,,,,True,False
+2026,Oklahoma,OK,State Senate,34,general,Dana Prieto,Republican,,,False,False
 2026,Oklahoma,OK,State Senate,36,general,John Haste,Republican,,,True,False
+2026,Oklahoma,OK,State Senate,36,general,Rick Larsen,Democratic,,,False,False
 2026,Oklahoma,OK,State Senate,38,general,Rick Vernon,Republican,,51.0,True,False
 2026,Oklahoma,OK,State Senate,38,general,Joe B. Buchanan,Republican,,43.0,False,False
 2026,Oklahoma,OK,State Senate,38,general,Barry Christian,Republican,,6.0,False,False
 2026,Oklahoma,OK,State Senate,40,general,Carri Hicks,Democratic,,,True,False
 2026,Oklahoma,OK,State Senate,42,general,Brenda Stanley,Republican,,,True,False
+2026,Oklahoma,OK,State Senate,42,general,Chris Jones,Democratic,,,False,False
 2026,Oklahoma,OK,State Senate,44,general,Michael Brooks-Jimenez,Democratic,,,True,False
 2026,Oklahoma,OK,State Senate,46,general,Mark Mann,Democratic,,,True,False
 2026,Oklahoma,OK,State Senate,48,general,Nikki Nice,Democratic,,,True,False

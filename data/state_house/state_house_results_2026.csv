@@ -1172,10 +1172,14 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Georgia,GA,State House,145,general,Tangie Herring,Democratic,12721,57.3,True,True
 2026,Georgia,GA,State House,145,general,Eric Wilson,Republican,9464,42.7,False,False
 2026,Georgia,GA,State House,146,general,Shaw Blackmon,Republican,20523,100.0,True,True
-2026,Georgia,GA,State House,147,general,D+4.7,Republican,,,True,False
-2026,Georgia,GA,State House,148,general,R+31.7,Republican,,,True,False
-2026,Georgia,GA,State House,149,general,D+20.9,Democratic,,,True,False
-2026,Georgia,GA,State House,150,general,D+15.9,Democratic,,,True,False
+2026,Georgia,GA,State House,147,general,Renita Duncan,Democratic,12094,52.4,True,False
+2026,Georgia,GA,State House,147,general,Bethany Ballard,Republican,10996,47.6,False,True
+2026,Georgia,GA,State House,148,general,Noel Williams Jr.,Republican,13877,65.9,True,True
+2026,Georgia,GA,State House,148,general,Cynthia Johnson,Democratic,7194,34.1,False,False
+2026,Georgia,GA,State House,149,general,Floyd Griffin,Democratic,11547,60.5,True,True
+2026,Georgia,GA,State House,149,general,Randy Peters,Republican,7553,39.5,False,False
+2026,Georgia,GA,State House,150,general,Patty Marie Stinson,Democratic,10578,58.0,True,True
+2026,Georgia,GA,State House,150,general,Cary Moore,Republican,7674,42.0,False,False
 2026,Georgia,GA,State House,151,general,runoff needed,Republican,,,True,False
 2026,Georgia,GA,State House,152,general,R+30.1,Republican,,,True,False
 2026,Georgia,GA,State House,153,general,uncontested,Democratic,,,True,False
@@ -1418,7 +1422,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Kansas,KS,State House,5,general,Courtney Sappington,Republican,,,True,False
 2026,Kansas,KS,State House,6,general,Samantha Poetter Parshall,Republican,,,True,False
 2026,Kansas,KS,State House,7,general,Thomas Douglas Allen,Republican,,,True,False
-2026,Kansas,KS,State House,8,general,TBD,Republican,,,True,False
+2026,Kansas,KS,State House,8,general,Megan Phillips,Democratic,,,True,False
 2026,Kansas,KS,State House,9,general,Fred Gardner,Republican,,,True,False
 2026,Kansas,KS,State House,10,general,Suzanne Wikle,Democratic,,,True,False
 2026,Kansas,KS,State House,11,general,Ron Bryce,Republican,,,True,False
@@ -1436,8 +1440,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Kansas,KS,State House,23,general,Susan Ruiz,Democratic,,,True,False
 2026,Kansas,KS,State House,24,general,Jarrod Ousley,Democratic,,,True,False
 2026,Kansas,KS,State House,25,general,Rui Xu,Democratic,,,True,False
-2026,Kansas,KS,State House,26,general,TBD,Republican,,,True,False
-2026,Kansas,KS,State House,27,general,TBD,Republican,,,True,False
+2026,Kansas,KS,State House,26,general,Chip VanHouden,Republican,,,True,False
+2026,Kansas,KS,State House,27,general,Sara Kiewiet,Democratic,,,True,False
 2026,Kansas,KS,State House,28,general,Bryan Mouber,Democratic,,,True,False
 2026,Kansas,KS,State House,29,general,Heather Meyer,Democratic,,,True,False
 2026,Kansas,KS,State House,30,general,Amanda Wiederaenders,Democratic,,,True,False
@@ -1450,10 +1454,10 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Kansas,KS,State House,37,general,Melissa Oropeza,Democratic,,,True,False
 2026,Kansas,KS,State House,38,general,Timothy H. Johnson,Republican,,,True,False
 2026,Kansas,KS,State House,39,general,Zach Maier,Democratic,,,True,False
-2026,Kansas,KS,State House,40,general,TBD,Republican,,,True,False
+2026,Kansas,KS,State House,40,general,David Buehler,Republican,,,True,False
 2026,Kansas,KS,State House,41,general,Jeff Pittman,Democratic,,,True,False
 2026,Kansas,KS,State House,42,general,Lance Neelly,Republican,,,True,False
-2026,Kansas,KS,State House,43,general,TBD,Republican,,,True,False
+2026,Kansas,KS,State House,43,general,Kristen Schultz,Democratic,,,True,False
 2026,Kansas,KS,State House,44,general,Barbara Ballard,Democratic,,,True,False
 2026,Kansas,KS,State House,45,general,Mike Amyx,Democratic,,,True,False
 2026,Kansas,KS,State House,46,general,Brooklynne Mosley,Democratic,,,True,False
@@ -1527,13 +1531,13 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Kansas,KS,State House,114,general,Kevin Schwertfeger,Republican,,,True,False
 2026,Kansas,KS,State House,115,general,Gary White,Republican,,,True,False
 2026,Kansas,KS,State House,116,general,Kyle Hoffman,Republican,,,True,False
-2026,Kansas,KS,State House,117,general,TBD,Republican,,,True,False
+2026,Kansas,KS,State House,117,general,Brandon Holland,Democratic,,,True,False
 2026,Kansas,KS,State House,118,general,Jim Minnix,Republican,,,True,False
 2026,Kansas,KS,State House,119,general,Jason Goetz,Republican,,,True,False
 2026,Kansas,KS,State House,120,general,Adam Smith,Republican,,,True,False
 2026,Kansas,KS,State House,121,general,Kelsey Stock,Democratic,,,True,False
 2026,Kansas,KS,State House,122,general,Lon Pishny,Republican,,,True,False
-2026,Kansas,KS,State House,123,general,TBD,Republican,,,True,False
+2026,Kansas,KS,State House,123,general,Becca Burnfin,Democratic,,,True,False
 2026,Kansas,KS,State House,124,general,Marty Long,Republican,,,True,False
 2026,Kansas,KS,State House,125,general,},Republican,,,True,False
 2026,Kentucky,KY,State House,1,general,Steven Jack Rudy,Republican,,,True,True
@@ -2547,6 +2551,11 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Minnesota,MN,State House,65B,general,Sebastian Ellefson,Democratic-Farmer-Labor,15064,97.75,True,False
 2026,Minnesota,MN,State House,66A,general,Leigh Finke,Democratic-Farmer-Labor,18711,85.33,True,False
 2026,Minnesota,MN,State House,66A,general,Mark Born,Republican,3172,14.46,False,False
+2026,Minnesota,MN,State House,66B,general,Athena Hollins,Democratic-Farmer-Labor,10962,83.3,True,False
+2026,Minnesota,MN,State House,66B,general,Mary O'Neal,Republican,2173,16.51,False,False
+2026,Minnesota,MN,State House,67A,general,Liz Lee,Democratic-Farmer-Labor,8825,80.83,True,False
+2026,Minnesota,MN,State House,67A,general,Jennifer McPherson,Republican,2070,18.96,False,False
+2026,Minnesota,MN,State House,67B,general,Jay Xiong,Democratic-Farmer-Labor,10439,97.32,True,False
 2026,Minnesota,MN,State House,67B,special general,Shelley Buck,Democratic-Farmer-Labor,1913,97.55,False,False
 2026,Minnesota,MN,State House,67B,special general,Meg Luger-Nikolai,Democratic-Farmer-Labor,5557,95.28,True,False
 2026,Minnesota,MN,State House,67B,special general,Dan Walsh,Republican,254,4.36,False,False
@@ -3708,8 +3717,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Ohio,OH,State House,98,general,Scott Grund,Democratic,10283.0,29.02,False,False
 2026,Ohio,OH,State House,99,general,Sarah Fowler Arthur,Republican,28521.0,58.51,True,True
 2026,Ohio,OH,State House,99,general,Louis Murphy,Democratic,20227.0,41.49,False,False
-2026,Ohio,OH,State House,29,general,TBD,Republican,,,True,False
-2026,Ohio,OH,State House,37,general,TBD,Republican,,,True,False
+2026,Ohio,OH,State House,29,general,Jonathan Bradner,Democratic,,,True,False
+2026,Ohio,OH,State House,37,general,Tom Herner,Democratic,,,True,False
 2026,Oklahoma,OK,State House,35,general,Dillon Travis,Republican,,,True,False
 2026,Oklahoma,OK,State House,35,general,Luke Kruse (Democrat) Eliminated in the runoff,Democratic,,,True,False
 2026,Oklahoma,OK,State House,35,general,Mike Waters (Republican) Eliminated in the primary,Republican,,,True,False
@@ -4096,8 +4105,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Pennsylvania,PA,State House,39,general,Dylan Altemara,Democratic,12693.0,46.6,False,False
 2026,Pennsylvania,PA,State House,40,general,Natalie Mihalek,Republican,16777.0,51.5,True,False
 2026,Pennsylvania,PA,State House,40,general,Jon Lloyd,Democratic,15822.0,48.5,False,False
-2026,Pennsylvania,PA,State House,41,general,Brett Miller,Republican,14263.0,50.0,False,False
-2026,Pennsylvania,PA,State House,41,general,Bradford T. Chambers,Democratic,14291.0,50.0,True,False
+2026,Pennsylvania,PA,State House,41,general,Brad Chambers,Democratic,14295.0,50.02,True,False
+2026,Pennsylvania,PA,State House,41,general,Brett Miller,Republican,14265.0,49.91,False,False
 2026,Pennsylvania,PA,State House,42,general,Jen Mazzocco,Democratic,24714.0,100.0,True,False
 2026,Pennsylvania,PA,State House,43,general,Keith Greiner,Republican,13877.0,64.6,True,False
 2026,Pennsylvania,PA,State House,43,general,Bryan K. Peirson,Democratic,7595.0,35.4,False,False
@@ -5565,103 +5574,103 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Washington,WA,State House,POSITION 1,general,Sarah Mittelman,Republican,,,False,False
 2026,Washington,WA,State House,POSITION 2,general,Monica Stonier,Democratic,,,False,True
 2026,Washington,WA,State House,POSITION 2,general,Derek Thompson,Republican,,,False,False
-2026,Washington,WA,State House,1,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,3,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,4,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,5,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,6,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,7,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,8,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,9,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,10,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,11,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,12,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,13,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,14,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,15,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,16,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,17,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,18,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,19,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,20,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,21,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,22,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,23,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,24,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,25,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,26,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,27,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,28,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,29,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,30,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,31,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,32,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,33,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,34,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,35,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,36,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,37,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,38,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,39,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Republican,,,True,False
-2026,Washington,WA,State House,40,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,41,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,42,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,43,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,44,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,45,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,46,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,47,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,48,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,2,general,TBD,Democratic,,,True,False
-2026,Washington,WA,State House,49,general,TBD,Democratic,,,True,False
+2026,Washington,WA,State House,1,general,Davina Duerr,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Shelley Kloba,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Andrew Barkis,Republican,,,True,False
+2026,Washington,WA,State House,2,general,Matt Marshall,Republican,,,True,False
+2026,Washington,WA,State House,3,general,Natasha Hill,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Luc Jasmin III,Democratic,,,True,False
+2026,Washington,WA,State House,4,general,Hillary Pham,Republican,,,True,False
+2026,Washington,WA,State House,2,general,Rob Chase,Republican,,,True,False
+2026,Washington,WA,State House,5,general,Zach Hall,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Lisa Callan,Democratic,,,True,False
+2026,Washington,WA,State House,6,general,Alan Nolan,Republican,,,True,False
+2026,Washington,WA,State House,2,general,Jonathan Bingle,Republican,,,True,False
+2026,Washington,WA,State House,7,general,Andrew Engell,Republican,,,True,False
+2026,Washington,WA,State House,2,general,Hunter Abell,Republican,,,True,False
+2026,Washington,WA,State House,8,general,Stephanie Barnard,Republican,,,True,False
+2026,Washington,WA,State House,2,general,April Connors,Republican,,,True,False
+2026,Washington,WA,State House,9,general,Mary Dye,Republican,,,True,False
+2026,Washington,WA,State House,2,general,Joe Schmick,Republican,,,True,False
+2026,Washington,WA,State House,10,general,Clyde Shavers,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Dave Paul,Democratic,,,True,False
+2026,Washington,WA,State House,11,general,David Hackney,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Steve Bergquist,Democratic,,,True,False
+2026,Washington,WA,State House,12,general,Stacy Willoughby,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Mike Steele,Republican,,,True,False
+2026,Washington,WA,State House,13,general,Tom Dent,Republican,,,True,False
+2026,Washington,WA,State House,2,general,Joshua Thompson,Republican,,,True,False
+2026,Washington,WA,State House,14,general,Chelsea Dimas,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Ezequiel Morfín,Democratic,,,True,False
+2026,Washington,WA,State House,15,general,Chris Corry,Republican,,,True,False
+2026,Washington,WA,State House,2,general,Reedy Berg,Republican,,,True,False
+2026,Washington,WA,State House,16,general,Mark Klicker,Republican,,,True,False
+2026,Washington,WA,State House,2,general,Skyler Rude,Republican,,,True,False
+2026,Washington,WA,State House,17,general,Ben Christly,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Diana Perez,Democratic,,,True,False
+2026,Washington,WA,State House,18,general,Randi Knott,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Deken Letinich,Democratic,,,True,False
+2026,Washington,WA,State House,19,general,Jim Walsh,Republican,,,True,False
+2026,Washington,WA,State House,2,general,Joel McEntire,Republican,,,True,False
+2026,Washington,WA,State House,20,general,Peter Abbarno,Republican,,,True,False
+2026,Washington,WA,State House,2,general,Ed Orcutt,Republican,,,True,False
+2026,Washington,WA,State House,21,general,Strom Peterson,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Lillian Ortiz-Self,Democratic,,,True,False
+2026,Washington,WA,State House,22,general,Beth Doglio,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Lisa Parshley,Democratic,,,True,False
+2026,Washington,WA,State House,23,general,Tarra Simmons,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Greg Nance,Democratic,,,True,False
+2026,Washington,WA,State House,24,general,Adam Bernbaum,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Kaylee Kuehn,Democratic,,,True,False
+2026,Washington,WA,State House,25,general,David Berg,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Jenn Marie Strickling,Democratic,,,True,False
+2026,Washington,WA,State House,26,general,Adison Richards,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Renee Hernandez Greenfield,Democratic,,,True,False
+2026,Washington,WA,State House,27,general,Laurie Jinkins,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Jake Fey,Democratic,,,True,False
+2026,Washington,WA,State House,28,general,Mari Leavitt,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Dan Bronoske,Democratic,,,True,False
+2026,Washington,WA,State House,29,general,Krista Perez,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Patrick Stickney,Democratic,,,True,False
+2026,Washington,WA,State House,30,general,Jamila Taylor,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Kristine Reeves,Democratic,,,True,False
+2026,Washington,WA,State House,31,general,Drew Stokesbary,Republican,,,True,False
+2026,Washington,WA,State House,2,general,Josh Penner,Republican,,,True,False
+2026,Washington,WA,State House,32,general,Danica Noble,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Lauren Davis,Democratic,,,True,False
+2026,Washington,WA,State House,33,general,Edwin Obras,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Mia Gregerson,Democratic,,,True,False
+2026,Washington,WA,State House,34,general,Brianna Thomas,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Joe Fitzgibbon,Democratic,,,True,False
+2026,Washington,WA,State House,35,general,Dan Griffey,Republican,,,True,False
+2026,Washington,WA,State House,2,general,Travis Couture,Republican,,,True,False
+2026,Washington,WA,State House,36,general,Julia Reed,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Liz Berry,Democratic,,,True,False
+2026,Washington,WA,State House,37,general,Kelabe Tewolde,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Jaelynn Scott,Democratic,,,True,False
+2026,Washington,WA,State House,38,general,Julio Cortes,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Mary Fosse,Democratic,,,True,False
+2026,Washington,WA,State House,39,general,Sam Low,Republican,,,True,False
+2026,Washington,WA,State House,2,general,Steve Ewing,Republican,,,True,False
+2026,Washington,WA,State House,40,general,Debra Lekanoff,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Alex Ramel,Democratic,,,True,False
+2026,Washington,WA,State House,41,general,Janice Zahn,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,My-Linh Thai,Democratic,,,True,False
+2026,Washington,WA,State House,42,general,Alicia Rule,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Joe Timmons,Democratic,,,True,False
+2026,Washington,WA,State House,43,general,Nicole Macri,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Shaun Scott,Democratic,,,True,False
+2026,Washington,WA,State House,44,general,Brandy Donaghy,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,April Berg,Democratic,,,True,False
+2026,Washington,WA,State House,45,general,Roger Goodman,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Vanessa Kritzer,Democratic,,,True,False
+2026,Washington,WA,State House,46,general,Gerry Pollet,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Darya Farivar,Democratic,,,True,False
+2026,Washington,WA,State House,47,general,Debra Entenman,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Chris Stearns,Democratic,,,True,False
+2026,Washington,WA,State House,48,general,Osman Salahuddin,Democratic,,,True,False
+2026,Washington,WA,State House,2,general,Jessica Forsythe,Democratic,,,True,False
+2026,Washington,WA,State House,49,general,Kim Harless,Democratic,,,True,False
 2026,Washington,WA,State House,2,general,},Democratic,,,True,False
 2026,West Virginia,WV,State House,1,general,Pat McGeehan,Republican,,,True,True
 2026,West Virginia,WV,State House,1,general,Quincy Wilson,Democratic,,,False,False
