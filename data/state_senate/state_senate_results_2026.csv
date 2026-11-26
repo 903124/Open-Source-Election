@@ -51,8 +51,10 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Alabama,AL,State Senate,33,general,Vivian Davis Figures,Democratic,,,True,True
 2026,Alabama,AL,State Senate,34,general,Rusty Glover,Republican,,,True,False
 2026,Alabama,AL,State Senate,35,general,David Sessions,Republican,,,True,True
-2026,Alaska,AK,State Senate,DISTRICT A,general,Bert Stedman,Republican,5851,100.0,True,True
 2026,Alaska,AK,State Senate,DISTRICT A,general,"Stedman, Bert K.",Republican,11422,96.5,True,False
+2026,Alaska,AK,State Senate,DISTRICT C,general,Louise Stutes,Republican,7426,50.0,True,False
+2026,Alaska,AK,State Senate,DISTRICT C,general,Heath Smith,Republican,5505,37.1,False,False
+2026,Alaska,AK,State Senate,DISTRICT C,general,Carrie Harris,Republican,1772,11.9,False,False
 2026,Alaska,AK,State Senate,DISTRICT E,general,"Giessel, Cathy",Republican,10056,62.4,True,False
 2026,Alaska,AK,State Senate,DISTRICT E,general,"Stoddard, Gretchen W.",Republican,3823,23.7,False,False
 2026,Alaska,AK,State Senate,DISTRICT E,general,"White, Jason ""Jace""",Republican,2031,12.6,False,False
@@ -729,7 +731,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Michigan,MI,State Senate,32,general,Rebecca Amidon,Democratic,62498,50.5,True,False
 2026,Michigan,MI,State Senate,32,general,Kim Cole,Republican,61266,49.5,False,False
 2026,Michigan,MI,State Senate,33,general,Gina Johnsen,Republican,80036,65.49,True,False
-2026,Michigan,MI,State Senate,33,general,Stan Opan,Democratic,42167,34.51,False,False
+2026,Michigan,MI,State Senate,33,general,Stan Opal,Democratic,42167,34.51,False,False
 2026,Michigan,MI,State Senate,34,general,Roger Hauck,Republican,74114,63.45,True,True
 2026,Michigan,MI,State Senate,34,general,Tyler Landgraf,Democratic,42698,36.55,False,False
 2026,Michigan,MI,State Senate,35,general,Laurie Atwood,U.s. Taxpayers,1825,1.49,False,False
@@ -747,7 +749,6 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Minnesota,MN,State Senate,2,general,Calvin Larson Jr,,649.0,1.72,False,False
 2026,Minnesota,MN,State Senate,3,general,Grant Hauschild,Democratic-Farmer-Labor,,,True,False
 2026,Minnesota,MN,State Senate,3,general,Andrea Zupancich,Republican,20866.0,45.54,False,False
-2026,Minnesota,MN,State Senate,4,general,Austin Peterson*,Democratic-Farmer-Labor,,,True,False
 2026,Minnesota,MN,State Senate,5,general,Mike Wiener,Republican,,,True,False
 2026,Minnesota,MN,State Senate,5,general,Skylar Fynboh,Democratic-Farmer-Labor,12197.0,28.58,False,False
 2026,Minnesota,MN,State Senate,6,general,Keri Heintzeman,Republican,,,True,False
@@ -1587,47 +1588,47 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Vermont,VT,State Senate,WINDSOR SENATE,general,Joe Izzo,Independent,,,False,False
 2026,Vermont,VT,State Senate,WINDSOR SENATE,general,Andrea Murray,Republican,,,False,False
 2026,Vermont,VT,State Senate,WINDSOR SENATE,general,Jack Williams,Republican,,,False,False
-2026,Washington,WA,State Senate,6,general,Jeff Holy,Republican,,,True,True
-2026,Washington,WA,State Senate,7,general,Shelly Short,Republican,,,True,True
-2026,Washington,WA,State Senate,7,general,Ronald McCoy,No party preference,,,False,False
-2026,Washington,WA,State Senate,8,general,Nikki Torres,Republican,,,True,False
-2026,Washington,WA,State Senate,8,general,Gabe Galbraith,Republican,,,False,False
-2026,Washington,WA,State Senate,13,general,Alex Ybarra,Republican,,,True,False
-2026,Washington,WA,State Senate,15,general,Jeremie Dufault,Republican,,,True,False
-2026,Washington,WA,State Senate,21,general,Marko Liias,Democratic,,,True,True
-2026,Washington,WA,State Senate,21,general,Riaz Khan,Republican,,,False,False
-2026,Washington,WA,State Senate,26,general,Deborah Krishnadasan,Democratic,,,True,True
-2026,Washington,WA,State Senate,26,general,Gary Parker,Republican,,,False,False
-2026,Washington,WA,State Senate,29,general,Sharlett Mena,Democratic,,,True,False
-2026,Washington,WA,State Senate,29,general,David Anderson,Democratic,,,False,False
-2026,Washington,WA,State Senate,30,general,Claire Wilson,Democratic,,,True,True
-2026,Washington,WA,State Senate,30,general,Michael Rutland,Republican,,,False,False
-2026,Washington,WA,State Senate,31,general,Phil Fortunato,Republican,,,True,True
-2026,Washington,WA,State Senate,31,general,Tamara Stramel,Democratic,,,False,False
-2026,Washington,WA,State Senate,32,general,Cindy Ryu,Democratic,,,True,False
-2026,Washington,WA,State Senate,32,general,Jesse Salomon,Democratic,,,False,True
-2026,Washington,WA,State Senate,33,general,Tina Orwall,Democratic,,,True,True
-2026,Washington,WA,State Senate,34,general,Emily Alvarado,Democratic,,,True,True
-2026,Washington,WA,State Senate,35,general,Drew MacEwen,Republican,,,True,True
-2026,Washington,WA,State Senate,35,general,Carolina Mejia,Democratic,,,False,False
-2026,Washington,WA,State Senate,36,general,Noel Frame,Democratic,,,True,True
-2026,Washington,WA,State Senate,36,general,Jillian England,Republican,,,False,False
-2026,Washington,WA,State Senate,37,general,Chipalo Street,Democratic,,,True,False
-2026,Washington,WA,State Senate,37,general,Tatiana Brown,Democratic,,,False,False
-2026,Washington,WA,State Senate,38,general,June Robinson,Democratic,,,True,True
-2026,Washington,WA,State Senate,38,general,Brad Bender,Republican,,,False,False
-2026,Washington,WA,State Senate,42,general,Erika Creydt,Republican,,,True,False
-2026,Washington,WA,State Senate,42,general,Michael Shepard,Democratic,,,False,False
-2026,Washington,WA,State Senate,43,general,Jamie Pedersen,Democratic,,,True,True
-2026,Washington,WA,State Senate,43,general,Hannah Sabio-Howell,Democratic,,,False,False
-2026,Washington,WA,State Senate,44,general,John Lovick,Democratic,,,True,True
-2026,Washington,WA,State Senate,44,general,Sherri Larkin,Republican,,,False,False
-2026,Washington,WA,State Senate,45,general,Manka Dhingra,Democratic,,,True,True
-2026,Washington,WA,State Senate,46,general,Javier Valdez,Democratic,,,True,True
-2026,Washington,WA,State Senate,46,general,Sandra Stephens,Republican,,,False,False
-2026,Washington,WA,State Senate,47,general,Claudia Kauffman,Democratic,,,True,True
-2026,Washington,WA,State Senate,47,general,Kristina Soltys,Republican,,,False,False
-2026,Washington,WA,State Senate,48,general,Vandana Slatter,Democratic,,,True,True
+2026,Washington,WA,State Senate,6,general,Jeff Holy,Republican,41849,91.58,True,True
+2026,Washington,WA,State Senate,7,general,Shelly Short,Republican,45368,67.02,True,True
+2026,Washington,WA,State Senate,7,general,Ronald McCoy,No party preference,21917,32.38,False,False
+2026,Washington,WA,State Senate,8,general,Nikki Torres,Republican,27619,52.75,True,False
+2026,Washington,WA,State Senate,8,general,Gabe Galbraith,Republican,23706,45.27,False,False
+2026,Washington,WA,State Senate,13,general,Alex Ybarra,Republican,38903,96.74,True,False
+2026,Washington,WA,State Senate,15,general,Jeremie Dufault,Republican,40137,94.36,True,False
+2026,Washington,WA,State Senate,21,general,Marko Liias,Democratic,42354,72.1,True,True
+2026,Washington,WA,State Senate,21,general,Riaz Khan,Republican,16202,27.58,False,False
+2026,Washington,WA,State Senate,26,general,Deborah Krishnadasan,Democratic,44093,56.21,True,True
+2026,Washington,WA,State Senate,26,general,Gary Parker,Republican,34265,43.68,False,False
+2026,Washington,WA,State Senate,29,general,Sharlett Mena,Democratic,25057,70.81,True,False
+2026,Washington,WA,State Senate,29,general,David Anderson,Democratic,9307,26.3,False,False
+2026,Washington,WA,State Senate,30,general,Claire Wilson,Democratic,28802,64.35,True,True
+2026,Washington,WA,State Senate,30,general,Michael Rutland,Republican,15912,35.55,False,False
+2026,Washington,WA,State Senate,31,general,Phil Fortunato,Republican,35997,54.53,True,True
+2026,Washington,WA,State Senate,31,general,Tamara Stramel,Democratic,29981,45.41,False,False
+2026,Washington,WA,State Senate,32,general,Cindy Ryu,Democratic,33024,50.94,True,False
+2026,Washington,WA,State Senate,32,general,Jesse Salomon,Democratic,30825,47.55,False,True
+2026,Washington,WA,State Senate,33,general,Tina Orwall,Democratic,36939,96.26,True,True
+2026,Washington,WA,State Senate,34,general,Emily Alvarado,Democratic,60433,97.98,True,True
+2026,Washington,WA,State Senate,35,general,Drew MacEwen,Republican,39491,50.12,True,True
+2026,Washington,WA,State Senate,35,general,Carolina Mejia,Democratic,39212,49.77,False,False
+2026,Washington,WA,State Senate,36,general,Noel Frame,Democratic,74094,87.61,True,True
+2026,Washington,WA,State Senate,36,general,Jillian England,Republican,10340,12.23,False,False
+2026,Washington,WA,State Senate,37,general,Chipalo Street,Democratic,45473,71.9,True,False
+2026,Washington,WA,State Senate,37,general,Tatiana Brown,Democratic,17316,27.38,False,False
+2026,Washington,WA,State Senate,38,general,June Robinson,Democratic,34860,65.35,True,True
+2026,Washington,WA,State Senate,38,general,Brad Bender,Republican,18397,34.49,False,False
+2026,Washington,WA,State Senate,42,general,Michael Shepard,Democratic,44471,56.55,True,False
+2026,Washington,WA,State Senate,42,general,Erika Creydt,Republican,34083,43.34,False,False
+2026,Washington,WA,State Senate,43,general,Jamie Pedersen,Democratic,47168,71.49,True,True
+2026,Washington,WA,State Senate,43,general,Hannah Sabio-Howell,Democratic,18217,27.61,False,False
+2026,Washington,WA,State Senate,44,general,John Lovick,Democratic,39665,62.21,True,True
+2026,Washington,WA,State Senate,44,general,Sherri Larkin,Republican,24041,37.71,False,False
+2026,Washington,WA,State Senate,45,general,Manka Dhingra,Democratic,48751,93.49,True,True
+2026,Washington,WA,State Senate,46,general,Javier Valdez,Democratic,68410,89.85,True,True
+2026,Washington,WA,State Senate,46,general,Sandra Stephens,Republican,7615,10.0,False,False
+2026,Washington,WA,State Senate,47,general,Claudia Kauffman,Democratic,32163,61.31,True,True
+2026,Washington,WA,State Senate,47,general,Kristina Soltys,Republican,20256,38.61,False,False
+2026,Washington,WA,State Senate,48,general,Vandana Slatter,Democratic,36758,96.77,True,True
 2026,West Virginia,WV,State Senate,1,general,Laura Chapman,Republican,,,True,True
 2026,West Virginia,WV,State Senate,1,general,Shawn Fluharty,Democratic,,,False,False
 2026,West Virginia,WV,State Senate,2,general,Toby Heaney,Republican,,,True,False

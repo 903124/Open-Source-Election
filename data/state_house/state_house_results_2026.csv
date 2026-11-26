@@ -1180,17 +1180,24 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Georgia,GA,State House,149,general,Randy Peters,Republican,7553,39.5,False,False
 2026,Georgia,GA,State House,150,general,Patty Marie Stinson,Democratic,10578,58.0,True,True
 2026,Georgia,GA,State House,150,general,Cary Moore,Republican,7674,42.0,False,False
-2026,Georgia,GA,State House,151,general,runoff needed,Republican,,,True,False
-2026,Georgia,GA,State House,152,general,R+30.1,Republican,,,True,False
-2026,Georgia,GA,State House,153,general,uncontested,Democratic,,,True,False
-2026,Georgia,GA,State House,154,general,D+0.3,Republican,,,True,False
-2026,Georgia,GA,State House,155,general,R+31.1,Republican,,,True,False
-2026,Georgia,GA,State House,156,general,uncontested,Republican,,,True,False
-2026,Georgia,GA,State House,157,general,R+47.4,Republican,,,True,False
-2026,Georgia,GA,State House,158,general,uncontested,Republican,,,True,False
-2026,Georgia,GA,State House,159,general,uncontested,Republican,,,True,False
-2026,Georgia,GA,State House,160,general,uncontested,Republican,,,True,False
-2026,Georgia,GA,State House,161,general,D+3.7,Republican,,,True,False
+2026,Georgia,GA,State House,151,general,Mike Cheokas,Republican,9403,47.9,True,True
+2026,Georgia,GA,State House,151,general,Ethan Wolfe,Democratic,8022,40.9,True,False
+2026,Georgia,GA,State House,151,general,Travis Lockhart,Independent,2212,11.3,False,False
+2026,Georgia,GA,State House,152,general,Bill Yearta,Republican,14528,65.5,True,True
+2026,Georgia,GA,State House,152,general,Mitchell Rosa,Democratic,7649,34.5,False,False
+2026,Georgia,GA,State House,153,general,David Sampson,Democratic,14616,100.0,True,True
+2026,Georgia,GA,State House,154,general,Gerald Greene,Republican,10195,50.6,True,True
+2026,Georgia,GA,State House,154,general,Harry James,Democratic,9944,49.4,False,False
+2026,Georgia,GA,State House,155,general,Matt Hatchett,Republican,13824,65.5,True,True
+2026,Georgia,GA,State House,155,general,Joe Powers,Democratic,7267,34.5,False,False
+2026,Georgia,GA,State House,156,general,Leesa Hagan,Republican,14110,100.0,True,True
+2026,Georgia,GA,State House,157,general,Bradley Anderson,Republican,12640,73.7,True,False
+2026,Georgia,GA,State House,157,general,Micah King,Democratic,4513,26.3,False,False
+2026,Georgia,GA,State House,158,general,Butch Parrish,Republican,15706,100.0,True,True
+2026,Georgia,GA,State House,159,general,Jon G. Burns,Republican,17561,100.0,True,True
+2026,Georgia,GA,State House,160,general,Lehman Franklin,Republican,13487,100.0,True,True
+2026,Georgia,GA,State House,161,general,David Dillie,Democratic,11488,51.8,True,False
+2026,Georgia,GA,State House,161,general,Bill Hitchens,Republican,10670,48.2,False,True
 2026,Georgia,GA,State House,162,general,uncontested,Democratic,,,True,False
 2026,Georgia,GA,State House,163,general,uncontested,Democratic,,,True,False
 2026,Georgia,GA,State House,164,general,D+5.1,Republican,,,True,False
@@ -1210,7 +1217,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Georgia,GA,State House,178,general,R+63.9,Republican,,,True,False
 2026,Georgia,GA,State House,179,general,uncontested,Republican,,,True,False
 2026,Georgia,GA,State House,180,general,},Republican,,,True,False
-2026,Hawaii,HI,State House,14,general,Pa'ele Kaikona,Green,2991,42.1,True,False
+2026,Hawaii,HI,State House,14,general,Pāʻele Kiakona,Green,2991,42.1,True,False
 2026,Hawaii,HI,State House,14,general,Sne Patel,Democratic,2884,40.6,False,False
 2026,Hawaii,HI,State House,14,general,Elle Cochran,Republican,1236,17.4,False,True
 2026,Idaho,ID,State House,1,general,TBD,Republican,,,True,False
@@ -1780,7 +1787,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Maine,ME,State House,83,general,Dem Gain,Republican,,,True,False
 2026,Maine,ME,State House,84,general,Rep Hold,Republican,,,True,False
 2026,Maine,ME,State House,85,general,Rep Hold,Republican,,,True,False
-2026,Maine,ME,State House,86,general,Uncalled,Republican,,,True,False
+2026,Maine,ME,State House,86,general,Dem Gain,Republican,,,True,False
 2026,Maine,ME,State House,87,general,Rep Hold,Republican,,,True,False
 2026,Maine,ME,State House,88,general,Dem Gain,Democratic,,,True,False
 2026,Maine,ME,State House,89,general,Dem Hold,Democratic,,,True,False
@@ -2879,19 +2886,19 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Montana,MT,State House,100,general,Michael Bowles,Republican,651,13.3,False,False
 2026,Montana,MT,State House,100,general,JC Windmueller,Libertarian,148,3.02,False,False
 2026,New Hampshire,NH,State House,2,general,Matthew Coker,Republican,,,True,False
-2026,New Hampshire,NH,State House,3,general,William Lawrence Jr.,Republican,,,True,False
+2026,New Hampshire,NH,State House,3,general,William Lawrence Jr.,Democratic,,,True,False
 2026,New Hampshire,NH,State House,4,general,Kevin Nugent Jr.,Republican,,,True,False
 2026,New Hampshire,NH,State House,5,general,Mike Bordes,Republican,,,True,False
-2026,New Hampshire,NH,State House,6,general,Bob McLean,Republican,,,True,False
+2026,New Hampshire,NH,State House,6,general,Bob McLean,Democratic,,,True,False
 2026,New Hampshire,NH,State House,7,general,Peter Varney,Republican,,,True,False
 2026,New Hampshire,NH,State House,8,general,Lisa Freeman,Republican,,,True,False
 2026,New Hampshire,NH,State House,2,general,Anita Burroughs,Democratic,,,True,False
 2026,New Hampshire,NH,State House,3,general,Karel Crawford,Republican,,,True,False
 2026,New Hampshire,NH,State House,4,general,Lino Avellani,Republican,,,True,False
 2026,New Hampshire,NH,State House,5,general,Steven Brown,Republican,,,True,False
-2026,New Hampshire,NH,State House,6,general,Deirdre McEachern,Republican,,,True,False
+2026,New Hampshire,NH,State House,6,general,Deirdre McEachern,Democratic,,,True,False
 2026,New Hampshire,NH,State House,7,general,Dale Fincher,Republican,,,True,False
-2026,New Hampshire,NH,State House,8,general,George Randell,Republican,,,True,False
+2026,New Hampshire,NH,State House,8,general,George Randell,Democratic,,,True,False
 2026,New Hampshire,NH,State House,2,general,Dru Fox,Democratic,,,True,False
 2026,New Hampshire,NH,State House,3,general,Philip Jones,Democratic,,,True,False
 2026,New Hampshire,NH,State House,4,general,Jodi Newell,Democratic,,,True,False
@@ -2899,21 +2906,21 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,New Hampshire,NH,State House,6,general,Cathryn Harvey,Democratic,,,True,False
 2026,New Hampshire,NH,State House,7,general,Terri O'Rorke,Democratic,,,True,False
 2026,New Hampshire,NH,State House,8,general,Christine Parshall,Democratic,,,True,False
-2026,New Hampshire,NH,State House,9,general,James Gruber,Republican,,,True,False
+2026,New Hampshire,NH,State House,9,general,James Gruber,Democratic,,,True,False
 2026,New Hampshire,NH,State House,10,general,Alan Gross,Democratic,,,True,False
-2026,New Hampshire,NH,State House,11,general,Lindseigh Picard,Republican,,,True,False
-2026,New Hampshire,NH,State House,12,general,Kristan Tilton,Republican,,,True,False
+2026,New Hampshire,NH,State House,11,general,Lindseigh Picard,Democratic,,,True,False
+2026,New Hampshire,NH,State House,12,general,Kristan Tilton,Democratic,,,True,False
 2026,New Hampshire,NH,State House,13,general,Tom Ahlborn-Hsu,Democratic,,,True,False
 2026,New Hampshire,NH,State House,14,general,John B. Hunt,Republican,,,True,False
 2026,New Hampshire,NH,State House,15,general,Samantha Jacobs,Democratic,,,True,False
 2026,New Hampshire,NH,State House,16,general,Lucius Parshall,Democratic,,,True,False
-2026,New Hampshire,NH,State House,17,general,Jennie Gomarlo,Republican,,,True,False
-2026,New Hampshire,NH,State House,18,general,Jim Qualey,Republican,,,True,False
+2026,New Hampshire,NH,State House,17,general,Jennie Gomarlo,Democratic,,,True,False
+2026,New Hampshire,NH,State House,18,general,Allen Davis,Democratic,,,True,False
 2026,New Hampshire,NH,State House,2,general,Arnold Davis,Republican,,,True,False
 2026,New Hampshire,NH,State House,3,general,Mike Ouellet,Republican,,,True,False
 2026,New Hampshire,NH,State House,4,general,Seth King,Republican,,,True,False
 2026,New Hampshire,NH,State House,5,general,Mark Evans,Republican,,,True,False
-2026,New Hampshire,NH,State House,6,general,Richard Umiker,Republican,,,True,False
+2026,New Hampshire,NH,State House,6,general,Richard Umiker,Democratic,,,True,False
 2026,New Hampshire,NH,State House,7,general,Corinne Cascadden,Republican,,,True,False
 2026,New Hampshire,NH,State House,2,general,Jared Sullivan,Democratic,,,True,False
 2026,New Hampshire,NH,State House,3,general,Jerry Stringham,Democratic,,,True,False
@@ -2923,7 +2930,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,New Hampshire,NH,State House,7,general,Janet Lucas,Democratic,,,True,False
 2026,New Hampshire,NH,State House,8,general,Peter Lovett,Democratic,,,True,False
 2026,New Hampshire,NH,State House,9,general,Ella Barrett,Democratic,,,True,False
-2026,New Hampshire,NH,State House,10,general,Marc Bourassa,Republican,,,True,False
+2026,New Hampshire,NH,State House,10,general,Marc Bourassa,Democratic,,,True,False
 2026,New Hampshire,NH,State House,11,general,Jake Abuhav,Republican,,,True,False
 2026,New Hampshire,NH,State House,12,general,Mary Hakken-Phillips,Democratic,,,True,False
 2026,New Hampshire,NH,State House,13,general,Laurel Stavis,Democratic,,,True,False
@@ -2945,48 +2952,48 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,New Hampshire,NH,State House,12,general,Rosemarie Rung,Democratic,,,True,False
 2026,New Hampshire,NH,State House,13,general,Cathy Kenny,Republican,,,True,False
 2026,New Hampshire,NH,State House,14,general,Richard Lascelles,Republican,,,True,False
-2026,New Hampshire,NH,State House,15,general,Michael Farley,Republican,,,True,False
-2026,New Hampshire,NH,State House,16,general,Benjamin Baroody,Republican,,,True,False
+2026,New Hampshire,NH,State House,15,general,Michael Farley,Democratic,,,True,False
+2026,New Hampshire,NH,State House,16,general,Benjamin Baroody,Democratic,,,True,False
 2026,New Hampshire,NH,State House,17,general,Rob Fox,Democratic,,,True,False
 2026,New Hampshire,NH,State House,18,general,Jessica Grill,Democratic,,,True,False
-2026,New Hampshire,NH,State House,19,general,Jane Beaulieu,Republican,,,True,False
+2026,New Hampshire,NH,State House,19,general,Jane Beaulieu,Democratic,,,True,False
 2026,New Hampshire,NH,State House,20,general,Alissandra Murray,Democratic,,,True,False
 2026,New Hampshire,NH,State House,21,general,Christine Seibert,Democratic,,,True,False
 2026,New Hampshire,NH,State House,22,general,Greg Erskine,Democratic,,,True,False
 2026,New Hampshire,NH,State House,23,general,Mary Ngwanda Georges,Democratic,,,True,False
 2026,New Hampshire,NH,State House,24,general,Frank Anthony,Democratic,,,True,False
-2026,New Hampshire,NH,State House,25,general,Heather Deiner,Republican,,,True,False
-2026,New Hampshire,NH,State House,26,general,Mary Freitas,Republican,,,True,False
+2026,New Hampshire,NH,State House,25,general,Heather Deiner,Democratic,,,True,False
+2026,New Hampshire,NH,State House,26,general,Mary Freitas,Democratic,,,True,False
 2026,New Hampshire,NH,State House,27,general,Mary Murphy,Republican,,,True,False
 2026,New Hampshire,NH,State House,28,general,Keith Erf,Republican,,,True,False
-2026,New Hampshire,NH,State House,29,general,Karyn Battey,Republican,,,True,False
-2026,New Hampshire,NH,State House,30,general,W. Gordon Allen,Republican,,,True,False
-2026,New Hampshire,NH,State House,31,general,Molly Howard,,,,True,False
+2026,New Hampshire,NH,State House,29,general,Karyn Battey,Democratic,,,True,False
+2026,New Hampshire,NH,State House,30,general,W. Gordon Allen,Democratic,,,True,False
+2026,New Hampshire,NH,State House,31,general,Molly Howard,Democratic,,,True,False
 2026,New Hampshire,NH,State House,32,general,Diane Kelley,Republican,,,True,False
 2026,New Hampshire,NH,State House,33,general,Peter Leishman,Democratic,,,True,False
 2026,New Hampshire,NH,State House,34,general,Stephanie Grund,Democratic,,,True,False
-2026,New Hampshire,NH,State House,35,general,Ben Ming,Republican,,,True,False
-2026,New Hampshire,NH,State House,36,general,Mike Pellerito,Republican,,,True,False
+2026,New Hampshire,NH,State House,35,general,Ben Ming,Democratic,,,True,False
+2026,New Hampshire,NH,State House,36,general,Mike Pellerito,Democratic,,,True,False
 2026,New Hampshire,NH,State House,37,general,Megan Murray,Democratic,,,True,False
-2026,New Hampshire,NH,State House,38,general,Heidi Jakoby,Republican,,,True,False
-2026,New Hampshire,NH,State House,39,general,Ellen Boudreau,Republican,,,True,False
+2026,New Hampshire,NH,State House,38,general,Heidi Jakoby,Democratic,,,True,False
+2026,New Hampshire,NH,State House,39,general,Ellen Boudreau,Democratic,,,True,False
 2026,New Hampshire,NH,State House,40,general,Erin Kerwin,Democratic,,,True,False
 2026,New Hampshire,NH,State House,41,general,Bishwa Bahadur Shah,Democratic,,,True,False
-2026,New Hampshire,NH,State House,42,general,Teri Harkins,Republican,,,True,False
+2026,New Hampshire,NH,State House,42,general,Teri Harkins,Democratic,,,True,False
 2026,New Hampshire,NH,State House,43,general,Ethan Aho,Democratic,,,True,False
 2026,New Hampshire,NH,State House,44,general,Lisa Mazur,Republican,,,True,False
-2026,New Hampshire,NH,State House,45,general,Jerry Roche,Republican,,,True,False
+2026,New Hampshire,NH,State House,45,general,Jerry Roche,Democratic,,,True,False
 2026,New Hampshire,NH,State House,2,general,Gregory Hill,Republican,,,True,False
-2026,New Hampshire,NH,State House,3,general,Scott Burns,Republican,,,True,False
-2026,New Hampshire,NH,State House,4,general,Cody York,Republican,,,True,False
-2026,New Hampshire,NH,State House,5,general,Lorna Carlisle,Republican,,,True,False
+2026,New Hampshire,NH,State House,3,general,Scott Burns,Democratic,,,True,False
+2026,New Hampshire,NH,State House,4,general,Cody York,Democratic,,,True,False
+2026,New Hampshire,NH,State House,5,general,Lorna Carlisle,Democratic,,,True,False
 2026,New Hampshire,NH,State House,6,general,Tom Schamberg,Democratic,,,True,False
 2026,New Hampshire,NH,State House,7,general,Karen Ebel,Democratic,,,True,False
 2026,New Hampshire,NH,State House,8,general,Tony Caplan,Democratic,,,True,False
 2026,New Hampshire,NH,State House,9,general,Eleana Colby,Democratic,,,True,False
 2026,New Hampshire,NH,State House,10,general,Thomas Walsh,Republican,,,True,False
-2026,New Hampshire,NH,State House,11,general,Alisson Turcotte,Republican,,,True,False
-2026,New Hampshire,NH,State House,12,general,Mariana Beer,Republican,,,True,False
+2026,New Hampshire,NH,State House,11,general,Alisson Turcotte,Democratic,,,True,False
+2026,New Hampshire,NH,State House,12,general,Mariana Beer,Democratic,,,True,False
 2026,New Hampshire,NH,State House,13,general,Clayton Wood,Republican,,,True,False
 2026,New Hampshire,NH,State House,14,general,Gary Matteson,Republican,,,True,False
 2026,New Hampshire,NH,State House,15,general,Tracy Bricchi,Democratic,,,True,False
@@ -3000,12 +3007,12 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,New Hampshire,NH,State House,23,general,Kristopher Levesque,Democratic,,,True,False
 2026,New Hampshire,NH,State House,24,general,Matthew Hicks,Democratic,,,True,False
 2026,New Hampshire,NH,State House,25,general,James Thibualt,Republican,,,True,False
-2026,New Hampshire,NH,State House,26,general,Harold Tuttle,Republican,,,True,False
-2026,New Hampshire,NH,State House,27,general,Phillip Walker,Republican,,,True,False
+2026,New Hampshire,NH,State House,26,general,Harold Tuttle,Democratic,,,True,False
+2026,New Hampshire,NH,State House,27,general,Phillip Walker,Democratic,,,True,False
 2026,New Hampshire,NH,State House,28,general,Lisa Brown,Democratic,,,True,False
 2026,New Hampshire,NH,State House,29,general,Kris Schultz,Democratic,,,True,False
 2026,New Hampshire,NH,State House,30,general,Jason Quinno,Democratic,,,True,False
-2026,New Hampshire,NH,State House,2,general,Jason Osborne,Democratic,,,True,False
+2026,New Hampshire,NH,State House,2,general,Jason Osborne,Republican,,,True,False
 2026,New Hampshire,NH,State House,3,general,Mary Ford,Republican,,,True,False
 2026,New Hampshire,NH,State House,4,general,Mike Drago,Republican,,,True,False
 2026,New Hampshire,NH,State House,5,general,Mark Vallone,Democratic,,,True,False
@@ -3016,10 +3023,10 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,New Hampshire,NH,State House,10,general,Michael Cahill,Democratic,,,True,False
 2026,New Hampshire,NH,State House,11,general,Julie Gilman,Democratic,,,True,False
 2026,New Hampshire,NH,State House,12,general,Allison Knab,Democratic,,,True,False
-2026,New Hampshire,NH,State House,13,general,Haley Carreau,Republican,,,True,False
+2026,New Hampshire,NH,State House,13,general,Haley Carreau,Democratic,,,True,False
 2026,New Hampshire,NH,State House,14,general,Kenneth Weyler,Republican,,,True,False
 2026,New Hampshire,NH,State House,15,general,Joseph Guthrie,Republican,,,True,False
-2026,New Hampshire,NH,State House,16,general,Ted Combes,Republican,,,True,False
+2026,New Hampshire,NH,State House,16,general,Ted Combes,Democratic,,,True,False
 2026,New Hampshire,NH,State House,17,general,Charles McMahon,Republican,,,True,False
 2026,New Hampshire,NH,State House,18,general,Debra DeSimone,Republican,,,True,False
 2026,New Hampshire,NH,State House,19,general,Susan Porcelli,Republican,,,True,False
@@ -3038,20 +3045,20 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,New Hampshire,NH,State House,32,general,Melissa Litchfield,Republican,,,True,False
 2026,New Hampshire,NH,State House,33,general,Alexis Simpson,Democratic,,,True,False
 2026,New Hampshire,NH,State House,34,general,Mark Pearson,Republican,,,True,False
-2026,New Hampshire,NH,State House,35,general,Michelle Stith,Republican,,,True,False
+2026,New Hampshire,NH,State House,35,general,Michelle Stith,Democratic,,,True,False
 2026,New Hampshire,NH,State House,36,general,JD Bernardy,Republican,,,True,False
 2026,New Hampshire,NH,State House,37,general,Kate Cook,Democratic,,,True,False
 2026,New Hampshire,NH,State House,38,general,Peggy Balboni,Democratic,,,True,False
 2026,New Hampshire,NH,State House,39,general,Barbara Ward,Democratic,,,True,False
-2026,New Hampshire,NH,State House,40,general,Justin Packard,Republican,,,True,False
+2026,New Hampshire,NH,State House,40,general,Justin Packard,Democratic,,,True,False
 2026,New Hampshire,NH,State House,2,general,Glenn Bailey,Republican,,,True,False
 2026,New Hampshire,NH,State House,3,general,Susan DeRoy,Republican,,,True,False
 2026,New Hampshire,NH,State House,4,general,Kimberly McGlinchey,Democratic,,,True,False
-2026,New Hampshire,NH,State House,5,general,William Fessenden,Republican,,,True,False
-2026,New Hampshire,NH,State House,6,general,Daniel Fitzpatrick,Republican,,,True,False
-2026,New Hampshire,NH,State House,7,general,John Larochelle,,,,True,False
+2026,New Hampshire,NH,State House,5,general,William Fessenden,Democratic,,,True,False
+2026,New Hampshire,NH,State House,6,general,Daniel Fitzpatrick,Democratic,,,True,False
+2026,New Hampshire,NH,State House,7,general,John Larochelle,Democratic,,,True,False
 2026,New Hampshire,NH,State House,8,general,Ty Wyman,Democratic,,,True,False
-2026,New Hampshire,NH,State House,9,general,Nevin Dexter,Republican,,,True,False
+2026,New Hampshire,NH,State House,9,general,Nevin Dexter,Democratic,,,True,False
 2026,New Hampshire,NH,State House,10,general,Siena Schaier,Democratic,,,True,False
 2026,New Hampshire,NH,State House,11,general,Janet Wall,Democratic,,,True,False
 2026,New Hampshire,NH,State House,12,general,Billie Butler,Democratic,,,True,False
@@ -3061,15 +3068,15 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,New Hampshire,NH,State House,16,general,Gary Gilmore,Democratic,,,True,False
 2026,New Hampshire,NH,State House,17,general,Jessica LaMontagne,Democratic,,,True,False
 2026,New Hampshire,NH,State House,18,general,Michael Harrington,Republican,,,True,False
-2026,New Hampshire,NH,State House,19,general,Jonathan King,Republican,,,True,False
+2026,New Hampshire,NH,State House,19,general,Jonathan King,Democratic,,,True,False
 2026,New Hampshire,NH,State House,20,general,Allan Howland,Democratic,,,True,False
 2026,New Hampshire,NH,State House,21,general,Alice Wade,Democratic,,,True,False
 2026,New Hampshire,NH,State House,2,general,Jenny Ramsey,Democratic,,,True,False
 2026,New Hampshire,NH,State House,3,general,Skip Rollins,Republican,,,True,False
 2026,New Hampshire,NH,State House,4,general,Ron Rule,Republican,,,True,False
-2026,New Hampshire,NH,State House,5,general,Judith Thackaberry,Republican,,,True,False
-2026,New Hampshire,NH,State House,6,general,Chris Cogswell,,,,True,False
-2026,New Hampshire,NH,State House,7,general,Lawrence Schissel,Republican,,,True,False
+2026,New Hampshire,NH,State House,5,general,Judith Thackaberry,Democratic,,,True,False
+2026,New Hampshire,NH,State House,6,general,Chris Cogswell,Democratic,,,True,False
+2026,New Hampshire,NH,State House,7,general,Lawrence Schissel,Democratic,,,True,False
 2026,New Hampshire,NH,State House,8,general,Hope Damon,Democratic,,,True,False
 2026,New Mexico,NM,State House,4,general,Heather Ellison,Republican,,,True,False
 2026,New Mexico,NM,State House,7,general,Rickie Gonzales II,Democratic,,,True,False
@@ -3664,8 +3671,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Ohio,OH,State House,73,general,Whittney Wood,Democratic,,,False,False
 2026,Ohio,OH,State House,74,general,Bernard Willis,Republican,,,True,True
 2026,Ohio,OH,State House,74,general,Darrell Jackson,Democratic,,,False,False
-2026,Ohio,OH,State House,75,general,Haraz Ghanbari,Republican,,,True,True
-2026,Ohio,OH,State House,75,general,Jake Kielmeyer,Democratic,,,False,False
+2026,Ohio,OH,State House,75,general,Haraz Ghanbari,Republican,23528.0,49.79,False,True
+2026,Ohio,OH,State House,75,general,Richard Rettig,Democratic,23722.0,50.21,True,False
 2026,Ohio,OH,State House,76,general,Marilyn John,Republican,,,True,True
 2026,Ohio,OH,State House,76,general,Colton Stidam,Democratic,,,False,False
 2026,Ohio,OH,State House,77,general,Meredith Craig,Republican,,,True,True
