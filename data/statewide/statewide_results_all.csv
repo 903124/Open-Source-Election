@@ -3290,8 +3290,8 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,District of Columbia,DC,governor,Janeese Lewis George,Democratic,84.0,True,False
 2026,District of Columbia,DC,governor,Rhonda Hamilton,Independent,10.3,False,False
 2026,District of Columbia,DC,governor,Robert Gross,Green,3.6,False,False
-2026,Guam,GU,governor,Vicente Ada,Republican,51.45,True,False
-2026,Guam,GU,governor,Therese Terlaje,Democratic,48.15,False,False
+2026,Guam,GU,governor,Vicente Ada,Republican,51.5,True,False
+2026,Guam,GU,governor,Therese Terlaje,Democratic,48.2,False,False
 2026,Northern Mariana Islands,MP,governor,Ralph Torres,Republican,49.5,False,False
 2026,Northern Mariana Islands,MP,governor,Blas T. Attao,Independent,38.7,False,False
 2026,Northern Mariana Islands,MP,governor,Lawrence F. Camacho,Independent,11.8,False,False
@@ -3300,250 +3300,251 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2026,U.S. Virgin Islands,VI,governor,Oakland Benta,Independent,12.0,False,False
 2026,U.S. Virgin Islands,VI,governor,Warren Mosler,Independent,6.8,False,False
 2026,U.S. Virgin Islands,VI,governor,Gustav James,Independent,3.4,False,False
-2026,Alabama,AL,attorney general,Katherine Robertson,Republican,,True,False
-2026,Alabama,AL,attorney general,Jeff McLaughlin,Democratic,,False,False
-2026,Arizona,AZ,attorney general,Kris Mayes,Democratic,,True,True
-2026,Arizona,AZ,attorney general,Warren Petersen,Republican,,False,False
+2026,Alabama,AL,attorney general,Katherine Robertson,Republican,55.0,True,False
+2026,Alabama,AL,attorney general,Jeff McLaughlin,Democratic,45.0,False,False
+2026,Arizona,AZ,attorney general,Kris Mayes,Democratic,55.5,True,True
+2026,Arizona,AZ,attorney general,Warren Petersen,Republican,44.5,False,False
 2026,Arkansas,AR,attorney general,Tim Griffin,Republican,,True,True
-2026,California,CA,attorney general,Rob Bonta,Democratic,,True,True
-2026,California,CA,attorney general,Michael Gates,Republican,,False,False
-2026,Colorado,CO,attorney general,Jena Griswold,Democratic,,True,False
-2026,Colorado,CO,attorney general,Michael Allen,Republican,,False,False
-2026,Connecticut,CT,attorney general,William Tong,Democratic,,True,True
-2026,Connecticut,CT,attorney general,John Bolton,Republican,,False,False
-2026,Delaware,DE,attorney general,Kathy Jennings,Democratic,,True,True
-2026,Delaware,DE,attorney general,Dave Graham,Republican,,False,False
-2026,Florida,FL,attorney general,James Uthmeier,Republican,,True,True
-2026,Florida,FL,attorney general,José Javier Rodríguez,Democratic,,False,False
-2026,Georgia,GA,attorney general,Tanya Miller,Democratic,,True,False
-2026,Georgia,GA,attorney general,Brian Strickland,Republican,,False,False
-2026,Idaho,ID,attorney general,Raúl Labrador,Republican,,True,True
-2026,Idaho,ID,attorney general,Lori Hickman,Democratic,,False,False
-2026,Illinois,IL,attorney general,Kwame Raoul,Democratic,,True,True
-2026,Illinois,IL,attorney general,Bob Fioretti,Republican,,False,False
-2026,Iowa,IA,attorney general,Nathan Willems,Democratic,,True,False
-2026,Iowa,IA,attorney general,Brenna Bird,Republican,,False,True
-2026,Kansas,KS,attorney general,Chris Mann,Democratic,,True,False
-2026,Kansas,KS,attorney general,Kris Kobach,Republican,,False,True
-2026,Maryland,MD,attorney general,Anthony Brown,Democratic,,True,True
-2026,Maryland,MD,attorney general,James Rutledge III,Republican,,False,False
-2026,Massachusetts,MA,attorney general,Andrea Campbell,Democratic,,True,True
-2026,Massachusetts,MA,attorney general,Michael Walsh,Republican,,False,False
-2026,Michigan,MI,attorney general,Eli Savit,Democratic,,True,False
-2026,Michigan,MI,attorney general,Doug Lloyd,Republican,,False,False
-2026,Michigan,MI,attorney general,Jason Dye,Libertarian,,False,False
-2026,Michigan,MI,attorney general,John Ludtke Jr.,Constitution,,False,False
-2026,Michigan,MI,attorney general,Jeff Polonowski,Green,,False,False
-2026,Michigan,MI,attorney general,Doug Dern,Law,,False,False
-2026,Minnesota,MN,attorney general,Keith Ellison,Minnesota Democratic–farmer–labor,,True,True
-2026,Minnesota,MN,attorney general,Ron Schutz,Republican,,False,False
-2026,Nebraska,NE,attorney general,Mike Hilgers,Republican,,True,True
-2026,Nebraska,NE,attorney general,Jocelyn Brasher,Democratic,,False,False
-2026,Nevada,NV,attorney general,Nicole Cannizzaro,Democratic,,True,False
-2026,Nevada,NV,attorney general,Adriana Guzmán Fralick,Republican,,False,False
-2026,New Mexico,NM,attorney general,Raúl Torrez,Democratic,,True,True
-2026,New Mexico,NM,attorney general,Sam Kane,Republican,,False,False
-2026,New York,NY,attorney general,Letitia James,Democratic,,True,True
-2026,New York,NY,attorney general,Saritha Komatireddy,Republican,,False,False
-2026,North Dakota,ND,attorney general,Drew Wrigley,Republican,,True,True
-2026,North Dakota,ND,attorney general,Tim Lamb,North Dakota Democratic-npl,,False,False
-2026,Ohio,OH,attorney general,John Kulewicz,Democratic,,True,False
-2026,Ohio,OH,attorney general,Keith Faber,Republican,,False,False
-2026,Oklahoma,OK,attorney general,Jon Echols,Republican,,True,False
-2026,Oklahoma,OK,attorney general,Nick Coffey,Democratic,,False,False
-2026,Rhode Island,RI,attorney general,Kimberly Ahern,Democratic,,True,False
-2026,Rhode Island,RI,attorney general,Alan Gordon,Republican,,False,False
-2026,South Carolina,SC,attorney general,David Stumbo,Republican,,True,False
-2026,South Carolina,SC,attorney general,Richard Hricik,Democratic,,False,False
+2026,California,CA,attorney general,Rob Bonta,Democratic,65.5,True,True
+2026,California,CA,attorney general,Michael Gates,Republican,34.5,False,False
+2026,Colorado,CO,attorney general,Jena Griswold,Democratic,59.0,True,False
+2026,Colorado,CO,attorney general,Michael Allen,Republican,41.0,False,False
+2026,Connecticut,CT,attorney general,William Tong,Democratic,63.2,True,True
+2026,Connecticut,CT,attorney general,John Bolton,Republican,36.8,False,False
+2026,Delaware,DE,attorney general,Kathy Jennings,Democratic,63.6,True,True
+2026,Delaware,DE,attorney general,Dave Graham,Republican,36.4,False,False
+2026,Florida,FL,attorney general,James Uthmeier,Republican,50.9,True,True
+2026,Florida,FL,attorney general,José Javier Rodríguez,Democratic,49.1,False,False
+2026,Georgia,GA,attorney general,Tanya Miller,Democratic,55.6,True,False
+2026,Georgia,GA,attorney general,Brian Strickland,Republican,44.4,False,False
+2026,Idaho,ID,attorney general,Raúl Labrador,Republican,59.8,True,True
+2026,Idaho,ID,attorney general,Lori Hickman,Democratic,40.2,False,False
+2026,Illinois,IL,attorney general,Kwame Raoul,Democratic,62.5,True,True
+2026,Illinois,IL,attorney general,Bob Fioretti,Republican,37.5,False,False
+2026,Iowa,IA,attorney general,Nathan Willems,Democratic,50.9,True,False
+2026,Iowa,IA,attorney general,Brenna Bird,Republican,49.1,False,True
+2026,Kansas,KS,attorney general,Chris Mann,Democratic,50.6,True,False
+2026,Kansas,KS,attorney general,Kris Kobach,Republican,49.4,False,True
+2026,Maryland,MD,attorney general,Anthony Brown,Democratic,69.8,True,True
+2026,Maryland,MD,attorney general,James Rutledge III,Republican,30.2,False,False
+2026,Massachusetts,MA,attorney general,Andrea Campbell,Democratic,66.0,True,True
+2026,Massachusetts,MA,attorney general,Michael Walsh,Republican,34.0,False,False
+2026,Michigan,MI,attorney general,Eli Savit,Democratic,52.5,True,False
+2026,Michigan,MI,attorney general,Doug Lloyd,Republican,44.7,False,False
+2026,Minnesota,MN,attorney general,Keith Ellison,Minnesota Democratic–farmer–labor,54.4,True,True
+2026,Minnesota,MN,attorney general,Ron Schutz,Republican,45.6,False,False
+2026,Nebraska,NE,attorney general,Mike Hilgers,Republican,55.8,True,True
+2026,Nebraska,NE,attorney general,Jocelyn Brasher,Democratic,44.2,False,False
+2026,Nevada,NV,attorney general,Nicole Cannizzaro,Democratic,56.5,True,False
+2026,Nevada,NV,attorney general,Adriana Guzmán Fralick,Republican,41.3,False,False
+2026,Nevada,NV,attorney general,None of These Candidates,None,2.2,False,False
+2026,New Mexico,NM,attorney general,Raúl Torrez,Democratic,63.0,True,True
+2026,New Mexico,NM,attorney general,Sam Kane,Republican,37.0,False,False
+2026,New York,NY,attorney general,Letitia James,Democratic,60.2,True,True
+2026,New York,NY,attorney general,Saritha Komatireddy,Republican,39.8,False,False
+2026,North Dakota,ND,attorney general,Drew Wrigley,Republican,63.9,True,True
+2026,North Dakota,ND,attorney general,Tim Lamb,North Dakota Democratic-npl,36.1,False,False
+2026,Ohio,OH,attorney general,John Kulewicz,Democratic,50.3,True,False
+2026,Ohio,OH,attorney general,Keith Faber,Republican,49.7,False,False
+2026,Oklahoma,OK,attorney general,Jon Echols,Republican,55.3,True,False
+2026,Oklahoma,OK,attorney general,Nick Coffey,Democratic,44.7,False,False
+2026,Rhode Island,RI,attorney general,Kimberly Ahern,Democratic,66.5,True,False
+2026,Rhode Island,RI,attorney general,Alan Gordon,Republican,33.5,False,False
+2026,South Carolina,SC,attorney general,David Stumbo,Republican,52.3,True,False
+2026,South Carolina,SC,attorney general,Richard Hricik,Democratic,47.7,False,False
 2026,South Dakota,SD,attorney general,Lance Russell,Republican,,True,False
-2026,Texas,TX,attorney general,Nathan Johnson,Democratic,,True,False
-2026,Texas,TX,attorney general,Mayes Middleton,Republican,,False,False
-2026,Texas,TX,attorney general,Tom Oxford,Libertarian,,False,False
-2026,Vermont,VT,attorney general,Charity Clark,Democratic,,True,True
-2026,Vermont,VT,attorney general,Ed Kemon,Republican,,False,False
-2026,Wisconsin,WI,attorney general,Josh Kaul,Democratic,,True,True
-2026,Wisconsin,WI,attorney general,Eric Toney,Republican,,False,False
-2026,District of Columbia,DC,attorney general,Brian Schwalb,Democratic,,True,True
-2026,District of Columbia,DC,attorney general,Manuel Rivera,Republican,,False,False
-2026,Guam,GU,attorney general,Phillip Tydingco,Nonpartisan,,True,False
-2026,Guam,GU,attorney general,Douglas Moylan,Nonpartisan,,False,True
-2026,Guam,GU,attorney general,Tom Fisher,Nonpartisan,,False,False
-2026,Guam,GU,attorney general,Peter Santos,Nonpartisan,,False,False
-2026,Guam,GU,attorney general,Jordan Pauluhn,Nonpartisan,,False,False
-2026,Northern Mariana Islands,MP,attorney general,Michael Evangelista,Nonpartisan,,False,False
-2026,Northern Mariana Islands,MP,attorney general,Joaquin Torres,Nonpartisan,,False,False
-2026,Alabama,AL,secretary of state,Caroleene Dobson,Republican,,True,False
-2026,Alabama,AL,secretary of state,Wayne Rogers,Democratic,,False,False
-2026,Arizona,AZ,secretary of state,Adrian Fontes,Democratic,,True,True
-2026,Arizona,AZ,secretary of state,Alexander Kolodin,Republican,,False,False
-2026,Arizona,AZ,secretary of state,Duwayne Collier,Green,,False,False
-2026,Arkansas,AR,secretary of state,Kim Hammer,Republican,,True,False
-2026,Arkansas,AR,secretary of state,Kelly Grappe,Democratic,,False,False
-2026,Arkansas,AR,secretary of state,Michael Pakko,Libertarian,,False,False
-2026,California,CA,secretary of state,Shirley Weber,Democratic,,True,True
-2026,California,CA,secretary of state,Don Wagner,Republican,,False,False
-2026,Colorado,CO,secretary of state,Amanda Gonzalez,Democratic,,True,False
-2026,Colorado,CO,secretary of state,James Wiley,Republican,,False,False
-2026,Colorado,CO,secretary of state,Sean Vadney,Libertarian,,False,False
-2026,Colorado,CO,secretary of state,Amanda Campbell,American Constitution Party (colorado),,False,False
-2026,Colorado,CO,secretary of state,Celeste Landry,Forward,,False,False
-2026,Connecticut,CT,secretary of state,Stephanie Thomas,Democratic,,True,True
-2026,Connecticut,CT,secretary of state,Peter Lumaj,Republican,,False,False
-2026,Georgia,GA,secretary of state,Penny Brown Reynolds,Democratic,,True,False
-2026,Georgia,GA,secretary of state,Tim Fleming,Republican,,False,False
-2026,Idaho,ID,secretary of state,Phil McGrane,Republican,,True,True
-2026,Idaho,ID,secretary of state,Shawn Keenan,Democratic,,False,False
-2026,Illinois,IL,secretary of state,Alexi Giannoulias,Democratic,,True,True
-2026,Illinois,IL,secretary of state,Diane Harris,Republican,,False,False
-2026,Indiana,IN,secretary of state,Beau Bayh,Democratic,,True,False
-2026,Indiana,IN,secretary of state,Max Engling,Republican,,False,False
-2026,Indiana,IN,secretary of state,Greg Ballard,Independent,,False,False
-2026,Indiana,IN,secretary of state,Lauri Shillings,Libertarian,,False,False
-2026,Iowa,IA,secretary of state,Paul Pate,Republican,,True,True
-2026,Iowa,IA,secretary of state,Ryan Peterman,Democratic,,False,False
-2026,Kansas,KS,secretary of state,Jennifer Day,Democratic,,False,False
-2026,Kansas,KS,secretary of state,Scott E. Morgan,United Kansas,,False,False
-2026,Kansas,KS,secretary of state,Pat Proctor,Republican,,False,False
-2026,Massachusetts,MA,secretary of state,William F. Galvin,Democratic,,True,True
-2026,Massachusetts,MA,secretary of state,Anne Brensley,Republican,,False,False
-2026,Michigan,MI,secretary of state,Garlin Gilchrist,Democratic,,True,False
-2026,Michigan,MI,secretary of state,Anthony Forlini,Republican,,False,False
-2026,Michigan,MI,secretary of state,Christine Sloan,Libertarian,,False,False
-2026,Michigan,MI,secretary of state,Scott E. Aughney,Constitution,,False,False
-2026,Michigan,MI,secretary of state,Eric Borregard,Green,,False,False
-2026,Minnesota,MN,secretary of state,Steve Simon,Democratic,,True,True
-2026,Minnesota,MN,secretary of state,Tad Jude,Republican,,False,False
-2026,Minnesota,MN,secretary of state,"George ""Chip"" Tangen",Libertarian,,False,False
-2026,Minnesota,MN,secretary of state,Seth Kuhl-Stennes,Green,,False,False
-2026,Nebraska,NE,secretary of state,Scott Petersen,Republican,,True,False
-2026,Nebraska,NE,secretary of state,Sarah Slattery,Democratic,,False,False
-2026,Nebraska,NE,secretary of state,Paul Rumbaugh,People,,False,False
-2026,Nebraska,NE,secretary of state,Bob Krist,America First Party (nebraska),,False,False
-2026,Nevada,NV,secretary of state,Cisco Aguilar,Democratic,,True,True
-2026,Nevada,NV,secretary of state,Jim Marchant,Republican,,False,False
-2026,Nevada,NV,secretary of state,Brad Lee Barnhill,Independent,,False,False
-2026,Nevada,NV,secretary of state,John T. Kennedy,Libertarian,,False,False
-2026,New Mexico,NM,secretary of state,Amanda López Askin,Democratic,,True,False
-2026,New Mexico,NM,secretary of state,Ramona Goolsby,Republican,,False,False
-2026,North Dakota,ND,secretary of state,Michael Howe,Republican,,True,True
-2026,North Dakota,ND,secretary of state,Ryan Braunberger,North Dakota Democratic-npl,,False,False
-2026,Ohio,OH,secretary of state,Allison Russo,Democratic,,True,False
-2026,Ohio,OH,secretary of state,Robert Sprague,Republican,,False,False
-2026,Ohio,OH,secretary of state,Tom Pruss,Libertarian,,False,False
+2026,Texas,TX,attorney general,Nathan Johnson,Democratic,52.4,True,False
+2026,Texas,TX,attorney general,Mayes Middleton,Republican,45.9,False,False
+2026,Texas,TX,attorney general,Tom Oxford,Libertarian,1.7,False,False
+2026,Vermont,VT,attorney general,Charity Clark,Democratic,67.9,True,True
+2026,Vermont,VT,attorney general,Ed Kemon,Republican,32.1,False,False
+2026,Wisconsin,WI,attorney general,Josh Kaul,Democratic,54.5,True,True
+2026,Wisconsin,WI,attorney general,Eric Toney,Republican,45.5,False,False
+2026,District of Columbia,DC,attorney general,Brian Schwalb,Democratic,92.4,True,True
+2026,District of Columbia,DC,attorney general,Manuel Rivera,Republican,6.9,False,False
+2026,Guam,GU,attorney general,Phillip Tydingco,Nonpartisan,38.3,True,False
+2026,Guam,GU,attorney general,Douglas Moylan,Nonpartisan,33.1,False,True
+2026,Guam,GU,attorney general,Tom Fisher,Nonpartisan,12.7,False,False
+2026,Guam,GU,attorney general,Peter Santos,Nonpartisan,11.1,False,False
+2026,Guam,GU,attorney general,Jordan Pauluhn,Nonpartisan,4.8,False,False
+2026,Northern Mariana Islands,MP,attorney general,Joaquin Torres,Nonpartisan,39.7,False,False
+2026,Northern Mariana Islands,MP,attorney general,Michael Evangelista,Nonpartisan,30.2,False,False
+2026,Northern Mariana Islands,MP,attorney general,Jonathan Glass,Nonpartisan,30.1,False,False
+2026,Alabama,AL,secretary of state,Caroleene Dobson,Republican,54.6,True,False
+2026,Alabama,AL,secretary of state,Wayne Rogers,Democratic,45.4,False,False
+2026,Arizona,AZ,secretary of state,Adrian Fontes,Democratic,54.9,True,True
+2026,Arizona,AZ,secretary of state,Alexander Kolodin,Republican,43.6,False,False
+2026,Arizona,AZ,secretary of state,Duwayne Collier,Green,1.5,False,False
+2026,Arkansas,AR,secretary of state,Kim Hammer,Republican,55.6,True,False
+2026,Arkansas,AR,secretary of state,Kelly Grappe,Democratic,39.5,False,False
+2026,Arkansas,AR,secretary of state,Michael Pakko,Libertarian,4.9,False,False
+2026,California,CA,secretary of state,Shirley Weber,Democratic,66.6,True,True
+2026,California,CA,secretary of state,Don Wagner,Republican,33.4,False,False
+2026,Colorado,CO,secretary of state,Amanda Gonzalez,Democratic,60.2,True,False
+2026,Colorado,CO,secretary of state,James Wiley,Republican,36.7,False,False
+2026,Colorado,CO,secretary of state,Sean Vadney,Libertarian,1.6,False,False
+2026,Colorado,CO,secretary of state,Amanda Campbell,American Constitution Party (colorado),0.8,False,False
+2026,Colorado,CO,secretary of state,Celeste Landry,Forward,0.7,False,False
+2026,Connecticut,CT,secretary of state,Stephanie Thomas,Democratic,63.4,True,True
+2026,Connecticut,CT,secretary of state,Peter Lumaj,Republican,36.6,False,False
+2026,Georgia,GA,secretary of state,Penny Brown Reynolds,Democratic,55.7,True,False
+2026,Georgia,GA,secretary of state,Tim Fleming,Republican,44.3,False,False
+2026,Idaho,ID,secretary of state,Phil McGrane,Republican,67.3,True,True
+2026,Idaho,ID,secretary of state,Shawn Keenan,Democratic,32.7,False,False
+2026,Illinois,IL,secretary of state,Alexi Giannoulias,Democratic,65.6,True,True
+2026,Illinois,IL,secretary of state,Diane Harris,Republican,34.4,False,False
+2026,Indiana,IN,secretary of state,Beau Bayh,Democratic,51.9,True,False
+2026,Indiana,IN,secretary of state,Max Engling,Republican,42.5,False,False
+2026,Indiana,IN,secretary of state,Greg Ballard,Independent,3.6,False,False
+2026,Indiana,IN,secretary of state,Lauri Shillings,Libertarian,2.0,False,False
+2026,Iowa,IA,secretary of state,Paul Pate,Republican,53.2,True,True
+2026,Iowa,IA,secretary of state,Ryan Peterman,Democratic,46.8,False,False
+2026,Kansas,KS,secretary of state,Pat Proctor,Republican,48.1,True,False
+2026,Kansas,KS,secretary of state,Jennifer Day,Democratic,47.6,False,False
+2026,Kansas,KS,secretary of state,Scott E. Morgan,United Kansas,4.3,False,False
+2026,Massachusetts,MA,secretary of state,William F. Galvin,Democratic,71.7,True,True
+2026,Massachusetts,MA,secretary of state,Anne Brensley,Republican,28.3,False,False
+2026,Michigan,MI,secretary of state,Garlin Gilchrist,Democratic,53.8,True,False
+2026,Michigan,MI,secretary of state,Anthony Forlini,Republican,43.5,False,False
+2026,Michigan,MI,secretary of state,Christine Sloan,Libertarian,1.6,False,False
+2026,Michigan,MI,secretary of state,Scott E. Aughney,Constitution,0.6,False,False
+2026,Michigan,MI,secretary of state,Eric Borregard,Green,0.5,False,False
+2026,Minnesota,MN,secretary of state,Steve Simon,Democratic,54.7,True,True
+2026,Minnesota,MN,secretary of state,Tad Jude,Republican,41.8,False,False
+2026,Minnesota,MN,secretary of state,"George ""Chip"" Tangen",Libertarian,2.0,False,False
+2026,Minnesota,MN,secretary of state,Seth Kuhl-Stennes,Green,1.5,False,False
+2026,Nebraska,NE,secretary of state,Scott Petersen,Republican,53.6,True,False
+2026,Nebraska,NE,secretary of state,Sarah Slattery,Democratic,40.8,False,False
+2026,Nebraska,NE,secretary of state,Paul Rumbaugh,People,3.0,False,False
+2026,Nebraska,NE,secretary of state,Bob Krist,America First Party (nebraska),2.6,False,False
+2026,Nevada,NV,secretary of state,Cisco Aguilar,Democratic,57.0,True,True
+2026,Nevada,NV,secretary of state,Jim Marchant,Republican,39.3,False,False
+2026,Nevada,NV,secretary of state,Brad Lee Barnhill,Independent,1.5,False,False
+2026,Nevada,NV,secretary of state,None of These Candidates,None,1.4,False,False
+2026,Nevada,NV,secretary of state,John T. Kennedy,Libertarian,0.9,False,False
+2026,New Mexico,NM,secretary of state,Amanda López Askin,Democratic,60.9,True,False
+2026,New Mexico,NM,secretary of state,Ramona Goolsby,Republican,39.1,False,False
+2026,North Dakota,ND,secretary of state,Michael Howe,Republican,62.1,True,True
+2026,North Dakota,ND,secretary of state,Ryan Braunberger,North Dakota Democratic-npl,37.9,False,False
+2026,Ohio,OH,secretary of state,Allison Russo,Democratic,50.3,True,False
+2026,Ohio,OH,secretary of state,Robert Sprague,Republican,46.8,False,False
+2026,Ohio,OH,secretary of state,Tom Pruss,Libertarian,2.9,False,False
 2026,Rhode Island,RI,secretary of state,Gregg Amore,Democratic,,True,True
-2026,South Carolina,SC,secretary of state,Mark Hammond,Republican,,True,True
-2026,South Carolina,SC,secretary of state,Jason Belton,Democratic,,False,False
-2026,South Dakota,SD,secretary of state,Heather Baxter,Republican,,True,False
-2026,South Dakota,SD,secretary of state,Terrence Davis,Democratic,,False,False
-2026,South Dakota,SD,secretary of state,Tamara Lesnar,Libertarian,,False,False
-2026,Vermont,VT,secretary of state,Sarah Copeland Hanzas,Democratic,,True,True
-2026,Vermont,VT,secretary of state,Brooke Paige,Republican,,False,False
-2026,Vermont,VT,secretary of state,Rachel Shaw,Progressive,,False,False
-2026,Wisconsin,WI,secretary of state,JoCasta Zamarripa,Democratic,,True,False
-2026,Wisconsin,WI,secretary of state,Jay Schroeder,Republican,,False,False
-2026,Wisconsin,WI,secretary of state,Pete Karas,Green,,False,False
-2026,Wyoming,WY,secretary of state,Robert Short,Republican,,True,False
-2026,Wyoming,WY,secretary of state,Bryan McCarty,Democratic,,False,False
-2026,Wyoming,WY,secretary of state,Tamara Trujillo,Constitution,,False,False
-2026,Alabama,AL,state treasurer,Young Boozer,Republican,,True,True
-2026,Alabama,AL,state treasurer,Rosilyn Houston,Democratic,,False,False
-2026,Arizona,AZ,state treasurer,Nick Mansour,Democratic,,True,False
-2026,Arizona,AZ,state treasurer,Elijah Norton,Republican,,False,False
-2026,California,CA,state treasurer,Eleni Kounalakis,Democratic,,True,False
-2026,California,CA,state treasurer,Jennifer Hawks,Republican,,False,False
-2026,Colorado,CO,state treasurer,Jeff Bridges,Democratic,,True,False
-2026,Colorado,CO,state treasurer,Kevin Grantham,Republican,,False,False
-2026,Colorado,CO,state treasurer,Jodie Barr,Libertarian,,False,False
-2026,Colorado,CO,state treasurer,Marilee Langner Sturgis,Voting,,False,False
-2026,Connecticut,CT,state treasurer,Erick Russell,Democratic,,True,True
-2026,Connecticut,CT,state treasurer,Fred Wilms,Republican,,False,False
-2026,Delaware,DE,state treasurer,Ted Lauzen,Democratic,,True,False
-2026,Delaware,DE,state treasurer,Mike Ramone,Republican,,False,False
-2026,Florida,FL,state treasurer,Blaise Ingoglia,Republican,,True,True
-2026,Florida,FL,state treasurer,Annette Taddeo,Democratic,,False,False
-2026,Idaho,ID,state treasurer,Julie Ellsworth,Republican,,True,True
-2026,Idaho,ID,state treasurer,Kevin Jones,Democratic,,False,False
-2026,Illinois,IL,state treasurer,Mike Frerichs,Democratic,,True,True
-2026,Illinois,IL,state treasurer,Max Solomon,Republican,,False,False
-2026,Indiana,IN,state treasurer,Daniel Elliott,Republican,,True,True
-2026,Indiana,IN,state treasurer,Coumba Kebe,Democratic,,False,False
-2026,Iowa,IA,state treasurer,Roby Smith,Republican,,True,True
-2026,Iowa,IA,state treasurer,John Norwood,Democratic,,False,False
-2026,Kansas,KS,state treasurer,Steven Johnson,Republican,,True,True
-2026,Kansas,KS,state treasurer,Juan Luengo,Democratic,,False,False
-2026,Kansas,KS,state treasurer,Eric Lund,Libertarian,,False,False
-2026,Massachusetts,MA,state treasurer,Deb Goldberg,Democratic,,True,True
-2026,Massachusetts,MA,state treasurer,Elizabeth Dionne,Republican,,False,False
-2026,Nebraska,NE,state treasurer,Joey Spellerberg,Republican,,True,True
-2026,Nebraska,NE,state treasurer,Daniel Ebers,Democratic,,False,False
-2026,Nevada,NV,state treasurer,Tya Mathis-Coleman,Democratic,,True,False
-2026,Nevada,NV,state treasurer,Drew Johnson,Republican,,False,False
-2026,New Mexico,NM,state treasurer,Laura Montoya,Democratic,,True,True
-2026,New Mexico,NM,state treasurer,Jim Ellison,Republican,,False,False
-2026,Ohio,OH,state treasurer,Seth Walsh,Democratic,,True,False
-2026,Ohio,OH,state treasurer,Jay Edwards,Republican,,False,False
-2026,Oklahoma,OK,state treasurer,Cindy Byrd,Republican,,True,False
-2026,Oklahoma,OK,state treasurer,Kiefer Perry,Libertarian,,False,False
-2026,Rhode Island,RI,state treasurer,James Diossa,Democratic,,True,True
-2026,Rhode Island,RI,state treasurer,Micholas Credle,Republican,,False,False
-2026,South Carolina,SC,state treasurer,Curtis Loftis,Republican,,True,True
-2026,South Carolina,SC,state treasurer,Vincent Coe,Democratic,,False,False
-2026,South Dakota,SD,state treasurer,Melissa Hull,Republican,,True,False
-2026,South Dakota,SD,state treasurer,Margaret Kuipers,Democratic,,False,False
-2026,Texas,TX,state treasurer,Sarah Eckhardt,Democratic,,True,False
-2026,Texas,TX,state treasurer,Don Huffines,Republican,,False,True
-2026,Texas,TX,state treasurer,Alonzo Echavarria-Garza,Libertarian,,False,False
-2026,Texas,TX,state treasurer,Shehla Faizi,Green,,False,False
-2026,Vermont,VT,state treasurer,Mike Pieciak,Democratic,,True,True
-2026,Vermont,VT,state treasurer,Lynn LaFleur,Republican,,False,False
-2026,Vermont,VT,state treasurer,Zachary Hampl,Progressive,,False,False
-2026,Wisconsin,WI,state treasurer,Yee Leng Xiong,Democratic,,True,False
-2026,Wisconsin,WI,state treasurer,John Leiber,Republican,,False,True
+2026,South Carolina,SC,secretary of state,Mark Hammond,Republican,53.0,True,True
+2026,South Carolina,SC,secretary of state,Jason Belton,Democratic,47.0,False,False
+2026,South Dakota,SD,secretary of state,Heather Baxter,Republican,58.4,True,False
+2026,South Dakota,SD,secretary of state,Terrence Davis,Democratic,36.1,False,False
+2026,South Dakota,SD,secretary of state,Tamara Lesnar,Libertarian,5.5,False,False
+2026,Vermont,VT,secretary of state,Sarah Copeland Hanzas,Democratic,59.3,True,True
+2026,Vermont,VT,secretary of state,Brooke Paige,Republican,32.6,False,False
+2026,Vermont,VT,secretary of state,Rachel Shaw,Progressive,8.1,False,False
+2026,Wisconsin,WI,secretary of state,JoCasta Zamarripa,Democratic,50.6,True,False
+2026,Wisconsin,WI,secretary of state,Jay Schroeder,Republican,45.6,False,False
+2026,Wisconsin,WI,secretary of state,Pete Karas,Green,3.8,False,False
+2026,Wyoming,WY,secretary of state,Robert Short,Republican,67.6,True,False
+2026,Wyoming,WY,secretary of state,Bryan McCarty,Democratic,23.7,False,False
+2026,Wyoming,WY,secretary of state,Tamara Trujillo,Constitution,8.4,False,False
+2026,Alabama,AL,state treasurer,Young Boozer,Republican,55.0,True,True
+2026,Alabama,AL,state treasurer,Rosilyn Houston,Democratic,45.0,False,False
+2026,Arizona,AZ,state treasurer,Nick Mansour,Democratic,53.9,True,False
+2026,Arizona,AZ,state treasurer,Elijah Norton,Republican,46.1,False,False
+2026,California,CA,state treasurer,Eleni Kounalakis,Democratic,65.7,True,False
+2026,California,CA,state treasurer,Jennifer Hawks,Republican,34.3,False,False
+2026,Colorado,CO,state treasurer,Jeff Bridges,Democratic,58.9,True,False
+2026,Colorado,CO,state treasurer,Kevin Grantham,Republican,38.5,False,False
+2026,Colorado,CO,state treasurer,Jodie Barr,Libertarian,2.2,False,False
+2026,Colorado,CO,state treasurer,Marilee Langner Sturgis,Voting,0.4,False,False
+2026,Connecticut,CT,state treasurer,Erick Russell,Democratic,60.3,True,True
+2026,Connecticut,CT,state treasurer,Fred Wilms,Republican,39.7,False,False
+2026,Delaware,DE,state treasurer,Ted Lauzen,Democratic,62.4,True,False
+2026,Delaware,DE,state treasurer,Mike Ramone,Republican,37.6,False,False
+2026,Florida,FL,state treasurer,Blaise Ingoglia,Republican,50.9,True,True
+2026,Florida,FL,state treasurer,Annette Taddeo,Democratic,49.1,False,False
+2026,Idaho,ID,state treasurer,Julie Ellsworth,Republican,65.4,True,True
+2026,Idaho,ID,state treasurer,Kevin Jones,Democratic,34.6,False,False
+2026,Illinois,IL,state treasurer,Mike Frerichs,Democratic,62.9,True,True
+2026,Illinois,IL,state treasurer,Max Solomon,Republican,37.1,False,False
+2026,Indiana,IN,state treasurer,Daniel Elliott,Republican,51.0,True,True
+2026,Indiana,IN,state treasurer,Coumba Kebe,Democratic,49.0,False,False
+2026,Iowa,IA,state treasurer,Roby Smith,Republican,50.3,True,True
+2026,Iowa,IA,state treasurer,John Norwood,Democratic,49.7,False,False
+2026,Kansas,KS,state treasurer,Steven Johnson,Republican,51.2,True,True
+2026,Kansas,KS,state treasurer,Juan Luengo,Democratic,44.3,False,False
+2026,Kansas,KS,state treasurer,Eric Lund,Libertarian,4.5,False,False
+2026,Massachusetts,MA,state treasurer,Deb Goldberg,Democratic,66.2,True,True
+2026,Massachusetts,MA,state treasurer,Elizabeth Dionne,Republican,33.8,False,False
+2026,Nebraska,NE,state treasurer,Joey Spellerberg,Republican,58.2,True,True
+2026,Nebraska,NE,state treasurer,Daniel Ebers,Democratic,41.8,False,False
+2026,Nevada,NV,state treasurer,Tya Mathis-Coleman,Democratic,55.2,True,False
+2026,Nevada,NV,state treasurer,Drew Johnson,Republican,42.8,False,False
+2026,Nevada,NV,state treasurer,None of These Candidates,None,2.0,False,False
+2026,New Mexico,NM,state treasurer,Laura Montoya,Democratic,59.8,True,True
+2026,New Mexico,NM,state treasurer,Jim Ellison,Republican,40.2,False,False
+2026,Ohio,OH,state treasurer,Seth Walsh,Democratic,50.6,True,False
+2026,Ohio,OH,state treasurer,Jay Edwards,Republican,49.4,False,False
+2026,Oklahoma,OK,state treasurer,Cindy Byrd,Republican,75.4,True,False
+2026,Oklahoma,OK,state treasurer,Kiefer Perry,Libertarian,24.6,False,False
+2026,Rhode Island,RI,state treasurer,James Diossa,Democratic,65.4,True,True
+2026,Rhode Island,RI,state treasurer,Micholas Credle,Republican,34.6,False,False
+2026,South Carolina,SC,state treasurer,Curtis Loftis,Republican,52.6,True,True
+2026,South Carolina,SC,state treasurer,Vincent Coe,Democratic,47.4,False,False
+2026,South Dakota,SD,state treasurer,Melissa Hull,Republican,62.4,True,False
+2026,South Dakota,SD,state treasurer,Margaret Kuipers,Democratic,37.6,False,False
+2026,Texas,TX,state treasurer,Sarah Eckhardt,Democratic,51.3,True,False
+2026,Texas,TX,state treasurer,Don Huffines,Republican,46.2,False,True
+2026,Texas,TX,state treasurer,Alonzo Echavarria-Garza,Libertarian,1.9,False,False
+2026,Texas,TX,state treasurer,Shehla Faizi,Green,0.7,False,False
+2026,Vermont,VT,state treasurer,Mike Pieciak,Democratic,62.3,True,True
+2026,Vermont,VT,state treasurer,Lynn LaFleur,Republican,31.1,False,False
+2026,Vermont,VT,state treasurer,Zachary Hampl,Progressive,6.5,False,False
+2026,Wisconsin,WI,state treasurer,Yee Leng Xiong,Democratic,51.8,True,False
+2026,Wisconsin,WI,state treasurer,John Leiber,Republican,48.2,False,True
 2026,Wyoming,WY,state treasurer,Curt Meier,Republican,,True,True
-2026,Alabama,AL,state auditor,Andrew Sorrell,Republican,,True,True
-2026,Alabama,AL,state auditor,Violet Edwards,Democratic,,False,False
+2026,Alabama,AL,state auditor,Andrew Sorrell,Republican,55.2,True,True
+2026,Alabama,AL,state auditor,Violet Edwards,Democratic,44.8,False,False
 2026,Arkansas,AR,state auditor,Dennis Milligan,Republican,,True,True
-2026,California,CA,state auditor,Malia Cohen,Democratic,,True,True
-2026,California,CA,state auditor,Herb Morgan,Republican,,False,False
-2026,Connecticut,CT,state auditor,Sean Scanlon,Democratic,,True,True
-2026,Connecticut,CT,state auditor,Jen Tooker,Republican,,False,False
-2026,Delaware,DE,state auditor,Lydia York,Democratic,,True,True
-2026,Delaware,DE,state auditor,April Callaway,Republican,,False,False
-2026,Delaware,DE,state auditor,Austin Cassidy,Independent,,False,False
-2026,Idaho,ID,state auditor,Brandon Woolf,Republican,,True,True
-2026,Idaho,ID,state auditor,Rakesh Mohan,Democratic,,False,False
-2026,Illinois,IL,state auditor,Margaret Croke,Democratic,,True,False
-2026,Illinois,IL,state auditor,Bryan Drew,Republican,,False,False
-2026,Indiana,IN,state auditor,Jessica Bailey,Democratic,,True,False
-2026,Indiana,IN,state auditor,Elise Nieshalla,Republican,,False,True
-2026,Indiana,IN,state auditor,John Schick,Libertarian,,False,False
-2026,Iowa,IA,state auditor,Taylor Wettach,Democratic,,True,False
-2026,Iowa,IA,state auditor,Chris Cournoyer,Republican,,False,False
-2026,Maryland,MD,state auditor,Brooke Lierman,Democratic,,True,True
-2026,Maryland,MD,state auditor,Sonya Dunn,Republican,,False,False
-2026,Massachusetts,MA,state auditor,Diana DiZoglio,Democratic,,True,True
-2026,Massachusetts,MA,state auditor,Al Ozonoff,Libertarian,,False,False
-2026,Minnesota,MN,state auditor,Zack Filipovich,Minnesota Democratic–farmer–labor,,True,False
-2026,Minnesota,MN,state auditor,Scott Jensen,Republican,,False,False
-2026,Minnesota,MN,state auditor,Jay Reeves,Forward,,False,False
-2026,Missouri,MO,state auditor,Scott Fitzpatrick,Republican,,True,True
-2026,Missouri,MO,state auditor,Quentin Wilson,Democratic,,False,False
-2026,Missouri,MO,state auditor,Dustin Coffell,Libertarian,,False,False
-2026,Nebraska,NE,state auditor,Mike Foley,Republican,,True,True
-2026,Nebraska,NE,state auditor,John Knight,America First Party (nebraska),,False,False
-2026,Nevada,NV,state auditor,Michael MacDougall,Democratic,,True,False
-2026,Nevada,NV,state auditor,Andy Matthews,Republican,,False,True
-2026,New Mexico,NM,state auditor,Joseph Maestas,Democratic,,True,True
-2026,New Mexico,NM,state auditor,Joshua Lawrence,Republican,,False,False
-2026,New York,NY,state auditor,Tom DiNapoli,Democratic,,True,True
-2026,New York,NY,state auditor,Joseph Hernandez,Republican,,False,False
-2026,Ohio,OH,state auditor,Frank LaRose,Republican,,True,False
-2026,Ohio,OH,state auditor,Annette Blackwell,Democratic,,False,False
+2026,California,CA,state auditor,Malia Cohen,Democratic,65.6,True,True
+2026,California,CA,state auditor,Herb Morgan,Republican,34.4,False,False
+2026,Connecticut,CT,state auditor,Sean Scanlon,Democratic,63.0,True,True
+2026,Connecticut,CT,state auditor,Jen Tooker,Republican,37.0,False,False
+2026,Delaware,DE,state auditor,Lydia York,Democratic,60.4,True,True
+2026,Delaware,DE,state auditor,April Callaway,Republican,34.7,False,False
+2026,Delaware,DE,state auditor,Austin Cassidy,Independent,4.9,False,False
+2026,Idaho,ID,state auditor,Brandon Woolf,Republican,66.2,True,True
+2026,Idaho,ID,state auditor,Rakesh Mohan,Democratic,33.8,False,False
+2026,Illinois,IL,state auditor,Margaret Croke,Democratic,61.9,True,False
+2026,Illinois,IL,state auditor,Bryan Drew,Republican,38.1,False,False
+2026,Indiana,IN,state auditor,Jessica Bailey,Democratic,49.3,True,False
+2026,Indiana,IN,state auditor,Elise Nieshalla,Republican,47.8,False,True
+2026,Indiana,IN,state auditor,John Schick,Libertarian,2.9,False,False
+2026,Iowa,IA,state auditor,Taylor Wettach,Democratic,50.3,True,False
+2026,Iowa,IA,state auditor,Chris Cournoyer,Republican,49.7,False,False
+2026,Maryland,MD,state auditor,Brooke Lierman,Democratic,69.7,True,True
+2026,Maryland,MD,state auditor,Sonya Dunn,Republican,30.3,False,False
+2026,Massachusetts,MA,state auditor,Diana DiZoglio,Democratic,83.9,True,True
+2026,Massachusetts,MA,state auditor,Al Ozonoff,Libertarian,16.1,False,False
+2026,Minnesota,MN,state auditor,Zack Filipovich,Minnesota Democratic–farmer–labor,53.0,True,False
+2026,Minnesota,MN,state auditor,Scott Jensen,Republican,44.2,False,False
+2026,Minnesota,MN,state auditor,Jay Reeves,Forward,2.8,False,False
+2026,Missouri,MO,state auditor,Scott Fitzpatrick,Republican,51.0,True,True
+2026,Missouri,MO,state auditor,Quentin Wilson,Democratic,46.4,False,False
+2026,Missouri,MO,state auditor,Dustin Coffell,Libertarian,2.6,False,False
+2026,Nebraska,NE,state auditor,Mike Foley,Republican,74.6,True,True
+2026,Nebraska,NE,state auditor,John Knight,America First Party (nebraska),25.4,False,False
+2026,Nevada,NV,state auditor,Michael MacDougall,Democratic,54.5,True,False
+2026,Nevada,NV,state auditor,Andy Matthews,Republican,43.2,False,True
+2026,Nevada,NV,state auditor,None of These Candidates,None,2.3,False,False
+2026,New Mexico,NM,state auditor,Joseph Maestas,Democratic,60.5,True,True
+2026,New Mexico,NM,state auditor,Joshua Lawrence,Republican,39.5,False,False
+2026,New York,NY,state auditor,Tom DiNapoli,Democratic,64.6,True,True
+2026,New York,NY,state auditor,Joseph Hernandez,Republican,35.4,False,False
+2026,Ohio,OH,state auditor,Frank LaRose,Republican,50.8,True,False
+2026,Ohio,OH,state auditor,Annette Blackwell,Democratic,49.2,False,False
 2026,Oklahoma,OK,state auditor,Melissa Capps,Republican,,True,False
-2026,South Carolina,SC,state auditor,Mike Burkhold,Republican,,True,False
-2026,South Carolina,SC,state auditor,Tiffany Boozer,Democratic,,False,False
-2026,South Dakota,SD,state auditor,Catherine Barranco,Republican,,True,False
-2026,South Dakota,SD,state auditor,Tom Cool,Democratic,,False,False
-2026,Vermont,VT,state auditor,Tim Ashe,Democratic,,True,False
-2026,Vermont,VT,state auditor,Ivar Kronick,Republican,,False,False
+2026,South Carolina,SC,state auditor,Mike Burkhold,Republican,52.1,True,False
+2026,South Carolina,SC,state auditor,Tiffany Boozer,Democratic,47.9,False,False
+2026,South Dakota,SD,state auditor,Catherine Barranco,Republican,62.6,True,False
+2026,South Dakota,SD,state auditor,Tom Cool,Democratic,37.4,False,False
+2026,Vermont,VT,state auditor,Tim Ashe,Democratic,69.2,True,False
+2026,Vermont,VT,state auditor,Ivar Kronick,Republican,30.8,False,False
 2026,Wyoming,WY,state auditor,Kristi Racines,Republican,,True,True

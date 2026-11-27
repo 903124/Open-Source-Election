@@ -21,7 +21,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2014,Alabama,AL,State Senate,12,general,Taylor Stewart,Democratic,13178.0,42.6,False,False
 2014,Alabama,AL,State Senate,13,general,Gerald Dial,Republican,16758.0,54.2,True,False
 2014,Alabama,AL,State Senate,13,general,Darrell Truner,Democratic,3.0,33.7,False,False
-2014,Alabama,AL,State Senate,13,general,Bill Fuller,Independent (politician),3697.0,12.0,False,False
+2014,Alabama,AL,State Senate,13,general,Bill Fuller,Independent,3697.0,12.0,False,False
 2014,Alabama,AL,State Senate,14,general,Cam Ward,Republican,25724.0,98.4,True,False
 2014,Alabama,AL,State Senate,15,general,Slade Blackwell,Republican,29498.0,98.4,True,False
 2014,Alabama,AL,State Senate,16,general,"J.T. ""Jabo"" Waggoner",Republican,28107.0,77.1,True,False
@@ -42,14 +42,14 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2014,Alabama,AL,State Senate,27,general,Haylee Moss,Democratic,10358.0,34.3,False,False
 2014,Alabama,AL,State Senate,28,general,Billy Beasley,Democratic,22148.0,73.3,True,False
 2014,Alabama,AL,State Senate,28,general,John Savage,Republican,8020.0,26.5,False,False
-2014,Alabama,AL,State Senate,29,general,Harri Anne Smith,Independent (politician),17830.0,52.4,True,False
+2014,Alabama,AL,State Senate,29,general,Harri Anne Smith,Independent,17830.0,52.4,True,False
 2014,Alabama,AL,State Senate,29,general,Melinda McClendon,Republican,16145.0,47.4,False,False
 2014,Alabama,AL,State Senate,30,general,Clyde Chambliss,Republican,22916.0,79.9,True,False
-2014,Alabama,AL,State Senate,30,general,Bryan Morgan,Independent (politician),5653.0,19.7,False,False
+2014,Alabama,AL,State Senate,30,general,Bryan Morgan,Independent,5653.0,19.7,False,False
 2014,Alabama,AL,State Senate,31,general,Jimmy Holley,Republican,23067.0,72.7,True,False
 2014,Alabama,AL,State Senate,31,general,Larry Greenwood,Democratic,8627.0,27.2,False,False
 2014,Alabama,AL,State Senate,32,general,Trip Pittman,Republican,27837.0,81.4,True,False
-2014,Alabama,AL,State Senate,32,general,Kimberly McCuiston,Independent (politician),6306.0,18.4,False,False
+2014,Alabama,AL,State Senate,32,general,Kimberly McCuiston,Independent,6306.0,18.4,False,False
 2014,Alabama,AL,State Senate,33,general,Vivian Davis Figures,Democratic,23012.0,98.9,True,False
 2014,Alabama,AL,State Senate,34,general,Rusty Glover,Republican,22451.0,98.8,True,False
 2014,Alabama,AL,State Senate,35,general,Bill Hightower,Republican,19173.0,73.6,True,False
@@ -136,6 +136,46 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2014,Arizona,AZ,State Senate,29,general,Crystal Nuttle,Republican,8002.0,39.74,False,False
 2014,Arizona,AZ,State Senate,30,general,Robert Meza,Democratic,12802.0,57.99,True,True
 2014,Arizona,AZ,State Senate,30,general,Gary Cox,Republican,9276.0,42.01,False,False
+2014,California,CA,State Senate,2,general,Mike McGuire,Democratic,188142.0,70.0,True,False
+2014,California,CA,State Senate,2,general,Lawrence R. Wiesner,Republican,80778.0,30.0,False,False
+2014,California,CA,State Senate,4,general,Jim Nielsen,Republican,139199.0,63.7,True,True
+2014,California,CA,State Senate,4,general,CJ Jawahar,Democratic,79457.0,36.3,False,False
+2014,California,CA,State Senate,6,general,Richard Pan,Democratic,96688.0,53.8,True,False
+2014,California,CA,State Senate,6,general,Roger Dickinson,Democratic,82938.0,46.2,False,False
+2014,California,CA,State Senate,8,general,Tom Berryhill,Republican,145587.0,66.5,True,True
+2014,California,CA,State Senate,8,general,Paulina Miranda,Democratic,73417.0,33.5,False,False
+2014,California,CA,State Senate,10,general,Bob Wieckowski,Democratic,111162.0,68.0,True,False
+2014,California,CA,State Senate,10,general,Peter Kuo,Republican,52302.0,32.0,False,False
+2014,California,CA,State Senate,12,general,Anthony Cannella,Republican,74988.0,60.5,True,True
+2014,California,CA,State Senate,12,general,Shawn K. Bagley,Democratic,49039.0,39.5,False,False
+2014,California,CA,State Senate,14,general,Andy Vidak,Republican,54251.0,54.1,True,True
+2014,California,CA,State Senate,14,general,Luis Chavez,Democratic,46035.0,45.9,False,False
+2014,California,CA,State Senate,16,general,Jean Fuller,Republican,122700.0,72.8,True,True
+2014,California,CA,State Senate,16,general,Ruth Musser-Lopez,Democratic,45812.0,27.2,False,False
+2014,California,CA,State Senate,18,general,Robert Hertzberg,Democratic,79495.0,70.2,True,False
+2014,California,CA,State Senate,18,general,Ricardo Antonio Benitez,Republican,33794.0,29.8,False,False
+2014,California,CA,State Senate,20,general,Connie Leyva,Democratic,56943.0,62.4,True,False
+2014,California,CA,State Senate,20,general,Matthew Munson,Republican,34256.0,37.6,False,False
+2014,California,CA,State Senate,22,general,Ed Hernandez,Democratic,63570.0,64.8,True,True
+2014,California,CA,State Senate,22,general,Marc Rodriguez,Republican,34468.0,35.2,False,False
+2014,California,CA,State Senate,24,general,Kevin de León,Democratic,57412.0,65.8,True,True
+2014,California,CA,State Senate,24,general,Peter Choi,Democratic,29848.0,34.2,False,False
+2014,California,CA,State Senate,26,general,Ben Allen,Democratic,122901.0,60.3,True,False
+2014,California,CA,State Senate,26,general,Sandra Fluke,Democratic,80781.0,39.7,False,False
+2014,California,CA,State Senate,28,general,Jeff Stone,Republican,81698.0,53.0,True,False
+2014,California,CA,State Senate,28,general,Bonnie Garcia,Republican,72353.0,47.0,False,False
+2014,California,CA,State Senate,30,general,Holly Mitchell,Democratic,78115.0,68.8,True,True
+2014,California,CA,State Senate,30,general,Isidro Armenta,Democratic,35442.0,31.2,False,False
+2014,California,CA,State Senate,32,general,Tony Mendoza,Democratic,67593.0,52.3,True,False
+2014,California,CA,State Senate,32,general,Mario Guerra,Republican,61718.0,47.7,False,False
+2014,California,CA,State Senate,34,general,Janet Nguyen,Republican,95792.0,58.1,True,False
+2014,California,CA,State Senate,34,general,Jose Solorio,Democratic,69220.0,41.9,False,False
+2014,California,CA,State Senate,36,general,Patricia Bates,Republican,140610.0,65.7,True,False
+2014,California,CA,State Senate,36,general,Gary Kephart,Democratic,73539.0,34.3,False,False
+2014,California,CA,State Senate,38,general,Joel Anderson,Republican,146510.0,68.9,True,True
+2014,California,CA,State Senate,38,general,"Fotios ""Frank"" Tsimboukakis",Democratic,66066.0,30.8,False,False
+2014,California,CA,State Senate,40,general,Ben Hueso,Democratic,58880.0,54.9,True,True
+2014,California,CA,State Senate,40,general,Rafael Estrada,Democratic,48397.0,45.1,False,False
 2014,Colorado,CO,State Senate,1,general,Jerry Sonnenberg,Republican,45689.0,79.01,True,False
 2014,Colorado,CO,State Senate,1,general,Doug Aden,American Constitution Party (colorado),7876.0,14.7,False,False
 2014,Colorado,CO,State Senate,2,general,Kevin Grantham,Republican,38895.0,74.9,True,True
@@ -351,7 +391,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2014,Iowa,IA,State Senate,5,general,Daryl Beall*,Democratic,9801.0,44.2,False,False
 2014,Iowa,IA,State Senate,7,general,Rick Bertrand*,Republican,8766.0,57.2,True,False
 2014,Iowa,IA,State Senate,7,general,Jim France,Democratic,5738.0,37.4,False,False
-2014,Iowa,IA,State Senate,7,general,Maria Rundquist,Independent (politician),832.0,5.4,False,False
+2014,Iowa,IA,State Senate,7,general,Maria Rundquist,Independent,832.0,5.4,False,False
 2014,Iowa,IA,State Senate,9,general,Jason Schultz,Republican,16293.0,76.5,True,False
 2014,Iowa,IA,State Senate,11,general,Tom Shipley,Republican,17681.0,78.5,True,False
 2014,Iowa,IA,State Senate,13,general,Julian Garrett*,Republican,15326.0,61.0,True,False
@@ -361,9 +401,9 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2014,Iowa,IA,State Senate,15,general,Crystal Bruntz,Republican,12008.0,47.4,False,False
 2014,Iowa,IA,State Senate,17,general,Tony Bisignano,Democratic,10548.0,62.4,True,False
 2014,Iowa,IA,State Senate,17,general,Jonathan Lochman,Republican,5374.0,31.8,False,False
-2014,Iowa,IA,State Senate,17,general,Jim Bollard,Independent (politician),978.0,5.8,False,False
+2014,Iowa,IA,State Senate,17,general,Jim Bollard,Independent,978.0,5.8,False,False
 2014,Iowa,IA,State Senate,19,general,Jack Whitver*,Republican,16742.0,81.5,True,False
-2014,Iowa,IA,State Senate,19,general,Brett Nelson,Independent (politician),3802.0,18.5,False,False
+2014,Iowa,IA,State Senate,19,general,Brett Nelson,Independent,3802.0,18.5,False,False
 2014,Iowa,IA,State Senate,21,general,Matt McCoy*,Democratic,17851.0,67.0,True,False
 2014,Iowa,IA,State Senate,23,general,Herman C. Quirmbach*,Democratic,11713.0,59.1,True,False
 2014,Iowa,IA,State Senate,23,general,Jeremy Davis,Republican,8094.0,40.9,False,False
@@ -501,67 +541,67 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2014,Maryland,MD,State Senate,47,general,Victor Ramirez,Democratic,15582.0,99.0,True,True
 2014,Massachusetts,MA,State Senate,HAMPSHIRE,general,Benjamin Downing,Democratic,40795.0,99.6,True,True
 2014,Massachusetts,MA,State Senate,NORFOLK,general,James E. Timilty,Democratic,38762.0,99.1,True,True
-2014,Massachusetts,MA,State Senate,PLYMOUTH,general,Michael Rodrigues,Democratic,26022.0,65.3,True,True
-2014,Massachusetts,MA,State Senate,PLYMOUTH,general,Derek A. Maksy,Republican,13787.0,34.6,False,False
-2014,Massachusetts,MA,State Senate,PLYMOUTH,general,Mark Montigny,Democratic,28945.0,98.7,True,True
-2014,Massachusetts,MA,State Senate,ISLANDS,general,Dan Wolf,Democratic,46960.0,62.4,True,True
-2014,Massachusetts,MA,State Senate,ISLANDS,general,"Ronald R. Beaty, Jr.",Republican,27902.0,37.1,False,False
-2014,Massachusetts,MA,State Senate,ISLANDS,general,Allen R. Waters (Write-in),Republican,360.0,0.5,False,False
-2014,Massachusetts,MA,State Senate,ESSEX,general,Kathleen O'Connor Ives,Democratic,30107.0,53.8,True,True
-2014,Massachusetts,MA,State Senate,ESSEX,general,Shaun P. Toohey,Republican,25830.0,46.1,False,False
-2014,Massachusetts,MA,State Senate,ESSEX,general,Joan Lovely,Democratic,44386.0,98.8,True,True
-2014,Massachusetts,MA,State Senate,ESSEX,general,Thomas M. McGee,Democratic,39528.0,98.9,True,True
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Bruce Tarr,Republican,57641.0,99.4,True,True
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Barbara L'Italien,Democratic,24559.0,53.2,True,False
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Alex J. Vispoli,Republican,21529.0,46.6,False,False
-2014,Massachusetts,MA,State Senate,MASSACHUSETTS SENATE'S HAMPDEN,general,James T. Welch,Democratic,25271.0,98.0,True,True
-2014,Massachusetts,MA,State Senate,HAMPSHIRE,general,Eric Lesser,Democratic,28153.0,50.4,True,False
-2014,Massachusetts,MA,State Senate,HAMPSHIRE,general,Debra A. Boronski,Republican,24964.0,44.7,False,False
-2014,Massachusetts,MA,State Senate,HAMPSHIRE,general,Mike Franco,Independent,2705.0,4.8,False,False
-2014,Massachusetts,MA,State Senate,HAMPSHIRE,general,Donald Humason Jr.,Republican,27817.0,56.6,True,True
-2014,Massachusetts,MA,State Senate,HAMPSHIRE,general,Patrick T. Leahy,Democratic,21275.0,43.3,False,False
-2014,Massachusetts,MA,State Senate,WORCESTER,general,Stan Rosenberg,Democratic,44012.0,99.1,True,True
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Eileen Donoghue,Democratic,32835.0,98.0,True,True
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Patricia D. Jehlen,Democratic,41685.0,75.5,True,True
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,"Robert L. Cappucci, Jr.",Republican,13406.0,24.3,False,False
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Michael J. Barrett,Democratic,34750.0,59.2,True,True
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Sandi Martinez,Republican,23911.0,40.7,False,False
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Ken Donnelly,Democratic,45974.0,98.9,True,True
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Jason Lewis,Democratic,32143.0,56.8,True,True
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Monica C. Medeiros,Republican,24406.0,43.1,False,False
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Cynthia Stone Creem,Democratic,43655.0,98.8,True,True
-2014,Massachusetts,MA,State Senate,NORFOLK,general,Karen Spilka,Democratic,38191.0,98.3,True,True
-2014,Massachusetts,MA,State Senate,SUFFOLK,general,Sal DiDomenico,Democratic,31575.0,98.8,True,True
-2014,Massachusetts,MA,State Senate,WORCESTER,general,Jamie Eldridge,Democratic,45379.0,98.6,True,True
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Richard J. Ross,Republican,34952.0,61.0,True,True
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Dylan Hayre,Democratic,22267.0,38.9,False,False
-2014,Massachusetts,MA,State Senate,BRISTOL,general,Brian A. Joyce,Democratic,41348.0,98.9,True,True
-2014,Massachusetts,MA,State Senate,PLYMOUTH,general,John F. Keenan,Democratic,32679.0,66.0,True,True
-2014,Massachusetts,MA,State Senate,PLYMOUTH,general,Leslie C. Gosule,Republican,16786.0,33.9,False,False
-2014,Massachusetts,MA,State Senate,SUFFOLK,general,Mike Rush,Democratic,42954.0,98.7,True,True
-2014,Massachusetts,MA,State Senate,BARNSTABLE,general,Vinny deMacedo,Republican,38250.0,61.1,True,False
-2014,Massachusetts,MA,State Senate,BARNSTABLE,general,Matthew Patrick,Democratic,22053.0,35.2,False,False
-2014,Massachusetts,MA,State Senate,BARNSTABLE,general,Heather M. Mullins,Libertarian,2272.0,3.6,False,False
-2014,Massachusetts,MA,State Senate,NORFOLK,general,Bob Hedlund,Republican,55294.0,99.1,True,True
-2014,Massachusetts,MA,State Senate,BRISTOL,general,Marc Pacheco,Democratic,31538.0,60.9,True,True
-2014,Massachusetts,MA,State Senate,BRISTOL,general,David A. Rosa,Republican,20174.0,39.0,False,False
-2014,Massachusetts,MA,State Senate,BRISTOL,general,Thomas P. Kennedy,Democratic,29522.0,66.5,True,True
-2014,Massachusetts,MA,State Senate,BRISTOL,general,Viola A. Ryerson,Republican,14883.0,33.5,False,False
-2014,Massachusetts,MA,State Senate,SUFFOLK,general,Linda Dorcena Forry,Democratic,32298.0,83.7,True,True
-2014,Massachusetts,MA,State Senate,SUFFOLK,general,"Robert E. Powers, Jr",Independent,6119.0,15.9,False,False
-2014,Massachusetts,MA,State Senate,SUFFOLK,general,Sonia Chang-Díaz,Democratic,33742.0,89.8,True,True
-2014,Massachusetts,MA,State Senate,SUFFOLK,general,David James Wyatt,Republican,3733.0,9.9,False,False
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Anthony Petruccelli,Democratic,30523.0,98.1,True,True
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Will Brownsberger,Democratic,30514.0,98.2,True,True
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Jennifer Flanagan,Democratic,29133.0,60.4,True,True
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Richard M. Bastien,Republican,19074.0,39.5,False,False
-2014,Massachusetts,MA,State Senate,HAMPDEN,general,Ryan Fattman,Republican,29774.0,55.7,True,False
-2014,Massachusetts,MA,State Senate,HAMPDEN,general,Richard T. Moore,Democratic,23662.0,44.3,False,True
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Anne Gobi,Democratic,27847.0,50.3,True,False
-2014,Massachusetts,MA,State Senate,MIDDLESEX,general,Michael J. Valanzola,Republican,27449.0,49.6,False,False
-2014,Massachusetts,MA,State Senate,WORCESTER,general,Harriette L. Chandler,Democratic,27576.0,60.2,True,True
-2014,Massachusetts,MA,State Senate,WORCESTER,general,Paul J. Franco,Republican,18179.0,39.7,False,False
-2014,Massachusetts,MA,State Senate,WORCESTER,general,Michael O. Moore,Democratic,37909.0,98.8,True,True
+2014,Massachusetts,MA,State Senate,1,general,Michael Rodrigues,Democratic,26022.0,65.3,True,True
+2014,Massachusetts,MA,State Senate,1,general,Derek A. Maksy,Republican,13787.0,34.6,False,False
+2014,Massachusetts,MA,State Senate,2,general,Mark Montigny,Democratic,28945.0,98.7,True,True
+2014,Massachusetts,MA,State Senate,2,general,Dan Wolf,Democratic,46960.0,62.4,True,True
+2014,Massachusetts,MA,State Senate,2,general,"Ronald R. Beaty, Jr.",Republican,27902.0,37.1,False,False
+2014,Massachusetts,MA,State Senate,2,general,Allen R. Waters (Write-in),Republican,360.0,0.5,False,False
+2014,Massachusetts,MA,State Senate,1,general,Kathleen O'Connor Ives,Democratic,30107.0,53.8,True,True
+2014,Massachusetts,MA,State Senate,1,general,Shaun P. Toohey,Republican,25830.0,46.1,False,False
+2014,Massachusetts,MA,State Senate,2,general,Joan Lovely,Democratic,44386.0,98.8,True,True
+2014,Massachusetts,MA,State Senate,3,general,Thomas M. McGee,Democratic,39528.0,98.9,True,True
+2014,Massachusetts,MA,State Senate,1,general,Bruce Tarr,Republican,57641.0,99.4,True,True
+2014,Massachusetts,MA,State Senate,2,general,Barbara L'Italien,Democratic,24559.0,53.2,True,False
+2014,Massachusetts,MA,State Senate,2,general,Alex J. Vispoli,Republican,21529.0,46.6,False,False
+2014,Massachusetts,MA,State Senate,2,general,James T. Welch,Democratic,25271.0,98.0,True,True
+2014,Massachusetts,MA,State Senate,1,general,Eric Lesser,Democratic,28153.0,50.4,True,False
+2014,Massachusetts,MA,State Senate,1,general,Debra A. Boronski,Republican,24964.0,44.7,False,False
+2014,Massachusetts,MA,State Senate,1,general,Mike Franco,Independent,2705.0,4.8,False,False
+2014,Massachusetts,MA,State Senate,2,general,Donald Humason Jr.,Republican,27817.0,56.6,True,True
+2014,Massachusetts,MA,State Senate,2,general,Patrick T. Leahy,Democratic,21275.0,43.3,False,False
+2014,Massachusetts,MA,State Senate,2,general,Stan Rosenberg,Democratic,44012.0,99.1,True,True
+2014,Massachusetts,MA,State Senate,1,general,Eileen Donoghue,Democratic,32835.0,98.0,True,True
+2014,Massachusetts,MA,State Senate,2,general,Patricia D. Jehlen,Democratic,41685.0,75.5,True,True
+2014,Massachusetts,MA,State Senate,2,general,"Robert L. Cappucci, Jr.",Republican,13406.0,24.3,False,False
+2014,Massachusetts,MA,State Senate,3,general,Michael J. Barrett,Democratic,34750.0,59.2,True,True
+2014,Massachusetts,MA,State Senate,3,general,Sandi Martinez,Republican,23911.0,40.7,False,False
+2014,Massachusetts,MA,State Senate,4,general,Ken Donnelly,Democratic,45974.0,98.9,True,True
+2014,Massachusetts,MA,State Senate,5,general,Jason Lewis,Democratic,32143.0,56.8,True,True
+2014,Massachusetts,MA,State Senate,5,general,Monica C. Medeiros,Republican,24406.0,43.1,False,False
+2014,Massachusetts,MA,State Senate,1,general,Cynthia Stone Creem,Democratic,43655.0,98.8,True,True
+2014,Massachusetts,MA,State Senate,2,general,Karen Spilka,Democratic,38191.0,98.3,True,True
+2014,Massachusetts,MA,State Senate,2,general,Sal DiDomenico,Democratic,31575.0,98.8,True,True
+2014,Massachusetts,MA,State Senate,2,general,Jamie Eldridge,Democratic,45379.0,98.6,True,True
+2014,Massachusetts,MA,State Senate,2,general,Richard J. Ross,Republican,34952.0,61.0,True,True
+2014,Massachusetts,MA,State Senate,2,general,Dylan Hayre,Democratic,22267.0,38.9,False,False
+2014,Massachusetts,MA,State Senate,2,general,Brian A. Joyce,Democratic,41348.0,98.9,True,True
+2014,Massachusetts,MA,State Senate,2,general,John F. Keenan,Democratic,32679.0,66.0,True,True
+2014,Massachusetts,MA,State Senate,2,general,Leslie C. Gosule,Republican,16786.0,33.9,False,False
+2014,Massachusetts,MA,State Senate,2,general,Mike Rush,Democratic,42954.0,98.7,True,True
+2014,Massachusetts,MA,State Senate,2,general,Vinny deMacedo,Republican,38250.0,61.1,True,False
+2014,Massachusetts,MA,State Senate,2,general,Matthew Patrick,Democratic,22053.0,35.2,False,False
+2014,Massachusetts,MA,State Senate,2,general,Heather M. Mullins,Libertarian,2272.0,3.6,False,False
+2014,Massachusetts,MA,State Senate,2,general,Bob Hedlund,Republican,55294.0,99.1,True,True
+2014,Massachusetts,MA,State Senate,1,general,Marc Pacheco,Democratic,31538.0,60.9,True,True
+2014,Massachusetts,MA,State Senate,1,general,David A. Rosa,Republican,20174.0,39.0,False,False
+2014,Massachusetts,MA,State Senate,2,general,Thomas P. Kennedy,Democratic,29522.0,66.5,True,True
+2014,Massachusetts,MA,State Senate,2,general,Viola A. Ryerson,Republican,14883.0,33.5,False,False
+2014,Massachusetts,MA,State Senate,1,general,Linda Dorcena Forry,Democratic,32298.0,83.7,True,True
+2014,Massachusetts,MA,State Senate,1,general,"Robert E. Powers, Jr",Independent,6119.0,15.9,False,False
+2014,Massachusetts,MA,State Senate,2,general,Sonia Chang-Díaz,Democratic,33742.0,89.8,True,True
+2014,Massachusetts,MA,State Senate,2,general,David James Wyatt,Republican,3733.0,9.9,False,False
+2014,Massachusetts,MA,State Senate,1,general,Anthony Petruccelli,Democratic,30523.0,98.1,True,True
+2014,Massachusetts,MA,State Senate,2,general,Will Brownsberger,Democratic,30514.0,98.2,True,True
+2014,Massachusetts,MA,State Senate,2,general,Jennifer Flanagan,Democratic,29133.0,60.4,True,True
+2014,Massachusetts,MA,State Senate,2,general,Richard M. Bastien,Republican,19074.0,39.5,False,False
+2014,Massachusetts,MA,State Senate,2,general,Ryan Fattman,Republican,29774.0,55.7,True,False
+2014,Massachusetts,MA,State Senate,2,general,Richard T. Moore,Democratic,23662.0,44.3,False,True
+2014,Massachusetts,MA,State Senate,2,general,Anne Gobi,Democratic,27847.0,50.3,True,False
+2014,Massachusetts,MA,State Senate,2,general,Michael J. Valanzola,Republican,27449.0,49.6,False,False
+2014,Massachusetts,MA,State Senate,1,general,Harriette L. Chandler,Democratic,27576.0,60.2,True,True
+2014,Massachusetts,MA,State Senate,1,general,Paul J. Franco,Republican,18179.0,39.7,False,False
+2014,Massachusetts,MA,State Senate,2,general,Michael O. Moore,Democratic,37909.0,98.8,True,True
 2014,Michigan,MI,State Senate,1,general,Coleman Young II,Democratic,48518.0,71.84,True,True
 2014,Michigan,MI,State Senate,1,general,Barry Berk,Republican,19021.0,28.16,False,False
 2014,Michigan,MI,State Senate,1,general,Bert Johnson,Democratic,40500.0,71.07,True,True
@@ -844,6 +884,49 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2014,North Carolina,NC,State Senate,49,general,Mark Crawford,Republican,26745.0,38.71,False,False
 2014,North Carolina,NC,State Senate,50,general,Jim Davis,Republican,33820.0,53.86,True,True
 2014,North Carolina,NC,State Senate,50,general,Jane Hipps,Democratic,28974.0,46.14,False,False
+2014,Pennsylvania,PA,State Senate,28,general,Scott Wagner,Republican,56901.0,64.72,True,False
+2014,Pennsylvania,PA,State Senate,28,general,Ron Miller,Republican,5951.0,26.54,False,False
+2014,Pennsylvania,PA,State Senate,28,general,Linda E. Small,Democratic,30949.0,35.28,False,False
+2014,Pennsylvania,PA,State Senate,2,general,Christine Tartaglione,Democratic,35405.0,78.91,True,False
+2014,Pennsylvania,PA,State Senate,2,general,John J. Jenkins III,Republican,9464.0,21.09,False,False
+2014,Pennsylvania,PA,State Senate,4,general,Arthur L. Haywood III,Democratic,78001.0,81.37,True,False
+2014,Pennsylvania,PA,State Senate,4,general,Robin Matthew Gilchrist,Republican,16498.0,17.21,False,False
+2014,Pennsylvania,PA,State Senate,4,general,Ines Reyes,Independent,1355.0,1.41,False,False
+2014,Pennsylvania,PA,State Senate,6,general,Robert M. Tomlinson,Republican,45361.0,61.84,True,False
+2014,Pennsylvania,PA,State Senate,6,general,Kimberly Yeager-Rose,Democratic,27997.0,38.16,False,False
+2014,Pennsylvania,PA,State Senate,8,general,Anthony H. Williams,Democratic,58547.0,100.0,True,False
+2014,Pennsylvania,PA,State Senate,10,general,Chuck McIlhinney,Republican,49605.0,58.65,True,False
+2014,Pennsylvania,PA,State Senate,10,general,"Stephen George Cickay, Jr.",Democratic,34967.0,41.35,False,False
+2014,Pennsylvania,PA,State Senate,12,general,Stewart Greenleaf,Republican,50319.0,63.34,True,False
+2014,Pennsylvania,PA,State Senate,12,general,Ruth S. Damsker,Democratic,29123.0,36.66,False,False
+2014,Pennsylvania,PA,State Senate,14,general,John Yudichak,Democratic,41980.0,100.0,True,False
+2014,Pennsylvania,PA,State Senate,16,general,Pat Browne,Republican,36745.0,62.39,True,False
+2014,Pennsylvania,PA,State Senate,16,general,"Walter Felton, Jr.",Democratic,22146.0,37.61,False,False
+2014,Pennsylvania,PA,State Senate,18,general,Lisa Boscola,Democratic,54943.0,100.0,True,False
+2014,Pennsylvania,PA,State Senate,20,general,Lisa Baker,Republican,51946.0,100.0,True,False
+2014,Pennsylvania,PA,State Senate,22,general,John Blake,Democratic,45716.0,68.31,True,False
+2014,Pennsylvania,PA,State Senate,22,general,Arthur Joseph Albert,Republican,21213.0,31.69,False,False
+2014,Pennsylvania,PA,State Senate,24,general,Bob Mensch,Republican,41885.0,59.9,True,False
+2014,Pennsylvania,PA,State Senate,24,general,Jack Hansen,Democratic,28041.0,40.1,False,False
+2014,Pennsylvania,PA,State Senate,26,general,Thomas J. McGarrigle,Republican,45910.0,52.12,True,False
+2014,Pennsylvania,PA,State Senate,26,general,John I. Kane,Democratic,42170.0,47.88,False,False
+2014,Pennsylvania,PA,State Senate,30,general,John Eichelberger,Republican,52042.0,100.0,True,False
+2014,Pennsylvania,PA,State Senate,32,general,Patrick J. Stefano,Republican,36670.0,57.21,True,False
+2014,Pennsylvania,PA,State Senate,32,general,Deberah L. Kula,Democratic,27428.0,42.79,False,False
+2014,Pennsylvania,PA,State Senate,34,general,Jake Corman,Republican,46391.0,100.0,True,False
+2014,Pennsylvania,PA,State Senate,36,general,Ryan P. Aument,Republican,54058.0,72.32,True,False
+2014,Pennsylvania,PA,State Senate,36,general,Gary J. Schrekengost,Democratic,20686.0,27.68,False,False
+2014,Pennsylvania,PA,State Senate,38,general,Randy Vulakovich,Republican,58599.0,100.0,True,False
+2014,Pennsylvania,PA,State Senate,40,general,Mario Scavello,Republican,38417.0,59.88,True,False
+2014,Pennsylvania,PA,State Senate,40,general,Mark D. Aurand,Democratic,25739.0,40.12,False,False
+2014,Pennsylvania,PA,State Senate,42,general,Wayne D. Fontana,Democratic,53080.0,100.0,True,False
+2014,Pennsylvania,PA,State Senate,44,general,"John Rafferty, Jr.",Republican,48655.0,61.39,True,False
+2014,Pennsylvania,PA,State Senate,44,general,Kathi Cozzone,Democratic,30597.0,38.61,False,False
+2014,Pennsylvania,PA,State Senate,46,general,Camera C. Bartolotta,Republican,36697.0,53.23,True,False
+2014,Pennsylvania,PA,State Senate,46,general,Tim Solobay,Democratic,32237.0,46.77,False,False
+2014,Pennsylvania,PA,State Senate,48,general,Mike Folmer,Republican,54900.0,100.0,True,False
+2014,Pennsylvania,PA,State Senate,50,general,Michele Brooks,Republican,41500.0,65.66,True,False
+2014,Pennsylvania,PA,State Senate,50,general,Michael T. Muha,Democratic,21701.0,34.34,False,False
 2014,Utah,UT,State Senate,2,general,Jim Dabakis,Democratic,16446.0,74.18,True,True
 2014,Utah,UT,State Senate,2,general,Jacquie Nielson,Republican,5724.0,25.82,False,False
 2014,Utah,UT,State Senate,3,general,Gene Davis,Democratic,12961.0,100.0,True,True
@@ -871,62 +954,62 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2014,Utah,UT,State Senate,26,general,Kevin T. VanTassell,Republican,15249.0,69.72,True,True
 2014,Utah,UT,State Senate,26,general,Wayne Stevens,Democratic,6622.0,30.28,False,False
 2014,Utah,UT,State Senate,28,general,Evan Vickers,Republican,16613.0,100.0,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE ADDISON,general,Claire Ayer,Democratic,10097.0,53.5,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE ADDISON,general,Christopher Bray,Democratic,8743.0,46.32,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE BENNINGTON,general,Dick Sears,Democratic,7905.0,42.96,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE BENNINGTON,general,Brian Campion,Democratic,6273.0,34.09,True,False
-2014,Vermont,VT,State Senate,VERMONT SENATE BENNINGTON,general,Warren H. Roaf,Republican,4217.0,22.92,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE CALEDONIA,general,Jane Kitchel,Democratic,7786.0,44.94,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE CALEDONIA,general,Joe Benning,Republican,6149.0,35.49,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE CALEDONIA,general,Mike Heath,Democratic,3390.0,19.57,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE CHITTENDEN,general,Ginny Lyons,Democratic,23488.0,12.57,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE CHITTENDEN,general,Tim Ashe,Democratic,22790.0,12.2,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE CHITTENDEN,general,Phil Baruth,Democratic,22217.0,11.89,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE CHITTENDEN,general,Diane Snelling,Republican,21855.0,11.7,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE CHITTENDEN,general,David Zuckerman,Progressive,21360.0,11.43,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE CHITTENDEN,general,Michael Sirotkin,Democratic,19738.0,10.56,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE CHITTENDEN,general,Dawn Ellis,Democratic,18432.0,9.86,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE CHITTENDEN,general,Joy Limoge,Republican,15853.0,8.48,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE CHITTENDEN,general,Paul Washburn,Libertarian,4113.0,2.2,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE CHITTENDEN,general,John Cisar,Libertarian,3896.0,2.09,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE CHITTENDEN,general,Christopher Coolidge,Libertarian,3694.0,1.98,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE CHITTENDEN,general,Travis Spencer,Libertarian,3405.0,1.82,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE CHITTENDEN,general,Ben Mayer,Libertarian,3310.0,1.77,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE CHITTENDEN,general,Glyn Wilkinson,Libertarian,2706.0,1.45,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE ESSEX-ORLEANS,general,Robert Starr,Democratic,7168.0,43.21,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE ESSEX-ORLEANS,general,John Rodgers,Democratic,5717.0,34.46,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE ESSEX-ORLEANS,general,Marcia Horne,Republican,3703.0,22.32,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE FRANKLIN,general,Dustin Degree,Republican,6862.0,29.65,True,False
-2014,Vermont,VT,State Senate,VERMONT SENATE FRANKLIN,general,Norm McAllister,Republican,6554.0,28.32,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE FRANKLIN,general,Sara Brannon Kittell,Democratic,4972.0,21.49,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE FRANKLIN,general,William Alan Roberts,Democratic,3925.0,16.96,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE FRANKLIN,general,Michael D. Malone,Independent (politician),823.0,3.56,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE GRAND ISLE,general,Richard Mazza,Democratic,5603.0,86.05,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE GRAND ISLE,general,Benjamin Bosley,Union,908.0,13.95,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE LAMOILLE,general,Richard Westman,Republican,6198.0,99.03,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE ORANGE,general,Mark MacDonald,Democratic,3797.0,54.22,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE ORANGE,general,Robert C. Frenier,Republican,3200.0,45.69,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE RUTLAND,general,Peg Flory,Republican,10213.0,21.25,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE RUTLAND,general,Kevin Mullin,Republican,9932.0,20.67,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE RUTLAND,general,Brian Collamore,Republican,9275.0,19.3,True,False
-2014,Vermont,VT,State Senate,VERMONT SENATE RUTLAND,general,William Tracy Carris,Democratic,7362.0,15.32,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE RUTLAND,general,Eldred French,Democratic,5651.0,11.76,False,True
-2014,Vermont,VT,State Senate,VERMONT SENATE RUTLAND,general,Anissa Delauri,Democratic,4091.0,8.51,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE RUTLAND,general,Kelly Socia,Independent (politician),1528.0,3.18,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE WASHINGTON,general,Bill Doyle,Republican,11275.0,21.32,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE WASHINGTON,general,Ann Cummings,Democratic,11167.0,21.12,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE WASHINGTON,general,Anthony Pollina,Progressive,10474.0,19.81,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE WASHINGTON,general,Pat McDonald,Republican,8731.0,16.51,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE WASHINGTON,general,Dexter Lefavour,Republican,5823.0,11.01,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE WASHINGTON,general,Sandra Gaffney,Progressive,5408.0,10.23,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE WINDHAM,general,Jeanette White,Democratic,7777.0,43.44,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE WINDHAM,general,Becca Balint,Democratic,6378.0,35.63,True,False
-2014,Vermont,VT,State Senate,VERMONT SENATE WINDHAM,general,Mary Hasson,Independent (politician),1973.0,11.02,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE WINDHAM,general,Jerry Levy,Union,899.0,5.02,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE WINDHAM,general,Aaron Diamondstone,Union,833.0,4.65,False,False
-2014,Vermont,VT,State Senate,VERMONT SENATE WINDSOR,general,John Campbell,Democratic,11667.0,33.56,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE WINDSOR,general,Richard McCormack,Democratic,11511.0,33.11,True,True
-2014,Vermont,VT,State Senate,VERMONT SENATE WINDSOR,general,Alice Nitka,Democratic,11407.0,32.81,True,True
+2014,Vermont,VT,State Senate,ADDISON,general,Claire Ayer,Democratic,10097.0,53.5,True,True
+2014,Vermont,VT,State Senate,ADDISON,general,Christopher Bray,Democratic,8743.0,46.32,True,True
+2014,Vermont,VT,State Senate,BENNINGTON,general,Dick Sears,Democratic,7905.0,42.96,True,True
+2014,Vermont,VT,State Senate,BENNINGTON,general,Brian Campion,Democratic,6273.0,34.09,True,False
+2014,Vermont,VT,State Senate,BENNINGTON,general,Warren H. Roaf,Republican,4217.0,22.92,False,False
+2014,Vermont,VT,State Senate,CALEDONIA,general,Jane Kitchel,Democratic,7786.0,44.94,True,True
+2014,Vermont,VT,State Senate,CALEDONIA,general,Joe Benning,Republican,6149.0,35.49,True,True
+2014,Vermont,VT,State Senate,CALEDONIA,general,Mike Heath,Democratic,3390.0,19.57,False,False
+2014,Vermont,VT,State Senate,CHITTENDEN,general,Ginny Lyons,Democratic,23488.0,12.57,True,True
+2014,Vermont,VT,State Senate,CHITTENDEN,general,Tim Ashe,Democratic,22790.0,12.2,True,True
+2014,Vermont,VT,State Senate,CHITTENDEN,general,Phil Baruth,Democratic,22217.0,11.89,True,True
+2014,Vermont,VT,State Senate,CHITTENDEN,general,Diane Snelling,Republican,21855.0,11.7,True,True
+2014,Vermont,VT,State Senate,CHITTENDEN,general,David Zuckerman,Progressive,21360.0,11.43,True,True
+2014,Vermont,VT,State Senate,CHITTENDEN,general,Michael Sirotkin,Democratic,19738.0,10.56,True,True
+2014,Vermont,VT,State Senate,CHITTENDEN,general,Dawn Ellis,Democratic,18432.0,9.86,False,False
+2014,Vermont,VT,State Senate,CHITTENDEN,general,Joy Limoge,Republican,15853.0,8.48,False,False
+2014,Vermont,VT,State Senate,CHITTENDEN,general,Paul Washburn,Libertarian,4113.0,2.2,False,False
+2014,Vermont,VT,State Senate,CHITTENDEN,general,John Cisar,Libertarian,3896.0,2.09,False,False
+2014,Vermont,VT,State Senate,CHITTENDEN,general,Christopher Coolidge,Libertarian,3694.0,1.98,False,False
+2014,Vermont,VT,State Senate,CHITTENDEN,general,Travis Spencer,Libertarian,3405.0,1.82,False,False
+2014,Vermont,VT,State Senate,CHITTENDEN,general,Ben Mayer,Libertarian,3310.0,1.77,False,False
+2014,Vermont,VT,State Senate,CHITTENDEN,general,Glyn Wilkinson,Libertarian,2706.0,1.45,False,False
+2014,Vermont,VT,State Senate,ESSEX-ORLEANS,general,Robert Starr,Democratic,7168.0,43.21,True,True
+2014,Vermont,VT,State Senate,ESSEX-ORLEANS,general,John Rodgers,Democratic,5717.0,34.46,True,True
+2014,Vermont,VT,State Senate,ESSEX-ORLEANS,general,Marcia Horne,Republican,3703.0,22.32,False,False
+2014,Vermont,VT,State Senate,FRANKLIN,general,Dustin Degree,Republican,6862.0,29.65,True,False
+2014,Vermont,VT,State Senate,FRANKLIN,general,Norm McAllister,Republican,6554.0,28.32,True,True
+2014,Vermont,VT,State Senate,FRANKLIN,general,Sara Brannon Kittell,Democratic,4972.0,21.49,False,False
+2014,Vermont,VT,State Senate,FRANKLIN,general,William Alan Roberts,Democratic,3925.0,16.96,False,False
+2014,Vermont,VT,State Senate,FRANKLIN,general,Michael D. Malone,Independent,823.0,3.56,False,False
+2014,Vermont,VT,State Senate,GRAND ISLE,general,Richard Mazza,Democratic,5603.0,86.05,True,True
+2014,Vermont,VT,State Senate,GRAND ISLE,general,Benjamin Bosley,Union,908.0,13.95,False,False
+2014,Vermont,VT,State Senate,LAMOILLE,general,Richard Westman,Republican,6198.0,99.03,True,True
+2014,Vermont,VT,State Senate,ORANGE,general,Mark MacDonald,Democratic,3797.0,54.22,True,True
+2014,Vermont,VT,State Senate,ORANGE,general,Robert C. Frenier,Republican,3200.0,45.69,False,False
+2014,Vermont,VT,State Senate,RUTLAND,general,Peg Flory,Republican,10213.0,21.25,True,True
+2014,Vermont,VT,State Senate,RUTLAND,general,Kevin Mullin,Republican,9932.0,20.67,True,True
+2014,Vermont,VT,State Senate,RUTLAND,general,Brian Collamore,Republican,9275.0,19.3,True,False
+2014,Vermont,VT,State Senate,RUTLAND,general,William Tracy Carris,Democratic,7362.0,15.32,False,False
+2014,Vermont,VT,State Senate,RUTLAND,general,Eldred French,Democratic,5651.0,11.76,False,True
+2014,Vermont,VT,State Senate,RUTLAND,general,Anissa Delauri,Democratic,4091.0,8.51,False,False
+2014,Vermont,VT,State Senate,RUTLAND,general,Kelly Socia,Independent,1528.0,3.18,False,False
+2014,Vermont,VT,State Senate,WASHINGTON,general,Bill Doyle,Republican,11275.0,21.32,True,True
+2014,Vermont,VT,State Senate,WASHINGTON,general,Ann Cummings,Democratic,11167.0,21.12,True,True
+2014,Vermont,VT,State Senate,WASHINGTON,general,Anthony Pollina,Progressive,10474.0,19.81,True,True
+2014,Vermont,VT,State Senate,WASHINGTON,general,Pat McDonald,Republican,8731.0,16.51,False,False
+2014,Vermont,VT,State Senate,WASHINGTON,general,Dexter Lefavour,Republican,5823.0,11.01,False,False
+2014,Vermont,VT,State Senate,WASHINGTON,general,Sandra Gaffney,Progressive,5408.0,10.23,False,False
+2014,Vermont,VT,State Senate,WINDHAM,general,Jeanette White,Democratic,7777.0,43.44,True,True
+2014,Vermont,VT,State Senate,WINDHAM,general,Becca Balint,Democratic,6378.0,35.63,True,False
+2014,Vermont,VT,State Senate,WINDHAM,general,Mary Hasson,Independent,1973.0,11.02,False,False
+2014,Vermont,VT,State Senate,WINDHAM,general,Jerry Levy,Union,899.0,5.02,False,False
+2014,Vermont,VT,State Senate,WINDHAM,general,Aaron Diamondstone,Union,833.0,4.65,False,False
+2014,Vermont,VT,State Senate,WINDSOR,general,John Campbell,Democratic,11667.0,33.56,True,True
+2014,Vermont,VT,State Senate,WINDSOR,general,Richard McCormack,Democratic,11511.0,33.11,True,True
+2014,Vermont,VT,State Senate,WINDSOR,general,Alice Nitka,Democratic,11407.0,32.81,True,True
 2014,Washington,WA,State Senate,32,general,Maralyn Chase (inc.),Democratic,41067.0,71.36,True,False
 2014,Washington,WA,State Senate,32,general,Chris Eggen,Democratic,5343.0,23.79,False,False
 2014,Washington,WA,State Senate,32,general,Robert Reedy,Republican,17469.0,28.64,True,False

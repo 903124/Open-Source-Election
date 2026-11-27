@@ -46,15 +46,16 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Alabama,AL,judicial,"2026 Alabama Court of Criminal Appeals election, place 5",Winning,Riggs Walker,Republican,78551,96.3,True,False,2026 Alabama appellate court elections
 2026,Alabama,AL,judicial,"2026 Alabama Court of Criminal Appeals election, place 5",Write-in,,,3016,3.7,False,False,2026 Alabama appellate court elections
 2026,Alabama,AL,judicial,"2026 Alabama Court of Criminal Appeals election, place 5",Total,,,81567,100.0,False,False,2026 Alabama appellate court elections
-2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Winning,Tommy Tuberville,Republican,873332,52.0,True,False,2026 Alabama gubernatorial election
-2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Candidate,Doug Jones,Democratic,806270,48.0,False,False,2026 Alabama gubernatorial election
-2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Total,,,1679602,100.0,False,False,2026 Alabama gubernatorial election
-2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Winning,Jonathan Kreiss-Tomkins Zac Johnson,Democratic,145449,51.08,True,False,2026 Alaska gubernatorial election
-2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Candidate,Bernadette Wilson Mike Shower,Republican,79336,27.86,False,False,2026 Alaska gubernatorial election
-2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Candidate,Dave Bronson Josh Church,Republican,38767,13.62,False,False,2026 Alaska gubernatorial election
-2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Candidate,Treg Taylor Candice English,Republican,20368,7.15,False,False,2026 Alaska gubernatorial election
-2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Write-in,,,825,0.29,False,False,2026 Alaska gubernatorial election
-2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Total,,,284745,100.0,False,False,2026 Alaska gubernatorial election
+2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Winning,Tommy Tuberville,Republican,872910,51.78,True,False,2026 Alabama gubernatorial election
+2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Candidate,Doug Jones,Democratic,806868,47.87,False,False,2026 Alabama gubernatorial election
+2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Write-in,,,5924,0.35,False,False,2026 Alabama gubernatorial election
+2026,Alabama,AL,governor,2026 Alabama gubernatorial election,Total,,,1685702,100.0,False,False,2026 Alabama gubernatorial election
+2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Winning,Jonathan Kreiss-Tomkins Zac Johnson,Democratic,145546,51.09,True,False,2026 Alaska gubernatorial election
+2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Candidate,Bernadette Wilson Mike Shower,Republican,79363,27.86,False,False,2026 Alaska gubernatorial election
+2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Candidate,Dave Bronson Josh Church,Republican,38785,13.61,False,False,2026 Alaska gubernatorial election
+2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Candidate,Treg Taylor Candice English,Republican,20383,7.15,False,False,2026 Alaska gubernatorial election
+2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Write-in,,,828,0.29,False,False,2026 Alaska gubernatorial election
+2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Total,,,284905,100.0,False,False,2026 Alaska gubernatorial election
 2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Winning,Kris Mayes,Democratic,,,True,True,2026 Arizona Attorney General election
 2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Candidate,Warren Petersen,Republican,,,False,False,2026 Arizona Attorney General election
 2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Total,,,,100.0,False,False,2026 Arizona Attorney General election
@@ -80,12 +81,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Arizona,AZ,superintendent of public instruction,2026 Arizona Superintendent of Public Instruction election,Candidate,Kimberly Yee,Republican,,,False,False,2026 Arizona Superintendent of Public Instruction election
 2026,Arizona,AZ,superintendent of public instruction,2026 Arizona Superintendent of Public Instruction election,Candidate,Teresa Ruiz,Democratic,,,False,False,2026 Arizona Superintendent of Public Instruction election
 2026,Arizona,AZ,superintendent of public instruction,2026 Arizona Superintendent of Public Instruction election,Total,,,,100.0,False,False,2026 Arizona Superintendent of Public Instruction election
-2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Winning,Katie Hobbs,Democratic,1434813,55.67,True,True,2026 Arizona gubernatorial election
-2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Andy Biggs,Republican,1094388,42.46,False,False,2026 Arizona gubernatorial election
+2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Winning,Katie Hobbs,Democratic,1434824,55.67,True,True,2026 Arizona gubernatorial election
+2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Andy Biggs,Republican,1094393,42.46,False,False,2026 Arizona gubernatorial election
 2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Risa Lombardo,Green,24644,0.96,False,False,2026 Arizona gubernatorial election
 2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Teri Ann Hourihan,Labels,23520,0.91,False,False,2026 Arizona gubernatorial election
-2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Write-in,,,18,0.0,False,False,2026 Arizona gubernatorial election
-2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Total,,,2577383,100.0,False,False,2026 Arizona gubernatorial election
+2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Write-in,,,29,0.0,False,False,2026 Arizona gubernatorial election
+2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Total,,,2577410,100.0,False,False,2026 Arizona gubernatorial election
 2026,Arkansas,AR,attorney general,2026 Arkansas Attorney General election,Candidate,Tim Griffin incumbent),Republican,,,False,False,2026 Arkansas Attorney General election
 2026,Arkansas,AR,attorney general,2026 Arkansas Attorney General election,Total,,,,100.0,False,False,2026 Arkansas Attorney General election
 2026,Arkansas,AR,land commissioner,2026 Arkansas Commissioner of State Lands election,Winning,Cole Jester,Republican,520115,63.92,True,False,2026 Arkansas Commissioner of State Lands election
@@ -105,21 +106,21 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,California,CA,attorney general,2026 California Attorney General election,Winning,Rob Bonta,Democratic,,,True,True,2026 California Attorney General election
 2026,California,CA,attorney general,2026 California Attorney General election,Candidate,Michael Gates,Republican,,,False,False,2026 California Attorney General election
 2026,California,CA,attorney general,2026 California Attorney General election,Total,,,,,False,False,2026 California Attorney General election
-2026,California,CA,insurance commissioner,2026 California Insurance Commissioner election,Winning,Jane Kim,Democratic,6123777,54.3,True,False,2026 California Insurance Commissioner election
-2026,California,CA,insurance commissioner,2026 California Insurance Commissioner election,Candidate,Ben Allen,Democratic,5154855,45.7,False,False,2026 California Insurance Commissioner election
-2026,California,CA,insurance commissioner,2026 California Insurance Commissioner election,Total,,,11278632,100.0,False,False,2026 California Insurance Commissioner election
+2026,California,CA,insurance commissioner,2026 California Insurance Commissioner election,Winning,Jane Kim,Democratic,6197646,54.3,True,False,2026 California Insurance Commissioner election
+2026,California,CA,insurance commissioner,2026 California Insurance Commissioner election,Candidate,Ben Allen,Democratic,5206834,45.7,False,False,2026 California Insurance Commissioner election
+2026,California,CA,insurance commissioner,2026 California Insurance Commissioner election,Total,,,11404480,100.0,False,False,2026 California Insurance Commissioner election
 2026,California,CA,secretary of state,2026 California Secretary of State election,Candidate,Shirley Weber,Democratic,,,False,True,2026 California Secretary of State election
 2026,California,CA,secretary of state,2026 California Secretary of State election,Candidate,Donald P. Wagner,Republican,,,False,False,2026 California Secretary of State election
 2026,California,CA,secretary of state,2026 California Secretary of State election,Total,,,,,False,False,2026 California Secretary of State election
 2026,California,CA,state auditor,2026 California State Controller election,Candidate,Malia Cohen,Democratic,,,False,True,2026 California State Controller election
 2026,California,CA,state auditor,2026 California State Controller election,Candidate,Herb Morgan,Republican,,,False,False,2026 California State Controller election
 2026,California,CA,state auditor,2026 California State Controller election,Total,,,,,False,False,2026 California State Controller election
-2026,California,CA,superintendent of public instruction,2026 California Superintendent of Public Instruction runoff election,Winning,Richard Barrera,,6567279,59.0,True,False,2026 California Superintendent of Public Instruction election
-2026,California,CA,superintendent of public instruction,2026 California Superintendent of Public Instruction runoff election,Candidate,Sonja Shaw,,4558840,41.0,False,False,2026 California Superintendent of Public Instruction election
-2026,California,CA,superintendent of public instruction,2026 California Superintendent of Public Instruction runoff election,Total,,,11126119,,False,False,2026 California Superintendent of Public Instruction election
-2026,California,CA,governor,2026 California gubernatorial election,Winning,Xavier Becerra,Democratic,8714908,65.6,True,False,2026 California gubernatorial election
-2026,California,CA,governor,2026 California gubernatorial election,Candidate,Steve Hilton,Republican,4560879,34.4,False,False,2026 California gubernatorial election
-2026,California,CA,governor,2026 California gubernatorial election,Total,,,13275787,100.0,False,False,2026 California gubernatorial election
+2026,California,CA,superintendent of public instruction,2026 California Superintendent of Public Instruction runoff election,Winning,Richard Barrera,,6632963,59.0,True,False,2026 California Superintendent of Public Instruction election
+2026,California,CA,superintendent of public instruction,2026 California Superintendent of Public Instruction runoff election,Candidate,Sonja Shaw,,4602504,41.0,False,False,2026 California Superintendent of Public Instruction election
+2026,California,CA,superintendent of public instruction,2026 California Superintendent of Public Instruction runoff election,Total,,,11235467,,False,False,2026 California Superintendent of Public Instruction election
+2026,California,CA,governor,2026 California gubernatorial election,Winning,Xavier Becerra,Democratic,8740676,65.66,True,False,2026 California gubernatorial election
+2026,California,CA,governor,2026 California gubernatorial election,Candidate,Steve Hilton,Republican,4571042,34.34,False,False,2026 California gubernatorial election
+2026,California,CA,governor,2026 California gubernatorial election,Total,,,13311718,100.0,False,False,2026 California gubernatorial election
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Winning,Jena Griswold,Democratic,,,True,False,2026 Colorado Attorney General election
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Candidate,Michael J. Allen,Republican,,,False,False,2026 Colorado Attorney General election
 2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Total,,,,100.0,False,False,2026 Colorado Attorney General election
@@ -129,17 +130,17 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Celeste Landry,Forward,17423,0.7,False,False,2026 Colorado Secretary of State election
 2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Sean Vadney,Libertarian,41571,1.6,False,False,2026 Colorado Secretary of State election
 2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Total,,,2616042,100.0,False,False,2026 Colorado Secretary of State election
-2026,Colorado,CO,state board of education,District 1 – 2026 Colorado's 1st State Board of Education district election,Candidate,Lisa Escarcega,Democratic,,,False,True,2026 Colorado State Board of Education election
-2026,Colorado,CO,state board of education,District 1 – 2026 Colorado's 1st State Board of Education district election,Candidate,Frederick Espinoza,Republican,,,False,False,2026 Colorado State Board of Education election
-2026,Colorado,CO,state board of education,District 1 – 2026 Colorado's 1st State Board of Education district election,Candidate,Clayton Casciato,Libertarian,,,False,False,2026 Colorado State Board of Education election
-2026,Colorado,CO,state board of education,District 1 – 2026 Colorado's 1st State Board of Education district election,Total,,,,100.0,False,False,2026 Colorado State Board of Education election
-2026,Colorado,CO,state board of education,District 3 – 2026 Colorado's 3rd State Board of Education district election,Candidate,Sherri Wright,Republican,,,False,True,2026 Colorado State Board of Education election
-2026,Colorado,CO,state board of education,District 3 – 2026 Colorado's 3rd State Board of Education district election,Candidate,Barb Clementi,Democratic,,,False,False,2026 Colorado State Board of Education election
-2026,Colorado,CO,state board of education,District 3 – 2026 Colorado's 3rd State Board of Education district election,Total,,,,100.0,False,False,2026 Colorado State Board of Education election
-2026,Colorado,CO,state board of education,District 7 – 2026 Colorado's 7th State Board of Education district election,Candidate,Karla Esser,Democratic,,,False,True,2026 Colorado State Board of Education election
-2026,Colorado,CO,state board of education,District 7 – 2026 Colorado's 7th State Board of Education district election,Candidate,Steve Barton,Republican,,,False,False,2026 Colorado State Board of Education election
-2026,Colorado,CO,state board of education,District 7 – 2026 Colorado's 7th State Board of Education district election,Candidate,Ross Klopf,Libertarian,,,False,False,2026 Colorado State Board of Education election
-2026,Colorado,CO,state board of education,District 7 – 2026 Colorado's 7th State Board of Education district election,Total,,,,100.0,False,False,2026 Colorado State Board of Education election
+2026,Colorado,CO,state board of education,District 1 – 2026 Colorado's 1st State Board of Education district election,Winning,Lisa Escarcega,Democratic,246459,82.49,True,True,2026 Colorado State Board of Education election
+2026,Colorado,CO,state board of education,District 1 – 2026 Colorado's 1st State Board of Education district election,Candidate,Frederick Espinoza,Republican,46520,15.57,False,False,2026 Colorado State Board of Education election
+2026,Colorado,CO,state board of education,District 1 – 2026 Colorado's 1st State Board of Education district election,Candidate,Clayton Casciato,Libertarian,5794,1.94,False,False,2026 Colorado State Board of Education election
+2026,Colorado,CO,state board of education,District 1 – 2026 Colorado's 1st State Board of Education district election,Total,,,298773,100.0,False,False,2026 Colorado State Board of Education election
+2026,Colorado,CO,state board of education,District 3 – 2026 Colorado's 3rd State Board of Education district election,Winning,Sherri Wright,Republican,166317,50.92,True,True,2026 Colorado State Board of Education election
+2026,Colorado,CO,state board of education,District 3 – 2026 Colorado's 3rd State Board of Education district election,Candidate,Barb Clementi,Democratic,160324,49.08,False,False,2026 Colorado State Board of Education election
+2026,Colorado,CO,state board of education,District 3 – 2026 Colorado's 3rd State Board of Education district election,Total,,,326641,100.0,False,False,2026 Colorado State Board of Education election
+2026,Colorado,CO,state board of education,District 7 – 2026 Colorado's 7th State Board of Education district election,Winning,Karla Esser,Democratic,218966,59.97,True,True,2026 Colorado State Board of Education election
+2026,Colorado,CO,state board of education,District 7 – 2026 Colorado's 7th State Board of Education district election,Candidate,Steve Barton,Republican,134332,36.79,False,False,2026 Colorado State Board of Education election
+2026,Colorado,CO,state board of education,District 7 – 2026 Colorado's 7th State Board of Education district election,Candidate,Ross Klopf,Libertarian,11798,3.23,False,False,2026 Colorado State Board of Education election
+2026,Colorado,CO,state board of education,District 7 – 2026 Colorado's 7th State Board of Education district election,Total,,,365096,100.0,False,False,2026 Colorado State Board of Education election
 2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Winning,Jeff Bridges,Democratic,,,True,False,2026 Colorado State Treasurer election
 2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Kevin Grantham,Republican,,,False,False,2026 Colorado State Treasurer election
 2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Jodie Barr,Libertarian,,,False,False,2026 Colorado State Treasurer election
@@ -165,10 +166,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Candidate,Erick Russell,Democratic,732870,57.51,False,False,2026 Connecticut State Treasurer election
 2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Candidate,Fred Wilms,Republican,481283,37.77,False,False,2026 Connecticut State Treasurer election
 2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Total,,,1274274,100.0,False,False,2026 Connecticut State Treasurer election
-2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Candidate,Ned Lamont,Democratic,740768,57.21,False,False,2026 Connecticut gubernatorial election
-2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Candidate,Ryan Fazio,Republican,495720,38.29,False,False,2026 Connecticut gubernatorial election
-2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Write-in,,,53,0.01,False,False,2026 Connecticut gubernatorial election
-2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Total,,,1294727,100.0,False,False,2026 Connecticut gubernatorial election
+2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Candidate,Ned Lamont,Democratic,742438,57.26,False,False,2026 Connecticut gubernatorial election
+2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Candidate,Ryan Fazio,Republican,496466,38.29,False,False,2026 Connecticut gubernatorial election
+2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Write-in,,,64,0.01,False,False,2026 Connecticut gubernatorial election
+2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Total,,,1296554,100.0,False,False,2026 Connecticut gubernatorial election
 2026,Delaware,DE,attorney general,2026 Delaware Attorney General general election,Winning,Kathy Jennings,Democratic,240429,63.6,True,True,2026 Delaware Attorney General election
 2026,Delaware,DE,attorney general,2026 Delaware Attorney General general election,Candidate,David C. Graham,Republican,137464,36.4,False,False,2026 Delaware Attorney General election
 2026,Delaware,DE,attorney general,2026 Delaware Attorney General general election,Total,,,377893,100.0,False,False,2026 Delaware Attorney General election
@@ -192,11 +193,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Winning,Byron Donalds Bryan Avila,Republican,4135955,50.0,True,False,2026 Florida gubernatorial election
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,David Jolly Gwen Graham,Democratic,4030579,48.73,False,False,2026 Florida gubernatorial election
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Scott Eckhard Jewett Nicole Skelly,Libertarian,37951,0.46,False,False,2026 Florida gubernatorial election
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Frank J. Russo Rachel Rodriguez,Independent Candidate,23244,0.28,False,False,2026 Florida gubernatorial election
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Charles Burkett Ruben A. Coto,Independent Candidate,15261,0.19,False,False,2026 Florida gubernatorial election
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Dean Ocean Abrams Joe Van Vactor,Independent Candidate,12568,0.15,False,False,2026 Florida gubernatorial election
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,"Jeffrey Peter ""Dr. Jeff"" Datto Juan Santana",Independent Candidate,8331,0.1,False,False,2026 Florida gubernatorial election
-2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Moliere Dimanche Benjiman Rojas,Independent Candidate,7609,0.09,False,False,2026 Florida gubernatorial election
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Frank J. Russo Rachel Rodriguez,Independent,23244,0.28,False,False,2026 Florida gubernatorial election
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Charles Burkett Ruben A. Coto,Independent,15261,0.19,False,False,2026 Florida gubernatorial election
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Dean Ocean Abrams Joe Van Vactor,Independent,12568,0.15,False,False,2026 Florida gubernatorial election
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,"Jeffrey Peter ""Dr. Jeff"" Datto Juan Santana",Independent,8331,0.1,False,False,2026 Florida gubernatorial election
+2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Moliere Dimanche Benjiman Rojas,Independent,7609,0.09,False,False,2026 Florida gubernatorial election
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Write-in,Various write-in candidates,Write-in,129,0.0,False,False,2026 Florida gubernatorial election
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Total,,,8271627,100.0,False,False,2026 Florida gubernatorial election
 2026,Georgia,GA,agriculture commissioner,2026 Georgia Agriculture Commissioner election,Candidate,Tyler Harper,Republican,,,False,True,2026 Georgia Agriculture Commissioner election
@@ -268,9 +269,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Candidate,Kwame Raoul,Democratic,,,False,True,2026 Illinois Attorney General election
 2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Candidate,Bob Fioretti,Republican,,,False,False,2026 Illinois Attorney General election
 2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Total,,,,100.0,False,False,2026 Illinois Attorney General election
-2026,Illinois,IL,state auditor,2026 Illinois State Comptroller election,Candidate,Margaret Croke,Democratic,,,False,False,2026 Illinois Comptroller election
-2026,Illinois,IL,state auditor,2026 Illinois State Comptroller election,Candidate,Bryan Drew,Republican,,,False,False,2026 Illinois Comptroller election
-2026,Illinois,IL,state auditor,2026 Illinois State Comptroller election,Total,,,,100.0,False,False,2026 Illinois Comptroller election
+2026,Illinois,IL,state auditor,2026 Illinois State Comptroller election,Winning,Margaret Croke,Democratic,2567148,61.75,True,False,2026 Illinois Comptroller election
+2026,Illinois,IL,state auditor,2026 Illinois State Comptroller election,Candidate,Bryan Drew,Republican,1590331,38.25,False,False,2026 Illinois Comptroller election
+2026,Illinois,IL,state auditor,2026 Illinois State Comptroller election,Total,,,4157479,100.0,False,False,2026 Illinois Comptroller election
 2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Winning,Alexi Giannoulias,Democratic,,,True,True,2026 Illinois Secretary of State election
 2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Candidate,Diane M. Harris,Republican,,,False,False,2026 Illinois Secretary of State election
 2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Total,,,,100.0,False,False,2026 Illinois Secretary of State election
@@ -312,9 +313,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election results,Winning,Roby Smith,Republican,664948,50.35,True,True,2026 Iowa State Treasurer election
 2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election results,Candidate,John Norwood,Democratic,655768,49.65,False,False,2026 Iowa State Treasurer election
 2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election results,Total,,,1320716,100.0,False,False,2026 Iowa State Treasurer election
-2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Winning,Rob Sand,Democratic,759705,55.54,True,False,2026 Iowa gubernatorial election
-2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Candidate,Zach Lahn,Republican,608231,44.46,False,False,2026 Iowa gubernatorial election
-2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Total,,,1367936,100.0,False,False,2026 Iowa gubernatorial election
+2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Winning,Rob Sand,Democratic,759570,55.47,True,False,2026 Iowa gubernatorial election
+2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Candidate,Zach Lahn,Republican,608025,44.4,False,False,2026 Iowa gubernatorial election
+2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Write-in,,,1756,0.13,False,False,2026 Iowa gubernatorial election
+2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Total,,,1369351,100.0,False,False,2026 Iowa gubernatorial election
 2026,Kansas,KS,attorney general,2026 Kansas Attorney General election,Winning,Chris Mann,Democratic,552753,50.62,True,False,2026 Kansas Attorney General election
 2026,Kansas,KS,attorney general,2026 Kansas Attorney General election,Candidate,Kris Kobach,Republican,539297,49.38,False,True,2026 Kansas Attorney General election
 2026,Kansas,KS,attorney general,2026 Kansas Attorney General election,Total,,,1092050,100.0,False,False,2026 Kansas Attorney General election
@@ -358,10 +360,11 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Louisiana,LA,public service commission,"District 5 – 2026 Louisiana Public Service Commission election, district 5",Winning,John Atkins,Republican,161038,59.16,True,False,2026 Louisiana Public Service Commission election
 2026,Louisiana,LA,public service commission,"District 5 – 2026 Louisiana Public Service Commission election, district 5",Candidate,James Green,Democratic,111188,40.84,False,False,2026 Louisiana Public Service Commission election
 2026,Louisiana,LA,public service commission,"District 5 – 2026 Louisiana Public Service Commission election, district 5",Total,,,272226,100.0,False,False,2026 Louisiana Public Service Commission election
-2026,Maine,ME,governor,2026 Maine gubernatorial election,Winning,Hannah Pingree,Democratic,388721,55.69,True,False,2026 Maine gubernatorial election
-2026,Maine,ME,governor,2026 Maine gubernatorial election,Candidate,Robert B. Charles,Republican,267346,37.44,False,False,2026 Maine gubernatorial election
-2026,Maine,ME,governor,2026 Maine gubernatorial election,Candidate,Rick Bennett,Independent,57707,8.08,False,False,2026 Maine gubernatorial election
-2026,Maine,ME,governor,2026 Maine gubernatorial election,Total,,,813774,100.0,False,False,2026 Maine gubernatorial election
+2026,Maine,ME,governor,2026 Maine gubernatorial election,Winning,Hannah Pingree,Democratic,391364,54.17,True,False,2026 Maine gubernatorial election
+2026,Maine,ME,governor,2026 Maine gubernatorial election,Candidate,Robert B. Charles,Republican,272710,37.75,False,False,2026 Maine gubernatorial election
+2026,Maine,ME,governor,2026 Maine gubernatorial election,Candidate,Rick Bennett,Independent,58241,8.06,False,False,2026 Maine gubernatorial election
+2026,Maine,ME,governor,2026 Maine gubernatorial election,Write-in,,,75,0.04,False,False,2026 Maine gubernatorial election
+2026,Maine,ME,governor,2026 Maine gubernatorial election,Total,,,722424,100.0,False,False,2026 Maine gubernatorial election
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Winning,Anthony Brown,Democratic,1416665,68.57,True,True,2026 Maryland Attorney General election
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,James B. Rutledge III,Republican,647345,31.33,False,False,2026 Maryland Attorney General election
 2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Write-in,,,2128,0.1,False,False,2026 Maryland Attorney General election
@@ -370,12 +373,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Maryland,MD,state auditor,2026 Maryland Comptroller election,Candidate,Sonya Dunn,Republican,644262,31.41,False,False,2026 Maryland Comptroller election
 2026,Maryland,MD,state auditor,2026 Maryland Comptroller election,Write-in,,,1980,0.1,False,False,2026 Maryland Comptroller election
 2026,Maryland,MD,state auditor,2026 Maryland Comptroller election,Total,,,2051075,100.0,False,False,2026 Maryland Comptroller election
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1470907,65.29,True,True,2026 Maryland gubernatorial election
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,683658,30.35,False,False,2026 Maryland gubernatorial election
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,48592,2.16,False,False,2026 Maryland gubernatorial election
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,43714,1.94,False,False,2026 Maryland gubernatorial election
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5950,0.26,False,False,2026 Maryland gubernatorial election
-2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2252821,100.0,False,False,2026 Maryland gubernatorial election
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1475470,65.35,True,True,2026 Maryland gubernatorial election
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,683927,30.29,False,False,2026 Maryland gubernatorial election
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,48743,2.16,False,False,2026 Maryland gubernatorial election
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,43808,1.94,False,False,2026 Maryland gubernatorial election
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5969,0.26,False,False,2026 Maryland gubernatorial election
+2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2257917,100.0,False,False,2026 Maryland gubernatorial election
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Andrea Campbell,Democratic,,,False,True,2026 Massachusetts Attorney General election
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Michael Walsh,Republican,,,False,False,2026 Massachusetts Attorney General election
 2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Total,,,,100.0,False,False,2026 Massachusetts Attorney General election
@@ -387,19 +390,19 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Andrea C. James,Independent,89951,3.32,False,False,2026 Massachusetts gubernatorial election
 2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Write-in,,,2496,0.09,False,False,2026 Massachusetts gubernatorial election
 2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Total,,,2714111,100.0,False,False,2026 Massachusetts gubernatorial election
-2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Winning,Eli Savit,Democratic,2471974,52.54,True,False,2026 Michigan Attorney General election
-2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Doug Lloyd,Republican,2103208,44.7,False,False,2026 Michigan Attorney General election
-2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Jason Dye,Libertarian,58678,1.25,False,False,2026 Michigan Attorney General election
+2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Winning,Eli Savit,Democratic,2472186,52.54,True,False,2026 Michigan Attorney General election
+2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Doug Lloyd,Republican,2103265,44.7,False,False,2026 Michigan Attorney General election
+2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Jason Dye,Libertarian,58683,1.25,False,False,2026 Michigan Attorney General election
 2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,John Perry Ludtke Jr.,U.s. Taxpayers,32129,0.68,False,False,2026 Michigan Attorney General election
 2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Jeff Polonowski,Green,25157,0.53,False,False,2026 Michigan Attorney General election
 2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Candidate,Doug Dern,Law,14096,0.3,False,False,2026 Michigan Attorney General election
-2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Total,,,4705242,100.0,False,False,2026 Michigan Attorney General election
-2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Winning,Garlin Gilchrist,Democratic,2551527,53.79,True,False,2026 Michigan Secretary of State election
-2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Anthony Forlini,Republican,2064462,43.53,False,False,2026 Michigan Secretary of State election
-2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Christine Sloan,Libertarian,77431,1.63,False,False,2026 Michigan Secretary of State election
-2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Scott E. Aughney,U.s. Taxpayers,28278,0.6,False,False,2026 Michigan Secretary of State election
-2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Eric Borregard,Green,21544,0.45,False,False,2026 Michigan Secretary of State election
-2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Total,,,4743242,100.0,False,False,2026 Michigan Secretary of State election
+2026,Michigan,MI,attorney general,2026 Michigan Attorney General election,Total,,,4705516,100.0,False,False,2026 Michigan Attorney General election
+2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Winning,Garlin Gilchrist,Democratic,2551745,53.79,True,False,2026 Michigan Secretary of State election
+2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Anthony Forlini,Republican,2064510,43.53,False,False,2026 Michigan Secretary of State election
+2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Christine Sloan,Libertarian,77436,1.63,False,False,2026 Michigan Secretary of State election
+2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Scott E. Aughney,U.s. Taxpayers,28282,0.6,False,False,2026 Michigan Secretary of State election
+2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Eric Borregard,Green,21545,0.45,False,False,2026 Michigan Secretary of State election
+2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Total,,,4743518,100.0,False,False,2026 Michigan Secretary of State election
 2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Winning,Judith Pritchett,Democratic,2378629,26.5,True,True,2026 Michigan State Board of Education election
 2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Winning,Tiffany Tilley,Democratic,2353182,26.21,True,True,2026 Michigan State Board of Education election
 2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Candidate,Terence Collins,Republican,1977871,22.03,False,False,2026 Michigan State Board of Education election
@@ -430,13 +433,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Michigan,MI,judicial,2026 Michigan Supreme Court election (vote for not more than 2),Candidate,Jody White,Nonpartisan Politician,347886,5.3,False,False,2026 Michigan Supreme Court election
 2026,Michigan,MI,judicial,2026 Michigan Supreme Court election (vote for not more than 2),Candidate,Thomas W. Howe,Nonpartisan Politician,306315,4.67,False,False,2026 Michigan Supreme Court election
 2026,Michigan,MI,judicial,2026 Michigan Supreme Court election (vote for not more than 2),Total,,,6564619,100.0,False,False,2026 Michigan Supreme Court election
-2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Winning,Jocelyn Benson,Democratic,2615034,54.57,True,False,2026 Michigan gubernatorial election
-2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,John James,Republican,2094508,43.71,False,False,2026 Michigan gubernatorial election
-2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Anthony Hudson,Libertarian,44496,0.93,False,False,2026 Michigan gubernatorial election
-2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Donna Brandenburg,U.s. Taxpayers,20136,0.42,False,False,2026 Michigan gubernatorial election
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Winning,Jocelyn Benson,Democratic,2615251,54.57,True,False,2026 Michigan gubernatorial election
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,John James,Republican,2094566,43.71,False,False,2026 Michigan gubernatorial election
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Anthony Hudson,Libertarian,44497,0.93,False,False,2026 Michigan gubernatorial election
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Donna Brandenburg,U.s. Taxpayers,20140,0.42,False,False,2026 Michigan gubernatorial election
 2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Douglas Campbell,Green,17624,0.37,False,False,2026 Michigan gubernatorial election
 2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Write-in,,,44,0.0,False,False,2026 Michigan gubernatorial election
-2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Total,,,4791842,100.0,False,False,2026 Michigan gubernatorial election
+2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Total,,,4792122,100.0,False,False,2026 Michigan gubernatorial election
 2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Winning,Keith Ellison,Minnesota Democratic–farmer–labor,1520967.0,54.29,True,True,2026 Minnesota Attorney General election
 2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Candidate,Ronald J. Schutz,Republican,1276211.0,45.56,False,False,2026 Minnesota Attorney General election
 2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Write-in,,,4226.0,0.15,False,False,2026 Minnesota Attorney General election
@@ -581,25 +584,25 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,New Mexico,NM,state treasurer,2026 New Mexico State Treasurer election,Candidate,Laura Montoya,Democratic,,,False,True,2026 New Mexico State Treasurer election
 2026,New Mexico,NM,state treasurer,2026 New Mexico State Treasurer election,Candidate,James F. Ellison,Republican,,,False,False,2026 New Mexico State Treasurer election
 2026,New Mexico,NM,state treasurer,2026 New Mexico State Treasurer election,Total,,,,100.0,False,False,2026 New Mexico State Treasurer election
-2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Winning,Deb Haaland,Democratic,,,True,False,2026 New Mexico gubernatorial election
-2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Candidate,Gregg Hull,Republican,,,False,False,2026 New Mexico gubernatorial election
-2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Total,,,,100.0,False,False,2026 New Mexico gubernatorial election
+2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Winning,Deb Haaland,Democratic,416455,57.36,True,False,2026 New Mexico gubernatorial election
+2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Candidate,Gregg Hull,Republican,309547,42.64,False,False,2026 New Mexico gubernatorial election
+2026,New Mexico,NM,governor,2026 New Mexico gubernatorial election,Total,,,726002,100.0,False,False,2026 New Mexico gubernatorial election
 2026,New York,NY,attorney general,2026 New York Attorney General election,Candidate,Letitia James,New York State Democratic Committee,,,False,False,2026 New York Attorney General election
 2026,New York,NY,attorney general,2026 New York Attorney General election,Candidate,Saritha Komatireddy,New York Republican State Committee,,,False,False,2026 New York Attorney General election
-2026,New York,NY,attorney general,2026 New York Attorney General election,Write-in,,,4503.0,0.1,False,False,2026 New York Attorney General election
-2026,New York,NY,attorney general,2026 New York Attorney General election,Total,,,6062721.0,100.0,False,False,2026 New York Attorney General election
+2026,New York,NY,attorney general,2026 New York Attorney General election,Write-in,,,4508.0,0.1,False,False,2026 New York Attorney General election
+2026,New York,NY,attorney general,2026 New York Attorney General election,Total,,,6069198.0,100.0,False,False,2026 New York Attorney General election
 2026,New York,NY,state auditor,2026 New York State Comptroller election,Candidate,Tom DiNapoli,New York State Democratic Committee,,,False,False,2026 New York State Comptroller election
 2026,New York,NY,state auditor,2026 New York State Comptroller election,Candidate,Joseph Hernandez,New York Republican State Committee,,,False,False,2026 New York State Comptroller election
-2026,New York,NY,state auditor,2026 New York State Comptroller election,Write-in,,,5399.0,0.9,False,False,2026 New York State Comptroller election
-2026,New York,NY,state auditor,2026 New York State Comptroller election,Total,,,6027023.0,100.0,False,False,2026 New York State Comptroller election
+2026,New York,NY,state auditor,2026 New York State Comptroller election,Write-in,,,5408.0,0.9,False,False,2026 New York State Comptroller election
+2026,New York,NY,state auditor,2026 New York State Comptroller election,Total,,,6033446.0,100.0,False,False,2026 New York State Comptroller election
 2026,New York,NY,governor,2026 New York gubernatorial election,Winning,Kathy Hochul,Total,3659917.0,59.75,True,True,2026 New York gubernatorial election
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Kathy Hochul,New York State Democratic Committee,,,False,False,2026 New York gubernatorial election
 2026,New York,NY,governor,2026 New York gubernatorial election,Candidate,Bruce Blakeman,New York Republican State Committee,,,False,False,2026 New York gubernatorial election
 2026,New York,NY,governor,2026 New York gubernatorial election,Write-in,,,12903.0,0.21,False,False,2026 New York gubernatorial election
 2026,New York,NY,governor,2026 New York gubernatorial election,Total,,,6125203.0,100.0,False,False,2026 New York gubernatorial election
-2026,North Carolina,NC,judicial,2026 North Carolina Supreme Court Associate Justice Seat 1 election,Winning,Anita Earls,Democratic,2456843,58.86,True,True,2026 North Carolina judicial elections
-2026,North Carolina,NC,judicial,2026 North Carolina Supreme Court Associate Justice Seat 1 election,Candidate,Sarah Stevens,Republican,1717025,41.14,False,False,2026 North Carolina judicial elections
-2026,North Carolina,NC,judicial,2026 North Carolina Supreme Court Associate Justice Seat 1 election,Total,,,2456852,100.0,False,False,2026 North Carolina judicial elections
+2026,North Carolina,NC,judicial,2026 North Carolina Supreme Court Associate Justice Seat 1 election,Winning,Anita Earls,Democratic,2469448,58.9,True,True,2026 North Carolina judicial elections
+2026,North Carolina,NC,judicial,2026 North Carolina Supreme Court Associate Justice Seat 1 election,Candidate,Sarah Stevens,Republican,1723270,41.1,False,False,2026 North Carolina judicial elections
+2026,North Carolina,NC,judicial,2026 North Carolina Supreme Court Associate Justice Seat 1 election,Total,,,2469448,100.0,False,False,2026 North Carolina judicial elections
 2026,North Carolina,NC,judicial,2026 North Carolina Court of Appeals Seat 1 election,Winning,John Arrowood,Democratic,2362168,56.77,True,True,2026 North Carolina judicial elections
 2026,North Carolina,NC,judicial,2026 North Carolina Court of Appeals Seat 1 election,Candidate,Michael Byrne,Republican,1798829,43.23,False,False,2026 North Carolina judicial elections
 2026,North Carolina,NC,judicial,2026 North Carolina Court of Appeals Seat 1 election,Total,,,2362168,100.0,False,False,2026 North Carolina judicial elections
@@ -628,10 +631,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Ohio,OH,judicial,"2026 Ohio Supreme Court election, Dan Hawkins' seat",Winning,Marilyn Zayas,Democratic,2307346,51.01,True,False,2026 Ohio Supreme Court election
 2026,Ohio,OH,judicial,"2026 Ohio Supreme Court election, Dan Hawkins' seat",Candidate,Dan Hawkins,Republican,2215728,48.99,False,True,2026 Ohio Supreme Court election
 2026,Ohio,OH,judicial,"2026 Ohio Supreme Court election, Dan Hawkins' seat",Total,,,4523074,100.0,False,False,2026 Ohio Supreme Court election
-2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Winning,Amy Acton,Democratic,2427432,52.41,True,False,2026 Ohio gubernatorial election
-2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Vivek Ramaswamy,Republican,2051557,44.29,False,False,2026 Ohio gubernatorial election
-2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Don Kissick,Libertarian,153011,3.3,False,False,2026 Ohio gubernatorial election
-2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Total,,,4632000,,False,False,2026 Ohio gubernatorial election
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Winning,Amy Acton,Democratic,2439487,52.48,True,False,2026 Ohio gubernatorial election
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Vivek Ramaswamy,Republican,2055514,44.22,False,False,2026 Ohio gubernatorial election
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Candidate,Don Kissick,Libertarian,153546,3.3,False,False,2026 Ohio gubernatorial election
+2026,Ohio,OH,governor,2026 Ohio gubernatorial election (est. 98% reporting),Total,,,4648547,,False,False,2026 Ohio gubernatorial election
 2026,Oklahoma,OK,attorney general,2026 Oklahoma Attorney General election,Winning,Jon Echols,Republican,617671,55.33,True,False,2026 Oklahoma Attorney General election
 2026,Oklahoma,OK,attorney general,2026 Oklahoma Attorney General election,Candidate,Nick Coffey,Democratic,498671,44.67,False,False,2026 Oklahoma Attorney General election
 2026,Oklahoma,OK,attorney general,2026 Oklahoma Attorney General election,Total,,,1116342,100.0,False,False,2026 Oklahoma Attorney General election
@@ -665,22 +668,23 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Christine Drazan,Republican,,,False,False,2026 Oregon gubernatorial election
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Brett Smith,Green,,,False,False,2026 Oregon gubernatorial election
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Total,,,,100.0,False,False,2026 Oregon gubernatorial election
-2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Winning,Josh Shapiro,Democratic,3039710.0,60.56,True,True,2026 Pennsylvania gubernatorial election
-2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Stacy Garrity,Republican,1914345.0,38.14,False,False,2026 Pennsylvania gubernatorial election
+2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Winning,Josh Shapiro,Democratic,3039781.0,60.56,True,True,2026 Pennsylvania gubernatorial election
+2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Stacy Garrity,Republican,1914351.0,38.14,False,False,2026 Pennsylvania gubernatorial election
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Ken Krawchuk,Libertarian,64992.0,1.29,False,False,2026 Pennsylvania gubernatorial election
 2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Total,,,,100.0,False,False,2026 Pennsylvania gubernatorial election
-2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Candidate,James Diossa,Democratic,,,False,True,2026 Rhode Island General Treasurer election
-2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Candidate,Micholas A. Credle,Republican,,,False,False,2026 Rhode Island General Treasurer election
-2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Total,,,,100.0,False,False,2026 Rhode Island General Treasurer election
+2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Winning,James Diossa,Democratic,229097,65.24,True,True,2026 Rhode Island General Treasurer election
+2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Candidate,Micholas A. Credle,Republican,121344,34.56,False,False,2026 Rhode Island General Treasurer election
+2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Write-in,,,719,0.2,False,False,2026 Rhode Island General Treasurer election
+2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Total,,,351160,100.0,False,False,2026 Rhode Island General Treasurer election
 2026,Rhode Island,RI,secretary of state,2026 Rhode Island Secretary of State election,Winning,Gregg Amore,Democratic,275149,100.0,True,True,2026 Rhode Island Secretary of State election
 2026,Rhode Island,RI,secretary of state,2026 Rhode Island Secretary of State election,Total,,,275149,100.0,False,False,2026 Rhode Island Secretary of State election
-2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Winning,Helena Buonanno Foulkes,Democratic,207588,57.71,True,False,2026 Rhode Island gubernatorial election
-2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Kenneth Block,Independent,99829,27.75,False,False,2026 Rhode Island gubernatorial election
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Winning,Helena Buonanno Foulkes,Democratic,207600,57.71,True,False,2026 Rhode Island gubernatorial election
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Kenneth Block,Independent,99835,27.75,False,False,2026 Rhode Island gubernatorial election
 2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Aaron C. Guckian,Republican,47402,13.18,False,False,2026 Rhode Island gubernatorial election
 2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,C.D. Reynolds,Independent,2050,0.57,False,False,2026 Rhode Island gubernatorial election
 2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Candidate,Jasjit S. Gotra,Independent,1674,0.47,False,False,2026 Rhode Island gubernatorial election
 2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Write-in,,,1148,0.32,False,False,2026 Rhode Island gubernatorial election
-2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Total,,,359691,100.0,False,False,2026 Rhode Island gubernatorial election
+2026,Rhode Island,RI,governor,2026 Rhode Island gubernatorial election,Total,,,359709,100.0,False,False,2026 Rhode Island gubernatorial election
 2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Winning,David Stumbo,Republican,1058525,52.32,True,False,2026 South Carolina Attorney General election
 2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Candidate,Richard Hricik,Democratic,963645,47.63,False,False,2026 South Carolina Attorney General election
 2026,South Carolina,SC,attorney general,2026 South Carolina Attorney General election,Write-in,,,1132,0.06,False,False,2026 South Carolina Attorney General election
@@ -699,7 +703,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,South Carolina,SC,state auditor,2026 South Carolina State Comptroller election,Candidate,Tiffany Boozer,Democratic,965075,47.91,False,False,2026 South Carolina State Comptroller election
 2026,South Carolina,SC,state auditor,2026 South Carolina State Comptroller election,Write-in,,,730,0.04,False,False,2026 South Carolina State Comptroller election
 2026,South Carolina,SC,state auditor,2026 South Carolina State Comptroller election,Total,,,2014358,100.0,False,False,2026 South Carolina State Comptroller election
-2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Candidate,Curtis Loftis,Republican,1062666,52.52,False,True,2026 South Carolina State Treasurer election
+2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Winning,Curtis Loftis,Republican,1062666,52.52,True,True,2026 South Carolina State Treasurer election
 2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Candidate,Vincent Coe,Democratic,959539,47.42,False,False,2026 South Carolina State Treasurer election
 2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Write-in,,,1107,0.05,False,False,2026 South Carolina State Treasurer election
 2026,South Carolina,SC,state treasurer,2026 South Carolina State Treasurer election,Total,,,2023312,100.0,False,False,2026 South Carolina State Treasurer election
@@ -718,6 +722,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,South Dakota,SD,secretary of state,2026 South Dakota Secretary of State election,Candidate,Terrence Davis,Democratic,106561,36.1,False,False,2026 South Dakota Secretary of State election
 2026,South Dakota,SD,secretary of state,2026 South Dakota Secretary of State election,Candidate,Tamara Lesnar,Libertarian,16261,5.51,False,False,2026 South Dakota Secretary of State election
 2026,South Dakota,SD,secretary of state,2026 South Dakota Secretary of State election,Total,,,295188,100.0,False,False,2026 South Dakota Secretary of State election
+2026,South Dakota,SD,state auditor,2026 South Dakota State Auditor election,Winning,Catherine Barranco,Republican,182695,62.55,True,False,2026 South Dakota State Auditor election
+2026,South Dakota,SD,state auditor,2026 South Dakota State Auditor election,Candidate,Tom Cool,Democratic,109392,37.45,False,False,2026 South Dakota State Auditor election
+2026,South Dakota,SD,state auditor,2026 South Dakota State Auditor election,Total,,,292087,100.0,False,False,2026 South Dakota State Auditor election
+2026,South Dakota,SD,state treasurer,2026 South Dakota State Treasurer election,Winning,Melissa Hull,Republican,182363,62.43,True,False,2026 South Dakota State Treasurer election
+2026,South Dakota,SD,state treasurer,2026 South Dakota State Treasurer election,Candidate,Margaret Kuipers,Democratic,109756,37.57,False,False,2026 South Dakota State Treasurer election
+2026,South Dakota,SD,state treasurer,2026 South Dakota State Treasurer election,Total,,,292119,100.0,False,False,2026 South Dakota State Treasurer election
 2026,South Dakota,SD,governor,2026 South Dakota gubernatorial election,Winning,Larry Rhoden,Republican,193335,63.49,True,False,2026 South Dakota gubernatorial election
 2026,South Dakota,SD,governor,2026 South Dakota gubernatorial election,Candidate,Dan Ahlers,Democratic,111161,36.51,False,False,2026 South Dakota gubernatorial election
 2026,South Dakota,SD,governor,2026 South Dakota gubernatorial election,Total,,,304496,100.0,False,False,2026 South Dakota gubernatorial election
@@ -799,27 +809,27 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Texas,TX,governor,2026 Texas gubernatorial election,Candidate,Pat Dixon,Libertarian,148140,1.5,False,False,2026 Texas gubernatorial election
 2026,Texas,TX,governor,2026 Texas gubernatorial election,Write-in,,,3987,0.0,False,False,2026 Texas gubernatorial election
 2026,Texas,TX,governor,2026 Texas gubernatorial election,Total,,,9910807,100.0,False,False,2026 Texas gubernatorial election
-2026,Texas,TX,judicial,2026 Fifteenth Court of Appeals of Texas Court Chief Justice election,Candidate,Jerry Zimmerer,Democratic,,,False,False,2026 Texas's 15th Court of Appeals district election
-2026,Texas,TX,judicial,2026 Fifteenth Court of Appeals of Texas Court Chief Justice election,Candidate,Scott Brister,Republican,,,False,True,2026 Texas's 15th Court of Appeals district election
-2026,Texas,TX,judicial,2026 Fifteenth Court of Appeals of Texas Court Chief Justice election,Total,,,,100.0,False,False,2026 Texas's 15th Court of Appeals district election
-2026,Texas,TX,judicial,Place 2 – 2026 Fifteenth Court of Appeals of Texas Place 2 election,Candidate,Tom Baker,Democratic,,,False,False,2026 Texas's 15th Court of Appeals district election
-2026,Texas,TX,judicial,Place 2 – 2026 Fifteenth Court of Appeals of Texas Place 2 election,Candidate,Scott Field,Republican,,,False,True,2026 Texas's 15th Court of Appeals district election
-2026,Texas,TX,judicial,Place 2 – 2026 Fifteenth Court of Appeals of Texas Place 2 election,Total,,,,100.0,False,False,2026 Texas's 15th Court of Appeals district election
-2026,Texas,TX,judicial,Place 3 – 2026 Fifteenth Court of Appeals of Texas Place 3 election,Candidate,Marc Meyer,Democratic,,,False,False,2026 Texas's 15th Court of Appeals district election
-2026,Texas,TX,judicial,Place 3 – 2026 Fifteenth Court of Appeals of Texas Place 3 election,Candidate,April Farris,Republican,,,False,True,2026 Texas's 15th Court of Appeals district election
-2026,Texas,TX,judicial,Place 3 – 2026 Fifteenth Court of Appeals of Texas Place 3 election,Total,,,,100.0,False,False,2026 Texas's 15th Court of Appeals district election
-2026,Colorado,CO,board of regents,District 2 – 2026 University of Colorado's 2nd Board of Regents district election,Candidate,Edie Hooton,Democratic,,,False,False,2026 University of Colorado Board of Regents election
-2026,Colorado,CO,board of regents,District 2 – 2026 University of Colorado's 2nd Board of Regents district election,Candidate,Marty Neilson,Republican,,,False,False,2026 University of Colorado Board of Regents election
-2026,Colorado,CO,board of regents,District 2 – 2026 University of Colorado's 2nd Board of Regents district election,Candidate,Richard Friend,Libertarian,,,False,False,2026 University of Colorado Board of Regents election
-2026,Colorado,CO,board of regents,District 2 – 2026 University of Colorado's 2nd Board of Regents district election,Total,,,,100.0,False,False,2026 University of Colorado Board of Regents election
-2026,Colorado,CO,board of regents,District 6 – 2026 University of Colorado's 6th Board of Regents district election,Candidate,Ilana Spiegel,Democratic,,,False,True,2026 University of Colorado Board of Regents election
-2026,Colorado,CO,board of regents,District 6 – 2026 University of Colorado's 6th Board of Regents district election,Candidate,Veanessa Burbage,Republican,,,False,False,2026 University of Colorado Board of Regents election
-2026,Colorado,CO,board of regents,District 6 – 2026 University of Colorado's 6th Board of Regents district election,Candidate,Joe Johnson,Libertarian,,,False,False,2026 University of Colorado Board of Regents election
-2026,Colorado,CO,board of regents,District 6 – 2026 University of Colorado's 6th Board of Regents district election,Total,,,,100.0,False,False,2026 University of Colorado Board of Regents election
-2026,Colorado,CO,board of regents,District 7 – 2026 University of Colorado's 7th Board of Regents district election,Candidate,Nolbert Chavez,Democratic,,,False,True,2026 University of Colorado Board of Regents election
-2026,Colorado,CO,board of regents,District 7 – 2026 University of Colorado's 7th Board of Regents district election,Candidate,Paul Mueller,Republican,,,False,False,2026 University of Colorado Board of Regents election
-2026,Colorado,CO,board of regents,District 7 – 2026 University of Colorado's 7th Board of Regents district election,Candidate,BetteRose Ryan,Libertarian,,,False,False,2026 University of Colorado Board of Regents election
-2026,Colorado,CO,board of regents,District 7 – 2026 University of Colorado's 7th Board of Regents district election,Total,,,,100.0,False,False,2026 University of Colorado Board of Regents election
+2026,Texas,TX,judicial,2026 Fifteenth Court of Appeals of Texas Court Chief Justice election,Winning,Jerry Zimmerer,Democratic,4985001,51.8,True,False,2026 Texas's 15th Court of Appeals district election
+2026,Texas,TX,judicial,2026 Fifteenth Court of Appeals of Texas Court Chief Justice election,Candidate,Scott Brister,Republican,4636992,48.2,False,True,2026 Texas's 15th Court of Appeals district election
+2026,Texas,TX,judicial,2026 Fifteenth Court of Appeals of Texas Court Chief Justice election,Total,,,9621993,100.0,False,False,2026 Texas's 15th Court of Appeals district election
+2026,Texas,TX,judicial,Place 2 – 2026 Fifteenth Court of Appeals of Texas Place 2 election,Winning,Tom Baker,Democratic,4998619,52.0,True,False,2026 Texas's 15th Court of Appeals district election
+2026,Texas,TX,judicial,Place 2 – 2026 Fifteenth Court of Appeals of Texas Place 2 election,Candidate,Scott Field,Republican,4618116,48.0,False,True,2026 Texas's 15th Court of Appeals district election
+2026,Texas,TX,judicial,Place 2 – 2026 Fifteenth Court of Appeals of Texas Place 2 election,Total,,,9616735,100.0,False,False,2026 Texas's 15th Court of Appeals district election
+2026,Texas,TX,judicial,Place 3 – 2026 Fifteenth Court of Appeals of Texas Place 3 election,Winning,Marc Meyer,Democratic,4950446,51.5,True,False,2026 Texas's 15th Court of Appeals district election
+2026,Texas,TX,judicial,Place 3 – 2026 Fifteenth Court of Appeals of Texas Place 3 election,Candidate,April Farris,Republican,4654820,48.5,False,True,2026 Texas's 15th Court of Appeals district election
+2026,Texas,TX,judicial,Place 3 – 2026 Fifteenth Court of Appeals of Texas Place 3 election,Total,,,9605266,100.0,False,False,2026 Texas's 15th Court of Appeals district election
+2026,Colorado,CO,board of regents,District 2 – 2026 University of Colorado's 2nd Board of Regents district election,Winning,Edie Hooton,Democratic,250766,70.7,True,False,2026 University of Colorado Board of Regents election
+2026,Colorado,CO,board of regents,District 2 – 2026 University of Colorado's 2nd Board of Regents district election,Candidate,Marty Neilson,Republican,92005,25.94,False,False,2026 University of Colorado Board of Regents election
+2026,Colorado,CO,board of regents,District 2 – 2026 University of Colorado's 2nd Board of Regents district election,Candidate,Richard Friend,Libertarian,11939,3.37,False,False,2026 University of Colorado Board of Regents election
+2026,Colorado,CO,board of regents,District 2 – 2026 University of Colorado's 2nd Board of Regents district election,Total,,,354710,100.0,False,False,2026 University of Colorado Board of Regents election
+2026,Colorado,CO,board of regents,District 6 – 2026 University of Colorado's 6th Board of Regents district election,Winning,Ilana Spiegel,Democratic,180556,63.01,True,True,2026 University of Colorado Board of Regents election
+2026,Colorado,CO,board of regents,District 6 – 2026 University of Colorado's 6th Board of Regents district election,Candidate,Veanessa Burbage,Republican,93650,32.68,False,False,2026 University of Colorado Board of Regents election
+2026,Colorado,CO,board of regents,District 6 – 2026 University of Colorado's 6th Board of Regents district election,Candidate,Joe Johnson,Libertarian,12358,4.31,False,False,2026 University of Colorado Board of Regents election
+2026,Colorado,CO,board of regents,District 6 – 2026 University of Colorado's 6th Board of Regents district election,Total,,,286564,100.0,False,False,2026 University of Colorado Board of Regents election
+2026,Colorado,CO,board of regents,District 7 – 2026 University of Colorado's 7th Board of Regents district election,Winning,Nolbert Chavez,Democratic,208164,57.28,True,True,2026 University of Colorado Board of Regents election
+2026,Colorado,CO,board of regents,District 7 – 2026 University of Colorado's 7th Board of Regents district election,Candidate,Paul Mueller,Republican,140009,38.55,False,False,2026 University of Colorado Board of Regents election
+2026,Colorado,CO,board of regents,District 7 – 2026 University of Colorado's 7th Board of Regents district election,Candidate,BetteRose Ryan,Libertarian,15125,4.16,False,False,2026 University of Colorado Board of Regents election
+2026,Colorado,CO,board of regents,District 7 – 2026 University of Colorado's 7th Board of Regents district election,Total,,,363388,100.0,False,False,2026 University of Colorado Board of Regents election
 2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Winning,Paul Brown,Democratic,2386376,27.19,True,True,2026 University of Michigan Board of Regents election
 2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Winning,Amir Makled,Democratic,2245480,25.58,True,False,2026 University of Michigan Board of Regents election
 2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Candidate,Michael Schostak,Republican,1980055,22.56,False,False,2026 University of Michigan Board of Regents election

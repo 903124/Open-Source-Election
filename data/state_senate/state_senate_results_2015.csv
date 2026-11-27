@@ -1,0 +1,131 @@
+year,state,state_code,chamber,district,race,candidate,party,votes,percentage,winner,incumbent
+2015,Louisiana,LA,State Senate,1,general,Sharon Hewitt,Republican,15537.0,58.97,True,False
+2015,Louisiana,LA,State Senate,1,general,Pete Schneider,Republican,10810.0,41.03,False,False
+2015,Louisiana,LA,State Senate,2,general,Troy E. Brown,Democratic,23829.0,71.97,True,True
+2015,Louisiana,LA,State Senate,2,general,Eric Weil,Independent,5208.0,15.73,False,False
+2015,Louisiana,LA,State Senate,2,general,Chris Delpit,Democratic,4072.0,12.3,False,False
+2015,Louisiana,LA,State Senate,3,general,Jean-Paul Morrell,Democratic,,100.0,True,True
+2015,Louisiana,LA,State Senate,4,general,Wesley T. Bishop,Democratic,16336.0,64.84,True,False
+2015,Louisiana,LA,State Senate,4,general,R. Erich Caulfield,Democratic,6195.0,24.59,False,False
+2015,Louisiana,LA,State Senate,4,general,Joseph Swider,Democratic,2665.0,10.57,False,False
+2015,Louisiana,LA,State Senate,5,general,Karen Carter Peterson,Democratic,,100.0,True,True
+2015,Louisiana,LA,State Senate,6,general,Bodi White,Republican,,100.0,True,True
+2015,Louisiana,LA,State Senate,7,general,Troy Carter,Democratic,12935.0,56.76,True,False
+2015,Louisiana,LA,State Senate,7,general,Jeff Arnold,Democratic,9852.0,43.24,False,False
+2015,Louisiana,LA,State Senate,8,general,John Alario,Republican,,100.0,True,True
+2015,Louisiana,LA,State Senate,9,general,Conrad Appel,Republican,14701.0,56.96,True,True
+2015,Louisiana,LA,State Senate,9,general,John LaBruzzo,Republican,11109.0,43.04,False,False
+2015,Louisiana,LA,State Senate,10,general,Danny Martiny,Republican,,100.0,True,True
+2015,Louisiana,LA,State Senate,11,general,Jack Donahue,Republican,,100.0,True,True
+2015,Louisiana,LA,State Senate,12,general,Beth Mizell,Republican,19404.0,58.03,True,False
+2015,Louisiana,LA,State Senate,12,general,Mickey Murphy,Democratic,14033.0,41.97,False,False
+2015,Louisiana,LA,State Senate,13,general,Dale M. Erdey,Republican,17117.0,63.94,True,True
+2015,Louisiana,LA,State Senate,13,general,Derek Babcock,Republican,9655.0,36.06,False,False
+2015,Louisiana,LA,State Senate,14,general,Yvonne Dorsey-Colomb,Democratic,,100.0,True,True
+2015,Louisiana,LA,State Senate,15,general,Regina Barrow,Democratic,14101.0,53.05,True,False
+2015,Louisiana,LA,State Senate,15,general,Dalton Honore,Democratic,8796.0,33.09,False,False
+2015,Louisiana,LA,State Senate,15,general,Jerrie Davenport Williams,Republican,3683.0,13.86,False,False
+2015,Louisiana,LA,State Senate,16,general,Dan Claitor,Republican,16506.0,50.74,True,True
+2015,Louisiana,LA,State Senate,16,general,Scott McKnight,Republican,11462.0,35.23,False,False
+2015,Louisiana,LA,State Senate,16,general,Brent Campanella,Independent,4564.0,14.03,False,False
+2015,Louisiana,LA,State Senate,17,general,Rick Ward III,Republican,,100.0,True,True
+2015,Louisiana,LA,State Senate,18,general,Eddie J. Lambert,Republican,,100.0,True,False
+2015,Louisiana,LA,State Senate,19,general,Gary Smith Jr.,Democratic,,100.0,True,True
+2015,Louisiana,LA,State Senate,20,general,Norby Chabert,Republican,11921.0,51.12,True,True
+2015,Louisiana,LA,State Senate,20,general,Mike Fesi,Republican,9944.0,42.64,False,False
+2015,Louisiana,LA,State Senate,20,general,Mark Atzenhoffer,Independent,1456.0,6.24,False,False
+2015,Louisiana,LA,State Senate,21,general,Bret Allain,Republican,,100.0,True,True
+2015,Louisiana,LA,State Senate,22,general,Fred Mills,Republican,,100.0,True,True
+2015,Louisiana,LA,State Senate,23,general,Page Cortez,Republican,27231.0,83.88,True,True
+2015,Louisiana,LA,State Senate,23,general,Terry Hughes,Independent,5235.0,16.12,False,False
+2015,Louisiana,LA,State Senate,24,general,Gerald Boudreaux,Democratic,17846.0,60.75,True,False
+2015,Louisiana,LA,State Senate,24,general,Ledricka Thierry,Democratic,11528.0,39.25,False,False
+2015,Louisiana,LA,State Senate,25,general,Dan Morrish,Republican,,100.0,True,True
+2015,Louisiana,LA,State Senate,26,general,Jonathan Perry,Republican,,100.0,True,True
+2015,Louisiana,LA,State Senate,27,general,Ronnie Johns,Republican,14648.0,64.96,True,True
+2015,Louisiana,LA,State Senate,27,general,Ginger Vidrine,Democratic,7901.0,35.04,False,False
+2015,Louisiana,LA,State Senate,28,general,Eric LaFleur,Democratic,,100.0,True,True
+2015,Louisiana,LA,State Senate,29,general,Jay Luneau,Democratic,13462.0,59.34,True,False
+2015,Louisiana,LA,State Senate,29,general,Joshua Dara,Republican,9225.0,40.66,False,False
+2015,Louisiana,LA,State Senate,30,general,John R. Smith,Republican,,100.0,True,True
+2015,Louisiana,LA,State Senate,31,general,Gerald Long,Republican,,100.0,True,True
+2015,Louisiana,LA,State Senate,32,general,Neil Riser,Republican,,100.0,True,True
+2015,Louisiana,LA,State Senate,33,general,Mike Walsworth,Republican,15891.0,62.28,True,True
+2015,Louisiana,LA,State Senate,33,general,Vance McAllister,Republican,9626.0,37.72,False,False
+2015,Louisiana,LA,State Senate,34,general,Francis C. Thompson,Democratic,,100.0,True,True
+2015,Louisiana,LA,State Senate,35,general,James R. Fannin,Republican,13430.0,52.9,True,False
+2015,Louisiana,LA,State Senate,35,general,Stewart Cathey Jr.,Republican,11956.0,47.1,False,False
+2015,Louisiana,LA,State Senate,36,general,Ryan Gatti,Republican,14023.0,50.59,True,False
+2015,Louisiana,LA,State Senate,36,general,Henry Lee Burns,Republican,13698.0,49.41,False,False
+2015,Louisiana,LA,State Senate,37,general,Barrow Peacock,Republican,,100.0,True,True
+2015,Louisiana,LA,State Senate,38,general,John Milkovich,Democratic,15665.0,52.44,True,False
+2015,Louisiana,LA,State Senate,38,general,Richard Burford,Republican,14206.0,47.56,False,False
+2015,Louisiana,LA,State Senate,39,general,Gregory Tarver,Democratic,,100.0,True,True
+2015,Virginia,VA,State Senate,1,general,John Clifford Miller,Democratic,17989.0,59.3,True,True
+2015,Virginia,VA,State Senate,1,general,Mark Randolph Matney,Republican,12278.0,40.5,False,False
+2015,Virginia,VA,State Senate,2,general,Mamie Evelyn Locke,Democratic,17459.0,94.1,True,True
+2015,Virginia,VA,State Senate,3,general,Thomas Kent Norment Jr.,Republican,35520.0,69.5,True,True
+2015,Virginia,VA,State Senate,3,general,Hugo Eduardo Reyes,Democratic,15432.0,30.2,False,False
+2015,Virginia,VA,State Senate,4,general,Ryan Todd McDougle,Republican,37882.0,96.0,True,True
+2015,Virginia,VA,State Senate,5,general,Kenneth Cooper Alexander,Democratic,13955.0,95.4,True,True
+2015,Virginia,VA,State Senate,6,general,Lynwood Wayne Lewis Jr.,Democratic,16738.0,59.5,True,True
+2015,Virginia,VA,State Senate,6,general,Richard Hooper Ottinger,Republican,11386.0,40.4,False,False
+2015,Virginia,VA,State Senate,7,general,Frank W. Wagner,Republican,18266.0,53.9,True,True
+2015,Virginia,VA,State Senate,7,general,Gary Thomas McCollum,Democratic,15434.0,45.5,False,False
+2015,Virginia,VA,State Senate,8,general,Howard David Belote,Democratic,11075.0,40.9,False,False
+2015,Virginia,VA,State Senate,8,general,Bill R. DeSteph Jr.,Republican,15905.0,58.7,True,False
+2015,Virginia,VA,State Senate,9,general,A. Donald McEachin,Democratic,31067.0,95.0,True,True
+2015,Virginia,VA,State Senate,10,general,Daniel Allen Gecker,Democratic,26173.0,47.1,False,False
+2015,Virginia,VA,State Senate,10,general,Glen Howard Sturtevant Jr.,Republican,27651.0,49.8,True,False
+2015,Virginia,VA,State Senate,10,general,Marleen K. Durfee,Independent Greens,1136.0,2.0,False,False
+2015,Virginia,VA,State Senate,10,general,Carl Richard Loser,Libertarian,527.0,1.0,False,False
+2015,Virginia,VA,State Senate,11,general,Ernest Wayne Powell,Democratic,15485.0,36.2,False,False
+2015,Virginia,VA,State Senate,11,general,Amanda Freeman Chase,Republican,27218.0,63.6,True,False
+2015,Virginia,VA,State Senate,12,general,Deborah M. Repp,Democratic,16797.0,38.0,False,False
+2015,Virginia,VA,State Senate,12,general,Siobhan Stolle Dunnavant,Republican,25504.0,57.6,True,False
+2015,Virginia,VA,State Senate,12,general,Robert Scott Johnson,Independent,1881.0,4.3,False,False
+2015,Virginia,VA,State Senate,13,general,R. H. Black,Republican,25898.0,52.3,True,True
+2015,Virginia,VA,State Senate,13,general,Barbra Jill McCabe,Democratic,23544.0,47.5,False,False
+2015,Virginia,VA,State Senate,14,general,J. A. Cosgrove Jr.,Republican,15371.0,92.4,True,True
+2015,Virginia,VA,State Senate,15,general,Frank Miller Ruff Jr.,Republican,32745.0,98.3,True,True
+2015,Virginia,VA,State Senate,16,general,Rosalyn Randolph Dance,Democratic,17331.0,72.7,True,True
+2015,Virginia,VA,State Senate,16,general,Joseph D. Morrissey,Independent,6090.0,25.5,False,False
+2015,Virginia,VA,State Senate,17,general,Bryce E. Reeves,Republican,24519.0,62.1,True,True
+2015,Virginia,VA,State Senate,17,general,Ned Lee Gallaway,Democratic,14915.0,37.8,False,False
+2015,Virginia,VA,State Senate,18,general,Lillie Louise Boone Lucas,Democratic,20321.0,95.6,True,True
+2015,Virginia,VA,State Senate,19,general,Michael Lawrence Hamlar,Democratic,15738.0,30.8,False,False
+2015,Virginia,VA,State Senate,19,general,David Robert Suetterlein,Republican,33120.0,64.9,True,False
+2015,Virginia,VA,State Senate,19,general,Steven Lee Nelson,Independent,2134.0,4.2,False,False
+2015,Virginia,VA,State Senate,20,general,William Martin Stanley Jr.,Republican,22701.0,57.9,True,True
+2015,Virginia,VA,State Senate,20,general,Kimberly Elliott Adkins,Democratic,16455.0,42.0,False,False
+2015,Virginia,VA,State Senate,21,general,John Saul Edwards,Democratic,20881.0,50.9,True,True
+2015,Virginia,VA,State Senate,21,general,Nancy Vivian Dye,Republican,17438.0,42.5,False,False
+2015,Virginia,VA,State Senate,21,general,Donald Stevens Caldwell,Independent,2626.0,6.4,False,False
+2015,Virginia,VA,State Senate,22,general,Thomas A. Garrett Jr.,Republican,24913.0,95.3,True,True
+2015,Virginia,VA,State Senate,23,general,Stephen Dwayne Newman,Republican,27309.0,96.7,True,True
+2015,Virginia,VA,State Senate,24,general,Emmett Wilson Hanger Jr.,Republican,34980.0,97.9,True,True
+2015,Virginia,VA,State Senate,25,general,Robert Creigh Deeds,Democratic,34419.0,97.2,True,True
+2015,Virginia,VA,State Senate,26,general,Mark Dudley Obenshain,Republican,25042.0,68.7,True,True
+2015,Virginia,VA,State Senate,26,general,April Dorothea Moore,Democratic,11308.0,31.0,False,False
+2015,Virginia,VA,State Senate,27,general,Jill Holtzman Vogel,Republican,34203.0,97.3,True,True
+2015,Virginia,VA,State Senate,28,general,Richard Henry Stuart Sr.,Republican,30187.0,95.4,True,True
+2015,Virginia,VA,State Senate,29,general,Jeremy Scott McPike,Democratic,16489.0,53.7,True,False
+2015,Virginia,VA,State Senate,29,general,"Harry ""Hal"" Jacob Parrish, II",Republican,14131.0,46.1,False,False
+2015,Virginia,VA,State Senate,30,general,Adam Paul Ebbin,Democratic,27274.0,76.7,True,True
+2015,Virginia,VA,State Senate,30,general,James Ronald Fisher,Independent Greens,7431.0,20.9,False,False
+2015,Virginia,VA,State Senate,31,general,Barbara Ann Favola,Democratic,26373.0,62.3,True,True
+2015,Virginia,VA,State Senate,31,general,George Forakis,Republican,15904.0,37.5,False,False
+2015,Virginia,VA,State Senate,32,general,Janet Denison Howell,Democratic,31156.0,94.0,True,True
+2015,Virginia,VA,State Senate,33,general,Jennifer Tosini Wexton,Democratic,18577.0,56.6,True,True
+2015,Virginia,VA,State Senate,33,general,Stephen Bartholomew Hollingshead,Republican,14190.0,43.2,False,False
+2015,Virginia,VA,State Senate,34,general,"John Chapman ""Chap"" Petersen",Democratic,27690.0,93.6,True,True
+2015,Virginia,VA,State Senate,35,general,Richard Lawrence Saslaw,Democratic,18754.0,74.4,True,True
+2015,Virginia,VA,State Senate,35,general,Terrence Wayne Modglin,Independent Greens,6055.0,24.0,False,False
+2015,Virginia,VA,State Senate,36,general,Scott A. Surovell,Democratic,18320.0,60.5,True,False
+2015,Virginia,VA,State Senate,36,general,"Gerald Moodrow Foreman, II",Republican,11890.0,39.3,False,False
+2015,Virginia,VA,State Senate,37,general,David William Marsden,Democratic,18966.0,55.4,True,True
+2015,Virginia,VA,State Senate,37,general,David Michael Bergman,Republican,15216.0,44.5,False,False
+2015,Virginia,VA,State Senate,38,general,Augustus Benton Chafin Jr.,Republican,31025.0,98.3,True,True
+2015,Virginia,VA,State Senate,39,general,George L. Barker,Democratic,20083.0,53.9,True,True
+2015,Virginia,VA,State Senate,39,general,"Joseph ""Joe"" Robert Murray",Republican,17101.0,45.9,False,False
+2015,Virginia,VA,State Senate,40,general,"C. W. ""Bill"" Carrico",Republican,36838.0,98.4,True,True

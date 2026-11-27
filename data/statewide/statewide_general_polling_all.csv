@@ -5278,6 +5278,18 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2014,Arizona,AZ,governor,General,Public Policy Polling,2014-02-28 to 2014-03-02,2014-02-28,2014-03-02,870,Scott Smith,R,39%,False,"February 28–March 2, 2014",Hypothetical,Ken Bennett vs. Fred DuVal vs. Christine Jones vs. Al Melvin vs. John Molina vs. Frank Riggs vs. Scott Smith vs. Andrew Thomas,3.3
 2014,Arizona,AZ,governor,General,Behavior Research Center,2014-01-16 to 2014-01-26,2014-01-16,2014-01-26,701,Scott Smith,R,20%,False,"January 16–26, 2014",Hypothetical,Ken Bennett vs. Fred DuVal vs. Scott Smith,3.8
 2014,Arizona,AZ,governor,General,Public Policy Polling,2014-02-28 to 2014-03-02,2014-02-28,2014-03-02,870,Andrew Thomas,R,35%,False,"February 28–March 2, 2014",Hypothetical,Ken Bennett vs. Fred DuVal vs. Christine Jones vs. Al Melvin vs. John Molina vs. Frank Riggs vs. Scott Smith vs. Andrew Thomas,3.3
+2014,Arkansas,AR,land commissioner,General,Public Policy Polling,2014-10-30 to 2014-11-01,2014-10-30,2014-11-01,"1,092",John Thurston,R,45%,True,"October 30–November 1, 2014",General,,3.0
+2014,Arkansas,AR,land commissioner,General,Public Policy Polling,2014-09-18 to 2014-09-21,2014-09-18,2014-09-21,"1,453",John Thurston,R,38%,True,"September 18–21, 2014",General,,2.6
+2014,Arkansas,AR,land commissioner,General,Public Policy Polling,2014-08-01 to 2014-08-03,2014-08-01,2014-08-03,"1,066",John Thurston,R,40%,True,"August 1–3, 2014",General,,3.0
+2014,Arkansas,AR,land commissioner,General,Public Policy Polling,2014-04-25 to 2014-04-27,2014-04-25,2014-04-27,840,John Thurston,R,28%,True,"April 25–27, 2014",General,,3.4
+2014,Arkansas,AR,land commissioner,General,Public Policy Polling,2014-10-30 to 2014-11-01,2014-10-30,2014-11-01,"1,092",Mark Robertson,D,36%,False,"October 30–November 1, 2014",General,,3.0
+2014,Arkansas,AR,land commissioner,General,Public Policy Polling,2014-09-18 to 2014-09-21,2014-09-18,2014-09-21,"1,453",Mark Robertson,D,33%,False,"September 18–21, 2014",General,,2.6
+2014,Arkansas,AR,land commissioner,General,Public Policy Polling,2014-08-01 to 2014-08-03,2014-08-01,2014-08-03,"1,066",Mark Robertson,D,29%,False,"August 1–3, 2014",General,,3.0
+2014,Arkansas,AR,land commissioner,General,Public Policy Polling,2014-04-25 to 2014-04-27,2014-04-25,2014-04-27,840,Mark Robertson,D,27%,False,"April 25–27, 2014",General,,3.4
+2014,Arkansas,AR,land commissioner,General,Public Policy Polling,2014-10-30 to 2014-11-01,2014-10-30,2014-11-01,"1,092",Elvis D. Presley,L,9%,False,"October 30–November 1, 2014",General,,3.0
+2014,Arkansas,AR,land commissioner,General,Public Policy Polling,2014-09-18 to 2014-09-21,2014-09-18,2014-09-21,"1,453",Elvis D. Presley,L,7%,False,"September 18–21, 2014",General,,2.6
+2014,Arkansas,AR,land commissioner,General,Public Policy Polling,2014-08-01 to 2014-08-03,2014-08-01,2014-08-03,"1,066",Elvis D. Presley,L,10%,False,"August 1–3, 2014",General,,3.0
+2014,Arkansas,AR,land commissioner,General,Public Policy Polling,2014-04-25 to 2014-04-27,2014-04-25,2014-04-27,840,Elvis D. Presley,L,17%,False,"April 25–27, 2014",General,,3.4
 2014,Arkansas,AR,governor,General,Opinion Research Associates,2014-10-30 to 2014-11-01,2014-10-30,2014-11-01,400,Mike Ross,D,43%,False,"October 30–November 1, 2014",General,,5.0
 2014,Arkansas,AR,governor,General,Rasmussen Reports,2014-10-27 to 2014-10-29,2014-10-27,2014-10-29,967,Mike Ross,D,43%,False,"October 27–29, 2014",General,,3.0
 2014,Arkansas,AR,governor,General,Issues & Answers Network,2014-10-21 to 2014-10-27,2014-10-21,2014-10-27,568,Mike Ross,D,39%,False,"October 21–27, 2014",General,,4.1
@@ -5358,6 +5370,20 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2014,Arkansas,AR,governor,General,Talk Business,2014-04-03 to 2014-04-04,2014-04-03,2014-04-04,"1,068",Mike Ross,D,48%,False,"April 3–4, 2014",Hypothetical,Lynette Bryant vs. Asa Hutchinson vs. Mike Ross vs. Curtis Coleman,3.0
 2014,Arkansas,AR,governor,General,Public Policy Polling,2014-04-25 to 2014-04-27,2014-04-25,2014-04-27,840,Curtis Coleman,R,33%,False,"April 25–27, 2014",Hypothetical,Mike Ross vs. Curtis Coleman,3.4
 2014,Arkansas,AR,governor,General,Talk Business,2014-04-03 to 2014-04-04,2014-04-03,2014-04-04,"1,068",Curtis Coleman,R,30%,False,"April 3–4, 2014",Hypothetical,Lynette Bryant vs. Asa Hutchinson vs. Mike Ross vs. Curtis Coleman,3.0
+2014,California,CA,insurance commissioner,General,GQR,2014-10-22 to 2014-10-29,2014-10-22,2014-10-29,"1,162",Dave Jones,D,47%,True,"October 22–29, 2014",General,,3.3
+2014,California,CA,insurance commissioner,General,Field Poll,2014-10-15 to 2014-10-28,2014-10-15,2014-10-28,941,Dave Jones,D,45%,True,"October 15–28, 2014",General,,3.4
+2014,California,CA,insurance commissioner,General,Field Poll,2014-08-14 to 2014-08-28,2014-08-14,2014-08-28,467,Dave Jones,D,47%,True,"August 14–28, 2014",General,,4.8
+2014,California,CA,insurance commissioner,General,Gravis Marketing,2014-07-22 to 2014-07-24,2014-07-22,2014-07-24,580,Dave Jones,D,32%,True,"July 22–24, 2014",General,,4.0
+2014,California,CA,insurance commissioner,General,GQR,2014-10-22 to 2014-10-29,2014-10-22,2014-10-29,"1,162",Ted Gaines,R,36%,False,"October 22–29, 2014",General,,3.3
+2014,California,CA,insurance commissioner,General,Field Poll,2014-10-15 to 2014-10-28,2014-10-15,2014-10-28,941,Ted Gaines,R,33%,False,"October 15–28, 2014",General,,3.4
+2014,California,CA,insurance commissioner,General,Field Poll,2014-08-14 to 2014-08-28,2014-08-14,2014-08-28,467,Ted Gaines,R,32%,False,"August 14–28, 2014",General,,4.8
+2014,California,CA,insurance commissioner,General,Gravis Marketing,2014-07-22 to 2014-07-24,2014-07-22,2014-07-24,580,Ted Gaines,R,34%,False,"July 22–24, 2014",General,,4.0
+2014,California,CA,superintendent of public instruction,General,GQR,2014-10-22 to 2014-10-29,2014-10-22,2014-10-29,"1,162",Tom Torlakson,Unknown,32%,True,"October 22–29, 2014",General,,3.3
+2014,California,CA,superintendent of public instruction,General,Field Poll,2014-10-15 to 2014-10-28,2014-10-15,2014-10-28,941,Tom Torlakson,Unknown,28%,True,"October 15–28, 2014",General,,3.4
+2014,California,CA,superintendent of public instruction,General,Field Poll,2014-08-14 to 2014-08-28,2014-08-14,2014-08-28,467,Tom Torlakson,Unknown,28%,True,"August 14–28, 2014",General,,4.8
+2014,California,CA,superintendent of public instruction,General,GQR,2014-10-22 to 2014-10-29,2014-10-22,2014-10-29,"1,162",Marshall Tuck,Unknown,29%,False,"October 22–29, 2014",General,,3.3
+2014,California,CA,superintendent of public instruction,General,Field Poll,2014-10-15 to 2014-10-28,2014-10-15,2014-10-28,941,Marshall Tuck,Unknown,28%,False,"October 15–28, 2014",General,,3.4
+2014,California,CA,superintendent of public instruction,General,Field Poll,2014-08-14 to 2014-08-28,2014-08-14,2014-08-28,467,Marshall Tuck,Unknown,31%,False,"August 14–28, 2014",General,,4.8
 2014,California,CA,governor,General,Zogby Analytics,2014-10-28 to 2014-10-31,2014-10-28,2014-10-31,705,Jerry Brown,D,51%,True,"October 28–31, 2014",General,,3.8
 2014,California,CA,governor,General,GQR,2014-10-22 to 2014-10-29,2014-10-22,2014-10-29,"1,162",Jerry Brown,D,56%,True,"October 22–29, 2014",General,,3.3
 2014,California,CA,governor,General,Field Poll,2014-10-15 to 2014-10-28,2014-10-15,2014-10-28,941,Jerry Brown,D,54%,True,"October 15–28, 2014",General,,3.4
@@ -5592,6 +5618,12 @@ Year,State,State_Code,Office,Primary_Type,Poll_Source,Date,Date_Start,Date_End,S
 2014,Connecticut,CT,governor,General,Public Policy Polling,2012-11-01 to 2012-11-02,2012-11-01,2012-11-02,"1,220",Generic Republican,Unknown,37%,False,"November 1–2, 2012",Hypothetical,Dannel Malloy vs. Generic Republican,2.8
 2014,Connecticut,CT,governor,General,Quinnipiac University,2014-05-01 to 2014-05-06,2014-05-01,2014-05-06,"1,668",Joe Visconti,R,36%,False,"May 1–6, 2014",Hypothetical,Dannel Malloy vs. Mark Boughton vs. Martha Dean vs. Mark Lauretti vs. John P. McKinney vs. Joe Visconti,2.4
 2014,Connecticut,CT,governor,General,Quinnipiac University,2014-02-26 to 2014-03-02,2014-02-26,2014-03-02,"1,878",Joe Visconti,R,34%,False,"February 26 – March 2, 2014",Hypothetical,Dannel Malloy vs. Toni Boucher vs. Mark Boughton vs. Mark Lauretti vs. John P. McKinney vs. Joe Visconti,2.3
+2014,Florida,FL,agriculture commissioner,General,Public Policy Polling,2014-11-01 to 2014-11-02,2014-11-01,2014-11-02,"1,198",Adam Putnam,R,49%,True,"November 1–2, 2014",General,,2.8
+2014,Florida,FL,agriculture commissioner,General,Saint Leo University,2014-10-16 to 2014-10-19,2014-10-16,2014-10-19,500,Adam Putnam,R,51%,True,"October 16–19, 2014",General,,4.9
+2014,Florida,FL,agriculture commissioner,General,Public Policy Polling,2014-09-04 to 2014-09-07,2014-09-04,2014-09-07,818,Adam Putnam,R,42%,True,"September 4–7, 2014",General,,3.8
+2014,Florida,FL,agriculture commissioner,General,Public Policy Polling,2014-11-01 to 2014-11-02,2014-11-01,2014-11-02,"1,198",Thad Hamilton,D,38%,False,"November 1–2, 2014",General,,2.8
+2014,Florida,FL,agriculture commissioner,General,Saint Leo University,2014-10-16 to 2014-10-19,2014-10-16,2014-10-19,500,Thad Hamilton,D,35%,False,"October 16–19, 2014",General,,4.9
+2014,Florida,FL,agriculture commissioner,General,Public Policy Polling,2014-09-04 to 2014-09-07,2014-09-04,2014-09-07,818,Thad Hamilton,D,37%,False,"September 4–7, 2014",General,,3.8
 2014,Florida,FL,governor,General,St. Pete Polls,2014-11-02,2014-11-02,2014-11-02,"1,834",Rick Scott,R,46%,True,"November 2, 2014",General,,2.3
 2014,Florida,FL,governor,General,0ptimus,2014-10-30 to 2014-11-02,2014-10-30,2014-11-02,"2,559",Rick Scott,R,43%,True,"October 30–November 2, 2014",General,,2.0
 2014,Florida,FL,governor,General,Zogby Analytics,2014-10-28 to 2014-10-31,2014-10-28,2014-10-31,688,Rick Scott,R,38%,True,"October 28–31, 2014",General,,3.8

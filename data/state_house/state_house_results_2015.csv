@@ -1,0 +1,377 @@
+year,state,state_code,chamber,district,race,candidate,party,votes,percentage,winner,incumbent
+2015,Mississippi,MS,State House,1,general,"Lester E. ""Bubba"" Carpenter",Republican,5156,66.57,True,True
+2015,Mississippi,MS,State House,1,general,Lisa Benderman Wigginton,Democratic,2589,33.43,False,False
+2015,Mississippi,MS,State House,2,general,Nick Bain,Democratic,4751,75.76,True,True
+2015,Mississippi,MS,State House,2,general,Billy Miller,Republican,1520,24.24,False,False
+2015,Mississippi,MS,State House,3,general,William Tracy Arnold,Republican,3734,57.54,True,True
+2015,Mississippi,MS,State House,3,general,Lauren Childers,Democratic,2756,42.47,False,False
+2015,Mississippi,MS,State House,4,general,Jody Steverson,Democratic,5935,100.0,True,True
+2015,Mississippi,MS,State House,5,general,John Faulkner,Democratic,3962,100.0,True,True
+2015,Mississippi,MS,State House,6,general,Dana Criswell,Republican,2818,100.0,True,False
+2015,Mississippi,MS,State House,7,general,Steve Hopkins,Republican,2682,100.0,True,False
+2015,Mississippi,MS,State House,8,general,"John T. ""Trey"" Lamar, III",Republican,3923,100.0,True,True
+2015,Mississippi,MS,State House,9,general,Cedric Burnett,Democratic,4467,70.37,True,False
+2015,Mississippi,MS,State House,9,general,"Christopher Thomas, Sr.",Republican,1881,29.63,False,False
+2015,Mississippi,MS,State House,10,general,Nolan Mettetal,Republican,6143,75.94,True,True
+2015,Mississippi,MS,State House,10,general,Ken Daugherty,Independent,1943,24.06,False,False
+2015,Mississippi,MS,State House,11,general,Lataisha Jackson,Democratic,5615,100.0,True,True
+2015,Mississippi,MS,State House,12,general,J. P. Hughes Jr.,Democratic,2442,55.1,True,False
+2015,Mississippi,MS,State House,12,general,Brad Mayo,Republican,1990,44.9,False,True
+2015,Mississippi,MS,State House,13,general,Steve Massengill,Republican,4416,58.76,True,True
+2015,Mississippi,MS,State House,13,general,Justin Cluck,Democratic,3099,41.24,False,False
+2015,Mississippi,MS,State House,14,general,Margaret Rogers,Republican,5800,100.0,True,True
+2015,Mississippi,MS,State House,15,general,Mac Huddleston,Republican,5927,100.0,True,True
+2015,Mississippi,MS,State House,16,general,Steve Holland,Democratic,3527,100.0,True,True
+2015,Mississippi,MS,State House,17,general,Shane Aguirre,Republican,4384,75.8,True,False
+2015,Mississippi,MS,State House,17,general,Charles Penson,Democratic,1400,24.2,False,False
+2015,Mississippi,MS,State House,18,general,Jerry Turner,Republican,5100,100.0,True,True
+2015,Mississippi,MS,State House,19,general,Randy Boyd,Republican,3924,63.69,True,True
+2015,Mississippi,MS,State House,19,general,Clint Gannon,Democratic,2237,36.31,False,False
+2015,Mississippi,MS,State House,20,general,Chris Brown,Republican,4513,64.43,True,True
+2015,Mississippi,MS,State House,20,general,"William ""Bo"" Miller",Democratic,2491,35.57,False,False
+2015,Mississippi,MS,State House,21,general,Donnie Bell,Republican,4125,59.9,True,True
+2015,Mississippi,MS,State House,21,general,Aaron L. Loden,Democratic,2761,40.1,False,False
+2015,Mississippi,MS,State House,22,general,Preston Sullivan,Democratic,6875,100.0,True,True
+2015,Mississippi,MS,State House,23,general,Charles Beckett,Republican,6817,100.0,True,True
+2015,Mississippi,MS,State House,24,general,Jeff Hale,Republican,2968,100.0,True,False
+2015,Mississippi,MS,State House,25,general,Dan Eubanks,Republican,2245,73.63,True,False
+2015,Mississippi,MS,State House,25,general,Harold D. Harris,Democratic,804,26.37,False,False
+2015,Mississippi,MS,State House,26,general,Orlando Paden,Democratic,3180,100.0,True,False
+2015,Mississippi,MS,State House,27,general,Kenneth Walker,Democratic,4196,71.69,True,False
+2015,Mississippi,MS,State House,27,general,Ricky Dewayne Gill,Republican,1657,28.31,False,False
+2015,Mississippi,MS,State House,28,general,Robert Foster,Republican,4414,100.0,True,False
+2015,Mississippi,MS,State House,29,general,Linda F. Coleman,Democratic,5696,100.0,True,True
+2015,Mississippi,MS,State House,30,general,Robert E. Huddleston,Democratic,3813,100.0,True,True
+2015,Mississippi,MS,State House,31,general,Sara Richardson Thomas,Democratic,5045,100.0,True,True
+2015,Mississippi,MS,State House,32,general,"Willie J. Perkins, Sr.",Democratic,3533,100.0,True,True
+2015,Mississippi,MS,State House,33,general,Thomas Reynolds II,Democratic,5537,76.68,True,True
+2015,Mississippi,MS,State House,33,general,Jerrerico Chambers,Republican,1684,23.32,False,False
+2015,Mississippi,MS,State House,34,general,Kevin Horan,Democratic,6324,100.0,True,True
+2015,Mississippi,MS,State House,35,general,Joey Hood,Republican,4654,57.32,True,True
+2015,Mississippi,MS,State House,35,general,Patrick Warner,Democratic,3465,42.68,False,False
+2015,Mississippi,MS,State House,36,general,Karl Malinski Gibbs,Democratic,6087,100.0,True,True
+2015,Mississippi,MS,State House,37,general,Gary A. Chism,Republican,6859,100.0,True,True
+2015,Mississippi,MS,State House,38,general,Tyrone Ellis,Democratic,5389,100.0,True,True
+2015,Mississippi,MS,State House,39,general,Jeffrey C. Smith,Republican,5020,74.97,True,True
+2015,Mississippi,MS,State House,39,general,"James E. Samuel, Sr.",Democratic,1676,25.03,False,False
+2015,Mississippi,MS,State House,40,general,Ashley Henley,Republican,1173,68.32,True,False
+2015,Mississippi,MS,State House,40,general,Hester Jackson-McCray,Democratic,544,31.68,False,False
+2015,Mississippi,MS,State House,41,general,Kabir Karriem,Democratic,5140,100.0,True,False
+2015,Mississippi,MS,State House,42,general,Carl L. Mickens,Democratic,5799,77.18,True,False
+2015,Mississippi,MS,State House,42,general,Dorothy Baker Hines,Independent,1715,22.82,False,False
+2015,Mississippi,MS,State House,43,general,"Loyd B. ""Rob"" Roberson",Republican,3484,63.86,True,False
+2015,Mississippi,MS,State House,43,general,Paul Millsaps,Democratic,1972,36.14,False,False
+2015,Mississippi,MS,State House,44,general,C. Scott Bounds,Republican,6075,100.0,True,True
+2015,Mississippi,MS,State House,45,general,Michael Ted Evans,Democratic,5544,100.0,True,True
+2015,Mississippi,MS,State House,46,general,Karl Oliver,Republican,5139,56.9,True,False
+2015,Mississippi,MS,State House,46,general,Ken Strachan,Democratic,3893,43.1,False,False
+2015,Mississippi,MS,State House,47,general,Bryant W. Clark,Democratic,4829,100.0,True,True
+2015,Mississippi,MS,State House,48,general,Jason White,Republican,4512,68.99,True,True
+2015,Mississippi,MS,State House,48,general,Jill Butler,Democratic,2028,31.01,False,False
+2015,Mississippi,MS,State House,49,general,Willie L. Bailey,Democratic,3352,100.0,True,True
+2015,Mississippi,MS,State House,50,general,"John Hines, Sr.",Democratic,4450,100.0,True,True
+2015,Mississippi,MS,State House,51,general,"Rufus E. ""Pete"" Straughter",Democratic,5204,100.0,True,True
+2015,Mississippi,MS,State House,52,general,William Kinkade,Republican,2335,100.0,True,True
+2015,Mississippi,MS,State House,53,general,Vince Mangold,Republican,4389,55.92,True,False
+2015,Mississippi,MS,State House,53,general,Bobby Moak,Democratic,3460,44.08,False,True
+2015,Mississippi,MS,State House,54,general,Alex Monsour,Republican,5777,100.0,True,True
+2015,Mississippi,MS,State House,55,general,Oscar Denton,Democratic,4678,100.0,True,True
+2015,Mississippi,MS,State House,56,general,Philip Gunn,Republican,6934,100.0,True,True
+2015,Mississippi,MS,State House,57,general,"Edward Blackmon, Jr.",Democratic,4192,100.0,True,True
+2015,Mississippi,MS,State House,58,general,Joel Bomgar,Republican,7151,100.0,True,False
+2015,Mississippi,MS,State House,59,general,Brent Powell,Republican,5697,100.0,True,True
+2015,Mississippi,MS,State House,60,general,John L. Moore,Republican,5932,100.0,True,True
+2015,Mississippi,MS,State House,61,general,Ray Rogers,Republican,3869,100.0,True,True
+2015,Mississippi,MS,State House,62,general,Tom Weathersby,Republican,4641,79.98,True,True
+2015,Mississippi,MS,State House,62,general,Stephen Wilson,Democratic,1162,20.02,False,False
+2015,Mississippi,MS,State House,63,general,Deborah Butler Dixon,Democratic,5604,100.0,True,True
+2015,Mississippi,MS,State House,64,general,Bill Denny,Republican,5695,100.0,True,True
+2015,Mississippi,MS,State House,65,general,Christopher Bell,Democratic,4442,100.0,True,False
+2015,Mississippi,MS,State House,66,general,Jarvis Dortch,Democratic,5077,100.0,True,False
+2015,Mississippi,MS,State House,67,general,Earle S. Banks,Democratic,4831,100.0,True,True
+2015,Mississippi,MS,State House,68,general,Credell Calhoun,Democratic,4138,100.0,True,True
+2015,Mississippi,MS,State House,69,general,Alyce Griffin Clarke,Democratic,3455,100.0,True,True
+2015,Mississippi,MS,State House,70,general,Kathy L. Sykes,Democratic,4286,85.12,True,False
+2015,Mississippi,MS,State House,70,general,James Perry,Republican,749,14.88,False,False
+2015,Mississippi,MS,State House,71,general,Adrienne Wooten,Democratic,4129,100.0,True,True
+2015,Mississippi,MS,State House,72,general,Kimberly L. Campbell,Democratic,4763,100.0,True,True
+2015,Mississippi,MS,State House,73,general,Cory T. Wilson,Republican,8224,100.0,True,False
+2015,Mississippi,MS,State House,74,general,Mark Baker,Republican,6717,100.0,True,True
+2015,Mississippi,MS,State House,75,general,Tom Miles,Democratic,3979,63.66,True,True
+2015,Mississippi,MS,State House,75,general,Vance Cox,Republican,2271,36.34,False,False
+2015,Mississippi,MS,State House,76,general,Gregory Holloway,Democratic,5789,100.0,True,True
+2015,Mississippi,MS,State House,77,general,Andy Gipson,Republican,5860,100.0,True,True
+2015,Mississippi,MS,State House,78,general,Randy Rushing,Republican,4572,64.32,True,True
+2015,Mississippi,MS,State House,78,general,Wallace Pogue,Democratic,2536,35.68,False,False
+2015,Mississippi,MS,State House,79,general,Mark Tullos,Republican,4589,50.0,True,False
+2015,Mississippi,MS,State House,79,general,Blaine Eaton,Democratic,4589,50.0,False,False
+2015,Mississippi,MS,State House,80,general,Omeria Scott,Democratic,5375,100.0,True,True
+2015,Mississippi,MS,State House,81,general,Stephen Horne,Republican,5196,100.0,True,True
+2015,Mississippi,MS,State House,82,general,Charles L. Young Sr.,Democratic,3203,100.0,True,True
+2015,Mississippi,MS,State House,83,general,Greg Snowden,Republican,5363,80.51,True,True
+2015,Mississippi,MS,State House,83,general,William Bond Compton Jr.,Democratic,1298,19.49,False,False
+2015,Mississippi,MS,State House,84,general,William E. Shirley Jr.,Republican,7359,100.0,True,True
+2015,Mississippi,MS,State House,85,general,Chuck Middleton,Democratic,7011,100.0,True,True
+2015,Mississippi,MS,State House,86,general,Shane Barnett,Republican,4147,54.27,True,False
+2015,Mississippi,MS,State House,86,general,Sherra Hillman Lane,Democratic,3495,45.73,False,True
+2015,Mississippi,MS,State House,87,general,Chris Johnson,Republican,4458,80.24,True,False
+2015,Mississippi,MS,State House,87,general,Paul B. Johnson IV,Independent,1098,19.76,False,False
+2015,Mississippi,MS,State House,88,general,Gary Staples,Republican,7478,100.0,True,True
+2015,Mississippi,MS,State House,89,general,Bobby Shows,Republican,6309,100.0,True,True
+2015,Mississippi,MS,State House,90,general,Noah L. Sanford,Republican,4177,54.14,True,False
+2015,Mississippi,MS,State House,90,general,John B. Pope III,Democratic,3538,45.86,False,False
+2015,Mississippi,MS,State House,91,general,Bob Evans,Democratic,5478,64.21,True,True
+2015,Mississippi,MS,State House,91,general,Charles E. Bufkin,Republican,3053,35.79,False,False
+2015,Mississippi,MS,State House,92,general,Becky Currie,Republican,6964,100.0,True,True
+2015,Mississippi,MS,State House,93,general,Timmy Ladner,Republican,3307,67.64,True,True
+2015,Mississippi,MS,State House,93,general,Billy Joe Ladner,Democratic,1582,32.36,False,False
+2015,Mississippi,MS,State House,94,general,"Robert L. Johnson, III",Democratic,4990,100.0,True,True
+2015,Mississippi,MS,State House,95,general,Patricia H. Willis,Republican,4351,100.0,True,True
+2015,Mississippi,MS,State House,96,general,Angela Cockerham,Democratic,7548,100.0,True,True
+2015,Mississippi,MS,State House,97,general,"Sam C. Mims, V",Republican,5484,68.39,True,True
+2015,Mississippi,MS,State House,97,general,Kitty Sasser,Democratic,2535,31.61,False,False
+2015,Mississippi,MS,State House,98,general,David W. Myers,Democratic,5814,100.0,True,True
+2015,Mississippi,MS,State House,99,general,Bill Pigott,Republican,6423,100.0,True,True
+2015,Mississippi,MS,State House,100,general,Ken Morgan,Republican,6005,100.0,True,True
+2015,Mississippi,MS,State House,101,general,Brad Touchstone,Republican,6270,100.0,True,False
+2015,Mississippi,MS,State House,102,general,Toby Barker,Republican,3502,72.78,True,True
+2015,Mississippi,MS,State House,102,general,Taylor R. Brinkley,Democratic,1310,27.22,False,False
+2015,Mississippi,MS,State House,103,general,Percy W. Watson,Democratic,4043,100.0,True,True
+2015,Mississippi,MS,State House,104,general,Larry Byrd,Republican,5580,100.0,True,True
+2015,Mississippi,MS,State House,105,general,Roun McNeal,Republican,4207,56.74,True,False
+2015,Mississippi,MS,State House,105,general,Dennis Cochran,Democratic,3208,43.26,False,False
+2015,Mississippi,MS,State House,106,general,Herb Frierson,Republican,4011,100.0,True,True
+2015,Mississippi,MS,State House,107,general,Doug McLeod,Republican,5197,76.75,True,True
+2015,Mississippi,MS,State House,107,general,Austin Howell,Democratic,1574,23.25,False,False
+2015,Mississippi,MS,State House,108,general,Mark S. Formby,Republican,3198,77.04,True,True
+2015,Mississippi,MS,State House,108,general,Leavern Guy,Democratic,953,22.96,False,False
+2015,Mississippi,MS,State House,109,general,Manly Barton,Republican,4281,87.71,True,True
+2015,Mississippi,MS,State House,109,general,Joshua Hardy,Libertarian,600,12.29,False,False
+2015,Mississippi,MS,State House,110,general,Jeramey D. Anderson,Democratic,3778,100.0,True,True
+2015,Mississippi,MS,State House,111,general,Charles Busby,Republican,3771,76.96,True,True
+2015,Mississippi,MS,State House,111,general,Kay Sims,Democratic,1129,23.04,False,False
+2015,Mississippi,MS,State House,112,general,John Read,Republican,3392,100.0,True,True
+2015,Mississippi,MS,State House,113,general,Hank Zuber,Republican,3950,100.0,True,True
+2015,Mississippi,MS,State House,114,general,Jeffrey Guice,Republican,3314,100.0,True,True
+2015,Mississippi,MS,State House,115,general,Randall Patterson,Republican,1860,100.0,True,True
+2015,Mississippi,MS,State House,116,general,Casey Eure,Republican,3781,100.0,True,True
+2015,Mississippi,MS,State House,117,general,Scott DeLano,Republican,3372,100.0,True,True
+2015,Mississippi,MS,State House,118,general,Greg Haney,Republican,4051,100.0,True,True
+2015,Mississippi,MS,State House,119,general,Sonya Williams-Barnes,Democratic,2982,100.0,True,True
+2015,Mississippi,MS,State House,120,general,Richard Bennett,Republican,3999,100.0,True,True
+2015,Mississippi,MS,State House,121,general,Carolyn Crawford,Republican,3279,66.86,True,True
+2015,Mississippi,MS,State House,121,general,Brian Pearse,Democratic,1625,33.14,False,False
+2015,Mississippi,MS,State House,122,general,David Baria,Democratic,2369,51.08,True,True
+2015,Mississippi,MS,State House,122,general,Mickey Lagasse,Republican,2269,48.92,False,False
+2015,New Jersey,NJ,State House,1,general,Bob Andrzejczak,Democratic,20231,27.9,True,True
+2015,New Jersey,NJ,State House,1,general,R. Bruce Land,Democratic,19140,26.4,True,False
+2015,New Jersey,NJ,State House,1,general,Sam Fiocchi,Republican,16818,23.2,False,True
+2015,New Jersey,NJ,State House,1,general,Jim Sauro,Republican,16395,22.6,False,False
+2015,New Jersey,NJ,State House,1,general,Personal choice,Write-ins,46,0.1,False,False
+2015,New Jersey,NJ,State House,2,general,Chris A. Brown,Republican,18959,26.5,True,True
+2015,New Jersey,NJ,State House,2,general,Vince Mazzeo,Democratic,18279,25.5,True,True
+2015,New Jersey,NJ,State House,2,general,Colin Bell,Democratic,17433,24.3,False,False
+2015,New Jersey,NJ,State House,2,general,Will Pauls,Republican,16907,23.6,False,False
+2015,New Jersey,NJ,State House,2,general,Personal choice,Write-ins,35,0.0,False,False
+2015,New Jersey,NJ,State House,3,general,John J. Burzichelli,Democratic,20507,28.5,True,True
+2015,New Jersey,NJ,State House,3,general,Adam Taliaferro,Democratic,19480,27.0,True,True
+2015,New Jersey,NJ,State House,3,general,Samuel J. Maccarone Jr.,Republican,16063,22.3,False,False
+2015,New Jersey,NJ,State House,3,general,Leroy P. Pierce III,Republican,14715,20.4,False,False
+2015,New Jersey,NJ,State House,3,general,John Kalnas,the Peoples Voice,1223,1.7,False,False
+2015,New Jersey,NJ,State House,3,general,Personal choice,Write-ins,74,0.1,False,False
+2015,New Jersey,NJ,State House,4,general,Paul D. Moriarty,Democratic,17454,30.4,True,True
+2015,New Jersey,NJ,State House,4,general,Gabriela Mosquera,Democratic,17147,29.9,True,True
+2015,New Jersey,NJ,State House,4,general,Kevin P. Murphy,Republican,11592,20.2,False,False
+2015,New Jersey,NJ,State House,4,general,Jack Nicholson,Republican,11131,19.4,False,False
+2015,New Jersey,NJ,State House,4,general,Personal choice,Write-ins,63,0.1,False,False
+2015,New Jersey,NJ,State House,5,general,Patricia Egan Jones,Democratic,16766,32.0,True,False
+2015,New Jersey,NJ,State House,5,general,Arthur Barclay,Democratic,15797,32.0,True,False
+2015,New Jersey,NJ,State House,5,general,Keith A. Walker,Republican,8717,17.7,False,False
+2015,New Jersey,NJ,State House,5,general,Kevin P. Ehret,Republican,8045,16.3,False,False
+2015,New Jersey,NJ,State House,5,general,Personal choice,Write-ins,50,0.1,False,False
+2015,New Jersey,NJ,State House,6,general,Louis Greenwald,Democratic,21087,32.6,True,True
+2015,New Jersey,NJ,State House,6,general,Pamela Rosen Lampitt,Democratic,20028,31.0,True,True
+2015,New Jersey,NJ,State House,6,general,Holly Tate,Republican,11023,17.0,False,False
+2015,New Jersey,NJ,State House,6,general,Claire H. Gustafson,Republican,10679,16.5,False,False
+2015,New Jersey,NJ,State House,6,general,Amanda Davis,Green,985,1.5,False,False
+2015,New Jersey,NJ,State House,6,general,James Bracciante,Green,850,1.3,False,False
+2015,New Jersey,NJ,State House,6,general,Personal choice,Write-ins,54,0.1,False,False
+2015,New Jersey,NJ,State House,7,general,Herb Conaway,Democratic,22559,30.9,True,True
+2015,New Jersey,NJ,State House,7,general,Troy Singleton,Democratic,22056,30.3,True,True
+2015,New Jersey,NJ,State House,7,general,Bill Conley,Republican,14272,19.6,False,False
+2015,New Jersey,NJ,State House,7,general,Rob Prisco,Republican,13949,19.1,False,False
+2015,New Jersey,NJ,State House,7,general,Personal choice,Write-ins,76,0.1,False,False
+2015,New Jersey,NJ,State House,8,general,Maria Rodriguez-Gregg,Republican,18317,49.5,True,True
+2015,New Jersey,NJ,State House,8,general,Joe Howarth,Republican,18234,49.3,True,False
+2015,New Jersey,NJ,State House,8,general,Personal choice,Write-ins,465,1.3,False,False
+2015,New Jersey,NJ,State House,9,general,Brian E. Rumpf,Republican,24325,33.4,True,True
+2015,New Jersey,NJ,State House,9,general,DiAnne Gove,Republican,23676,32.5,True,True
+2015,New Jersey,NJ,State House,9,general,Fran Zimmer,Democratic,12638,17.3,False,False
+2015,New Jersey,NJ,State House,9,general,John Bingham,Democratic,12171,16.7,False,False
+2015,New Jersey,NJ,State House,9,general,Personal choice,Write-ins,76,0.1,False,False
+2015,New Jersey,NJ,State House,10,general,David W. Wolfe,Republican,19882,31.9,True,True
+2015,New Jersey,NJ,State House,10,general,Gregory P. McGuckin,Republican,18543,29.7,True,True
+2015,New Jersey,NJ,State House,10,general,Kimberley S. Casten,Democratic,12302,19.7,False,False
+2015,New Jersey,NJ,State House,10,general,Valter Must,Democratic,11513,18.5,False,False
+2015,New Jersey,NJ,State House,10,general,Personal choice,Write-ins,135,0.2,False,False
+2015,New Jersey,NJ,State House,11,general,Eric Houghtaling,Democratic,15149,25.6,True,False
+2015,New Jersey,NJ,State House,11,general,Joann Downey,Democratic,14906,25.2,True,False
+2015,New Jersey,NJ,State House,11,general,Mary Pat Angelini,Republican,14653,24.7,False,True
+2015,New Jersey,NJ,State House,11,general,Caroline Casagrande,Republican,14418,24.4,False,True
+2015,New Jersey,NJ,State House,11,general,Personal choice,Write-ins,85,0.1,False,False
+2015,New Jersey,NJ,State House,12,general,Ronald S. Dancer,Republican,15164,29.4,True,True
+2015,New Jersey,NJ,State House,12,general,Robert D. Clifton,Republican,14433,28.0,True,True
+2015,New Jersey,NJ,State House,12,general,David W. Merwin,Democratic,10496,20.4,False,False
+2015,New Jersey,NJ,State House,12,general,Robert P. Kurzydlowski,Democratic,10449,20.3,False,False
+2015,New Jersey,NJ,State House,12,general,Stephen Zielinski Sr.,Green,945,1.8,False,False
+2015,New Jersey,NJ,State House,12,general,Personal choice,Write-ins,85,0.2,False,False
+2015,New Jersey,NJ,State House,13,general,Amy Handlin,Republican,19829,30.3,True,True
+2015,New Jersey,NJ,State House,13,general,Declan O'Scanlon,Republican,18977,29.0,True,True
+2015,New Jersey,NJ,State House,13,general,Thomas Herman,Democratic,12934,19.8,False,False
+2015,New Jersey,NJ,State House,13,general,Jeanne Cullinane,Democratic,12779,19.5,False,False
+2015,New Jersey,NJ,State House,13,general,Joshua Leinsdorf,"Jobs, Sidewalks, Transit",770,1.2,False,False
+2015,New Jersey,NJ,State House,13,general,Personal choice,Write-ins,109,0.2,False,False
+2015,New Jersey,NJ,State House,14,general,Wayne DeAngelo,Democratic,22319,30.2,True,True
+2015,New Jersey,NJ,State House,14,general,Daniel R. Benson,Democratic,21187,28.7,True,True
+2015,New Jersey,NJ,State House,14,general,David C. Jones,Republican,14474,19.6,False,False
+2015,New Jersey,NJ,State House,14,general,Phil Kaufman,Republican,13937,18.9,False,False
+2015,New Jersey,NJ,State House,14,general,Joann Cousin,Green,1028,1.4,False,False
+2015,New Jersey,NJ,State House,14,general,Steven Welzer,Green,957,1.3,False,False
+2015,New Jersey,NJ,State House,14,general,Personal choice,Write-ins,23,0.0,False,False
+2015,New Jersey,NJ,State House,15,general,Reed Gusciora,Democratic,17657,35.7,True,True
+2015,New Jersey,NJ,State House,15,general,Elizabeth Maher Muoio,Democratic,16845,34.1,True,True
+2015,New Jersey,NJ,State House,15,general,Anthony L. Giordano,Republican,7502,15.2,False,False
+2015,New Jersey,NJ,State House,15,general,Peter Mendonez Jr.,Republican,7345,14.9,False,False
+2015,New Jersey,NJ,State House,15,general,Personal choice,Write-ins,56,0.1,False,False
+2015,New Jersey,NJ,State House,16,general,Jack Ciattarelli,Republican,16577,25.4,True,True
+2015,New Jersey,NJ,State House,16,general,Andrew Zwicker,Democratic,16308,25.0,True,False
+2015,New Jersey,NJ,State House,16,general,Donna Simon,Republican,16230,24.9,False,True
+2015,New Jersey,NJ,State House,16,general,Maureen Vella,Democratic,16043,24.6,False,False
+2015,New Jersey,NJ,State House,16,general,Personal choice,Write-ins,29,0.0,False,False
+2015,New Jersey,NJ,State House,17,general,Joseph V. Egan,Democratic,13444,33.9,True,True
+2015,New Jersey,NJ,State House,17,general,Joseph Danielsen,Democratic,13426,33.9,True,True
+2015,New Jersey,NJ,State House,17,general,Robert Mettler,Republican,6362,16.0,False,False
+2015,New Jersey,NJ,State House,17,general,Brajesh Singh,Republican,2430,13.7,False,False
+2015,New Jersey,NJ,State House,17,general,Molly O'Brien,Green,985,2.5,False,False
+2015,New Jersey,NJ,State House,18,general,Patrick J. Diegnan,Democratic,16256,31.9,True,True
+2015,New Jersey,NJ,State House,18,general,Nancy Pinkin,Democratic,16113,31.6,True,True
+2015,New Jersey,NJ,State House,18,general,Teresa Rose Hutchison,Republican,9432,18.5,False,False
+2015,New Jersey,NJ,State House,18,general,Synnove Bakke,Republican,9123,17.9,False,False
+2015,New Jersey,NJ,State House,19,general,John Wisniewski,Democratic,16159,36.3,True,True
+2015,New Jersey,NJ,State House,19,general,Craig Coughlin,Democratic,15880,35.6,True,True
+2015,New Jersey,NJ,State House,19,general,Thomas E. Maras,Republican,6597,14.8,False,False
+2015,New Jersey,NJ,State House,19,general,Jesus Varela,Republican,5916,13.3,False,False
+2015,New Jersey,NJ,State House,20,general,Annette Quijano,Democratic,12061,39.3,True,True
+2015,New Jersey,NJ,State House,20,general,Jamel Holley,Democratic,11568,37.7,True,True
+2015,New Jersey,NJ,State House,20,general,Stephen E. Kozlovich,Republican,3593,11.7,False,False
+2015,New Jersey,NJ,State House,20,general,Roger Stryeski,Republican,3398,11.1,False,False
+2015,New Jersey,NJ,State House,20,general,Personal choice,Write-ins,57,0.2,False,False
+2015,New Jersey,NJ,State House,21,general,Jon Bramnick,Republican,20024,29.9,True,True
+2015,New Jersey,NJ,State House,21,general,Nancy Munoz,Republican,19783,29.5,True,True
+2015,New Jersey,NJ,State House,21,general,Jill Anne LaZare,Democratic,13804,20.6,False,False
+2015,New Jersey,NJ,State House,21,general,David Barnett,Democratic,13378,20.0,False,False
+2015,New Jersey,NJ,State House,21,general,Personal choice,Write-ins,49,0.1,False,False
+2015,New Jersey,NJ,State House,22,general,James J. Kennedy,Democratic,12087,30.5,True,False
+2015,New Jersey,NJ,State House,22,general,Jerry Green,Democratic,11769,29.7,True,True
+2015,New Jersey,NJ,State House,22,general,William Vastine,Republican,8076,20.4,False,False
+2015,New Jersey,NJ,State House,22,general,William H. Michelson,Republican,7666,19.3,False,False
+2015,New Jersey,NJ,State House,22,general,Personal choice,Write-ins,47,0.1,False,False
+2015,New Jersey,NJ,State House,23,general,John DiMaio,Republican,17654,32.3,True,True
+2015,New Jersey,NJ,State House,23,general,Erik Peterson,Republican,17071,31.2,True,True
+2015,New Jersey,NJ,State House,23,general,Maria Rodriguez,Democratic,10056,18.4,False,False
+2015,New Jersey,NJ,State House,23,general,Marybeth Maciag,Democratic,9759,17.8,False,False
+2015,New Jersey,NJ,State House,23,general,Personal choice,Write-ins,148,0.3,False,False
+2015,New Jersey,NJ,State House,24,general,Parker Space,Republican,18058,34.8,True,True
+2015,New Jersey,NJ,State House,24,general,Gail Phoebus,Republican,17217,33.2,True,False
+2015,New Jersey,NJ,State House,24,general,Jacqueline Stapel,Democratic,7165,13.8,False,False
+2015,New Jersey,NJ,State House,24,general,Michael F. Grace,Democratic,6998,13.5,False,False
+2015,New Jersey,NJ,State House,24,general,Kenneth Collins,Green,2227,4.3,False,False
+2015,New Jersey,NJ,State House,24,general,Personal choice,Write-ins,210,0.4,False,False
+2015,New Jersey,NJ,State House,25,general,Tony Bucco,Republican,13947,29.4,True,True
+2015,New Jersey,NJ,State House,25,general,Michael Patrick Carroll,Republican,13372,28.2,True,True
+2015,New Jersey,NJ,State House,25,general,Richard J. Corcoran III,Democratic,10230,21.5,False,False
+2015,New Jersey,NJ,State House,25,general,Thomas Moran,Democratic,9849,20.7,False,False
+2015,New Jersey,NJ,State House,25,general,Personal choice,Write-ins,69,0.1,False,False
+2015,New Jersey,NJ,State House,26,general,Jay Webber,Republican,13739,30.2,True,True
+2015,New Jersey,NJ,State House,26,general,BettyLou DeCroce,Republican,13666,30.1,True,True
+2015,New Jersey,NJ,State House,26,general,Avery Hart,Democratic,8805,19.4,False,False
+2015,New Jersey,NJ,State House,26,general,Wayne B. Marek,Democratic,8525,18.8,False,False
+2015,New Jersey,NJ,State House,26,general,Jimmy D. Brash,Green,666,1.5,False,False
+2015,New Jersey,NJ,State House,26,general,Personal choice,Write-ins,40,0.1,False,False
+2015,New Jersey,NJ,State House,27,general,John F. McKeon,Democratic,19128,29.4,True,True
+2015,New Jersey,NJ,State House,27,general,Mila Jasey,Democratic,17971,27.6,True,True
+2015,New Jersey,NJ,State House,27,general,Wonkyu Rim,Republican,13896,21.3,False,False
+2015,New Jersey,NJ,State House,27,general,Tayfun Selen,Republican,12957,19.9,False,False
+2015,New Jersey,NJ,State House,27,general,Jeff Hetrick,Libertarian,616,0.9,False,False
+2015,New Jersey,NJ,State House,27,general,Damien Caillaut,Libertarian,564,0.9,False,False
+2015,New Jersey,NJ,State House,27,general,Personal choice,Write-ins,37,0.1,False,False
+2015,New Jersey,NJ,State House,28,general,Ralph R. Caputo,Democratic,9512,43.2,True,True
+2015,New Jersey,NJ,State House,28,general,Cleopatra Tucker,Democratic,9186,41.7,True,True
+2015,New Jersey,NJ,State House,28,general,David H. Pinckney,Republican,1661,7.5,False,False
+2015,New Jersey,NJ,State House,28,general,Darnel C. Henry,Republican,1646,7.5,False,False
+2015,New Jersey,NJ,State House,28,general,Personal choice,Write-ins,36,0.2,False,False
+2015,New Jersey,NJ,State House,29,general,L. Grace Spencer,Democratic,7146,42.8,True,True
+2015,New Jersey,NJ,State House,29,general,Eliana Pintor Marin,Democratic,6539,39.1,True,True
+2015,New Jersey,NJ,State House,29,general,Nicholas G. Campione,Republican,1409,8.4,False,False
+2015,New Jersey,NJ,State House,29,general,Jeannette Veras,Republican,1077,6.4,False,False
+2015,New Jersey,NJ,State House,29,general,Pablo Olivera,Wake Up Jersey,498,3.0,False,False
+2015,New Jersey,NJ,State House,29,general,Personal choice,Write-ins,38,0.2,False,False
+2015,New Jersey,NJ,State House,30,general,Sean T. Kean,Republican,19826,34.5,True,True
+2015,New Jersey,NJ,State House,30,general,Dave Rible,Republican,19459,33.8,True,True
+2015,New Jersey,NJ,State House,30,general,Jim Keady,Democratic,9148,15.9,False,False
+2015,New Jersey,NJ,State House,30,general,Lorna Phillipson,Democratic,7867,13.7,False,False
+2015,New Jersey,NJ,State House,30,general,Hank Schroeder,Economic Growth,1101,1.9,False,False
+2015,New Jersey,NJ,State House,30,general,Personal choice,Write-ins,109,0.2,False,False
+2015,New Jersey,NJ,State House,31,general,Angela V. McKnight,Democratic,9597,35.3,True,False
+2015,New Jersey,NJ,State House,31,general,Nicholas Chiaravalloti,Democratic,9212,33.9,True,False
+2015,New Jersey,NJ,State House,31,general,Matthew Kopko,Republican,3872,14.2,False,False
+2015,New Jersey,NJ,State House,31,general,Herminio Mendoza,Republican,2603,9.6,False,False
+2015,New Jersey,NJ,State House,31,general,Anthony Zanowic,Your Independent Leadership,958,3.5,False,False
+2015,New Jersey,NJ,State House,31,general,Alejandro Rodriguez,Your Independent Leadership,934,3.4,False,False
+2015,New Jersey,NJ,State House,31,general,Personal choice,Write-ins,32,0.1,False,False
+2015,New Jersey,NJ,State House,32,general,Vincent Prieto,Democratic,12276,43.0,True,True
+2015,New Jersey,NJ,State House,32,general,Angelica M. Jimenez,Democratic,11805,41.4,True,True
+2015,New Jersey,NJ,State House,32,general,Lisamarie Tusa,Republican,2223,7.8,False,False
+2015,New Jersey,NJ,State House,32,general,Frank Miqueli,Republican,2212,7.8,False,False
+2015,New Jersey,NJ,State House,32,general,Personal choice,Write-ins,21,0.1,False,False
+2015,New Jersey,NJ,State House,33,general,Annette Chaparro,Democratic,12338,39.5,True,False
+2015,New Jersey,NJ,State House,33,general,Raj Mukherji,Democratic,11978,38.4,True,True
+2015,New Jersey,NJ,State House,33,general,Garrett P. Simulcik Jr.,Republican,3556,11.4,False,False
+2015,New Jersey,NJ,State House,33,general,Javier Sosa,Republican,3260,10.4,False,False
+2015,New Jersey,NJ,State House,33,general,Personal choice,Write-ins,91,0.3,False,False
+2015,New Jersey,NJ,State House,34,general,Thomas P. Giblin,Democratic,13436,42.2,True,True
+2015,New Jersey,NJ,State House,34,general,Sheila Oliver,Democratic,13294,41.8,True,True
+2015,New Jersey,NJ,State House,34,general,John M. Traier,Republican,4025,12.6,False,False
+2015,New Jersey,NJ,State House,34,general,Clenard H. Childress Jr.,A Better Tomorrow,977,3.1,False,False
+2015,New Jersey,NJ,State House,34,general,Personal choice,Write-ins,88,0.3,False,False
+2015,New Jersey,NJ,State House,35,general,Benjie E. Wimberly,Democratic,11905,36.4,True,True
+2015,New Jersey,NJ,State House,35,general,Shavonda E. Sumter,Democratic,11904,36.4,True,True
+2015,New Jersey,NJ,State House,35,general,David Jimenez,Republican,4522,13.8,False,False
+2015,New Jersey,NJ,State House,35,general,Ilia Villanueva,Republican,4333,13.3,False,False
+2015,New Jersey,NJ,State House,35,general,Personal choice,Write-ins,13,0.0,False,False
+2015,New Jersey,NJ,State House,36,general,Gary Schaer,Democratic,15125,33.1,True,True
+2015,New Jersey,NJ,State House,36,general,Marlene Caride,Democratic,14788,32.3,True,True
+2015,New Jersey,NJ,State House,36,general,Forrest Elliott Jr.,Republican,7835,17.1,False,False
+2015,New Jersey,NJ,State House,36,general,James A. Lenoy,Republican,7510,16.4,False,False
+2015,New Jersey,NJ,State House,36,general,Jeff Boss,Nsa Did 911,430,0.9,False,False
+2015,New Jersey,NJ,State House,36,general,Personal choice,Write-ins,39,0.1,False,False
+2015,New Jersey,NJ,State House,37,general,Valerie Huttle,Democratic,18930,35.9,True,True
+2015,New Jersey,NJ,State House,37,general,Gordon M. Johnson,Democratic,18869,35.8,True,True
+2015,New Jersey,NJ,State House,37,general,Joseph M. Fiscella,Republican,7598,14.4,False,False
+2015,New Jersey,NJ,State House,37,general,Gino P. Tessaro,Republican,7338,13.9,False,False
+2015,New Jersey,NJ,State House,37,general,Personal choice,Write-ins,45,0.1,False,False
+2015,New Jersey,NJ,State House,38,general,Tim Eustace,Democratic,19563,29.1,True,True
+2015,New Jersey,NJ,State House,38,general,Joseph Lagana,Democratic,19511,29.0,True,True
+2015,New Jersey,NJ,State House,38,general,Mark DiPisa,Republican,14721,21.9,False,False
+2015,New Jersey,NJ,State House,38,general,Anthony Cappola,Republican,13339,19.8,False,False
+2015,New Jersey,NJ,State House,38,general,Personal choice,Write-ins,95,0.1,False,False
+2015,New Jersey,NJ,State House,39,general,Holly Schepisi,Republican,22016,31.3,True,True
+2015,New Jersey,NJ,State House,39,general,Robert Auth,Republican,20227,28.7,True,True
+2015,New Jersey,NJ,State House,39,general,John Derienzo,Democratic,14258,20.3,False,False
+2015,New Jersey,NJ,State House,39,general,Jeffrey Goldsmith,Democratic,13840,19.7,False,False
+2015,New Jersey,NJ,State House,39,general,Personal choice,Write-ins,28,0.0,False,False
+2015,New Jersey,NJ,State House,40,general,David C. Russo,Republican,19675,28.0,True,True
+2015,New Jersey,NJ,State House,40,general,Scott Rumana,Republican,19357,27.5,True,True
+2015,New Jersey,NJ,State House,40,general,Christine Ordway,Democratic,15629,22.2,False,False
+2015,New Jersey,NJ,State House,40,general,Paul Vagianos,Democratic,15573,22.2,False,False
+2015,New Jersey,NJ,State House,40,general,Personal choice,Write-ins,63,0.1,False,False

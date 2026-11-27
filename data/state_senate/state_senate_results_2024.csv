@@ -257,8 +257,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Delaware,DE,State Senate,16,general,Eric Buckson,Republican,16094,98.89,True,True
 2024,Delaware,DE,State Senate,16,general,Will McVay,Non-partisan Delaware,181,1.11,False,False
 2024,Delaware,DE,State Senate,17,general,W. Charles Paradee,Democratic,14630,100.0,True,True
-2024,Delaware,DE,State Senate,10,general,David L. Wilson,Republican,18563,100.0,True,True
-2024,Delaware,DE,State Senate,10,general,Bryant Richardson,Republican,17105,100.0,True,True
+2024,Delaware,DE,State Senate,18,general,David L. Wilson,Republican,18563,100.0,True,True
+2024,Delaware,DE,State Senate,21,general,Bryant Richardson,Republican,17105,100.0,True,True
 2024,Florida,FL,State Senate,1,general,Don Gaetz,Republican,187431.0,64.56,True,False
 2024,Florida,FL,State Senate,1,general,Lisa Newell,Democratic,102905.0,35.44,False,False
 2024,Florida,FL,State Senate,3,general,Corey Simon,Republican,154515.0,55.67,True,True
@@ -416,6 +416,10 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Hawaii,HI,State Senate,23,general,Ben Shafer,Democratic,9477,45.1,False,False
 2024,Hawaii,HI,State Senate,23,general,Blank votes,,946,4.5,False,False
 2024,Hawaii,HI,State Senate,23,general,Over votes,,21,0.1,False,False
+2024,Hawaii,HI,State Senate,1,general,Lorraine Inouye,Democratic,,,True,False
+2024,Hawaii,HI,State Senate,4,general,Tim Richards III,Democratic,,,True,False
+2024,Hawaii,HI,State Senate,19,general,Henry Aquino,Democratic,,,True,False
+2024,Hawaii,HI,State Senate,24,general,Jarrett Keohokalole,Democratic,,,True,False
 2024,Idaho,ID,State Senate,1,general,Jim Woodward,Republican,23545.0,76.3,True,False
 2024,Idaho,ID,State Senate,1,general,Dan Rose,Independent,7314.0,23.7,False,False
 2024,Idaho,ID,State Senate,2,general,Phil Hart,Republican,23221.0,80.3,True,True
@@ -947,7 +951,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Nebraska,NE,State Senate,23,general,Jared Storm,Republican,9569,54.86,True,False
 2024,Nebraska,NE,State Senate,23,general,Dennis Fujan,Republican,7873,45.14,False,False
 2024,Nebraska,NE,State Senate,25,general,Carolyn Bosn,Republican,12707,53.01,True,True
-2024,Nebraska,NE,State Senate,25,general,Nicki Behmer Popp,Independent Democratic,11264,46.99,False,False
+2024,Nebraska,NE,State Senate,25,general,Nicki Behmer Popp,Independent Democrat,11264,46.99,False,False
 2024,Nebraska,NE,State Senate,27,general,Jason Prokop,Democratic,7201,52.55,True,False
 2024,Nebraska,NE,State Senate,27,general,Dawn Liphardt,Republican,6502,47.45,False,False
 2024,Nebraska,NE,State Senate,29,general,Eliot Bostar,Democratic,14048,100.0,True,True
@@ -1387,54 +1391,54 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Ohio,OH,State Senate,33,general,Alessandro Cutrona,Republican,102711,60.91,True,True
 2024,Ohio,OH,State Senate,33,general,Marty Hume,Democratic,65914,39.09,False,False
 2024,Oklahoma,OK,State Senate,46,general,Mark Mann,Democratic,,60.0,True,False
-2024,Oklahoma,OK,State Senate,46,general,Charles Barton - 34%,Republican,,34.0,False,False
-2024,Oklahoma,OK,State Senate,46,general,David Pilchman - 5%,Independent,,5.0,False,False
+2024,Oklahoma,OK,State Senate,46,general,Charles Barton,Republican,,34.0,False,False
+2024,Oklahoma,OK,State Senate,46,general,David Pilchman,Independent,,5.0,False,False
 2024,Oklahoma,OK,State Senate,48,general,Nikki Nice,Democratic,,73.0,True,False
 2024,Oklahoma,OK,State Senate,48,general,Connie Johnson,Democratic,,27.0,False,False
 2024,Oklahoma,OK,State Senate,1,general,Micheal Bergstrom,Republican,,53.0,True,False
-2024,Oklahoma,OK,State Senate,1,general,Houston Brittain - 47%,Republican,,47.0,False,False
+2024,Oklahoma,OK,State Senate,1,general,Houston Brittain,Republican,,47.0,False,False
 2024,Oklahoma,OK,State Senate,3,general,Julie McIntosh,Republican,,78.7,True,False
-2024,Oklahoma,OK,State Senate,3,general,Margaret Cook - 21.3%,Independent,,21.3,False,False
+2024,Oklahoma,OK,State Senate,3,general,Margaret Cook,Independent,,21.3,False,False
 2024,Oklahoma,OK,State Senate,5,general,George Burns,Republican,,,True,False
 2024,Oklahoma,OK,State Senate,7,general,Warren Hamilton,Republican,,76.9,True,False
-2024,Oklahoma,OK,State Senate,7,general,Jerry L. Donathan - 23.1%,Democratic,,23.1,False,False
+2024,Oklahoma,OK,State Senate,7,general,Jerry L. Donathan,Democratic,,23.1,False,False
 2024,Oklahoma,OK,State Senate,9,general,Avery Frix,Republican,,,True,False
 2024,Oklahoma,OK,State Senate,11,general,Regina Goodwin,Democratic,,84.0,True,False
-2024,Oklahoma,OK,State Senate,11,general,Joe Williams - 16%,Democratic,,16.0,False,False
+2024,Oklahoma,OK,State Senate,11,general,Joe Williams,Democratic,,16.0,False,False
 2024,Oklahoma,OK,State Senate,13,general,Jonathan Wingard,Republican,,52.0,True,False
 2024,Oklahoma,OK,State Senate,13,general,Greg McCortney,Republican,,48.0,False,False
 2024,Oklahoma,OK,State Senate,15,general,Lisa Standridge,Republican,,61.7,True,False
-2024,Oklahoma,OK,State Senate,15,general,Elizabeth Forman - 38.3%,Democratic,,38.3,False,False
+2024,Oklahoma,OK,State Senate,15,general,Elizabeth Forman,Democratic,,38.3,False,False
 2024,Oklahoma,OK,State Senate,17,general,Shane Jett,Republican,,50.0,True,False
 2024,Oklahoma,OK,State Senate,17,general,Ron Sharp,Republican,,27.0,False,False
-2024,Oklahoma,OK,State Senate,17,general,Rachael Melot - 19%,Republican,,19.0,False,False
-2024,Oklahoma,OK,State Senate,17,general,Cody Swearingen - 4%,Republican,,4.0,False,False
+2024,Oklahoma,OK,State Senate,17,general,Rachael Melot,Republican,,19.0,False,False
+2024,Oklahoma,OK,State Senate,17,general,Cody Swearingen,Republican,,4.0,False,False
 2024,Oklahoma,OK,State Senate,19,general,Roland Pederson,Republican,,,True,False
 2024,Oklahoma,OK,State Senate,21,general,Randy Grellner,Republican,,64.6,True,False
-2024,Oklahoma,OK,State Senate,21,general,Robin Fuxa - 35.4%,Democratic,,35.4,False,False
+2024,Oklahoma,OK,State Senate,21,general,Robin Fuxa,Democratic,,35.4,False,False
 2024,Oklahoma,OK,State Senate,23,general,Lonnie Paxton,Republican,,,True,False
 2024,Oklahoma,OK,State Senate,25,general,Brian Guthrie,Republican,,67.2,True,False
 2024,Oklahoma,OK,State Senate,27,general,Casey Murdock,Republican,,52.0,True,False
-2024,Oklahoma,OK,State Senate,27,general,Cody Anderson - 48%,Republican,,48.0,False,False
+2024,Oklahoma,OK,State Senate,27,general,Cody Anderson,Republican,,48.0,False,False
 2024,Oklahoma,OK,State Senate,29,general,Julie Daniels,Republican,,55.0,True,False
 2024,Oklahoma,OK,State Senate,29,general,Wendi Stearman,Republican,,45.0,False,False
 2024,Oklahoma,OK,State Senate,31,general,Spencer Kern,Republican,,51.0,True,False
-2024,Oklahoma,OK,State Senate,31,general,Rick Wolfe - 32%,Republican,,32.0,False,False
-2024,Oklahoma,OK,State Senate,31,general,Pamala McNall-Granier - 17%,Republican,,17.0,False,False
+2024,Oklahoma,OK,State Senate,31,general,Rick Wolfe,Republican,,32.0,False,False
+2024,Oklahoma,OK,State Senate,31,general,Pamala McNall-Granier,Republican,,17.0,False,False
 2024,Oklahoma,OK,State Senate,33,general,Christi Gillespie,Republican,,67.2,True,False
-2024,Oklahoma,OK,State Senate,33,general,Bob Willis - 32.8%,Democratic,,32.8,False,False
+2024,Oklahoma,OK,State Senate,33,general,Bob Willis,Democratic,,32.8,False,False
 2024,Oklahoma,OK,State Senate,35,general,Jo Anna Dossett,Democratic,,59.2,True,False
-2024,Oklahoma,OK,State Senate,35,general,Dean Martin - 40.8%,Republican,,40.8,False,False
+2024,Oklahoma,OK,State Senate,35,general,Dean Martin,Republican,,40.8,False,False
 2024,Oklahoma,OK,State Senate,37,general,Aaron Reinhardt,Republican,,69.6,True,False
-2024,Oklahoma,OK,State Senate,37,general,Andrew Nutter - 30.4%,Independent,,30.4,False,False
+2024,Oklahoma,OK,State Senate,37,general,Andrew Nutter,Independent,,30.4,False,False
 2024,Oklahoma,OK,State Senate,39,general,David Rader,Republican,,56.3,True,False
-2024,Oklahoma,OK,State Senate,39,general,Melissa Bryce - 43.7%,Democratic,,43.7,False,False
+2024,Oklahoma,OK,State Senate,39,general,Melissa Bryce,Democratic,,43.7,False,False
 2024,Oklahoma,OK,State Senate,41,general,Adam Pugh,Republican,,,True,False
 2024,Oklahoma,OK,State Senate,43,general,Kendal Sacchieri,Republican,,80.5,True,False
-2024,Oklahoma,OK,State Senate,43,general,Sam Graefe - 19.5%,Independent,,19.5,False,False
+2024,Oklahoma,OK,State Senate,43,general,Sam Graefe,Independent,,19.5,False,False
 2024,Oklahoma,OK,State Senate,45,general,Paul Rosino,Republican,,,True,False
 2024,Oklahoma,OK,State Senate,47,general,Kelly E. Hines,Republican,,52.9,True,False
-2024,Oklahoma,OK,State Senate,47,general,Erin Brewer - 47.1%,Democratic,,47.1,False,False
+2024,Oklahoma,OK,State Senate,47,general,Erin Brewer,Democratic,,47.1,False,False
 2024,Oregon,OR,State Senate,1,general,David Brock Smith,Republican,54925,70.8,True,True
 2024,Oregon,OR,State Senate,1,general,Lupe Preciado-McAlister,Democratic,22417,28.9,False,False
 2024,Oregon,OR,State Senate,2,general,Noah Robinson,Republican,50872,66.9,True,False
@@ -1639,6 +1643,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,South Carolina,SC,State Senate,44,general,Vicky Wynn,Democratic,19566,39.4,False,False
 2024,South Carolina,SC,State Senate,46,general,Tom Davis,Republican,47989,67.3,True,True
 2024,South Carolina,SC,State Senate,46,general,Gwyneth Saunders,Democratic,23280,32.65,False,False
+2024,South Carolina,SC,State Senate,45,general,Democratic hold,Democratic,,,True,False
 2024,South Dakota,SD,State Senate,1,general,Michael H. Rohl,Republican,8449,100.0,True,True
 2024,South Dakota,SD,State Senate,2,general,Steve Kolbeck,Republican,10337,100.0,True,True
 2024,South Dakota,SD,State Senate,3,general,Carl E. Perry,Republican,6900,100.0,True,False
@@ -1749,7 +1754,7 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2024,Texas,TX,State Senate,25,general,Merrie Fox,Democratic,184312,36.43,False,False
 2024,Texas,TX,State Senate,27,general,Adam Hinojosa,Republican,126073,49.38,True,False
 2024,Texas,TX,State Senate,27,general,Morgan LaMantia,Democratic,123305,48.29,False,True
-2024,Texas,TX,State Senate,27,general,Hunter Crow,Green,5956,2.33,False,False
+2024,Texas,TX,State Senate,27,general,Robin Lee Vargas,Green,5956,2.33,False,False
 2024,Texas,TX,State Senate,29,general,Cesar Blanco,Democratic,174731,100.0,True,True
 2024,Texas,TX,State Senate,30,general,Brent Hagenbuch,Republican,289981,65.03,True,False
 2024,Texas,TX,State Senate,30,general,Dale Frey,Democratic,155949,34.97,False,False

@@ -61432,13 +61432,20 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2025,house,Virginia,VA,11,151180,James Walkinshaw,Democratic,113596,75.14,True,False,True
 2025,house,Virginia,VA,11,151180,Stewart Whitson,Republican,37297,24.67,False,False,True
 2025,house,Virginia,VA,11,151180,,,287,0.19,False,False,True
-2026,house,Alabama,AL,1,231965,Jerry Carl,Republican,137025,100.0,True,False,True
-2026,house,Alabama,AL,2,231471,Shomari Figures,Democratic,124422,100.0,True,False,False
-2026,house,Alabama,AL,3,221726,Mike Rogers,Republican,141800,100.0,True,False,False
-2026,house,Alabama,AL,4,213641,Robert Aderholt,Republican,160008,100.0,True,False,False
-2026,house,Alabama,AL,5,266843,Dale Strong,Republican,152080,100.0,True,False,False
-2026,house,Alabama,AL,6,260878,Gary Palmer,Republican,149921,100.0,True,False,False
-2026,house,Alabama,AL,7,251908,Terri Sewell,Democratic,174823,100.0,True,False,False
+2026,house,Alabama,AL,1,231965,Clyde Jones Jr.,Democratic,,41.0,False,False,True
+2026,house,Alabama,AL,1,231965,Jerry Carl,Republican,137025,58.9,True,False,True
+2026,house,Alabama,AL,2,231471,Rhett Marques,Republican,107049,46.1,False,False,False
+2026,house,Alabama,AL,2,231471,Shomari Figures,Democratic,124422,53.7,True,False,False
+2026,house,Alabama,AL,3,221726,Lee McInnis,Democratic,79926,36.0,False,False,False
+2026,house,Alabama,AL,3,221726,Mike Rogers,Republican,141800,63.8,True,False,False
+2026,house,Alabama,AL,4,213641,Amanda Pusczek,Democratic,53633,25.1,False,False,False
+2026,house,Alabama,AL,4,213641,Robert Aderholt,Republican,160008,74.8,True,False,False
+2026,house,Alabama,AL,5,266843,Andrew Sneed,Democratic,124763,46.8,False,False,False
+2026,house,Alabama,AL,5,266843,Dale Strong,Republican,152080,53.1,True,False,False
+2026,house,Alabama,AL,6,260878,Gary Palmer,Republican,149921,57.4,True,False,False
+2026,house,Alabama,AL,6,260878,Maurice Mercer,Democratic,110957,42.5,False,False,False
+2026,house,Alabama,AL,7,251908,Ammie Akin,Republican,77085,30.5,False,False,False
+2026,house,Alabama,AL,7,251908,Terri Sewell,Democratic,174823,69.5,True,False,False
 2026,house,Alaska,AK,AL,,Bill Hill,Independent,,41.8,False,False,False
 2026,house,Alaska,AK,AL,,Bill Hill,Independent,,48.6,False,False,False
 2026,house,Alaska,AK,AL,,Eric Hafner,Democratic,,7.9,False,False,False
@@ -61450,15 +61457,30 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,American Samoa,AS,AL,6948,Meleagi Suitonu-Chapman,Independent,108,1.6,False,False,False
 2026,house,American Samoa,AS,AL,6948,Sandra King-Young,Democratic,2169,31.2,False,False,False
 2026,house,American Samoa,AS,AL,6948,Tuifagaloa Afu Lefaoseu III,Independent,,4.5,False,False,False
-2026,house,Arizona,AZ,1,,Amish Shah,Democratic,,100.0,True,False,True
-2026,house,Arizona,AZ,2,,Eli Crane,Republican,,100.0,True,False,False
-2026,house,Arizona,AZ,3,,Yassamin Ansari,Democratic,,100.0,True,False,False
-2026,house,Arizona,AZ,4,,Greg Stanton,Democratic,,100.0,True,False,False
-2026,house,Arizona,AZ,5,,Mark Lamb,Republican,,100.0,True,False,True
-2026,house,Arizona,AZ,6,,JoAnna Mendoza,Democratic,,100.0,True,False,False
-2026,house,Arizona,AZ,7,,Adelita Grijalva,Democratic,,100.0,True,False,False
-2026,house,Arizona,AZ,8,,Abraham Hamadeh,Republican,,100.0,True,False,False
-2026,house,Arizona,AZ,9,,Paul Gosar,Republican,,100.0,True,False,False
+2026,house,Arizona,AZ,1,,Amish Shah,Democratic,,52.4,True,False,True
+2026,house,Arizona,AZ,1,,Jay Feely,Republican,,45.4,False,False,True
+2026,house,Arizona,AZ,1,,Monica Alponte,Libertarian,,2.2,False,False,True
+2026,house,Arizona,AZ,2,,Curtis Goodwin,Libertarian,,1.8,False,False,False
+2026,house,Arizona,AZ,2,,Eli Crane,Republican,,49.6,True,False,False
+2026,house,Arizona,AZ,2,,Jonathan Nez,Democratic,,48.6,False,False,False
+2026,house,Arizona,AZ,3,,Alan Aversa,No Labels,,6.1,False,False,False
+2026,house,Arizona,AZ,3,,David Redkey,Green,,5.2,False,False,False
+2026,house,Arizona,AZ,3,,Yassamin Ansari,Democratic,,87.4,True,False,False
+2026,house,Arizona,AZ,4,,Greg Stanton,Democratic,,62.4,True,False,False
+2026,house,Arizona,AZ,4,,Tisha Benoit,No Labels,,2.3,False,False,False
+2026,house,Arizona,AZ,4,,Zuhdi Jasser,Republican,,35.2,False,False,False
+2026,house,Arizona,AZ,5,,Elizabeth Lee,Democratic,,48.3,False,False,True
+2026,house,Arizona,AZ,5,,Mark Lamb,Republican,,51.7,True,False,True
+2026,house,Arizona,AZ,6,,Gary Swing,Green,,0.9,False,False,False
+2026,house,Arizona,AZ,6,,Jereme Peters,Libertarian,,1.3,False,False,False
+2026,house,Arizona,AZ,6,,JoAnna Mendoza,Democratic,,53.0,True,False,False
+2026,house,Arizona,AZ,6,,Juan Ciscomani,Republican,,44.9,False,False,False
+2026,house,Arizona,AZ,7,,Adelita Grijalva,Democratic,,72.0,True,False,False
+2026,house,Arizona,AZ,7,,Daniel Butierez,Republican,,28.0,False,False,False
+2026,house,Arizona,AZ,8,,Abraham Hamadeh,Republican,,51.2,True,False,False
+2026,house,Arizona,AZ,8,,Bernadette Greene-Placentia,Democratic,,48.8,False,False,False
+2026,house,Arizona,AZ,9,,Dani Sterbinsky,Democratic,,42.5,False,False,False
+2026,house,Arizona,AZ,9,,Paul Gosar,Republican,,57.5,True,False,False
 2026,house,Arkansas,AR,1,194194,Rick Crawford,Republican,127100,65.4,True,False,False
 2026,house,Arkansas,AR,1,194194,Steve Parsons,Libertarian,6944,3.6,False,False,False
 2026,house,Arkansas,AR,1,194194,Terri Green,Democratic,,31.0,False,False,False
@@ -61521,7 +61543,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,California,CA,7,,Doris Matsui,Democratic,,100.0,True,False,False
 2026,house,California,CA,8,,John Garamendi,Democratic,,100.0,True,False,False
 2026,house,California,CA,9,,Josh Harder,Democratic,,100.0,True,False,False
-2026,house,Colorado,CO,1,,Melat Kiros,Democratic,,100.0,True,False,False
+2026,house,Colorado,CO,1,305110,Melat Kiros,Democratic,239082,100.0,True,False,False
 2026,house,Colorado,CO,2,366709,Joe Neguse,Democratic,273365,100.0,True,False,False
 2026,house,Colorado,CO,3,321477,Jeff Hurd,Republican,163817,100.0,True,False,False
 2026,house,Colorado,CO,4,,Eileen Laubacher,Democratic,,100.0,True,False,False
@@ -61529,11 +61551,19 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Colorado,CO,6,,Jason Crow,Democratic,,100.0,True,False,False
 2026,house,Colorado,CO,7,,Brittany Pettersen,Democratic,,100.0,True,False,False
 2026,house,Colorado,CO,8,,Manny Rutinel,Democratic,,100.0,True,False,False
-2026,house,Connecticut,CT,1,253392,Luke Bronin,Democratic,170479,100.0,True,False,False
-2026,house,Connecticut,CT,2,292064,Joe Courtney,Democratic,182381,100.0,True,False,False
-2026,house,Connecticut,CT,3,247131,Rosa DeLauro,Democratic,151261,100.0,True,False,False
-2026,house,Connecticut,CT,4,240138,Jim Himes,Democratic,157485,100.0,True,False,False
-2026,house,Connecticut,CT,5,253066,Jahana Hayes,Democratic,146353,100.0,True,False,False
+2026,house,Connecticut,CT,1,253392,Amy Chai,Republican,78461,31.0,False,False,False
+2026,house,Connecticut,CT,1,253392,Luke Bronin,Democratic,170479,67.3,True,False,False
+2026,house,Connecticut,CT,1,253392,Mary Sanders,Green,,1.8,False,False,False
+2026,house,Connecticut,CT,2,292064,George Austin,Republican,109653,37.6,False,False,False
+2026,house,Connecticut,CT,2,292064,Joe Courtney,Democratic,182381,62.3,True,False,False
+2026,house,Connecticut,CT,3,247131,Chris Lancia,Republican,,35.6,False,False,False
+2026,house,Connecticut,CT,3,247131,Rosa DeLauro,Democratic,151261,61.2,True,False,False
+2026,house,Connecticut,CT,3,247131,Thomas Egan,Independent,7322,3.0,False,False,False
+2026,house,Connecticut,CT,4,240138,Benjamin Wesley,Independent Party of Connecticut,4594,2.0,False,False,False
+2026,house,Connecticut,CT,4,240138,Jim Himes,Democratic,157485,65.6,True,False,False
+2026,house,Connecticut,CT,4,240138,Michael Goldstein,Republican,78059,32.5,False,False,False
+2026,house,Connecticut,CT,5,253097,Chris Shea,Republican,106670,42.2,False,False,False
+2026,house,Connecticut,CT,5,253097,Jahana Hayes,Democratic,146365,57.9,True,False,False
 2026,house,Delaware,DE,AL,,Joseph Arminio,Republican,,35.6,False,False,False
 2026,house,Delaware,DE,AL,,Sarah McBride,Democratic,,64.3,True,False,False
 2026,house,District of Columbia,DC,AL,,Denise Rosado,Republican,,6.3,False,False,True
@@ -61571,9 +61601,9 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Florida,FL,19,,Victor Arias,Democratic,,37.7,False,False,True
 2026,house,Florida,FL,2,309363,Amanda Green,Democratic,148215,47.9,False,False,True
 2026,house,Florida,FL,2,309363,Austin Rogers,Republican,161148,52.1,True,False,True
-2026,house,Florida,FL,20,,Brent Andersen,Republican,,21.7,False,False,True
-2026,house,Florida,FL,20,,Debbie Wasserman Schultz,Democratic,,74.4,True,False,True
-2026,house,Florida,FL,20,,Kedner Maxime,Independent Party of Florida,,3.9,False,False,True
+2026,house,Florida,FL,20,245754,Brent Andersen,Republican,53403,21.7,False,False,True
+2026,house,Florida,FL,20,245754,Debbie Wasserman Schultz,Democratic,182752,74.4,True,False,True
+2026,house,Florida,FL,20,245754,Kedner Maxime,Independent Party of Florida,9599,3.9,False,False,True
 2026,house,Florida,FL,21,,Alexander Cooke,Independent,,1.3,False,False,False
 2026,house,Florida,FL,21,,Brian Mast,Republican,,53.9,True,False,False
 2026,house,Florida,FL,21,,James Martin,Democratic,,44.8,False,False,False
@@ -61591,7 +61621,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Florida,FL,26,,Nicole Locklin,Democratic,,49.1,False,False,False
 2026,house,Florida,FL,27,,Eliott Rodriguez,Democratic,,49.8,False,False,False
 2026,house,Florida,FL,27,,María Elvira Salazar,Republican,,50.2,True,False,False
-2026,house,Florida,FL,28,,Carlos A. Giménez,Republican,,52.9,True,False,False
+2026,house,Florida,FL,28,,Carlos A. Gimenez,Republican,,52.9,True,False,False
 2026,house,Florida,FL,28,,Eddy Rojas,Independent,,1.5,False,False,False
 2026,house,Florida,FL,28,,Phil Ehr,Democratic,,45.7,False,False,False
 2026,house,Florida,FL,3,300411,Kat Cammack,Republican,165655,55.1,True,False,False
@@ -61606,9 +61636,9 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Florida,FL,6,,Andrew Parrott,Libertarian,,1.1,False,False,False
 2026,house,Florida,FL,6,,Eric Yonce,Democratic,,39.9,False,False,False
 2026,house,Florida,FL,6,,Randy Fine,Republican,,58.9,True,False,False
-2026,house,Florida,FL,7,324454,Bale Dalton,Democratic,159669,49.2,False,False,False
-2026,house,Florida,FL,7,324454,Christopher Dennison,Libertarian,3485,1.1,False,False,False
-2026,house,Florida,FL,7,324454,Ryan Elijah,Republican,161300,49.7,True,False,False
+2026,house,Florida,FL,7,324478,Bale Dalton,Democratic,159689,49.2,False,False,False
+2026,house,Florida,FL,7,324478,Christopher Dennison,Libertarian,3486,1.1,False,False,False
+2026,house,Florida,FL,7,324478,Ryan Elijah,Republican,161303,49.7,True,False,False
 2026,house,Florida,FL,8,,Jennifer Jenkins,Democratic,,46.8,False,False,False
 2026,house,Florida,FL,8,,Mike Haridopolos,Republican,,53.2,True,False,False
 2026,house,Florida,FL,9,,Dan Green,Republican,,49.7,False,False,False
@@ -61684,10 +61714,17 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Indiana,IN,7,206871,André Carson,Democratic,159211,100.0,True,False,False
 2026,house,Indiana,IN,8,212984,Mark Messmer,Republican,117667,100.0,True,False,False
 2026,house,Indiana,IN,9,226336,Erin Houchin,Republican,122326,100.0,True,False,False
-2026,house,Iowa,IA,1,347726,Christina Bohannan,Democratic,184144,100.0,True,False,False
-2026,house,Iowa,IA,2,346359,Lindsay James,Democratic,171604,100.0,True,False,True
-2026,house,Iowa,IA,3,353122,Sarah Trone Garriott,Democratic,189435,100.0,True,False,False
-2026,house,Iowa,IA,4,303087,Chris McGowan,Republican,178959,100.0,True,False,True
+2026,house,Iowa,IA,1,347726,Christina Bohannan,Democratic,184144,53.0,True,False,False
+2026,house,Iowa,IA,1,347726,Mariannette Miller-Meeks,Republican,150926,43.4,False,False,False
+2026,house,Iowa,IA,1,347726,Michael Bridgford,Independent,12656,3.6,False,False,False
+2026,house,Iowa,IA,2,346359,Dave Bushaw,Independent,7477,2.2,False,False,True
+2026,house,Iowa,IA,2,346359,Joe Mitchell,Republican,157773,45.5,False,False,True
+2026,house,Iowa,IA,2,346359,Lindsay James,Democratic,171604,49.5,True,False,True
+2026,house,Iowa,IA,2,346359,Rick Stewart,Libertarian,9505,2.7,False,False,True
+2026,house,Iowa,IA,3,353122,Sarah Trone Garriott,Democratic,189435,53.5,True,False,False
+2026,house,Iowa,IA,3,353122,Zach Nunn,Republican,163687,46.2,False,False,False
+2026,house,Iowa,IA,4,303087,Chris McGowan,Republican,178959,59.0,True,False,True
+2026,house,Iowa,IA,4,303087,David Dawson,Democratic,,40.9,False,False,True
 2026,house,Kansas,KS,1,256411,Lauren Reinhold,Democratic,97628,38.1,False,False,False
 2026,house,Kansas,KS,1,256411,Steven Jacob,Libertarian,6978,2.7,False,False,False
 2026,house,Kansas,KS,1,256411,Tracey Mann,Republican,151805,59.2,True,False,False
@@ -61766,7 +61803,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Maryland,MD,3,313067,Berney Flowers,Republican,100088,32.0,False,False,False
 2026,house,Maryland,MD,3,313067,Sarah Elfreth,Democratic,212087,67.7,True,False,False
 2026,house,Maryland,MD,4,,Glenn Ivey,Democratic,,100.0,True,False,False
-2026,house,Maryland,MD,5,,Adrian Boafo,Democratic,,100.0,True,False,False
+2026,house,Maryland,MD,5,,Adrian Boafo,Democratic,,100.0,True,False,True
 2026,house,Maryland,MD,6,278186,April McClain Delaney,Democratic,165031,59.3,True,False,False
 2026,house,Maryland,MD,6,278186,Moshe Landman,Green,7786,2.8,False,False,False
 2026,house,Maryland,MD,6,278186,Robin Ficker,Republican,104682,37.6,False,False,False
@@ -61790,26 +61827,83 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Massachusetts,MA,8,,Stephen Lynch,Democratic,,69.7,True,False,False
 2026,house,Massachusetts,MA,9,,Bill Keating,Democratic,,60.9,True,False,False
 2026,house,Massachusetts,MA,9,,Tyler MacAllister,Republican,,39.0,False,False,False
-2026,house,Michigan,MI,1,404944,Jack Bergman,Republican,217741,100.0,True,False,False
-2026,house,Michigan,MI,10,358835,Christina Hines,Democratic,188207,100.0,True,False,True
-2026,house,Michigan,MI,11,392559,Jeremy Moss,Democratic,238953,100.0,True,False,True
-2026,house,Michigan,MI,12,325745,Rashida Tlaib,Democratic,247468,100.0,True,False,False
-2026,house,Michigan,MI,13,274923,Donavan McKinney,Democratic,210380,100.0,True,False,False
-2026,house,Michigan,MI,2,359014,John Moolenaar,Republican,220696,100.0,True,False,False
-2026,house,Michigan,MI,3,369388,Hillary Scholten,Democratic,211664,100.0,True,False,False
-2026,house,Michigan,MI,4,367778,Sean McCann,Democratic,184338,100.0,True,False,False
-2026,house,Michigan,MI,5,337486,Tim Walberg,Republican,199538,100.0,True,False,False
-2026,house,Michigan,MI,6,407452,Debbie Dingell,Democratic,274871,100.0,True,False,False
-2026,house,Michigan,MI,7,397273,William Lawrence,Democratic,202800,100.0,True,False,False
-2026,house,Michigan,MI,8,352927,Kristen McDonald Rivet,Democratic,195946,100.0,True,False,False
-2026,house,Michigan,MI,9,395697,Lisa McClain,Republican,247845,100.0,True,False,False
-2026,house,Minnesota,MN,2,375226,Matt Little,DFL,214255,100.0,True,False,False
-2026,house,Minnesota,MN,3,377997,Kelly Morrison,DFL,242079,100.0,True,False,False
-2026,house,Minnesota,MN,4,336274,Betty McCollum,DFL,245699,100.0,True,False,False
-2026,house,Minnesota,MN,5,343508,Ilhan Omar,DFL,262702,100.0,True,False,False
-2026,house,Minnesota,MN,6,,Tom Emmer,Republican,,100.0,True,False,False
-2026,house,Minnesota,MN,7,330628,Michelle Fischbach,Republican,214503,100.0,True,False,False
-2026,house,Minnesota,MN,8,359453,Pete Stauber,Republican,190744,100.0,True,False,False
+2026,house,Michigan,MI,1,404944,Arnett Satterla,Libertarian,2765,0.7,False,False,False
+2026,house,Michigan,MI,1,404944,Callie Barr,Democratic,179114,44.2,False,False,False
+2026,house,Michigan,MI,1,404944,Doc Kovaly,Constitution,1232,0.3,False,False,False
+2026,house,Michigan,MI,1,404944,Jack Bergman,Republican,217741,53.8,True,False,False
+2026,house,Michigan,MI,1,404944,LaVeta Davenport,Green,777,0.2,False,False,False
+2026,house,Michigan,MI,1,404944,Liz Hakola,Working Class,2391,0.6,False,False,False
+2026,house,Michigan,MI,1,404944,Zebulon Featherly,Independent,924,0.2,False,False,False
+2026,house,Michigan,MI,10,358835,Andrea Kirby,Working Class,3984,1.1,False,False,True
+2026,house,Michigan,MI,10,358835,Christina Hines,Democratic,188207,52.5,True,False,True
+2026,house,Michigan,MI,10,358835,Kwabena Nkromo,Green,1175,0.3,False,False,True
+2026,house,Michigan,MI,10,358835,Mike Bouchard Jr.,Republican,,45.3,False,False,True
+2026,house,Michigan,MI,10,358835,Mike Saliba,Libertarian,3089,0.9,False,False,True
+2026,house,Michigan,MI,11,392559,Anil Kumar,Independent,3183,0.8,False,False,True
+2026,house,Michigan,MI,11,392559,Ethan Baker,Republican,144570,36.8,False,False,True
+2026,house,Michigan,MI,11,392559,Farid Ishac,Libertarian,2947,0.8,False,False,True
+2026,house,Michigan,MI,11,392559,Jeremy Moss,Democratic,238953,60.9,True,False,True
+2026,house,Michigan,MI,11,392559,Ryan Teasdale,Green,2906,0.7,False,False,True
+2026,house,Michigan,MI,12,325745,Brenda Sanders,Green,,1.0,False,False,False
+2026,house,Michigan,MI,12,325745,Gary Walkowicz,Working Class,3782,1.2,False,False,False
+2026,house,Michigan,MI,12,325745,James Hooper,Republican,69133,21.2,False,False,False
+2026,house,Michigan,MI,12,325745,Marc Sosnowski,Constitution,2044,0.6,False,False,False
+2026,house,Michigan,MI,12,325745,Rashida Tlaib,Democratic,247682,76.0,True,False,False
+2026,house,Michigan,MI,13,274923,Chris Dardzinski,Constitution,2670,1.0,False,False,False
+2026,house,Michigan,MI,13,274923,Donavan McKinney,Democratic,210380,76.5,True,False,False
+2026,house,Michigan,MI,13,274923,Raelyn Light,Green,1554,0.6,False,False,False
+2026,house,Michigan,MI,13,274923,Simone Coleman,Working Class,5760,2.1,False,False,False
+2026,house,Michigan,MI,13,274923,T.&nbsp;P. Nykoriak,Republican,,19.8,False,False,False
+2026,house,Michigan,MI,2,359014,Ben Ambrose,Democratic,,37.0,False,False,False
+2026,house,Michigan,MI,2,359014,Charlotte Magoon,Green,3859,1.1,False,False,False
+2026,house,Michigan,MI,2,359014,John Moolenaar,Republican,220696,61.5,True,False,False
+2026,house,Michigan,MI,2,359014,Richard Sills,Natural Law,1764,0.5,False,False,False
+2026,house,Michigan,MI,3,369388,Hillary Scholten,Democratic,211664,57.2,True,False,False
+2026,house,Michigan,MI,3,369388,Joe Jock,Green,5344,1.4,False,False,False
+2026,house,Michigan,MI,3,369388,Terri DeBoer,Republican,153247,41.4,False,False,False
+2026,house,Michigan,MI,4,367778,Bill Huizenga,Republican,177785,48.3,False,False,False
+2026,house,Michigan,MI,4,367778,Sean McCann,Democratic,184338,50.1,True,False,False
+2026,house,Michigan,MI,4,367778,Shafina Che Barnett,Green,5655,1.5,False,False,False
+2026,house,Michigan,MI,5,337486,Christian Vukasovich,Democratic,130126,38.6,False,False,False
+2026,house,Michigan,MI,5,337486,Jim Bronke,Green,1232,0.4,False,False,False
+2026,house,Michigan,MI,5,337486,Ronald Muszynski,Libertarian,3464,1.0,False,False,False
+2026,house,Michigan,MI,5,337486,Sharon Renier,Constitution,,1.0,False,False,False
+2026,house,Michigan,MI,5,337486,Tim Walberg,Republican,199538,59.1,True,False,False
+2026,house,Michigan,MI,6,407452,Clyde Shabazz,Green,2197,0.5,False,False,False
+2026,house,Michigan,MI,6,407452,Debbie Dingell,Democratic,274871,67.5,True,False,False
+2026,house,Michigan,MI,6,407452,Heather Smiley,Republican,123438,30.3,False,False,False
+2026,house,Michigan,MI,6,407452,Linda Rayburn,Working Class,3021,0.7,False,False,False
+2026,house,Michigan,MI,6,407452,Michael Mickevicius,Constitution,,0.3,False,False,False
+2026,house,Michigan,MI,6,407452,Timothy Tegan,Libertarian,,0.7,False,False,False
+2026,house,Michigan,MI,7,397273,Shane Dedrick,Green,4973,1.3,False,False,False
+2026,house,Michigan,MI,7,397273,Tom Barrett,Republican,189500,47.7,False,False,False
+2026,house,Michigan,MI,7,397273,William Lawrence,Democratic,202800,51.1,True,False,False
+2026,house,Michigan,MI,8,352927,Jim Casha,Green,1044,0.3,False,False,False
+2026,house,Michigan,MI,8,352927,Kathy Goodwin,Working Class,5172,1.5,False,False,False
+2026,house,Michigan,MI,8,352927,Kristen McDonald Rivet,Democratic,195946,55.5,True,False,False
+2026,house,Michigan,MI,8,352927,Mia Pettus,Libertarian,,0.8,False,False,False
+2026,house,Michigan,MI,8,352927,Thomas Smith,Republican,147908,41.9,False,False,False
+2026,house,Michigan,MI,9,395697,Destiny Clayton,Green,1377,0.4,False,False,False
+2026,house,Michigan,MI,9,395697,Jim Walkowicz,Working Class,4088,1.0,False,False,False
+2026,house,Michigan,MI,9,395697,John Vlahos,Constitution,1580,0.4,False,False,False
+2026,house,Michigan,MI,9,395697,Kevin Vayko,Libertarian,3458,0.9,False,False,False
+2026,house,Michigan,MI,9,395697,Lisa McClain,Republican,247845,62.6,True,False,False
+2026,house,Michigan,MI,9,395697,Ray Pooley,Democratic,137349,34.7,False,False,False
+2026,house,Minnesota,MN,2,375226,Eric Pratt,Republican,160636,42.8,False,False,True
+2026,house,Minnesota,MN,2,375226,Matt Little,DFL,214255,57.1,True,False,True
+2026,house,Minnesota,MN,3,377997,Kelly Morrison,DFL,242079,64.0,True,False,False
+2026,house,Minnesota,MN,3,377997,Tyler Bass,Republican,135505,35.8,False,False,False
+2026,house,Minnesota,MN,4,336274,Betty McCollum,DFL,245699,73.1,True,False,False
+2026,house,Minnesota,MN,4,336274,Paul Wikstrom,Republican,90068,26.8,False,False,False
+2026,house,Minnesota,MN,5,343508,DeVelle Jackson,Independent,,7.0,False,False,False
+2026,house,Minnesota,MN,5,343508,Ilhan Omar,DFL,262702,76.5,True,False,False
+2026,house,Minnesota,MN,5,343508,John Nagel,Republican,,16.2,False,False,False
+2026,house,Minnesota,MN,6,,Doug Chapin,DFL,,44.2,False,False,False
+2026,house,Minnesota,MN,6,,Tom Emmer,Republican,,55.7,True,False,False
+2026,house,Minnesota,MN,7,330628,Erik Osberg,DFL,115805,35.0,False,False,False
+2026,house,Minnesota,MN,7,330628,Michelle Fischbach,Republican,214503,64.9,True,False,False
+2026,house,Minnesota,MN,8,359453,Pete Stauber,Republican,190744,53.0,True,False,False
+2026,house,Minnesota,MN,8,359453,Trina Swanson,DFL,168350,46.9,False,False,False
 2026,house,Mississippi,MS,1,243938,Trent Kelly,Republican,141401,100.0,True,False,False
 2026,house,Mississippi,MS,2,248993,Bennie Thompson,Democratic,169048,100.0,True,False,False
 2026,house,Mississippi,MS,3,257170,Michael Guest,Republican,147295,100.0,True,False,False
@@ -61831,8 +61925,11 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Nevada,NV,2,324866,Teresa Benitez-Thompson,Democratic,,100.0,True,False,True
 2026,house,Nevada,NV,3,272539,Susie Lee,Democratic,162520,100.0,True,False,False
 2026,house,Nevada,NV,4,253675,Steven Horsford,Democratic,153396,100.0,True,False,False
-2026,house,New Hampshire,NH,1,,Stefany Shaheen,Democratic,,100.0,True,False,True
-2026,house,New Hampshire,NH,2,,Maggie Goodlander,Democratic,,100.0,True,False,False
+2026,house,New Hampshire,NH,1,,Anthony DiLorenzo,Republican,,42.9,False,False,True
+2026,house,New Hampshire,NH,1,,Stefany Shaheen,Democratic,,56.9,True,False,True
+2026,house,New Hampshire,NH,2,,Lily Tang Williams,Republican,,38.8,False,False,False
+2026,house,New Hampshire,NH,2,,Maggie Goodlander,Democratic,,58.8,True,False,False
+2026,house,New Hampshire,NH,2,,Robbie Mahrou,Independent,,2.4,False,False,False
 2026,house,New Jersey,NJ,1,,Donald Norcross,Democratic,,100.0,True,False,False
 2026,house,New Jersey,NJ,10,,LaMonica McIver,Democratic,,100.0,True,False,False
 2026,house,New Jersey,NJ,11,,Analilia Mejia,Democratic,,100.0,True,False,False
@@ -61845,9 +61942,12 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,New Jersey,NJ,7,336263,Rebecca Bennett,Democratic,193473,100.0,True,False,False
 2026,house,New Jersey,NJ,8,126543,Rob Menendez,Democratic,112079,100.0,True,False,False
 2026,house,New Jersey,NJ,9,,Nellie Pou,Democratic,,100.0,True,False,False
-2026,house,New Mexico,NM,1,,Melanie Stansbury,Democratic,,100.0,True,False,False
-2026,house,New Mexico,NM,2,,Gabe Vasquez,Democratic,,100.0,True,False,False
-2026,house,New Mexico,NM,3,,Teresa Leger Fernández,Democratic,,100.0,True,False,False
+2026,house,New Mexico,NM,1,,Didi Okpareke,Republican,,36.4,False,False,False
+2026,house,New Mexico,NM,1,,Melanie Stansbury,Democratic,,63.6,True,False,False
+2026,house,New Mexico,NM,2,,Gabe Vasquez,Democratic,,58.8,True,False,False
+2026,house,New Mexico,NM,2,,Greg Cunningham,Republican,,41.2,False,False,False
+2026,house,New Mexico,NM,3,,Martin Zamora,Republican,,38.3,False,False,False
+2026,house,New Mexico,NM,3,,Teresa Leger Fernández,Democratic,,61.7,True,False,False
 2026,house,New York,NY,1,,Nick LaLota,Republican,,100.0,True,False,False
 2026,house,New York,NY,10,,Brad Lander,Democratic,,100.0,True,False,False
 2026,house,New York,NY,11,,Nicole Malliotakis,Republican,,100.0,True,False,False
@@ -61874,19 +61974,44 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,New York,NY,7,,Claire Valdez,Democratic,,100.0,True,False,True
 2026,house,New York,NY,8,,Hakeem Jeffries,Democratic,,100.0,True,False,False
 2026,house,New York,NY,9,,Yvette Clarke,Democratic,,100.0,True,False,False
-2026,house,North Carolina,NC,1,314130,Don Davis,Democratic,157490,100.0,True,False,False
-2026,house,North Carolina,NC,10,295373,Pat Harrigan,Republican,146589,100.0,True,False,False
-2026,house,North Carolina,NC,11,343505,Jamie Ager,Democratic,196251,100.0,True,False,False
-2026,house,North Carolina,NC,12,271792,Alma Adams,Democratic,220770,100.0,True,False,False
-2026,house,North Carolina,NC,13,318235,Paul Barringer,Democratic,160860,100.0,True,False,False
-2026,house,North Carolina,NC,14,289273,LaKesha Womack,Democratic,147920,100.0,True,False,False
-2026,house,North Carolina,NC,2,328256,Deborah Ross,Democratic,246446,100.0,True,False,False
-2026,house,North Carolina,NC,3,239614,Raymond Smith Jr.,Democratic,118434,100.0,True,False,False
-2026,house,North Carolina,NC,4,359571,Valerie Foushee,Democratic,284548,100.0,True,False,False
-2026,house,North Carolina,NC,6,274810,Cyril Jefferson,Democratic,140707,100.0,True,False,False
-2026,house,North Carolina,NC,7,322266,David Rouzer,Republican,160702,100.0,True,False,False
-2026,house,North Carolina,NC,8,293251,Mark Harris,Republican,147683,100.0,True,False,False
-2026,house,North Carolina,NC,9,272652,Richard Ojeda,Democratic,139456,100.0,True,False,False
+2026,house,North Carolina,NC,1,314111,Don Davis,Democratic,157483,50.1,True,False,False
+2026,house,North Carolina,NC,1,314111,Laurie Buckhout,Republican,146684,46.7,False,False,False
+2026,house,North Carolina,NC,1,314111,Tom Bailey,Libertarian,9944,3.2,False,False,False
+2026,house,North Carolina,NC,10,295373,Ashley Bell,Democratic,144073,48.8,False,False,False
+2026,house,North Carolina,NC,10,295373,Pat Harrigan,Republican,146589,49.6,True,False,False
+2026,house,North Carolina,NC,10,295373,Steve Feldman,Libertarian,4711,1.6,False,False,False
+2026,house,North Carolina,NC,11,343505,Jamie Ager,Democratic,196251,57.1,True,False,False
+2026,house,North Carolina,NC,11,343505,Jennifer Balkcom,Republican,141885,41.3,False,False,False
+2026,house,North Carolina,NC,11,343505,Travis Groo,Libertarian,5369,1.6,False,False,False
+2026,house,North Carolina,NC,12,271792,Alma Adams,Democratic,220770,81.2,True,False,False
+2026,house,North Carolina,NC,12,271792,Jack Codiga,Republican,51022,18.8,False,False,False
+2026,house,North Carolina,NC,13,318235,Brad Knott,Republican,152864,48.0,False,False,False
+2026,house,North Carolina,NC,13,318235,Paul Barringer,Democratic,160860,50.6,True,False,False
+2026,house,North Carolina,NC,13,318235,Steven Swinton,Libertarian,4511,1.4,False,False,False
+2026,house,North Carolina,NC,14,289273,LaKesha Womack,Democratic,147920,51.1,True,False,False
+2026,house,North Carolina,NC,14,289273,Tim Moore,Republican,141353,48.9,False,False,False
+2026,house,North Carolina,NC,2,328256,Deborah Ross,Democratic,246446,75.1,True,False,False
+2026,house,North Carolina,NC,2,328256,Eugene Douglass,Republican,,23.5,False,False,False
+2026,house,North Carolina,NC,2,328256,Matthew Laszacs,Libertarian,,1.3,False,False,False
+2026,house,North Carolina,NC,3,239614,Daniel Cavender,Libertarian,3004,1.3,False,False,False
+2026,house,North Carolina,NC,3,239614,Greg Murphy,Republican,118176,49.3,False,False,False
+2026,house,North Carolina,NC,3,239614,Raymond Smith Jr.,Democratic,118434,49.4,True,False,False
+2026,house,North Carolina,NC,4,359571,Guy Meilleur,Libertarian,7004,2.0,False,False,False
+2026,house,North Carolina,NC,4,359571,Max Ganorkar,Republican,68019,18.9,False,False,False
+2026,house,North Carolina,NC,4,359571,Valerie Foushee,Democratic,284548,79.1,True,False,False
+2026,house,North Carolina,NC,5,286786,Chuck Hubbard,Democratic,139769,48.7,True,False,False
+2026,house,North Carolina,NC,5,286786,Robert Luffman,Libertarian,7578,2.6,False,False,False
+2026,house,North Carolina,NC,5,286786,Virginia Foxx,Republican,139439,48.6,False,False,False
+2026,house,North Carolina,NC,6,274810,Addison McDowell,Republican,134103,48.8,False,False,False
+2026,house,North Carolina,NC,6,274810,Cyril Jefferson,Democratic,140707,51.2,True,False,False
+2026,house,North Carolina,NC,7,322266,David Rouzer,Republican,160702,49.9,True,False,False
+2026,house,North Carolina,NC,7,322266,Kimberly Hardy,Democratic,,49.1,False,False,False
+2026,house,North Carolina,NC,7,322266,Maad Abu-Ghazalah,Libertarian,3173,1.0,False,False,False
+2026,house,North Carolina,NC,8,293251,Bo Whitehead,Green,2909,1.0,False,False,False
+2026,house,North Carolina,NC,8,293251,Colby Watson,Democratic,142659,48.7,False,False,False
+2026,house,North Carolina,NC,8,293251,Mark Harris,Republican,147683,50.4,True,False,False
+2026,house,North Carolina,NC,9,272652,Richard Hudson,Republican,133196,48.9,False,False,False
+2026,house,North Carolina,NC,9,272652,Richard Ojeda,Democratic,139456,51.2,True,False,False
 2026,house,North Dakota,ND,AL,234255,Charles Tuttle,Independent,9282,4.0,False,False,False
 2026,house,North Dakota,ND,AL,234255,Helene Neville,Independent,4604,2.0,False,False,False
 2026,house,North Dakota,ND,AL,234255,Julie Fedorchak,Republican,134477,57.3,True,False,False
@@ -61928,25 +62053,28 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Oregon,OR,4,,Val Hoyle,Democratic,,100.0,True,False,False
 2026,house,Oregon,OR,5,,Janelle Bynum,Democratic,,100.0,True,False,False
 2026,house,Oregon,OR,6,,Andrea Salinas,Democratic,,100.0,True,False,False
-2026,house,Pennsylvania,PA,1,,Bob Harvie,Democratic,,100.0,True,False,False
+2026,house,Pennsylvania,PA,1,359181,Bob Harvie,Democratic,189926,100.0,True,False,False
 2026,house,Pennsylvania,PA,10,,Janelle Stelson,Democratic,,100.0,True,False,False
 2026,house,Pennsylvania,PA,11,,Lloyd Smucker,Republican,,100.0,True,False,False
 2026,house,Pennsylvania,PA,12,,Summer Lee,Democratic,,100.0,True,False,False
 2026,house,Pennsylvania,PA,13,,John Joyce,Republican,,100.0,True,False,False
 2026,house,Pennsylvania,PA,14,,Guy Reschenthaler,Republican,,100.0,True,False,False
 2026,house,Pennsylvania,PA,15,,Glenn Thompson,Republican,,100.0,True,False,False
-2026,house,Pennsylvania,PA,16,,Mike Kelly,Republican,,100.0,True,False,False
+2026,house,Pennsylvania,PA,16,287383,Mike Kelly,Republican,154693,100.0,True,False,False
 2026,house,Pennsylvania,PA,17,,Chris Deluzio,Democratic,,100.0,True,False,False
-2026,house,Pennsylvania,PA,2,,Brendan Boyle,Democratic,,100.0,True,False,False
-2026,house,Pennsylvania,PA,3,,Chris Rabb,Democratic,,100.0,True,False,True
+2026,house,Pennsylvania,PA,2,186447,Brendan Boyle,Democratic,150784,100.0,True,False,False
+2026,house,Pennsylvania,PA,3,276065,Chris Rabb,Democratic,258437,100.0,True,False,True
 2026,house,Pennsylvania,PA,4,,Madeleine Dean,Democratic,,100.0,True,False,False
 2026,house,Pennsylvania,PA,5,,Mary Gay Scanlon,Democratic,,100.0,True,False,False
 2026,house,Pennsylvania,PA,6,,Chrissy Houlahan,Democratic,,100.0,True,False,False
 2026,house,Pennsylvania,PA,7,,Bob Brooks,Democratic,,100.0,True,False,False
 2026,house,Pennsylvania,PA,8,,Paige Cognetti,Democratic,,100.0,True,False,False
 2026,house,Pennsylvania,PA,9,,Dan Meuser,Republican,,100.0,True,False,False
-2026,house,Rhode Island,RI,1,,Gabe Amo,Democratic,,100.0,True,False,False
-2026,house,Rhode Island,RI,2,,Seth Magaziner,Democratic,,100.0,True,False,False
+2026,house,Rhode Island,RI,1,,Gabe Amo,Democratic,,68.6,True,False,False
+2026,house,Rhode Island,RI,1,,Kellie Keenan,Republican,,27.5,False,False,False
+2026,house,Rhode Island,RI,1,,Pedro DeSouza,Independent,,3.8,False,False,False
+2026,house,Rhode Island,RI,2,,Seth Magaziner,Democratic,,61.9,True,False,False
+2026,house,Rhode Island,RI,2,,Vic Mellor,Republican,,37.8,False,False,False
 2026,house,South Carolina,SC,1,326423,Bill Reeside,Libertarian,,1.6,False,False,True
 2026,house,South Carolina,SC,1,326423,Jenny Costa Honeycutt,Republican,158751,48.6,False,False,True
 2026,house,South Carolina,SC,1,326423,Nancy Lacore,Democratic,162103,49.7,True,False,True
@@ -62016,10 +62144,25 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Texas,TX,9,170419,Leticia Gutierrez,Democratic,98079,100.0,True,False,True
 2026,house,United States Virgin Islands,VI,AL,,Janelle Sarauw,Democratic,,76.9,True,False,True
 2026,house,United States Virgin Islands,VI,AL,,Shelley Moorhead,Independent,,21.2,False,False,True
-2026,house,Utah,UT,1,235209,Ben McAdams,Democratic,165422,100.0,True,False,True
-2026,house,Utah,UT,2,253386,Blake Moore,Republican,126992,100.0,True,False,False
-2026,house,Utah,UT,3,246582,Celeste Maloy,Republican,144009,100.0,True,False,False
-2026,house,Utah,UT,4,271236,Mike Kennedy,Republican,144089,100.0,True,False,True
+2026,house,Utah,UT,1,235209,Ben McAdams,Democratic,165422,70.5,True,False,True
+2026,house,Utah,UT,1,235209,Elias Montgomery,Independent,,1.5,False,False,True
+2026,house,Utah,UT,1,235209,Jesse West,Libertarian,5227,2.3,False,False,True
+2026,house,Utah,UT,1,235209,Riley Owen,Republican,61230,25.7,False,False,True
+2026,house,Utah,UT,2,253386,Blake Moore,Republican,126992,49.7,True,False,False
+2026,house,Utah,UT,2,253386,Carlton Bowen,Independent American,8402,3.3,False,False,False
+2026,house,Utah,UT,2,253386,Daniel Cottam,Libertarian,4546,1.8,False,False,False
+2026,house,Utah,UT,2,253386,Peter Crosby,Democratic,106944,42.6,False,False,False
+2026,house,Utah,UT,2,253386,Robert Moesinger,Independent,6502,2.6,False,False,False
+2026,house,Utah,UT,3,246582,Adonis Hooslyn,Independent,,0.7,False,False,False
+2026,house,Utah,UT,3,246582,Ayden Scott,Independent,,1.7,False,False,False
+2026,house,Utah,UT,3,246582,Cassie Easley,Constitution,7884,3.1,False,False,False
+2026,house,Utah,UT,3,246582,Celeste Maloy,Republican,144009,56.4,True,False,False
+2026,house,Utah,UT,3,246582,Kent Udell,Democratic,89087,35.9,False,False,False
+2026,house,Utah,UT,3,246582,Michael Stoddard,Libertarian,5602,2.2,False,False,False
+2026,house,Utah,UT,4,271236,Jonny Larsen,Democratic,106593,39.3,False,False,True
+2026,house,Utah,UT,4,271236,Mike Kennedy,Republican,144089,53.1,True,False,True
+2026,house,Utah,UT,4,271236,Steven Burt,Independent,11735,4.3,False,False,True
+2026,house,Utah,UT,4,271236,Taylor Wright,Libertarian,8819,3.3,False,False,True
 2026,house,Vermont,VT,AL,304769,Adam Ortiz,Independent,2195,0.7,False,False,False
 2026,house,Vermont,VT,AL,304769,Becca Balint,Democratic,198766,65.2,True,False,False
 2026,house,Vermont,VT,AL,304769,Gerald Malloy,Republican,94071,30.9,False,False,False
@@ -62047,8 +62190,8 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Washington,WA,7,,Pramila Jayapal,Democratic,,100.0,True,False,False
 2026,house,Washington,WA,8,,Kim Schrier,Democratic,,100.0,True,False,False
 2026,house,Washington,WA,9,,Adam Smith,Democratic,,100.0,True,False,False
-2026,house,West Virginia,WV,1,,Carol Miller,Republican,,100.0,True,False,False
-2026,house,West Virginia,WV,2,,Riley Moore,Republican,,100.0,True,False,False
+2026,house,West Virginia,WV,1,208713,Carol Miller,Republican,119087,100.0,True,False,False
+2026,house,West Virginia,WV,2,242724,Riley Moore,Republican,144109,100.0,True,False,False
 2026,house,Wisconsin,WI,1,,Mitchell Berman,Democratic,,100.0,True,False,False
 2026,house,Wisconsin,WI,2,,Mark Pocan,Democratic,,100.0,True,False,False
 2026,house,Wisconsin,WI,3,,Rebecca Cooke,Democratic,,100.0,True,False,False

@@ -1,15 +1,15 @@
 year,state,state_code,chamber,district,race,candidate,party,votes,percentage,winner,incumbent
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,Jeff Van Drew,Democratic,35464,64.8,True,True
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,Mary Gruccio,Republican,18589,34.0,False,False
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,Anthony Parisi Sanchez,Cannot Be Bought,652,1.2,False,False
+2017,New Jersey,NJ,State Senate,1,general,Jeff Van Drew,Democratic,35464,64.8,True,True
+2017,New Jersey,NJ,State Senate,1,general,Mary Gruccio,Republican,18589,34.0,False,False
+2017,New Jersey,NJ,State Senate,1,general,Anthony Parisi Sanchez,Cannot Be Bought,652,1.2,False,False
 2017,New Jersey,NJ,State Senate,2,general,Chris Brown,Republican,26950,53.5,True,False
 2017,New Jersey,NJ,State Senate,2,general,Colin Bell,Democratic,23406,46.5,False,True
 2017,New Jersey,NJ,State Senate,3,general,Steve Sweeney,Democratic,31822,58.8,True,True
 2017,New Jersey,NJ,State Senate,3,general,Fran Grenier,Republican,22336,41.2,False,False
 2017,New Jersey,NJ,State Senate,4,general,Fred H. Madden,Democratic,38790,100.0,True,True
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,Nilsa Cruz-Perez,Democratic,29031,66.1,True,True
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,Keith Walker,Republican,14463,32.9,False,False
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,Mohammad Kabir,Challenge Promise Fix,454,1.0,False,False
+2017,New Jersey,NJ,State Senate,5,general,Nilsa Cruz-Perez,Democratic,29031,66.1,True,True
+2017,New Jersey,NJ,State Senate,5,general,Keith Walker,Republican,14463,32.9,False,False
+2017,New Jersey,NJ,State Senate,5,general,Mohammad Kabir,Challenge Promise Fix,454,1.0,False,False
 2017,New Jersey,NJ,State Senate,6,general,James Beach,Democratic,41376,69.4,True,True
 2017,New Jersey,NJ,State Senate,6,general,Robert Shapiro,Republican,18249,30.6,False,False
 2017,New Jersey,NJ,State Senate,7,general,Troy Singleton,Democratic,40685,65.7,True,False
@@ -22,9 +22,9 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2017,New Jersey,NJ,State Senate,10,general,Emma L. Mammano,Democratic,23707,37.5,False,False
 2017,New Jersey,NJ,State Senate,11,general,Vin Gopal,Democratic,31308,53.6,True,False
 2017,New Jersey,NJ,State Senate,11,general,Jennifer Beck,Republican,27150,46.4,False,True
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,Samuel D. Thompson,Republican,30013,56.7,True,True
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,David H. Lande,Democratic,21888,41.4,False,False
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,Kevin Antoine,Coach Kev,990,1.9,False,False
+2017,New Jersey,NJ,State Senate,12,general,Samuel D. Thompson,Republican,30013,56.7,True,True
+2017,New Jersey,NJ,State Senate,12,general,David H. Lande,Democratic,21888,41.4,False,False
+2017,New Jersey,NJ,State Senate,12,general,Kevin Antoine,Coach Kev,990,1.9,False,False
 2017,New Jersey,NJ,State Senate,13,general,Declan O’Scanlon,Republican,34976,55.1,True,False
 2017,New Jersey,NJ,State Senate,13,general,Sean F. Byrnes,Democratic,28493,44.9,False,False
 2017,New Jersey,NJ,State Senate,14,general,Linda R. Greenstein,Democratic,34474,56.5,True,True
@@ -54,11 +54,11 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2017,New Jersey,NJ,State Senate,26,general,Elliot Isibor,Democratic,24867,43.5,False,False
 2017,New Jersey,NJ,State Senate,27,general,Richard Codey,Democratic,43066,69.7,True,True
 2017,New Jersey,NJ,State Senate,27,general,Pasquale Capozzoli,Republican,18720,30.3,False,False
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,Ronald L. Rice,Democratic,31774,96.1,True,True
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,Troy Knight-Napper,Green,1306,3.9,False,False
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,M. Teresa Ruiz,Democratic,20506,87.3,True,True
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,Maria E. Lopez,Republican,2547,10.8,False,False
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,Pablo Olivera,One Nation,449,1.9,False,False
+2017,New Jersey,NJ,State Senate,28,general,Ronald L. Rice,Democratic,31774,96.1,True,True
+2017,New Jersey,NJ,State Senate,28,general,Troy Knight-Napper,Green,1306,3.9,False,False
+2017,New Jersey,NJ,State Senate,29,general,M. Teresa Ruiz,Democratic,20506,87.3,True,True
+2017,New Jersey,NJ,State Senate,29,general,Maria E. Lopez,Republican,2547,10.8,False,False
+2017,New Jersey,NJ,State Senate,29,general,Pablo Olivera,One Nation,449,1.9,False,False
 2017,New Jersey,NJ,State Senate,30,general,Robert W. Singer,Republican,30735,60.2,True,True
 2017,New Jersey,NJ,State Senate,30,general,Amy Sara Cores,Democratic,20343,39.8,False,False
 2017,New Jersey,NJ,State Senate,31,general,Sandra B. Cunningham,Democratic,25437,83.9,True,True
@@ -77,8 +77,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2017,New Jersey,NJ,State Senate,37,general,Modesto Romero,Republican,10788,24.6,False,False
 2017,New Jersey,NJ,State Senate,38,general,Bob Gordon,Democratic,30881,57.1,True,True
 2017,New Jersey,NJ,State Senate,38,general,Kelly Langschultz,Republican,23238,42.9,False,False
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,Gerald Cardinale,Republican,33752,52.8,True,True
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,Linda H. Schwager,Democratic,29631,46.3,False,False
-2017,New Jersey,NJ,State Senate,INDEPENDENTS AND THIRD PARTIES,general,James Tosone,Libertarian,574,0.9,False,False
+2017,New Jersey,NJ,State Senate,39,general,Gerald Cardinale,Republican,33752,52.8,True,True
+2017,New Jersey,NJ,State Senate,39,general,Linda H. Schwager,Democratic,29631,46.3,False,False
+2017,New Jersey,NJ,State Senate,39,general,James Tosone,Libertarian,574,0.9,False,False
 2017,New Jersey,NJ,State Senate,40,general,Kristin M. Corrado,Republican,33495,56.2,True,True
 2017,New Jersey,NJ,State Senate,40,general,Thomas Duch,Democratic,26060,43.8,False,False

@@ -1,0 +1,5 @@
+year,state,state_code,office,election,race,seats,winner_candidate,winner_party,winner_percentage,winner_votes,runner_up_candidate,runner_up_party,runner_up_percentage,runner_up_votes,total_votes,margin_pct,margin_votes,margin_pct_votes,source
+2015,Kentucky,KY,governor,2015 Kentucky gubernatorial election,2015 Kentucky gubernatorial election,1,Matt Bevin,Republican,52.52,511374.0,Jack Conway,Democratic,43.81,426620.0,973692.0,8.71,84754.0,8.7,race_article
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election runoff, 2015",2015 Louisiana gubernatorial election,1,John Bel Edwards,Democratic,56.11,646924.0,David Vitter,Republican,43.89,505940.0,1152864.0,12.22,140984.0,12.23,race_article
+2015,Mississippi,MS,governor,,,1,Phil Bryant,Republican,66.4,,Robert Gray,Democratic,32.4,,,34.0,,,overview_summary
+2015,Kentucky,KY,state auditor,"Kentucky State Auditor election, 2015",2015 Kentucky Auditor election,1,Mike Harmon,Republican,51.9,486741.0,Adam Edelen,Democratic,48.1,450316.0,937057.0,3.8,36425.0,3.89,race_article
