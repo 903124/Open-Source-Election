@@ -227,4 +227,19 @@ The lean pipeline reads local CSVs and never fetches on its own: run
   [UCLA cdmaps](https://github.com/JeffreyBLewis/congressional-district-boundaries)
   (Lewis, DeVine, Pitcher, and Martino — UCLA Department of Political Science).
 - County boundaries: U.S. Census Bureau 2010 cartographic boundary files.
+- Precinct-level election results, 2016–2024: MIT Election Data + Science Lab
+  (MEDSL), *Precinct-Level Election Results*
+  ([electionlab.mit.edu/data](https://electionlab.mit.edu/data), Harvard
+  Dataverse), released under CC0-1.0; cite the per-dataset DOI on Harvard
+  Dataverse when redistributing. Methodology: Baltz, Koenig, Clinical, et al.
+  (2022), "American election results at the precinct level", *Scientific
+  Data* 9. All 2016–2024 precinct rows in the precinct-level files
+  (precinct→district crosswalk, state-legislative precinct anchors) are
+  attributed to MEDSL in the `original_data_source` column.
+- Precinct-level election results, 2026 general (North Carolina): North
+  Carolina State Board of Elections, Election Night Reporting system
+  ([ncsbe.gov](https://www.ncsbe.gov/results-data/election-results/historical-election-results-data)),
+  public records, no license restrictions; **unofficial** until canvass and
+  certification. All 2026 precinct rows are attributed to the NC SBE in the
+  `original_data_source` column.
 
