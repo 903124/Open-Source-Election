@@ -1,0 +1,64 @@
+# Column Glossary — `race_margin_over_expected_tidy.csv`
+
+Contains **12,797 contested general-election races** across US President, US Senate, US House, Statewide, State Senate, and State House (`1972–2026`). All percentage-point (`_pct`) metrics use a **Democratic-positive** sign convention unless explicitly labeled `winner` or `abs`.
+
+## A. Race Identifiers
+
+| Column | Type | Description |
+| :--- | :--- | :--- |
+| `year` | `int` | Election year (`1972–2026`). |
+| `state_code` | `str` | Two-letter US state or territory postal abbreviation (e.g., `PA`, `TX`, `AK`). |
+| `race_level` | `str` | Standardized office tier: `us_president`, `us_senate`, `us_house`, `statewide`, `state_senate`, or `state_house`. |
+| `office` | `str` | Specific office contested (e.g., `governor`, `attorney general`, `us house`, `state senate`). |
+| `district` | `str` | District identifier (`STATEWIDE` for federal/statewide offices; `AL` for at-large congressional seats; district number/name for House and State Legislature). |
+| `election` | `str` | Human-readable race title combining year, state, office, and district. |
+
+## B. Candidates & Incumbency
+
+| Column | Type | Description |
+| :--- | :--- | :--- |
+| `dem_candidate` | `str` | Top vote-getting Democratic nominee in the race (`NaN` for precinct-aggregated US Senate rows). |
+| `rep_candidate` | `str` | Top vote-getting Republican nominee in the race (`NaN` for precinct-aggregated US Senate rows). |
+| `dem_incumbent` | `bool` | Whether the Democratic nominee was an incumbent (`NaN` where unavailable). |
+| `rep_incumbent` | `bool` | Whether the Republican nominee was an incumbent (`NaN` where unavailable). |
+| `n_dem_candidates` | `int` | Number of Democratic ballot candidates in the race (`>1` in multi-member state legislative districts). |
+| `n_rep_candidates` | `int` | Number of Republican ballot candidates in the race (`>1` in multi-member state legislative districts). |
+| `winner_party` | `str` | Winning major party (`Democratic` or `Republican`). |
+
+## C. Votes & Actual Margins
+
+| Column | Type | Description |
+| :--- | :--- | :--- |
+| `dem_votes` | `float` | Total Democratic votes cast (`NaN` for percentage-only US House rows). |
+| `rep_votes` | `float` | Total Republican votes cast (`NaN` for percentage-only US House rows). |
+| `other_votes` | `float` | Total third-party and write-in votes cast. |
+| `total_votes` | `float` | Total votes cast across all candidates in the race. |
+| `dem_margin_pct` | `float` | Actual Democratic margin as a % of total votes: `(Dem - Rep) / Total * 100`. Normalized per party candidate in asymmetric multi-member districts. |
+| `dem_margin_2p_pct` | `float` | Actual Democratic two-party margin: `(Dem - Rep) / (Dem + Rep) * 100`. |
+
+## D. Primary Estimate — Prior-Adjusted Empirical Bayes (EB) VMOE
+
+| Column | Type | Description |
+| :--- | :--- | :--- |
+| `expected_margin_eb_pct` | `float` | **Recommended expected Democratic margin (%).** For federal/statewide races, blends the state's prior presidential margin + national cycle shift + centered state downballot shift with the damped same-ballot margin (`45%` prior / `55%` ballot in presidential years; `75%` / `25%` in midterms). For US House and State Legislature, equals the same-district anchor margin minus `75%` of that anchor's statewide candidate-specific bias. |
+| `vmoe_dem_eb_pct` | `float` | **Primary VMOE (Dem-positive, pts):** `dem_margin_pct - expected_margin_eb_pct`. Positive = Democrat outperformed expected; negative = Republican outperformed expected. |
+| `vmoe_winner_eb_pct` | `float` | **Winner's overperformance (pts):** Equals `+vmoe_dem_eb_pct` when the Democrat won and `-vmoe_dem_eb_pct` when the Republican won. |
+| `vmoe_abs_eb_pct` | `float` | Absolute magnitude of candidate overperformance: `|vmoe_dem_eb_pct|`. |
+
+## E. Raw Same-Ballot / Same-District Baseline Comparison
+
+| Column | Type | Description |
+| :--- | :--- | :--- |
+| `baseline_type` | `str` | Method used for the raw baseline: `same_state_year_other_races` (leave-one-out average for federal/statewide) or `same_district_year_anchor` (precinct-aggregated top-of-ticket race for US House/State Leg). |
+| `baseline_detail` | `str` | Specific count of concurrent baseline races or name of the district anchor race (e.g., `US SENATE (same district)`). |
+| `expected_margin_raw_pct` | `float` | Unadjusted same-ballot leave-one-out or raw same-district anchor Democratic margin (%). |
+| `vmoe_dem_raw_pct` | `float` | Unadjusted VMOE before shift-prior and anchor de-biasing: `dem_margin_pct - expected_margin_raw_pct`. |
+
+## F. Prior & Coverage Diagnostics
+
+| Column | Type | Description |
+| :--- | :--- | :--- |
+| `prior_pres_margin_pct` | `float` | State's Democratic margin (%) in the most recent strictly prior presidential election (e.g., 2020 President for 2022/2024 races). |
+| `nat_shift_prior_pct` | `float` | National median shift (pts) of all statewide/federal races in `year` relative to their states' prior presidential margins. |
+| `rel_state_db_shift_pct` | `float` | Empirical-Bayes shrunk relative state downballot shift (pts): how much a state's contested legislative/downballot seats shifted vs. the national downballot median. |
+| `anchor_coverage_ratio` | `float` | Diagnostic ratio (`anc_total_votes / total_votes`) for `us_house` races measuring precinct-crosswalk completeness (`NaN` for non-House races or percentage-only House rows). Values between `0.75` and `1.35` indicate high precinct coverage. |
