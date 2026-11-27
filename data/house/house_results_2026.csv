@@ -106,13 +106,13 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,California,CA,51,,Sara Jacobs,Democratic,,100.0,True,False,False
 2026,house,California,CA,52,,Juan Vargas,Democratic,,100.0,True,False,False
 2026,house,Colorado,CO,1,305110,Melat Kiros,Democratic,239082,100.0,True,False,False
-2026,house,Colorado,CO,2,366709,Joe Neguse,Democratic,273365,100.0,True,False,False
-2026,house,Colorado,CO,3,321477,Jeff Hurd,Republican,163817,100.0,True,False,False
-2026,house,Colorado,CO,4,,Eileen Laubacher,Democratic,,100.0,True,False,False
-2026,house,Colorado,CO,5,,Jessica Killin,Democratic,,100.0,True,False,False
-2026,house,Colorado,CO,6,,Jason Crow,Democratic,,100.0,True,False,False
-2026,house,Colorado,CO,7,,Brittany Pettersen,Democratic,,100.0,True,False,False
-2026,house,Colorado,CO,8,,Manny Rutinel,Democratic,,100.0,True,False,False
+2026,house,Colorado,CO,2,372997,Joe Neguse,Democratic,278547,100.0,True,False,False
+2026,house,Colorado,CO,3,336067,Jeff Hurd,Republican,165502,100.0,True,False,False
+2026,house,Colorado,CO,4,384720,Eileen Laubacher,Democratic,187752,100.0,True,False,False
+2026,house,Colorado,CO,5,311274,Jessica Killin,Democratic,157803,100.0,True,False,False
+2026,house,Colorado,CO,6,296725,Jason Crow,Democratic,195047,100.0,True,False,False
+2026,house,Colorado,CO,7,378915,Brittany Pettersen,Democratic,230042,100.0,True,False,False
+2026,house,Colorado,CO,8,289932,Manny Rutinel,Democratic,160955,100.0,True,False,False
 2026,house,Connecticut,CT,1,253392,Luke Bronin,Democratic,170479,67.3,True,False,False
 2026,house,Connecticut,CT,1,253392,Amy Chai,Republican,78461,31.0,False,False,False
 2026,house,Connecticut,CT,1,253392,Mary Sanders,Green,,1.8,False,False,False
@@ -611,10 +611,10 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Pennsylvania,PA,1,359181,Bob Harvie,Democratic,189926,100.0,True,False,False
 2026,house,Pennsylvania,PA,2,186447,Brendan Boyle,Democratic,150784,100.0,True,False,False
 2026,house,Pennsylvania,PA,3,276065,Chris Rabb,Democratic,258437,100.0,True,False,True
-2026,house,Pennsylvania,PA,4,,Madeleine Dean,Democratic,,100.0,True,False,False
-2026,house,Pennsylvania,PA,5,,Mary Gay Scanlon,Democratic,,100.0,True,False,False
-2026,house,Pennsylvania,PA,6,,Chrissy Houlahan,Democratic,,100.0,True,False,False
-2026,house,Pennsylvania,PA,7,,Bob Brooks,Democratic,,100.0,True,False,False
+2026,house,Pennsylvania,PA,4,348283,Madeleine Dean,Democratic,234271,100.0,True,False,False
+2026,house,Pennsylvania,PA,5,299060,Mary Gay Scanlon,Democratic,215985,100.0,True,False,False
+2026,house,Pennsylvania,PA,6,312087,Chrissy Houlahan,Democratic,201244,100.0,True,False,False
+2026,house,Pennsylvania,PA,7,297394,Bob Brooks,Democratic,167629,100.0,True,False,False
 2026,house,Pennsylvania,PA,8,,Paige Cognetti,Democratic,,100.0,True,False,False
 2026,house,Pennsylvania,PA,9,,Dan Meuser,Republican,,100.0,True,False,False
 2026,house,Pennsylvania,PA,10,,Janelle Stelson,Democratic,,100.0,True,False,False

@@ -7937,10 +7937,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Alabama,AL,public service commission,Place 2 – Republican primary,Candidate,Brent Woodall,Republican,77185.0,18.2,False,False,2026 Alabama Public Service Commission election
 2026,Alabama,AL,public service commission,Place 2 – Republican primary,Candidate,Priscilla Andrews,Republican,52371.0,12.4,False,False,2026 Alabama Public Service Commission election
 2026,Alabama,AL,public service commission,Place 2 – Republican primary,Total,,,423115.0,100.0,False,False,2026 Alabama Public Service Commission election
-2026,Alabama,AL,public service commission,"Place 2 – 2026 Alabama Public Service Commission election, place 2",Winning,Jim Zeigler,Republican,909902.0,54.73,True,False,2026 Alabama Public Service Commission election
-2026,Alabama,AL,public service commission,"Place 2 – 2026 Alabama Public Service Commission election, place 2",Candidate,Sheila McNeil,Democratic,751315.0,45.19,False,False,2026 Alabama Public Service Commission election
+2026,Alabama,AL,public service commission,"Place 2 – 2026 Alabama Public Service Commission election, place 2",Winning,Jim Zeigler,Republican,910235.0,54.72,True,False,2026 Alabama Public Service Commission election
+2026,Alabama,AL,public service commission,"Place 2 – 2026 Alabama Public Service Commission election, place 2",Candidate,Sheila McNeil,Democratic,751914.0,45.2,False,False,2026 Alabama Public Service Commission election
 2026,Alabama,AL,public service commission,"Place 2 – 2026 Alabama Public Service Commission election, place 2",Write-in,,,1289.0,0.08,False,False,2026 Alabama Public Service Commission election
-2026,Alabama,AL,public service commission,"Place 2 – 2026 Alabama Public Service Commission election, place 2",Total,,,1662506.0,100.0,False,False,2026 Alabama Public Service Commission election
+2026,Alabama,AL,public service commission,"Place 2 – 2026 Alabama Public Service Commission election, place 2",Total,,,1663458.0,100.0,False,False,2026 Alabama Public Service Commission election
 2026,Alabama,AL,secretary of state,Republican primary,Winning,Caroleene Dobson,Republican,286914.0,65.5,True,False,2026 Alabama Secretary of State election
 2026,Alabama,AL,secretary of state,Republican primary,Candidate,Christopher Christian Horn,Republican,99108.0,22.6,False,False,2026 Alabama Secretary of State election
 2026,Alabama,AL,secretary of state,Republican primary,Candidate,Glenda S. Jackson,Republican,52173.0,11.9,False,False,2026 Alabama Secretary of State election
@@ -7948,25 +7948,25 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Alabama,AL,state auditor,Republican primary results,Winning,Andrew Sorrell,Republican,300160.0,67.9,True,True,2026 Alabama State Auditor election
 2026,Alabama,AL,state auditor,Republican primary results,Candidate,Derek Chen,Republican,141651.0,32.1,False,False,2026 Alabama State Auditor election
 2026,Alabama,AL,state auditor,Republican primary results,Total,,,441811.0,100.0,False,False,2026 Alabama State Auditor election
-2026,Alabama,AL,state board of education,"District 2 – 2026 Alabama State Board of Education election, district 2",Winning,Tracie West,Republican,115373.0,61.49,True,True,2026 Alabama State Board of Education election
-2026,Alabama,AL,state board of education,"District 2 – 2026 Alabama State Board of Education election, district 2",Candidate,Jamie McCurry,Democratic,72056.0,38.4,False,False,2026 Alabama State Board of Education election
+2026,Alabama,AL,state board of education,"District 2 – 2026 Alabama State Board of Education election, district 2",Winning,Tracie West,Republican,115541.0,61.44,True,True,2026 Alabama State Board of Education election
+2026,Alabama,AL,state board of education,"District 2 – 2026 Alabama State Board of Education election, district 2",Candidate,Jamie McCurry,Democratic,72318.0,38.46,False,False,2026 Alabama State Board of Education election
 2026,Alabama,AL,state board of education,"District 2 – 2026 Alabama State Board of Education election, district 2",Write-in,,,199.0,0.11,False,False,2026 Alabama State Board of Education election
-2026,Alabama,AL,state board of education,"District 2 – 2026 Alabama State Board of Education election, district 2",Total,,,187628.0,100.0,False,False,2026 Alabama State Board of Education election
+2026,Alabama,AL,state board of education,"District 2 – 2026 Alabama State Board of Education election, district 2",Total,,,192599.0,100.0,False,False,2026 Alabama State Board of Education election
 2026,Alabama,AL,state board of education,District 6 – Republican primary,Winning,Cathi Bradford,Republican,35615.0,54.0,True,False,2026 Alabama State Board of Education election
 2026,Alabama,AL,state board of education,District 6 – Republican primary,Candidate,Marie Manning,Republican,30388.0,46.0,False,True,2026 Alabama State Board of Education election
 2026,Alabama,AL,state board of education,District 6 – Republican primary,Total,,,66003.0,100.0,False,False,2026 Alabama State Board of Education election
-2026,Alabama,AL,state board of education,"District 6 – 2026 Alabama State Board of Education election, district 6",Winning,Cathi Bradford,Republican,136622.0,71.25,True,False,2026 Alabama State Board of Education election
-2026,Alabama,AL,state board of education,"District 6 – 2026 Alabama State Board of Education election, district 6",Candidate,Angela Morgan,Democratic,54765.0,28.56,False,False,2026 Alabama State Board of Education election
+2026,Alabama,AL,state board of education,"District 6 – 2026 Alabama State Board of Education election, district 6",Winning,Cathi Bradford,Republican,137284.0,71.28,True,False,2026 Alabama State Board of Education election
+2026,Alabama,AL,state board of education,"District 6 – 2026 Alabama State Board of Education election, district 6",Candidate,Angela Morgan,Democratic,54962.0,28.54,False,False,2026 Alabama State Board of Education election
 2026,Alabama,AL,state board of education,"District 6 – 2026 Alabama State Board of Education election, district 6",Write-in,,,353.0,0.18,False,False,2026 Alabama State Board of Education election
-2026,Alabama,AL,state board of education,"District 6 – 2026 Alabama State Board of Education election, district 6",Total,,,191740.0,100.0,False,False,2026 Alabama State Board of Education election
+2026,Alabama,AL,state board of education,"District 6 – 2026 Alabama State Board of Education election, district 6",Total,,,192599.0,100.0,False,False,2026 Alabama State Board of Education election
 2026,Alabama,AL,state board of education,District 8 – Republican primary,Winning,Emily Jones,Republican,16409.0,42.7,True,False,2026 Alabama State Board of Education election
 2026,Alabama,AL,state board of education,District 8 – Republican primary,Winning,William Matthews,Republican,11731.0,30.6,True,False,2026 Alabama State Board of Education election
 2026,Alabama,AL,state board of education,District 8 – Republican primary,Candidate,Connie Spears,Republican,10259.0,26.7,False,False,2026 Alabama State Board of Education election
 2026,Alabama,AL,state board of education,District 8 – Republican primary,Total,,,38399.0,100.0,False,False,2026 Alabama State Board of Education election
-2026,Alabama,AL,state board of education,"District 8 – 2026 Alabama State Board of Education election, district 8",Winning,Emily Jones,Republican,123654.0,53.73,True,False,2026 Alabama State Board of Education election
-2026,Alabama,AL,state board of education,"District 8 – 2026 Alabama State Board of Education election, district 8",Candidate,Shatika Armstrong,Democratic,106282.0,46.18,False,False,2026 Alabama State Board of Education election
-2026,Alabama,AL,state board of education,"District 8 – 2026 Alabama State Board of Education election, district 8",Write-in,,,195.0,0.08,False,False,2026 Alabama State Board of Education election
-2026,Alabama,AL,state board of education,"District 8 – 2026 Alabama State Board of Education election, district 8",Total,,,230131.0,100.0,False,False,2026 Alabama State Board of Education election
+2026,Alabama,AL,state board of education,"District 8 – 2026 Alabama State Board of Education election, district 8",Winning,Emily Jones,Republican,123918.0,53.68,True,False,2026 Alabama State Board of Education election
+2026,Alabama,AL,state board of education,"District 8 – 2026 Alabama State Board of Education election, district 8",Candidate,Shatika Armstrong,Democratic,106747.0,46.24,False,False,2026 Alabama State Board of Education election
+2026,Alabama,AL,state board of education,"District 8 – 2026 Alabama State Board of Education election, district 8",Write-in,,,197.0,0.09,False,False,2026 Alabama State Board of Education election
+2026,Alabama,AL,state board of education,"District 8 – 2026 Alabama State Board of Education election, district 8",Total,,,230862.0,100.0,False,False,2026 Alabama State Board of Education election
 2026,Alabama,AL,state treasurer,Republican primary results,Winning,Young Boozer,Republican,306295.0,68.0,True,True,2026 Alabama State Treasurer election
 2026,Alabama,AL,state treasurer,Republican primary results,Candidate,Steve Lolley,Republican,143864.0,32.0,False,False,2026 Alabama State Treasurer election
 2026,Alabama,AL,state treasurer,Republican primary results,Total,,,450159.0,100.0,False,False,2026 Alabama State Treasurer election
@@ -8279,9 +8279,9 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Georgia,GA,public service commission,District 3 – Republican primary,Winning,Fitz Johnson,Republican,389682.0,50.2,True,False,2026 Georgia Public Service Commission election
 2026,Georgia,GA,public service commission,District 3 – Republican primary,Candidate,Brandon Martin,Republican,386640.0,49.8,False,False,2026 Georgia Public Service Commission election
 2026,Georgia,GA,public service commission,District 3 – Republican primary,Total,,,776322.0,100.0,False,False,2026 Georgia Public Service Commission election
-2026,Georgia,GA,public service commission,"District 3 – 2026 Georgia Public Service Commission election, district 3",Winning,Peter Hubbard,Democratic,2335368.0,56.38,True,True,2026 Georgia Public Service Commission election
-2026,Georgia,GA,public service commission,"District 3 – 2026 Georgia Public Service Commission election, district 3",Candidate,Fitz Johnson,Republican,1807113.0,43.62,False,False,2026 Georgia Public Service Commission election
-2026,Georgia,GA,public service commission,"District 3 – 2026 Georgia Public Service Commission election, district 3",Total,,,4142481.0,100.0,False,False,2026 Georgia Public Service Commission election
+2026,Georgia,GA,public service commission,"District 3 – 2026 Georgia Public Service Commission election, district 3",Winning,Peter Hubbard,Democratic,2340871.0,56.4,True,True,2026 Georgia Public Service Commission election
+2026,Georgia,GA,public service commission,"District 3 – 2026 Georgia Public Service Commission election, district 3",Candidate,Fitz Johnson,Republican,1809600.0,43.6,False,False,2026 Georgia Public Service Commission election
+2026,Georgia,GA,public service commission,"District 3 – 2026 Georgia Public Service Commission election, district 3",Total,,,4150471.0,100.0,False,False,2026 Georgia Public Service Commission election
 2026,Georgia,GA,public service commission,District 5 – Republican primary,Winning,Josh Tolbert,Republican,366773.0,47.2,True,False,2026 Georgia Public Service Commission election
 2026,Georgia,GA,public service commission,District 5 – Republican primary,Winning,Bobby Mehan,Republican,241553.0,31.1,True,False,2026 Georgia Public Service Commission election
 2026,Georgia,GA,public service commission,District 5 – Republican primary,Candidate,Carolyn Roddy,Republican,169405.0,21.8,False,False,2026 Georgia Public Service Commission election

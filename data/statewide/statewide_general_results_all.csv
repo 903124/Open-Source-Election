@@ -3724,7 +3724,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2021,Virginia,VA,governor,2021 Virginia gubernatorial election,Total,,,3288327,100.0,False,False,2021 Virginia gubernatorial election
 2022,Alabama,AL,attorney general,2022 Alabama Attorney General election,Winning,Steve Marshall,Republican,955425.0,67.9,True,True,2022 Alabama Attorney General election
 2022,Alabama,AL,attorney general,2022 Alabama Attorney General election,Candidate,Wendell Major,Democratic,450543.0,32.02,False,False,2022 Alabama Attorney General election
-2022,Alabama,AL,attorney general,2022 Alabama Attorney General election,Write-in,,,1220.0,0.09,False,False,2022 Alabama Attorney General election
+2022,Alabama,AL,attorney general,2022 Alabama Attorney General election,Write-in,,,1220.0,0.08,False,False,2022 Alabama Attorney General election
 2022,Alabama,AL,attorney general,2022 Alabama Attorney General election,Total,,,1407188.0,100.0,False,False,2022 Alabama Attorney General election
 2022,Alabama,AL,agriculture commissioner,2022 Alabama Commissioner of Agriculture and Industries election,Winning,Rick Pate,Republican,946155.0,84.26,True,True,2022 Alabama Commissioner of Agriculture and Industries election
 2022,Alabama,AL,agriculture commissioner,2022 Alabama Commissioner of Agriculture and Industries election,Candidate,Jason Clark,Libertarian,168529.0,15.01,False,False,2022 Alabama Commissioner of Agriculture and Industries election
@@ -4939,38 +4939,39 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2025,Wisconsin,WI,judicial,"Wisconsin Supreme Court election, 2025",Candidate,Brad Schimel,Nonpartisan Politician,1062330,44.92,False,False,2025_Wisconsin_elections
 2025,Wisconsin,WI,judicial,"Wisconsin Supreme Court election, 2025",Candidate,Scattering,,1420,0.06,False,False,2025_Wisconsin_elections
 2025,Wisconsin,WI,judicial,"Wisconsin Supreme Court election, 2025",Total,,,2364887,100.0,False,False,2025_Wisconsin_elections
-2026,Alabama,AL,attorney general,2026 Alabama Attorney General election,Winning,Katherine Robertson,Republican,920412,55.0,True,False,2026 Alabama Attorney General election
-2026,Alabama,AL,attorney general,2026 Alabama Attorney General election,Candidate,Jeff McLaughlin,Democratic,753457,45.0,False,False,2026 Alabama Attorney General election
-2026,Alabama,AL,attorney general,2026 Alabama Attorney General election,Total,,,1673869,100.0,False,False,2026 Alabama Attorney General election
-2026,Alabama,AL,agriculture commissioner,2026 Alabama Commissioner of Agriculture and Industries election election,Winning,Corey Hill,Republican,901282,54.08,True,False,2026 Alabama Commissioner of Agriculture and Industries election
-2026,Alabama,AL,agriculture commissioner,2026 Alabama Commissioner of Agriculture and Industries election election,Candidate,Ron Sparks,Democratic,764396,45.87,False,False,2026 Alabama Commissioner of Agriculture and Industries election
-2026,Alabama,AL,agriculture commissioner,2026 Alabama Commissioner of Agriculture and Industries election election,Write-in,,,881,0.05,False,False,2026 Alabama Commissioner of Agriculture and Industries election
-2026,Alabama,AL,agriculture commissioner,2026 Alabama Commissioner of Agriculture and Industries election election,Total,,,1666559,100.0,False,False,2026 Alabama Commissioner of Agriculture and Industries election
-2026,Alabama,AL,public service commission,"Place 1 – 2026 Alabama Public Service Commission election, place 1",Winning,Matt Gentry,Republican,914850,55.08,True,False,2026 Alabama Public Service Commission election
-2026,Alabama,AL,public service commission,"Place 1 – 2026 Alabama Public Service Commission election, place 1",Candidate,James O. Gordon,Democratic,744948,44.85,False,False,2026 Alabama Public Service Commission election
-2026,Alabama,AL,public service commission,"Place 1 – 2026 Alabama Public Service Commission election, place 1",Write-in,,,1196,0.07,False,False,2026 Alabama Public Service Commission election
-2026,Alabama,AL,public service commission,"Place 1 – 2026 Alabama Public Service Commission election, place 1",Total,,,1660994,100.0,False,False,2026 Alabama Public Service Commission election
+2026,Alabama,AL,attorney general,2026 Alabama Attorney General election,Winning,Katherine Robertson,Republican,920773,54.93,True,False,2026 Alabama Attorney General election
+2026,Alabama,AL,attorney general,2026 Alabama Attorney General election,Candidate,Jeff McLaughlin,Democratic,754062,44.99,False,False,2026 Alabama Attorney General election
+2026,Alabama,AL,attorney general,2026 Alabama Attorney General election,Write-in,,,1321,0.08,False,False,2026 Alabama Attorney General election
+2026,Alabama,AL,attorney general,2026 Alabama Attorney General election,Total,,,1676156,100.0,False,False,2026 Alabama Attorney General election
+2026,Alabama,AL,agriculture commissioner,2026 Alabama Commissioner of Agriculture and Industries election,Winning,Corey Hill,Republican,902106,54.08,True,False,2026 Alabama Commissioner of Agriculture and Industries election
+2026,Alabama,AL,agriculture commissioner,2026 Alabama Commissioner of Agriculture and Industries election,Candidate,Ron Sparks,Democratic,765111,45.87,False,False,2026 Alabama Commissioner of Agriculture and Industries election
+2026,Alabama,AL,agriculture commissioner,2026 Alabama Commissioner of Agriculture and Industries election,Write-in,,,883,0.05,False,False,2026 Alabama Commissioner of Agriculture and Industries election
+2026,Alabama,AL,agriculture commissioner,2026 Alabama Commissioner of Agriculture and Industries election,Total,,,1668100,100.0,False,False,2026 Alabama Commissioner of Agriculture and Industries election
+2026,Alabama,AL,public service commission,"Place 1 – 2026 Alabama Public Service Commission election, place 1",Winning,Matt Gentry,Republican,915188,55.07,True,False,2026 Alabama Public Service Commission election
+2026,Alabama,AL,public service commission,"Place 1 – 2026 Alabama Public Service Commission election, place 1",Candidate,James O. Gordon,Democratic,745561,44.86,False,False,2026 Alabama Public Service Commission election
+2026,Alabama,AL,public service commission,"Place 1 – 2026 Alabama Public Service Commission election, place 1",Write-in,,,1194,0.07,False,False,2026 Alabama Public Service Commission election
+2026,Alabama,AL,public service commission,"Place 1 – 2026 Alabama Public Service Commission election, place 1",Total,,,1661943,100.0,False,False,2026 Alabama Public Service Commission election
 2026,Alabama,AL,public service commission,Place 2 – Republican primary runoff,Winning,Jim Zeigler,Republican,152633,51.3,True,False,2026 Alabama Public Service Commission election
 2026,Alabama,AL,public service commission,Place 2 – Republican primary runoff,Candidate,Chris Beeker,Republican,144640,48.7,False,True,2026 Alabama Public Service Commission election
 2026,Alabama,AL,public service commission,Place 2 – Republican primary runoff,Total,,,297273,100.0,False,False,2026 Alabama Public Service Commission election
-2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Winning,Caroleene Dobson,Republican,908979,54.54,True,False,2026 Alabama Secretary of State election
-2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Candidate,Wayne Rogers,Democratic,756411,45.39,False,False,2026 Alabama Secretary of State election
-2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Write-in,,,1257,0.08,False,False,2026 Alabama Secretary of State election
-2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Total,,,1666647,100.0,False,False,2026 Alabama Secretary of State election
-2026,Alabama,AL,state auditor,2026 Alabama State Auditor election,Winning,Andrew Sorrell,Republican,918156,55.19,True,True,2026 Alabama State Auditor election
-2026,Alabama,AL,state auditor,2026 Alabama State Auditor election,Candidate,Violet Edwards,Democratic,744567,44.75,False,False,2026 Alabama State Auditor election
-2026,Alabama,AL,state auditor,2026 Alabama State Auditor election,Write-in,,,1029,0.29,False,False,2026 Alabama State Auditor election
-2026,Alabama,AL,state auditor,2026 Alabama State Auditor election,Total,,,1663752,100.0,False,False,2026 Alabama State Auditor election
-2026,Alabama,AL,state board of education,"District 4 – 2026 Alabama State Board of Education election, district 4",Winning,Yvette Richardson,Democratic,153610,98.5,True,True,2026 Alabama State Board of Education election
-2026,Alabama,AL,state board of education,"District 4 – 2026 Alabama State Board of Education election, district 4",Write-in,,,2333,1.5,False,False,2026 Alabama State Board of Education election
-2026,Alabama,AL,state board of education,"District 4 – 2026 Alabama State Board of Education election, district 4",Total,,,155943,100.0,False,False,2026 Alabama State Board of Education election
+2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Winning,Caroleene Dobson,Republican,909796,54.54,True,False,2026 Alabama Secretary of State election
+2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Candidate,Wayne Rogers,Democratic,757116,45.39,False,False,2026 Alabama Secretary of State election
+2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Write-in,,,1259,0.08,False,False,2026 Alabama Secretary of State election
+2026,Alabama,AL,secretary of state,2026 Alabama Secretary of State election,Total,,,1668171,100.0,False,False,2026 Alabama Secretary of State election
+2026,Alabama,AL,state auditor,2026 Alabama State Auditor election,Winning,Andrew Sorrell,Republican,918970,55.19,True,True,2026 Alabama State Auditor election
+2026,Alabama,AL,state auditor,2026 Alabama State Auditor election,Candidate,Violet Edwards,Democratic,745268,44.75,False,False,2026 Alabama State Auditor election
+2026,Alabama,AL,state auditor,2026 Alabama State Auditor election,Write-in,,,1032,0.29,False,False,2026 Alabama State Auditor election
+2026,Alabama,AL,state auditor,2026 Alabama State Auditor election,Total,,,1665270,100.0,False,False,2026 Alabama State Auditor election
+2026,Alabama,AL,state board of education,"District 4 – 2026 Alabama State Board of Education election, district 4",Winning,Yvette Richardson,Democratic,151772,98.51,True,True,2026 Alabama State Board of Education election
+2026,Alabama,AL,state board of education,"District 4 – 2026 Alabama State Board of Education election, district 4",Write-in,,,2289,1.49,False,False,2026 Alabama State Board of Education election
+2026,Alabama,AL,state board of education,"District 4 – 2026 Alabama State Board of Education election, district 4",Total,,,154061,100.0,False,False,2026 Alabama State Board of Education election
 2026,Alabama,AL,state board of education,District 8 – Republican primary runoff,Winning,Emily Jones,Republican,18629,53.6,True,False,2026 Alabama State Board of Education election
 2026,Alabama,AL,state board of education,District 8 – Republican primary runoff,Candidate,William Matthews,Republican,16162,46.4,False,False,2026 Alabama State Board of Education election
 2026,Alabama,AL,state board of education,District 8 – Republican primary runoff,Total,,,34791,100.0,False,False,2026 Alabama State Board of Education election
-2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Winning,Young Boozer,Republican,917177,54.98,True,True,2026 Alabama State Treasurer election
-2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Candidate,Rosilyn Houston,Democratic,749785,44.95,False,False,2026 Alabama State Treasurer election
-2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Write-in,,,1100,0.07,False,False,2026 Alabama State Treasurer election
-2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Total,,,1668062,100.0,False,False,2026 Alabama State Treasurer election
+2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Winning,Young Boozer,Republican,917512,54.98,True,True,2026 Alabama State Treasurer election
+2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Candidate,Rosilyn Houston,Democratic,750398,44.95,False,False,2026 Alabama State Treasurer election
+2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Write-in,,,1096,0.07,False,False,2026 Alabama State Treasurer election
+2026,Alabama,AL,state treasurer,2026 Alabama State Treasurer election,Total,,,1669006,100.0,False,False,2026 Alabama State Treasurer election
 2026,Alabama,AL,judicial,"Place 7 – 2026 Alabama Supreme Court election, place 7",Winning,Brad Mendheim,Republican,998547,95.94,True,True,2026 Alabama Supreme Court election
 2026,Alabama,AL,judicial,"Place 7 – 2026 Alabama Supreme Court election, place 7",Write-in,,,42209,4.06,False,False,2026 Alabama Supreme Court election
 2026,Alabama,AL,judicial,"Place 7 – 2026 Alabama Supreme Court election, place 7",Total,,,1040756,100.0,False,False,2026 Alabama Supreme Court election
@@ -4996,46 +4997,53 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Candidate,Treg Taylor Candice English,Republican,20383,7.15,False,False,2026 Alaska gubernatorial election
 2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Write-in,,,828,0.29,False,False,2026 Alaska gubernatorial election
 2026,Alaska,AK,governor,2026 Alaska gubernatorial election,Total,,,284905,100.0,False,False,2026 Alaska gubernatorial election
-2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Winning,Kris Mayes,Democratic,,,True,True,2026 Arizona Attorney General election
-2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Candidate,Warren Petersen,Republican,,,False,False,2026 Arizona Attorney General election
-2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Total,,,,100.0,False,False,2026 Arizona Attorney General election
-2026,Arizona,AZ,corporation commission,2026 Arizona Corporation Commission election,Winning,Jonathon Hill,Democratic,1224900,26.14,True,False,2026 Arizona Corporation Commission election
+2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Winning,Kris Mayes,Democratic,1414242,55.49,True,True,2026 Arizona Attorney General election
+2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Candidate,Warren Petersen,Republican,1132437,44.43,False,False,2026 Arizona Attorney General election
+2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Write-in,,,1923,0.07,False,False,2026 Arizona Attorney General election
+2026,Arizona,AZ,attorney general,2026 Arizona Attorney General election,Total,,,2548602,100.0,False,False,2026 Arizona Attorney General election
 2026,Arizona,AZ,corporation commission,2026 Arizona Corporation Commission election,Winning,Clara Pratte,Democratic,1276108,27.23,True,False,2026 Arizona Corporation Commission election
+2026,Arizona,AZ,corporation commission,2026 Arizona Corporation Commission election,Winning,Jonathon Hill,Democratic,1224900,26.14,True,False,2026 Arizona Corporation Commission election
 2026,Arizona,AZ,corporation commission,2026 Arizona Corporation Commission election,Candidate,Kevin Thompson,Republican,1091206,23.29,False,True,2026 Arizona Corporation Commission election
 2026,Arizona,AZ,corporation commission,2026 Arizona Corporation Commission election,Candidate,Ralph Heap,Republican,1020919,21.79,False,False,2026 Arizona Corporation Commission election
 2026,Arizona,AZ,corporation commission,2026 Arizona Corporation Commission election,Candidate,Mike Cease,Green,70804,1.51,False,False,2026 Arizona Corporation Commission election
 2026,Arizona,AZ,corporation commission,2026 Arizona Corporation Commission election,Write-in,,,2339,0.05,False,False,2026 Arizona Corporation Commission election
 2026,Arizona,AZ,corporation commission,2026 Arizona Corporation Commission election,Total,,,4686276,100.0,False,False,2026 Arizona Corporation Commission election
-2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Winning,Adrian Fontes,Democratic,1382155,54.85,True,True,2026 Arizona Secretary of State election
-2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Candidate,Alexander Kolodin,Republican,1098857,43.61,False,False,2026 Arizona Secretary of State election
-2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Candidate,Duwayne Collier,Green,37639,1.49,False,False,2026 Arizona Secretary of State election
-2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Write-in,,,1283,0.05,False,False,2026 Arizona Secretary of State election
-2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Total,,,2519934,100.0,False,False,2026 Arizona Secretary of State election
-2026,Arizona,AZ,state mine inspector,2026 Arizona State Mine Inspector election,Candidate,Les Presmyk,Republican,,,False,True,2026 Arizona State Mine Inspector election
-2026,Arizona,AZ,state mine inspector,2026 Arizona State Mine Inspector election,Candidate,Brian Matlock,Democratic,,,False,False,2026 Arizona State Mine Inspector election
-2026,Arizona,AZ,state mine inspector,2026 Arizona State Mine Inspector election,Total,,,,100.0,False,False,2026 Arizona State Mine Inspector election
-2026,Arizona,AZ,state treasurer,2026 Arizona State Treasurer election,Winning,Nick Mansour,Democratic,1170020,53.64,True,False,2026 Arizona State Treasurer election
-2026,Arizona,AZ,state treasurer,2026 Arizona State Treasurer election,Candidate,Elijah Norton,Republican,1009322,46.27,False,False,2026 Arizona State Treasurer election
-2026,Arizona,AZ,state treasurer,2026 Arizona State Treasurer election,Write-in,,,1839,0.09,False,False,2026 Arizona State Treasurer election
-2026,Arizona,AZ,state treasurer,2026 Arizona State Treasurer election,Total,,,2181181,100.0,False,False,2026 Arizona State Treasurer election
-2026,Arizona,AZ,superintendent of public instruction,2026 Arizona Superintendent of Public Instruction election,Candidate,Kimberly Yee,Republican,,,False,False,2026 Arizona Superintendent of Public Instruction election
-2026,Arizona,AZ,superintendent of public instruction,2026 Arizona Superintendent of Public Instruction election,Candidate,Teresa Ruiz,Democratic,,,False,False,2026 Arizona Superintendent of Public Instruction election
-2026,Arizona,AZ,superintendent of public instruction,2026 Arizona Superintendent of Public Instruction election,Total,,,,100.0,False,False,2026 Arizona Superintendent of Public Instruction election
-2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Winning,Katie Hobbs,Democratic,1434824,55.67,True,True,2026 Arizona gubernatorial election
-2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Andy Biggs,Republican,1094393,42.46,False,False,2026 Arizona gubernatorial election
+2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Winning,Adrian Fontes,Democratic,1402340,54.88,True,True,2026 Arizona Secretary of State election
+2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Candidate,Alexander Kolodin,Republican,1113173,43.56,False,False,2026 Arizona Secretary of State election
+2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Candidate,Duwayne Collier,Green,38381,1.5,False,False,2026 Arizona Secretary of State election
+2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Write-in,,,1309,0.05,False,False,2026 Arizona Secretary of State election
+2026,Arizona,AZ,secretary of state,2026 Arizona Secretary of State election,Total,,,2555203,100.0,False,False,2026 Arizona Secretary of State election
+2026,Arizona,AZ,state mine inspector,2026 Arizona State Mine Inspector election,Winning,Brian Matlock,Democratic,1314969,52.73,True,False,2026 Arizona State Mine Inspector election
+2026,Arizona,AZ,state mine inspector,2026 Arizona State Mine Inspector election,Candidate,Les Presmyk,Republican,1175949,47.16,False,True,2026 Arizona State Mine Inspector election
+2026,Arizona,AZ,state mine inspector,2026 Arizona State Mine Inspector election,Write-in,,,2709,0.11,False,False,2026 Arizona State Mine Inspector election
+2026,Arizona,AZ,state mine inspector,2026 Arizona State Mine Inspector election,Total,,,2493627,100.0,False,False,2026 Arizona State Mine Inspector election
+2026,Arizona,AZ,state treasurer,2026 Arizona State Treasurer election,Winning,Nick Mansour,Democratic,1360017,53.86,True,False,2026 Arizona State Treasurer election
+2026,Arizona,AZ,state treasurer,2026 Arizona State Treasurer election,Candidate,Elijah Norton,Republican,1162900,46.05,False,False,2026 Arizona State Treasurer election
+2026,Arizona,AZ,state treasurer,2026 Arizona State Treasurer election,Write-in,,,2262,0.09,False,False,2026 Arizona State Treasurer election
+2026,Arizona,AZ,state treasurer,2026 Arizona State Treasurer election,Total,,,2525179,100.0,False,False,2026 Arizona State Treasurer election
+2026,Arizona,AZ,superintendent of public instruction,2026 Arizona Superintendent of Public Instruction election,Winning,Teresa Ruiz,Democratic,1346133,53.22,True,False,2026 Arizona Superintendent of Public Instruction election
+2026,Arizona,AZ,superintendent of public instruction,2026 Arizona Superintendent of Public Instruction election,Candidate,Kimberly Yee,Republican,1180320,46.66,False,False,2026 Arizona Superintendent of Public Instruction election
+2026,Arizona,AZ,superintendent of public instruction,2026 Arizona Superintendent of Public Instruction election,Write-in,,,2985,0.12,False,False,2026 Arizona Superintendent of Public Instruction election
+2026,Arizona,AZ,superintendent of public instruction,2026 Arizona Superintendent of Public Instruction election,Total,,,2529438,100.0,False,False,2026 Arizona Superintendent of Public Instruction election
+2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Winning,Katie Hobbs,Democratic,1434824,55.63,True,True,2026 Arizona gubernatorial election
+2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Andy Biggs,Republican,1094393,42.43,False,False,2026 Arizona gubernatorial election
 2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Risa Lombardo,Green,24644,0.96,False,False,2026 Arizona gubernatorial election
 2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Candidate,Teri Ann Hourihan,Labels,23520,0.91,False,False,2026 Arizona gubernatorial election
-2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Write-in,,,29,0.0,False,False,2026 Arizona gubernatorial election
-2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Total,,,2577410,100.0,False,False,2026 Arizona gubernatorial election
-2026,Arkansas,AR,attorney general,2026 Arkansas Attorney General election,Candidate,Tim Griffin incumbent),Republican,,,False,False,2026 Arkansas Attorney General election
-2026,Arkansas,AR,attorney general,2026 Arkansas Attorney General election,Total,,,,100.0,False,False,2026 Arkansas Attorney General election
-2026,Arkansas,AR,land commissioner,2026 Arkansas Commissioner of State Lands election,Winning,Cole Jester,Republican,520115,63.92,True,False,2026 Arkansas Commissioner of State Lands election
-2026,Arkansas,AR,land commissioner,2026 Arkansas Commissioner of State Lands election,Candidate,Chris Olson,Libertarian,293544,36.08,False,False,2026 Arkansas Commissioner of State Lands election
-2026,Arkansas,AR,land commissioner,2026 Arkansas Commissioner of State Lands election,Total,,,813659,100.0,False,False,2026 Arkansas Commissioner of State Lands election
-2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Winning,Kim Hammer,Republican,490605,55.85,True,False,2026 Arkansas Secretary of State election
-2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Candidate,Kelly Grappe,Democratic,347639,39.58,False,False,2026 Arkansas Secretary of State election
-2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Candidate,Michael Pakko,Libertarian,40174,4.57,False,False,2026 Arkansas Secretary of State election
-2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Total,,,878418,100.0,False,False,2026 Arkansas Secretary of State election
+2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Write-in,,,1766,0.07,False,False,2026 Arizona gubernatorial election
+2026,Arizona,AZ,governor,2026 Arizona gubernatorial election,Total,,,2579147,100.0,False,False,2026 Arizona gubernatorial election
+2026,Arkansas,AR,attorney general,2026 Arkansas Attorney General election,Winning,Tim Griffin,Republican,684321,100.0,True,True,2026 Arkansas Attorney General election
+2026,Arkansas,AR,attorney general,2026 Arkansas Attorney General election,Total,,,684321,100.0,False,False,2026 Arkansas Attorney General election
+2026,Arkansas,AR,land commissioner,2026 Arkansas Commissioner of State Lands election,Winning,Cole Jester,Republican,528090,64.04,True,False,2026 Arkansas Commissioner of State Lands election
+2026,Arkansas,AR,land commissioner,2026 Arkansas Commissioner of State Lands election,Candidate,Chris Olson,Libertarian,296595,35.96,False,False,2026 Arkansas Commissioner of State Lands election
+2026,Arkansas,AR,land commissioner,2026 Arkansas Commissioner of State Lands election,Total,,,824685,100.0,False,False,2026 Arkansas Commissioner of State Lands election
+2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Winning,Kim Hammer,Republican,491308,55.8,True,False,2026 Arkansas Secretary of State election
+2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Candidate,Kelly Grappe,Democratic,348873,39.63,False,False,2026 Arkansas Secretary of State election
+2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Candidate,Michael Pakko,Libertarian,40236,4.57,False,False,2026 Arkansas Secretary of State election
+2026,Arkansas,AR,secretary of state,2026 Arkansas Secretary of State election,Total,,,880417,100.0,False,False,2026 Arkansas Secretary of State election
+2026,Arkansas,AR,state auditor,2026 Arkansas State Auditor election,Winning,Dennis Milligan,Republican,673238,100.0,True,True,2026 Arkansas State Auditor election
+2026,Arkansas,AR,state auditor,2026 Arkansas State Auditor election,Total,,,673238,100.0,False,False,2026 Arkansas State Auditor election
+2026,Arkansas,AR,state treasurer,2026 Arkansas State Treasurer election,Winning,John Thurston,Republican,681382,100.0,True,True,2026 Arkansas State Treasurer election
+2026,Arkansas,AR,state treasurer,2026 Arkansas State Treasurer election,Total,,,681382,100.0,False,False,2026 Arkansas State Treasurer election
 2026,Arkansas,AR,judicial,"Position 3 – 2026 Arkansas Supreme Court election, position 3",Winning,Nicholas Bronni,,217332,54.71,True,True,2026 Arkansas Supreme Court election
 2026,Arkansas,AR,judicial,"Position 3 – 2026 Arkansas Supreme Court election, position 3",Candidate,John Adams,,179940,45.29,False,False,2026 Arkansas Supreme Court election
 2026,Arkansas,AR,judicial,"Position 3 – 2026 Arkansas Supreme Court election, position 3",Total,,,397272,100.0,False,False,2026 Arkansas Supreme Court election
@@ -5043,33 +5051,33 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Arkansas,AR,governor,2026 Arkansas gubernatorial election,Candidate,Fredrick Love,Democratic,343057,38.63,False,False,2026 Arkansas gubernatorial election
 2026,Arkansas,AR,governor,2026 Arkansas gubernatorial election,Candidate,Colt Shelby,Libertarian,67025,7.55,False,False,2026 Arkansas gubernatorial election
 2026,Arkansas,AR,governor,2026 Arkansas gubernatorial election,Total,,,888078,100.0,False,False,2026 Arkansas gubernatorial election
-2026,California,CA,attorney general,2026 California Attorney General election,Winning,Rob Bonta,Democratic,,,True,True,2026 California Attorney General election
-2026,California,CA,attorney general,2026 California Attorney General election,Candidate,Michael Gates,Republican,,,False,False,2026 California Attorney General election
-2026,California,CA,attorney general,2026 California Attorney General election,Total,,,,,False,False,2026 California Attorney General election
-2026,California,CA,insurance commissioner,2026 California Insurance Commissioner election,Winning,Jane Kim,Democratic,6197646,54.3,True,False,2026 California Insurance Commissioner election
-2026,California,CA,insurance commissioner,2026 California Insurance Commissioner election,Candidate,Ben Allen,Democratic,5206834,45.7,False,False,2026 California Insurance Commissioner election
+2026,California,CA,attorney general,2026 California Attorney General election,Winning,Rob Bonta,Democratic,8578434,65.52,True,True,2026 California Attorney General election
+2026,California,CA,attorney general,2026 California Attorney General election,Candidate,Michael Gates,Republican,4515290,34.48,False,False,2026 California Attorney General election
+2026,California,CA,attorney general,2026 California Attorney General election,Total,,,13093724,100.0,False,False,2026 California Attorney General election
+2026,California,CA,insurance commissioner,2026 California Insurance Commissioner election,Winning,Jane Kim,Democratic,6197646,54.34,True,False,2026 California Insurance Commissioner election
+2026,California,CA,insurance commissioner,2026 California Insurance Commissioner election,Candidate,Ben Allen,Democratic,5206834,45.66,False,False,2026 California Insurance Commissioner election
 2026,California,CA,insurance commissioner,2026 California Insurance Commissioner election,Total,,,11404480,100.0,False,False,2026 California Insurance Commissioner election
-2026,California,CA,secretary of state,2026 California Secretary of State election,Candidate,Shirley Weber,Democratic,,,False,True,2026 California Secretary of State election
-2026,California,CA,secretary of state,2026 California Secretary of State election,Candidate,Donald P. Wagner,Republican,,,False,False,2026 California Secretary of State election
-2026,California,CA,secretary of state,2026 California Secretary of State election,Total,,,,,False,False,2026 California Secretary of State election
-2026,California,CA,state auditor,2026 California State Controller election,Candidate,Malia Cohen,Democratic,,,False,True,2026 California State Controller election
-2026,California,CA,state auditor,2026 California State Controller election,Candidate,Herb Morgan,Republican,,,False,False,2026 California State Controller election
-2026,California,CA,state auditor,2026 California State Controller election,Total,,,,,False,False,2026 California State Controller election
-2026,California,CA,superintendent of public instruction,2026 California Superintendent of Public Instruction runoff election,Winning,Richard Barrera,,6632963,59.0,True,False,2026 California Superintendent of Public Instruction election
-2026,California,CA,superintendent of public instruction,2026 California Superintendent of Public Instruction runoff election,Candidate,Sonja Shaw,,4602504,41.0,False,False,2026 California Superintendent of Public Instruction election
-2026,California,CA,superintendent of public instruction,2026 California Superintendent of Public Instruction runoff election,Total,,,11235467,,False,False,2026 California Superintendent of Public Instruction election
+2026,California,CA,secretary of state,2026 California Secretary of State election,Winning,Shirley Weber,Democratic,8729004,66.6,True,True,2026 California Secretary of State election
+2026,California,CA,secretary of state,2026 California Secretary of State election,Candidate,Donald P. Wagner,Republican,4378060,33.4,False,False,2026 California Secretary of State election
+2026,California,CA,secretary of state,2026 California Secretary of State election,Total,,,13107064,100.0,False,False,2026 California Secretary of State election
+2026,California,CA,state auditor,2026 California State Controller election,Winning,Malia Cohen,Democratic,8551696,65.59,True,True,2026 California State Controller election
+2026,California,CA,state auditor,2026 California State Controller election,Candidate,Herb Morgan,Republican,4487391,34.41,False,False,2026 California State Controller election
+2026,California,CA,state auditor,2026 California State Controller election,Total,,,13039087,100.0,False,False,2026 California State Controller election
+2026,California,CA,superintendent of public instruction,2026 California Superintendent of Public Instruction runoff election,Winning,Richard Barrera,,6632963,59.04,True,False,2026 California Superintendent of Public Instruction election
+2026,California,CA,superintendent of public instruction,2026 California Superintendent of Public Instruction runoff election,Candidate,Sonja Shaw,,4602504,40.96,False,False,2026 California Superintendent of Public Instruction election
+2026,California,CA,superintendent of public instruction,2026 California Superintendent of Public Instruction runoff election,Total,,,11235467,100.0,False,False,2026 California Superintendent of Public Instruction election
 2026,California,CA,governor,2026 California gubernatorial election,Winning,Xavier Becerra,Democratic,8740676,65.66,True,False,2026 California gubernatorial election
 2026,California,CA,governor,2026 California gubernatorial election,Candidate,Steve Hilton,Republican,4571042,34.34,False,False,2026 California gubernatorial election
 2026,California,CA,governor,2026 California gubernatorial election,Total,,,13311718,100.0,False,False,2026 California gubernatorial election
-2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Winning,Jena Griswold,Democratic,,,True,False,2026 Colorado Attorney General election
-2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Candidate,Michael J. Allen,Republican,,,False,False,2026 Colorado Attorney General election
-2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Total,,,,100.0,False,False,2026 Colorado Attorney General election
-2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Amanda Gonzalez,Democratic,1571973,60.1,False,False,2026 Colorado Secretary of State election
-2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,James Wiley,Republican,963863,36.8,False,False,2026 Colorado Secretary of State election
-2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Amanda Campbell,American Constitution Party (colorado),21212,0.8,False,False,2026 Colorado Secretary of State election
-2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Celeste Landry,Forward,17423,0.7,False,False,2026 Colorado Secretary of State election
-2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Sean Vadney,Libertarian,41571,1.6,False,False,2026 Colorado Secretary of State election
-2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Total,,,2616042,100.0,False,False,2026 Colorado Secretary of State election
+2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Winning,Jena Griswold,Democratic,1561708,59.03,True,False,2026 Colorado Attorney General election
+2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Candidate,Michael J. Allen,Republican,1083814,40.97,False,False,2026 Colorado Attorney General election
+2026,Colorado,CO,attorney general,2026 Colorado Attorney General election,Total,,,2645522,100.0,False,False,2026 Colorado Attorney General election
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Winning,Amanda Gonzalez,Democratic,1600313,60.21,True,False,2026 Colorado Secretary of State election
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,James Wiley,Republican,975549,36.7,False,False,2026 Colorado Secretary of State election
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Sean Vadney,Libertarian,42550,1.6,False,False,2026 Colorado Secretary of State election
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Amanda Campbell,American Constitution Party (colorado),21688,0.82,False,False,2026 Colorado Secretary of State election
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Candidate,Celeste Landry,Forward,17804,0.67,False,False,2026 Colorado Secretary of State election
+2026,Colorado,CO,secretary of state,2026 Colorado Secretary of State election,Total,,,2657904,100.0,False,False,2026 Colorado Secretary of State election
 2026,Colorado,CO,state board of education,District 1 – 2026 Colorado's 1st State Board of Education district election,Winning,Lisa Escarcega,Democratic,246459,82.49,True,True,2026 Colorado State Board of Education election
 2026,Colorado,CO,state board of education,District 1 – 2026 Colorado's 1st State Board of Education district election,Candidate,Frederick Espinoza,Republican,46520,15.57,False,False,2026 Colorado State Board of Education election
 2026,Colorado,CO,state board of education,District 1 – 2026 Colorado's 1st State Board of Education district election,Candidate,Clayton Casciato,Libertarian,5794,1.94,False,False,2026 Colorado State Board of Education election
@@ -5081,38 +5089,39 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Colorado,CO,state board of education,District 7 – 2026 Colorado's 7th State Board of Education district election,Candidate,Steve Barton,Republican,134332,36.79,False,False,2026 Colorado State Board of Education election
 2026,Colorado,CO,state board of education,District 7 – 2026 Colorado's 7th State Board of Education district election,Candidate,Ross Klopf,Libertarian,11798,3.23,False,False,2026 Colorado State Board of Education election
 2026,Colorado,CO,state board of education,District 7 – 2026 Colorado's 7th State Board of Education district election,Total,,,365096,100.0,False,False,2026 Colorado State Board of Education election
-2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Winning,Jeff Bridges,Democratic,,,True,False,2026 Colorado State Treasurer election
-2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Kevin Grantham,Republican,,,False,False,2026 Colorado State Treasurer election
-2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Jodie Barr,Libertarian,,,False,False,2026 Colorado State Treasurer election
-2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Marilee Langner Sturgis,Voting,,,False,False,2026 Colorado State Treasurer election
-2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Total,,,,100.0,False,False,2026 Colorado State Treasurer election
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Winning,Phil Weiser,Democratic,1639109,61.13,True,False,2026 Colorado gubernatorial election
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Victor Marx,Republican,890472,33.21,False,False,2026 Colorado gubernatorial election
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Greg Lopez,Independent,74134,2.76,False,False,2026 Colorado gubernatorial election
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Erik Mulder,Libertarian,44643,1.67,False,False,2026 Colorado gubernatorial election
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Stephen T. Hamilton,American Constitution Party (colorado),17340,0.65,False,False,2026 Colorado gubernatorial election
+2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Winning,Jeff Bridges,Democratic,1553308,58.85,True,False,2026 Colorado State Treasurer election
+2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Kevin Grantham,Republican,1016653,38.52,False,False,2026 Colorado State Treasurer election
+2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Jodie Barr,Libertarian,59193,2.24,False,False,2026 Colorado State Treasurer election
+2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Candidate,Marilee Langner Sturgis,Voting,10256,0.39,False,False,2026 Colorado State Treasurer election
+2026,Colorado,CO,state treasurer,2026 Colorado State Treasurer election,Total,,,2639410,100.0,False,False,2026 Colorado State Treasurer election
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Winning,Phil Weiser,Democratic,1639208,61.13,True,False,2026 Colorado gubernatorial election
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Victor Marx,Republican,890538,33.21,False,False,2026 Colorado gubernatorial election
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Greg Lopez,Independent,74140,2.76,False,False,2026 Colorado gubernatorial election
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Erik Mulder,Libertarian,44651,1.67,False,False,2026 Colorado gubernatorial election
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Stephen T. Hamilton,American Constitution Party (colorado),17344,0.65,False,False,2026 Colorado gubernatorial election
 2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Erik Underwood,Voting,9533,0.36,False,False,2026 Colorado gubernatorial election
 2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Candidate,Jeff Peckman,Unity,6013,0.22,False,False,2026 Colorado gubernatorial election
-2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Total,,,2681244,100.0,False,False,2026 Colorado gubernatorial election
-2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Winning,William Tong,Total,807844,63.24,True,True,2026 Connecticut Attorney General election
-2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Candidate,William Tong,Democratic,767127,60.05,False,False,2026 Connecticut Attorney General election
-2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Candidate,John Bolton,Republican,469545,36.76,False,False,2026 Connecticut Attorney General election
-2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Total,,,1277389,100.0,False,False,2026 Connecticut Attorney General election
-2026,Connecticut,CT,state auditor,2026 Connecticut State Comptroller election,Winning,Sean Scanlon,Total,802185,63.02,True,True,2026 Connecticut State Comptroller election
-2026,Connecticut,CT,state auditor,2026 Connecticut State Comptroller election,Candidate,Sean Scanlon,Democratic,744378,58.48,False,False,2026 Connecticut State Comptroller election
-2026,Connecticut,CT,state auditor,2026 Connecticut State Comptroller election,Candidate,Jennifer S. Tooker,Republican,470706,36.98,False,False,2026 Connecticut State Comptroller election
-2026,Connecticut,CT,state auditor,2026 Connecticut State Comptroller election,Total,,,1272891,100.0,False,False,2026 Connecticut State Comptroller election
-2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Winning,Erick Russell,Total,768269,60.29,True,True,2026 Connecticut State Treasurer election
-2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Candidate,Erick Russell,Democratic,732870,57.51,False,False,2026 Connecticut State Treasurer election
-2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Candidate,Fred Wilms,Republican,481283,37.77,False,False,2026 Connecticut State Treasurer election
-2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Total,,,1274274,100.0,False,False,2026 Connecticut State Treasurer election
-2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Candidate,Ned Lamont,Democratic,742438,57.26,False,False,2026 Connecticut gubernatorial election
+2026,Colorado,CO,governor,2026 Colorado gubernatorial election,Total,,,2681427,100.0,False,False,2026 Colorado gubernatorial election
+2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Winning,William Tong,Total,806756,63.21,True,True,2026 Connecticut Attorney General election
+2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Candidate,William Tong,Democratic,766077,60.02,False,False,2026 Connecticut Attorney General election
+2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Candidate,John Bolton,Republican,469512,36.79,False,False,2026 Connecticut Attorney General election
+2026,Connecticut,CT,attorney general,2026 Connecticut Attorney General election,Total,,,1276268,100.0,False,False,2026 Connecticut Attorney General election
+2026,Connecticut,CT,state auditor,2026 Connecticut State Comptroller election,Winning,Sean Scanlon,Total,800478,62.97,True,True,2026 Connecticut State Comptroller election
+2026,Connecticut,CT,state auditor,2026 Connecticut State Comptroller election,Candidate,Sean Scanlon,Democratic,743242,58.46,False,False,2026 Connecticut State Comptroller election
+2026,Connecticut,CT,state auditor,2026 Connecticut State Comptroller election,Candidate,Jennifer S. Tooker,Republican,470787,37.03,False,False,2026 Connecticut State Comptroller election
+2026,Connecticut,CT,state auditor,2026 Connecticut State Comptroller election,Total,,,1271265,100.0,False,False,2026 Connecticut State Comptroller election
+2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Winning,Erick Russell,Total,767078,60.28,True,True,2026 Connecticut State Treasurer election
+2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Candidate,Erick Russell,Democratic,731711,57.5,False,False,2026 Connecticut State Treasurer election
+2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Candidate,Fred Wilms,Republican,480801,37.77,False,False,2026 Connecticut State Treasurer election
+2026,Connecticut,CT,state treasurer,2026 Connecticut State Treasurer election,Total,,,1272641,100.0,False,False,2026 Connecticut State Treasurer election
+2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Winning,Ned Lamont,Total,772249,59.56,True,True,2026 Connecticut gubernatorial election
+2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Candidate,Ned Lamont,Democratic,742429,57.26,False,False,2026 Connecticut gubernatorial election
 2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Candidate,Ryan Fazio,Republican,496466,38.29,False,False,2026 Connecticut gubernatorial election
 2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Write-in,,,64,0.01,False,False,2026 Connecticut gubernatorial election
-2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Total,,,1296554,100.0,False,False,2026 Connecticut gubernatorial election
-2026,Delaware,DE,attorney general,2026 Delaware Attorney General general election,Winning,Kathy Jennings,Democratic,240429,63.6,True,True,2026 Delaware Attorney General election
-2026,Delaware,DE,attorney general,2026 Delaware Attorney General general election,Candidate,David C. Graham,Republican,137464,36.4,False,False,2026 Delaware Attorney General election
-2026,Delaware,DE,attorney general,2026 Delaware Attorney General general election,Total,,,377893,100.0,False,False,2026 Delaware Attorney General election
+2026,Connecticut,CT,governor,2026 Connecticut gubernatorial election,Total,,,1296546,100.0,False,False,2026 Connecticut gubernatorial election
+2026,Delaware,DE,attorney general,2026 Delaware Attorney General general election,Winning,Kathy Jennings,Democratic,240626,63.63,True,True,2026 Delaware Attorney General election
+2026,Delaware,DE,attorney general,2026 Delaware Attorney General general election,Candidate,David C. Graham,Republican,137516,36.37,False,False,2026 Delaware Attorney General election
+2026,Delaware,DE,attorney general,2026 Delaware Attorney General general election,Total,,,378142,100.0,False,False,2026 Delaware Attorney General election
 2026,Delaware,DE,state auditor,2026 Delaware State Auditor election,Winning,Lydia York,Democratic,227685,60.39,True,True,2026 Delaware State Auditor election
 2026,Delaware,DE,state auditor,2026 Delaware State Auditor election,Candidate,April Callaway,Republican,130928,34.73,False,False,2026 Delaware State Auditor election
 2026,Delaware,DE,state auditor,2026 Delaware State Auditor election,Candidate,Austin Cassidy,Independent,18380,4.88,False,False,2026 Delaware State Auditor election
@@ -5124,12 +5133,13 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,District of Columbia,DC,attorney general,2026 District of Columbia Attorney General election,Candidate,Manuel Rivera,District,13128,6.89,False,False,2026 District of Columbia Attorney General election
 2026,District of Columbia,DC,attorney general,2026 District of Columbia Attorney General election,Write-in,,,1324,0.7,False,False,2026 District of Columbia Attorney General election
 2026,District of Columbia,DC,attorney general,2026 District of Columbia Attorney General election,Total,,,190432,100.0,False,False,2026 District of Columbia Attorney General election
-2026,Florida,FL,attorney general,2026 Florida Attorney General election,Winning,James Uthmeier,Republican,,,True,True,2026 Florida Attorney General election
-2026,Florida,FL,attorney general,2026 Florida Attorney General election,Candidate,Jose Javier Rodriguez,Democratic,,,False,False,2026 Florida Attorney General election
-2026,Florida,FL,attorney general,2026 Florida Attorney General election,Total,,,,100.0,False,False,2026 Florida Attorney General election
-2026,Florida,FL,agriculture commissioner,2026 Florida Commissioner of Agriculture election,Candidate,Wilton Simpson,Republican,,,False,True,2026 Florida Commissioner of Agriculture election
-2026,Florida,FL,agriculture commissioner,2026 Florida Commissioner of Agriculture election,Candidate,Joey Mendoza Atkins,Democratic,,,False,False,2026 Florida Commissioner of Agriculture election
-2026,Florida,FL,agriculture commissioner,2026 Florida Commissioner of Agriculture election,Total,,,,100.0,False,False,2026 Florida Commissioner of Agriculture election
+2026,Florida,FL,attorney general,2026 Florida Attorney General election,Winning,James Uthmeier,Republican,4181567,50.92,True,True,2026 Florida Attorney General election
+2026,Florida,FL,attorney general,2026 Florida Attorney General election,Candidate,Jose Javier Rodriguez,Democratic,4030552,49.08,False,False,2026 Florida Attorney General election
+2026,Florida,FL,attorney general,2026 Florida Attorney General election,Total,,,8212119,100.0,False,False,2026 Florida Attorney General election
+2026,Florida,FL,agriculture commissioner,2026 Florida Commissioner of Agriculture election,Winning,Wilton Simpson,Republican,4164233,51.06,True,True,2026 Florida Commissioner of Agriculture election
+2026,Florida,FL,agriculture commissioner,2026 Florida Commissioner of Agriculture election,Candidate,Joey Mendoza Atkins,Democratic,3990551,48.93,False,False,2026 Florida Commissioner of Agriculture election
+2026,Florida,FL,agriculture commissioner,2026 Florida Commissioner of Agriculture election,Write-in,,,830,0.01,False,False,2026 Florida Commissioner of Agriculture election
+2026,Florida,FL,agriculture commissioner,2026 Florida Commissioner of Agriculture election,Total,,,8155614,100.0,False,False,2026 Florida Commissioner of Agriculture election
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Winning,Byron Donalds Bryan Avila,Republican,4135955,50.0,True,False,2026 Florida gubernatorial election
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,David Jolly Gwen Graham,Democratic,4030579,48.73,False,False,2026 Florida gubernatorial election
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Scott Eckhard Jewett Nicole Skelly,Libertarian,37951,0.46,False,False,2026 Florida gubernatorial election
@@ -5140,12 +5150,12 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Candidate,Moliere Dimanche Benjiman Rojas,Independent,7609,0.09,False,False,2026 Florida gubernatorial election
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Write-in,Various write-in candidates,Write-in,129,0.0,False,False,2026 Florida gubernatorial election
 2026,Florida,FL,governor,2026 Florida gubernatorial election,Total,,,8271627,100.0,False,False,2026 Florida gubernatorial election
-2026,Georgia,GA,agriculture commissioner,2026 Georgia Agriculture Commissioner election,Candidate,Tyler Harper,Republican,,,False,True,2026 Georgia Agriculture Commissioner election
-2026,Georgia,GA,agriculture commissioner,2026 Georgia Agriculture Commissioner election,Candidate,Katherine Juhan-Arnold,Democratic,,,False,False,2026 Georgia Agriculture Commissioner election
-2026,Georgia,GA,agriculture commissioner,2026 Georgia Agriculture Commissioner election,Total,,,,100.0,False,False,2026 Georgia Agriculture Commissioner election
-2026,Georgia,GA,attorney general,2026 Georgia Attorney General election,Candidate,Brian Strickland,Republican,,,False,False,2026 Georgia Attorney General election
-2026,Georgia,GA,attorney general,2026 Georgia Attorney General election,Candidate,Tanya Miller,Democratic,,,False,False,2026 Georgia Attorney General election
-2026,Georgia,GA,attorney general,2026 Georgia Attorney General election,Total,,,,100.0,False,False,2026 Georgia Attorney General election
+2026,Georgia,GA,agriculture commissioner,2026 Georgia Agriculture Commissioner election,Winning,Katherine Juhan-Arnold,Democratic,2244295,53.85,True,False,2026 Georgia Agriculture Commissioner election
+2026,Georgia,GA,agriculture commissioner,2026 Georgia Agriculture Commissioner election,Candidate,Tyler Harper,Republican,1923456,46.15,False,True,2026 Georgia Agriculture Commissioner election
+2026,Georgia,GA,agriculture commissioner,2026 Georgia Agriculture Commissioner election,Total,,,4167751,100.0,False,False,2026 Georgia Agriculture Commissioner election
+2026,Georgia,GA,attorney general,2026 Georgia Attorney General election,Winning,Tanya Miller,Democratic,2322364,55.55,True,False,2026 Georgia Attorney General election
+2026,Georgia,GA,attorney general,2026 Georgia Attorney General election,Candidate,Brian Strickland,Republican,1858115,44.45,False,False,2026 Georgia Attorney General election
+2026,Georgia,GA,attorney general,2026 Georgia Attorney General election,Total,,,4180479,100.0,False,False,2026 Georgia Attorney General election
 2026,Georgia,GA,judicial,Sara Doyle's seat – Sarah Doyle's seat,Winning,Sara Doyle,,1742244,100.0,True,True,2026 Georgia Court of Appeals election
 2026,Georgia,GA,judicial,Sara Doyle's seat – Sarah Doyle's seat,Total,,,1742244,100.0,False,False,2026 Georgia Court of Appeals election
 2026,Georgia,GA,judicial,E. Trenton Brown III's seat – E. Trenton Brown III's seat,Winning,E. Trenton Brown III,,1203641,63.81,True,True,2026 Georgia Court of Appeals election
@@ -5158,21 +5168,21 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Georgia,GA,judicial,J. Wade Padgett's seat – J. Wade Padgett's seat,Total,,,1723976,100.0,False,False,2026 Georgia Court of Appeals election
 2026,Georgia,GA,judicial,D. Todd Markle's seat – D. Todd Markle's seat,Winning,D. Todd Markle,,1722233,100.0,True,True,2026 Georgia Court of Appeals election
 2026,Georgia,GA,judicial,D. Todd Markle's seat – D. Todd Markle's seat,Total,,,1722233,100.0,False,False,2026 Georgia Court of Appeals election
-2026,Georgia,GA,insurance commissioner,2026 Georgia Insurance Commissioner election,Candidate,John King,Republican,,,False,True,2026 Georgia Insurance Commissioner election
-2026,Georgia,GA,insurance commissioner,2026 Georgia Insurance Commissioner election,Candidate,Keisha Sean Waites,Democratic,,,False,False,2026 Georgia Insurance Commissioner election
-2026,Georgia,GA,insurance commissioner,2026 Georgia Insurance Commissioner election,Total,,,,100.0,False,False,2026 Georgia Insurance Commissioner election
-2026,Georgia,GA,labor commissioner,2026 Georgia Labor Commissioner election,Candidate,Bárbara Rivera Holmes,Republican,,,False,True,2026 Georgia Labor Commissioner election
-2026,Georgia,GA,labor commissioner,2026 Georgia Labor Commissioner election,Candidate,Nikki Porcher,Democratic,,,False,False,2026 Georgia Labor Commissioner election
-2026,Georgia,GA,labor commissioner,2026 Georgia Labor Commissioner election,Total,,,,100.0,False,False,2026 Georgia Labor Commissioner election
+2026,Georgia,GA,insurance commissioner,2026 Georgia Insurance Commissioner election,Winning,Keisha Sean Waites,Democratic,2260907,54.31,True,False,2026 Georgia Insurance Commissioner election
+2026,Georgia,GA,insurance commissioner,2026 Georgia Insurance Commissioner election,Candidate,John King,Republican,1902249,45.69,False,True,2026 Georgia Insurance Commissioner election
+2026,Georgia,GA,insurance commissioner,2026 Georgia Insurance Commissioner election,Total,,,4163156,100.0,False,False,2026 Georgia Insurance Commissioner election
+2026,Georgia,GA,labor commissioner,2026 Georgia Labor Commissioner election,Winning,Nikki Porcher,Democratic,2271896,54.64,True,False,2026 Georgia Labor Commissioner election
+2026,Georgia,GA,labor commissioner,2026 Georgia Labor Commissioner election,Candidate,Bárbara Rivera Holmes,Republican,1885766,45.36,False,True,2026 Georgia Labor Commissioner election
+2026,Georgia,GA,labor commissioner,2026 Georgia Labor Commissioner election,Total,,,4157662,100.0,False,False,2026 Georgia Labor Commissioner election
 2026,Georgia,GA,public service commission,District 5 – Republican primary runoff,Winning,Josh Tolbert,Republican,371567,59.8,True,False,2026 Georgia Public Service Commission election
 2026,Georgia,GA,public service commission,District 5 – Republican primary runoff,Candidate,Bobby Mehan,Republican,250229,40.2,False,False,2026 Georgia Public Service Commission election
 2026,Georgia,GA,public service commission,District 5 – Republican primary runoff,Total,,,621796,100.0,False,False,2026 Georgia Public Service Commission election
-2026,Georgia,GA,public service commission,"District 5 – 2026 Georgia Public Service Commission election, district 5",Winning,Shelia Edwards,Democratic,2294542,55.31,True,False,2026 Georgia Public Service Commission election
-2026,Georgia,GA,public service commission,"District 5 – 2026 Georgia Public Service Commission election, district 5",Candidate,Josh Tolbert,Republican,1854001,44.69,False,False,2026 Georgia Public Service Commission election
-2026,Georgia,GA,public service commission,"District 5 – 2026 Georgia Public Service Commission election, district 5",Total,,,4148543,100.0,False,False,2026 Georgia Public Service Commission election
-2026,Georgia,GA,superintendent of public instruction,2026 Georgia State Superintendent of Schools election results,Candidate,Lydia Powell,Democratic,2275556,54.62,False,False,2026 Georgia State Superintendent of Schools election
-2026,Georgia,GA,superintendent of public instruction,2026 Georgia State Superintendent of Schools election results,Candidate,Richard Woods,Republican,1890226,45.38,False,True,2026 Georgia State Superintendent of Schools election
-2026,Georgia,GA,superintendent of public instruction,2026 Georgia State Superintendent of Schools election results,Total,,,4165782,100.0,False,False,2026 Georgia State Superintendent of Schools election
+2026,Georgia,GA,public service commission,"District 5 – 2026 Georgia Public Service Commission election, district 5",Winning,Shelia Edwards,Democratic,2299962,55.33,True,False,2026 Georgia Public Service Commission election
+2026,Georgia,GA,public service commission,"District 5 – 2026 Georgia Public Service Commission election, district 5",Candidate,Josh Tolbert,Republican,1856574,44.67,False,False,2026 Georgia Public Service Commission election
+2026,Georgia,GA,public service commission,"District 5 – 2026 Georgia Public Service Commission election, district 5",Total,,,4156536,100.0,False,False,2026 Georgia Public Service Commission election
+2026,Georgia,GA,superintendent of public instruction,2026 Georgia State Superintendent of Schools election results,Winning,Lydia Powell,Democratic,2278023,54.63,True,False,2026 Georgia State Superintendent of Schools election
+2026,Georgia,GA,superintendent of public instruction,2026 Georgia State Superintendent of Schools election results,Candidate,Richard Woods,Republican,1891982,45.37,False,True,2026 Georgia State Superintendent of Schools election
+2026,Georgia,GA,superintendent of public instruction,2026 Georgia State Superintendent of Schools election results,Total,,,4170005,100.0,False,False,2026 Georgia State Superintendent of Schools election
 2026,Georgia,GA,judicial,Charlie Bethel's seat,Winning,Charlie Bethel,,990743,51.11,True,True,2026 Georgia Supreme Court election
 2026,Georgia,GA,judicial,Charlie Bethel's seat,Candidate,Miracle Rankin,,947697,48.89,False,False,2026 Georgia Supreme Court election
 2026,Georgia,GA,judicial,Charlie Bethel's seat,Total,,,1938440,100.0,False,False,2026 Georgia Supreme Court election
@@ -5199,60 +5209,78 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Hawaii,HI,governor,2026 Hawaii gubernatorial election,Winning,Josh Green,Democratic,279445,72.64,True,True,2026 Hawaii gubernatorial election
 2026,Hawaii,HI,governor,2026 Hawaii gubernatorial election,Candidate,Gary Cordery,Republican,105258,27.36,False,False,2026 Hawaii gubernatorial election
 2026,Hawaii,HI,governor,2026 Hawaii gubernatorial election,Total,,,384703,100.0,False,False,2026 Hawaii gubernatorial election
-2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Winning,Brad Little,Republican,408410,57.03,True,False,2026 Idaho gubernatorial election
-2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Candidate,Terri Pickens,Democratic,231475,32.33,False,False,2026 Idaho gubernatorial election
-2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Candidate,John Stegner,Independent,54867,7.66,False,False,2026 Idaho gubernatorial election
-2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Candidate,Paul Sand,Libertarian,11569,1.62,False,False,2026 Idaho gubernatorial election
-2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Candidate,Pro-Life,Constitution,9508,1.33,False,False,2026 Idaho gubernatorial election
-2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Write-in,,,284,0.03,False,False,2026 Idaho gubernatorial election
-2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Total,,,716113,100.0,False,False,2026 Idaho gubernatorial election
-2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Candidate,Kwame Raoul,Democratic,,,False,True,2026 Illinois Attorney General election
-2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Candidate,Bob Fioretti,Republican,,,False,False,2026 Illinois Attorney General election
-2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Total,,,,100.0,False,False,2026 Illinois Attorney General election
+2026,Idaho,ID,attorney general,2026 Idaho Attorney General election,Winning,Raúl Labrador,Republican,423179,59.79,True,True,2026 Idaho Attorney General election
+2026,Idaho,ID,attorney general,2026 Idaho Attorney General election,Candidate,Lori Hickman,Democratic,284543,40.21,False,False,2026 Idaho Attorney General election
+2026,Idaho,ID,attorney general,2026 Idaho Attorney General election,Total,,,707722,100.0,False,False,2026 Idaho Attorney General election
+2026,Idaho,ID,secretary of state,2026 Idaho Secretary of State election,Winning,Phil McGrane,Republican,473705,67.33,True,True,2026 Idaho Secretary of State election
+2026,Idaho,ID,secretary of state,2026 Idaho Secretary of State election,Candidate,Shawn Keenan,Democratic,229804,32.67,False,False,2026 Idaho Secretary of State election
+2026,Idaho,ID,secretary of state,2026 Idaho Secretary of State election,Total,,,703509,100.0,False,False,2026 Idaho Secretary of State election
+2026,Idaho,ID,state auditor,2026 Idaho State Controller election,Winning,Brandon Woolf,Republican,463100,66.16,True,True,2026 Idaho State Controller election
+2026,Idaho,ID,state auditor,2026 Idaho State Controller election,Candidate,Rakesh Mohan,Democratic,236824,33.84,False,False,2026 Idaho State Controller election
+2026,Idaho,ID,state auditor,2026 Idaho State Controller election,Total,,,699924,100.0,False,False,2026 Idaho State Controller election
+2026,Idaho,ID,state treasurer,2026 Idaho State Treasurer election,Winning,Julie Ellsworth,Republican,456971,65.43,True,True,2026 Idaho State Treasurer election
+2026,Idaho,ID,state treasurer,2026 Idaho State Treasurer election,Candidate,Kevin Jones,Democratic,241444,34.57,False,False,2026 Idaho State Treasurer election
+2026,Idaho,ID,state treasurer,2026 Idaho State Treasurer election,Total,,,698415,100.0,False,False,2026 Idaho State Treasurer election
+2026,Idaho,ID,superintendent of public instruction,2026 Idaho Superintendent of Public Instruction election,Winning,Debbie Critchfield,Republican,430861,61.54,True,True,2026 Idaho Superintendent of Public Instruction election
+2026,Idaho,ID,superintendent of public instruction,2026 Idaho Superintendent of Public Instruction election,Candidate,Becky Sundin Mitchell,Democratic,244391,34.91,False,False,2026 Idaho Superintendent of Public Instruction election
+2026,Idaho,ID,superintendent of public instruction,2026 Idaho Superintendent of Public Instruction election,Candidate,Teresa Roundy,Constitution,24827,3.55,False,False,2026 Idaho Superintendent of Public Instruction election
+2026,Idaho,ID,superintendent of public instruction,2026 Idaho Superintendent of Public Instruction election,Total,,,699539,100.0,False,False,2026 Idaho Superintendent of Public Instruction election
+2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Winning,Brad Little,Republican,408547,56.92,True,False,2026 Idaho gubernatorial election
+2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Candidate,Terri Pickens,Democratic,231485,32.25,False,False,2026 Idaho gubernatorial election
+2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Candidate,John Stegner,Independent,54860,7.64,False,False,2026 Idaho gubernatorial election
+2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Candidate,Paul Sand,Libertarian,11568,1.61,False,False,2026 Idaho gubernatorial election
+2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Candidate,Pro-Life,Constitution,9508,1.32,False,False,2026 Idaho gubernatorial election
+2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Write-in,,,1790,0.25,False,False,2026 Idaho gubernatorial election
+2026,Idaho,ID,governor,2026 Idaho gubernatorial election,Total,,,717758,100.0,False,False,2026 Idaho gubernatorial election
+2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Winning,Kwame Raoul,Democratic,2624436,62.33,True,True,2026 Illinois Attorney General election
+2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Candidate,Bob Fioretti,Republican,1585859,37.67,False,False,2026 Illinois Attorney General election
+2026,Illinois,IL,attorney general,2026 Illinois Attorney General election,Total,,,4210295,100.0,False,False,2026 Illinois Attorney General election
 2026,Illinois,IL,state auditor,2026 Illinois State Comptroller election,Winning,Margaret Croke,Democratic,2567148,61.75,True,False,2026 Illinois Comptroller election
 2026,Illinois,IL,state auditor,2026 Illinois State Comptroller election,Candidate,Bryan Drew,Republican,1590331,38.25,False,False,2026 Illinois Comptroller election
 2026,Illinois,IL,state auditor,2026 Illinois State Comptroller election,Total,,,4157479,100.0,False,False,2026 Illinois Comptroller election
-2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Winning,Alexi Giannoulias,Democratic,,,True,True,2026 Illinois Secretary of State election
-2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Candidate,Diane M. Harris,Republican,,,False,False,2026 Illinois Secretary of State election
-2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Total,,,,100.0,False,False,2026 Illinois Secretary of State election
-2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Winning,Mike Frerichs,Democratic,,,True,True,2026 Illinois State Treasurer election
-2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Candidate,Max Solomon,Republican,,,False,False,2026 Illinois State Treasurer election
-2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Total,,,,100.0,False,False,2026 Illinois State Treasurer election
+2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Winning,Alexi Giannoulias,Democratic,2754912,65.48,True,True,2026 Illinois Secretary of State election
+2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Candidate,Diane M. Harris,Republican,1452655,34.52,False,False,2026 Illinois Secretary of State election
+2026,Illinois,IL,secretary of state,2026 Illinois Secretary of State election,Total,,,4207567,100.0,False,False,2026 Illinois Secretary of State election
+2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Winning,Mike Frerichs,Democratic,2619295,62.87,True,True,2026 Illinois State Treasurer election
+2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Candidate,Max Solomon,Republican,1546973,37.13,False,False,2026 Illinois State Treasurer election
+2026,Illinois,IL,state treasurer,2026 Illinois State Treasurer election,Total,,,4166268,100.0,False,False,2026 Illinois State Treasurer election
 2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Winning,JB Pritzker,Democratic,2574606,60.82,True,True,2026 Illinois gubernatorial election
 2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Darren Bailey,Republican,1516219,35.82,False,False,2026 Illinois gubernatorial election
 2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Candidate,Collin Corbett,Independent,142368,3.36,False,False,2026 Illinois gubernatorial election
 2026,Illinois,IL,governor,2026 Illinois gubernatorial election,Total,,,4190958,100.0,False,False,2026 Illinois gubernatorial election
-2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Winning,Beau Bayh,Democratic,1006139,51.77,True,False,2026 Indiana Secretary of State election
-2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Max Engling,Republican,828418,42.63,False,False,2026 Indiana Secretary of State election
-2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Greg Ballard,Lincoln,70040,3.6,False,False,2026 Indiana Secretary of State election
-2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Lauri Shillings,Libertarian,38627,1.99,False,False,2026 Indiana Secretary of State election
-2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Write-in,,,112,0.01,False,False,2026 Indiana Secretary of State election
-2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Total,,,1943336,100.0,False,False,2026 Indiana Secretary of State election
-2026,Indiana,IN,state auditor,2026 Indiana State Comptroller election,Winning,Jessica Bailey,Democratic,958086,49.82,True,False,2026 Indiana State Comptroller election
-2026,Indiana,IN,state auditor,2026 Indiana State Comptroller election,Candidate,Elise Nieshalla,Republican,909236,47.28,False,True,2026 Indiana State Comptroller election
-2026,Indiana,IN,state auditor,2026 Indiana State Comptroller election,Candidate,John Schick,Libertarian,55900,2.9,False,False,2026 Indiana State Comptroller election
-2026,Indiana,IN,state auditor,2026 Indiana State Comptroller election,Total,,,1923222,100.0,False,False,2026 Indiana State Comptroller election
-2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Winning,Daniel Elliott,Republican,979897,51.01,True,True,2026 Indiana State Treasurer election
-2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Candidate,Coumba Kebe,Democratic,940964,49.99,False,False,2026 Indiana State Treasurer election
-2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Total,,,1920861,100.0,False,False,2026 Indiana State Treasurer election
-2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Winning,Nathan Willems,Democratic,681107.0,50.9,True,False,2026 Iowa Attorney General election
-2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Candidate,Brenna Bird,Republican,657405.0,49.1,False,True,2026 Iowa Attorney General election
-2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Write-in,,,1338512.0,100.0,False,False,2026 Iowa Attorney General election
-2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Total,,,,100.0,False,False,2026 Iowa Attorney General election
-2026,Iowa,IA,agriculture commissioner,2026 Iowa Secretary of Agriculture election,Candidate,Mike Naig,Republican,701883.0,52.7,False,True,2026 Iowa Secretary of Agriculture election
-2026,Iowa,IA,agriculture commissioner,2026 Iowa Secretary of Agriculture election,Candidate,Chris Jones,Democratic,629249.0,47.3,False,False,2026 Iowa Secretary of Agriculture election
-2026,Iowa,IA,agriculture commissioner,2026 Iowa Secretary of Agriculture election,Write-in,,,1331132.0,100.0,False,False,2026 Iowa Secretary of Agriculture election
-2026,Iowa,IA,agriculture commissioner,2026 Iowa Secretary of Agriculture election,Total,,,,100.0,False,False,2026 Iowa Secretary of Agriculture election
-2026,Iowa,IA,secretary of state,2026 Iowa Secretary of State election results,Winning,Paul Pate,Republican,711768,53.2,True,True,2026 Iowa Secretary of State election
-2026,Iowa,IA,secretary of state,2026 Iowa Secretary of State election results,Candidate,Ryan Peterman,Democratic,625867,46.8,False,False,2026 Iowa Secretary of State election
-2026,Iowa,IA,secretary of state,2026 Iowa Secretary of State election results,Total,,,1337635,100.0,False,False,2026 Iowa Secretary of State election
-2026,Iowa,IA,state auditor,2026 Iowa State Auditor election results,Winning,Taylor Wettach,Democratic,666632,50.2,True,False,2026 Iowa State Auditor election
-2026,Iowa,IA,state auditor,2026 Iowa State Auditor election results,Candidate,Chris Cournoyer,Republican,660159,49.7,False,False,2026 Iowa State Auditor election
-2026,Iowa,IA,state auditor,2026 Iowa State Auditor election results,Candidate,Write-in,Independent,1328,0.1,False,False,2026 Iowa State Auditor election
-2026,Iowa,IA,state auditor,2026 Iowa State Auditor election results,Total,,,1328119,100.0,False,False,2026 Iowa State Auditor election
-2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election results,Winning,Roby Smith,Republican,664948,50.35,True,True,2026 Iowa State Treasurer election
-2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election results,Candidate,John Norwood,Democratic,655768,49.65,False,False,2026 Iowa State Treasurer election
-2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election results,Total,,,1320716,100.0,False,False,2026 Iowa State Treasurer election
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Winning,Beau Bayh,Democratic,1007815,51.8,True,False,2026 Indiana Secretary of State election
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Max Engling,Republican,829083,42.61,False,False,2026 Indiana Secretary of State election
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Greg Ballard,Lincoln,70068,3.6,False,False,2026 Indiana Secretary of State election
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Candidate,Lauri Shillings,Libertarian,38663,1.99,False,False,2026 Indiana Secretary of State election
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Write-in,,,136,0.01,False,False,2026 Indiana Secretary of State election
+2026,Indiana,IN,secretary of state,2026 Indiana Secretary of State election,Total,,,1945765,100.0,False,False,2026 Indiana Secretary of State election
+2026,Indiana,IN,state auditor,2026 Indiana State Comptroller election,Winning,Jessica Bailey,Democratic,959833,49.84,True,False,2026 Indiana State Comptroller election
+2026,Indiana,IN,state auditor,2026 Indiana State Comptroller election,Candidate,Elise Nieshalla,Republican,909968,47.25,False,True,2026 Indiana State Comptroller election
+2026,Indiana,IN,state auditor,2026 Indiana State Comptroller election,Candidate,John Schick,Libertarian,55948,2.91,False,False,2026 Indiana State Comptroller election
+2026,Indiana,IN,state auditor,2026 Indiana State Comptroller election,Total,,,1925749,100.0,False,False,2026 Indiana State Comptroller election
+2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Winning,Daniel Elliott,Republican,980239,51.02,True,True,2026 Indiana State Treasurer election
+2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Candidate,Coumba Kebe,Democratic,941117,48.98,False,False,2026 Indiana State Treasurer election
+2026,Indiana,IN,state treasurer,2026 Indiana State Treasurer election,Total,,,1921356,100.0,False,False,2026 Indiana State Treasurer election
+2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Winning,Nathan Willems,Democratic,683177,50.88,True,False,2026 Iowa Attorney General election
+2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Candidate,Brenna Bird,Republican,658090,49.01,False,True,2026 Iowa Attorney General election
+2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Write-in,,,1489,0.11,False,False,2026 Iowa Attorney General election
+2026,Iowa,IA,attorney general,2026 Iowa Attorney General election,Total,,,1342756,100.0,False,False,2026 Iowa Attorney General election
+2026,Iowa,IA,agriculture commissioner,2026 Iowa Secretary of Agriculture election,Winning,Mike Naig,Republican,702627,52.63,True,True,2026 Iowa Secretary of Agriculture election
+2026,Iowa,IA,agriculture commissioner,2026 Iowa Secretary of Agriculture election,Candidate,Chris Jones,Democratic,631260,47.28,False,False,2026 Iowa Secretary of Agriculture election
+2026,Iowa,IA,agriculture commissioner,2026 Iowa Secretary of Agriculture election,Write-in,,,1144,0.09,False,False,2026 Iowa Secretary of Agriculture election
+2026,Iowa,IA,agriculture commissioner,2026 Iowa Secretary of Agriculture election,Total,,,1331132,100.0,False,False,2026 Iowa Secretary of Agriculture election
+2026,Iowa,IA,secretary of state,2026 Iowa Secretary of State election results,Winning,Paul Pate,Republican,712522,53.11,True,True,2026 Iowa Secretary of State election
+2026,Iowa,IA,secretary of state,2026 Iowa Secretary of State election results,Candidate,Ryan Peterman,Democratic,627868,46.8,False,False,2026 Iowa Secretary of State election
+2026,Iowa,IA,secretary of state,2026 Iowa Secretary of State election results,Write-in,,,1218,0.09,False,False,2026 Iowa Secretary of State election
+2026,Iowa,IA,secretary of state,2026 Iowa Secretary of State election results,Total,,,1341608,100.0,False,False,2026 Iowa Secretary of State election
+2026,Iowa,IA,state auditor,2026 Iowa State Auditor election results,Winning,Taylor Wettach,Democratic,668698,50.25,True,False,2026 Iowa State Auditor election
+2026,Iowa,IA,state auditor,2026 Iowa State Auditor election results,Candidate,Chris Cournoyer,Republican,660829,49.65,False,False,2026 Iowa State Auditor election
+2026,Iowa,IA,state auditor,2026 Iowa State Auditor election results,Write-in,,,1342,0.1,False,False,2026 Iowa State Auditor election
+2026,Iowa,IA,state auditor,2026 Iowa State Auditor election results,Total,,,1330869,100.0,False,False,2026 Iowa State Auditor election
+2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election results,Winning,Roby Smith,Republican,665629,50.25,True,True,2026 Iowa State Treasurer election
+2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election results,Candidate,John Norwood,Democratic,657807,49.66,False,False,2026 Iowa State Treasurer election
+2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election results,Write-in,,,1286,0.1,False,False,2026 Iowa State Treasurer election
+2026,Iowa,IA,state treasurer,2026 Iowa State Treasurer election results,Total,,,1324722,100.0,False,False,2026 Iowa State Treasurer election
 2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Winning,Rob Sand,Democratic,759570,55.47,True,False,2026 Iowa gubernatorial election
 2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Candidate,Zach Lahn,Republican,608025,44.4,False,False,2026 Iowa gubernatorial election
 2026,Iowa,IA,governor,2026 Iowa gubernatorial election,Write-in,,,1756,0.13,False,False,2026 Iowa gubernatorial election
@@ -5260,36 +5288,39 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Kansas,KS,attorney general,2026 Kansas Attorney General election,Winning,Chris Mann,Democratic,552753,50.62,True,False,2026 Kansas Attorney General election
 2026,Kansas,KS,attorney general,2026 Kansas Attorney General election,Candidate,Kris Kobach,Republican,539297,49.38,False,True,2026 Kansas Attorney General election
 2026,Kansas,KS,attorney general,2026 Kansas Attorney General election,Total,,,1092050,100.0,False,False,2026 Kansas Attorney General election
-2026,Kansas,KS,insurance commissioner,2026 Kansas Insurance Commissioner election results,Candidate,Daniel Hawkins,Republican,529858,48.99,False,False,2026 Kansas Insurance Commissioner election
-2026,Kansas,KS,insurance commissioner,2026 Kansas Insurance Commissioner election results,Candidate,Dinah Sykes,Democratic,512335,47.37,False,False,2026 Kansas Insurance Commissioner election
-2026,Kansas,KS,insurance commissioner,2026 Kansas Insurance Commissioner election results,Candidate,Ric Koehn,Libertarian,39401,3.64,False,False,2026 Kansas Insurance Commissioner election
-2026,Kansas,KS,insurance commissioner,2026 Kansas Insurance Commissioner election results,Total,,,1081594,100.0,False,False,2026 Kansas Insurance Commissioner election
-2026,Kansas,KS,secretary of state,2026 Kansas Secretary of State election results,Candidate,Pat Proctor,Republican,523937,48.3,False,False,2026 Kansas Secretary of State election
-2026,Kansas,KS,secretary of state,2026 Kansas Secretary of State election results,Candidate,Jennifer Day,Democratic,514512,47.4,False,False,2026 Kansas Secretary of State election
-2026,Kansas,KS,secretary of state,2026 Kansas Secretary of State election results,Candidate,Scott Morgan,United Kansas,45942,4.2,False,False,2026 Kansas Secretary of State election
-2026,Kansas,KS,secretary of state,2026 Kansas Secretary of State election results,Total,,,1084391,100.0,False,False,2026 Kansas Secretary of State election
-2026,Kansas,KS,state board of education,"District 1 – 2026 Kansas State Board of Education election, district 1",Winning,Amy Cawvey,Republican,55736,54.66,True,False,2026 Kansas State Board of Education election
-2026,Kansas,KS,state board of education,"District 1 – 2026 Kansas State Board of Education election, district 1",Candidate,Jennifer Lloyd,Democratic,46231,45.34,False,False,2026 Kansas State Board of Education election
-2026,Kansas,KS,state board of education,"District 1 – 2026 Kansas State Board of Education election, district 1",Total,,,101967,100.0,False,False,2026 Kansas State Board of Education election
-2026,Kansas,KS,state board of education,"District 3 – 2026 Kansas State Board of Education election, district 3",Winning,Amy Diediker,Democratic,74482,55.15,True,False,2026 Kansas State Board of Education election
-2026,Kansas,KS,state board of education,"District 3 – 2026 Kansas State Board of Education election, district 3",Candidate,Jim McMullen,Republican,60568,44.85,False,False,2026 Kansas State Board of Education election
-2026,Kansas,KS,state board of education,"District 3 – 2026 Kansas State Board of Education election, district 3",Total,,,135050,100.0,False,False,2026 Kansas State Board of Education election
-2026,Kansas,KS,state board of education,"District 5 – 2026 Kansas State Board of Education election, district 5",Winning,Jean Clifford,Republican,65139,73.16,True,False,2026 Kansas State Board of Education election
-2026,Kansas,KS,state board of education,"District 5 – 2026 Kansas State Board of Education election, district 5",Candidate,Lorie Wood,Democratic,23901,26.84,False,False,2026 Kansas State Board of Education election
-2026,Kansas,KS,state board of education,"District 5 – 2026 Kansas State Board of Education election, district 5",Total,,,89040,100.0,False,False,2026 Kansas State Board of Education election
-2026,Kansas,KS,state board of education,"District 7 – 2026 Kansas State Board of Education election, district 7",Winning,Alana McWilliams,Republican,67331,62.77,True,False,2026 Kansas State Board of Education election
-2026,Kansas,KS,state board of education,"District 7 – 2026 Kansas State Board of Education election, district 7",Candidate,Ann Zimmerman,Democratic,39939,37.23,False,False,2026 Kansas State Board of Education election
-2026,Kansas,KS,state board of education,"District 7 – 2026 Kansas State Board of Education election, district 7",Total,,,107270,100.0,False,False,2026 Kansas State Board of Education election
-2026,Kansas,KS,state board of education,"District 9 – 2026 Kansas State Board of Education election, district 9",Winning,Destry Brown,Republican,67515,68.64,True,False,2026 Kansas State Board of Education election
-2026,Kansas,KS,state board of education,"District 9 – 2026 Kansas State Board of Education election, district 9",Candidate,Heather Guernsey,Democratic,30845,31.36,False,False,2026 Kansas State Board of Education election
-2026,Kansas,KS,state board of education,"District 9 – 2026 Kansas State Board of Education election, district 9",Total,,,98360,100.0,False,False,2026 Kansas State Board of Education election
-2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Winning,Steven Johnson,Republican,553683,51.2,True,True,2026 Kansas State Treasurer election
-2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Candidate,Juan Luengo,Democratic,478668,44.3,False,False,2026 Kansas State Treasurer election
-2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Candidate,Eric Lund,Libertarian,49017,4.5,False,False,2026 Kansas State Treasurer election
-2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Total,,,1081368,100.0,False,False,2026 Kansas State Treasurer election
+2026,Kansas,KS,insurance commissioner,2026 Kansas Insurance Commissioner election results,Winning,Daniel Hawkins,Republican,530494,49.0,True,False,2026 Kansas Insurance Commissioner election
+2026,Kansas,KS,insurance commissioner,2026 Kansas Insurance Commissioner election results,Candidate,Dinah Sykes,Democratic,513291,47.41,False,False,2026 Kansas Insurance Commissioner election
+2026,Kansas,KS,insurance commissioner,2026 Kansas Insurance Commissioner election results,Candidate,Ric Koehn,Libertarian,38773,3.58,False,False,2026 Kansas Insurance Commissioner election
+2026,Kansas,KS,insurance commissioner,2026 Kansas Insurance Commissioner election results,Total,,,1082558,100.0,False,False,2026 Kansas Insurance Commissioner election
+2026,Kansas,KS,secretary of state,2026 Kansas Secretary of State election results,Winning,Pat Proctor,Republican,524555,48.29,True,False,2026 Kansas Secretary of State election
+2026,Kansas,KS,secretary of state,2026 Kansas Secretary of State election results,Candidate,Jennifer Day,Democratic,515738,47.48,False,False,2026 Kansas Secretary of State election
+2026,Kansas,KS,secretary of state,2026 Kansas Secretary of State election results,Candidate,Scott Morgan,United Kansas,46036,4.24,False,False,2026 Kansas Secretary of State election
+2026,Kansas,KS,secretary of state,2026 Kansas Secretary of State election results,Total,,,1086329,100.0,False,False,2026 Kansas Secretary of State election
+2026,Kansas,KS,state board of education,"District 1 – 2026 Kansas State Board of Education election, district 1",Winning,Amy Cawvey,Republican,55908,54.56,True,False,2026 Kansas State Board of Education election
+2026,Kansas,KS,state board of education,"District 1 – 2026 Kansas State Board of Education election, district 1",Candidate,Jennifer Lloyd,Democratic,46555,45.44,False,False,2026 Kansas State Board of Education election
+2026,Kansas,KS,state board of education,"District 1 – 2026 Kansas State Board of Education election, district 1",Total,,,102463,100.0,False,False,2026 Kansas State Board of Education election
+2026,Kansas,KS,state board of education,"District 3 – 2026 Kansas State Board of Education election, district 3",Winning,Amy Diediker,Democratic,74694,55.17,True,False,2026 Kansas State Board of Education election
+2026,Kansas,KS,state board of education,"District 3 – 2026 Kansas State Board of Education election, district 3",Candidate,Jim McMullen,Republican,60691,44.83,False,False,2026 Kansas State Board of Education election
+2026,Kansas,KS,state board of education,"District 3 – 2026 Kansas State Board of Education election, district 3",Total,,,135385,100.0,False,False,2026 Kansas State Board of Education election
+2026,Kansas,KS,state board of education,"District 5 – 2026 Kansas State Board of Education election, district 5",Winning,Jean Clifford,Republican,65273,73.09,True,False,2026 Kansas State Board of Education election
+2026,Kansas,KS,state board of education,"District 5 – 2026 Kansas State Board of Education election, district 5",Candidate,Lorie Wood,Democratic,24034,26.91,False,False,2026 Kansas State Board of Education election
+2026,Kansas,KS,state board of education,"District 5 – 2026 Kansas State Board of Education election, district 5",Total,,,89307,100.0,False,False,2026 Kansas State Board of Education election
+2026,Kansas,KS,state board of education,"District 7 – 2026 Kansas State Board of Education election, district 7",Winning,Alana McWilliams,Republican,67578,62.75,True,False,2026 Kansas State Board of Education election
+2026,Kansas,KS,state board of education,"District 7 – 2026 Kansas State Board of Education election, district 7",Candidate,Ann Zimmerman,Democratic,40117,37.25,False,False,2026 Kansas State Board of Education election
+2026,Kansas,KS,state board of education,"District 7 – 2026 Kansas State Board of Education election, district 7",Total,,,107695,100.0,False,False,2026 Kansas State Board of Education election
+2026,Kansas,KS,state board of education,"District 9 – 2026 Kansas State Board of Education election, district 9",Winning,Destry Brown,Republican,68050,68.5,True,False,2026 Kansas State Board of Education election
+2026,Kansas,KS,state board of education,"District 9 – 2026 Kansas State Board of Education election, district 9",Candidate,Heather Guernsey,Democratic,31291,31.5,False,False,2026 Kansas State Board of Education election
+2026,Kansas,KS,state board of education,"District 9 – 2026 Kansas State Board of Education election, district 9",Total,,,99341,100.0,False,False,2026 Kansas State Board of Education election
+2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Winning,Steven Johnson,Republican,554383,51.18,True,True,2026 Kansas State Treasurer election
+2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Candidate,Juan Luengo,Democratic,479827,44.29,False,False,2026 Kansas State Treasurer election
+2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Candidate,Eric Lund,Libertarian,49091,4.53,False,False,2026 Kansas State Treasurer election
+2026,Kansas,KS,state treasurer,2026 Kansas State Treasurer election results,Total,,,1083301,100.0,False,False,2026 Kansas State Treasurer election
 2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Winning,Cindy Holscher,Democratic,562012,50.51,True,False,2026 Kansas gubernatorial election
 2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Candidate,Ty Masterson,Republican,550643,49.49,False,False,2026 Kansas gubernatorial election
 2026,Kansas,KS,governor,2026 Kansas gubernatorial election,Total,,,1112655,100.0,False,False,2026 Kansas gubernatorial election
+2026,Louisiana,LA,state board of education,2026 Louisiana Board of Elementary and Secondary Education District 1 special election,Winning,Joseph Cao,Republican,127178,63.34,True,True,2026 Louisiana Board of Elementary and Secondary Education special election
+2026,Louisiana,LA,state board of education,2026 Louisiana Board of Elementary and Secondary Education District 1 special election,Candidate,Angela Hershey,Democratic,73614,36.66,False,False,2026 Louisiana Board of Elementary and Secondary Education special election
+2026,Louisiana,LA,state board of education,2026 Louisiana Board of Elementary and Secondary Education District 1 special election,Total,,,200792,100.0,False,False,2026 Louisiana Board of Elementary and Secondary Education special election
 2026,Louisiana,LA,public service commission,District 1 – Republican primary runoff results,Winning,Stephanie Hilferty,Republican,49047,62.47,True,False,2026 Louisiana Public Service Commission election
 2026,Louisiana,LA,public service commission,District 1 – Republican primary runoff results,Candidate,John Young,Republican,29459,37.53,False,False,2026 Louisiana Public Service Commission election
 2026,Louisiana,LA,public service commission,District 1 – Republican primary runoff results,Total,,,78506,100.0,False,False,2026 Louisiana Public Service Commission election
@@ -5297,34 +5328,63 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Louisiana,LA,public service commission,"District 1 – 2026 Louisiana Public Service Commission election, district 1",Candidate,Connie Norris,Democratic,83259,27.78,False,False,2026 Louisiana Public Service Commission election
 2026,Louisiana,LA,public service commission,"District 1 – 2026 Louisiana Public Service Commission election, district 1",Candidate,Chris Justin,Independent,39984,13.34,False,False,2026 Louisiana Public Service Commission election
 2026,Louisiana,LA,public service commission,"District 1 – 2026 Louisiana Public Service Commission election, district 1",Total,,,299748,100.0,False,False,2026 Louisiana Public Service Commission election
-2026,Louisiana,LA,public service commission,"District 5 – 2026 Louisiana Public Service Commission election, district 5",Winning,John Atkins,Republican,161038,59.16,True,False,2026 Louisiana Public Service Commission election
-2026,Louisiana,LA,public service commission,"District 5 – 2026 Louisiana Public Service Commission election, district 5",Candidate,James Green,Democratic,111188,40.84,False,False,2026 Louisiana Public Service Commission election
-2026,Louisiana,LA,public service commission,"District 5 – 2026 Louisiana Public Service Commission election, district 5",Total,,,272226,100.0,False,False,2026 Louisiana Public Service Commission election
+2026,Louisiana,LA,public service commission,"District 5 – 2026 Louisiana Public Service Commission election, district 5",Winning,John Atkins,Republican,161071,59.16,True,False,2026 Louisiana Public Service Commission election
+2026,Louisiana,LA,public service commission,"District 5 – 2026 Louisiana Public Service Commission election, district 5",Candidate,James Green,Democratic,111205,40.84,False,False,2026 Louisiana Public Service Commission election
+2026,Louisiana,LA,public service commission,"District 5 – 2026 Louisiana Public Service Commission election, district 5",Total,,,272276,100.0,False,False,2026 Louisiana Public Service Commission election
 2026,Maine,ME,governor,2026 Maine gubernatorial election,Winning,Hannah Pingree,Democratic,391364,54.17,True,False,2026 Maine gubernatorial election
 2026,Maine,ME,governor,2026 Maine gubernatorial election,Candidate,Robert B. Charles,Republican,272710,37.75,False,False,2026 Maine gubernatorial election
 2026,Maine,ME,governor,2026 Maine gubernatorial election,Candidate,Rick Bennett,Independent,58241,8.06,False,False,2026 Maine gubernatorial election
 2026,Maine,ME,governor,2026 Maine gubernatorial election,Write-in,,,75,0.04,False,False,2026 Maine gubernatorial election
 2026,Maine,ME,governor,2026 Maine gubernatorial election,Total,,,722424,100.0,False,False,2026 Maine gubernatorial election
-2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Winning,Anthony Brown,Democratic,1416665,68.57,True,True,2026 Maryland Attorney General election
-2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,James B. Rutledge III,Republican,647345,31.33,False,False,2026 Maryland Attorney General election
-2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Write-in,,,2128,0.1,False,False,2026 Maryland Attorney General election
-2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Total,,,2066138,100.0,False,False,2026 Maryland Attorney General election
-2026,Maryland,MD,state auditor,2026 Maryland Comptroller election,Winning,Brooke Lierman,Democratic,1404833,68.49,True,True,2026 Maryland Comptroller election
-2026,Maryland,MD,state auditor,2026 Maryland Comptroller election,Candidate,Sonya Dunn,Republican,644262,31.41,False,False,2026 Maryland Comptroller election
-2026,Maryland,MD,state auditor,2026 Maryland Comptroller election,Write-in,,,1980,0.1,False,False,2026 Maryland Comptroller election
-2026,Maryland,MD,state auditor,2026 Maryland Comptroller election,Total,,,2051075,100.0,False,False,2026 Maryland Comptroller election
+2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Winning,Anthony Brown,Democratic,1565477,69.8,True,True,2026 Maryland Attorney General election
+2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Candidate,James B. Rutledge III,Republican,675034,30.1,False,False,2026 Maryland Attorney General election
+2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Write-in,,,2357,0.1,False,False,2026 Maryland Attorney General election
+2026,Maryland,MD,attorney general,2026 Maryland Attorney General election,Total,,,2242868,100.0,False,False,2026 Maryland Attorney General election
+2026,Maryland,MD,state auditor,2026 Maryland Comptroller election,Winning,Brooke Lierman,Democratic,1551808,69.69,True,True,2026 Maryland Comptroller election
+2026,Maryland,MD,state auditor,2026 Maryland Comptroller election,Candidate,Sonya Dunn,Republican,672589,30.21,False,False,2026 Maryland Comptroller election
+2026,Maryland,MD,state auditor,2026 Maryland Comptroller election,Write-in,,,2196,0.1,False,False,2026 Maryland Comptroller election
+2026,Maryland,MD,state auditor,2026 Maryland Comptroller election,Total,,,2226593,100.0,False,False,2026 Maryland Comptroller election
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1475470,65.35,True,True,2026 Maryland gubernatorial election
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Dan Cox,Republican,683927,30.29,False,False,2026 Maryland gubernatorial election
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Andy Ellis,Green,48743,2.16,False,False,2026 Maryland gubernatorial election
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Candidate,Cathy White,Class,43808,1.94,False,False,2026 Maryland gubernatorial election
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Write-in,,,5969,0.26,False,False,2026 Maryland gubernatorial election
 2026,Maryland,MD,governor,2026 Maryland gubernatorial election,Total,,,2257917,100.0,False,False,2026 Maryland gubernatorial election
-2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Andrea Campbell,Democratic,,,False,True,2026 Massachusetts Attorney General election
-2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Michael Walsh,Republican,,,False,False,2026 Massachusetts Attorney General election
-2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Total,,,,100.0,False,False,2026 Massachusetts Attorney General election
-2026,Massachusetts,MA,state auditor,2026 Massachusetts State Auditor election,Candidate,Diana DiZoglio,Democratic,,,False,True,2026 Massachusetts State Auditor election
-2026,Massachusetts,MA,state auditor,2026 Massachusetts State Auditor election,Candidate,Al Ozonoff,Libertarian,,,False,False,2026 Massachusetts State Auditor election
-2026,Massachusetts,MA,state auditor,2026 Massachusetts State Auditor election,Total,,,,100.0,False,False,2026 Massachusetts State Auditor election
+2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Winning,Andrea Campbell,Democratic,1758655,65.89,True,True,2026 Massachusetts Attorney General election
+2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Candidate,Michael Walsh,Republican,907846,34.02,False,False,2026 Massachusetts Attorney General election
+2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Write-in,,,2420,0.09,False,False,2026 Massachusetts Attorney General election
+2026,Massachusetts,MA,attorney general,2026 Massachusetts Attorney General election,Total,,,2668921,100.0,False,False,2026 Massachusetts Attorney General election
+2026,Massachusetts,MA,governor's council,"District 1 – 2026 Massachusetts Governor's Council election, district 1",Winning,Joseph Ferreira,Democratic,262420,98.23,True,True,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 1 – 2026 Massachusetts Governor's Council election, district 1",Write-in,,,4735,1.77,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 1 – 2026 Massachusetts Governor's Council election, district 1",Total,,,267155,100.0,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 2 – 2026 Massachusetts Governor's Council election, district 2",Winning,Tamisha Civil,Democratic,214468,64.25,True,True,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 2 – 2026 Massachusetts Governor's Council election, district 2",Candidate,Francis Crimmins Jr.,Republican,119105,35.68,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 2 – 2026 Massachusetts Governor's Council election, district 2",Write-in,,,249,0.09,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 2 – 2026 Massachusetts Governor's Council election, district 2",Total,,,333822,100.0,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 3 – 2026 Massachusetts Governor's Council election, district 3",Winning,Mara Dolan,Democratic,272331,98.72,True,True,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 3 – 2026 Massachusetts Governor's Council election, district 3",Write-in,,,3525,1.28,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 3 – 2026 Massachusetts Governor's Council election, district 3",Total,,,275856,100.0,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 4 – 2026 Massachusetts Governor's Council election, district 4",Winning,Christopher Iannella Jr.,Democratic,249847,98.32,True,True,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 4 – 2026 Massachusetts Governor's Council election, district 4",Write-in,,,4275,1.68,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 4 – 2026 Massachusetts Governor's Council election, district 4",Total,,,254122,100.0,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 5 – 2026 Massachusetts Governor's Council election, district 5",Winning,Eunice Zeigler,Democratic,203508,64.7,True,True,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 5 – 2026 Massachusetts Governor's Council election, district 5",Candidate,William Falcetano,Republican,110749,35.21,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 5 – 2026 Massachusetts Governor's Council election, district 5",Write-in,,,304,0.1,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 5 – 2026 Massachusetts Governor's Council election, district 5",Total,,,314561,100.0,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 6 – 2026 Massachusetts Governor's Council election, district 6",Winning,Terrence W. Kennedy,Democratic,229342,98.37,True,True,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 6 – 2026 Massachusetts Governor's Council election, district 6",Write-in,,,3807,1.63,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 6 – 2026 Massachusetts Governor's Council election, district 6",Total,,,233149,100.0,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 7 – 2026 Massachusetts Governor's Council election, district 7",Winning,Paul DePalo,Democratic,194882,61.91,True,True,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 7 – 2026 Massachusetts Governor's Council election, district 7",Candidate,Margaret Abboud,Republican,119396,37.93,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 7 – 2026 Massachusetts Governor's Council election, district 7",Write-in,,,487,0.15,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 7 – 2026 Massachusetts Governor's Council election, district 7",Total,,,314765,100.0,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 8 – 2026 Massachusetts Governor's Council election, district 8",Winning,Tara Jacobs,Democratic,237670,98.29,True,True,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 8 – 2026 Massachusetts Governor's Council election, district 8",Write-in,,,4130,1.71,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,governor's council,"District 8 – 2026 Massachusetts Governor's Council election, district 8",Total,,,241800,100.0,False,False,2026 Massachusetts Governor's Council election
+2026,Massachusetts,MA,state auditor,2026 Massachusetts State Auditor election,Winning,Diana DiZoglio,Democratic,2049359,83.65,True,True,2026 Massachusetts State Auditor election
+2026,Massachusetts,MA,state auditor,2026 Massachusetts State Auditor election,Candidate,Al Ozonoff,Libertarian,390457,15.94,False,False,2026 Massachusetts State Auditor election
+2026,Massachusetts,MA,state auditor,2026 Massachusetts State Auditor election,Write-in,,,10101,0.41,False,False,2026 Massachusetts State Auditor election
+2026,Massachusetts,MA,state auditor,2026 Massachusetts State Auditor election,Total,,,2449917,100.0,False,False,2026 Massachusetts State Auditor election
 2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Winning,Maura Healey,Democratic,1691156,62.31,True,True,2026 Massachusetts gubernatorial election
 2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Michael Minogue,Republican,930508,34.28,False,False,2026 Massachusetts gubernatorial election
 2026,Massachusetts,MA,governor,2026 Massachusetts gubernatorial election,Candidate,Andrea C. James,Independent,89951,3.32,False,False,2026 Massachusetts gubernatorial election
@@ -5343,29 +5403,29 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Scott E. Aughney,U.s. Taxpayers,28282,0.6,False,False,2026 Michigan Secretary of State election
 2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Candidate,Eric Borregard,Green,21545,0.45,False,False,2026 Michigan Secretary of State election
 2026,Michigan,MI,secretary of state,2026 Michigan Secretary of State election,Total,,,4743518,100.0,False,False,2026 Michigan Secretary of State election
-2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Winning,Judith Pritchett,Democratic,2378629,26.5,True,True,2026 Michigan State Board of Education election
-2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Winning,Tiffany Tilley,Democratic,2353182,26.21,True,True,2026 Michigan State Board of Education election
-2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Candidate,Terence Collins,Republican,1977871,22.03,False,False,2026 Michigan State Board of Education election
-2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Candidate,Bree Moeggenberg,Republican,1928689,21.48,False,False,2026 Michigan State Board of Education election
-2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Candidate,Mary Anne Hering,Class,101653,1.13,False,False,2026 Michigan State Board of Education election
-2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Candidate,Charles Essner,Libertarian,77609,0.86,False,False,2026 Michigan State Board of Education election
-2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Candidate,Christine Schwartz,U.s. Taxpayers,54390,0.61,False,False,2026 Michigan State Board of Education election
+2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Winning,Judith Pritchett,Democratic,2378836,26.5,True,True,2026 Michigan State Board of Education election
+2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Winning,Tiffany Tilley,Democratic,2353387,26.21,True,True,2026 Michigan State Board of Education election
+2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Candidate,Terence Collins,Republican,1977922,22.03,False,False,2026 Michigan State Board of Education election
+2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Candidate,Bree Moeggenberg,Republican,1928736,21.48,False,False,2026 Michigan State Board of Education election
+2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Candidate,Mary Anne Hering,Class,101667,1.13,False,False,2026 Michigan State Board of Education election
+2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Candidate,Charles Essner,Libertarian,77611,0.86,False,False,2026 Michigan State Board of Education election
+2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Candidate,Christine Schwartz,U.s. Taxpayers,54396,0.61,False,False,2026 Michigan State Board of Education election
 2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Candidate,Wissam Charafeddine,Green,42184,0.47,False,False,2026 Michigan State Board of Education election
-2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Candidate,William Mohr II,U.s. Taxpayers,40109,0.45,False,False,2026 Michigan State Board of Education election
+2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Candidate,William Mohr II,U.s. Taxpayers,40111,0.45,False,False,2026 Michigan State Board of Education election
 2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Candidate,Kelli Monroe,Law,23024,0.26,False,False,2026 Michigan State Board of Education election
 2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Write-in,,,11,0.0,False,False,2026 Michigan State Board of Education election
-2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Total,,,8977351,100.0,False,False,2026 Michigan State Board of Education election
-2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Winning,Brianna Scott,Democratic,2355028,26.72,True,True,2026 Michigan State University Board of Trustees election
-2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Winning,Kelly Tebay Zemke,Democratic,2253674,25.56,True,True,2026 Michigan State University Board of Trustees election
-2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Candidate,Julie Maday,Republican,1940882,22.02,False,False,2026 Michigan State University Board of Trustees election
-2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Candidate,Roger Victory,Republican,1935542,21.96,False,False,2026 Michigan State University Board of Trustees election
-2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Candidate,Daniel Patterson,Libertarian,75912,0.86,False,False,2026 Michigan State University Board of Trustees election
-2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Candidate,Yaz Ozbek,Class,60265,0.68,False,False,2026 Michigan State University Board of Trustees election
-2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Candidate,Will White,Libertarian,55579,0.63,False,False,2026 Michigan State University Board of Trustees election
-2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Candidate,Janet Sanger,U.s. Taxpayers,55153,0.63,False,False,2026 Michigan State University Board of Trustees election
-2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Candidate,John Sanger,U.s. Taxpayers,41689,0.47,False,False,2026 Michigan State University Board of Trustees election
+2026,Michigan,MI,state board of education,2026 Michigan State Board of Education election results (vote for not more than 2),Total,,,8977885,100.0,False,False,2026 Michigan State Board of Education election
+2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Winning,Brianna Scott,Democratic,2355239,26.72,True,True,2026 Michigan State University Board of Trustees election
+2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Winning,Kelly Tebay Zemke,Democratic,2253879,25.56,True,True,2026 Michigan State University Board of Trustees election
+2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Candidate,Julie Maday,Republican,1940930,22.02,False,False,2026 Michigan State University Board of Trustees election
+2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Candidate,Roger Victory,Republican,1935590,21.96,False,False,2026 Michigan State University Board of Trustees election
+2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Candidate,Daniel Patterson,Libertarian,75917,0.86,False,False,2026 Michigan State University Board of Trustees election
+2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Candidate,Yaz Ozbek,Class,60269,0.68,False,False,2026 Michigan State University Board of Trustees election
+2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Candidate,Will White,Libertarian,55582,0.63,False,False,2026 Michigan State University Board of Trustees election
+2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Candidate,Janet Sanger,U.s. Taxpayers,55157,0.63,False,False,2026 Michigan State University Board of Trustees election
+2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Candidate,John Sanger,U.s. Taxpayers,41693,0.47,False,False,2026 Michigan State University Board of Trustees election
 2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Candidate,John Anthony La Pietra,Green,41085,0.47,False,False,2026 Michigan State University Board of Trustees election
-2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Total,,,8814809,100.0,False,False,2026 Michigan State University Board of Trustees election
+2026,Michigan,MI,msu board of trustees,2026 Michigan State University Board of Trustees election results (vote for not more than 2),Total,,,8815341,100.0,False,False,2026 Michigan State University Board of Trustees election
 2026,Michigan,MI,judicial,2026 Michigan Supreme Court election (vote for not more than 2),Winning,Megan Cavanagh,Nonpartisan Politician,2242824,34.16,True,True,2026 Michigan Supreme Court election
 2026,Michigan,MI,judicial,2026 Michigan Supreme Court election (vote for not more than 2),Winning,Noah Hood,Nonpartisan Politician,1938052,29.52,True,True,2026 Michigan Supreme Court election
 2026,Michigan,MI,judicial,2026 Michigan Supreme Court election (vote for not more than 2),Candidate,Michael Warren,Nonpartisan Politician,900530,13.72,False,False,2026 Michigan Supreme Court election
@@ -5380,75 +5440,75 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Candidate,Douglas Campbell,Green,17624,0.37,False,False,2026 Michigan gubernatorial election
 2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Write-in,,,44,0.0,False,False,2026 Michigan gubernatorial election
 2026,Michigan,MI,governor,2026 Michigan gubernatorial election,Total,,,4792122,100.0,False,False,2026 Michigan gubernatorial election
-2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Winning,Keith Ellison,Minnesota Democratic–farmer–labor,1520967.0,54.29,True,True,2026 Minnesota Attorney General election
-2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Candidate,Ronald J. Schutz,Republican,1276211.0,45.56,False,False,2026 Minnesota Attorney General election
-2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Write-in,,,4226.0,0.15,False,False,2026 Minnesota Attorney General election
-2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Total,,,,100.0,False,False,2026 Minnesota Attorney General election
-2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Winning,Steve Simon,Minnesota Democratic–farmer–labor,1529169,54.71,True,True,2026 Minnesota Secretary of State election
-2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Tad Jude,Republican,1168649,41.81,False,False,2026 Minnesota Secretary of State election
-2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,"George ""Chip"" Tangen",Libertarian,54693,1.96,False,False,2026 Minnesota Secretary of State election
-2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Seth Kuhl-Stennes,Green,41389,1.48,False,False,2026 Minnesota Secretary of State election
-2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Write-in,,,1291,0.05,False,False,2026 Minnesota Secretary of State election
-2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Total,,,2795174,100.0,False,False,2026 Minnesota Secretary of State election
-2026,Minnesota,MN,state auditor,2026 Minnesota State Auditor election,Winning,Zack Filipovich,Minnesota Democratic–farmer–labor,1473978.0,52.93,True,False,2026 Minnesota State Auditor election
-2026,Minnesota,MN,state auditor,2026 Minnesota State Auditor election,Candidate,Scott Jensen,Republican,1230200.0,44.18,False,False,2026 Minnesota State Auditor election
-2026,Minnesota,MN,state auditor,2026 Minnesota State Auditor election,Candidate,Jay Reeves,Independence,79000.0,2.84,False,False,2026 Minnesota State Auditor election
-2026,Minnesota,MN,state auditor,2026 Minnesota State Auditor election,Write-in,,,1530.0,0.05,False,False,2026 Minnesota State Auditor election
-2026,Minnesota,MN,state auditor,2026 Minnesota State Auditor election,Total,,,,100.0,False,False,2026 Minnesota State Auditor election
+2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Winning,Keith Ellison,Minnesota Democratic–farmer–labor,1521927,54.31,True,True,2026 Minnesota Attorney General election
+2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Candidate,Ronald J. Schutz,Republican,1276321,45.54,False,False,2026 Minnesota Attorney General election
+2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Write-in,,,4214,0.15,False,False,2026 Minnesota Attorney General election
+2026,Minnesota,MN,attorney general,2026 Minnesota Attorney General election,Total,,,2802462,100.0,False,False,2026 Minnesota Attorney General election
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Winning,Steve Simon,Minnesota Democratic–farmer–labor,1530090,54.72,True,True,2026 Minnesota Secretary of State election
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Tad Jude,Republican,1168719,41.8,False,False,2026 Minnesota Secretary of State election
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,"George ""Chip"" Tangen",Libertarian,54704,1.96,False,False,2026 Minnesota Secretary of State election
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Candidate,Seth Kuhl-Stennes,Green,41392,1.48,False,False,2026 Minnesota Secretary of State election
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Write-in,,,1259,0.05,False,False,2026 Minnesota Secretary of State election
+2026,Minnesota,MN,secretary of state,2026 Minnesota Secretary of State election,Total,,,2796164,100.0,False,False,2026 Minnesota Secretary of State election
+2026,Minnesota,MN,state auditor,2026 Minnesota State Auditor election,Winning,Zack Filipovich,Minnesota Democratic–farmer–labor,1474891,52.94,True,False,2026 Minnesota State Auditor election
+2026,Minnesota,MN,state auditor,2026 Minnesota State Auditor election,Candidate,Scott Jensen,Republican,1230300,44.17,False,False,2026 Minnesota State Auditor election
+2026,Minnesota,MN,state auditor,2026 Minnesota State Auditor election,Candidate,Jay Reeves,Independence,79019,2.84,False,False,2026 Minnesota State Auditor election
+2026,Minnesota,MN,state auditor,2026 Minnesota State Auditor election,Write-in,,,1505,0.05,False,False,2026 Minnesota State Auditor election
+2026,Minnesota,MN,state auditor,2026 Minnesota State Auditor election,Total,,,2785715,100.0,False,False,2026 Minnesota State Auditor election
 2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Winning,Amy Klobuchar,Minnesota Democratic–farmer–labor,1569698,55.46,True,False,2026 Minnesota gubernatorial election
 2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Candidate,Lisa Demuth,Republican,1206583,42.63,False,False,2026 Minnesota gubernatorial election
 2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Candidate,Steven Young,Green,51404,1.82,False,False,2026 Minnesota gubernatorial election
 2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Write-in,,,2474,0.09,False,False,2026 Minnesota gubernatorial election
 2026,Minnesota,MN,governor,2026 Minnesota gubernatorial election,Total,,,2830159,100.0,False,False,2026 Minnesota gubernatorial election
-2026,Missouri,MO,state auditor,2026 Missouri State Auditor election,Candidate,Scott Fitzpatrick (incubment),Republican,,,False,False,2026 Missouri State Auditor election
-2026,Missouri,MO,state auditor,2026 Missouri State Auditor election,Candidate,Quentin Wilson,Democratic,,,False,False,2026 Missouri State Auditor election
-2026,Missouri,MO,state auditor,2026 Missouri State Auditor election,Candidate,Dustin Coffell,Libertarian,,,False,False,2026 Missouri State Auditor election
-2026,Missouri,MO,state auditor,2026 Missouri State Auditor election,Total,,,,100.0,False,False,2026 Missouri State Auditor election
-2026,Montana,MT,public service commission,"District 1 – 2026 Montana Public Service Commission election, district 1",Candidate,Jeff Pattison,Republican,,,False,False,2026 Montana Public Service Commission election
-2026,Montana,MT,public service commission,"District 1 – 2026 Montana Public Service Commission election, district 1",Candidate,Angeline Creek,Democratic,,,False,False,2026 Montana Public Service Commission election
-2026,Montana,MT,public service commission,"District 1 – 2026 Montana Public Service Commission election, district 1",Total,,,,100.0,False,False,2026 Montana Public Service Commission election
-2026,Montana,MT,public service commission,"District 5 – 2026 Montana Public Service Commission election, district 5",Candidate,Ann Bukacek,Republican,,,False,True,2026 Montana Public Service Commission election
-2026,Montana,MT,public service commission,"District 5 – 2026 Montana Public Service Commission election, district 5",Candidate,Kevin Hamm,Democratic,,,False,False,2026 Montana Public Service Commission election
-2026,Montana,MT,public service commission,"District 5 – 2026 Montana Public Service Commission election, district 5",Total,,,,100.0,False,False,2026 Montana Public Service Commission election
+2026,Missouri,MO,state auditor,2026 Missouri State Auditor election,Winning,Scott Fitzpatrick (incubment),Republican,1062203,50.98,True,False,2026 Missouri State Auditor election
+2026,Missouri,MO,state auditor,2026 Missouri State Auditor election,Candidate,Quentin Wilson,Democratic,967727,46.44,False,False,2026 Missouri State Auditor election
+2026,Missouri,MO,state auditor,2026 Missouri State Auditor election,Candidate,Dustin Coffell,Libertarian,53671,2.58,False,False,2026 Missouri State Auditor election
+2026,Missouri,MO,state auditor,2026 Missouri State Auditor election,Total,,,2083601,100.0,False,False,2026 Missouri State Auditor election
+2026,Montana,MT,public service commission,"District 1 – 2026 Montana Public Service Commission election, district 1",Winning,Jeff Pattison,Republican,50407,65.34,True,False,2026 Montana Public Service Commission election
+2026,Montana,MT,public service commission,"District 1 – 2026 Montana Public Service Commission election, district 1",Candidate,Angeline Creek,Democratic,26741,34.66,False,False,2026 Montana Public Service Commission election
+2026,Montana,MT,public service commission,"District 1 – 2026 Montana Public Service Commission election, district 1",Total,,,77148,100.0,False,False,2026 Montana Public Service Commission election
+2026,Montana,MT,public service commission,"District 5 – 2026 Montana Public Service Commission election, district 5",Winning,Ann Bukacek,Republican,51561,52.71,True,True,2026 Montana Public Service Commission election
+2026,Montana,MT,public service commission,"District 5 – 2026 Montana Public Service Commission election, district 5",Candidate,Kevin Hamm,Democratic,46264,47.29,False,False,2026 Montana Public Service Commission election
+2026,Montana,MT,public service commission,"District 5 – 2026 Montana Public Service Commission election, district 5",Total,,,97825,100.0,False,False,2026 Montana Public Service Commission election
 2026,Montana,MT,judicial,2026 Montana Supreme Court election,Candidate,Amy Eddy,,,,False,False,2026 Montana Supreme Court election
 2026,Montana,MT,judicial,2026 Montana Supreme Court election,Candidate,Dan Wilson,,,,False,False,2026 Montana Supreme Court election
 2026,Montana,MT,judicial,2026 Montana Supreme Court election,Total,,,,100.0,False,False,2026 Montana Supreme Court election
-2026,Nebraska,NE,attorney general,2026 Nebraska Attorney General election,Winning,Mike Hilgers,Republican,,,True,True,2026 Nebraska Attorney General election
-2026,Nebraska,NE,attorney general,2026 Nebraska Attorney General election,Candidate,Jocelyn Brasher,Democratic,,,False,False,2026 Nebraska Attorney General election
-2026,Nebraska,NE,attorney general,2026 Nebraska Attorney General election,Total,,,,100.0,False,False,2026 Nebraska Attorney General election
-2026,Nebraska,NE,public service commission,"2026 Nebraska Public Service Commission election, district 2",Winning,Wendy DeBoer,Democratic,84500,68.14,True,False,2026 Nebraska Public Service Commission election
-2026,Nebraska,NE,public service commission,"2026 Nebraska Public Service Commission election, district 2",Candidate,Dennis McCann,Republican,39509,31.86,False,False,2026 Nebraska Public Service Commission election
-2026,Nebraska,NE,public service commission,"2026 Nebraska Public Service Commission election, district 2",Total,,,124009,100.0,False,False,2026 Nebraska Public Service Commission election
-2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Scott Petersen,Republican,393501.0,54.0,False,False,2026 Nebraska Secretary of State election
-2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Sarah Slattery,Democratic,293529.0,40.3,False,False,2026 Nebraska Secretary of State election
-2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Paul Rumbaugh,People,22487.0,3.1,False,False,2026 Nebraska Secretary of State election
-2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Bob Krist,America First Party (nebraska),18749.0,2.6,False,False,2026 Nebraska Secretary of State election
-2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Total,,,,100.0,False,False,2026 Nebraska Secretary of State election
-2026,Nebraska,NE,state auditor,2026 Nebraska State Auditor election,Candidate,Mike Foley,Republican,,,False,True,2026 Nebraska State Auditor election
-2026,Nebraska,NE,state auditor,2026 Nebraska State Auditor election,Candidate,John Knight,America First Party (nebraska),,,False,False,2026 Nebraska State Auditor election
-2026,Nebraska,NE,state auditor,2026 Nebraska State Auditor election,Total,,,,100.0,False,False,2026 Nebraska State Auditor election
-2026,Nebraska,NE,state board of education,"District 5 – 2026 Nebraska State Board of Education election, district 5",Winning,Angie Eberspacher,,45407,55.7,True,False,2026 Nebraska State Board of Education election
-2026,Nebraska,NE,state board of education,"District 5 – 2026 Nebraska State Board of Education election, district 5",Candidate,Michaela Conway,,36107,44.3,False,False,2026 Nebraska State Board of Education election
-2026,Nebraska,NE,state board of education,"District 5 – 2026 Nebraska State Board of Education election, district 5",Total,,,81514,100.0,False,False,2026 Nebraska State Board of Education election
+2026,Nebraska,NE,attorney general,2026 Nebraska Attorney General election,Winning,Mike Hilgers,Republican,416670,55.73,True,True,2026 Nebraska Attorney General election
+2026,Nebraska,NE,attorney general,2026 Nebraska Attorney General election,Candidate,Jocelyn Brasher,Democratic,330924,44.27,False,False,2026 Nebraska Attorney General election
+2026,Nebraska,NE,attorney general,2026 Nebraska Attorney General election,Total,,,747594,100.0,False,False,2026 Nebraska Attorney General election
+2026,Nebraska,NE,public service commission,"2026 Nebraska Public Service Commission election, district 2",Winning,Wendy DeBoer,Democratic,90792,68.48,True,False,2026 Nebraska Public Service Commission election
+2026,Nebraska,NE,public service commission,"2026 Nebraska Public Service Commission election, district 2",Candidate,Dennis McCann,Republican,41798,31.52,False,False,2026 Nebraska Public Service Commission election
+2026,Nebraska,NE,public service commission,"2026 Nebraska Public Service Commission election, district 2",Total,,,132590,100.0,False,False,2026 Nebraska Public Service Commission election
+2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Winning,Scott Petersen,Republican,403134,53.4,True,False,2026 Nebraska Secretary of State election
+2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Sarah Slattery,Democratic,308544,40.87,False,False,2026 Nebraska Secretary of State election
+2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Paul Rumbaugh,People,23614,3.13,False,False,2026 Nebraska Secretary of State election
+2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Candidate,Bob Krist,America First Party (nebraska),19674,2.61,False,False,2026 Nebraska Secretary of State election
+2026,Nebraska,NE,secretary of state,2026 Nebraska Secretary of State election,Total,,,754966,100.0,False,False,2026 Nebraska Secretary of State election
+2026,Nebraska,NE,state auditor,2026 Nebraska State Auditor election,Winning,Mike Foley,Republican,505803,74.3,True,True,2026 Nebraska State Auditor election
+2026,Nebraska,NE,state auditor,2026 Nebraska State Auditor election,Candidate,John Knight,America First Party (nebraska),174995,25.7,False,False,2026 Nebraska State Auditor election
+2026,Nebraska,NE,state auditor,2026 Nebraska State Auditor election,Total,,,680798,100.0,False,False,2026 Nebraska State Auditor election
+2026,Nebraska,NE,state board of education,"District 5 – 2026 Nebraska State Board of Education election, district 5",Winning,Angie Eberspacher,,46405,55.5,True,False,2026 Nebraska State Board of Education election
+2026,Nebraska,NE,state board of education,"District 5 – 2026 Nebraska State Board of Education election, district 5",Candidate,Michaela Conway,,37211,44.5,False,False,2026 Nebraska State Board of Education election
+2026,Nebraska,NE,state board of education,"District 5 – 2026 Nebraska State Board of Education election, district 5",Total,,,83616,100.0,False,False,2026 Nebraska State Board of Education election
 2026,Nebraska,NE,state board of education,District 6 – Nonpartisan primary,Winning,Sherry Jones,,23271,64.5,True,True,2026 Nebraska State Board of Education election
 2026,Nebraska,NE,state board of education,District 6 – Nonpartisan primary,Winning,Grady Erickson,,12788,35.5,True,False,2026 Nebraska State Board of Education election
 2026,Nebraska,NE,state board of education,District 6 – Nonpartisan primary,Total,,,36059,100.0,False,False,2026 Nebraska State Board of Education election
-2026,Nebraska,NE,state board of education,"District 6 – 2026 Nebraska State Board of Education election, district 6",Winning,Sherry Jones,,41090,62.21,True,True,2026 Nebraska State Board of Education election
-2026,Nebraska,NE,state board of education,"District 6 – 2026 Nebraska State Board of Education election, district 6",Candidate,Grady Erickson,,24959,37.79,False,False,2026 Nebraska State Board of Education election
-2026,Nebraska,NE,state board of education,"District 6 – 2026 Nebraska State Board of Education election, district 6",Total,,,66049,100.0,False,False,2026 Nebraska State Board of Education election
+2026,Nebraska,NE,state board of education,"District 6 – 2026 Nebraska State Board of Education election, district 6",Winning,Sherry Jones,,41010,62.17,True,True,2026 Nebraska State Board of Education election
+2026,Nebraska,NE,state board of education,"District 6 – 2026 Nebraska State Board of Education election, district 6",Candidate,Grady Erickson,,24957,37.83,False,False,2026 Nebraska State Board of Education election
+2026,Nebraska,NE,state board of education,"District 6 – 2026 Nebraska State Board of Education election, district 6",Total,,,65967,100.0,False,False,2026 Nebraska State Board of Education election
 2026,Nebraska,NE,state board of education,District 7 – Nonpartisan primary,Winning,Elizabeth Tegtmeier,,37190,100.0,True,True,2026 Nebraska State Board of Education election
 2026,Nebraska,NE,state board of education,District 7 – Nonpartisan primary,Total,,,37190,100.0,False,False,2026 Nebraska State Board of Education election
-2026,Nebraska,NE,state board of education,"District 7 – 2026 Nebraska State Board of Education election, district 7",Winning,Elizabeth Tegtmeier,,68830,100.0,True,True,2026 Nebraska State Board of Education election
-2026,Nebraska,NE,state board of education,"District 7 – 2026 Nebraska State Board of Education election, district 7",Total,,,68830,100.0,False,False,2026 Nebraska State Board of Education election
+2026,Nebraska,NE,state board of education,"District 7 – 2026 Nebraska State Board of Education election, district 7",Winning,Elizabeth Tegtmeier,,69921,100.0,True,True,2026 Nebraska State Board of Education election
+2026,Nebraska,NE,state board of education,"District 7 – 2026 Nebraska State Board of Education election, district 7",Total,,,69921,100.0,False,False,2026 Nebraska State Board of Education election
 2026,Nebraska,NE,state board of education,District 8 – Nonpartisan primary,Winning,Sherrye Hutcherson,,23852,52.2,True,False,2026 Nebraska State Board of Education election
 2026,Nebraska,NE,state board of education,District 8 – Nonpartisan primary,Winning,Lou Ann Goding,,21821,47.8,True,False,2026 Nebraska State Board of Education election
 2026,Nebraska,NE,state board of education,District 8 – Nonpartisan primary,Total,,,45673,100.0,False,False,2026 Nebraska State Board of Education election
-2026,Nebraska,NE,state board of education,"District 8 – 2026 Nebraska State Board of Education election, district 8",Candidate,Lou Ann Goding,,40352,51.19,False,False,2026 Nebraska State Board of Education election
-2026,Nebraska,NE,state board of education,"District 8 – 2026 Nebraska State Board of Education election, district 8",Candidate,Sherrye Hutcherson,,38469,48.81,False,False,2026 Nebraska State Board of Education election
-2026,Nebraska,NE,state board of education,"District 8 – 2026 Nebraska State Board of Education election, district 8",Total,,,78821,100.0,False,False,2026 Nebraska State Board of Education election
-2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Winning,Joey Spellerberg,Republican,,,True,True,2026 Nebraska State Treasurer election
-2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Candidate,Daniel Ebers,Democratic,,,False,False,2026 Nebraska State Treasurer election
-2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Total,,,,100.0,False,False,2026 Nebraska State Treasurer election
+2026,Nebraska,NE,state board of education,"District 8 – 2026 Nebraska State Board of Education election, district 8",Winning,Lou Ann Goding,,42716,50.85,True,False,2026 Nebraska State Board of Education election
+2026,Nebraska,NE,state board of education,"District 8 – 2026 Nebraska State Board of Education election, district 8",Candidate,Sherrye Hutcherson,,41291,49.15,False,False,2026 Nebraska State Board of Education election
+2026,Nebraska,NE,state board of education,"District 8 – 2026 Nebraska State Board of Education election, district 8",Total,,,84007,100.0,False,False,2026 Nebraska State Board of Education election
+2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Winning,Joey Spellerberg,Republican,433312,58.11,True,True,2026 Nebraska State Treasurer election
+2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Candidate,Daniel Ebers,Democratic,312366,41.89,False,False,2026 Nebraska State Treasurer election
+2026,Nebraska,NE,state treasurer,2026 Nebraska State Treasurer election,Total,,,745678,100.0,False,False,2026 Nebraska State Treasurer election
 2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Jim Pillen (incumbent) Joe Kelly,Republican,384579,50.28,False,True,2026 Nebraska gubernatorial election
 2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Lynne Walz Ben Steffen,Democratic,326179,42.64,False,False,2026 Nebraska gubernatorial election
 2026,Nebraska,NE,governor,2026 Nebraska gubernatorial election,Candidate,Brett Lindstrom Mike Picard,America First Party (nebraska),33658,4.4,False,False,2026 Nebraska gubernatorial election
@@ -5608,10 +5668,10 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Christine Drazan,Republican,,,False,False,2026 Oregon gubernatorial election
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Candidate,Brett Smith,Green,,,False,False,2026 Oregon gubernatorial election
 2026,Oregon,OR,governor,2026 Oregon gubernatorial election,Total,,,,100.0,False,False,2026 Oregon gubernatorial election
-2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Winning,Josh Shapiro,Democratic,3039781.0,60.56,True,True,2026 Pennsylvania gubernatorial election
-2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Stacy Garrity,Republican,1914351.0,38.14,False,False,2026 Pennsylvania gubernatorial election
-2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Ken Krawchuk,Libertarian,64992.0,1.29,False,False,2026 Pennsylvania gubernatorial election
-2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Total,,,,100.0,False,False,2026 Pennsylvania gubernatorial election
+2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Winning,Josh Shapiro,Democratic,3040772,60.57,True,True,2026 Pennsylvania gubernatorial election
+2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Stacy Garrity,Republican,1914618,38.14,False,False,2026 Pennsylvania gubernatorial election
+2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Candidate,Ken Krawchuk,Libertarian,65021,1.29,False,False,2026 Pennsylvania gubernatorial election
+2026,Pennsylvania,PA,governor,2026 Pennsylvania gubernatorial election,Total,,,5020411,100.0,False,False,2026 Pennsylvania gubernatorial election
 2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Winning,James Diossa,Democratic,229097,65.24,True,True,2026 Rhode Island General Treasurer election
 2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Candidate,Micholas A. Credle,Republican,121344,34.56,False,False,2026 Rhode Island General Treasurer election
 2026,Rhode Island,RI,state treasurer,2026 Rhode Island General Treasurer election,Write-in,,,719,0.2,False,False,2026 Rhode Island General Treasurer election
@@ -5770,22 +5830,22 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2026,Colorado,CO,board of regents,District 7 – 2026 University of Colorado's 7th Board of Regents district election,Candidate,Paul Mueller,Republican,140009,38.55,False,False,2026 University of Colorado Board of Regents election
 2026,Colorado,CO,board of regents,District 7 – 2026 University of Colorado's 7th Board of Regents district election,Candidate,BetteRose Ryan,Libertarian,15125,4.16,False,False,2026 University of Colorado Board of Regents election
 2026,Colorado,CO,board of regents,District 7 – 2026 University of Colorado's 7th Board of Regents district election,Total,,,363388,100.0,False,False,2026 University of Colorado Board of Regents election
-2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Winning,Paul Brown,Democratic,2386376,27.19,True,True,2026 University of Michigan Board of Regents election
-2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Winning,Amir Makled,Democratic,2245480,25.58,True,False,2026 University of Michigan Board of Regents election
-2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Candidate,Michael Schostak,Republican,1980055,22.56,False,False,2026 University of Michigan Board of Regents election
-2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Candidate,Lena Epstein,Republican,1948606,22.2,False,False,2026 University of Michigan Board of Regents election
-2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Candidate,Andrew Chadderdon,Libertarian,111462,1.27,False,False,2026 University of Michigan Board of Regents election
-2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Candidate,Kyle Maas,U.s. Taxpayers,104873,1.2,False,False,2026 University of Michigan Board of Regents election
-2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Total,,,8776852,100.0,False,False,2026 University of Michigan Board of Regents election
-2026,Nebraska,NE,board of regents,"District 1 – 2026 University of Nebraska Board of Regents election, district 1",Winning,Brent Comstock,,39454,57.17,True,False,2026 University of Nebraska Board of Regents election
-2026,Nebraska,NE,board of regents,"District 1 – 2026 University of Nebraska Board of Regents election, district 1",Candidate,Jeremy Hosein,,29559,42.83,False,False,2026 University of Nebraska Board of Regents election
-2026,Nebraska,NE,board of regents,"District 1 – 2026 University of Nebraska Board of Regents election, district 1",Total,,,69013,100.0,False,False,2026 University of Nebraska Board of Regents election
+2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Winning,Paul Brown,Democratic,2386587,27.19,True,True,2026 University of Michigan Board of Regents election
+2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Winning,Amir Makled,Democratic,2245685,25.58,True,False,2026 University of Michigan Board of Regents election
+2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Candidate,Michael Schostak,Republican,1980104,22.56,False,False,2026 University of Michigan Board of Regents election
+2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Candidate,Lena Epstein,Republican,1948655,22.2,False,False,2026 University of Michigan Board of Regents election
+2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Candidate,Andrew Chadderdon,Libertarian,111467,1.27,False,False,2026 University of Michigan Board of Regents election
+2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Candidate,Kyle Maas,U.s. Taxpayers,104878,1.2,False,False,2026 University of Michigan Board of Regents election
+2026,Michigan,MI,board of regents,2026 University of Michigan Board of Regents election results (vote for not more than 2),Total,,,8777376,100.0,False,False,2026 University of Michigan Board of Regents election
+2026,Nebraska,NE,board of regents,"District 1 – 2026 University of Nebraska Board of Regents election, district 1",Winning,Brent Comstock,,42731,57.18,True,False,2026 University of Nebraska Board of Regents election
+2026,Nebraska,NE,board of regents,"District 1 – 2026 University of Nebraska Board of Regents election, district 1",Candidate,Jeremy Hosein,,32006,42.82,False,False,2026 University of Nebraska Board of Regents election
+2026,Nebraska,NE,board of regents,"District 1 – 2026 University of Nebraska Board of Regents election, district 1",Total,,,74737,100.0,False,False,2026 University of Nebraska Board of Regents election
 2026,Nebraska,NE,board of regents,District 2 – Nonpartisan primary,Winning,Elizabeth Butler,,20895,57.5,True,False,2026 University of Nebraska Board of Regents election
 2026,Nebraska,NE,board of regents,District 2 – Nonpartisan primary,Winning,Jill Wolfe,,15410,42.5,True,False,2026 University of Nebraska Board of Regents election
 2026,Nebraska,NE,board of regents,District 2 – Nonpartisan primary,Total,,,36305,100.0,False,False,2026 University of Nebraska Board of Regents election
-2026,Nebraska,NE,board of regents,"District 2 – 2026 University of Nebraska Board of Regents election, district 2",Winning,Elizabeth Butler,,45140,54.74,True,False,2026 University of Nebraska Board of Regents election
-2026,Nebraska,NE,board of regents,"District 2 – 2026 University of Nebraska Board of Regents election, district 2",Candidate,Jill Wolfe,,37330,45.26,False,False,2026 University of Nebraska Board of Regents election
-2026,Nebraska,NE,board of regents,"District 2 – 2026 University of Nebraska Board of Regents election, district 2",Total,,,82470,100.0,False,False,2026 University of Nebraska Board of Regents election
+2026,Nebraska,NE,board of regents,"District 2 – 2026 University of Nebraska Board of Regents election, district 2",Winning,Elizabeth Butler,,46789,54.86,True,False,2026 University of Nebraska Board of Regents election
+2026,Nebraska,NE,board of regents,"District 2 – 2026 University of Nebraska Board of Regents election, district 2",Candidate,Jill Wolfe,,38494,45.14,False,False,2026 University of Nebraska Board of Regents election
+2026,Nebraska,NE,board of regents,"District 2 – 2026 University of Nebraska Board of Regents election, district 2",Total,,,85283,100.0,False,False,2026 University of Nebraska Board of Regents election
 2026,Vermont,VT,attorney general,2026 Vermont Attorney General election,Winning,Charity Clark,Democratic,200480,67.74,True,True,2026 Vermont Attorney General election
 2026,Vermont,VT,attorney general,2026 Vermont Attorney General election,Candidate,Edwin Kemon,Republican,94948,32.08,False,False,2026 Vermont Attorney General election
 2026,Vermont,VT,attorney general,2026 Vermont Attorney General election,Write-in,,,528,0.18,False,False,2026 Vermont Attorney General election

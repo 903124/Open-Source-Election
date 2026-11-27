@@ -1,7 +1,7 @@
 year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent,race_article
 2022,Alabama,AL,attorney general,2022 Alabama Attorney General election,Winning,Steve Marshall,Republican,955425.0,67.9,True,True,2022 Alabama Attorney General election
 2022,Alabama,AL,attorney general,2022 Alabama Attorney General election,Candidate,Wendell Major,Democratic,450543.0,32.02,False,False,2022 Alabama Attorney General election
-2022,Alabama,AL,attorney general,2022 Alabama Attorney General election,Write-in,,,1220.0,0.09,False,False,2022 Alabama Attorney General election
+2022,Alabama,AL,attorney general,2022 Alabama Attorney General election,Write-in,,,1220.0,0.08,False,False,2022 Alabama Attorney General election
 2022,Alabama,AL,attorney general,2022 Alabama Attorney General election,Total,,,1407188.0,100.0,False,False,2022 Alabama Attorney General election
 2022,Alabama,AL,agriculture commissioner,2022 Alabama Commissioner of Agriculture and Industries election,Winning,Rick Pate,Republican,946155.0,84.26,True,True,2022 Alabama Commissioner of Agriculture and Industries election
 2022,Alabama,AL,agriculture commissioner,2022 Alabama Commissioner of Agriculture and Industries election,Candidate,Jason Clark,Libertarian,168529.0,15.01,False,False,2022 Alabama Commissioner of Agriculture and Industries election

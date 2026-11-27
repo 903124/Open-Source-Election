@@ -477,8 +477,8 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,California,CA,State House,70,general,Tri Ta,Republican,72475,47.9,False,True
 2026,California,CA,State House,71,general,Kate Sanchez,Republican,105401,53.4,True,True
 2026,California,CA,State House,71,general,JJ Galvez,Democratic,91819,46.6,False,False
-2026,California,CA,State House,72,general,Chris Kluwe,Democratic,110465,50.2,True,False
-2026,California,CA,State House,72,general,Gracey Van Der Mark,Republican,109572,49.8,False,False
+2026,California,CA,State House,72,general,Chris Kluwe,Democratic,110558,50.2,True,False
+2026,California,CA,State House,72,general,Gracey Van Der Mark,Republican,109625,49.8,False,False
 2026,California,CA,State House,73,general,Cottie Petrie-Norris,Democratic,98437,64.2,True,True
 2026,California,CA,State House,73,general,Urson Russell,Republican,54951,35.8,False,False
 2026,California,CA,State House,74,general,Sergio Farias,Democratic,102139,51.9,True,False
@@ -1198,25 +1198,34 @@ year,state,state_code,chamber,district,race,candidate,party,votes,percentage,win
 2026,Georgia,GA,State House,160,general,Lehman Franklin,Republican,13487,100.0,True,True
 2026,Georgia,GA,State House,161,general,David Dillie,Democratic,11488,51.8,True,False
 2026,Georgia,GA,State House,161,general,Bill Hitchens,Republican,10670,48.2,False,True
-2026,Georgia,GA,State House,162,general,uncontested,Democratic,,,True,False
-2026,Georgia,GA,State House,163,general,uncontested,Democratic,,,True,False
-2026,Georgia,GA,State House,164,general,D+5.1,Republican,,,True,False
-2026,Georgia,GA,State House,165,general,uncontested,Democratic,,,True,False
-2026,Georgia,GA,State House,166,general,R+29.0,Republican,,,True,False
-2026,Georgia,GA,State House,167,general,R+24.0,Republican,,,True,False
-2026,Georgia,GA,State House,168,general,D+36.8,Democratic,,,True,False
-2026,Georgia,GA,State House,169,general,uncontested,Republican,,,True,False
-2026,Georgia,GA,State House,170,general,uncontested,Republican,,,True,False
-2026,Georgia,GA,State House,171,general,uncontested,Republican,,,True,False
-2026,Georgia,GA,State House,172,general,uncontested,Republican,,,True,False
-2026,Georgia,GA,State House,173,general,R+15.8,Republican,,,True,False
-2026,Georgia,GA,State House,174,general,R+55.1,Republican,,,True,False
-2026,Georgia,GA,State House,175,general,R+29.9,Republican,,,True,False
-2026,Georgia,GA,State House,176,general,R+41.1,Republican,,,True,False
-2026,Georgia,GA,State House,177,general,uncontested,Democratic,,,True,False
-2026,Georgia,GA,State House,178,general,R+63.9,Republican,,,True,False
-2026,Georgia,GA,State House,179,general,uncontested,Republican,,,True,False
-2026,Georgia,GA,State House,180,general,},Republican,,,True,False
+2026,Georgia,GA,State House,162,general,Orlando Scott,Democratic,16231,100.0,True,False
+2026,Georgia,GA,State House,163,general,Anne Allen Westbrook,Democratic,17297,100.0,True,True
+2026,Georgia,GA,State House,164,general,Stephanie Burgess,Democratic,12461,52.6,True,False
+2026,Georgia,GA,State House,164,general,Ron Stephens,Republican,11243,47.4,False,True
+2026,Georgia,GA,State House,165,general,MiQuan Green,Democratic,17610,100.0,True,False
+2026,Georgia,GA,State House,166,general,Jesse Petrea,Republican,20998,64.5,True,True
+2026,Georgia,GA,State House,166,general,Pat Daley,Democratic,11559,35.5,False,False
+2026,Georgia,GA,State House,167,general,Buddy DeLoach,Republican,13265,62.0,True,True
+2026,Georgia,GA,State House,167,general,Nathaniel Hicks Jr.,Democratic,8131,38.0,False,False
+2026,Georgia,GA,State House,168,general,Al Williams,Democratic,11452,68.4,True,True
+2026,Georgia,GA,State House,168,general,Kevin Remillard,Republican,5283,31.6,False,False
+2026,Georgia,GA,State House,169,general,Angie O'Steen,Republican,14909,100.0,True,True
+2026,Georgia,GA,State House,170,general,Jaclyn Ford,Republican,15191,100.0,True,True
+2026,Georgia,GA,State House,171,general,Joe Campbell,Republican,13513,100.0,True,True
+2026,Georgia,GA,State House,172,general,Charles Cannon,Republican,13917,100.0,True,True
+2026,Georgia,GA,State House,173,general,Darlene Taylor,Republican,11820,57.9,True,True
+2026,Georgia,GA,State House,173,general,Adam Chitwood,Democratic,8594,42.1,False,False
+2026,Georgia,GA,State House,174,general,John Corbett,Republican,13641,77.5,True,True
+2026,Georgia,GA,State House,174,general,David Hall,Democratic,3950,22.5,False,False
+2026,Georgia,GA,State House,175,general,John LaHood,Republican,14274,64.9,True,True
+2026,Georgia,GA,State House,175,general,Anissa Wiseman,Democratic,7713,35.1,False,False
+2026,Georgia,GA,State House,176,general,James Burchett,Republican,11617,70.6,True,True
+2026,Georgia,GA,State House,176,general,Marcus Ryan,Democratic,4849,29.4,False,False
+2026,Georgia,GA,State House,177,general,Elsie Napier,Democratic,11540,100.0,True,False
+2026,Georgia,GA,State House,178,general,Steven Meeks,Republican,16602,82.0,True,True
+2026,Georgia,GA,State House,178,general,Barry Dunham,Democratic,3653,18.0,False,False
+2026,Georgia,GA,State House,179,general,Rick Townsend,Republican,16231,100.0,True,True
+2026,Georgia,GA,State House,180,general,Steven Sainz,Republican,16287,100.0,True,True
 2026,Hawaii,HI,State House,14,general,Pāʻele Kiakona,Green,2991,42.1,True,False
 2026,Hawaii,HI,State House,14,general,Sne Patel,Democratic,2884,40.6,False,False
 2026,Hawaii,HI,State House,14,general,Elle Cochran,Republican,1236,17.4,False,True
