@@ -735,7 +735,7 @@ year,level,state,state_code,district,total_votes,candidate,party,votes,percentag
 2026,house,Virginia,VA,11,,James Walkinshaw,Democratic,,100.0,True,False,False
 2026,house,Washington,WA,1,,Suzan DelBene,Democratic,,100.0,True,False,False
 2026,house,Washington,WA,2,,Rick Larsen,Democratic,,100.0,True,False,False
-2026,house,Washington,WA,3,,Marie Gluesenkamp Perez,Democratic,,100.0,True,False,False
+2026,house,Washington,WA,3,355198,Marie Gluesenkamp Perez,Democratic,190680,100.0,True,False,False
 2026,house,Washington,WA,4,,Amanda McKinney,Republican,,100.0,True,False,True
 2026,house,Washington,WA,5,,Michael Baumgartner,Republican,,100.0,True,False,False
 2026,house,Washington,WA,6,,Emily Randall,Democratic,,100.0,True,False,False

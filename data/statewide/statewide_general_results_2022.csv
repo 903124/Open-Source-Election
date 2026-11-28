@@ -520,7 +520,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2022,South Carolina,SC,attorney general,2022 South Carolina Attorney General election,Total,,,1256789.0,100.0,False,False,2022 South Carolina Attorney General election
 2022,South Carolina,SC,secretary of state,2022 South Carolina Secretary of State election,Winning,Mark Hammond,Republican,1071451.0,63.33,True,True,2022 South Carolina Secretary of State election
 2022,South Carolina,SC,secretary of state,2022 South Carolina Secretary of State election,Candidate,Rosemounda Peggy Butler,Democratic,619341.0,36.61,False,False,2022 South Carolina Secretary of State election
-2022,South Carolina,SC,secretary of state,2022 South Carolina Secretary of State election,Write-in,,,1109.0,0.07,False,False,2022 South Carolina Secretary of State election
+2022,South Carolina,SC,secretary of state,2022 South Carolina Secretary of State election,Write-in,,,1109.0,0.06,False,False,2022 South Carolina Secretary of State election
 2022,South Carolina,SC,secretary of state,2022 South Carolina Secretary of State election,Total,,,1691901.0,100.0,False,False,2022 South Carolina Secretary of State election
 2022,South Carolina,SC,state treasurer,2022 South Carolina Treasurer election,Winning,Curtis Loftis,Republican,1129961.0,79.67,True,True,2022 South Carolina State Treasurer election
 2022,South Carolina,SC,state treasurer,2022 South Carolina Treasurer election,Candidate,Sarah E. Work,Alliance,281.0,19.86,False,False,2022 South Carolina State Treasurer election
@@ -579,7 +579,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2022,Texas,TX,state treasurer,2022 Texas Comptroller of Public Accounts election,Total,,,7973593.0,100.0,False,False,2022 Texas Comptroller of Public Accounts election
 2022,Texas,TX,land commissioner,2022 Texas Land Commissioner election,Winning,Dawn Buckingham,Republican,4463452.0,56.15,True,False,2022 Texas Land Commissioner election
 2022,Texas,TX,land commissioner,2022 Texas Land Commissioner election,Candidate,Jay Kleberg,Democratic,3350291.0,42.15,False,False,2022 Texas Land Commissioner election
-2022,Texas,TX,land commissioner,2022 Texas Land Commissioner election,Candidate,Alfred Molison Jr.,Green,133034.0,1.67,False,False,2022 Texas Land Commissioner election
+2022,Texas,TX,land commissioner,2022 Texas Land Commissioner election,Candidate,Alfred Molison Jr.,Green,133034.0,1.7,False,False,2022 Texas Land Commissioner election
 2022,Texas,TX,land commissioner,2022 Texas Land Commissioner election,Total,,,7948589.0,100.0,False,False,2022 Texas Land Commissioner election
 2022,Texas,TX,railroad commissioner,2022 Texas Railroad Commissioner election,Winning,Wayne Christian,Republican,4401187.0,55.37,True,True,2022 Texas Railroad Commissioner election
 2022,Texas,TX,railroad commissioner,2022 Texas Railroad Commissioner election,Candidate,Luke Warford,Democratic,3222305.0,40.54,False,False,2022 Texas Railroad Commissioner election
@@ -689,7 +689,7 @@ year,state,state_code,office,election,row_type,candidate,party,votes,percentage,
 2022,Texas,TX,judicial,Place 6 – 2022 Texas Court of Criminal Appeals Place 6 election,Total,,,7910012.0,100.0,False,False,2022 Texas elections
 2022,Texas,TX,land commissioner,2022 Texas Land Commissioner election,Winning,Dawn Buckingham,Republican,4463452.0,56.15,True,False,2022 Texas elections
 2022,Texas,TX,land commissioner,2022 Texas Land Commissioner election,Candidate,Jay Kleberg,Democratic,3350291.0,42.15,False,False,2022 Texas elections
-2022,Texas,TX,land commissioner,2022 Texas Land Commissioner election,Candidate,Alfred Molison Jr.,Green,133034.0,1.67,False,False,2022 Texas elections
+2022,Texas,TX,land commissioner,2022 Texas Land Commissioner election,Candidate,Alfred Molison Jr.,Green,133034.0,1.7,False,False,2022 Texas elections
 2022,Texas,TX,land commissioner,2022 Texas Land Commissioner election,Total,,,7948589.0,100.0,False,False,2022 Texas elections
 2022,Texas,TX,state board of education,District 1 – 2022 Texas Board of Education 1st district election,Winning,Melissa Ortega,Democratic,247093.0,55.79,True,False,2022 Texas elections
 2022,Texas,TX,state board of education,District 1 – 2022 Texas Board of Education 1st district election,Candidate,Michael Stevens,Republican,195794.0,44.21,False,False,2022 Texas elections
